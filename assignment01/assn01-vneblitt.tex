@@ -141,14 +141,14 @@ N --> D
 
 \textbf{For the graph above, give the values for: IN, SCC, OUT, Tendrils, Tubes, and Disconnected.}
 
-\newpage
+The only nodes I am reasonably sure about is that both E and F are disconnected. They have no connection to any of the other nodes and while F has E linking to it, nothing links to E. I started with D since it had a lot of links to it with no links coming out. This seemed to match with OUT. H had a similar situation. L links to D and nothing links to L so it looks like a Tendril. K has a similar situation. With this model it seems that all nodes are defined by their relationship directly or indirectly to SCC, but it was still hard to determine which nodes were SCC. A, B, C, G, N allows INs or other SCCs to pass through to OUTs. M is linking to an SCC so it is an IN. If I is an IN, then J is a Tube since it is not an SCC and I is reaching D without an SCC. Figure 12 is my diagram of the nodes.
 
 \begin{itemize}
-\item IN:
-\item SCC:
-\item OUT:
-\item Tendrils:
-\item Tubes:
+\item IN: I, M
+\item SCC: A, B, C, G, N
+\item OUT: D, H
+\item Tendrils: L, K
+\item Tubes: J
 \item Disconnected: E, F
 \end{itemize}
 
