@@ -3,12 +3,12 @@
 # Fall 2013
 # Assignment #1 Question #2
 
-print("This is my answer for Assignment#1 Question#2")
-
 from bs4 import BeautifulSoup
 import urllib.request
 import sys
 import time
+
+print("This is my answer for Assignment#1 Question#2")
 
 school = sys.argv[1]
 timeout = sys.argv[2]
@@ -56,7 +56,6 @@ while True:
 
 #print team names and corresponding scores
 
-    print(visitornamedisplay +': '+ visitorscoredisplay)
-    print(homenamedisplay +': '+ homescoredisplay)
+    print(visitornamedisplay +': '+ visitorscoredisplay + ', ' + homenamedisplay +': '+ homescoredisplay)
 
     time.sleep(int(timeout))

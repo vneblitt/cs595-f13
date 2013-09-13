@@ -5,6 +5,7 @@
 \usepackage{listings}
 \usepackage{graphicx}
 \usepackage[margin=1in]{geometry}
+\usepackage{float}
 \lstset{breaklines=true}
 \begin{document}
 
@@ -24,22 +25,22 @@ curl --data "fragment=%3Cp%3ECurrently I am 40 years old and an academic systems
 
 The four screenshots below illustrate the difference in how the page was rendered when using the browser versus cURL to fill out the form. Figures 1 \& 2 show the browser version and Figures 3 \& 4 show the cURL version. Although the stylesheet and images are missing from the cURL version, the same information is present.
 
-\begin{figure}
+\begin{figure}[H]
 \includegraphics[scale=0.30]{w3cMarkupValidationServiceNormal01}
 \caption{This is the top half of the screen representing output when the browser was used to fill out the form}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 \includegraphics[scale=0.30]{w3cMarkupValidationServiceNormal02}
 \caption{This is the bottom half of the screen representing output when the browser was used to fill out the form}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 \includegraphics[scale=0.30]{w3cMarkupValidationServiceCurl01}
 \caption{This is the top half of the screen representing output when cURL was used to fill out the form}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 \includegraphics[scale=0.30]{w3cMarkupValidationServiceCurl02}
 \caption{This is the bottom half of the screen representing output when cURL was used to fill out the form}
 \end{figure}
@@ -48,7 +49,70 @@ The four screenshots below illustrate the difference in how the page was rendere
 
 \section{Python Exercise}
 \textbf{Write a Python program that:
-(1)Takes one argument, like "Old Dominion" or "Virginia Tech" (2) takes another argument specified in seconds (e.g., "60" for one minute) (3) takes a URI as a third argument: \url{http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2013&seasonType=2&weekNumber=2} \textbf{OR} \url{http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2013&seasonType=2&weekNumber=1} \textbf{OR} \url{http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2012&seasonType=2&weekNumber=1} etc. and (4) downloads the URI, finds the game corresponding to the team argument, prints out the current score (e.g., "Old Dominion 27, East Carolina 17), sleeps for the specified seconds, and then repeats (until control-C is hit).}
+(1)Takes one argument, like "Old Dominion" or "Virginia Tech" (2) takes another argument specified in seconds (e.g., "60" for one minute) (3) takes a URI as a third argument: \url{http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2013&seasonType=2&weekNumber=2} \textbf{OR} \url{http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2013&seasonType=2&weekNumber=1} \textbf{OR} \url{http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2012&seasonType=2&weekNumber=1} etc. and (4) downloads the URI, finds the game corresponding to the team argument, prints out the current score (e.g., "Old Dominion 27, East Carolina 17), sleeps for the specified seconds, and then repeats (until control-C is hit).} 
+
+
+\subsection*{The Code}
+
+I used Beautiful Soup for this exercise since it was highly advised by classmates. I also needed to use specifically urllib.request since I was using Python 3.3.2. The sys library was used for support accepting arguments from the command line and time was used to support the "sleep" requirement. See Figure 5 for libraries. I used a curl command to capture a live page and use it for testing, but when the code was ready I changed from using the static file to using the live page (Fig. 6). Using "Inspect Element" on Chrome or Firebug on Firefox, I reviewed the page source for the web page and identified tags and attributes containing the pertinent information. Mod-Content (Fig. 7) was the smallest element that contained all the relevant information. Within Mod-Content, Team Visitor and Score classes and Team Home and Score classes held the team name and score (Figs. 8 and 9). I had to run through the <li> tags to find the last score and that method allowed for finding the score even if the game was not over. Once all the information was identified and could be referenced, I was able to create the print statement to output the team names and scores and the statement to time out after the specified seconds in the second argument (Fig. 10). The while statement in Figure 6 was used to make the program continue to look for and output the current score.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.50]{libraries}
+\caption{Libraries Used for Exercise}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.50]{getpageandloop}
+\caption{Fetching the web page}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.50]{startparsing}
+\caption{Libraries Used for Exercise}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.40]{findvisitorteaminfo}
+\caption{Code segment for Collecting Visitor Team Information}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.40]{findhometeaminfo}
+\caption{Code segment for for Collecting Home Team Information}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.40]{printandend}
+\caption{Code segment for Final Output and Time Out}
+\end{figure}
+
+\subsection*{The Execution}
+
+Figure 11 shows the execution of the code. The arguments were:
+
+\begin{enumerate}
+\item school = Troy
+\item timeout = 10
+\item uri = \url"http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2013&seasonType=2&weekNumber=3"
+\end{enumerate}
+
+I ran the program during a game that had not finished to test that it would reflect score changes. You can see in the last line that Troy went from 0 to 6 points. You can also see that the program terminates after using Ctrl-C.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.40]{endingOutput}
+\caption{Running the Program}
+\end{figure}
+
+\subsection*{Further Work}
+It seems like I should have been able to have some functions in here so maybe the code is not as elegant as it could be. Furthermore, it does not handle the situation where the "school" is not found on the page well. I had to remind the cataloger in me that the exercise's intention was to learn how to scrape a web page when I desperately wanted to institute name authority control. Name authority control would have taken care of the ODU v. Old Dominion v. Old Dominion University input problem. However, a cursory calculation of the number of schools represented revealed at least 120 schools potentially needing name authority control.
+
 
 \newpage
 
@@ -79,22 +143,17 @@ N --> D
 
 \newpage
 
-\begin{table}
-\centering
-\caption{Nodes in Each Category}
-\begin{tabular}{l | l}
-\hline
-IN & \\ \hline
-SCC &  \\ \hline
-OUT & \\ \hline
-Tendrils & \\ \hline
-Disconnected &  \\
-\hline
-\end{tabular}
-\end{table}
+\begin{itemize}
+\item IN:
+\item SCC:
+\item OUT:
+\item Tendrils:
+\item Tubes:
+\item Disconnected: E, F
+\end{itemize}
 
 
-\begin{figure}
+\begin{figure}[H]
 \centering
 \includegraphics[scale=0.50]{assn01Q03}
 \caption{Visual representation of the connecting nodes}
