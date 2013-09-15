@@ -11,8 +11,8 @@ ACCESS_TOKEN_URL = "https://api.twitter.com/oauth/access_token"
 CONSUMER_KEY = "tJddXvSjQTw2RVzhcs22VQ"
 CONSUMER_SECRET = "DL9PQntlfAxnk4Z6lxh51LwRbrkKYyuko5nrN3LUQ"
 
-OAUTH_TOKEN = ""
-OAUTH_TOKEN_SECRET = ""
+OAUTH_TOKEN = "34775622-NPSdzhU22Oc5Xcx6DVVEwHnyVALoK0F4lkrvxvx04"
+OAUTH_TOKEN_SECRET = "z2UkULqtyCOH4DzBBtHbJ0ohF8zEx4BkCssjuFR6hQ"
 
 
 def setup_oauth():
@@ -61,5 +61,12 @@ if __name__ == "__main__":
         print( )
     else:
         oauth = get_oauth()
-        r = requests.get(url="https://api.twitter.com/1.1/statuses/mentions_timeline.json", auth=oauth)
-        print( r.json() )
+        screen_name1 = "MMFlint"
+        count = "200"
+        max_id = "1000000000000000000"
+            uri = "https://api.twitter.com/1.1/statuses/user_timeline.json?" + "screen_name=" + screen_name1 + "&count=" + count + "&" + max_id
+        r = requests.get(uri, auth=oauth)
+        l = r.json()
+        for tweet in l:
+            print(tweet['id'],tweet['text'])              
+        print(len(l))
