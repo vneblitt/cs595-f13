@@ -60,6 +60,8 @@ if __name__ == "__main__":
         print( )
     else:
         oauth = get_oauth()
+
+        f = open('tweetlink.txt', 'w')
         
         print("Michael Moore Tweets")
         print("")
@@ -70,13 +72,16 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
                 pass
 
-        print("")
+        f.close()
+
+        '''print("")
         print("Rachel Maddow Tweets")
         print("")
         screen_name2 = "maddow"
@@ -474,4 +479,4 @@ if __name__ == "__main__":
             except UnicodeEncodeError:
                 pass
             except IndexError:
-                pass
+                pass'''
