@@ -79,9 +79,7 @@ if __name__ == "__main__":
             except IndexError:
                 pass
 
-        f.close()
-
-        '''print("")
+        print("")
         print("Rachel Maddow Tweets")
         print("")
         screen_name2 = "maddow"
@@ -91,7 +89,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -107,7 +106,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -123,7 +123,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -139,7 +140,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -155,7 +157,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -171,7 +174,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -187,7 +191,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -203,7 +208,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -219,7 +225,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -235,7 +242,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -251,7 +259,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -267,7 +276,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -283,7 +293,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -299,7 +310,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -315,7 +327,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -331,7 +344,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -347,7 +361,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -363,7 +378,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -379,7 +395,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -395,7 +412,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -411,7 +429,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -427,7 +446,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -443,7 +463,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -459,7 +480,8 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
@@ -475,8 +497,28 @@ if __name__ == "__main__":
         l = r.json()
         for tweet in l:
             try:
-                print(tweet['id'],tweet['entities']['urls'][0]['expanded_url'])
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
             except UnicodeEncodeError:
                 pass
             except IndexError:
-                pass'''
+                pass
+
+        print("")
+        print("Neil deGrasse Tyson Tweets")
+        print("")
+        screen_name27 = "neiltyson"
+        count = "200"
+        uri = "https://api.twitter.com/1.1/statuses/user_timeline.json?" + "screen_name=" + screen_name27 + "&count=" + count
+        r = requests.get(uri, auth=oauth)
+        l = r.json()
+        for tweet in l:
+            try:
+                f.write(tweet['entities']['urls'][0]['expanded_url'])
+                f.write("\n")
+            except UnicodeEncodeError:
+                pass
+            except IndexError:
+                pass
+
+        f.close()
