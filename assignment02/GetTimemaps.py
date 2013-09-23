@@ -6,6 +6,7 @@
 import re
 import time
 import urllib.request
+import os
 
 start = time.localtime()
 print('Start time is: ' + time.asctime(start))
@@ -21,7 +22,7 @@ print('Start time is: ' + time.asctime(start))
 
 pattern = re.compile('rel="[(first | last)]*memento"')
 
-f = open('testTimeMapURIs.txt', 'r')
+f = open('uniqueURIs2.txt', 'r')
 s = open('timeMapResults.txt', 'w')
 
 uriprepend = 'http://mementoproxy.cs.odu.edu/aggr/timemap/link/'
@@ -35,10 +36,14 @@ for line in f:
         timemap = r.read()
         c = pattern.findall(timemap.decode('utf-8'))
         #print(line.rstrip() + " produces " + str(len(c)) + " timemaps")
-        s.write(line.rstrip() + " produces " + str(len(c)) + " timemaps\n")
+        s.write(line.rstrip() + ", " + str(len(c)) + "\n")
+        s.flush()
+        os.fsync(s.fileno())
     except urllib.error.HTTPError:
         #print('No TimeMaps found for ' + line)
-        s.write(line.rstrip() + " produces zero timemaps\n")
+        s.write(line.rstrip() + ", 0\n")
+        s.flush()
+        os.fsync(s.fileno())
         pass
 
 
