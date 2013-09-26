@@ -13,83 +13,61 @@
 
 \title{CS595 Intro to Web Science, Assignment \#2}
 \author{Valentina Neblitt-Jones}
-\date{September 19, 2013}
+\date{September 26, 2013}
 \maketitle
 
-\section{Link Extraction from Twitter Exercise}
+\section{Link Extraction from Twitter}
 \textbf {Write a Python program that extracts 1000 unique links from Twitter. You might want to take a look at: \url{http://thomassileo.com/blog/2013/01/25/using-twitter-rest-api-v1-dot-1-with-python/}. But there are many other similar resources available on the web. Note that only Twitter API 1.1 is currently available; version 1 code will no longer work. Also note that you need to verify that the final target URI (i.e., the one that responds with a 200) is unique. You could have different shortened URIs for www.cnn.com. You might want to use the search feature (Figure \ref{turtle}) to find URIs, or you can pull them from the feed of someone famous (e.g., Tim O'Reilly). Hold on to this collection. We'll use it later through the semester.}
 
 
-\subsection*{The Code}
+\subsection*{The Files}
+Files Used to Complete Q1
 
-\begin{lstlisting}
+\begin{enumerate}
+\item TwitterLink.py - Gathering tweets from 27 users
+\item tweetlink.txt - File created by TwitterLink.py - contains URIs retrieved from tweet
+\item UnpackURIs.py - Unshorten links from tweets
+\item unpackedURLs.txt - File created by UnpackURIs.py - contains full URIs
+\item DedupeURIs.py - Remove duplicate URIs
+\item uniqueURIs.txt - File created by DedupeURIs - contains unique URIs
+\end{enumerate}
 
-# -*- encoding: utf-8 -*-
-from __future__ import unicode_literals
-import requests
-from requests_oauthlib import OAuth1
-from urlparse import parse_qs
+\subsection*{Tweeters}
+I used 27 tweeters. I could have used less by continuing to loop through some of the more prolific tweeters' timelines, but I thought more tweeters would provide a better variety of links.
 
-REQUEST_TOKEN_URL = "https://api.twitter.com/oauth/request_token"
-AUTHORIZE_URL = "https://api.twitter.com/oauth/authorize?oauth_token="
-ACCESS_TOKEN_URL = "https://api.twitter.com/oauth/access_token"
-
-CONSUMER_KEY = "YOUR_CONSUMER_KEY"
-CONSUMER_SECRET = "YOUR CONSUMER_SECRET"
-
-OAUTH_TOKEN = ""
-OAUTH_TOKEN_SECRET = ""
-
-
-def setup_oauth():
-    """Authorize your app via identifier."""
-    # Request token
-    oauth = OAuth1(CONSUMER_KEY, client_secret=CONSUMER_SECRET)
-    r = requests.post(url=REQUEST_TOKEN_URL, auth=oauth)
-    credentials = parse_qs(r.content)
-    
-    resource_owner_key = credentials.get('oauth_token')[0]
-    resource_owner_secret = credentials.get('oauth_token_secret')[0]
-    
-    # Authorize
-    authorize_url = AUTHORIZE_URL + resource_owner_key
-    print 'Please go here and authorize: ' + authorize_url
-    
-    verifier = raw_input('Please input the verifier: ')
-    oauth = OAuth1(CONSUMER_KEY,
-                   client_secret=CONSUMER_SECRET,
-                   resource_owner_key=resource_owner_key,
-                   resource_owner_secret=resource_owner_secret,
-                   verifier=verifier)
-    
-    # Finally, Obtain the Access Token
-    r = requests.post(url=ACCESS_TOKEN_URL, auth=oauth)
-    credentials = parse_qs(r.content)
-    token = credentials.get('oauth_token')[0]
-    secret = credentials.get('oauth_token_secret')[0]
-    
-    return token, secret
+\begin{itemize}
+\item Michael Moore
+\item Rachel Maddow
+\item New York Times
+\item Sesame Street
+\item The Daily Show
+\item Washington Post
+\item Barack Obama
+\item Cory Booker
+\item Joel Spolsky
+\item Governor Christie
+\item Planned Parenthood
+\item National Zoo
+\item United Nations
+\item Washington City Paper
+\item Entertainment Weekly
+\item TMZ
+\item NPR
+\item Virginia Tech News
+\item New York Public Library
+\item Library of Congress
+\item Chicago Sun Times
+\item Chicago Tribune
+\item USA.gov
+\item Harvard University
+\item NFL
+\item NPR News
+\item Neil deGrasse Tyson
+\end{itemize}
 
 
-def get_oauth():
-    oauth = OAuth1(CONSUMER_KEY,
-                   client_secret=CONSUMER_SECRET,
-                   resource_owner_key=OAUTH_TOKEN,
-                   resource_owner_secret=OAUTH_TOKEN_SECRET)
-    return oauth
-
-if __name__ == "__main__":
-    if not OAUTH_TOKEN:
-        token, secret = setup_oauth()
-        print "OAUTH_TOKEN: " + token
-        print "OAUTH_TOKEN_SECRET: " + secret
-        print
-    else:
-        oauth = get_oauth()
-        r = requests.get(url="https://api.twitter.com/1.1/statuses/mentions_timeline.json", auth=oauth)
-        print r.json()
-
-\end{lstlisting}
+%\begin{lstlisting}
+%\end{lstlisting}
 
 \subsection*{The Execution}
 
@@ -114,6 +92,15 @@ if __name__ == "__main__":
 
 \textbf{Create a histogram of URIs vs. number of Mementos (as computed from the TimeMaps). For example, 100 URIs with 0 Mementos, 300 URIs with 1 Memento, 400 URIs with 2 Mementos, etc.}
 
+\subsection*{The Files}
+Files Used to Complete Q2
+
+\begin{enumerate}
+\item uniqueURIs2.txt - Copy of file created by DedupeURIs - contains unique URIs
+\item GetTimemaps.py - Loops through unique URIs to aggregate and count the number of mementos for each
+\item timeMapResults.txt - Output of the URIs and number of mementos found for each
+\item TimeMapAnalysis.xslx - Excel workbook that has the raw data, processed data and the histogram
+\end{enumerate}
 
 
 
