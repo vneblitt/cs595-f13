@@ -9,6 +9,8 @@ from getBacklinks import *
 from getLowest import getLowest
 from getLastModified import getLastModifiedDate
 import sys
+import os
+import time
 
 #---------------------------------------------------------------------------------------#
 #--------------------------Function call to aggregate results---------------------------#
@@ -32,7 +34,7 @@ def carbonDate(url):
 	lowest = getLowest([bitly,topsy,google,backlink,lastmodified,archives["Earliest"]])
 	print "Got Lowest"
 
-	result = []
+	'''result = []
 	result.append(("URI", url))
 	result.append(("Estimated Creation Date", lowest))
 	result.append(("Last Modified", lastmodified))
@@ -43,12 +45,36 @@ def carbonDate(url):
 	result.append(("Archives", archives))
 	values = OrderedDict(result)
 	r = json.dumps(values, sort_keys=False, indent=2, separators=(',', ': '))
-	print r
-	return r
+	print r'''
+	return lowest
    
 
-if(len(sys.argv)!=2):
+if(len(sys.argv)!=3):
 	print "wrong format"
 else:
-	url = sys.argv[1]
-	carbonDate(url)
+        start = time.localtime()
+        print 'Start time is: ' + time.asctime(start)
+        
+        inputfile = sys.argv[1]
+        outputfile = sys.argv[2]
+        f = open(inputfile)
+        s = open(outputfile, 'w')
+        for line in f:
+                line = line.strip()
+                (url, count) = line.split(', ')
+                cd = carbonDate(url)
+                s.write(url + '\t' + count + '\t' + cd + '\n')
+                s.flush()
+                os.fsync(s.fileno())
+        f.close()
+        s.close()
+
+        finish = time.localtime()
+        print 'Done. Finish time is: ' + time.asctime(finish)
+
+#Flush output
+#http://stackoverflow.com/questions/230751/how-to-flush-output-of-python-print
+        
+
+
+
