@@ -8,7 +8,7 @@
 
 import datetime
 
-f = open('testDateResults.txt', 'r')
+f = open('carbonDateResults.txt', 'r')
 s = open('URIAgeResults.txt', 'w')
 
 for line in f:
