@@ -1,0 +1,525 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	USDA Calculator
+</title>
+      <script type="text/javascript">
+
+function onPerformRecalc()
+{
+    document.forms[0].submit();  
+}
+function onPerformDoOver()
+{    
+       document.getElementById('ctl00_ContentPlaceHolderCalculator_HiddenfieldSartOver').value="1";
+       document.forms[0].submit();       
+}
+</script>
+
+ 
+   
+   
+    <!--<base href="http://www.cnpp.usda.gov/" />-->
+    <!--<base target="_blank" />-->
+<!--DO NOT DELETE OR ALTER THE FOLLOWING SCRIPTS--->
+
+
+<link href="http://www.usda.gov/includes/usdastyle.css" rel="styleSheet" type="text/css" /><link href="CSS/USDA.css" rel="stylesheet" type="text/css" />
+
+
+<SCRIPT language="JavaScript1.2" src="http://www.usda.gov/includes/main.js" type="text/javascript"></SCRIPT>
+<!---END OF SCRIPTS--->
+
+<script language="JavaScript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+<body bgcolor="#4B99C3" topmargin="10" onload="FP_preloadImgs(/*url*/'http://www.usda.gov/images/general/button7.jpg', /*url*/'http://www.usda.gov/images/general/button11.jpg'); preloadimages()" style="background-color: #369">
+<a href="#skipto-content" alt="Skip repetitive navigation links"></a>
+<div align="center">
+	<table border="0" width="767" id="table1" cellspacing="0" cellpadding="0">
+		<tr>
+			<td colspan="3" width="767" bgcolor="#FFFFFF">
+			<map name="FPMap0">
+			<area href="http://www.usda.gov" shape="rect" coords="11, 9, 66, 47">
+			</map>
+			<img border="0" src="http://www.cnpp.usda.gov/images/top-nav/cnppbanner.gif" width="767" height="53" alt="USDA Food &amp; Nutrition Service" usemap="#FPMap0"></td>
+		</tr>
+		<tr>
+			<td colspan="3" width="767" bgcolor="#FFFFFF">
+			<img border="0" src="http://www.cnpp.usda.gov/images/top-nav/masthead.gif" width="767" height="52"></td>
+		</tr>
+		<!-- begin top nav bar -->
+		<!--<tr>
+			<td bgcolor="#FFFFFF" colspan="3" width="767">
+			<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table2">
+				<tr>
+				        <td bgcolor="#FFFFFF" colspan="3" width="100%">
+			                <table border="0" width="100%" cellspacing="0" cellpadding="0" id="table3">
+				            <tr><td>
+					            <img border="0" src="http://www.cnpp.usda.gov/images/top-nav/top_nav_leftspacer.gif" width="330" height="25"><img border="0" src="http://www.cnpp.usda.gov/images/top-nav/top_nav_spacer.gif" width="1" height="21"><a href="http://www.cnpp.usda.gov/default.htm" onmouseover="image1.src='http://www.cnpp.usda.gov/images/top-nav/top_nav_home_on.gif';" onmouseout="image1.src='http://www.cnpp.usda.gov/images/top-nav/top_nav_home_off.gif';"><img name="image1" src="http://www.cnpp.usda.gov/images/top-nav/top_nav_home_off.gif" width="53" height="21" alt="Home"></a><img border="0" src="http://www.cnpp.usda.gov/images/top-nav/top_nav_spacer.gif" width="1" height="21"><a href="http://www.cnpp.usda.gov/AboutUs.htm" onmouseover="image2.src='http://www.cnpp.usda.gov/images/top-nav/top_nav_about_on.gif';" onmouseout="image2.src='http://www.cnpp.usda.gov/images/top-nav/top_nav_about_off.gif';"><img name="image2" src="http://www.cnpp.usda.gov/images/top-nav/top_nav_about_on.gif" width="74" height="21" alt="About CNPP"></a><img border="0" src="http://www.cnpp.usda.gov/images/top-nav/top_nav_spacer.gif" width="1" height="21"><a href="http://www.cnpp.usda.gov/newsroom.htm" onmouseover="image3.src='http://www.cnpp.usda.gov/images/top-nav/top_nav_news_on.gif';" onmouseout="image3.src='http://www.cnpp.usda.gov/images/top-nav/top_nav_news_off.gif';"><img name="image3" src="http://www.cnpp.usda.gov/images/top-nav/top_nav_news_off.gif" width="104" height="21" alt="Newsroom"></a><img border="0" src="http://www.cnpp.usda.gov/images/top-nav/top_nav_spacer.gif" width="1" height="21"><a href="http://www.cnpp.usda.gov/Publications.htm" onmouseover="image4.src='http://www.cnpp.usda.gov/images/top-nav/top_nav_publications_on.gif';" onmouseout="image4.src='http://www.cnpp.usda.gov/images/top-nav/top_nav_publications_off.gif';"><img name="image4" src="http://www.cnpp.usda.gov/images/top-nav/top_nav_publications_off.gif" alt="Help" width="90" height="21"></a><img border="0" src="http://www.cnpp.usda.gov/images/top-nav/top_nav_spacer.gif" width="1" height="21"><a href="http://www.cnpp.usda.gov/contacts.htm" onmouseover="image5.src='http://www.cnpp.usda.gov/images/top-nav/top_nav_contact_on.gif';" onmouseout="image5.src='http://www.cnpp.usda.gov/images/top-nav/top_nav_contact_off.gif';"><img name="image5" src="http://www.cnpp.usda.gov/images/top-nav/top_nav_contact_off.gif" width="81" height="21" alt="Contact US"></a>
+					        </td></tr>
+			                </table>
+			             </td>
+				
+					
+				</tr>
+			</table>
+			</td>
+		</tr>-->
+		<!-- end top nav bar -->
+		
+		<!-- begin bread crumbs -->
+		<tr>
+		 <td bgcolor="#FFFFFF" width="10" background="http://www.cnpp.usda.gov/images/left-side.gif">
+			<p>&nbsp;</p>
+			<p>&nbsp;
+		   </td>
+		<td bgcolor="#FFFFFF"  width="757">
+			<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table6">
+				<tr>
+				    <td width="30">&nbsp;</td>
+					<td>
+					  
+					     
+                      
+					</td>
+					</tr>
+			</table>
+			</td>
+	    <td bgcolor="#FFFFFF" width="1" background="http://www.cnpp.usda.gov/images/right-side.gif" />
+		
+			 	
+        </tr> <!--end bread crumbs-->                 
+		<!-- end bread crumb -->
+		
+		<!--begin main content-->
+		<tr>
+		   <td bgcolor="#FFFFFF" width="10" background="http://www.cnpp.usda.gov/images/left-side.gif">
+			<p>&nbsp;</p>
+			<p>&nbsp;
+		   </td>
+		   <td bgcolor="#FFFFFF" width="756">
+			  <table border="0" width="100%" cellspacing="0" cellpadding="0" id="table4">
+			  <tr>
+			  <!--begin Left Nav Bar -->
+			          
+			  <!--end Left Nav Bar -->
+			  <td>
+			  			   
+			   <form name="aspnetForm" method="post" action="default.aspx" id="aspnetForm">
+<input type="hidden" name="ctl00_RadScriptManager1_HiddenField" id="ctl00_RadScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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MHB4HwQoKwQEMTBweGRkZGQUKwACZBQrAAJkD2YUKwAAZBQrAAMWBB8DKCsEBDEwcHgfBCgrBAQxMHB4ZGRkZA9mFCsAABQrAANkZA9mFCsAABQrAAQUKwACZBQrAAUUKwADFCsAA2RkZBQrAAMWBB8DKCsEAzBweB8EKCsEAzBweGRkZGQUKwADFgQfAygrBAMwcHgfBCgrBAMwcHhkZBQrAAJkFCsAAmQPZhQrAABkFCsAAmQUKwAEFCsAAxQrAANkZGQUKwADFgQfAygrBAMwcHgfBCgrBAMwcHhkZGRkFCsAAmQUKwACZA9mFCsAAGQUKwACFCsAAmQUKwAFFCsAAxQrAANkZGQUKwADFgQfAygrBAQxMHB4HwQoKwQEMTBweGRkZGQUKwACZBQrAAJkD2YUKwAAZBQrAAMWBB8DKCsEBDEwcHgfBCgrBAQxMHB4ZGRkZBQrAAJkFCsAAxQrAAMUKwADZGRkFCsAAxYEHwMoKwQDMHB4HwQoKwQDMHB4ZGRkFCsAAmQUKwACZA9mFCsAAGQUKwACFCsABBQrAAJkFCsABBQrAAUUKwADFCsAA2RkZBQrAAMWBB8DKCsEAzBweB8EKCsEAzBweGRkZGQUKwADFgQfAygrBAMwcHgfBCgrBAMwcHhkZBQrAAJkFCsAAmQPZhQrAABkFCsABRQrAAMUKwADZGRkFCsAAxYEHwMoKwQDMHB4HwQoKwQDMHB4ZGRkZBQrAAMWBB8DKCsEAzBweB8EKCsEAzBweGRkFCsAAmQUKwACZA9mFCsAAGQUKwAFFCsAAxQrAANkZGQUKwADFgQfAygrBAQxMHB4HwQoKwQEMTBweGRkZGQUKwACZBQrAAJkD2YUKwAAZBQrAAMWBB8DKCsEBDEwcHgfBCgrBAQxMHB4ZGQUKwAEFCsAAxQrAANkZGQUKwADFgQfAygrBAMwcHgfBCgrBAMwcHhkZGRkFCsAAmQUKwACZA9mFCsAAGQUKwACZBQrAAQUKwADFCsAA2RkZBQrAAMWBB8DKCsEAzBweB8EKCsEAzBweGRkZGQUKwACZBQrAAJkD2YUKwAAZBQrAAIUKwACZBQrAAUUKwADFCsAA2RkZBQrAAMWBB8DKCsEBDEwcHgfBCgrBAQxMHB4ZGRkZBQrAAJkFCsAAmQPZhQrAABkFCsAAxYEHwMoKwQEMTBweB8EKCsEBDEwcHhkZGRkD2YUKwAAFCsABBQrAAJkFCsABRQrAAMUKwADZGRkFCsAAxYEHwMoKwQDMHB4HwQoKwQDMHB4FggeA1RvcCgrBAI0JR4FUmlnaHQoKwQEMTBweB4GQm90dG9tKCsEBDE0cHgeBExlZnQoKwQCNyVkZGQUKwADFgQfAygrBAMwcHgfBCgrBAMwcHgWCB8IKCsEAjQlHwkoKwQEMTBweB8KKCsEBDE0cHgfCygrBAI3JWQUKwACZBQrAAJkD2YUKwAAZBQrAAIWAh8ABR5PdmVyYWxsIEVzdGltYXRlZCBBbm51YWwgQ29zdHMUKwAEFCsAAxQrAANkZGQUKwADFgQfAygrBAMwcHgfBCgrBAMwcHhkZGRkFCsAAmQUKwACZA9mFCsAAGQUKwACFCsAAmQUKwAFFCsAAxQrAANkZGQUKwADFgQfAygrBAQxMHB4HwQoKwQEMTBweGRkZGQUKwACZBQrAAJkD2YUKwAAZBQrAAMWBB8DKCsEBDEwcHgfBCgrBAQxMHB4ZGRkZA9mFCsAAGRkAgMPZBYCZg9kFgJmD2QWAgIBDxYCHgVWYWx1ZQUBMGQCCQ8WAh8ABZkKPHAgc3R5bGU9InRleHQtYWxpZ246bGVmdCIgPjxiPlRoZSBOb3J0aGVhc3QgaW5jbHVkZXM8L2I+OiAgQ29ubmVjdGljdXQsIE1haW5lLCBNYXNzYWNodXNldHRzLCBOZXcgSGFtcHNoaXJlLCBOZXcgSmVyc2V5LCBOZXcgWW9yaywgUGVubnN5bHZhbmlhLCBSaG9kZSBJc2xhbmQsIGFuZCBWZXJtb250LjwvcD4NCjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmxlZnQiID48Yj5UaGUgU291dGggaW5jbHVkZXM8L2I+OiAgQWxhYmFtYSwgQXJrYW5zYXMsIERlbGF3YXJlLCBEaXN0cmljdCBvZiBDb2x1bWJpYSwgRmxvcmlkYSwgR2VvcmdpYSwgS2VudHVja3ksIExvdWlzaWFuYSwgTWFyeWxhbmQsIE1pc3Npc3NpcHBpLCBOb3J0aCBDYXJvbGluYSwgT2tsYWhvbWEsIFNvdXRoIENhcm9saW5hLCBUZW5uZXNzZWUsIFRleGFzLCBWaXJnaW5pYSwgYW5kIFdlc3QgVmlyZ2luaWEuPC9wPg0KPHAgc3R5bGU9InRleHQtYWxpZ246bGVmdCIgPjxiPlRoZSBNaWR3ZXN0IGluY2x1ZGVzPC9iPjogIElsbGlub2lzLCBJbmRpYW5hLCBJb3dhLCBLYW5zYXMsIE1pY2hpZ2FuLCBNaW5uZXNvdGEsIE1pc3NvdXJpLCBOZWJyYXNrYSwgTm9ydGggRGFrb3RhLCBPaGlvLCBTb3V0aCBEYWtvdGEsIGFuZCBXaXNjb25zaW4uPC9wPg0KPHAgc3R5bGU9InRleHQtYWxpZ246bGVmdCIgPjxiPlRoZSBXZXN0IGluY2x1ZGVzPC9iPjogIEFsYXNrYSwgQXJpem9uYSwgQ2FsaWZvcm5pYSwgQ29sb3JhZG8sIEhhd2FpaSwgSWRhaG8sIE1vbnRhbmEsIE5ldmFkYSwgTmV3IE1leGljbywgT3JlZ29uLCBVdGFoLCBXYXNoaW5ndG9uLCBhbmQgV3lvbWluZy48L3A+DQo8cCBzdHlsZT0idGV4dC1hbGlnbjpsZWZ0IiA+PGI+UnVyYWwgYXJlYXMgaW5jbHVkZTwvYj4gYW55IHRvd24gb3IgbXVuaWNpcGFsaXR5IHdpdGggYSBwb3B1bGF0aW9uIG9mIGZld2VyIHRoYW4gMiw1MDAgcGVvcGxlLjwvcD4NCjxiciAvPjxiciAvPg0KPHAgc3R5bGU9InRleHQtYWxpZ246bGVmdCIgPjxiPkltcG9ydGFudCBsZWdhbCBpbmZvcm1hdGlvbjwvYj46IFRoaXMgaXMgYW4gZWR1Y2F0aW9uYWwgdG9vbCBiYXNlZCBvbiBVU0RBJ3MgPGEgaHJlZj0iaHR0cDovL3d3dy5jbnBwLnVzZGEuZ292L0V4cGVuZGl0dXJlc29uQ2hpbGRyZW5ieUZhbWlsaWVzLmh0bSIgdGFyZ2V0PSJfYmxhbmsiPkV4cGVuZGl0dXJlcyBvbiBDaGlsZHJlbiBieSBGYW1pbGllcywgbW9zdCByZWNlbnQgcmVwb3J0PC9hPi4gVGhpcyB0b29sIGlzIG5vdCBhIHJlY29tbWVuZGF0aW9uIHRvIGJ1eSBvciBpbnZlc3QgaW4gYW55IHBhcnRpY3VsYXIgcHJvZHVjdCBvciBzZWN1cml0eS48L3A+ZGRYOX9LmxewpqZ5MnxP+XalMdRikw==" />
+
+
+<script src="/tools/CRC_Calculator/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_RadScriptManager1_HiddenField&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d3.5.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a7263e9c6-5962-41bc-b839-88b704bfcf0d%3aea597d4b%3bTelerik.Web.UI%2c+Version%3d2009.2.701.35%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a7e598a31-3beb-49a1-914c-5f530240f0ea%3a16e4e7cd%3aed16cbdc" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+			   
+			    
+			  
+			   
+					     
+                         
+                         
+         
+        <!-- 2009.2.701.35 --><div id="ctl00_RadAjaxManager1SU">
+	<span id="ctl00_RadAjaxManager1" style="display:none;"></span>
+</div>
+        	
+               <p />
+               
+    <div id="ctl00_ContentPlaceHolderCalculator_ctl00_ContentPlaceHolderCalculator_RadAjaxPanel1Panel">
+	<div id="ctl00_ContentPlaceHolderCalculator_RadAjaxPanel1">
+		
+        <h2>
+            USDA Cost of Raising a Child Calculator
+        </h2>
+        <p>Please select from the lists below.</p>
+        <div id="ctl00_ContentPlaceHolderCalculator_pnlDetailedStart">
+			
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tableClass" summary="Form used to enter Household information.">
+                <tr>
+                    <th colspan="2" scope="col"></th>
+                    <th class="tableHeaderOnMainPage"><b>Child's Name</b> (Optional)</th>
+                </tr>
+                <tr>
+                    <td scope="row" align="left">
+                        <br />Age of First Child:    
+                    </td>
+                    <td align="left">
+                        Please Select an Age:<br />
+                        <select name="ctl00$ContentPlaceHolderCalculator$ddlChildOne" id="ctl00_ContentPlaceHolderCalculator_ddlChildOne" class="dropdownListClass">
+				<option value="0">&lt; 1</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+				<option value="16">16</option>
+				<option value="17">17</option>
+
+			</select>
+                    </td>
+                    <td>
+                         <br /><input name="ctl00$ContentPlaceHolderCalculator$txbChildOne" type="text" id="ctl00_ContentPlaceHolderCalculator_txbChildOne" class="inputBoxClass" />
+                    </td>
+                </tr>
+                <tr>
+                    <td scope="row" align="left">
+                        Age of Second Child:    
+                    </td>
+                    <td>
+                        <select name="ctl00$ContentPlaceHolderCalculator$ddlSecondChild" id="ctl00_ContentPlaceHolderCalculator_ddlSecondChild" class="dropdownListClass">
+				<option value="None">I Just Have 1 Child</option>
+				<option value="0">&lt; 1</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+				<option value="16">16</option>
+				<option value="17">17</option>
+
+			</select>
+                    </td>
+                    <td>
+                         <input name="ctl00$ContentPlaceHolderCalculator$txbChildTwo" type="text" id="ctl00_ContentPlaceHolderCalculator_txbChildTwo" class="inputBoxClass" />
+                    </td>
+                </tr>
+                <tr>
+                    <td scope="row" align="left">
+                        Age of Third Child:    
+                    </td>
+                    <td align="left">
+                        <select name="ctl00$ContentPlaceHolderCalculator$ddlThirdChild" id="ctl00_ContentPlaceHolderCalculator_ddlThirdChild" class="dropdownListClass">
+				<option value="None">I Do Not Have 3 Children</option>
+				<option value="0">&lt; 1</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+				<option value="16">16</option>
+				<option value="17">17</option>
+
+			</select>
+                    </td>
+                    <td>
+                         <input name="ctl00$ContentPlaceHolderCalculator$txbChildThree" type="text" id="ctl00_ContentPlaceHolderCalculator_txbChildThree" class="inputBoxClass" />
+                    </td>
+                </tr>
+                <tr>
+                    <td scope="row" align="left">
+                        Age of Fourth Child:    
+                    </td>
+                    <td align="left">
+                        <select name="ctl00$ContentPlaceHolderCalculator$ddlFourthChild" id="ctl00_ContentPlaceHolderCalculator_ddlFourthChild" class="dropdownListClass">
+				<option value="None">I Do Not Have 4 Children</option>
+				<option value="0">&lt; 1</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+				<option value="16">16</option>
+				<option value="17">17</option>
+
+			</select>
+                    </td>
+                    <td>
+                         <input name="ctl00$ContentPlaceHolderCalculator$txbChildFour" type="text" id="ctl00_ContentPlaceHolderCalculator_txbChildFour" class="inputBoxClass" />
+                    </td>
+                </tr>
+                <tr>
+                    <td scope="row" align="left">
+                        Age of Fifth Child:    
+                    </td>
+                    <td align="left">
+                        <select name="ctl00$ContentPlaceHolderCalculator$ddlFifthChild" id="ctl00_ContentPlaceHolderCalculator_ddlFifthChild" class="dropdownListClass">
+				<option value="None">I Do Not Have 5 Children</option>
+				<option value="0">&lt; 1</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+				<option value="16">16</option>
+				<option value="17">17</option>
+
+			</select>
+                    </td>
+                    <td>
+                         <input name="ctl00$ContentPlaceHolderCalculator$txbChildFive" type="text" id="ctl00_ContentPlaceHolderCalculator_txbChildFive" class="inputBoxClass" />
+                    </td>
+                </tr>
+                <tr>
+                    <td scope="row" align="left">
+                        Age of Sixth Child:    
+                    </td>
+                    <td align="left">
+                        <select name="ctl00$ContentPlaceHolderCalculator$ddlSixthChild" id="ctl00_ContentPlaceHolderCalculator_ddlSixthChild" class="dropdownListClass">
+				<option value="None">I Do Not Have 6 Children</option>
+				<option value="0">&lt; 1</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+				<option value="16">16</option>
+				<option value="17">17</option>
+
+			</select>
+                    </td>
+                    <td>
+                         <input name="ctl00$ContentPlaceHolderCalculator$txbChildSix" type="text" id="ctl00_ContentPlaceHolderCalculator_txbChildSix" class="inputBoxClass" />
+                    </td>
+                </tr>
+                <tr>
+                    <td scope="row" align="left">
+                        <br /><font color="red"><b>*</b></font>Is Yours a Single- or Two-Parent Household?<br /><br />
+                    </td>
+                    <td colspan="2" align="left">
+                        <br /><select name="ctl00$ContentPlaceHolderCalculator$ddlParent" id="ctl00_ContentPlaceHolderCalculator_ddlParent" class="dropdownListClass">
+				<option value="1">One Parent</option>
+				<option selected="selected" value="2">Two Parents</option>
+
+			</select><br /><br />
+                    </td>
+                </tr>
+                <tr>
+                    <td scope="row" align="left">
+                        <span id="ctl00_ContentPlaceHolderCalculator_lblStar" class="alertMessage">*</span>
+                        <span id="ctl00_ContentPlaceHolderCalculator_lblWhereLiving">Where Do You Live?</span>
+                        <br/>
+                        <span id="ctl00_ContentPlaceHolderCalculator_lblStar2" class="alertMessage">*</span>
+                        <span id="ctl00_ContentPlaceHolderCalculator_lblSeeStates">See below for states in each region.</span>
+                        <br />
+                        <br />
+                    </td>
+                    <td colspan="2" align="left">
+                        <select name="ctl00$ContentPlaceHolderCalculator$ddlRegion" id="ctl00_ContentPlaceHolderCalculator_ddlRegion" class="dropdownListClass">
+				<option selected="selected" value="-1">-Please Select a Region-</option>
+				<option value="Northeast">Northeast-urban or suburban</option>
+				<option value="South">South-urban or suburban</option>
+				<option value="Midwest">Midwest-urban or suburban</option>
+				<option value="West">West-urban or suburban</option>
+				<option value="Rural">Rural area in US</option>
+				<option value="All">Overall US</option>
+
+			</select><br />
+                    </td>
+                </tr>
+                <tr>
+                    <td scope="row" align="left">
+                        <br /><font color="red"><b>*</b></font><span id="ctl00_ContentPlaceHolderCalculator_lblIncome">What is Your Annual Before-Tax Household Income?</span>
+                    </td>
+                    <td colspan="2" align="left">
+                        Please Select an Income Group
+                        <br /><select name="ctl00$ContentPlaceHolderCalculator$ddlIncome" id="ctl00_ContentPlaceHolderCalculator_ddlIncome" class="dropdownListClass">
+				<option value="-1">-Please Select a Region-</option>
+
+			</select>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3" scope="row">
+                        <br><font color="red"><b>*</b> - Required Field</font>
+                    </td>
+                </tr>
+                <tr>
+                    <td scope="row" colspan="2">
+                        
+                    </td>
+                    <td align="right">
+                        <br /><input type="button" name="ctl00$ContentPlaceHolderCalculator$btnCalculate" value="Calculate" onclick="this.value='Please wait, calculating...';__doPostBack('ctl00$ContentPlaceHolderCalculator$btnCalculate','')" id="ctl00_ContentPlaceHolderCalculator_btnCalculate" class="buttonClass" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    </td>
+                </tr>
+            </table>
+        
+		</div>
+        
+        <p class="footerClass"><p style="text-align:left" ><b>The Northeast includes</b>:  Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, and Vermont.</p>
+<p style="text-align:left" ><b>The South includes</b>:  Alabama, Arkansas, Delaware, District of Columbia, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, and West Virginia.</p>
+<p style="text-align:left" ><b>The Midwest includes</b>:  Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin.</p>
+<p style="text-align:left" ><b>The West includes</b>:  Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming.</p>
+<p style="text-align:left" ><b>Rural areas include</b> any town or municipality with a population of fewer than 2,500 people.</p>
+<br /><br />
+<p style="text-align:left" ><b>Important legal information</b>: This is an educational tool based on USDA's <a href="http://www.cnpp.usda.gov/ExpendituresonChildrenbyFamilies.htm" target="_blank">Expenditures on Children by Families, most recent report</a>. This tool is not a recommendation to buy or invest in any particular product or security.</p></p>
+        <input type="hidden" name="ctl00$ContentPlaceHolderCalculator$hidSelectedRegion" id="ctl00_ContentPlaceHolderCalculator_hidSelectedRegion" />
+    
+	</div>
+</div>
+    
+  
+
+
+
+                         
+       
+      
+        <input type="hidden" value="Version 2.5" />
+               
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxManager, {"_updatePanels":"","ajaxSettings":[],"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"defaultLoadingPanelID":"","enableAJAX":true,"enableHistory":false,"links":[],"styles":[],"uniqueID":"ctl00$RadAjaxManager1","updatePanelsRenderMode":0}, null, null, $get("ctl00_RadAjaxManager1"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"","styles":[],"uniqueID":"ctl00$ContentPlaceHolderCalculator$RadAjaxPanel1"}, null, null, $get("ctl00_ContentPlaceHolderCalculator_RadAjaxPanel1"));
+});
+//]]>
+</script>
+</form>
+             
+			  
+			  </td>
+			
+			  </tr>
+              </table>
+           </td>
+             <td bgcolor="#FFFFFF" width="1" background="http://www.cnpp.usda.gov/images/right-side.gif" />
+		</tr>
+		
+		
+		<!--end main content-->
+		
+		<!-- begin footer -->
+		<tr>
+			<td bgcolor="#FFFFFF" colspan="3" width="767">
+			<!--webbot bot="Include" U-Include="includes/footer.htm" TAG="BODY" startspan -->
+
+<div align="center">
+	<table border="0" width="767" id="table1" cellspacing="0" cellpadding="0">
+		<tr>
+			<td colspan="3" width="767" height="1">
+			<img border="0" src="http://www.cnpp.usda.gov/images/grey-rule.gif" width="767" height="1"></td>
+		</tr>
+		<tr>
+			<td width="20">
+			<img border="0" src="http://www.cnpp.usda.gov/images/general/bottom-corner.gif" width="27" height="43"></td>
+			<td bgcolor="#FFFFFF" width="739" background="http://www.cnpp.usda.gov/images/general/bottom-center.gif">
+			<font face="Verdana" size="1">
+			<a href="http://www.cnpp.usda.gov">CNPP Home</a> |
+			<a target="_blank" href="http://www.usda.gov">USDA.gov</a> |
+			<a href="http://www.cnpp.usda.gov/SiteHelp.htm">Site Help</a> |
+			<a target="_blank" href="http://www.fns.usda.gov">FNS</a> |
+			<a target="_blank" href="http://www.fns.usda.gov/fncs/fncs.htm">FNCS</a> |
+			<a target="_blank" href="http://www.nutrition.gov">Nutrition.gov</a> |
+			<a target="_blank" href="http://www.healthierus.gov">HealthierUS.gov</a> |&nbsp;<a target="_blank" href="http://www.usda.gov/wps/portal/!ut/p/_s.7_0_A/7_0_1OB?navtype=FT&navid=POLICY_LINK">Policies 
+			and Links</a> <br>
+			<a target="_blank" href="http://www.usda.gov/da/foia.htm">FOIA</a> | 
+			<a target="_blank" href="http://www.usda.gov/wps/portal/!ut/p/_s.7_0_A/7_0_1OB?navtype=FT&navid=ACCESSIBILITY_STATEM">Accessibility Statement</a> | 
+			<a href="http://www.cnpp.usda.gov/PrivacyandSecurityPolicy.htm">Privacy Policy</a> | 
+			<a href="http://www.cnpp.usda.gov/NonDiscriminationStatement.htm">Non-Discrimination 
+			Statement</a> | 
+			<a href="http://www.cnpp.usda.gov/InformationQuality.htm">Information Quality</a> |
+			<a target="_blank" href="http://USA.gov">USA.gov</a> | 
+			<a target="_blank" href="http://www.whitehouse.gov">White House</a></font><a href="http://www.whitehouse.gov"></a></td>
+			<td bgcolor="#FFFFFF" width="1" background="http://www.cnpp.usda.gov/images/general/bottom-center.gif">
+			<img border="0" src="http://www.cnpp.usda.gov/images/general/bottom-right.gif" width="1" height="43"></td>
+		</tr> 
+		<!-- end footer -->
+	</table>
+</div>
+
+<!--webbot bot="Include" i-checksum="16546" endspan --></td>
+		</tr>
+		</table>
+</div>
+
+
+
+    
+</body>
+
+</html>

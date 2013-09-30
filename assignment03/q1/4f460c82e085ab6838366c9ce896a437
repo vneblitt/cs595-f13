@@ -1,0 +1,799 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script src="/__utm.js" type="text/javascript"></script>
+<title>WHO | Suicide prevention (SUPRE)</title>
+<meta name="DC.title" content="WHO | Suicide prevention (SUPRE)" />
+<meta name="DC.keywords" content="alcohol [subject],suicide [subject],pesticide [subject],mental disorder [subject],alcohol abuse,alcohol use,alcohol consumption,alcohol drinking,alcoholic intoxication,alcoholism,alcoholic beverages,social drinking,suicide prevention,insecticides,fungicides,psychiatric illness,mental illness"/>
+<meta name="DC.publisher" content="World Health Organization" />
+<meta name="DC.format" content="text/html" />
+<meta name="DC.source" content="WHO" />
+<meta name="DC.date.published" content="2013-05-02 10:44:11" />
+<meta name="DC.identifier" content="/entity/mental_health/prevention/suicide/suicideprevent/en/index.html" />
+<meta name="webit_document_id" content="165026" />
+<meta name="webit_document_name" content="EN Suicide prevention" />
+<meta name="expires" content="" />
+<meta name="burntime" content="2013-05-02 10:44:17.000000" />
+
+
+
+
+
+<link rel="shortcut icon" href="/sysmedia/media/resources/favicon.ico" />
+<link rel="apple-touch-icon" href="/sysmedia/media/resources/apple-touch-icon.png"/>		
+<script type="text/javascript" src="/sysmedia/media/js/lib/jquery.js"></script>
+<script type="text/javascript" src="/sysmedia/media/js/lib/jquery.plugins.js"></script>
+<script type="text/javascript" src="/sysmedia/media/js/who.js"></script>
+<link href="/sysmedia/media/style/who.css" rel="stylesheet" type="text/css"/>	
+<!--[if IE]><link href="/sysmedia/media/style/css/patches/patch_ie.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 7]><link href="/sysmedia/media/style/css/patches/patch_ie_7.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 6]><link href="/sysmedia/media/style/css/patches/patch_ie_6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+
+
+ 
+
+<!-- mobile style <link href="/sysmedia/media/style/css/mobile/mobile.css" rel="stylesheet" title="mobile" type="text/css" /> -->
+<link rel="stylesheet" type="text/css" href="/sysmedia/media/style/css/language/lang_en.css"/>  
+<script type="text/javascript" src="/sysmedia/media/js/infiniteCarousel.js"></script>
+    <link rel="stylesheet" type="text/css" href="/sysmedia/scripts/shadowbox/en/shadowbox.css" />
+  <script type="text/javascript" src="/sysmedia/scripts/shadowbox/en/shadowbox.js"></script>
+    <script type="text/javascript">
+//<![CDATA[
+        Shadowbox.init({
+          //troubleElements: ["select", "object", "embed", "canvas"],viewportPadding: 20,
+          //flashVersion: 9.0.0,counterLimit: 20, displayCounter: true, displayNav: true, enableKeys: true,
+          //modal: true, fadeDuration:0.35, handleUnsupported:: link, initialHeight: , initialWidth: , onChange: ,
+          // onClose , onFinish, onOpen, overlayColor: #000,
+          animate : true,
+          animateFade:true,
+          animSequence: "sync",
+          continuous: true,
+          counterType: "skip",
+          handleOversize: "drag",
+          modal: false,
+          overlayOpacity: 0.8,
+          showOverlay: true,
+          resizeDuration: 0.50,
+          showMovieControls: false,
+          slideshowDelay: 0,
+          displayNav: true
+    });
+    //]]>
+    </script>
+
+
+
+
+
+<!-- secondary nav styles -->
+ <style type="text/css">
+
+
+	#__mental_health__prevention ul ul {display: none;}
+	#__mental_health__prevention ul, #__mental_health__prevention ul #__mental_health__prevention__suicide ul {display: block;}
+	#__mental_health__prevention .node a {background: url(/sysmedia/media/style/img/node-closed.gif) no-repeat 1px 8px;}
+	#__mental_health__prevention a, #__mental_health__prevention__suicide.node a {background: url(/sysmedia/media/style/img/node-open.gif) no-repeat 0px 10px;}
+	#__mental_health__prevention.leave  a, #__mental_health__prevention .leave  a, #__mental_health__prevention .leaves a {background:none;}
+	#__mental_health__prevention__suicide a, #__mental_health__prevention__suicide li a:hover {color:#D86422;}
+	#__mental_health__prevention__suicide li a{color:#196aaa;}
+	
+	#cobrand #__mental_health__prevention__suicide ul {display: block;}
+	#cobrand #__mental_health__prevention__suicide ul ul {display: none;}
+	#cobrand #__mental_health__prevention__suicide ul .node a {background: url(/sysmedia/media/style/img/node-closed.gif) no-repeat 1px 8px;}
+	#cobrand #__mental_health__prevention__suicide a {background: url(/sysmedia/media/style/img/node-open.gif) no-repeat 0px 10px;}
+	#cobrand #__mental_health__prevention__suicide.leave a, #cobrand #__mental_health__prevention__suicide .leave a, #cobrand #__mental_health__prevention__suicide .leaves a {background:none;}
+	#cobrand #__mental_health__prevention__suicide a, #cobrand #__mental_health__prevention__suicide li a:hover {color:#D86422;}
+	#cobrand #__mental_health__prevention__suicide li a {color:#196aaa;}
+</style>
+<script type="text/javascript">
+
+        var path_elements = new Array('__mental_health__prevention__suicide','__mental_health__prevention','__mental_health');
+
+        function fixMenu(){
+                for( i = 0; i < path_elements.length; i++ ){
+                        if( document.getElementById( path_elements[i] ) ){
+                                document.getElementById( path_elements[i] ).firstChild.style.color = '#D86422';
+                                break;
+                        }
+                }
+        }
+
+</script> 
+
+
+
+
+
+
+</head>
+<body>
+
+
+
+		<!-- begin: page -->
+	<div id="page" class ="template_sidebar-marginal" >
+		<!-- begin: wrapper -->
+		<div id="wrapper">
+			                   
+			<!-- begin: header -->
+			<div id="header">
+					<!--including masthead file: /mason/mheader_en.mc?entity_name=mental_health -->
+					﻿<!-- begin: skip to content -->
+<div id="skip"><a href="#content">Skip to main content</a></div>
+
+<!-- begin: branding -->
+  <div id="branding">
+    <a linkindex="0" href="/en/"
+    title="WHO | World Health Organization">
+      <img src="/sysmedia/media/resources/who-logo-en.jpg"
+      alt="WHO | World Health Organization" title="WHO | World Health Organization" />
+    </a>
+  </div>
+  <!-- end: branding -->
+
+  <!-- begin: access -->
+  <div id="access">
+    <h3>Access</h3>
+    <ul>
+      <li>
+        <a linkindex="1" accesskey="0" title="Home"
+        href="/en/">Home Alt+0</a>
+      </li>
+      <li>
+        <a linkindex="2" accesskey="1" title="Navigation"
+        href="#navigation">Navigation Alt+1</a>
+      </li>
+      <li>
+        <a linkindex="3" accesskey="2" title="Content"
+        href="#main">Content Alt+2</a>
+      </li>
+    </ul>
+  </div>
+  <!-- end: access -->
+  
+  <!-- begin: language -->
+  <div id="language">
+    <h3>Language</h3>
+    <ul>
+	<li id="language_ar" class=" disabled" ><a href="#" title="هذه الصفحة ليست متاحة باللغة العربية"><span  dir="rtl" >عربي</span> </a> </li>
+<li id="language_zh"><a href="../zh/index.html" title="Chinese"><span >中文</span> </a> </li>
+<li id="language_en" class=" selected" ><a href="../en/index.html" title="English"><span >English</span> </a> </li>
+<li id="language_fr"><a href="../fr/index.html" title="French"><span >Français</span> </a> </li>
+<li id="language_ru"><a href="../ru/index.html" title="Russian"><span >Русский</span> </a> </li>
+<li id="language_es" class="last" ><a href="../es/index.html" title="Spanish"><span >Español</span> </a> </li>
+
+
+	</ul>
+   </div>
+
+  <!-- end: language -->
+  
+  
+  <!-- begin: navigation -->
+  <div id="navigation">
+    <h3>Navigation</h3>
+    <ul>
+      <li id="navigation_home"  >
+      <a linkindex="5" href="/en/" title="Home">
+          <span>Home</span>
+        </a>
+      </li>
+      <li id="navigation_health-topics"   >
+        <a href="/topics/en/" title="Health topics">
+          <span>Health topics</span>
+        </a>
+      </li>
+      <li id="navigation_data-and-statistics"  >
+        <a href="/research/en/" title="Data and statistics">
+          <span>Data and statistics</span>
+        </a>
+      </li>
+      <li id="navigation_media-centre"  >
+        <a href="/entity/mediacentre/en/" title="Media centre">
+          <span>Media centre</span>
+        </a>
+      </li>
+      <li id="navigation_publications"  >
+        <a href="/publications/en/" title="Publications">
+          <span>Publications</span>
+        </a>
+      </li>
+      <li id="navigation_countries"  >
+        <a linkindex="6" href="/countries/en/"
+        title="Countries">
+          <span>Countries</span>
+        </a>
+      </li>
+      <li id="navigation_programmes-and-projects"  class="selected"  >
+        <a linkindex="7" href="/entity/en/"
+        title="Programmes and projects">
+          <span>Programmes and projects</span>
+        </a>
+      </li>
+      <li id="navigation_about-who" class="last  " >
+        <a href="/about/en/" title="About WHO">
+          <span>About <acronym title="World Health Organization">WHO</acronym></span>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <!-- end: navigation -->
+  
+  <!-- begin: search -->
+ <div id="search"> 
+  <h3>Search</h3>
+  <form id="search_form" action="http://search.who.int/search">
+		<span id="search_label">
+			<label for="q"> Search the
+			<acronym title="World Health Organization">WHO</acronym>.int site</label>
+		</span>
+
+		<span id="search_input">
+		  <input name="q" id="q" title="Search the WHO.int site" type="text" />
+		</span>
+		<label for="search_submit" class="invisible"> Submit </label>
+		<input type="hidden" name="ie" value="utf8" />
+		<input type="hidden" name="site" value="who" />
+		<input type="hidden" name="client" value="_en" />
+		<input type="hidden" name="proxystylesheet" value="_en" /> 
+		<input type="hidden" name="output" value="xml_no_dtd" />
+		<input type="hidden" name="oe" value="utf8" />
+		<input type="hidden" name="getfields" value="doctype"/>
+		<input id="search_submit" value="Search" title="Search" type="submit" />
+		<a href="http://search.who.int/search?ie=utf8&site=who&lr=lang_en&client=_en&proxystylesheet=_en&output=xml_no_dtd&oe=UTF-8&access=p&entqr=3&ud=1&proxycustom=%3CADVANCED/%3E" title="Advanced Search" id="search_advanced">
+			Advanced search
+		</a>
+	</form>
+</div>
+ <!-- end: search -->
+  
+  
+ 
+
+ 
+			</div>
+			<!-- end: header -->
+
+			
+	
+
+			
+			<!-- begin: main --> 
+				<div id ="main">
+				<!-- begin: title -->
+<div id="title">
+	<h2>
+       Mental health 
+	</h2>	   
+</div>
+<!-- end: title -->	
+
+
+ 			
+				 <!-- begin: sidebar -->
+				 <div id= "sidebar">
+                   
+	<!-- begin: secondary navigation subnavigation -->
+	<div id="subnavigation">
+		<h3>Subnavigation</h3>
+
+	<!-- Mental health  secondary navigation -->
+
+<ul class="subnavigation"  ><li id="__mental_health" class="leave"><a href="/entity/mental_health/en/">Mental health home</a>
+</li>
+<li id="__mental_health__mhgap" class="node closed"><a href="/entity/mental_health/mhgap/en/">mhGAP</a>
+<ul>
+<li id="__mental_health__mhgap__evidence" class="node closed"><a href="/entity/mental_health/mhgap/evidence/en/">mhGAP Evidence Resource Centre</a>
+<ul>
+<li id="__mental_health__mhgap__evidence__depression" class="leave"><a href="/entity/mental_health/mhgap/evidence/depression/en/">Depression </a>
+</li>
+<li id="__mental_health__mhgap__evidence__psychosis" class="leave"><a href="/entity/mental_health/mhgap/evidence/psychosis/en/">Psychosis and bipolar disorders</a>
+</li>
+<li id="__mental_health__mhgap__evidence__epilepsy" class="leave"><a href="/entity/mental_health/mhgap/evidence/epilepsy/en/">Epilepsy and seizures </a>
+</li>
+<li id="__mental_health__mhgap__evidence__child" class="leave"><a href="/entity/mental_health/mhgap/evidence/child/en/">Child and adolescent mental disorders </a>
+</li>
+<li id="__mental_health__mhgap__evidence__dementia" class="leave"><a href="/entity/mental_health/mhgap/evidence/dementia/en/">Dementia </a>
+</li>
+<li id="__mental_health__mhgap__evidence__alcohol" class="leave"><a href="/entity/mental_health/mhgap/evidence/alcohol/en/">Alcohol use disorders </a>
+</li>
+<li id="__mental_health__mhgap__evidence__substance_abuse" class="leave"><a href="/entity/mental_health/mhgap/evidence/substance_abuse/en/">Substance use disorders </a>
+</li>
+<li id="__mental_health__mhgap__evidence__other_disorders" class="leave"><a href="/entity/mental_health/mhgap/evidence/other_disorders/en/">Other complaints</a>
+</li>
+<li id="__mental_health__mhgap__evidence__suicide" class="leave"><a href="/entity/mental_health/mhgap/evidence/suicide/en/">Self harm and suicide </a>
+</li>
+<li id="__mental_health__mhgap__evidence__guidelines_process" class="leave"><a href="/entity/mental_health/mhgap/evidence/guidelines_process/en/">Guideline development process </a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="__mental_health__evidence" class="leave"><a href="/entity/mental_health/evidence/en/">Evidence and research</a>
+</li>
+<li id="__mental_health__policy" class="leave"><a href="/entity/mental_health/policy/en/">Policy and services</a>
+</li>
+<li id="__mental_health__advocacy" class="leave"><a href="/entity/mental_health/advocacy/en/">Media centre</a>
+</li>
+<li id="__mental_health__neurology" class="leave"><a href="/entity/mental_health/neurology/en/">Neurology and public health</a>
+</li>
+<li id="__mental_health__management" class="leave"><a href="/entity/mental_health/management/en/">Disorders management</a>
+</li>
+<li id="__mental_health__prevention" class="leave"><a href="/entity/mental_health/prevention/en/">Suicide Prevention and special programmes</a>
+</li>
+<li id="__mental_health__emergencies" class="leave"><a href="/entity/mental_health/emergencies/en/">Mental health in emergencies</a>
+</li>
+<li id="__mental_health__publications" class="leave"><a href="/entity/mental_health/publications/en/">Mental health publications</a>
+</li>
+</ul>
+
+
+	</div>
+	<!-- end: subnavigation -->
+
+
+ 
+				  </div>
+				 <!-- end: sidebar -->
+				 				 				 				 
+				 <!-- begin: content --> 
+				    <div id ="content">
+<!-- begin: primary -->
+
+<div id="primary">
+
+
+    <h1 class="headline">Suicide prevention (SUPRE)</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 class="section_head2">The problem</h4>
+
+<ul class="disc">
+  	<li>Every year, almost one million people die from suicide; a "global" mortality rate of 16 per 100,000, or one death every 40 seconds.</li>
+  	<li>In the last 45 years suicide rates have increased by 60% worldwide. Suicide is among the three leading causes of death among those aged 15-44 years in some countries, and the second leading cause of death in the 10-24 years age group; these figures do not include suicide attempts which are up to 20 times more frequent than completed suicide.</li>
+  	<li>Suicide worldwide is estimated to represent 1.8% of the total global burden of disease in 1998, and 2.4% in countries with market and former socialist economies in 2020.</li>
+  	<li>Although traditionally suicide rates have been highest among the male elderly, rates among young people have been increasing to such an extent that they are now the group at highest risk in a third of countries, in both developed and developing countries.</li>
+  	<li>Mental disorders (particularly depression and alcohol use disorders) are a major risk factor for suicide in Europe and North America; however, in Asian countries impulsiveness plays an important role. Suicide is complex with psychological, social, biological, cultural and environmental factors involved.</li>
+</ul>
+<hr/>
+
+<div  class="image_top"  style="width:540px">
+
+    <img src="/entity/mental_health/media/map_suicide.gif" alt="" width="540" height="381"/>
+
+
+
+</div>
+
+<hr/>
+
+<h4 class="section_head2">Suicide statistics</h4>
+
+      <ul class="list_dash">
+				<li>
+	<a  href="/entity/mental_health/prevention/suicide/country_reports/en/index.html">Country reports and charts available</a>
+				</li>
+				<li>
+	<a  href="/entity/mental_health/prevention/suicide/charts/en/index.html">Global charts</a>
+				</li>
+	</ul>
+
+<hr/>
+
+<h4 class="section_head2">Effective interventions</h4>
+
+<ul class="disc">
+  	<li>Strategies involving restriction of access to common methods of suicide, such as firearms or toxic substances like pesticides, have proved to be effective in reducing suicide rates; however, there is a need to adopt multi-sectoral approaches involving many levels of intervention and activities.</li>
+  	<li>There is compelling evidence indicating that adequate prevention and treatment of depression and alcohol and substance abuse can reduce suicide rates, as well as follow-up contact with those who have attempted suicide.</li>
+</ul>
+
+<h4 class="section_head2">Challenges and obstacles</h4>
+
+<ul class="disc">
+  	<li>Worldwide, the prevention of suicide has not been adequately addressed due to basically a lack of awareness of suicide as a major problem and the taboo in many societies to discuss openly about it. In fact, only a few countries have included prevention of suicide among their priorities.</li>
+  	<li>Reliability of suicide certification and reporting is an issue in great need of improvement.</li>
+  	<li>It is clear that suicide prevention requires intervention also from outside the health sector and calls for an innovative, comprehensive multi-sectoral approach, including both health and non-health sectors, e.g. education, labour, police, justice, religion, law, politics, the media.</li>
+</ul>
+
+<h3 class="section_head1">FURTHER INFORMATION</h3>
+
+
+<h4 class="section_head2">SUPRE</h4>
+
+      <ul class="list_dash">
+				<li>
+	<a  href="/entity/mental_health/prevention/suicide/information/en/index.html">SUPRE Prevention of suicidal behaviours: a task for all</a>
+				</li>
+				<li>
+<a href="/entity/mental_health/management/en/SUPRE_flyer1.pdf" class="link_media" onclick="window.open(this.href);return false;">SUPRE Information leaflet<br/><span class="link_info">pdf, 79kb</span></a>
+
+				</li>
+	</ul>
+
+
+<h4 class="section_head2">Framework for public health action</h4>
+
+		<p>
+  		
+  		<span>This document provides a resource to assist governments in developing and implementing strategies for the prevention of suicide as well as to help those that have already initiated the process of conceptualizing national suicide prevention strategies. </span></p>
+      <ul class="list_dash">
+				<li>
+<a href="http://apps.who.int/iris/bitstream/10665/75166/1/9789241503570_eng.pdf" class="" >Public Health Action for the Prevention of Suicide: A framework</a> 
+				</li>
+	</ul>
+
+
+<h4 class="section_head2">WHO Initiative on the Impact of Pesticides on Health: Preventing intentional and unintentional deaths from pesticide poisoning</h4>
+
+      <ul class="list_dash">
+				<li>
+	<a  href="/entity/mental_health/prevention/suicide/pesticides/en/index.html">More information about the Initiative on the Impact of Pesticides on Health: Preventing intentional and unintentional deaths from pesticide poisoning</a>
+				</li>
+	</ul>
+
+
+<h4 class="section_head2">Preventing Suicide: a resource series</h4>
+
+		<p>
+  		
+  		<span>The booklets in Preventing Suicide: a resource series are addressed to specific social and professional groups that are particularly relevant to the prevention of suicide, including a resource for general physicians, media professionals, teachers, primary health care workers, prison officers, survivors, counselors, at work, and first line responders.</span></p>
+      <ul class="list_dash">
+				<li>
+	<a  href="/entity/mental_health/resources/preventingsuicide/en/index.html">Download Preventing Suicide: a resource series in English and Translations</a>
+				</li>
+	</ul>
+
+
+<h4 class="section_head2">Suicide in mhGAP</h4>
+
+		<p>
+  		
+  		<span>Suicide is a priority condition in the WHO Mental Health Gap Action Programme (mhGAP).</span></p>
+      <ul class="list_dash">
+				<li>
+	<a  href="/entity/mental_health/mhgap/en/index.html">More information about mhGAP</a>
+				</li>
+				<li>
+	<a  href="/entity/mental_health/publications/mhGAP_intervention_guide/en/index.html">mhGAP Intervention Guide, including the self-harm / suicide module</a>
+				</li>
+				<li>
+	<a  href="/entity/mental_health/mhgap/evidence/suicide/en/index.html">mhGAP Evidence Resource Centre</a>
+				</li>
+	</ul>
+
+
+<h4 class="section_head2">Multisite Intervention Study on Suicidal Behaviours (SUPRE-MISS)</h4>
+
+      <ul class="list_dash">
+				<li>
+	<a  href="/entity/mental_health/prevention/suicide/supremiss/en/index.html">More information about SUPRE-MISS</a>
+				</li>
+	</ul>
+
+
+<h4 class="section_head2">Suicide Trends in At-Risk Territories (START)</h4>
+
+		<p>
+  		
+  		<span>The Suicide Trends in At-Risk Territories (START) study is managed by the WHO Regional Office for the Western Pacific (WHO/WPRO) with technical coordination by the Australian Institute for Suicide Research and Prevention (AISRAP), Brisbane, Australia, a WHO Collaborating Centre for Research and Training in Suicide Prevention.</span></p>
+
+<h4 class="section_head2">World Suicide Prevention Day (WSPD)</h4>
+
+      <ul class="list_dash">
+				<li>
+	<a  href="/entity/mental_health/prevention/suicide/wspd/en/index.html">More information about WSPD</a>
+				</li>
+	</ul>
+
+
+<h3 class="section_head1">SUPRE publications</h3>
+
+      <ul class="list_dash">
+				<li>
+	<a  href="/entity/mental_health/resources/suicide/en/index.html">List of SUPRE publications</a>
+				</li>
+	</ul>
+
+
+<div class="clear"><!-- all clear --></div>
+
+
+
+
+
+
+ </div><!-- end: primary -->
+
+ 
+  <!-- begin: marginal -->
+  <div id="marginal">
+      <!-- This is where some elements will always be displayed such as inset, table of contents, page tools.  -->
+     <!-- begin: pageactions -->
+<div id="pageactions">                       
+    <!-- begin: addthis -->
+    <div id="pageaction_share">
+        <div class="addthis_toolbox">
+            <div class="custom_hover">
+                <span class="custom_button">Share</span>
+            </div>
+            <div class="hover_menu">
+                <div class="links">
+                    <a class="addthis_button_email">Email</a>
+                    <a class="addthis_button_twitter">Twitter</a>
+                    <a class="addthis_button_facebook">Facebook</a>
+                    <a class="addthis_button_google">Google</a>
+                    <a class="addthis_button_delicious">Delicious</a>
+                    <a class="addthis_button_linkedin">LinkedIn</a>
+                    <div class="more">
+                       <a class="addthis_button_expanded">More...</a>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d89cf940b3beab1"></script>
+            <script type="text/javascript">
+                $(function() {
+                    var delay = 400;
+                    
+                    function hideMenu() {
+                        if (!$('.custom_button').data('in') && !$('.hover_menu').data('in') && !$('.hover_menu').data('hidden')) {
+                            $('.hover_menu').fadeOut('fast');
+                            $('.custom_button').removeClass('active');
+                            $('.hover_menu').data('hidden', true);
+                        }
+                    }
+                    $('.custom_button, .hover_menu').mouseenter(function() {
+                        $('.hover_menu').fadeIn('fast');
+                        $('.custom_button').addClass('active');
+                        $(this).data('in', true);
+                        $('.hover_menu').data('hidden', false);
+                    }).mouseleave(function() {
+                        $(this).data('in', false);
+                        setTimeout(hideMenu, delay);
+                    });    
+                });                                
+            </script>
+            <script>
+                   var addthis_config = {
+                   
+                    ui_header_color: "#ffffff",
+                    ui_header_background: "#196AAA",
+                    ui_language: "en"
+                   }
+                </script>        
+        </div>									 
+    </div><!-- end: addthis -->
+    <div id="pageaction_print">
+        <a href="#" title="Print"><span>Print</span></a>
+    </div>
+</div><!-- end: pageactions -->
+
+
+
+
+  </div><!-- end: marginal -->
+
+
+
+
+
+<div class="clear"></div>
+
+					</div>
+				<!-- end: content -->
+				
+				<div class="clear">
+					<!-- all clear -->
+				</div>
+				
+			</div>
+			<!-- end: main -->
+					<div id="breadcrumb">
+    <h2>You are here:</h2>
+	<ul>
+		<li>
+			<a href="/entity/mental_health/en/" title="Mental health">Mental health</a>
+		</li>
+		<li class="selected">
+			<a href="/entity/mental_health/prevention/en/" title="Suicide prevention ">Suicide prevention </a>
+		</li>
+    </ul>
+	<div class="clear"></div>
+</div>
+
+
+
+
+
+
+
+			<!-- begin: footer -->
+			<div id="footer">
+				
+  <!-- begin: doormat -->
+  <div id="doormat">
+    <h2>Quick Links</h2>
+    <!-- column -->
+    <div class="doormat_col_1">
+      <h3>Sitemap</h3>
+       <ul>
+        <li>
+          <a href="/en/index.html">Home</a>
+        </li>
+        <li>
+          <a href="/topics/en/index.html">Health topics</a>
+        </li>
+        <li>
+          <a href="/research/en/index.html">Data and statistics</a>
+        </li>
+        <li>
+          <a href="/entity/mediacentre/en/index.html">Media centre</a>
+        </li>
+        <li>
+          <a href="/publications/en/index.html">Publications</a>
+        </li>
+        <li>
+          <a href="/countries/en/index.html">Countries</a>
+        </li>
+        <li>
+          <a href="/entity/en/index.html">Programmes and projects</a>
+        </li>
+        <li>
+          <a href="/about/en/index.html">About 
+          <acronym title="World Health Organization">
+          WHO</acronym></a>
+        </li>
+      </ul>
+    </div>
+    <!-- column -->
+    <div class="doormat_col_2">
+      <h3>Help and Services</h3>
+      <ul>
+        <li>
+          <a href="/about/contacthq/en/index.html">Contacts</a>
+        </li>
+        <li>
+          <a href="/suggestions/faq/en/index.html">FAQs</a>
+        </li>
+        <li>
+          <a href="/entity/employment/en/index.html">Employment</a>
+        </li>
+        <li>
+          <a href="/suggestions/en/index.html">Feedback</a>
+        </li>
+        <li>
+          <a href="/about/privacy/en/index.html">Privacy</a>
+        </li>
+        <li>
+          <a href="/about/scamalert/en/index.html">E-mail scams</a>
+        </li>
+        </ul>
+    </div>
+    <!-- column -->
+    <div class="doormat_col_3">
+      <h3>WHO Regional Offices</h3>
+      <ul>
+        <li>
+          <a href="http://www.afro.who.int/"><acronym title="World Health Organization">
+          WHO</acronym> African Region</a>
+        </li>
+        <li>
+          <a href="http://www.paho.org/"><acronym title="World Health Organization">
+          WHO</acronym> Region of the Americas</a>
+        </li>
+        <li>
+          <a href="http://www.searo.who.int/"><acronym title="World Health Organization">
+          WHO</acronym> South-East Asia Region</a>
+        </li>
+        <li>
+          <a href="http://www.euro.who.int/"><acronym title="World Health Organization">
+          WHO</acronym> European Region</a>
+        </li>
+        <li>
+          <a href="http://www.emro.who.int/"><acronym title="World Health Organization">
+          WHO</acronym> Eastern Mediterranean Region</a>
+        </li>
+        <li>
+          <a href="http://www.wpro.who.int/"><acronym title="World Health Organization">
+          WHO</acronym> Western Pacific Region</a>
+        </li>
+      </ul>
+    </div>
+    <!-- column -->
+    <div class="doormat_col_4">
+      <h3>Connect with WHO</h3>
+      <ul>
+        <li>
+          <a href="/about/licensing/rss/en/index.html">RSS Feeds</a>
+        </li>
+        <li>
+          <a href="http://www.youtube.com/who">
+          <acronym title="World Health Organization">
+          WHO</acronym> YouTube channel</a>
+        </li>
+        <li>
+          <a href="http://twitter.com/who">Follow 
+          <acronym title="World Health Organization">
+          WHO</acronym> on Twitter</a>
+        </li>
+        <li>
+          <a href="http://www.facebook.com/pages/World-Health-Organization-WHO/154163327962392?v=wall">
+          <acronym title="World Health Organization">
+          WHO</acronym> Facebook page</a>
+        </li>
+         <li>
+          <a href="https://plus.google.com/+who">
+          <acronym title="World Health Organization">
+          WHO</acronym> Google+ page</a>
+        </li> 
+      </ul>
+    </div>
+    <div class="clear">
+      <!-- all clear -->
+    </div>
+  </div>
+  <!-- end: doormat -->
+  <!-- begin: foot -->
+  <div id="foot">
+    <p><a href="/about/copyright/en/">&#169; <acronym title="World Health Organization">
+        WHO</acronym> 2013</a></p>
+  </div>
+  <!-- end: foot -->
+  
+  <script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30222631-1']);
+  _gaq.push(['_setDomainName', 'who.int']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+
+
+			</div>
+			<!-- end: footer -->
+			
+		</div>
+		<!-- end: wrapper -->
+
+	</div>
+	<!-- end: page -->
+<script type="text/javascript">
+        fixMenu();
+</script> 
+
+
+
+</body>
+</html>
+
+
+
+
+<!-- Elapsed burn time: 2.50222396850586 sec -->

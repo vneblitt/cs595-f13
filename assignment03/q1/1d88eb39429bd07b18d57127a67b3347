@@ -1,0 +1,562 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<!--[if IEMobile 7]><html class="iem7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)]><!--> <html class="no-js not-oldie" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<meta name="HandheldFriendly" content="true" />
+<link rel="shortcut icon" href="http://www2.epa.gov/sites/all/themes/epa/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="cleartype" content="on" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta name="viewport" content="width=device-width" />
+<!--googleon: all--><meta name="DC.description" content="Benefits and instructions about how to compost at home." />
+<meta name="DC.title" content="Composting At Home" />
+<title>Composting At Home | Reduce, Reuse, Recycle | US EPA</title><!--googleoff: snippet--><meta name="DC.creator" content="US EPA,OSWER,ORCR,PMCAO" />
+<meta name="DC.audience" content="Concerned Citizens &amp; Students" />
+<meta name="keywords" content="food waste, yard trimmings, recycling, backyard composting, indoor composting, RRR" />
+<meta content="Composting At Home" about="/recycle/composting-home" property="dc:title" />
+<link rel="shortlink" href="/node/28623" />
+<link rel="canonical" href="/recycle/composting-home" />
+<meta name="DC.language" content="en" />
+<meta name="DC.Subject.epachannel" content="Learn the Issues" />
+<meta name="DC.date.created" content="2013-04-17" />
+<meta name="DC.Subject.epasubstance" content="Wastes" />
+<meta name="DC.Subject.epappt" content="Waste Reduction" />
+<meta name="DC.type" content="Overviews and Factsheets" />
+<meta name="DC.date.modified" content="2013-07-17" />
+  <!--googleoff: all-->
+  <link type="text/css" rel="stylesheet" href="http://www2.epa.gov/sites/production/files/css/css_3gkPD_5um9ig7oSRgpKpqVqwcARxdDcmqCgaELdQLLs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www2.epa.gov/sites/production/files/css/css_azHYRKGtjAbH5ccKaM9BfVzabnv2tTlV7095snwqsDc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www2.epa.gov/sites/production/files/css/css_y9oZn4rJLAgK_gtfqY_vjQMBHGOnMqkqHCeUgjbwIsM.css" media="all" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="http://www2.epa.gov/sites/production/files/css/css_zjsIyDf8165l4Vr2ogrO9C9qPncxWLeqrwum-sncQeU.css" media="all" />
+<![endif]-->
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov News" href="http://yosemite.epa.gov/opa/admpress.nsf/RSSRecentNews" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov Headquarters Press Releases" href="http://yosemite.epa.gov/opa/admpress.nsf/RSSByLocation?open&location=Headquarters" />
+  <link rel="alternate" type="application/atom+xml" title="Greenversations, EPA's Blog" href="http://blog.epa.gov/blog/feed/" />
+  <link rel="alternate" type="application/atom+xml" title="Reduce, Reuse, Recycle" href="/feed/28519/rss.xml" />  <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/html5.js"></script><![endif]-->  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node-28623 node-type-page og-context og-context-node og-context-node-28519 section-recycle resource-directory" >
+  <div class="skip-links"><a href="#main-content" class="skip-link element-invisible element-focusable">Jump to main content</a></div>
+      <header class="masthead clearfix" role="banner">
+
+      <img class="site-logo" src="http://www2.epa.gov/sites/all/themes/epa/logo.png" alt="" />
+  
+  
+  <hgroup class="site-name-and-slogan">
+      <h1 class="site-name">
+
+      
+      <a href="/" title="Go to the home page" rel="home">      <span>EPA</span>
+      </a>
+    </h1>
+  
+      <div class="site-slogan">United States Environmental Protection Agency</div>
+  
+  </hgroup>
+  
+  <form class="epa-search" method="get" action="http://nlquery.epa.gov/epasearch/epasearch">
+    <label class="element-hidden" for="search-box">Search</label>
+    <input class="form-text" placeholder="Search EPA.gov" name="querytext" id="search-box" value=""/>
+    <button class="epa-search-button" id="search-button" type="submit" title="Search">Search</button>
+    <input type="hidden" name="fld" value="" />
+    <input type="hidden" name="areaname" value="" />
+    <input type="hidden" name="areacontacts" value="" />
+    <input type="hidden" name="areasearchurl" value="" />
+    <input type="hidden" name="typeofsearch" value="epa" />
+    <input type="hidden" name="result_template" value="epafiles_default.xsl" />
+    <input type="hidden" name="filter" value="sample4filt.hts" />
+  </form>
+</header>
+<section id="main-content" class="main-content clearfix" role="main">
+    
+  
+  <div class="region-preface clearfix">  <div id="block-epa-og-connect" class="block block-epa-og">
+
+  
+  
+    <ul class="menu utility-menu"><li class="menu-item"><a href="/recycle/forms/reduce-reuse-recycle-contact-us" class="menu-link contact-us">Contact Us</a></li></ul>  
+</div>
+<div id="block-views-hublinks-block" class="block block-views">
+
+  
+  
+    <div class="view view-hublinks view-id-hublinks view-display-id-block view-dom-id-8afcd8afe5791b0fda1cd103c92a4ce0">
+              
+
+<ul class="menu pipeline">
+  <li class="menu-item">  
+          <a href="/recycle">Reduce, Reuse, Recycle</a>  </li>
+
+</ul>          </div>
+  
+</div>
+  </div>
+    <div class="main-column clearfix">
+            
+          <!--googleon: all-->
+      <h1  class="page-title">Composting At Home</h1>
+      <!--googleoff: all-->
+    
+            
+    
+    <!--googleon: all-->
+    
+  
+    
+
+
+
+
+<div class="panel-pane pane-node-content" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="node node-page clearfix view-mode-full ">
+
+  
+  <div class="box multi related-info right">
+	<h2 class="pane-title">Composting Resources</h2>
+	<div class="pane-content">
+		<ul><li><a href="http://www.epa.gov/waste/conserve/tools/greenscapes/pubs/compost-guide.pdf">Composting Fact Sheet and how-to Guide (PDF)</a> <span class="fileinfo">(2 pp, 603.66K)</span></li>
+			<li><a href="http://cwmi.css.cornell.edu/smallscale.htm">Cornell Waste Management Institute's Small Scale Composting</a> <a class="exit-disclaimer" href="/webguide/exit-epa" title="EPA's External Link Disclaimer">Exit</a></li>
+		</ul></div>
+</div>
+<p>Compost is organic material that can be added to soil to help plants grow. Food scraps and yard waste currently make up 20 to 30 percent of what we throw away, and should be composted instead. Making compost keeps these materials out of landfills where they take up space and release methane, a potent greenhouse gas.</p>
+<p>All composting requires three basic ingredients:</p>
+<ul><li>Browns - This includes materials such as dead leaves, branches, and twigs.</li>
+	<li>Greens - This includes materials such as grass clippings, vegetable waste, fruit scraps, and coffee grounds.</li>
+	<li>Water - Having the right amount of water, greens, and browns is important for compost development.</li>
+</ul><p>Your compost pile should have an equal amount of browns to greens. You should also alternate layers of organic materials of different-sized particles. The brown materials provide carbon for your compost, the green materials provide nitrogen, and the water provides moisture to help break down the organic matter.</p>
+<div>
+	<ul class="accordion"><li><a class="accordion-title" href="#pane-1" title="Click to expand description">What To Compost</a>
+			<div class="accordion-pane" id="pane-1">
+				<ul><li>Fruits and vegetables</li>
+					<li>Eggshells</li>
+					<li>Coffee grounds and filters</li>
+					<li>Tea bags</li>
+					<li>Nut shells</li>
+					<li>Shredded newspaper</li>
+					<li>Cardboard</li>
+					<li>Paper</li>
+					<li>Yard trimmings</li>
+					<li>Grass clippings</li>
+					<li>Houseplants</li>
+					<li>Hay and straw</li>
+					<li>Leaves</li>
+					<li>Sawdust</li>
+					<li>Wood chips</li>
+					<li>Cotton and Wool Rags</li>
+					<li>Dryer and vacuum cleaner lint</li>
+					<li>Hair and fur</li>
+					<li>Fireplace ashes</li>
+				</ul></div>
+		</li>
+		<li><a class="accordion-title" href="#pane-2" title="Click to expand description">What Not To Compost and Why</a>
+			<div class="accordion-pane" id="pane-2">
+				<ul><li>Black walnut tree leaves or twigs<br />
+						- Releases substances that might be harmful to plants</li>
+					<li>Coal or charcoal ash<br />
+						- Might contain substances harmful to plants</li>
+					<li>Dairy products (e.g., butter, milk, sour cream, yogurt) and eggs*<br />
+						- Create odor problems and attract pests such as rodents and flies</li>
+					<li>Diseased or insect-ridden plants<br />
+						- Diseases or insects might survive and be transferred back to other plants</li>
+					<li>Fats, grease, lard, or oils*<br />
+						- Create odor problems and attract pests such as rodents and flies</li>
+					<li>Meat or fish bones and scraps*<br />
+						- Create odor problems and attract pests such as rodents and flies</li>
+					<li>Pet wastes (e.g., dog or cat feces, soiled cat litter)*<br />
+						- Might contain parasites, bacteria, germs, pathogens, and viruses harmful to humans</li>
+					<li>Yard trimmings treated with chemical pesticides<br />
+						- Might kill beneficial composting organisms<br /><p>* Check with your local composting or recycling coordinator to see if these organics are accepted by your community curbside or drop-off composting program.</p>
+					</li>
+				</ul></div>
+		</li>
+	</ul><h2>Benefits of Composting</h2>
+	<ul><li>Enriches soil, helping retain moisture and suppress plant diseases and pests.</li>
+		<li>Reduces the need for chemical fertilizers.</li>
+		<li>Encourages the production of beneficial bacteria and fungi that break down organic matter to create humus, a rich nutrient-filled material.</li>
+		<li>Reduces methane emissions from landfills and lowers your carbon footprint.</li>
+	</ul><h2>How to Compost at Home</h2>
+	<p>There are many different ways to make a compost pile; we have provided the following for general reference. Helpful tools include pitchforks, square-point shovels or machetes, and water hoses with a spray head. Regular mixing or turning of the compost and some water will help maintain the compost.</p>
+	<h3>Backyard Composting</h3>
+	<ul><li>Select a dry, shady spot near a water source for your compost pile or bin.</li>
+	</ul><ul><li>Add brown and green materials as they are collected, making sure larger pieces are chopped or shredded.</li>
+	</ul><ul><li>Moisten dry materials as they are added.</li>
+	</ul><ul><li>Once your compost pile is established, mix grass clippings and green waste into the pile and bury fruit and vegetable waste under 10 inches of compost material.</li>
+	</ul><ul><li>Optional: Cover top of compost with a tarp to keep it moist. When the material at the bottom is dark and rich in color, your compost is ready to use. This usually takes anywhere between two months to two years.</li>
+	</ul><h3>Indoor Composting</h3>
+	<p>If you do not have space for an outdoor compost pile, you can compost materials indoors using a special type of bin, which you can buy at a local hardware store, gardening supplies store, or make yourself. Remember to tend your pile and keep track of what you throw in. A properly managed compost bin will not attract pests or rodents and will not smell bad. Your compost should be ready in two to five weeks.</p>
+	<h4 class="highlighted">Build Your Own Indoor Bin</h4>
+	<ul><li>Drill half-an-inch diameter holes in the bottom and sides of a plastic garbage can. The size of the garbage can depends on how much compost you'd like to make.</li>
+	</ul><ul><li>Place a brick in the bottom of a larger garbage can, surround the brick with a layer of wood chips or soil, and place the smaller can inside on top of the brick.</li>
+	</ul><ul><li>Wrap insulation around the outer can to keep the compost warm and cover the cans with a lid.</li>
+	</ul><p class="pagetop"><a href="#content">Top of page</a></p>
+</div>
+
+</div>
+  </div>
+
+  
+  
+</div>
+
+
+
+<div id="block-epa-og-footer" class="block block-epa-og">
+  
+  
+  
+  
+    <p class="web-area-footer"><a href="/recycle/forms/reduce-reuse-recycle-contact-us" class="contact-us">Contact Us</a> to ask a question, provide feedback, or report a problem.</p>  
+</div>
+  
+    <!--googleoff: all-->
+      </div>
+  </section>
+
+  <nav class="nav simple-nav simple-main-nav" role="navigation">
+    <h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="expanded menu-item"><a href="/learn-issues" title="Learn what you can do to protect the environment in your home, workplace, and community." class="menu-link">Learn the Issues</a><ul class="menu"><li class="menu-item"><a href="/learn-issues/learn-about-air" title="" class="menu-link">Air</a></li>
+<li class="menu-item"><a href="/learn-issues/learn-about-chemicals-and-toxics" title="" class="menu-link">Chemicals and Toxics</a></li>
+<li class="menu-item"><a href="http://www.epa.gov/climatechange/" title="" class="menu-link">Climate Change</a></li>
+<li class="menu-item"><a href="/learn-issues/learn-about-emergencies" title="" class="menu-link">Emergencies</a></li>
+<li class="menu-item"><a href="/learn-issues/learn-about-green-living" title="" class="menu-link">Green Living</a></li>
+<li class="menu-item"><a href="/learn-issues/learn-about-health-and-safety" title="" class="menu-link">Health and Safety</a></li>
+<li class="menu-item"><a href="/learn-issues/learn-about-land-and-cleanup" title="" class="menu-link">Land and Cleanup</a></li>
+<li class="menu-item"><a href="/safepestcontrol" title="" class="menu-link">Pesticides</a></li>
+<li class="menu-item"><a href="/learn-issues/learn-about-waste" title="" class="menu-link">Waste</a></li>
+<li class="menu-item"><a href="/learn-issues/learn-about-water" title="" class="menu-link">Water</a></li>
+</ul></li>
+<li class="menu-item"><a href="/science-and-technology" title="EPA&#039;s research mission is to conduct leading-edge research and foster the sound use of science and technology to fulfill EPA&#039;s mission to protect human health and safeguard the natural environment." class="menu-link">Science &amp; Technology</a><ul class="menu"><li class="menu-item"><a href="/science-and-technology/air-science" title="" class="menu-link">Air</a></li>
+<li class="menu-item"><a href="http://www.epa.gov/climatechange/science/" title="" class="menu-link">Climate Change</a></li>
+<li class="menu-item"><a href="/science-and-technology/ecosystems-science" title="" class="menu-link">Ecosystems</a></li>
+<li class="menu-item"><a href="/science-and-technology/health-science" title="" class="menu-link">Health</a></li>
+<li class="menu-item"><a href="/science-and-technology/land-waste-and-cleanup-science" title="" class="menu-link">Land, Waste and Cleanup</a></li>
+<li class="menu-item"><a href="/science-and-technology/pesticides-science" title="" class="menu-link">Pesticides</a></li>
+<li class="menu-item"><a href="/science-and-technology/substances-and-toxics-science" title="" class="menu-link">Substances and Toxics</a></li>
+<li class="menu-item"><a href="/science-and-technology/sustainable-practices-science" title="" class="menu-link">Sustainable Practices</a></li>
+<li class="menu-item"><a href="/science-and-technology/water-science" title="" class="menu-link">Water</a></li>
+</ul></li>
+<li class="menu-item"><a href="/laws-regulations" title="Laws written by Congress provide the authority for EPA to write regulations. Regulations explain the technical, operational, and legal details necessary to implement laws." class="menu-link">Laws &amp; Regulations</a><ul class="menu"><li class="menu-item"><a href="/regulatory-information-sector" title="" class="menu-link">By Business Sector</a></li>
+<li class="menu-item"><a href="/regulatory-information-topic" title="" class="menu-link">By Topic</a></li>
+<li class="menu-item"><a href="/laws-regulations/compliance" title="" class="menu-link">Compliance</a></li>
+<li class="menu-item"><a href="/enforcement" title="" class="menu-link">Enforcement</a></li>
+<li class="menu-item"><a href="/laws-regulations/laws-and-executive-orders" title="" class="menu-link">Laws and Executive Orders</a></li>
+<li class="menu-item"><a href="/laws-regulations/policy-guidance" title="" class="menu-link">Policy and Guidance</a></li>
+<li class="menu-item"><a href="/laws-regulations/regulations" title="" class="menu-link">Regulations</a></li>
+</ul></li>
+<li class="expanded menu-item"><a href="/aboutepa" title="Learn more about: our mission and what we do, how we are organized, and our history." class="menu-link">About EPA</a><ul class="menu"><li class="menu-item"><a href="/aboutepa/administrator-gina-mccarthy" title="" class="menu-node-unpublished menu-link">Administrator Gina McCarthy</a></li>
+<li class="menu-item"><a href="/aboutepa/current-leadership" title="" class="menu-link">Current Leadership</a></li>
+<li class="menu-item"><a href="http://cfpub.epa.gov/locator/index.cfm" title="" class="menu-link">Staff Directory</a></li>
+<li class="menu-item"><a href="/planandbudget" title="" class="menu-link">Planning, Budget and Results</a></li>
+<li class="menu-item"><a href="http://www.epa.gov/careers/" title="" class="menu-link">Jobs and Internships</a></li>
+<li class="menu-item"><a href="http://www2.epa.gov/aboutepa/#pane-2" title="" class="menu-link">Headquarters Offices</a></li>
+<li class="menu-item"><a href="http://www2.epa.gov/aboutepa/#pane-4" title="" class="menu-link">Regional Offices</a></li>
+<li class="menu-item"><a href="http://www2.epa.gov/aboutepa/#pane-5" title="" class="menu-link">Labs and Research Centers</a></li>
+</ul></li>
+</ul>  </nav>
+
+  <nav class="nav simple-nav simple-secondary-nav" role="navigation">
+    <h2 class="element-invisible">Secondary menu</h2><ul class="menu secondary-menu"><li class="menu-1569 menu-item"><a href="http://www.epa.gov/espanol/" title="Spanish" class="menu-link">Español</a></li>
+<li class="menu-1571 menu-item"><a href="http://www.epa.gov/chinese/" title="Traditional Chinese" class="menu-link">中文: 繁體版</a></li>
+<li class="menu-1573 menu-item"><a href="http://www.epa.gov/chinese/simple/" title="Simplified Chinese" class="menu-link">中文: 简体版</a></li>
+<li class="menu-1575 menu-item"><a href="http://www.epa.gov/vietnamese/" title="Vietnamese" class="menu-link">Tiếng Việt</a></li>
+<li class="menu-1577 menu-item"><a href="http://www.epa.gov/korean/" title="Korean" class="menu-link">한국어</a></li>
+</ul>  </nav>
+
+<footer class="main-footer clearfix" role="contentinfo">
+  
+  
+  <div class="region-footer">  <div id="block-epa-core-footer" class="block block-epa-core">
+  
+  
+  
+  
+    <div class="row cols-2">
+  <div class="col size-2of5">
+    <ul class="pipeline">
+      <li><a href="http://www.epa.gov/">EPA Home</a></li>
+      <li><a href="/webguide/privacy-and-security-notice">Privacy and Security Notice</a></li>
+      <li><a href="http://www.epa.gov/accessibility/statement.htm">Accessibility</a></li>
+    </ul>
+    <p class="last-updated">Last updated on July 17, 2013</p>
+  </div>
+  <div class="col size-3of5">
+    <ul class="menu epa-menu">
+      <li class="menu-item"><a class="menu-link epa-email" href="/newsroom">News by Email</a></li>
+      <li class="menu-item"><a class="menu-link epa-widgets" href="http://www.epa.gov/widgets/">Widgets</a></li>
+      <li class="menu-item"><a class="menu-link epa-feeds" href="/newsroom/feeds">News Feeds</a></li>
+      <li class="menu-item"><a class="menu-link epa-podcasts" href="http://www.epa.gov/epahome/podcasts.htm">Podcasts</a></li>
+      <li class="menu-item"><a class="menu-link epa-blog" href="/aboutepa/greenversations">EPA Blog</a></li>
+    </ul>
+    <div class="social-menu-wrapper">
+      <div class="social-menu-title">Social sites:</div>
+      <ul class="menu social-menu">
+        <li class="menu-item"><a class="menu-link social-facebook" href="https://www.facebook.com/EPA">Facebook</a></li>
+        <li class="menu-item"><a class="menu-link social-youtube" href="http://www.youtube.com/user/USEPAgov">YouTube</a></li>
+        <li class="menu-item"><a class="menu-link social-twitter" href="https://twitter.com/epa">Twitter</a></li>
+        <li class="menu-item"><a class="menu-link social-flickr" href="http://www.flickr.com/photos/usepagov">Flickr</a></li>
+      </ul>
+      <p class="social-menu-more"><a href="/aboutepa/social-media">More social media at&nbsp;EPA&nbsp;»</a></p>
+    </div>
+  </div>
+</div>  
+</div>
+  </div>
+</footer>
+  <script type="text/javascript" src="http://www2.epa.gov/sites/production/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="http://www2.epa.gov/sites/production/files/js/js_JOQ9mTLjNPEX__KbvYt9kZPL7NBgxK0UcOIHrk1fynE.js"></script>
+<script type="text/javascript" src="http://www2.epa.gov/sites/all/modules/custom/epa_core/js/alert.js?mtxho2"></script>
+<script type="text/javascript" src="http://www2.epa.gov/sites/production/files/js/js_cjmkhjdYj9qyv8rH-ylGyD-SIMacZ-dzdqW9m8x_TEc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0005/9240.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-32633028-1"]);_gaq.push(['_setCustomVar', 5, "User Roles", "anonymous user", 2]);/* 
+ * Get Root Domain- Used for Google Analytics _setDomainName & _addIgnoredRef
+ */
+
+var epaGA_hostName= window.location.hostname;
+var epaGA_hostArray= epaGA_hostName.split('.').slice(-2);
+var epaGA_hostDomain= epaGA_hostArray.join('.').toLowerCase();
+
+/* 
+ * Get Google Analytics Visitor Cookie
+ */
+
+function getCookie(c_name) {
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++) {
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name) {
+    return unescape(y);
+    }
+  }
+}
+
+var epaGA_visitorIdCookie=getCookie("__utma");
+if (epaGA_visitorIdCookie!=null && epaGA_visitorIdCookie!="") {
+ var epaGA_visitorIDCookieSplit= epaGA_visitorIdCookie.split(".");
+ var epaGA_gaVisitorID= (epaGA_visitorIDCookieSplit[1]);
+}
+else {
+ epaGA_gaVisitorID="one and done visitor"
+}
+
+/* START For Cross Domain Tracking Use Visitor ID from __utma query param instead of cookie */
+
+	function getQuerystring(key, default_)
+{
+  if (default_==null) default_="";
+  key = key.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regex = new RegExp("[\\?&]"+key+"=([^&#]*)");
+  var qs = regex.exec(window.location.href);
+  if(qs == null)
+    return default_;
+  else
+    return qs[1];
+}	
+
+if(window.location.href.indexOf('__utma') > 1){
+	epaGA_gaVisitorID = getQuerystring('__utma').split('.')[1];
+}//if 
+else{
+	//nothing
+}//else
+
+/* END For Cross Domain Tracking Use Visitor ID from __utma query param instead of cookie  */
+
+/*
+ * NEW LINES 7 Mar 2013
+ * Read the body class and assign a content type
+ * REVISED 19 Mar 2013
+ * For backwards compatibility with IE7 and IE8
+ *   instead of getAttribute, we use getElementsByTagName, attributes, and nodeValue
+ */
+    var epaGA_gaContentType = 'not-assigned';
+
+//  var classList = document.body.getAttribute('class') || [];
+    var classList = [];
+    var elements = document.getElementsByTagName('body');
+
+    for(var i=0; i<elements.length; i++){
+        if(typeof elements[i].attributes['class']=='undefined'){
+            classList = elements[i].getAttribute('class');
+        } else {
+            classList = elements[i].attributes['class'].nodeValue;
+        }
+    }
+
+      if(classList.indexOf('node-type-web-area') !== -1) {
+        if(classList.indexOf('microsite') !== -1) {
+            epaGA_gaContentType = 'microsite';
+        }
+        else if(classList.indexOf('resource-directory') !== -1) {
+            epaGA_gaContentType = 'resource-directory';
+        }
+      }
+      
+// Page Level Google Analytics Code
+ 
+ _gaq.push(['_setDomainName', epaGA_hostDomain]);
+ _gaq.push(['_addIgnoredRef', epaGA_hostDomain]); 
+ _gaq.push(['_setAllowLinker', true]); 
+ _gaq.push(['_setCustomVar',1,'visitor id',epaGA_gaVisitorID,1]);
+
+ /*
+  * NEW LINE 7 Mar 2013
+  * Send content type and pathname to page-level custom variable in slot 2
+  * REVISED 19 Mar 2013
+  * Convert document.location.pathname to lowercase
+  */
+     _gaq.push(['_setCustomVar',2,epaGA_gaContentType,document.location.pathname.toLowerCase(),3]);
+
+if(epaGA_hostName.indexOf("wcms.epa.gov") == -1 ){
+ _gaq.push(['GSA._setAccount', 'UA-33523145-1']); // Parallel tracking to GSA
+ _gaq.push(['GSA._setDomainName', epaGA_hostDomain]); // Parallel tracking to GSA
+ _gaq.push(['GSA._addIgnoredRef', epaGA_hostDomain]);  // Parallel tracking to GSA
+ _gaq.push(['GSA._setAllowLinker', true]);  // Parallel tracking to GSA - will use referring site's cookies sent in URL 
+ _gaq.push(['GSA._setCustomVar', 3, 'Agency', 'EPA', 3]); // Page level variable sent only to GSA account
+ _gaq.push(['GSA._setCustomVar', 4, 'Sub-Agency', 'EPA - ' + epaGA_hostName, 3]); // Page level variable sent only to GSA account
+ _gaq.push(['GSA._setCustomVar', 5, 'Code Ver', 'EPA 1.0 121211', 3]); // Page level variable sent only to GSA account
+ _gaq.push(['GSA._trackPageview']);
+
+jQuery(function() {
+//Specify Filetypes Tracked
+        var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3|aspx)$/i;
+
+        //Specify Cross Domains Tracked
+        var domains = /(epa.gov|epa-otis.gov|epa-echo.gov|energystar.gov|enviroflash.info|airnow.gov|urbanwaters.gov|relocatefeds.gov|lab21century.gov|supportportal.com)/i;
+
+        var crossExclude = /(http:\/\/oaspub.epa.gov\/enviro\/fii_query_dtl.disp_program_facility|http:\/\/iaspub.epa.gov\/enviro\/tsca.get_chem_info|http:\/\/iaspub.epa.gov\/enviro\/ICIS_DETAIL_REPORTS_NPDESID.icis_tst|http:\/\/oaspub.epa.gov\/enviro\/tris_control.tris_print|http:\/\/www.epa.gov\/myenv\/myenview2.html|http:\/\/www.epa.gov\/emefdata\/em4ef.html|http:\/\/nepassisttool.epa.gov\/nepassist\/nepamap.aspx|http:\/\/nepassist.epa.gov\/nepave\/nepamap.aspx|cfpub.epa.gov|yosemite.epa.gov|iaspub.epa.gov|oaspub.epa.gov|ofmpub.epa.gov|watersgeo.epa.gov|cfpub2.epa.gov|cumulis.epa.gov|cfpub1.epa.gov|actor.epa.gov|nepis.epa.gov|yosemite1.epa.gov|ofmext.epa.gov|epamap32.epa.gov|gispub2.epa.gov|gispub6.epa.gov|epamap10.epa.gov|epamap21.epa.gov|maps6.epa.gov|http:\/\/ghgdata.epa.gov\/ghgp\/main.do)/i;
+
+        var baseHref = '';
+        if (jQuery('base')
+            .attr('href') != undefined) baseHref = jQuery('base')
+            .attr('href');
+        jQuery('a')
+            .each(function() {
+            var href = jQuery(this)
+                .attr('href');
+
+            //Cross Domain Tracking
+
+            if (href && (href.match(domains)) && (href.indexOf(epaGA_hostDomain) == -1) && (!href.match(crossExclude))) {
+                jQuery(this)
+                    .click(function() {
+                    var extLink = href.replace(/^https?\:\/\//i, '');
+                    _gaq.push(['_trackEvent', 'crossDomain', 'Link Click', extLink]);
+  				if(epaGA_hostName.indexOf("wcms.epa.gov") == -1 ){
+                    _gaq.push(['GSA._trackEvent', 'crossDomain', 'Link Click', extLink]); // Parallel tracking to GSA
+					}
+                    _gaq.push(['_setAllowLinker', true]);
+                    if (this.target == '_blank') {
+                        window.open(_gat._getTrackers()[0]._getLinkerUrl(this.href));
+                    } else {
+                        _gaq.push(['_link', this.href]);
+                    }
+                    return false;
+                });
+            }
+
+            //Download Link Tracking
+
+            else if (href && href.match(filetypes)) {
+                jQuery(this)
+                    .click(function() {
+                    var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+                    var filePath = href;
+                    _gaq.push(['_trackEvent', 'Download', extension + ' Click', filePath]);
+					if(epaGA_hostName.indexOf("wcms.epa.gov") == -1 ){
+                   _gaq.push(['GSA._trackEvent', 'Download', extension + ' Click', filePath]); // Parallel tracking to GSA
+					}
+                    if (jQuery(this)
+                        .attr('target')
+                        .toLowerCase() != '_blank') {
+                        setTimeout(function() {
+                            location.href = baseHref + href;
+                        }, 150);
+                        return false;
+                    }
+                });
+            }
+
+            //Mailto Link Tracking
+
+            else if (href && href.match(/^mailto\:/i)) {
+                jQuery(this)
+                    .click(function() {
+                    var mailLink = href.replace(/^mailto\:/i, '');
+                    _gaq.push(['_trackEvent', 'Email', 'Link Click', mailLink]);
+					if(epaGA_hostName.indexOf("wcms.epa.gov") == -1 ){
+                    _gaq.push(['GSA._trackEvent', 'Email', 'Link Click', mailLink]); // Parallel tracking to GSA
+					}
+                    setTimeout(function() {
+                        location.href = href;
+                    }, 150);
+                    return false;
+                });
+            }
+
+            //External Link Tracking
+
+            else if (href && (href.match(/^https?\:/i)) && (href.indexOf(epaGA_hostDomain) == -1)) {
+                jQuery(this)
+                    .click(function() {
+                    var extLink = href.replace(/^https?\:\/\//i, '');
+                    _gaq.push(['_trackEvent', 'External', 'Link Click', extLink]);
+					if(epaGA_hostName.indexOf("wcms.epa.gov") == -1 ){
+                    _gaq.push(['GSA._trackEvent', 'External', 'Link Click', extLink]); // Parallel tracking to GSA
+					}
+                    if (jQuery(this)
+                        .attr('target') != undefined && jQuery(this)
+                        .attr('target')
+                        .toLowerCase() != '_blank') {
+                        setTimeout(function() {
+                            location.href = href;
+                        }, 150);
+                        return false;
+                    }
+                });
+            }
+        });
+});
+}_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www2.epa.gov/sites/production/files/js/js_vWUaXi5cgKFhmuB5g-80tLuEfEaredHuu1quvlpCbrM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"epa","theme_token":"UJmIiaRX0Q4rzGEnnuP89cwGGDOTDV-bdIzQPlC0khE"},"ogContext":{"groupType":"node","gid":"28519"}});
+//--><!]]>
+</script>
+    <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/ie.js"></script><![endif]--></body>
+</html>

@@ -1,0 +1,410 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	ACOG - Ob-Gyns Endorse Same-Sex Marriage Equality
+</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta id="keywords" name="keywords" /><meta id="description" name="description" /><link id="ResetCss" rel="stylesheet" type="text/css" href="/~/media/CSS/reset.css" /><link id="GlobalCss" rel="stylesheet" type="text/css" href="/~/media/CSS/global.css" />
+    <!--[if IE 8]>
+        <link id="ie8Css" rel="stylesheet" media="screen" type="text/css" href="/~/media/CSS/ie8.css" />
+    <![endif]-->
+    <!--[if IE 7]>
+        <link id="ie7Css" rel="stylesheet" media="screen" type="text/css" href="/~/media/CSS/ie7.css" />
+    <![endif]-->
+    <!--[if IE 6]>
+        <link id="ie6Css" rel="stylesheet" media="screen" type="text/css" href="/~/media/CSS/ie6.css" />
+    <![endif]-->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.19/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/ACOGProject/ACOG/frontend/js/jquery.jcarousel.min.js"></script>
+    <script type="text/javascript" src="/ACOGProject/ACOG/frontend/js/global.js"></script>
+    <script type="text/javascript">
+        var addthis_share = { templates: { twitter: "ACOG - Ob-Gyns Endorse Same-Sex Marriage Equality - http://www.acog.org/About_ACOG/News_Room/News_Releases/2013/Ob-Gyns_Endorse_Same-Sex_Marriage_Equality via @acognews"} }
+    </script>
+    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f903b6111596157"></script>
+    <script type="text/javascript" language="JavaScript">
+        function keydown(e, s) {
+            if (!e) var e = window.event;
+            if (e.keyCode) code = e.keyCode;
+            else if (e.which) code = e.which;
+            if (code == 13) {
+                document.getElementById(s).focus();
+            }
+        }
+              
+    </script>
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-2202366-1']);
+//      _gaq.push(['_setDomainName', 'www.acog.org']);
+        _gaq.push(['_setDomainName', 'acog.org']);
+        _gaq.push(['_setAllowAnchor', true]);
+        _gaq.push(['_trackPageview', '/About_ACOG/News_Room/News_Releases/2013/Ob-Gyns_Endorse_Same-Sex_Marriage_Equality?scid=0a827e75-e926-4f88-bff6-eca26e4b0728']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+    <script type="text/javascript">
+        if (typeof jQuery != 'undefined') {
+
+            jQuery(document).ready(function ($) {
+                var filetypes = /\.(zip|pdf|doc*|xls*|ppt*|jpg|ashx)$/i;
+                var baseHref = '';
+                if (jQuery('base').attr('href') != undefined) baseHref = jQuery('base').attr('href');
+                jQuery('a').each(function () {
+                    var href = jQuery(this).attr('href');
+                    if (href) {
+
+                        if (href.indexOf('?') != '-1') {
+                            href = href.substring(0, href.indexOf('?'));
+                        }
+
+                        if (href.match(filetypes)) {
+                            jQuery(this).click(function () {
+                                var extension = String((/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined);
+                                var filePath = String(href);
+
+                                _gaq.push(['_trackEvent', 'Download', extension, filePath]);
+                                if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                                    setTimeout(function () {
+                                        location.href = baseHref + href;
+                                    }, 200);
+                                    return false;
+                                }
+                            });
+                        }
+                    }
+                });
+            });
+        }
+    </script>
+    <script type="text/javascript" language="JavaScript">
+
+        var homeCarouselAutoStart = true;
+        var homeCarouselScrollTime = 10;
+        var homeCarouselScrollItems = 1;
+
+        var exploreAcogAutoStart = true;
+        var exploreAcogScrollTime = 8;
+        var exploreAcogScrollItems = 5;
+
+        var acogSpotlightAutoStart = true;
+        var acogSpotlightScrollTime = 7;
+        var acogSpotlightScrollItems = 1;
+    </script>
+</head>
+<body>
+    <form method="post" action="Ob-Gyns_Endorse_Same-Sex_Marriage_Equality" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTEwNjc5ODcxZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQURSW1hZ2VCdXR0b25TZWFyY2juKMCFGaFghKH1fTkYUhI8CIwJXg==" />
+
+
+<script src="/ScriptResource.axd?d=dFjETKdCTW1o1JCZXjzbgKacyhCf1TPMwqtivIv1ehKVSrF72auzD_5haVXcXxcX44jxoJG00E7zVlXxCFoKmDtz_DNldlKV3_vbjL-9GUaXer69rL05AEv7G69fdOIjTi1Py3Fu-ZtSKRe7AsrV_OjGa8k1&amp;t=47727e12" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKu+OCnCAL8jpGTBgK4+MX7DYGuBZqvNnlbw4vmorghHcZ2PZKy" />
+    
+    
+    
+    <div class="page_container">
+        <div class="header">
+            <div class="logo">
+                <a href="/">
+                    <img src="/~/media/acog_logo.gif" id="headerLogo" alt="ACOG Logo" /></a>
+            </div>
+            <div id="FindUs" class="find_us">
+                <p>
+                    Follow us: 
+                </p>
+                <ul class="social_networks">
+                    
+                            <li><a href="http://www.facebook.com/ACOGNational" id="SocailMediaRepeater_SocialMediaHyperLink_0" title="$name" target="_blank" class=""><img title="Facebook" src="/~/media/Icons/Social%20Media/facebook_icon.jpg" alt="Facebook" /></a></li>
+                        
+                            <li><a href="http://twitter.com/acognews" id="SocailMediaRepeater_SocialMediaHyperLink_1" title="Twitter" target="_blank" class=""><img title="Twitter" width="20" height="20" src="/~/media/Icons/Social%20Media/twitter_icon.jpg" alt="Twitter" /></a></li>
+                        
+                            <li><a href="http://www.youtube.com/acognews" id="SocailMediaRepeater_SocialMediaHyperLink_2" title="Youtube" target="_blank" class=""><img title="YouTube" src="/~/media/Icons/Social%20Media/icon_youtube.jpg" alt="YouTube" /></a></li>
+                        
+                            <li><a href="http://acogpresident.org" id="SocailMediaRepeater_SocialMediaHyperLink_3" title="$name" target="_blank" class=""><img title="Blogger" src="/~/media/Icons/Social%20Media/icon_blogger.jpg" alt="Blogger" /></a></li>
+                        
+                            <li><a href="/RSS" id="SocailMediaRepeater_SocialMediaHyperLink_4" title="$name" class=""><img title="RSS Feed" src="/~/media/Icons/Social%20Media/rss20x20.gif" alt="RSS Feed" /></a></li>
+                        
+                    
+                </ul>
+            </div>
+            <div class="header_utils">
+                <ul>
+                    <li>
+                        <a id="HyperLinkForLoginPage" title="Member Login" href="https://access.acog.org/eweb/dynamicpage.aspx?site=congress&amp;webcode=LoginRequired&amp;urlReq=http%3a%2f%2fwww.acog.org%2fAbout+ACOG%2fNews+Room%2fNews+Releases%2f2013%2fOb-Gyns+Endorse+Same-Sex+Marriage+Equality.aspx%3f">Member Login</a>
+                        &nbsp;
+                        
+                    </li>
+                    
+                            <li><a href="/MyACOG">
+                                My ACOG</a></li>
+                        
+                            <li><a href="/About_ACOG">
+                                About ACOG</a></li>
+                        
+                            <li><a href="/About_ACOG/Contact_Us">
+                                Contact Us</a></li>
+                        
+                </ul>
+            </div>
+            <div class="search_box">
+                <input name="SearchBoxMain" type="text" value="Enter Search Keyword" id="SearchBoxMain" class="search_textbox" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ImageButtonSearch&#39;)" />
+                <div class="btnwrap">
+                    <input type="image" name="ImageButtonSearch" id="ImageButtonSearch" class="search_btn" src="/ACOGProject/ACOG/frontend/images/headerSearchBtn.png" alt="search" />
+                </div>
+            </div>
+            <div class="navigation">
+                <ul>
+                    
+                            <li>
+                                <a id="navigation_HyperLinkNavigation_0" href="/">Home</a>
+                            </li>
+                        
+                            <li>
+                                <a id="navigation_HyperLinkNavigation_1" href="/Resources_And_Publications">Resources & Publications</a>
+                            </li>
+                        
+                            <li>
+                                <a id="navigation_HyperLinkNavigation_2" href="/Practice_Management">Practice Management</a>
+                            </li>
+                        
+                            <li>
+                                <a id="navigation_HyperLinkNavigation_3" href="/Education_and_Events">Education & Events</a>
+                            </li>
+                        
+                            <li>
+                                <a id="navigation_HyperLinkNavigation_4" href="/Advocacy">Advocacy</a>
+                            </li>
+                        
+                            <li>
+                                <a id="navigation_HyperLinkNavigation_5" href="/For_Patients">For Patients</a>
+                            </li>
+                        
+                            <li>
+                                <a id="navigation_HyperLinkNavigation_6" class="current" href="/About_ACOG">About ACOG</a>
+                            </li>
+                        
+                </ul>
+            </div>
+        </div>
+        <div id="secondaryPageHeader" class="page_header">
+            <a href="/About_ACOG/Find_an_Ob-Gyn" id="FindObgyn">
+                <img src="/~/media/Images/find_obgyn.png" id="ObgynImage" alt="Find an OBGYN" /></a>
+            <h2 id="title">Ob-Gyns Endorse Same-Sex Marriage Equality</h2>
+            <div id="breadcrumbDiv" class="breadcrumbs">
+                <ul id="breadcrumbs">
+                <li><a href="/">Home</a></li><li><a href="/About_ACOG">About ACOG</a></li><li><a href="/About_ACOG/News_Room">News Room</a></li><li><a href="/About_ACOG/News_Room/News_Releases">News Releases</a></li><li><a href="/About_ACOG/News_Room/News_Releases/2013">2013</a></li><li class="last_breadcrumb">Ob-Gyns Endorse Same-Sex Marriage Equality</li></ul>
+            </div>
+        </div>
+        <div id="page_content" class="page_content ">
+            <div id="all_content_0_leftNavigationDiv" class="leftNavigation">
+    
+<input id="leftNavigation" name="leftNavigation" type="checkbox" />
+<label for="leftNavigation">
+    Page Navigation &#9660;</label>
+<article class="accordion-small"> 
+<ul id="all_content_0_left_nav_0_LeftNav">
+    
+            <li >
+                <a href="/About_ACOG/ACOG_Departments">ACOG Departments & Activities</a>
+                
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/ACOG_Districts">ACOG Districts</a>
+                
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/ACOG_Sections">ACOG Sections</a>
+                
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/Announcements">Announcements</a>
+                
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/Contact_Us">Contact Us</a>
+                
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/Find_an_Ob-Gyn">Find an Ob-Gyn</a>
+                
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/ACOG_Departments/Junior_Fellows">Junior Fellows</a>
+                
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/Leadership_and_Governance">Leadership & Governance</a>
+                
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/ACOG_Departments/Medical_Students">Medical Students</a>
+                
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/ACOG_Departments/Membership_Services">Membership Services</a>
+                
+            </li>
+        
+            <li class="selected">
+                <a href="/About_ACOG/News_Room">News Room</a>
+                
+                        <ul>
+                    
+                        <li>
+                            <a href="/About_ACOG/News_Room/News_Releases">News Releases</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/About_ACOG/News_Room/ACOG_Presidents_Blog">ACOG President's Blog</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/About_ACOG/News_Room/News_and_Updates">News & Updates</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/About_ACOG/News_Room/Reports_and_Campaigns">Reports & Campaigns</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/About_ACOG/News_Room/Todays_Headlines">Today's Headlines</a>
+                        </li>
+                    
+                        </ul>
+                    
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/Online_Discussion">Online Discussion</a>
+                
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/Other_ACOG_Resources">Other ACOG Resources</a>
+                
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/Strategic_Plan">Strategic Plan</a>
+                
+            </li>
+        
+            <li >
+                <a href="/About_ACOG/ACOG_Departments/Young_Physicians">Young Physicians</a>
+                
+            </li>
+        
+</ul>
+</article>
+<div id="all_content_0_left_nav_1_leftRail"></div>
+</div>
+<div id="all_content_0_centerContent" class="centerContent">
+    <!-- AddThis Button BEGIN -->
+    <div id="all_content_0_addthis_toolbox" class="addthis_toolbox addthis_default_style addthis_32x32_style">
+        <p>
+            Share: 
+        </p>
+        
+                
+                <a id="all_content_0_RepeaterAddThisToolBox_AddThisHyperLink_0" class="addthis_button_facebook"></a>
+            
+                
+                <a id="all_content_0_RepeaterAddThisToolBox_AddThisHyperLink_1" tw:via="acognews" class="addthis_button_twitter"></a>
+            
+                
+                <a id="all_content_0_RepeaterAddThisToolBox_AddThisHyperLink_2" class="addthis_button_email"></a>
+            
+                <a href="/About_ACOG/News_Room/News_Releases/2013/Ob-Gyns_Endorse_Same-Sex_Marriage_Equality?p=1" target="_blank" class="print_this" title="Print"><span class="print_this_span_32x32"></span></a>
+                <a id="all_content_0_RepeaterAddThisToolBox_AddThisHyperLink_3" class="addthis_button_more"></a>
+            
+        
+    </div>
+    <!-- AddThis Button END -->
+    <div id="all_content_0_main_content_0_news_release" class="horizontal_wrap news_release"><img src="/~/media/NewsRoom/ReleaseCollege.jpg" alt="Banner" class="release_image" /><h1>Ob-Gyns Endorse Same-Sex Marriage Equality</h1><div class="italic_text">Marriage Benefits Important to Patients' Health</div><h4>August 20, 2013</h4><span><p><b><i>Washington, DC</i></b> -- The American College of Obstetricians and Gynecologists (The College) today voices its endorsement of marriage equality for same-sex couples. In applauding the&nbsp;<a href="/About_ACOG/News_Room/News_Releases/2013/ACOG_Statement_on_Supreme_Court_Rulings_on_Defense_of_Marriage_Act_and_California_Proposition_8">recent Supreme Court ruling</a> providing equal treatment for legally married same-sex couples, The College says that legalizing gay marriage benefits women&rsquo;s health.</p>
+<p>&ldquo;As ob-gyns, we must be strong advocates for all of our patients&rsquo; health and well-being,&rdquo; said Jeanne A. Conry, MD, PhD, president of The College. &ldquo;We know that access to health care and the health of women and their families is tied to financial security. Marriage helps provide this financial security for many women, regardless of sexual orientation.&rdquo; Some of these financial protections include access to Social Security benefits and rights to shared property.</p>
+<p><img style="float: right; margin: 0px 0px 10px 10px;" alt="image" src="~/media/News Releases/20130820Release.jpg" />In addition to providing financial security, marriage equality has other important health benefits. Studies show that same-sex couples in states that legally recognize their marriages have lower levels of stress and fewer mental health and substance abuse disorders compared with same-sex couples who lack legal marriage recognition.</p>
+<p>Same-sex couples are far less likely to receive employer-sponsored dependent health care coverage compared with married heterosexual couples and, thus, are more than twice as likely to be uninsured. &ldquo;This has real consequences for our lesbian patients,&rdquo; Dr. Conry said. &ldquo;When women don&rsquo;t have health insurance, they may not get screened for cervical and breast cancer or receive other important <a href="/About_ACOG/News_Room/News_Releases/2012/Essential_Elements_of_Annual_Well-Woman_Visit_Issued">well-woman care</a>.&rdquo;</p>
+<p>An important result of the Supreme Court decision (<i>The United States v. Windsor</i>) is wider access to the federal Family Medical Leave Act (FMLA). Under FMLA, individuals in same-sex marriages living in states that legally recognize their marriages can now take up to 12 weeks of unpaid leave each year to care for immediate family members (spouse, child, or parent). </p>
+<p>According to the <a href="http://www.hrc.org/" target="_blank">Human Rights Campaign</a>, there are 1,138 legal protections and rights afforded to couples when they marry in the United States. For instance, surviving spouses in heterosexual marriages can sign to release their deceased spouse&rsquo;s body from the hospital for funeral arrangements. This same right does not apply for the surviving partner in a lesbian relationship living in a state that prohibits same-sex marriage. </p>
+<p>&ldquo;As a society, we have made enormous progress, but we won&rsquo;t have full marriage equality until same-sex marriage is legal in every state,&rdquo; said Dr. Conry.</p>
+<p>Committee Opinion #574 &ldquo;<a href="/Resources_And_Publications/Committee_Opinions/Committee_on_Health_Care_for_Underserved_Women/Marriage_Equality_for_Same-Sex_Couples">Marriage Equality for Same-Sex Couples</a>&rdquo; is published in the September issue of <i>Obstetrics &amp; Gynecology</i>.</p>
+<p>For additional resources on lesbian health visit <a href="http://bit.ly/12UzzQZ" target="_blank">http://bit.ly/12UzzQZ</a></p>
+<p>Also see Committee Opinion #525 &ldquo;<a href="/Resources_And_Publications/Committee_Opinions/Committee_on_Health_Care_for_Underserved_Women/Health_Care_for_Lesbians_and_Bisexual_Women">Health Care for Lesbians and Bisexual Women</a>&rdquo;</p>
+<p style="text-align: center;"># &nbsp;#&nbsp; #</p>
+<p><b>Other recommendations issued in this month&rsquo;s <i>Obstetrics &amp; Gynecology</i>:</b></p>
+<p><b></b></p>
+<p>Committee Opinion #571 <b>&ldquo;<a href="/Resources_And_Publications/Committee_Opinions/Committee_on_Gynecologic_Practice/Solutions_for_Surgical_Preparation_of_the_Vagina">Solutions for Surgical Preparation of the Vagina</a>&rdquo;</b> (NEW!)</p>
+<p><b>ABSTRACT:</b> Currently, only povidone-iodine preparations are approved for vaginal surgical-site antisepsis. However, there are compelling reasons to consider chlorhexidine gluconate solutions for off-label use in surgical preparation of the vagina, especially in women with allergies to iodine. Although chlorhexidine gluconate solutions with high concentrations of alcohol are contra-indicated for surgical preparation of the vagina, solutions with low concentrations of alcohol (eg, 4%) are both safe and effective for off-label use as vaginal surgical preparations and may be used as an alternative to iodine-based preparations in cases of allergy or when preferred by the surgeon.</p>
+<p>&nbsp;</p>
+<p>Committee Opinion #572 <b>&ldquo;<a href="/Resources_And_Publications/Committee_Opinions/Committee_on_Adolescent_Health_Care/Reproductive_Health_Care_for_Adolescents_with_Human_Immunodeficiency_Virus">Reproductive Health Care for Adolescents with Human Immunodeficiency Virus</a>&rdquo;</b> (NEW!)</p>
+<p><b>ABSTRACT:</b> Adolescents make up an increasing percentage of the US population with human immunodeficiency virus (HIV). Adolescent-focused care is critical to identify and reduce at-risk behavior, comorbidities, and partner transmission. Optimal medical and reproductive health care, both now and in the future, with an adolescent-focused approach, are important for HIV-infected adolescents. Adolescents who are infected with HIV should receive care that allows them to realize their sexual and reproductive goals while maximizing their personal health and minimizing the risk of unintended pregnancy, acquisition of new sexually transmitted infections, and transmission of infection to partners or offspring. Key strategies for preventing the spread of infection include early diagnosis, guideline-based treatment, and partner notification of HIV status.</p>
+<p>&nbsp;</p>
+<p>Committee Opinion #573 <b>&ldquo;<a href="/Resources_And_Publications/Committee_Opinions/Committee_on_Obstetric_Practice/Magnesium_Sulfate_Use_in_Obstetrics">Magnesium Sulfate Use in Obstetrics</a>&rdquo;</b> (NEW!)</p>
+<p><b>ABSTRACT:</b> The US Food and Drug Administration (FDA) advises against the use of magnesium sulfate injections for more than 5&ndash;7 days to stop preterm labor in pregnant women. Based on this, the drug classification was changed from Category A to Category D, and the labeling was changed to include this new warning information. However, the FDA change in classification addresses an unindicated and nonstandard use of magnesium sulfate in obstetric care. The American College of Obstetricians and Gynecologists and the Society for Maternal-Fetal Medicine continue to support the short-term (usually less than 48 hours) use of magnesium sulfate in obstetric care for appropriate conditions and for appropriate durations of treatment, which includes the prevention and treatment of seizures in women with preeclampsia or eclampsia, fetal neuroprotection before anticipated early preterm (less than 32 weeks of gestation) delivery, and short-term prolongation of pregnancy (up to 48 hours) to allow for the administration of antenatal corticosteroids in pregnant women between 24 weeks of gestation and 34 weeks of gestation who are at risk of preterm delivery within seven days.</p>
+<p>&nbsp;</p>
+<p>Practice Bulletin #138 <b>&ldquo;<a href="/Resources_And_Publications/Practice_Bulletins/Committee_on_Practice_Bulletins_--_Obstetrics/Inherited_Thrombophilias_in_Pregnancy">Inherited Thrombophilias in Pregnancy</a>&rdquo;</b> (Revised)</p>
+<p><b>ABSTRACT:</b> Inherited thrombophilias are associated with an increased risk of venous thromboembolism and also have been linked to adverse outcomes in pregnancy. However, there is limited evidence to guide screening for and management of these conditions in pregnancy. The purpose of this document is to review common thrombophilias and their association with maternal venous thromboembolism risk and adverse pregnancy outcomes, indications for screening to detect these conditions, and management options in pregnancy.</p></span><div class="disclaimer_section"><p><em><em>The American College of Obstetricians and Gynecologists (The College), a 501(c)(3) organization, is the nation&rsquo;s leading group of physicians providing health care for women. As a private, voluntary, nonprofit membership organization of approximately 57,000 members. The College strongly advocates for quality health care for women, maintains the highest standards of clinical practice and continuing education of its members, promotes patient education, and increases awareness among its members and the public of the changing issues facing women&rsquo;s health care. The American Congress of Obstetricians and Gynecologists (ACOG), a 501(c)(6) organization, is its companion organization.</em> <a href="http://www.acog.org">www.acog.org</a></em> </p>
+<p>&nbsp;</p>
+<p>Follow us:&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://twitter.com/acognews" target="_blank"><img style="border: 0px solid;" alt="Twitter" src="~/media/Icons/twitter_small.ashx" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.facebook.com/ACOGNational" target="_blank"><img style="border: 0px solid;" alt="Facebook" src="~/media/Icons/facebook_small.ashx" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/acognews" target="_blank"><img style="border: 0px solid;" alt="You Tube" src="~/media/Icons/YouTube_VerySmall.ashx" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://acogpresident.org/" target="_blank"><img style="border: 0px solid;" alt="BLOG" src="~/media/Icons/blog_small.ashx" /></a>&nbsp;</p></div></div>
+
+</div>
+<div id="all_content_0_right_railDiv" class="right_rail">
+    <div id="all_content_0_right_rail_0_rightRail">
+<div class="rrmodule"><h3>Recent News Releases</h3><ol><li><a href="/About_ACOG/News_Room/News_Releases/2013/Environmental_Chemicals_Harm_Reproductive_Health">Environmental Chemicals Harm Reproductive Health</a><span>September 23, 2013</span></li><li><a href="/About_ACOG/News_Room/News_Releases/2013/Ob-Gyns_Endorse_Same-Sex_Marriage_Equality">Ob-Gyns Endorse Same-Sex Marriage Equality</a><span>August 20, 2013</span></li><li><a href="/About_ACOG/News_Room/News_Releases/2013/Dental_X-Rays_Teeth_Cleanings_Safe_During_Pregnancy">Dental X-Rays, Teeth Cleanings = Safe During Pregnancy</a><span>July 26, 2013</span></li><li><a href="/About_ACOG/News_Room/News_Releases/2013/Open_Letter_to_North_Carolina_Legislators">Open Letter to North Carolina Legislators: We'll Say It Again: Get Out of Our Exam Rooms</a><span>July 17, 2013</span></li><li><a href="/About_ACOG/News_Room/News_Releases/2013/Ob-Gyns_Oppose_North_Carolina_Senate_Bills">Ob-Gyns Oppose North Carolina Senate Bills</a><span>July 16, 2013</span></li></ol></div></div>
+
+</div>
+
+        </div>
+        <div class="footer">
+            <div class="footerLinks">
+                <ul>
+                    
+                            <li><a href="/About_ACOG/Contact_Us">
+                                Contact Us</a></li>
+                        
+                            <li><a href="/About_ACOG/Copyright_Information">
+                                Copyright Information</a></li>
+                        
+                            <li><a href="/About_ACOG/Green_Journal_Direct_Link_No_Authentication">
+                                Green Journal</a></li>
+                        
+                            <li><a href="/About_ACOG/News_Room">
+                                News Room</a></li>
+                        
+                            <li><a href="/About_ACOG/Privacy_Statement">
+                                Privacy Statement</a></li>
+                        
+                            <li><a href="/Resources_And_Publications">
+                                Resources & Publications</a></li>
+                        
+                            <li><a href="/RSS">
+                                RSS</a></li>
+                        
+                            <li><a href="/Sitemap">
+                                Sitemap</a></li>
+                        
+                </ul>
+                <div id="footerText"><p>American Congress of Obstetricians and Gynecologists<br />
+409 12th Street SW, Washington, DC&nbsp; 20024-2188 | Mailing Address: PO Box 70620, Washington, DC 20024-9998</p></div>
+            </div>
+            <div id="copyright" class="copyright"><p>Copyright <script type="text/javascript">now=new Date();var year = new Date();document.write(year.getFullYear());</script>. All rights reserved. Use of this Web site constitutes acceptance of our <a href="/About_ACOG/Terms_of_Use">Terms of Use</a></p></div>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

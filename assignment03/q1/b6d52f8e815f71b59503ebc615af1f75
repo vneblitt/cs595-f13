@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8" />
+<title>Wildfire - Are You Prepared?</title>
+
+
+<link href="/_css/screen.css" rel="stylesheet" media="screen" />
+<link href="/_css/print.css" rel="stylesheet" media="print" />
+<link href="/_css/advanced.css" rel="stylesheet" media="screen" />
+
+
+<meta name="publisher" content="U.S. Fire Administration" />
+<meta name="review_date" content="2013-03-29" />
+
+
+<meta name="keywords" content="fire statistics, statistical reports, fire data, fire deaths, fire injuries, number of fires, number of fire departments, fire fighter, number of firefighters, firefighter deaths, firefighter injuries, wildfire, arson, Fire in the United States, state fire statistics, residential fires, non-residential fires, nonresidential fires, structure fires, outdoor fires, wildland fires, fire problem, National Fire Incident Reporting System, NFIRS, National Fire Data Center, property loss, property damage, vehicle fires, where fires occur, fire death rate, fire department calls, volunteer fire departments, career fire departments, data analysis" />
+
+
+
+<script src="/_scripts/jquery.js"></script>
+<script src="/_scripts/jquery_clutch.js"></script>
+
+<script src="/_scripts/jquery.hoverIntent.minified.js"></script>
+<script src="/_scripts/mainnav.js"></script>
+
+<!--[if lte IE 8]>
+<style media="screen">@import url(/_css/ie8.css);</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="/_css/font-awesome-ie7.min.css">
+<![endif]-->
+
+
+</head>
+
+<body class="citizens">
+
+<div id="container">
+
+<div id="header">
+	<!--[if IEMobile]> 
+<link rel="stylesheet" href="/_css/mobile.css" media="screen"  /> 
+<![endif]-->
+
+<a href="http://www.usfa.fema.gov/index.shtm"><img src="/_images/common/usfa_header2.png" alt="U.S. Fire Administration" /></a>
+
+<img src="/_images/logo_usfa.png" alt="U.S. Fire Administration" class="print" />
+<div id="utilitynav">
+<a href="#skiptocontent" style="margin-right: 25px; margin-bottom: 10px" class="skip">Skip to Main Content</a>
+
+<ul>
+	<li><a href="http://www.usfa.fema.gov/about/">About USFA</a></li>
+	<li><a href="http://www.usfa.fema.gov/espanol/">Espa&ntilde;ol</a></li>
+	<li><a href="http://apps.usfa.fema.gov/feedback/">Contact Us</a></li>
+</ul>
+
+<form accept-charset="UTF-8" action="http://search.usa.gov/search" id="search_form" method="get" class="sitesearch"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+	<input id="affiliate" name="affiliate" type="hidden" value="usfa" />
+	<label for="query" style="position: absolute; left: -999999px">Enter Search Term(s):</label>
+	<input autocomplete="off" class="usagov-search-autocomplete" id="query" name="query" type="text" />
+	<input name="commit" type="submit" value="Search" />
+</form>
+
+<a href="http://www.usfa.fema.gov/popular_topics.shtm" style="margin-right: 25px; color: #fff">Browse Popular Topics</a>
+
+</div><!--end #utilitynav-->
+
+
+
+</div>
+
+<div id="mainnav">
+	<div class="desktop">
+
+<!-- start -->
+<div id="primary_nav_container">
+
+	<div class="mainmenu"><a id="citizensnav" href="http://www.usfa.fema.gov/citizens/"><h3>Citizens</h3></a>
+	
+		<div class="dropdown_menu" style="display: none; ">
+		
+			<ul class="first_list">
+				<li class="first">
+					<h4>Popular Links:</h4>
+					<ul class="dropdown_list">
+						<li><a href="http://www.usfa.fema.gov/citizens/atf/">After a Fire</a></li>
+						<li><a href="http://www.usfa.fema.gov/citizens/co/index.shtm">Carbon Monoxide</a></li>
+						<li><a href="http://www.usfa.fema.gov/campaigns/smokealarms/escapeplans/index.shtm">Escape Planning</a> </li>
+						<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/extinguishers.shtm">Fire Extinguishers</a> </li>     
+						<li><a href="http://www.usfa.fema.gov/campaigns/index.shtm">Fire Prevention Campaigns</a></li>                                               
+						<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/sprinklers/">Home Fire Sprinklers</a> </li>
+						<li><a href="http://www.usfa.fema.gov/campaigns/smokealarms/alarms/index.shtm">Smoke Alarms</a> </li>
+						<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/holiday-seasonal/summer.shtm">Summer Fire Safety</a> </li>                                                
+					</ul>
+				</li>
+				<li>
+					<h4>By Topic:</h4>
+					<ul class="dropdown_list">
+						<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/arson_awareness.shtm">Arson/Youth Firesetting</a> </li>
+						<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/candle.shtm">Candles</a> </li>
+						<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/cooking.shtm">Cooking</a> </li>
+						<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/electrical.shtm">Electrical</a> </li>
+						<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/heating/">Heating</a></li>
+						<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/holiday-seasonal/index.shtm">Holiday</a> </li>
+						<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/smoking.shtm">Smoking</a> </li>
+						<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/wildfire/">Wildfire</a></li>                        
+					</ul>
+				</li>
+				<li>
+					<h4>Audiences:</h4>
+					<ul class="dropdown_list">
+						<li><a href="http://www.usfa.fema.gov/citizens/college/">College Students</a></li>                                                
+						<li><a href="http://www.usfa.fema.gov/kids/">Kids</a></li>  
+						<li><a href="http://www.usfa.fema.gov/citizens/older/">Older Adults</a></li>                                                                         
+						<li><a href="http://www.usfa.fema.gov/citizens/parents/">Parents</a></li>                                                
+						<li><a href="http://www.usfa.fema.gov/citizens/disability/">People with Disabilities</a></li>                                                
+						<li><a href="http://www.usfa.fema.gov/citizens/teachers/">Teachers</a></li>                                                
+					</ul>
+				</li>
+			</ul>
+			
+			<div class="dropdown_footer">MORE: <a href="http://www.usfa.fema.gov/citizens/index.shtm">&raquo; Citizens Home</a> <a href="http://apps.usfa.fema.gov/cpsc/">&raquo; Product Recalls</a> <a href="http://www.usfa.fema.gov/campaigns/smoking/fireservice/index.shtm">&raquo; Focus on Fire Safety: Smoking and Home Fires</a></div>
+		</div>
+	</div>
+	
+	
+	<div class="mainmenu"><a id="fireservicenav" href="http://www.usfa.fema.gov/fireservice/"><h3>Fire Service</h3></a>
+	
+		<div class="dropdown_menu" style="display: none; ">
+		
+			<ul class="first_list">
+				<li class="first">
+					<h4>Popular Links:</h4>
+					<ul class="dropdown_list">
+						<li><a href="http://www.usfa.fema.gov/fireservice/alerts/index.shtm">Alerts &amp; Advisories</a></li>
+						<li><a href="http://www.usfa.fema.gov/fireservice/prevention_education/strategies/arson/index.shtm">Arson/Youth Firesetting</a></li>                        
+						<li><a href="http://www.usfa.fema.gov/fireservice/emr-isac/infograms/index.shtm">EMR-ISAC InfoGrams</a> </li>    
+						<li><a href="http://apps.usfa.fema.gov/census/">Fire Department Census</a> </li>                                            
+						<li><a href="http://apps.usfa.fema.gov/firefighter-fatalities/">Firefighter Fatalities</a></li>
+						<li><a href="http://www.usfa.fema.gov/fireservice/grants_funding/index.shtm">Grants &amp; Funding</a></li>
+						<li><a href="http://www.usfa.fema.gov/fireservice/nfirs/index.shtm">Incident Reporting (NFIRS)</a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>By Topic:</h4>
+					<ul class="dropdown_list">
+						<li><a href="http://www.usfa.fema.gov/fireservice/emr-isac/index.shtm">Critical Infrastructure Protection</a></li>
+						<li><a href="http://www.usfa.fema.gov/fireservice/ems/index.shtm">Emergency Medical Services</a> </li>
+						<li><a href="http://www.usfa.fema.gov/fireservice/ops_tactics/fire_investigation/index.shtm">Fire Investigation Techniques</a> </li>                        
+						<li><a href="http://www.usfa.fema.gov/fireservice/firefighter_health_safety/index.shtm">Firefighter Health &amp; Safety</a></li>
+						<li><a href="http://www.usfa.fema.gov/fireservice/ops_tactics/type3_imt/index.shtm">Incident Management Teams</a></li>
+						<li><a href="http://www.usfa.fema.gov/fireservice/ops_tactics/index.shtm">Operations &amp; Tactics</a> </li>
+					</ul>
+				</li>
+				<li>
+					<h4>&nbsp;</h4>
+					<ul class="dropdown_list">
+						<li><a href="http://www.usfa.fema.gov/fireservice/prevention_education/index.shtm">Fire Prevention &amp; Public Education</a></li>
+						<li><a href="http://www.usfa.fema.gov/fireservice/prevention_education/detection_notification/index.shtm">Detection &amp; Notification</a></li>
+						<li><a href="http://www.usfa.fema.gov/fireservice/prevention_education/escape_egress/index.shtm">Emergency Escape &amp; Egress</a></li>      
+						<li><a href="http://www.usfa.fema.gov/fireservice/prevention_education/campaigns/index.shtm">Fire Prevention Campaigns</a></li>                                          
+						<li><a href="http://www.usfa.fema.gov/fireservice/prevention_education/strategies/index.shtm">Prevention &amp; Mitigation Strategies</a></li>
+						<li><a href="http://www.usfa.fema.gov/fireservice/prevention_education/fire_sprinklers/index.shtm">Residential Fire Sprinklers</a></li>
+					</ul>
+				</li>
+			</ul>
+			
+			<div class="dropdown_footer">MORE: <a href="http://www.usfa.fema.gov/fireservice/index.shtm">&raquo; Fire Service Home</a> <a href="http://www.usfa.fema.gov/pocs/index.shtm">&raquo; State Fire Contacts</a> <a href="http://www.usfa.fema.gov/about/position_statements/">&raquo; USFA Position Statements</a> <a href="http://www.usfa.fema.gov/nfa/index.shtm">&raquo; Training &amp; Education</a></div>
+		</div>
+	</div>
+	
+	
+	
+	<div class="mainmenu"><a id="nfanav" href="http://www.usfa.fema.gov/nfa/"><h3>Students &amp; Instructors</h3></a>
+	
+		<div class="dropdown_menu" style="display: none; ">
+		
+			<ul class="first_list">
+				<li class="first">
+					<h4>Popular Links:</h4>
+					<ul class="dropdown_list">
+						<li><a href="http://www.usfa.fema.gov/nfa/about/attend/apply.shtm">Admissions</a></li>
+						<li><a href="http://www.usfa.fema.gov/nfa/coffee-break/index.shtm">Coffee Break Training</a></li>
+						<li><a href="http://www.usfa.fema.gov/nfa/catalog/index.shtm">Courses, Catalog &amp; Schedules</a></li>
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/main/vacancies/">Course Vacancies</a></li>
+						<li><a href="http://www.usfa.fema.gov/nfa/nfaonline/">NFA Online</a></li>
+						<li><a href="http://www.usfa.fema.gov/nfa/pre-course/">Pre-Course Materials</a></li>
+						<li><a href="http://www.usfa.fema.gov/nfa/current.shtm">Welcome Package</a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>Curricula:</h4>
+					<ul class="dropdown_list">
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=1&forget=true">Fire/Arson/Explosion Investigation</a></li>
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=3&forget=true">Emergency Medical Services</a></li>
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=5&forget=true">Emergency Response to Terrorism</a></li>
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=4&forget=true">Executive Development</a></li>
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=2&forget=true">Fire Prevention: Management</a></li>
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=12&forget=true">Fire Prevention: Public Education</a></li>
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=11&forget=true">Fire Prevention: Technical</a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>&nbsp;</h4>
+					<ul class="dropdown_list">
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=10&forget=true">Hazardous Materials</a></li>
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=9&forget=true">Incident Management</a></li>
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=8&forget=true">Management Science</a></li>
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=7&forget=true">Planning &amp; Information Mgmt</a></li>
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=13&forget=true">Responder Health &amp; Safety</a></li>
+						<li><a href="http://apps.usfa.fema.gov/nfacourses/catalog/search?&courseCurricula=6&forget=true">Training Programs</a></li>
+					</ul>
+				</li>
+			</ul>
+			
+			<div class="dropdown_footer">MORE: <a href="http://www.usfa.fema.gov/nfa/index.shtm">&raquo; Students &amp; Instructors Home</a> <a href="http://www.usfa.fema.gov/nfa/transcript.shtm">&raquo; Transcripts</a> <a href="http://www.usfa.fema.gov/nfa/efop/index.shtm">&raquo; Executive Fire Officer Program</a> <a href="http://www.usfa.fema.gov/nfa/resident/vip/index.shtm">&raquo; Volunteer Incentive Program</a></div>
+		</div>
+	</div>
+	
+	
+	
+	<div class="mainmenu"><a id="medianav" href="http://www.usfa.fema.gov/media/"><h3>Media &amp; PIOs</h3></a>
+	
+		<div class="dropdown_menu" style="display: none; ">
+		
+			<ul class="first_list">
+				<li class="first">
+					<h4>By Topic:</h4>
+					<ul class="dropdown_list">
+						<li><a href="http://www.usfa.fema.gov/campaigns/index.shtm">Fire Prevention Campaigns</a></li>  
+						<li><a href="http://apps.usfa.fema.gov/civilian-fatalities/">Home Fire Fatalities Map</a> </li>
+						<li><a href="http://www.usfa.fema.gov/media/visuals/index.shtm">Photos &amp; B-roll</a></li>
+						<li><a href="http://www.usfa.fema.gov/media/media_guide/index.shtm">PIO Media Guide</a></li>              
+						<li><a href="http://apps.usfa.fema.gov/cpsc/">Product Recalls</a></li>
+						<li><a href="http://www.usfa.fema.gov/media/psa/index.shtm">Public Service Announcements</a> </li>                                              
+						<li><a href="http://www.usfa.fema.gov/media/prevention/index.shtm">Tips for News Stories</a> </li>                              
+					</ul>
+				</li>
+				<li style="width:400px">
+					<h4>Latest News:</h4>
+                    
+                    <!-- To update: edit /rss/menu_pr.xml -->
+					<ul class="dropdown_list" style="width:400px">
+          				<script type="text/javascript">
+                            if (window.XMLHttpRequest)
+                              {// code for IE7+, Firefox, Chrome, Opera, Safari
+                              xmlhttp=new XMLHttpRequest();
+                              }
+                            else
+                              {// code for IE6, IE5
+                              xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+                              }
+                            xmlhttp.open("GET","/rss/menu_pr.xml",false);
+                            xmlhttp.send();
+                            xmlDoc=xmlhttp.responseXML; 
+                            
+                            var x=xmlDoc.getElementsByTagName("item");
+                            for (i=0;i<x.length;i++)
+                              { 
+                              document.write("<li style='width:400px'><a href='");
+                              document.write(x[i].getElementsByTagName("link")[0].childNodes[0].nodeValue);
+                              document.write("'>");
+                              document.write(x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue);
+                              document.write("</a></li>");
+                              
+                              }
+                        </script>
+                        <li>&nbsp;</li>
+                        <li><strong>USFA Press Office: 301-447-1853</strong></li>
+					</ul>
+				</li>
+			</ul>           
+			
+			<div class="dropdown_footer">MORE: <a href="http://www.usfa.fema.gov/media/index.shtm">&raquo; Media &amp; PIOs Home</a> <a href="http://www.usfa.fema.gov/about/index.shtm">&raquo; About USFA</a> <a href="http://www.usfa.fema.gov/about/position_statements/">&raquo; USFA Position Statements</a> <a href="http://www.usfa.fema.gov/notices/ads.shtm">&raquo; Widgets</a></div>
+		</div>
+	</div>
+	
+	<div class="mainmenu"><a id="kidsnav" href="http://www.usfa.fema.gov/kids/"><h3>Kids</h3></a></div>
+	
+	<div class="mainmenu"><a id="statsnav" href="http://www.usfa.fema.gov/statistics/"><h3>Statistics</h3></a></div>
+	
+	<div class="mainmenu"><a id="pubsnav" href="http://apps.usfa.fema.gov/publications/"><h3>Publications</h3></a></div>
+	
+	<div class="mainmenu"><a id="hotelnav" href="http://apps.usfa.fema.gov/hotel/"><h3>Hotel-Motel List</h3></a></div>
+	
+	<div class="mainmenu"><a id="lrcnav" href="http://www.usfa.fema.gov/library/"><h3>Library</h3></a></div>
+		
+</div>
+<!-- end -->
+</div>
+
+
+<div class="mobile">
+<form method="get" action="http://www.usfa.fema.gov/jump.jsp">
+	<label for="mobilenav" style="position: absolute; top: -99999px;">Site Navigation</label>
+    <select name="url" id="mobilenav">
+	
+	<option value="" selected="selected"> - Navigation - </option>
+	
+		<option value="http://www.usfa.fema.gov/mobile/nfa/index.shtm">National Fire Academy</option>
+		<option value="http://www.usfa.fema.gov/mobile/ff_fat.shtm">Firefighter Fatalities</option>
+		<option value="http://www.usfa.fema.gov/mobile/civ_fat.shtm">Civilian Fire Fatalities</option>
+		<option value="http://www.usfa.fema.gov/mobile/safety/index.shtm">Fire Safety</option>
+		<option value="http://www.usfa.fema.gov/mobile/statistics/index.shtm">Statistics</option>
+		<option value="http://www.usfa.fema.gov/mobile/coffee_break.shtm">Coffee Break Training</option>
+		<option value="http://www.usfa.fema.gov/mobile/alerts.shtm">Fire Service Alerts</option>
+    	<option value="http://www.usfa.fema.gov/mobile/infograms.shtm">EMR-ISAC InfoGrams</option>          
+		<option value="http://apps.usfa.fema.gov/hotel/mobile/">Search for Hotels &amp; Motels</option>
+		<option value="http://www.usfa.fema.gov/library.shtm">Library</option> 
+		<option value="http://www.usfa.fema.gov/mobile/search.shtm">Search</option>
+		
+	</select>
+
+	<input type="submit" value="Go" />
+
+</form>
+</div>
+
+</div>
+
+<ul class="breadcrumb">
+	<li><a href="/index.shtm">USFA Home</a></li>
+	<li><a href="/citizens/index.shtm">Citizens</a></li>
+	<li><a href="/citizens/home_fire_prev/">Home Fire Prevention</a></li>
+	<li>Wildfire</li>
+</ul>
+
+<div id="fullcontent">
+<a href="" id="skiptocontent"></a>
+
+<h1>Wildfire - Are You Prepared?</h1>
+
+<div id="social-action"  style="margin-bottom: 10px">
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:width="150" fb:like:action="recommend"></a>
+<a class="addthis_button_linkedin_counter"></a>
+<a class="addthis_button_reddit" style="margin-left: 2.5em"></a>
+</div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51257d7642b842bc"></script>
+<!-- AddThis Button END -->
+</div><!-- end social-action -->
+
+<div id="goodbye" class="small">This page may contain links to non-U.S. government websites. <a href="/notices/non_gov.shtm">What this means to you &raquo;</a></div>
+
+<div class="download">
+<p style="float: right; width: auto; padding: 0; margin: 0"><a href="/help/pdf.shtm">Adobe Acrobat (PDF)/Other Help</a></p>
+<h3>Download</h3>
+<ul>
+	<li><a href="/downloads/pdf/publications/fa_287.pdf"><img src="/_images/logos/pdf.gif" alt="PDF, 1.7 Mb" />Wildfire:  Are You Prepared?</a> (PDF, 1.7 Mb)</li>
+</ul>
+</div>
+
+<div style="clear: both" class="floatbox">
+<h3>Fire-Adapted Communities</h3>
+<p><a href="/fireservice/prevention_education/strategies/wildland/">Read about your role</a> in how the Fire Service, local officials and the public can work together to withstand the devastating effects of a wildland fire.</p>
+<br />
+<img src="/_images/citizens/focus/mar_2013_wildfire.jpg" alt="Focus on Fire Safety: Wildfire: Are You Prepared?">
+<p><a href="/downloads/pdf/focus/mar_2013_wildfire.pdf">Download this form-fillable poster</a> (PDF, 647 Kb)</p>
+</div>
+
+<p>More and more people are making their homes in woodland settings - in or near forests, rural areas, or remote mountain sites.  There, homeowners enjoy the beauty of the environment but face the very real danger of wildfire.</p>
+
+<p>Every year across our Nation, some homes survive - while many others do not - after a major wildfire. Those that survive almost always do so because their owners had prepared for the eventuality of fire, which is an inescapable force of nature in fire-prone wildland areas. Said in another way - if it's predictable, it's preventable!</p>
+
+<p>Wildfires often begin unnoticed. They spread quickly, igniting brush, trees, and homes. Reduce your risk by preparing now - before wildfire strikes. Meet with your family to decide what to do and where to go if wildfires threaten your area. Follow the steps listed below to protect your family, home, and property.</p>
+
+<h2>Practice Wildfire Safety</h2>
+
+<p>People start most wildfires - find out how you can promote and practice wildfire safety.</p>
+
+<ul>
+	<li>Contact your local fire department, health department, or forestry office for information on fire laws.</li>
+	<li>Make sure that fire vehicles can get to your home. Clearly mark all driveway entrances and display your name and address.</li>
+	<li>Report hazardous conditions that could cause a wildfire.</li>
+	<li>Teach children about fire safety. Keep matches out of their reach.</li>
+	<li>Post fire emergency telephone numbers.</li>
+	<li>Ensure adequate accessibility by large fire vehicles to your property.</li>
+	<li>Plan several escape routes away from your home - by car and by foot.</li>
+	<li>Talk to your neighbors about wildfire safety. Plan how the neighborhood could work together after a wildfire. Make a list of your neighbors' skills such as medical or technical. Consider how you could help neighbors who have special needs such as elderly or disabled persons. Make plans to take care of children who may be on their own if parents can't get home.</li>
+</ul>
+
+<h2>Before Wildfire Threatens</h2>
+
+<p>Design and landscape your home with wildfire safety in mind. Select materials and plants that can help contain fire rather than fuel it. Use fire-resistant or noncombustible materials on the roof and exterior structure of the dwelling, or treat wood or combustible material used in roofs, siding, decking, or trim with fire-retardant chemicals evaluated by a nationally recognized laboratory. Plant fire-resistant shrubs and trees. For example, hardwood trees are less flammable than pine, evergreen, eucalyptus or fir trees.</p>
+
+<p>Your best resource for proper planning is <a class="goodbye" href="http://www.firewise.org">www.firewise.org</a> which has outstanding information used daily by residents, property owners, fire departments, community planners, builders, public policy officials, water authorities, architects and others to assure safety from fire - it really works. Firewise workshops are offered for free all across the Nation in communities large and small and free Firewise materials can be obtained easily by anyone interested.</p>
+
+
+<h3>Create a 30- to 100-foot safety zone around your home</h3>
+
+<p>Within this area, you can take steps to reduce potential exposure to flames and radiant heat. Homes built in pine forests should have a minimum safety zone of 100 feet. If your home sits on a steep slope, standard protective measures may not suffice. Contact your local fire department or forestry office for additional information.</p>
+
+<ul>
+	<li>Rake leaves, dead limbs and twigs. Clear all flammable vegetation.</li>
+	<li>Remove leaves and rubbish from under structures.</li>
+	<li>Thin a 15-foot space between tree crowns, and remove limbs within 15 feet of the ground.</li>
+	<li>Remove dead branches that extend over the roof.</li>
+	<li>Prune tree branches and shrubs within 15 feet of a stovepipe or chimney outlet.</li>
+	<li>Ask the power company to clear branches from powerlines.</li>
+	<li>Remove vines from the walls of the home.</li>
+	<li>Mow grass regularly.</li>
+	<li>Clear a 10-foot area around propane tanks and the barbecue. Place a screen over the grill - use nonflammable material with mesh no coarser than one-quarter inch.</li>
+	<li>Regularly dispose of newspapers and rubbish at an approved site. Follow local burning regulations.</li>
+	<li>Place stove, fireplace and grill ashes in a metal bucket, soak in water for 2 days; then bury the cold ashes in mineral soil.</li>
+	<li>Store gasoline, oily rags and other flammable materials in approved safety cans. Place cans in a safe location away from the base of buildings.</li>
+	<li>Stack firewood at least 100 feet away and uphill from your home. Clear combustible material within 20 feet. Use only wood-burning devices evaluated by a nationally recognized laboratory.</li>
+	<li>Review your homeowner's insurance policy and also prepare/update a list of your home's contents.</li>
+</ul>
+
+<h3>Protect your home</h3>
+
+<ul>
+	<li>Regularly clean roof and gutters.</li>
+	<li>Inspect chimneys at least twice a year. Clean them at least once a year. Keep the dampers in good working order. Equip chimneys and stovepipes with a spark arrester that meets the requirements of National Fire Protection Association Standard 211. (Contact your local fire department for exact specifications.)</li>
+	<li>Use 1/8-inch mesh screen beneath porches, decks, floor areas, and the home itself. Also, screen openings to floors, roof and attic.</li>
+	<li>Install a dual-sensor smoke alarm on each level of your home, especially near bedrooms; test monthly and change the batteries at least once each year.</li>
+	<li>Teach each family member how to use a fire extinguisher (ABC type) and show them where it's kept.</li>
+	<li>Keep handy household items that can be used as fire tools: a rake, axe, handsaw or chain saw, bucket and shovel.</li>
+	<li>Keep a ladder that will reach the roof.</li>
+	<li>Consider installing protective shutters or heavy fire-resistant drapes.</li>
+</ul>
+
+<h3>Plan your water needs</h3>
+
+<ul>
+	<li>Identify and maintain an adequate outside water source such as a small pond, cistern, well, swimming pool, or hydrant.</li>
+	<li>Have a garden hose that is long enough to reach any area of the home and other structures on the property.</li>
+	<li>Install freeze-proof exterior water outlets on at least two sides of the home and near other structures on the property. Install additional outlets at least 50 feet from the home.</li>
+	<li>Consider obtaining a portable gasoline powered pump in case electrical power is cut off.</li>
+</ul>
+
+<h2>When Wildfire Threatens</h2>
+
+<p>If you are warned that a wildfire is threatening your area, listen to your battery-operated radio for reports and evacuation information. Follow the instructions of local officials.</p>
+
+<ul>
+	<li>Back your car into the garage or park it in an open space facing the direction of escape. Shut doors and roll up windows. Leave the key in the ignition. Close garage windows and doors, but leave them unlocked. Disconnect automatic garage door openers.</li>
+	<li>Confine pets to one room. Make plans to care for your pets in case you must evacuate.</li>
+	<li>Arrange temporary housing at a friend or relative's home outside the threatened area.</li>
+</ul>
+
+<h3>If advised to evacuate, do so immediately</h3>
+
+<ul>
+	<li>Wear protective clothing - sturdy shoes, cotton or woolen clothing, long pants, a long-sleeved shirt, gloves, and a handkerchief to protect your face.</li>
+	<li>Take your Disaster Supplies Kit.</li>
+	<li>Lock your home.</li>
+	<li>Tell someone when you left and where you are going.</li>
+	<li>Choose a route away from fire hazards. Watch for changes in the speed and direction of fire and smoke.</li>
+</ul>
+
+<h3>If you're sure you have time, take steps to protect your home</h3>
+
+<p>Inside:</p>
+
+<ul>
+	<li>Close windows, vents, doors, blinds, or noncombustible window coverings and heavy drapes. Remove lightweight curtains.</li>
+	<li>Shut off all utilities if possible, including bottled gas.</li>
+	<li>Open fireplace damper. Close fireplace screens.</li>
+	<li>Move flammable furniture into the center of the home away from windows and sliding glass doors.</li>
+	<li>Turn on a light in each room to increase the visibility of your home in heavy smoke.</li>
+</ul>
+
+<p>Outside:</p>
+
+<ul>
+	<li>Seal attic and ground vents with precut noncombustible coverings.</li>
+	<li>Turn off propane tanks.</li>
+	<li>Place combustible patio furniture inside.</li>
+	<li>Connect the garden hose to outside taps.</li>
+	<li>Set up a portable gasoline-powered pump.</li>
+	<li>Place lawn sprinklers on the roof and near aboveground fuel tanks. Wetting the roof may help if it is shake-shingled.</li>
+	<li>Wet or remove shrubs within 15 feet of the home.</li>
+	<li>Gather fire tools.</li>
+</ul>
+
+<h3>Emergency Supplies</h3>
+
+<p>When wildfire threatens, you won't have time to shop or search for supplies. Assemble a Disaster Supplies Kit with items you may need if advised to evacuate. Store these supplies in sturdy, easy-to-carry containers such as backpacks, duffle bags, or trash containers.</p>
+
+<p>Include:</p>
+
+<ul>
+	<li>A three-day supply of water (one gallon per person per day) and food that won't spoil.</li>
+	<li>One change of clothing and footwear per person and one blanket or sleeping bag per person.</li>
+	<li>A first aid kit that includes your family's prescription medications.</li>
+	<li>Emergency tools including a battery-powered radio, flashlight, and plenty of extra batteries.</li>
+	<li>An extra set of car keys and a credit card, cash, or traveler's checks.</li>
+	<li>Sanitation supplies.</li>
+	<li>Special items for infant, elderly, or disabled family members.</li>
+	<li>An extra pair of eye-glasses.</li>
+	<li>Keep important family documents in a waterproof container. Assemble a smaller version of your kit to keep in the trunk of your car.</li>
+</ul>
+
+<h2>Create a Family Disaster Plan</h2>
+
+<p>Wildfire and other types of disasters - hurricane, flood, tornado, earthquake, hazardous materials spill, winter storm - can strike quickly and without warning. You can cope with disaster by preparing in advance and working together. Meet with your family to create a disaster plan. To get started:</p>
+
+<h3>Contact your local Emergency Management Agency or your local American Red Cross chapter</h3>
+
+<ul>
+	<li>Find out about the hazards in your community.</li>
+	<li>Ask how you would be warned.</li>
+	<li>Find out how to prepare for each type of disaster.</li>
+</ul>
+
+<h3>Meet with your family</h3>
+
+<ul>
+	<li>Discuss the types of disasters that could occur.</li>
+	<li>Explain how to prepare and respond to each type of disaster.</li>
+	<li>Discuss where to go and what to bring if advised to evacuate.</li>
+	<li>Practice what you have discussed.</li>
+</ul>
+
+<h3>Plan how your family will stay in contact if separated by disaster</h3>
+
+<ul>
+	<li>Pick two meeting places: 
+	<ol>
+		<li>a place a safe distance from your home in case of a home fire.</li> 
+		<li>a place outside your neighborhood in case you can't return home.</li>
+	</ol></li>
+	<li>Choose an out-of-state friend as a "check-in contact" for everyone to call.</li>
+</ul>
+
+<h3>Complete these steps</h3>
+
+<ul>
+	<li>Post emergency telephone numbers by every phone.</li>
+	<li>Show responsible family members how and when to shut off water, gas, and electricity at main switches.</li>
+	<li>Contact your local fire department to learn about home fire hazards.</li>
+	<li>Learn first aid and CPR. Contact your local American Red Cross chapter for information and training.</li>
+</ul>
+
+<h2>Practice and review these steps!</h2>
+
+<h3>For more information:</h3>
+<p>Please contact <a class="goodbye" href="http://www.firewise.org">Firewise</a>, the <a class="goodbye" href="http://www.redcross.org/services/disaster/0,1082,0_594_,00.html">American Red Cross</a>, and the <a href="http://apps.usfa.fema.gov/feedback/">U.S. Fire Administration</a>. </p>
+
+<hr />
+<h3>Related Content</h3>
+<ul>
+    <li><a href="/fireservice/prevention_education/strategies/wildland/">Wildfire Prevention and Mitigation Strategies</a><br />
+    Information on how the Fire Service, local officials and the public can work together to withstand the devastating effects of a wildland fire.</li>
+</ul>
+
+
+<h3>Links of Interest</h3>
+
+<ul>
+	<li><a class="goodbye" href="http://www.firewise.org">Firewise</a></li>
+	<li><a href="http://www.ready.gov/wildfires">Ready.gov</a></li>
+</ul>    
+
+<!-- End Content -->
+
+</div>
+</div>
+<div id="footer">
+<p class="date">Last Reviewed: March 29, 2013</p>
+<!--last reviewed by Maury to add Focus info -->
+<div class="desktop">
+<div style="width: 960px; margin: 0 auto; text-align: center">
+<p class="speechbubble">
+	InfoGram headlines: 9-1-1 operations in active shooter incidents; PPE care and cancer rates <a href="http://www.usfa.fema.gov/downloads/pdf/infograms/39_13.pdf">www.usfa.fema.gov/downloads/pdf/infograms/39_13.pdf</a> <span class="small">Sep. &nbsp;27,&nbsp;2013&nbsp;@&nbsp;4:15&nbsp;PM&nbsp;ET</span>
+
+	
+</p>
+</div>
+
+<div class="social" style="position: relative; top: 37px;">
+<span style="color: #fff">
+<a href="http://www.twitter.com/usfire"><i class="icon-twitter-sign"></i> @usfire</a>
+<a href="http://www.facebook.com/usfire/"><i class="icon-facebook-sign"></i> Facebook</a>
+<a href="http://www.youtube.com/playlist?list=PL69D1444B992E92E8"><i class="icon-youtube-play"></i> Watch Videos</a>
+<a href="http://www.usfa.fema.gov/rss"><i class="icon-rss"></i> Subscribe</a>
+<a href="https://public.govdelivery.com/accounts/USDHSFA/subscriber/new?"><i class="icon-envelope"></i> Email Updates</a>
+
+</span>
+</div>
+
+<div style="position: relative; top: -2em; clear: both; text-align: center; margin: 0 auto; width: 960px;">
+	<div class="footercolumn">
+		<h3>Citizens</h3>
+		<ul>
+			<li><a href="http://www.usfa.fema.gov/campaigns/smokealarms/alarms/index.shtm">Smoke Alarms</a></li>
+			<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/sprinklers/">Home Fire Sprinklers</a></li>
+			<li><a href="http://www.usfa.fema.gov/campaigns/smokealarms/escapeplans/index.shtm">Fire Escape Planning</a></li>
+			<li><a href="http://www.usfa.fema.gov/citizens/atf/">After a Fire</a></li>
+			<li><a href="http://www.usfa.fema.gov/citizens/home_fire_prev/index.shtm">Fire Safety Tips</a></li>
+			<li><a href="http://www.usfa.fema.gov/espanol/">En Espa&ntilde;ol</a></li>
+			<li><a href="http://www.usfa.fema.gov/citizens/">All Citizens Topics &raquo;</a></li>
+		</ul>
+	</div>
+	
+	<div class="footercolumn">
+		<h3>Fire Service</h3>
+		<ul>
+			<li><a href="http://apps.usfa.fema.gov/firefighter-fatalities/">Firefighter Fatalities</a></li>
+			<li><a href="http://www.usfa.fema.gov/fireservice/nfirs/index.shtm">Incident Reporting (NFIRS)</a></li>
+			<li><a href="http://apps.usfa.fema.gov/census/">Fire Department Census</a></li>
+			<li><a href="http://www.usfa.fema.gov/fireservice/alerts/index.shtm">Alerts &amp; Advisories</a></li>
+			<li><a href="http://www.usfa.fema.gov/fireservice/grants_funding/index.shtm">Grants &amp; Funding</a></li>
+			<li><a href="http://www.usfa.fema.gov/pocs/">State Fire Contacts</a></li>
+			<li><a href="http://www.usfa.fema.gov/fireservice/">All Fire Service Topics &raquo;</a></li>
+		</ul>
+	</div>
+	
+	<div class="footercolumn">
+		<h3>Students&nbsp;&amp;&nbsp;Instructors</h3>
+		<ul>
+			<li><a href="http://www.usfa.fema.gov/nfa/about/">About NFA</a></li>
+			<li><a href="http://www.usfa.fema.gov/nfa/catalog/index.shtm">Courses, Catalog &amp; Schedules</a></li>
+			<li><a href="http://www.usfa.fema.gov/nfa/about/attend/apply.shtm">Admissions</a></li>
+			<li><a href="http://apps.usfa.fema.gov/nfacourses/main/vacancies/">Course Vacancies</a></li>
+			<li><a href="http://www.usfa.fema.gov/nfa/pre-course/">Pre-Course Materials</a></li>
+			<li><a href="http://www.usfa.fema.gov/nfa/nfaonline/">NFA Online</a></li>
+			<li><a href="http://www.usfa.fema.gov/nfa/">All Students &amp; Instructors Topics &raquo;</a></li>
+		</ul>
+	</div>
+	
+	<div class="footercolumn" style="margin-right: 0">
+		<h3>Media &amp; PIOs</h3>
+		<ul>
+			<li><a href="http://www.usfa.fema.gov/media/prevention/index.shtm">Tips for News Stories</a></li>
+			<li><a href="http://www.usfa.fema.gov/campaigns/">Fire Prevention Campaigns</a></li>
+			<li><a href="http://www.usfa.fema.gov/media/media_guide/index.shtm">Fire Spokesperson's Media Guide</a></li>
+			<li><a href="http://www.usfa.fema.gov/media/visuals/index.shtm">Photos &amp; B-roll</a></li>
+			<li><a href="http://www.usfa.fema.gov/media/psa/">Public Service Announcements</a></li>
+			<li><a href="http://www.usfa.fema.gov/media/press/">Press Releases</a></li>
+			<li><a href="http://www.usfa.fema.gov/media/">All Media &amp; PIOs Topics &raquo;</a></li>
+		</ul>
+	</div>
+	
+	<div style="clear: left"></div>
+	
+	<div class="footercolumn">
+		<h3>Kids</h3>
+		<ul>
+			<li><a href="http://www.usfa.fema.gov/kids/start.shtm">Kids Page</a></li>
+			<li><a href="http://www.usfa.fema.gov/citizens/parents/">Parents &amp; Caregivers</a></li>
+			<li><a href="http://www.usfa.fema.gov/citizens/teachers/">Teachers</a></li>
+			<li><a href="http://www.usfa.fema.gov/kids/">All Kids Topics &raquo;</a></li>
+		</ul>
+	</div>
+	
+	<div class="footercolumn">
+		<h3>Statistics</h3>
+		<ul>
+			<li><a href="http://www.usfa.fema.gov/statistics/">Reports</a></li>
+			<li><a href="http://www.usfa.fema.gov/statistics/estimates/index.shtm">Fire Estimates</a></li>
+			<li><a href="http://www.usfa.fema.gov/statistics/estimates/trend_overall.shtm">Fire Death Rate Trends</a></li>
+			<li><a href="http://www.usfa.fema.gov/statistics/">All Statistics Topics &raquo;</a></li>
+		</ul>
+	</div>
+	
+	<div class="footercolumn">
+		<h3>Hotel-Motel List</h3>
+		<ul>
+			<li><a href="http://apps.usfa.fema.gov/hotel/">Search</a></li>
+			<li><a href="http://apps.usfa.fema.gov/hotel/register.cfm">Register</a></li>
+			<li><a href="http://apps.usfa.fema.gov/hotel/change.cfm">Update Listing</a></li>
+			<li><a href="http://apps.usfa.fema.gov/hotel/">All Hotel-Motel Topics &raquo;</a></li>
+
+		</ul>
+	</div>
+	
+	<div class="footercolumn" style="margin-right: 0">
+		<h3>More to Do</h3>
+		<ul>
+			<li><a href="http://apps.usfa.fema.gov/publications">Order/Download Publications</a></li>
+			<li><a href="http://www.usfa.fema.gov/notices/ads.shtm">Get a Widget for Your Website</a></li>
+			<li><a href="http://www.youtube.com/playlist?list=PL69D1444B992E92E8">Watch Fire Safety Videos on YouTube</a></li>
+			<li><a href="http://www.usfa.fema.gov/about">Learn About USFA &raquo;</a></li>
+		</ul>
+	</div>
+	
+</div>
+
+	<ul class="footerline" style="padding-top: 4em">
+		<li><a href="http://www.usfa.fema.gov/index.shtm">Home</a></li>       
+		<li><a href="http://www.usfa.fema.gov/help/siteindex.shtm">Site Index</a></li>
+		<li><a href="http://www.usfa.fema.gov/about/jobs/index.shtm">USFA Jobs</a></li>        
+		<li><a href="http://www.usfa.fema.gov/notices/foia.shtm">FOIA</a></li>
+		<li><a href="http://www.usfa.fema.gov/notices/">Important Notices/Privacy Policy</a></li>
+		<li><a href="http://www.usfa.fema.gov/forms/">Forms</a></li>
+		<li><a href="http://www.usfa.fema.gov/help/fileformats.shtm">Plug-Ins</a></li>       
+		<li><a href="http://www.usfa.fema.gov/help/508.shtm">Accessibility</a></li>
+		<li><a href="http://apps.usfa.fema.gov/feedback/index.jsp">Contact Us</a></li>
+	</ul>
+		
+	<p style="padding-top: .75em; padding-bottom: 2em">U.S. Fire Administration, 16825 S. Seton Ave., Emmitsburg, MD 21727 | <abbr title="U.S. National Grid">USNG</abbr>: 18SUJ00529652<br />(301) 447-1000  <span style="margin-left: 2em; margin-right: 2em">Fax: (301) 447-1346</span>  Admissions Fax: (301) 447-1441</p>
+	
+	<ul class="footerline">
+		<li><a href="http://www.fema.gov"><img src="/_images/common/fema.png" alt="FEMA.gov" /></a></li>
+		<li><a href="http://www.ready.gov"><img src="/_images/common/ready.png" alt="Ready.gov" /></a></li>
+		<li><a href="http://www.usa.gov"><img src="/_images/common/usa.png" alt="USA.gov" /></a></li>
+	</ul>
+	<div id="enablegrid"></div>
+</div>
+
+<div class="mobile">
+	<a href="http://www.usfa.fema.gov/mobile/jobs.shtm" class="touch">Employment Opportunities</a>
+	
+	<a href="http://maps.google.com/maps?q=16825%20S.%20Seton%20Ave.,%20Emmitsburg,%20MD%2021727" class="touch map">U.S. Fire Administration,<br />
+	16825 S. Seton Avenue<br />
+	Emmitsburg, MD 21727</a>
+	
+	<a href="tel:3014471000" class="touch phone">Call Us at (301) 447-1000</a>
+	
+	<a href="http://www.usfa.fema.gov" class="touch desktop" style="margin-top: 1em">View Desktop Version</a>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29391347-3']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setVisitorCookieTimeout', 0]);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+      var usasearch_config = { siteHandle:"usfa" };
+	  
+	 (function() {
+		var usasearch_switch = document.createElement('script'); usasearch_switch.type = 'text/javascript'; usasearch_switch.async = true;
+		usasearch_switch.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'search.usa.gov/javascripts/remote.loader.js';
+		var usasearch_insert = document.getElementsByTagName('script')[0]; usasearch_insert.parentNode.insertBefore(usasearch_switch, usasearch_insert);
+	})();
+
+//]]>
+</script>
+
+
+</div>
+</body>
+</html>
+

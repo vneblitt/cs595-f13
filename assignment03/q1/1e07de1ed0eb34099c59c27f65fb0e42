@@ -1,0 +1,238 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Justice. United Nations Peacekeeping</title>
+<meta name="description" content="Examines how UN peacekeeping works with national authorities to rebuild justice institutions."/>
+<link href="/en/peacekeeping/css/styles.css" rel="stylesheet" type="text/css" />
+<link href="/en/peacekeeping/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<style type="text/css">
+#nav #issues {
+	background: #002f5e url(/en/peacekeeping/images/bkg_nav2-over.png) top repeat-x;
+	color: #fff;
+}
+
+#ruleoflaw ul {
+	display: block !important;
+}
+
+#justice a {
+	background: #eee !important;
+}
+</style>
+</head>
+<body>
+<a href="#content" id="skiplink">Skip to content</a>
+<div id="container">
+	<div id="unbrandbar">
+  <a href="/en/" id="unbrandlink">Welcome to the United Nations. It's your world.</a>
+  <form id="searchfrm" name="gs" method="get" action="http://search.un.org/search">
+    <input name="ie" value="utf8" type="hidden" />
+    <input name="site" value="un_org" type="hidden" />
+    <input name="output" value="xml_no_dtd" type="hidden" />
+    <input name="client" value="UN_Website_English" type="hidden" />
+    <input name="num" value="10" type="hidden" />
+    <input name="lr" value="lang_aen" type="hidden" />
+    <input name="proxystylesheet" id="proxystylesheet" value="UN_Website_en" type="hidden" />
+    <input name="oe" value="utf8" type="hidden" />
+    <fieldset>
+      <input name="q" id="search" type="text" value="Search the UN"  onfocus="this.value='';" />
+      <button name="Submit" title="Submit Search">OK</button>
+    </fieldset>
+  </form>
+</div>
+  <div id="languages"> <script type="text/javascript" src="/common/scripts/jquery/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/common/nav/js/lang_bar.js"></script></div>
+<div id="banner" class="chaissues">
+  <a href="/en/peacekeeping/"><h1>United Nations Peacekeeping</h1></a>
+</div>
+<div id="nav">
+    <ul>
+      <li><a href="/en/peacekeeping/" id="home">Home</a></li>
+      <li><a href="/en/peacekeeping/operations/" id="operations">Peacekeeping operations</a></li>
+      <li><a href="/en/peacekeeping/issues/" id="issues">Issues</a></li>
+      <li><a href="/en/peacekeeping/news/" id="news">News</a></li>
+      <li><a href="/en/peacekeeping/resources/" id="resources">Resources</a></li>
+      <li><a href="/en/peacekeeping/about/" id="about">About us</a></li>
+    </ul>
+    <!--<ul>
+      <li><a href="/en/peacekeeping/" id="home">Accueil</a></li>
+      <li><a href="/en/peacekeeping/operations.shtml">Op&eacute;rations de maintien de la paix</a></li>
+      <li><a href="/en/peacekeeping/operations.shtml" id="issues">Th&eacute;matiques</a></li>
+      <li><a href="/en/peacekeeping/operations.shtml">Actualit&eacute;</a></li>
+      <li><a href="/en/peacekeeping/operations.html">Ressources</a></li>
+      <li><a href="/en/peacekeeping/operations.shtml">&Agrave; propos</a></li>
+    </ul>
+    <ul>
+      <li><a href="/en/peacekeeping/" id="home">Portada</a></li>
+      <li><a href="/en/peacekeeping/operations.shtml">Operaciones de mantenimiento de la paz</a></li>
+      <li><a href="/en/peacekeeping/operations.shtml" id="issues">Tem&aacute;ticas</a></li>
+      <li><a href="/en/peacekeeping/operations.shtml">Noticias</a></li>
+      <li><a href="/en/peacekeeping/operations.html">Recursos</a></li>
+      <li><a href="/en/peacekeeping/operations.shtml">Qui&eacute;nes somos</a></li>
+    </ul>-->
+</div>
+<div id="breadcrump">
+  <ul>
+    <li><a href="/en/peacekeeping/">Home</a> &rsaquo;</li>
+    <li><a href="/en/peacekeeping/issues/">Peacekeeping issues</a> &rsaquo;</li>
+	<li><a href="/en/peacekeeping/issues/ruleoflaw/">Rule of law</a> &rsaquo;</li>
+    <li><strong> Justice</strong></li>
+  </ul>
+</div>
+<div id="content">
+  <div id="subnav"> 
+        <h2><a href="/en/peacekeeping/issues/">Issues </a></h2>
+    <ul>
+      <li id="military"><a href="/en/peacekeeping/issues/military.shtml">Military </a></li>
+      <li id="police"><a href="/en/peacekeeping/issues/police.shtml">Police </a></li>
+      <li id="ruleoflaw"><a href="/en/peacekeeping/issues/ruleoflaw">Rule of law</a>
+          <ul>
+            <li id="justice"><a href="/en/peacekeeping/issues/ruleoflaw/justice.shtml">Justice</a></li>
+            <li id="corrections"><a href="/en/peacekeeping/issues/ruleoflaw/corrections.shtml">Corrections</a></li>
+          </ul>
+      </li>
+      <li id="civilaffairs"><a href="/en/peacekeeping/issues/civil/">Civil affairs </a></li>
+	  <li id="electoralassistance"><a href="/en/peacekeeping/issues/electoralassistance.shtml">Electoral assistance </a></li>
+      <li id="security"><a href="/en/peacekeeping/issues/security.shtml">Security sector reform</a> </li>
+      <li id="mine"><a href="/en/peacekeeping/issues/mineaction.shtml">Mine action </a></li>
+      <li id="women"><a href="/en/peacekeeping/issues/women">Gender and peacekeeping </a>
+          <ul>
+            <li id="recentwork"><a href="/en/peacekeeping/issues/women/wherewework.shtml">Where we work </a></li>
+            <li id="wps"><a href="/en/peacekeeping/issues/women/wps.shtml">Women, peace and security </a></li>
+            <li id="wpk"><a href="/en/peacekeeping/issues/women/womeninpk.shtml">Women in peacekeeping </a></li>
+          </ul>
+      </li>
+      <li id="fieldsupport"><a href="/en/peacekeeping/issues/fieldsupport.shtml">Field support </a></li>
+	  <li id="cdu"><a href="/en/peacekeeping/issues/cdu.shtml">Conduct and discipline</a></li>
+      <li id="civil"><a href="/en/peacekeeping/issues/civilian.shtml">Protection of civilians </a></li>
+      <li id="environment"><a href="/en/peacekeeping/issues/environment">Environment and sustainability </a>
+          <ul>
+            <li id="conflict"><a href="/en/peacekeeping/issues/environment/resources.shtml">Conflict and resources </a></li>
+            <li id="approach"><a href="/en/peacekeeping/issues/environment/approach.shtml">Our approach </a></li>
+            <li id="bestpractice"><a href="/en/peacekeeping/issues/environment/bestpractice.shtml">Sharing best practice </a></li>
+          </ul>
+      </li>
+      <li id="ddr"><a href="/en/peacekeeping/issues/ddr.shtml">Disarmament, demobilization and reintegration </a></li>
+      <li id="children"><a href="/en/peacekeeping/issues/children/index.shtml">Children in conflict</a> </li>
+      <li id="humanrights"><a href="/en/peacekeeping/issues/humanrights.shtml">Human rights</a> </li>
+    </ul>
+ 
+  </div>
+  <div id="text">
+    <h2>Justice</h2>
+    <p class="lead">Where violence has been the dominant force in a  society, UN Peacekeeping works with national authorities  to rebuild justice institutions.</p>
+    <div class="illustration" style="width: 480px;"><img src="/en/peacekeeping/pictures/justice_pan01.jpg" width="480" height="190" alt="Judges standing in a row." />
+      <p class="credit">UN Photo/Lee Woodyear</p>
+      <p>A group of senior magistrates and the Minister of Justice attend a swearing-in ceremony for newly appointed judicial officials.</p>
+    </div>
+    <h3>Post-Conflict Problems</h3>
+    <p>In post conflict areas,  courthouses are frequently dilapidated and in some cases completely destroyed following  a conflict. Key legal records and other necessary materials are often missing. </p>
+    <p>Typically, the  independence of the judiciary is weak, their salaries low and often unpaid,  providing a fertile ground for corruption.  </p>
+    <p>The requirement for justice is heightened with the need to address the results of atrocities committed during a period of conflict. </p>
+    <h3>Strong and fair justice system</h3>
+    <p>It is essential when building lasting peace and security to have a  functioning and accountable judiciary.</p>
+    <p>The Universal Declaration of Human  Rights provides that all people shall enjoy equal protection under the law,  enforceable by an independent and impartial tribunal.  A strong and fair justice system is critical  to realizing this right.</p>
+    <p>A strong justice sector must be:</p>
+    <ul>
+      <li>Independent</li>
+      <li>Transparent</li>
+      <li>Representative and</li>
+      <li>Impartial</li>
+    </ul>
+    <p>Justice institutions must also be  nationally owned, accountable and trusted by citizens for whom they were  established.  </p>
+    <h3>Success stories</h3>
+    <p>In recent years, UN Peacekeeping has implemented a number of  successful projects through our missions including:</p>
+    <ul type="disc">
+      <li>Opening legal aid offices in post-earthquake <a href="http://www.un.org/en/peacekeeping/missions/minustah/">Haiti</a></li>
+      <li>Training magistrates in the <a href="http://www.un.org/en/peacekeeping/missions/monusco/">Congo</a></li>
+      <li>Coordinating justice initiatives in <a href="http://unama.unmissions.org/">Afghanistan</a></li>
+      <li>Assisting to reopen courts in <a href="http://www.un.org/en/peacekeeping/missions/unamid/">Darfur</a></li>
+      <li>Assessing the justice sector in <a href="http://www.un.org/en/peacekeeping/missions/unmis/">Southern Sudan</a></li>
+      <li>Assisting to draft and provide training on the Law Against       Domestic Violence in <a href="http://www.un.org/en/peacekeeping/missions/unmit/">Timor-Leste</a></li>
+      <li>Facilitating dialogue between Belgrade and Pristina on missing persons       in <a href="http://www.un.org/en/peacekeeping/missions/unmik/">Kosovo</a></li>
+      <li>Studying tribal justice mechanisms in <a href="http://www.un.org/en/peacekeeping/missions/unmil/">Liberia</a></li>
+      <li>Facilitating the development of an €18 million justice programme       in <a href="http://www.un.org/en/peacekeeping/missions/unoci/">Côte       d’Ivoire</a></li>
+    </ul>
+    <h3>UN Peacekeeping’s approach</h3>
+    <p><a href="http://www.un.org/peacekeeping">UN  Peacekeeping</a>&nbsp;in 2012 has 315 judicial affairs officers in our  missions.</p>
+<p>We work to re-establish and strengthen the  judicial and legal systems in countries recovering from war.</p>
+    <p>The first step is a thorough assessment  of a host country’s justice sector:  What  kind of legal and constitutional reforms may be necessary? Are there enough  judges, prosecutors and other court officials?   Do they need training?  Are there  enough court buildings? Can damaged or rundown facilities be quickly repaired?  Who can help pay for this?</p>
+    <p>UN justice experts then work together  with their national counterparts to chart a course forward for reform and  professionalization – prioritizing necessary legislation, training needs, and  facilities for construction or repair.  </p>
+    <p>To better monitor and mentor, UN  officials are often co-located with national actors working in court houses,  the Legislature and Ministry of Justice.   There they can provide advice, assistance and support to these key  institutions while ensuring that they are fully functional and deliver quality  justice.  This is also an opportunity to  determine what training and other assistance is needed for judicial staff to  improve their professionalism.</p>
+   
+    </div>
+  <div id="relblk">
+  	<style>
+.printbox {padding:10px;}
+.printbox a:link, 
+.printbox a:visited,
+.printbox a:hover,
+.printbox a:active {text-decoration:none; border:none;}
+</style>
+
+<div id="subnav" style="margin-left:0;">
+
+<div class="printbox">     
+<div class="addthis_toolbox addthis_default_style">
+<a class="addthis_button_print"><img src="/en/peacekeeping/images/social_icons/print_icon.png" alt="print page" border="0"/></a>
+<a class="addthis_button_email"><img src="/en/peacekeeping/images/social_icons/email_icon.png" alt="email to friend" border="0"/></a>
+<a class="addthis_button_facebook"><img src="/en/peacekeeping/images/social_icons/facebook_icon.png" alt="send to facebook" border="0"/></a>
+<a class="addthis_button_twitter"><img src="/en/peacekeeping/images/social_icons/twitter_icon.png" alt="send to twitter" border="0"/></a>
+<!-- <a style="margin-top:-1px;" class="addthis_button_pinterest_pinit" pi:pinit:media="http://www.un.org/en/peacekeeping/images/pinterestimage.jpg"><img src="/en/peacekeeping/images/pinterest_icon.png" alt="send to pinterest" border="0"/></a> -->
+<a style="display:none;" class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style" style="margin-left:5px;"></a> 
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fad1a673e0994eb"></script>
+</div>
+
+</div>
+<!--   <div class="relbox">
+    <h2>Related links</h2>
+    <ul>
+      <li><a href="http://www.ohchr.org/EN/Pages/WelcomePage.aspx">XXXXXXXXXXXXXXXX</a><a href="http://www.undp.org/cpr/we_do/security_reform.shtml"></a><br />
+      </li>
+      </ul></div>-->
+   <div class="relbox">
+     <h2>Publication</h2>
+     <ul>
+      <li><a href="http://ppdb.un.org/Policy%20%20Guidance%20Database/2013.04_Handbook-Justice-FINAL-FOR-WEB-linked.pdf">Handbook for Judicial Affairs Officers in UN Peacekeeping Operations </a><img src="/common/images/icons/ico_pdf.gif" alt="PDF Document" title="PDF Document" width="14" height="14" /></li>
+  <li>    <a href="/en/peacekeeping/resources/publications.shtml#justice">Justice Review</a> - an introduction to work of the Criminal Law and Judicial Advisory          Service, as well as the  justice components working in our peace operations.</li>
+  </ul>
+   </div>
+<div class="promo prm01">
+      <h2 class="bkgblue"><a href="/en/peacekeeping/sites/police/">UN Police</a></h2>
+      <p><a href="/en/peacekeeping/sites/police/">The need for police is increasing  in our missions around the world. </a></p>
+  </div>
+  </div>
+  <div class="clear">&nbsp;</div></div>
+</div>
+<!--<div id="footer">
+<div class="clear">&nbsp;</div>
+  <img src="/en/peacekeeping/images/emb_footer.png" alt="Go to the UN website" width="50" height="42" />
+  <p><span class="untxt">United Nations</span><br />Department of Peacekeeping Operations in cooperation with the Peace and Security Section of the Department of Public Information</p>
+  <ul>
+    <li><a href="/en/aboutun/terms/">Terms of use</a></li>
+    <li><a href="/en/aboutun/privacy/">Privacy statement</a></li>
+    <li><a href="/en/peacekeeping/about/contact.asp">Contact us</a></li>
+    <li><a href="/en/peacekeeping/sitemap.shtml">Sitemap</a></li>
+  </ul>
+</div>-->
+
+<div id="footer"> 
+	<ul>
+    <li><a href="/en/peacekeeping/sitemap.shtml">Sitemap</a></li>
+    <li><a href="/en/peacekeeping/about/contact.asp">Contact us</a></li>
+    <li><a href="/en/aboutun/copyright/">Copyright</a></li> 
+    <li><a href="/en/aboutun/terms/">Terms of use</a></li> 
+    <li><a href="/en/aboutun/privacy/">Privacy notice</a></li> 
+    <li><a href="/en/aboutun/fraudalert/">Fraud alert</a></li> 
+		<li><a href="/en/aboutun/help/">Help</a></li>
+		<li><a href="/en/siteindex/">UN site index</a></li> 
+	</ul> 
+  <!--<p id="sitecredit">Peace and Security Section of the Department of Public Information in cooperation with the Department of Peacekeeping Operations</p>-->
+</div> 
+ 
+</body>
+</html>

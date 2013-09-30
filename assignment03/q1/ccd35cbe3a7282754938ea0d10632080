@@ -1,0 +1,902 @@
+<!doctype html>
+<html lang="en" xmlns:og="http://opengraphprotocol.org/schema/"  xmlns:fb="http://ogp.me/ns/fb#">
+	<head>
+		<script type="text/javascript">
+    <!--
+    /**only pop out if the outside frame is also gazette, this is to make the new GA feature "in-page analytics" work. 20101018, LC**/
+    if ( ( top.location.href.match( /harvard\.edu/i ) || top.location.href.match( /digitalh\.info/i )  ) && (top.location.href != self.location.href ))
+      top.location.href = self.location.href;
+    //-->
+    </script>
+    <!-- Chartbeat -->
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <!-- Exit Chartbeat -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1,minimum-scale=1" />  
+
+    <title>Atop the Amazon rainforest |  Harvard Gazette</title>
+	  <link rel="pingback" href="http://news.harvard.edu/gazette/xmlrpc.php" />
+
+    <link rel="shortcut icon" type="image/ico" href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="57x57" href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/appletouch-57.gif" />
+    <link rel="apple-touch-icon" sizes="114x114" href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/appletouch-114.gif" />
+    <link rel="apple-touch-icon" sizes="72x72" href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/appletouch-72.gif" />
+    <link rel="apple-touch-icon" sizes="144x144" href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/appletouch.gif" />
+
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400' type='text/css' media='all' />
+
+    <link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/flexslider.css" rel="stylesheet" media="screen, projection" type="text/css" />
+    <link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/screen.css?v=20130815" rel="stylesheet" media="screen, projection" type="text/css" />
+    <link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/print.css" rel="stylesheet" media="print" type="text/css" />
+    <!--[if lt IE 8]><link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+    <!--[if  IE 8]><link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/ie8.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+    <!--[if  IE 9]><link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/ie9.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+    <script type="text/javascript"><!--
+    document.write('<link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css" />');
+    //-->
+    </script>
+
+
+    <meta property="fb:admins" content="593072576,599799799,662979311,613602264"/>
+    <meta property="fb:page_id" content="105930651606" />
+    <meta property="fb:app_id" content="135898969862440" />
+
+	
+	  <meta name="robots" content="index, follow">
+		<meta name="robots" content="all">
+	  
+			<meta name="twitter:site" content="@harvard">
+			<meta name="twitter:creator" content="@harvard">    
+			    
+				<meta name="twitter:card" content="summary">
+				
+			<meta property="og:site_name" content="Harvard Gazette"/>
+			<meta property="og:title" content="Atop the Amazon rainforest"/>
+			<meta property="og:type" content="university"/>
+			<meta property="og:url" content="http://news.harvard.edu/gazette/story/2013/08/atop-the-amazon-rainforest/"/>
+			<meta property="og:description" content="Harvard air chemistry expert Scot Martin is working with the Department of Energy, as well as several international partners, to track how pollution above the pristine Amazon rainforest is changing the climate.
+ 
+"/>
+      
+			<meta property="og:image" content="http://news.harvard.edu/gazette/wp-content/uploads/2013/08/tower_605.jpg"/>
+	
+			<!-- Google News Keywords -->
+			<meta name="news_keywords" content="air pollution, Amazon, Bruno Takeshi, Climate Change, Colleen Walsh, Faculty, FAS, Global Harvard, Harvard, Latin America, News Hub, Rainforest, Research, Scot Martin, Suzane Simões de Sá, ">
+			<meta name="description" content="Harvard scientist, others study how pristine air becomes polluted, and how that may change climate  | Harvard air chemistry expert Scot Martin is working with the Department of Energy, as well as several international partners, to track how pollution above the pristine Amazon rainforest is changing the climate.
+ 
+" /> 
+			<meta name="keywords" content="air pollution, Amazon, Bruno Takeshi, Climate Change, Colleen Walsh, Faculty, FAS, Global Harvard, Harvard, Latin America, News Hub, Rainforest, Research, Scot Martin, Suzane Simões de Sá, " />	
+			
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2923555-11']);
+
+	 _gaq.push(['_setCustomVar',
+		  1,                   // This custom var is set to slot #1.  Required parameter.
+		  'Section',     // The name acts as a kind of category for the user activity.  Required parameter.
+		  'Science &amp; Health',               // This value of the custom variable.  Required parameter.
+		  3                    // Sets the scope to session-level.  Optional parameter.
+	   ]);
+	 _gaq.push(['_setCustomVar',
+	 	  2,
+		  'Sub-Section', // category of activity
+		  'Environments &amp; Sustainability', // Value of custom variable
+		  3  // Sets the scope to page-level. Optional parameter
+	   ]);
+	 _gaq.push(['_setCustomVar',
+		  3,
+		  'ContentType',
+		  'gz_editor_pick | gz_video',
+		  3  // Sets the scope to page-level.  Optional parameter.
+		 ]);
+  
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	<link rel="alternate" type="application/rss+xml" title="Harvard Gazette &raquo; Feed" href="http://news.harvard.edu/gazette/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Harvard Gazette &raquo; Comments Feed" href="http://news.harvard.edu/gazette/comments/feed/" />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://news.harvard.edu/gazette/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='comment-images-css'  href='http://news.harvard.edu/gazette/wp-content/plugins/comment-images/css/plugin.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='http://news.harvard.edu/gazette/wp-content/plugins/taxonomy-images/style.css?ver=0.7.3' type='text/css' media='screen' />
+<script type='text/javascript' src='http://news.harvard.edu/gazette/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://news.harvard.edu/gazette/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://news.harvard.edu/gazette/wp-content/plugins/comment-images/js/plugin.min.js?ver=3.6'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://news.harvard.edu/gazette/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://news.harvard.edu/gazette/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Who needed a stapler?' href='http://news.harvard.edu/gazette/story/2013/08/mazur_qa/' />
+<link rel='next' title='One goal, many players' href='http://news.harvard.edu/gazette/story/2013/08/one-goal-many-players/' />
+<link rel='canonical' href='http://news.harvard.edu/gazette/story/2013/08/atop-the-amazon-rainforest/' />
+<link rel='shortlink' href='http://news.harvard.edu/gazette/?p=145580' />
+<!-- Wordpress Popular Posts v2.3.2 -->
+<script type="text/javascript">
+    /* <![CDATA[ */				
+	jQuery.post('http://news.harvard.edu/gazette/wp-admin/admin-ajax.php', {action: 'wpp_update', token: 'a482e346bb', id: 145580}, function(data){/*alert(data);*/});
+    /* ]]> */
+</script>
+<!-- End Wordpress Popular Posts v2.3.2 -->
+            <!--
+	generated in 0.542 seconds
+	85989 bytes batcached for 300 seconds
+-->
+</head>
+<body class="single single-post postid-145580 single-format-standard">
+
+<div id="outer-wrap">
+
+  <p class="move"><a class="skip" href="#skip">Skip to main content</a></p>
+  <div class="sticky">
+    <div id="topbar">
+
+      <a class="nav-btn" id="nav-open-btn">Menu</a>
+      <a class="nav-btn" id="nav-close-btn">Menu</a>
+      <a class="nav-btn" id="nav-gz-home" href="/gazette"  onclick="_gaq.push(['_trackEvent','gazette_home','top_bar','home']);">Home</a>
+
+      <div class="searchform-wrapper">
+        <!-- START: searchform.php -->
+        <form role="search" method="get" id="searchform" action="/gazette/">
+          <label class="hide" for="s">Search for:</label>
+            <input type="text" value="" name="s" id="s" placeholder="Search">
+            <input type="submit" id="searchsubmit" value="Search" class="postfix button">
+        </form>
+        <!-- END: searchform.php -->
+      </div>
+      
+      <div class="menu-wrapper">
+        <div class="menu-utility-menu-container"><ul id="menu-utility-menu" class="utility-menu"><li id="menu-item-136820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136820"><a href="http://www.harvard.edu" onclick="_gaq.push(['_trackEvent','nav_utility_right','nav_link','http://www.harvard.edu']);">harvard.edu</a></li>
+<li id="menu-item-136943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136943"><a href="http://news.harvard.edu/gazette/photo-multimedia-services/" onclick="_gaq.push(['_trackEvent','nav_utility_right','nav_link','http://news.harvard.edu/gazette/photo-multimedia-services/']);">Photographic Services</a></li>
+<li id="menu-item-136944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136944"><a href="http://news.harvard.edu/gazette/for-journalists/" onclick="_gaq.push(['_trackEvent','nav_utility_right','nav_link','http://news.harvard.edu/gazette/for-journalists/']);">Resources for Journalists</a></li>
+<li id="menu-item-136819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136819"><a href="http://news.harvard.edu/gazette/hpac/" onclick="_gaq.push(['_trackEvent','nav_utility_right','nav_link','http://news.harvard.edu/gazette/hpac/']);">HPAC</a></li>
+</ul></div>      </div>
+
+    </div><!--/#topbar-->
+  </div><!--/.sticky-->
+  
+        
+  <div class="wrap" id="inner-wrap">
+  
+    <div id="logo">
+      <a href="http://news.harvard.edu/gazette" onClick="_gaq.push(['_trackEvent','gazette_home','logo','home']);"><img src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/gazette-logo.png" alt="Harvard Gazette" width="369" height="50"></a>
+          </div><!--/#logo-->
+  
+    <div class="secondary" id="nav">
+      <div id="scrollbar1">
+        <div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+          <div class="viewport">
+              <div class="overview">
+
+        <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-136822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136822"><a href="http://news.harvard.edu/gazette/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/']);">Home</a></li>
+<li id="menu-item-136827" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136827"><a href="http://news.harvard.edu/gazette/section/campus-n-community/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/']);">Campus &#038; Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-136828" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136828"><a href="http://news.harvard.edu/gazette/section/campus-n-community/awards/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/awards/']);">Awards</a></li>
+	<li id="menu-item-136917" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136917"><a href="http://news.harvard.edu/gazette/section/campus-n-community/commencement-campus-n-community/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/commencement-campus-n-community/']);">Commencement</a></li>
+	<li id="menu-item-136918" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136918"><a href="http://news.harvard.edu/gazette/section/campus-n-community/faculty_/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/faculty_/']);">Faculty</a></li>
+	<li id="menu-item-142735" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142735"><a href="http://news.harvard.edu/gazette/section/campus-n-community/news/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/news/']);">Harvard News</a></li>
+	<li id="menu-item-136919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136919"><a href="http://news.harvard.edu/gazette/section/campus-n-community/harvard-traditions/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/harvard-traditions/']);">Harvard Traditions</a></li>
+	<li id="menu-item-136920" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136920"><a href="http://news.harvard.edu/gazette/section/campus-n-community/in-the-community/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/in-the-community/']);">In the Community</a></li>
+	<li id="menu-item-136921" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136921"><a href="http://news.harvard.edu/gazette/section/campus-n-community/news-by-school/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/news-by-school/']);">News by School</a></li>
+	<li id="menu-item-136922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136922"><a href="http://news.harvard.edu/gazette/section/campus-n-community/obits/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/obits/']);">Obituaries</a></li>
+	<li id="menu-item-136923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136923"><a href="http://news.harvard.edu/gazette/section/campus-n-community/on-campus/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/on-campus/']);">On Campus</a></li>
+	<li id="menu-item-136924" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136924"><a href="http://news.harvard.edu/gazette/section/campus-n-community/staff-n-administration/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/staff-n-administration/']);">Staff &#038; Administration</a></li>
+	<li id="menu-item-142903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142903"><a href="http://news.harvard.edu/gazette/staff-news/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/staff-news/']);">Staff News</a></li>
+</ul>
+</li>
+<li id="menu-item-136823" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136823"><a href="http://news.harvard.edu/gazette/section/arts-n-culture/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/arts-n-culture/']);">Arts &#038; Culture</a>
+<ul class="sub-menu">
+	<li id="menu-item-136824" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136824"><a href="http://news.harvard.edu/gazette/section/arts-n-culture/art-n-photography/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/arts-n-culture/art-n-photography/']);">Art &#038; Photography</a></li>
+	<li id="menu-item-136925" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136925"><a href="http://news.harvard.edu/gazette/section/arts-n-culture/harvard-bound-reviews/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/arts-n-culture/harvard-bound-reviews/']);">Harvard Bound</a></li>
+	<li id="menu-item-136926" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136926"><a href="http://news.harvard.edu/gazette/section/arts-n-culture/history-language-n-culture/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/arts-n-culture/history-language-n-culture/']);">History, Language &#038; Culture</a></li>
+	<li id="menu-item-136927" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136927"><a href="http://news.harvard.edu/gazette/section/arts-n-culture/literature-n-poetry/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/arts-n-culture/literature-n-poetry/']);">Literature &#038; Poetry</a></li>
+	<li id="menu-item-136928" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136928"><a href="http://news.harvard.edu/gazette/section/arts-n-culture/music/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/arts-n-culture/music/']);">Music</a></li>
+</ul>
+</li>
+<li id="menu-item-136829" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-136829"><a href="http://news.harvard.edu/gazette/section/science-n-health/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/science-n-health/']);">Science &#038; Health</a>
+<ul class="sub-menu">
+	<li id="menu-item-136830" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136830"><a href="http://news.harvard.edu/gazette/section/science-n-health/culture-n-society/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/science-n-health/culture-n-society/']);">Culture &#038; Society</a></li>
+	<li id="menu-item-136929" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136929"><a href="http://news.harvard.edu/gazette/section/science-n-health/technology/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/science-n-health/technology/']);">Engineering &#038; Technology</a></li>
+	<li id="menu-item-136930" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-136930"><a href="http://news.harvard.edu/gazette/section/science-n-health/environment/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/science-n-health/environment/']);">Environments &#038; Sustainability</a></li>
+	<li id="menu-item-136931" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136931"><a href="http://news.harvard.edu/gazette/section/science-n-health/health-n-medicine/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/science-n-health/health-n-medicine/']);">Health &#038; Medicine</a></li>
+	<li id="menu-item-136932" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136932"><a href="http://news.harvard.edu/gazette/section/science-n-health/life-sciences/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/science-n-health/life-sciences/']);">Life Sciences</a></li>
+</ul>
+</li>
+<li id="menu-item-136831" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136831"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/']);">National &#038; World Affairs</a>
+<ul class="sub-menu">
+	<li id="menu-item-136832" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136832"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/business-business-world-affairs/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/business-business-world-affairs/']);">Business</a></li>
+	<li id="menu-item-136933" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136933"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/economics/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/economics/']);">Economics</a></li>
+	<li id="menu-item-136934" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136934"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/education/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/education/']);">Education</a></li>
+	<li id="menu-item-136935" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136935"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/government-n-politics/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/government-n-politics/']);">Government &#038; Politics</a></li>
+	<li id="menu-item-136936" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136936"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/international-national-n-world-affairs/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/international-national-n-world-affairs/']);">International</a></li>
+	<li id="menu-item-136937" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136937"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/law/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/law/']);">Law</a></li>
+	<li id="menu-item-136938" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136938"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/national/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/national/']);">National</a></li>
+	<li id="menu-item-136939" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136939"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/public-service-national-n-world-affairs/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/public-service-national-n-world-affairs/']);">Public Service</a></li>
+	<li id="menu-item-136940" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136940"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/religion/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/religion/']);">Religion</a></li>
+</ul>
+</li>
+<li id="menu-item-136825" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136825"><a href="http://news.harvard.edu/gazette/section/athletics/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/athletics/']);">Athletics</a>
+<ul class="sub-menu">
+	<li id="menu-item-136826" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136826"><a href="http://news.harvard.edu/gazette/section/athletics/all-teams/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/athletics/all-teams/']);">All Teams</a></li>
+	<li id="menu-item-136941" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136941"><a href="http://news.harvard.edu/gazette/section/athletics/awards-sports/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/athletics/awards-sports/']);">Awards</a></li>
+	<li id="menu-item-136942" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136942"><a href="http://news.harvard.edu/gazette/section/athletics/gamesevents/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/athletics/gamesevents/']);">Games/Events</a></li>
+</ul>
+</li>
+<li id="menu-item-142538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142538"><a href="http://news.harvard.edu/gazette/harvard-events/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/harvard-events/']);">Harvard Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-142541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142541"><a href="http://news.harvard.edu/gazette/harvard-events/events-calendar/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/harvard-events/events-calendar/']);">Events Calendar</a></li>
+	<li id="menu-item-142539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142539"><a href="http://news.harvard.edu/gazette/harvard-events/studies-calendar/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/harvard-events/studies-calendar/']);">Studies Calendar</a></li>
+	<li id="menu-item-142540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142540"><a href="http://news.harvard.edu/gazette/harvard-events/ongoing-events/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/harvard-events/ongoing-events/']);">Ongoing Events</a></li>
+</ul>
+</li>
+<li id="menu-item-136911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136911"><a href="http://news.harvard.edu/gazette/gazette-topics/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/gazette-topics/']);">Gazette Topics</a>
+<ul class="sub-menu">
+	<li id="menu-item-142542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142542"><a href="/gazette/story/topic/commencement-2013/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','/gazette/story/topic/commencement-2013/']);">Commencement 2013</a></li>
+	<li id="menu-item-142543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142543"><a href="/gazette/story/topic/asia/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','/gazette/story/topic/asia/']);">Global Harvard: Asia</a></li>
+	<li id="menu-item-145221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-145221"><a href="/gazette/story/topic/global-harvard-latin-america/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','/gazette/story/topic/global-harvard-latin-america/']);">Global Harvard: Latin America</a></li>
+</ul>
+</li>
+</ul></div>        
+        <div class="daily-gazette">
+          <h3>
+          <img src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/mail_white_retina.png" width="28" alt="subscribe" />
+          Subscribe to the <br />Daily Gazette</h3>
+									
+          <form action="http://www.pages01.net/harvard/gazette" method="get">
+          <input type="text"  name="email" class="required email" id="mce-EMAIL" value="Your email address" size=25 onFocus="if (this.value=='Your email address') this.value='';" onBlur="if (this.value=='') this.value='Your email address'" />
+          <input type="submit" value="Subscribe" class="btn btn-subscribe" id="email-subscribe-submit"  onclick="_gaq.push(['_trackEvent','email_signup','left_side','Subscribe to email']);" title="Subscribe to Gazette email" />
+          </form>
+        </div><!--/.daily-gazette-->	
+	
+        <div class="utility-menu-wrapper">
+          <div class="menu-utility-menu-container"><ul id="menu-utility-menu-1" class="utility-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136820"><a href="http://www.harvard.edu" onclick="_gaq.push(['_trackEvent','nav_utility_left','nav_link','http://www.harvard.edu']);">harvard.edu</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136943"><a href="http://news.harvard.edu/gazette/photo-multimedia-services/" onclick="_gaq.push(['_trackEvent','nav_utility_left','nav_link','http://news.harvard.edu/gazette/photo-multimedia-services/']);">Photographic Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136944"><a href="http://news.harvard.edu/gazette/for-journalists/" onclick="_gaq.push(['_trackEvent','nav_utility_left','nav_link','http://news.harvard.edu/gazette/for-journalists/']);">Resources for Journalists</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136819"><a href="http://news.harvard.edu/gazette/hpac/" onclick="_gaq.push(['_trackEvent','nav_utility_left','nav_link','http://news.harvard.edu/gazette/hpac/']);">HPAC</a></li>
+</ul></div>        </div>
+    
+        <div class="harvard-social">
+          
+          Find Harvard on:
+          <p>
+          <a href="http://facebook.com/harvard" title="Facebook" onClick="_gaq.push(['_trackEvent','social_find_harvard','left_side','facebook']);">Facebook</a>
+           | <a href="http://twitter.com/harvard" title="Twitter" onClick="_gaq.push(['_trackEvent','social_find_harvard','left_side','twitter']);">Twitter</a>
+           | <a href="http://www.linkedin.com/edu/school?id=18483" title="LinkedIn" onClick="_gaq.push(['_trackEvent','social_find_harvard','left_side','linkedin']);">LinkedIn</a>
+           <br /><a href="https://plus.google.com/107511988236393178296?prsrc=3" title="Google Plus" onClick="_gaq.push(['_trackEvent','social_find_harvard','left_side','googleplus']);">Google Plus</a>
+           | <a href="http://www.youtube.com/harvard" title="YouTube" onClick="_gaq.push(['_trackEvent','social_find_harvard','left_side','youtube']);">YouTube</a>
+           | <a href="http://itunes.harvard.edu" title="iTunes U" onClick="_gaq.push(['_trackEvent','social_find_harvard','left_side','itune_U']);">iTunes U</a>
+          </p>
+
+        </div><!--/.harvard-social-->
+    
+        <div id="footer">
+          <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="footer-menu"><li id="menu-item-147182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147182"><a href="http://news.harvard.edu/gazette/about-harvard-gazette/" onclick="_gaq.push(['_trackEvent','nav_footer','nav_link','http://news.harvard.edu/gazette/about-harvard-gazette/']);">About</a> | </li>
+<li id="menu-item-136821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136821"><a href="http://news.harvard.edu/gazette/contact-us/" onclick="_gaq.push(['_trackEvent','nav_footer','nav_link','http://news.harvard.edu/gazette/contact-us/']);">Contact Us</a> | </li>
+<li id="menu-item-145476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-145476"><a href="http://www.harvard.edu/privacy-statement" onclick="_gaq.push(['_trackEvent','nav_footer','nav_link','http://www.harvard.edu/privacy-statement']);">Privacy</a> | </li>
+<li id="menu-item-136913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136913"><a href="http://news.harvard.edu/gazette/rss-feeds/" onclick="_gaq.push(['_trackEvent','nav_footer','nav_link','http://news.harvard.edu/gazette/rss-feeds/']);">RSS</a> | </li>
+<li id="menu-item-136916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136916"><a href="http://www.trademark.harvard.edu/trademark_protection/notice.php" onclick="_gaq.push(['_trackEvent','nav_footer','nav_link','http://www.trademark.harvard.edu/trademark_protection/notice.php']);">Trademark</a> | </li>
+<li id="menu-item-136914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136914"><a href="http://news.harvard.edu/gazette/print-gazette-archives/" onclick="_gaq.push(['_trackEvent','nav_footer','nav_link','http://news.harvard.edu/gazette/print-gazette-archives/']);">Print Gazette Archives</a> | </li>
+</ul></div>
+          <div class="copyright">
+            &copy; 2013 The President and Fellows of Harvard College
+          </div>          
+
+        </div><!--/#footer-->
+        
+        <div id="harvard-logo">
+          <a href="http://www.harvard.edu" onClick="_gaq.push(['_trackEvent','link','img','harvard.edu']);"><img src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/harvard-logo-2x.png" width="228"></a>
+        </div>
+
+              </div>
+          </div>
+      </div>    
+      
+    </div><!--/.secondary-->
+  
+    <div class="primary" id="skip">
+  <div id="sticky-filter" class="story-share">
+			<div class="title">Atop the Amazon rainforest</div>
+      <div class="share-icons">
+            
+	          <span><a class="email addthis_button_email" target="_blank" href="http://www.addthis.com/bookmark.php" title="Email" onclick="_gaq.push(['_trackSocial','addthis','email','http://news.harvard.edu/gazette/story/2013/08/atop-the-amazon-rainforest/']);">Email</a></span>
+            <span><a class="googleplus" target="_blank" href="https://plus.google.com/share?url=news.harvard.edu%2F%2Fgazette%2Fstory%2F2013%2F08%2Fatop-the-amazon-rainforest%2F%3Futm_campaign%3Dsocialflow%26utm_source%3Dtwitter%26utm_medium%3Dsocial" title="Google Plus" onclick="_gaq.push(['_trackSocial','googleplus','share','http://news.harvard.edu/gazette/story/2013/08/atop-the-amazon-rainforest/']);">Google Plus</a></span>
+            <span><a class="linkedin" target="_blank" href="http://linkedin.com/shareArticle?mini=true&url=news.harvard.edu%2F%2Fgazette%2Fstory%2F2013%2F08%2Fatop-the-amazon-rainforest%2F%3Futm_campaign%3Dsocialflow%26utm_source%3Dtwitter%26utm_medium%3Dsocial&title=Atop+the+Amazon+rainforest&summary=Harvard+air+chemistry+expert+Scot+Martin+is+working+with+the+Department+of+Energy%2C+as+well+as+several+international+partners%2C+to+track+how+pollution+above+the+pristine+Amazon+rainforest+is+changing+the+climate.%0D%0A+%0D%0A" title="LinkedIn" onclick="_gaq.push(['_trackSocial','linkedin','share','http://news.harvard.edu/gazette/story/2013/08/atop-the-amazon-rainforest/']);">LinkedIn</a></span>
+            <span><a class="twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Atop+the+Amazon+rainforest&url=http://hvrd.me/15PXLmy&via=harvard" title="Twitter" onclick="_gaq.push(['_trackSocial','twitter','tweet','http://news.harvard.edu/gazette/story/2013/08/atop-the-amazon-rainforest/']);">Twitter</a></span>
+            <span><a class="facebook" target="_blank" href="https://www.facebook.com/sharer.php?s=100&p[title]=Atop+the+Amazon+rainforest&p[url]=http://news.harvard.edu%2F%2Fgazette%2Fstory%2F2013%2F08%2Fatop-the-amazon-rainforest%2F%3Futm_campaign%3Dsocialflow%26utm_source%3Dtwitter%26utm_medium%3Dsocial&p[summary]=Harvard+air+chemistry+expert+Scot+Martin+is+working+with+the+Department+of+Energy%2C+as+well+as+several+international+partners%2C+to+track+how+pollution+above+the+pristine+Amazon+rainforest+is+changing+the+climate.%0D%0A+%0D%0A&p[images][0]=http%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fwp-content%2Fuploads%2F2013%2F08%2FManaus_scot-martin_140.jpg" title="Facebook" onclick="_gaq.push(['_trackSocial','facebook','share','http://news.harvard.edu/gazette/story/2013/08/atop-the-amazon-rainforest/']);">Facebook</a></span>
+      </div>
+	</div>
+
+    <div class="content full-width-top">
+      			<div class="top-wrapper feature-top">
+        <div class="article-head">
+          <div class="breadcrumb category Science &amp; Health">
+            <a class="category-name science" onclick="_gaq.push(['_trackEvent','breadcrumb','category','http://news.harvard.edu/gazette/section/science-n-health/']);" href="http://news.harvard.edu/gazette/section/science-n-health/" title="View all posts in Science &amp; Health" rel="category tag">Science &amp; Health</a> &nbsp;>&nbsp; <a onclick="_gaq.push(['_trackEvent','breadcrumb','sub_category','http://news.harvard.edu/gazette/section/science-n-health/environment/']);" href="http://news.harvard.edu/gazette/section/science-n-health/environment/" title="View all posts in Environments &amp; Sustainability" rel="category tag">Environments &amp; Sustainability</a>          </div>
+  
+          <h2>Atop the Amazon rainforest</h2>
+          <h3>Harvard scientist, others study how pristine air becomes polluted, and how that may change climate </h3>
+          
+          <div class="meta">
+            August 28, 2013 | 
+		        <span class="label editorpick">Editor's Pick</span>
+		        <span class="label video">Audio/Video</span>          </div><!--/.meta-->
+        </div><!--/.article-head -->  
+				
+				        <div class="article-feature">
+          
+	<div class="embed-container">
+	
+	  <script type="text/javascript" src="http://cdnapi.kaltura.com/p/616782/sp/61678200/embedIframeJs/uiconf_id/15046671/partner_id/616782"></script>
+  
+	  <object id="kaltura_player_kaltura_player_1_6rq51utj" name="kaltura_player_kaltura_player_1_6rq51utj" type="application/x-shockwave-flash" allowFullScreen="true" allowNetworking="all" allowScriptAccess="sameDomain" height="606" width="922" bgcolor="#000000"  xmlns:dc="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/searchmonkey/media/" rel="media:video" resource="http://cdnapi.kaltura.com/index.php/kwidget/cache_st/1_6rq51utj/wid/_616782/uiconf_id/15046671/entry_id/1_6rq51utj" data="http://cdnapi.kaltura.com/index.php/kwidget/cache_st/1_6rq51utj/wid/_616782/uiconf_id/15046671/entry_id/1_6rq51utj">
+	  <param name="allowFullScreen" value="true" />
+	  <param name="allowNetworking" value="all" />
+	  <param name="allowScriptAccess" value="sameDomain" />
+	  <param name="bgcolor" value="#000000" />
+	  <param name="flashVars" value="&akamaiHD.loadingPolicy=preInitialize&akamaiHD.asyncInit=true&streamerType=hdnetwork" />
+	  <param name="movie" value="http://cdnapi.kaltura.com/index.php/kwidget/cache_st/1_6rq51utj/wid/_616782/uiconf_id/15046671/entry_id/1_6rq51utj" />
+	  <a rel="media:thumbnail" href="http://cdnbakmi.kaltura.com/p/616782/sp/61678200/thumbnail/entry_id/1_6rq51utj/width/120/height/90/bgcolor/000000/type/2"></a> 
+	  <span property="media:width" content="922"></span>
+	  <span property="media:height" content="606"></span> 
+	  <span property="media:type" content="application/x-shockwave-flash"></span>
+	  </object>
+	  
+	</div><!--/.embed-container-->
+	        </div><!--/.article-feature -->
+                      
+        <div class="article-feature-caption tablet">
+          <p class="photo-credit">Ned Brown/Harvard Staff</p>
+                  </div><!--/.article-feature-caption-->
+        			</div><!--/.top-wrapper-->
+
+      <div class="main">
+        <div class="article-byline">
+          By Colleen Walsh, Harvard Staff Writer        </div>
+        
+        <div class="article-body">
+          <p><i>This is third in a <a href="http://news.harvard.edu/gazette/story/topic/global-harvard-latin-america/">series of stories</a> about Harvard’s engagement in Latin America.</i></p>
+<p>MANAUS, Brazil — Walking along a path in the Amazon rainforest, several overheated travelers come across a copper-colored brook rippling under a mossy wooden bridge. It’s an inviting sight. But the beckoning waters could well camouflage a deadly predator.</p>
+<p>“The huge snake the anaconda loves to stay in these small rivers,” said Bruno Takeshi, a tall, unflappable Brazilian, referring to the massive reptile that squeezes the life out of its prey.</p>
+<p>On this steamy afternoon in early August, Takeshi, who studies how changes in soil relate to climate science, and his collaborators, Harvard Professor <a href="http://www.seas.harvard.edu/directory/smartin">Scot Martin</a> and Martin’s Ph.D. student Suzane Simões de Sá, don’t linger by the river. Instead, they continue their twisting trek through the thick forest ringing with the songs of unseen insects and birds, until they reach their incongruous goal, a 177-foot aluminum tower.</p>
+<p>The tower is used in climate research, and resembles a number of such structures that will soon be part of a massive, coordinated campaign to track something that, over decades, could prove more deadly than the Amazon’s anacondas, something that floats invisibly, high above the pristine jungle: air pollution.</p>
+<div id="attachment_145641" class="wp-caption alignnone" style="width: 580px"><img class="size-full wp-image-145641" alt="anaconda-water_570" src="http://news.harvard.edu/gazette/wp-content/uploads/2013/08/anaconda-water.jpg" width="570" height="400" /><p class="wp-caption-text">A wooden bridge on the path through the Amazon rainforest that leads to a 177-foot aluminum tower used in climate research. Photos by Ned Brown/Harvard Staff</p></div>
+<p>The research project is called <a href="http://campaign.arm.gov/goamazon2014/">GreenOceanAmazon2014</a> (GoAmazon2014), a collaboration among the<a href="http://energy.gov/"> U.S. Department of Energy</a> and several Brazilian and other international partners. The program, for which Takeshi is project manager, studies the environmental impact of a growing pollution plume generated in Manaus, Brazil, a burgeoning industrial center carved from the dense forest.</p>
+<p><b>A busy city near an unbroken forest</b></p>
+<p>Researchers hope to ascertain how the city’s smog is affecting some of the cleanest air in the world, changing cloud formation and rainfall in the region, and influencing global climate change. For scientists, the busy city encircled by miles of unbroken forest is a perfect natural laboratory, a kind of controlled experiment.</p>
+<p>“Manaus is a great test bed. It’s an isolated urban region with 2,000 kilometers of forest around it,” said Martin, Harvard’s Gordon McKay Professor of Environmental Chemistry, the principal investigator for the project. In “most places, there are so many possible pollution sources, it’s very difficult to dissect and interpret the data. Here, it’s a much more straightforward experiment, given there’s only one major pollution source.”</p>
+<p>On the hike to the tower, Martin pauses occasionally to wipe steam from his wire-rimmed glasses. In his checked shirt, khaki shorts, black sneakers, and bright yellow Brazilian national soccer team cap, he looks less like a jungle explorer than a casual tourist who took a wrong turn in the woods. But he is as comfortable and confident in this rugged environment as any whip-wielding Indiana Jones.</p>
+<p>Climbing the tower as it sways with the wind is not for the faint of heart. Slim aluminum scaffolding connects a series of equally thin platforms and ladders. For the first-time climber, the ground disappears at an alarming rate during the ascent as the green leaves of hundreds of species of trees quickly swallow the brown forest floor. Higher up, the incessant buzz of the jungle is replaced by a calm silence, the heat eased by a steady breeze. At the top, above the tree canopy, the view is of a “green ocean,” an endless expanse of emerald in every direction.</p>
+<p>Martin’s first Amazon climb took place in 2008 during a project called the Amazonian Aerosol Characterization Experiment (AMAZE08) that set the groundwork for the GoAmazon2014 campaign. Martin, whose research focuses on tiny atmospheric particles called aerosols and their impact on cloud formation, rainfall, and climate change, had spent years experimenting with the <a href="http://www.seas.harvard.edu/environmental-chemistry/2009update/projects/chamber.html">Harvard Environmental Chamber</a>, a giant, flexible Teflon bag within which he could study how aerosols reacted with things like ozone and highly reactive hydroxyl radicals to affect cloud formation. He was taking his first sabbatical and looking to branch out from the confines of his Harvard lab.</p>
+<div id="attachment_145640" class="wp-caption alignnone" style="width: 580px"><img class="size-full wp-image-145640 " alt="tower2" src="http://news.harvard.edu/gazette/wp-content/uploads/2013/08/tower2.jpg" width="570" height="400" /><p class="wp-caption-text">An Amazon tower similar to the one Martin used during his 2008 Amazonian Aerosol Characterization Experiment.</p></div>
+<p>Martin, who is married to a Brazilian, immediately thought of the Latin American country for his yearlong break. “I had never done any research outside of the laboratory before … and if you are going to go to Brazil, what captures the imagination most is Amazonia.” The isolated area was the perfect environment for studying atmospheric particles, a living lab with pristine air where he could explore the links between biological processes and climate.</p>
+<p><b>The influence of particles on climate shifts</b></p>
+<p>Martin’s work is helping to illuminate a dark area in climate science. Though scientists have long understood the impact of carbon dioxide and methane gas on global warming, they know relatively little about the particles that Martin studies, or their possible influence on climate shifts and global warming trends.</p>
+<p>“The big uncertainties and controversy around climate change are really centered on these atmospheric particles,” which are difficult both to control and to characterize, said Martin. Such particles vary widely in size, from 10 to 1,000 nanometers. They also have different chemical compositions. (Sulfate particles reflect solar radiation, while black soot particles mean energy gets absorbed in the atmospheric column, which in turn can change circulation patterns.) The particles also interact with clouds and can change precipitation rates.</p>
+<p>For years, scientists theorized that the air above the rainforest contained organic molecules released by plants in the forest below. The question, however, was whether those molecules reacted with chemicals in the atmosphere — like ozone or a highly reactive molecule called hydroxyl radicals — to create aerosol particles, and if and how those particles affected rainfall.</p>
+<p>During his 2008 sabbatical, Martin used a new 112-foot tower, where a slender copper tube sucked clean air from above the trees into a small steel container crammed with instruments, including the delicate mass spectrometer, a fine-tuned machine that can provide a fingerprint of the atmosphere and distinguish between primary organic molecules and the secondary aerosol particles they form. The results showed Martin and his colleagues that the aerosols did indeed come from chemical reactions between the organic molecules released by plants and chemicals in the atmosphere. Further testing and studies revealed that those aerosols were directly influencing levels of rainfall.</p>
+<p>“That sets up the background for the GoAmazon2014 experiment,” Martin said, “because this means we can ask the question: ‘If emissions from the forest are controlling those aspects of climate, what does it mean when they couple to pollution?’ ”</p>
+<p>A similarly ideal condition for his current experiment — and his second sabbatical — is the proximity of Manaus. This busy industrial city, while bringing prosperity to many, has created a widening pollution plume.</p>
+<p>One hundred and fifty years ago, Manaus, the capital of the state of Amazonas, was awash in opulence, the result of a rubber boom that drew both workers and wealthy investors. But the city’s fortunes dwindled after British explorer Henry Wickham smuggled thousands of rubber seeds out of the country in 1876, thereby ending Manaus’ nearly exclusive control of the natural resource. After decades of poverty, Manaus slowly evolved again into an economic powerhouse, thanks to a decree making it a free-trade zone in the 1950s. Today, government tax exemptions and incentives have attracted a growing list of Fortune 500 companies and their manufacturing plants. In 1970, Manaus had 500,000 inhabitants. Now, it has close to 2 million.</p>
+<p>On Manaus’ crowded streets, cars and motorcycles battle in daily duels of wit and will. Development plans displayed along the road offer a glimpse of the city’s resurgence. A giant blue sign touts condos and ball fields. Nearby a massive shopping mall looms. On another busy stretch, large silver letters announce the industrial home of the electronics giant Pioneer. Farther on are a Coca-Cola plant and a brewery. High-rises, sprawling homes, and factories cover the ground, except for small sections of green where the Amazon simply refused to yield.</p>
+<p>One of the inevitable results of such size and growth — along with overcrowding and a distinct disparity in resources among the population — is the smog and soot that now plague the area.</p>
+<p>As Martin explains it, the city’s primary pollutants dramatically alter the formation of atmospheric particles. Those changes then affect rainfall.</p>
+<p>Pollution comes mainly from sulfur and nitrogen oxides, which can change important chemical pathways and cause formation of many more tiny particles in the atmosphere. When a cloud forms, water condenses on background particles to form water droplets. In a pristine environment, there are “about 300 particles per cubic centimeter. Imagine, under polluted conditions, you have 3,000 particles per cubic centimeter,” said Martin. The more particles there are per cubic centimeter, the smaller the water droplets are that form. And a cloud with smaller water droplets is more likely to evaporate than produce rain.</p>
+<p>“If you start changing the clouds and changing the hydrological cycle, it has big implications,” said Martin. One of them involves climate change. “All of these are the tough issues of climate. So, in that context, our ‘slice’ through it is to try to understand where the particles come from, what are the size of the particles, and how that links into cloud formation.”</p>
+<p><b>Tracking the air as it migrates</b></p>
+<div id="attachment_145639" class="wp-caption alignnone" style="width: 580px"><img class="size-full wp-image-145639" alt="lab_570_1" src="http://news.harvard.edu/gazette/wp-content/uploads/2013/08/lab.jpg" width="570" height="400" /><p class="wp-caption-text">One of the many U.S. Department of Energy mobile labs that Martin and his collaborators will use during GoAmazon2014.</p></div>
+<p>To accomplish his task, Martin and his GoAmazon2014 partners will create four sites that allow them to track the air as it migrates from a clean environment through the city’s pollution and beyond. “We will have one site up-wind of Manaus to measure the air parcel when it’s clean, one in Manaus that captures the emissions, one just across the river from Manaus that gets the fresh pollution, and one an hour away from Manaus where we can get the aged pollution.”</p>
+<p>It’s that final site with which Martin is directly involved, an open pasture on a farm near the small city of Manacapuru. There, cordoned off in a field once reserved for grazing cattle, sits a 20-foot by 10-foot white container, a mobile lab containing sensitive scientific equipment owned by the Energy Department. In the coming months, 14 similar containers will arrive in advance of two intensive operating periods (IOPs) — February through March and September through October 2014 — when the site will host upward of 50 Harvard and Brazilian researchers and students, working from dawn until dusk.</p>
+<p>Six small Department of Energy labs will sample the air. Each container will have a tube on its roof, consisting of a small copper wire, protected by a screen to filter out insects, and insulated by polyurethane to keep the air temperature consistent as it flows into a dryer that sucks away any condensation. Before the air reaches the mass spectrometer’s container, another machine will filter out large dust particles that could damage the device.</p>
+<p>Other containers will house sensitive radar equipment that will measure the size of the clouds and the water they hold. Another batch of containers will monitor radiation levels and other phenomena. During the IOPs, an aircraft will regularly fly overhead, gathering more data on the clouds and the pollution plume.</p>
+<p>Still, this work is just the data-collecting phase for Martin, who along with his collaborators has submitted proposals for further funding that will, they hope, allow them to analyze the data they collect next year.</p>
+<p>“It’s a multi-headed hydra that will get us across the finish line,” said Martin, who is quick with a laugh and quick to focus on the positive. “If you were here two years ago, you would know today that we are making progress.”</p>
+<p>That progress could lead to key answers, as equatorial cities blossom in the coming decades.</p>
+<p>“Hopefully, we can provide a knowledge base, one that lets people consider transportation or energy systems that could have a significantly reduced effect on air quality and a reduced effect on climate change.”</p>
+		<div class="next-story">
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/08/one-goal-many-players/"  onclick="_gaq.push(['_trackEvent','next','img','http://news.harvard.edu/gazette/story/2013/08/one-goal-many-players/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/08/Manaus_sidebar-collaborators_140.jpg" alt="One goal, many players" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon science"><a href="http://news.harvard.edu/gazette/section/science-n-health/">View all posts in Science &amp; Health</a></div>
+		<div class="story-info">
+		  <div class="header">Next:</div>
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/08/one-goal-many-players/"  onclick="_gaq.push(['_trackEvent','next','title','http://news.harvard.edu/gazette/story/2013/08/one-goal-many-players/']);">One goal, many players</a></h3>
+			<div class="date">
+			<span class="byline">By Colleen Walsh, Harvard Staff Writer <span class="divider">|</span> </span>August 28, 2013
+			</div>
+
+		</div><!--/.story-info-->
+		<div class="arrow"><a href="http://news.harvard.edu/gazette/story/2013/08/one-goal-many-players/"  onclick="_gaq.push(['_trackEvent','next','arrow','http://news.harvard.edu/gazette/story/2013/08/one-goal-many-players/']);">&gt;</a></div>
+	</div><!--/.story-block-->    
+		
+		</div><!--/.next-story-->
+<div id="comments" class="comments-area">
+
+	
+	
+	
+</div><!-- #comments .comments-area -->        </div><!-- /article-body -->
+    
+      </div><!--/.main-->
+
+            <div class="article-feature-caption hide-on-tablet">
+        <p class="photo-credit">Ned Brown/Harvard Staff</p>
+	            </div><!--/.article-feature-caption-->
+        
+    
+			
+      <div class="sub">
+        <div class="sidebar-block story-share">
+          <div class="option-icons">
+            
+	          <span><a class="email addthis_button_email" target="_blank" href="http://www.addthis.com/bookmark.php" title="Email" onclick="_gaq.push(['_trackSocial','addthis','email','http://news.harvard.edu/gazette/story/2013/08/atop-the-amazon-rainforest/']);">Email</a></span>
+            <span><a class="googleplus" target="_blank" href="https://plus.google.com/share?url=news.harvard.edu%2F%2Fgazette%2Fstory%2F2013%2F08%2Fatop-the-amazon-rainforest%2F%3Futm_campaign%3Dsocialflow%26utm_source%3Dtwitter%26utm_medium%3Dsocial" title="Google Plus" onclick="_gaq.push(['_trackSocial','googleplus','share','http://news.harvard.edu/gazette/story/2013/08/atop-the-amazon-rainforest/']);">Google Plus</a></span>
+            <span><a class="linkedin" target="_blank" href="http://linkedin.com/shareArticle?mini=true&url=news.harvard.edu%2F%2Fgazette%2Fstory%2F2013%2F08%2Fatop-the-amazon-rainforest%2F%3Futm_campaign%3Dsocialflow%26utm_source%3Dtwitter%26utm_medium%3Dsocial&title=Atop+the+Amazon+rainforest&summary=Harvard+air+chemistry+expert+Scot+Martin+is+working+with+the+Department+of+Energy%2C+as+well+as+several+international+partners%2C+to+track+how+pollution+above+the+pristine+Amazon+rainforest+is+changing+the+climate.%0D%0A+%0D%0A" title="LinkedIn" onclick="_gaq.push(['_trackSocial','linkedin','share','http://news.harvard.edu/gazette/story/2013/08/atop-the-amazon-rainforest/']);">LinkedIn</a></span>
+            <span><a class="twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Atop+the+Amazon+rainforest&url=http://hvrd.me/15PXLmy&via=harvard" title="Twitter" onclick="_gaq.push(['_trackSocial','twitter','tweet','http://news.harvard.edu/gazette/story/2013/08/atop-the-amazon-rainforest/']);">Twitter</a></span>
+            <span><a class="facebook" target="_blank" href="https://www.facebook.com/sharer.php?s=100&p[title]=Atop+the+Amazon+rainforest&p[url]=http://news.harvard.edu%2F%2Fgazette%2Fstory%2F2013%2F08%2Fatop-the-amazon-rainforest%2F%3Futm_campaign%3Dsocialflow%26utm_source%3Dtwitter%26utm_medium%3Dsocial&p[summary]=Harvard+air+chemistry+expert+Scot+Martin+is+working+with+the+Department+of+Energy%2C+as+well+as+several+international+partners%2C+to+track+how+pollution+above+the+pristine+Amazon+rainforest+is+changing+the+climate.%0D%0A+%0D%0A&p[images][0]=http%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fwp-content%2Fuploads%2F2013%2F08%2FManaus_scot-martin_140.jpg" title="Facebook" onclick="_gaq.push(['_trackSocial','facebook','share','http://news.harvard.edu/gazette/story/2013/08/atop-the-amazon-rainforest/']);">Facebook</a></span>
+          </div>
+        </div><!--/.sidebar-block-->
+
+                <div class="sidebar-block">
+          <h3 class="header topic">Part of Gazette Topic</h3>
+            <div class="story-list">
+                
+									<div class="story-block clearfix">
+									  <div class="story-photo"><a href="http://news.harvard.edu/gazette/story/topic/global-harvard-latin-america/"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/08/Parrot_1401.jpg" class="taxonomy_img" /></a></div>
+										<div class="story-info">
+										  <h3><a href="http://news.harvard.edu/gazette/story/topic/global-harvard-latin-america/">Global Harvard: Latin America</a></h3>
+										  <div class="date">7 Stories</div>
+										</div>
+									</div>            
+            </div><!--/.story-list-->
+        </div><!--/.sidebar-block-->
+                        
+         
+
+        <div class="sidebar-block">
+          <h3 class="header popular"><a href="/gazette/sort_by/popular/" onclick="_gaq.push(['_trackEvent','sidebar_popular','title','/gazette/sort_by/popular/']);">Popular</a></h3>
+            <div class="story-list">
+                
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/dawn-of-a-revolution/"  onclick="_gaq.push(['_trackEvent','story_popular','img','http://news.harvard.edu/gazette/story/2013/09/dawn-of-a-revolution/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/09/090913_Gates_Archives_009_1401.jpg" alt="Dawn of a revolution" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon science"><a href="http://news.harvard.edu/gazette/section/science-n-health/">View all posts in Science &amp; Health</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/dawn-of-a-revolution/"  onclick="_gaq.push(['_trackEvent','story_popular','title','http://news.harvard.edu/gazette/story/2013/09/dawn-of-a-revolution/']);">Dawn of a revolution</a></h3>
+			<div class="date">
+			<span class="byline">By Walter Isaacson ’74 <span class="divider">|</span> </span>September 20, 2013 | 
+		        <span class="label editorpick">Editor's Pick</span>
+		        <span class="label popular">Popular</span>
+			</div>
+			<p class="abstract">When Bill Gates came to Harvard as a student, he was known for his myriad interests and unconventional study habits. And then there was his endless fascination with computers, Walter Isaacson writes. </p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/harvard-kicks-off-fundraising-effort/"  onclick="_gaq.push(['_trackEvent','story_popular','img','http://news.harvard.edu/gazette/story/2013/09/harvard-kicks-off-fundraising-effort/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/09/092113_Campaign_JC_0244_140.jpg" alt="Harvard kicks off fundraising effort" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon campus"><a href="http://news.harvard.edu/gazette/section/campus-n-community/">View all posts in Campus &amp; Community</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/harvard-kicks-off-fundraising-effort/"  onclick="_gaq.push(['_trackEvent','story_popular','title','http://news.harvard.edu/gazette/story/2013/09/harvard-kicks-off-fundraising-effort/']);">Harvard kicks off fundraising effort</a></h3>
+			<div class="date">
+			<span class="byline">By Alvin Powell, Harvard Staff Writer <span class="divider">|</span> </span>September 21, 2013 | 
+		        <span class="label editorpick">Editor's Pick</span>
+		        <span class="label popular">Popular</span>
+			</div>
+			<p class="abstract">Harvard University kicked off the public phase of a $6.5 billion fundraising campaign today, designed to benefit key priorities during constrained financial times. If successful, it would be the largest ever in higher education. 
+</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/a-professorship-and-a-macarthur/"  onclick="_gaq.push(['_trackEvent','story_popular','img','http://news.harvard.edu/gazette/story/2013/09/a-professorship-and-a-macarthur/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/09/vijay-iyer-JimmyKatzSoloStreet2011-2_140.jpg" alt="A professorship and a MacArthur" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon campus"><a href="http://news.harvard.edu/gazette/section/campus-n-community/">View all posts in Campus &amp; Community</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/a-professorship-and-a-macarthur/"  onclick="_gaq.push(['_trackEvent','story_popular','title','http://news.harvard.edu/gazette/story/2013/09/a-professorship-and-a-macarthur/']);">A professorship and a MacArthur</a></h3>
+			<div class="date">
+			<span class="byline">By Peter Reuell, Harvard Staff Writer <span class="divider">|</span> </span>September 25, 2013 | 
+		        <span class="label editorpick">Editor's Pick</span>
+		        <span class="label video">Audio/Video</span>
+		        <span class="label popular">Popular</span>
+			</div>
+			<p class="abstract">Jazz musician and composer Vijay Iyer, who won a MacArthur Foundation grant, in January will become the first Franklin D. and Florence Rosenblatt Professor of the Arts in Harvard’s Department of Music.</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/a-higher-plane/"  onclick="_gaq.push(['_trackEvent','story_popular','img','http://news.harvard.edu/gazette/story/2013/09/a-higher-plane/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/09/082213_Dillon_1756_140.jpg" alt="A higher plane" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon science"><a href="http://news.harvard.edu/gazette/section/science-n-health/">View all posts in Science &amp; Health</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/a-higher-plane/"  onclick="_gaq.push(['_trackEvent','story_popular','title','http://news.harvard.edu/gazette/story/2013/09/a-higher-plane/']);">A higher plane</a></h3>
+			<div class="date">
+			<span class="byline">By Peter Reuell, Harvard Staff Writer <span class="divider">|</span> </span>September 20, 2013 | 
+		        <span class="label popular">Popular</span>
+			</div>
+			<p class="abstract">Research by scientists in Elizabeth Spelke’s lab suggests our innate understanding of abstract geometry has origins in the evolutionary past. 
+
+</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/the-watchword-is-innovation/"  onclick="_gaq.push(['_trackEvent','story_popular','img','http://news.harvard.edu/gazette/story/2013/09/the-watchword-is-innovation/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/09/090913_Chia_068_140.jpg" alt="The watchword is innovation" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon science"><a href="http://news.harvard.edu/gazette/section/science-n-health/">View all posts in Science &amp; Health</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/the-watchword-is-innovation/"  onclick="_gaq.push(['_trackEvent','story_popular','title','http://news.harvard.edu/gazette/story/2013/09/the-watchword-is-innovation/']);">The watchword is innovation</a></h3>
+			<div class="date">
+			<span class="byline">By Corydon Ireland, Harvard Staff Writer <span class="divider">|</span> </span>September 25, 2013 | 
+		        <span class="label editorpick">Editor's Pick</span>
+		        <span class="label popular">Popular</span>
+			</div>
+			<p class="abstract">Innovation, whether it’s large, small, solo, or institutional, is an increasingly important part of Harvard, a university working to maintain its clearly defined sense of self and at the same time evolve to meet future needs.
+</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/malala-yousafzai-is-humanitarian-of-the-year/"  onclick="_gaq.push(['_trackEvent','story_popular','img','http://news.harvard.edu/gazette/story/2013/09/malala-yousafzai-is-humanitarian-of-the-year/']);"><img src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/HWPI_Avatar.jpg" alt="Malala Yousafzai is Harvard Humanitarian of the year" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon campus"><a href="http://news.harvard.edu/gazette/section/campus-n-community/">View all posts in Campus &amp; Community</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/malala-yousafzai-is-humanitarian-of-the-year/"  onclick="_gaq.push(['_trackEvent','story_popular','title','http://news.harvard.edu/gazette/story/2013/09/malala-yousafzai-is-humanitarian-of-the-year/']);">Malala Yousafzai is Harvard Humanitarian of the year</a></h3>
+			<div class="date">
+			<span class="byline"></span>September 19, 2013 | 
+		        <span class="label popular">Popular</span>
+			</div>
+			<p class="abstract">Malala Yousafzai, the 16 year-old Pakistani girl who was shot on Oct. 9, 2012, in an assassination attempt for expressing her philosophy of gender equality in education and who famously said, “I want every girl, every child, to be educated,” will receive the 2013 Peter J. Gomes Humanitarian Award.</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		            
+            </div><!--/.story-list-->
+        </div><!--/.sidebar-block-->
+
+                <div class="sidebar-block">
+          <h3 class="header related">Related</h3>
+            <div class="story-list">
+                
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/08/one-goal-many-players/"  onclick="_gaq.push(['_trackEvent','story_related','img','http://news.harvard.edu/gazette/story/2013/08/one-goal-many-players/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/08/Manaus_sidebar-collaborators_140.jpg" alt="One goal, many players" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon science"><a href="http://news.harvard.edu/gazette/section/science-n-health/">View all posts in Science &amp; Health</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/08/one-goal-many-players/"  onclick="_gaq.push(['_trackEvent','story_related','title','http://news.harvard.edu/gazette/story/2013/08/one-goal-many-players/']);">One goal, many players</a></h3>
+			<div class="date">
+			<span class="byline">By Colleen Walsh, Harvard Staff Writer <span class="divider">|</span> </span>August 28, 2013
+			</div>
+			<p class="abstract">GoAmazon2014 is part of the Large Scale Biosphere-Atmosphere Experiment in Amazonia (LBA), the largest umbrella for research in the Amazon, which explores everything from social issues to scientific inquiries.</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/08/deepening-ties-to-latin-america/"  onclick="_gaq.push(['_trackEvent','story_related','img','http://news.harvard.edu/gazette/story/2013/08/deepening-ties-to-latin-america/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/08/Parrot_140.jpg" alt="Deepening ties to Latin America" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon national"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/">View all posts in National &amp; World Affairs</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/08/deepening-ties-to-latin-america/"  onclick="_gaq.push(['_trackEvent','story_related','title','http://news.harvard.edu/gazette/story/2013/08/deepening-ties-to-latin-america/']);">Deepening ties to Latin America</a></h3>
+			<div class="date">
+			<span class="byline">By Colleen Walsh, Harvard Staff Writer <span class="divider">|</span> </span>August 14, 2013 | 
+		        <span class="label editorpick">Editor's Pick</span>
+			</div>
+			<p class="abstract">Harvard’s role in an increasingly connected world includes deep ties to Latin America, where faculty and students are engaged in a range of research projects and initiatives, from climate research in Brazil to disaster relief work in Chile to protecting Maya art and architecture in Honduras. </p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/08/in-climate-flux-seeds-of-war/"  onclick="_gaq.push(['_trackEvent','story_related','img','http://news.harvard.edu/gazette/story/2013/08/in-climate-flux-seeds-of-war/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/07/071813_Black_278_140.jpg" alt="Seeds of violence in climate change" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon science"><a href="http://news.harvard.edu/gazette/section/science-n-health/">View all posts in Science &amp; Health</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/08/in-climate-flux-seeds-of-war/"  onclick="_gaq.push(['_trackEvent','story_related','title','http://news.harvard.edu/gazette/story/2013/08/in-climate-flux-seeds-of-war/']);">Seeds of violence in climate change</a></h3>
+			<div class="date">
+			<span class="byline">By Alvin Powell, Harvard Staff Writer <span class="divider">|</span> </span>August 15, 2013
+			</div>
+			<p class="abstract">Nathan Black, the French Environmental Fellow, is studying how nations fall into civil war during the type of agricultural disruption possible with a changing climate — and what some nations might do to prevent it.</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2012/07/airborne-pollutants-lead-a-double-life/"  onclick="_gaq.push(['_trackEvent','story_related','img','http://news.harvard.edu/gazette/story/2012/07/airborne-pollutants-lead-a-double-life/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2012/07/particle-sq21.jpg" alt="Airborne pollutants lead a double life" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon science"><a href="http://news.harvard.edu/gazette/section/science-n-health/">View all posts in Science &amp; Health</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2012/07/airborne-pollutants-lead-a-double-life/"  onclick="_gaq.push(['_trackEvent','story_related','title','http://news.harvard.edu/gazette/story/2012/07/airborne-pollutants-lead-a-double-life/']);">Airborne pollutants lead a double life</a></h3>
+			<div class="date">
+			<span class="byline">By SEAS Communications <span class="divider">|</span> </span>July 30, 2012 | 
+		        <span class="label editorpick">Editor's Pick</span>
+			</div>
+			<p class="abstract">Researchers at Harvard University and the University of British Columbia (UBC) have provided visual evidence that atmospheric particles — which are ubiquitous, especially above densely populated areas — separate into distinct chemical compositions during their life cycle.</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2011/10/tracking-the-pollution-amid-the-remote/"  onclick="_gaq.push(['_trackEvent','story_related','img','http://news.harvard.edu/gazette/story/2011/10/tracking-the-pollution-amid-the-remote/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2011/10/Daube_HIPPO4_AlaskaVolcanoes_140.jpg" alt="Tracking the pollution amid the remote" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon science"><a href="http://news.harvard.edu/gazette/section/science-n-health/">View all posts in Science &amp; Health</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2011/10/tracking-the-pollution-amid-the-remote/"  onclick="_gaq.push(['_trackEvent','story_related','title','http://news.harvard.edu/gazette/story/2011/10/tracking-the-pollution-amid-the-remote/']);">Tracking the pollution amid the remote</a></h3>
+			<div class="date">
+			<span class="byline">By Alvin Powell, Harvard Staff Writer <span class="divider">|</span> </span>October 12, 2011 | 
+		        <span class="label editorpick">Editor's Pick</span>
+			</div>
+			<p class="abstract">A national research project led by Harvard scientist Steven Wofsy tries to fill in the blanks of understanding how the Earth’s atmosphere works by crisscrossing the globe by jet, measuring air changes.</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		            
+            </div><!--/.story-list-->
+        </div><!--/.sidebar-block-->
+        
+        <div class="sidebar-block">
+          <h3 class="header events"><a href="/gazette/harvard-events/" onclick="_gaq.push(['_trackEvent','sidebar_events','title','/gazette/harvard-events/']);">Upcoming Events</a></h3>
+            <div class="story-list">
+								
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://seas.harvard.edu/cooking"  onclick="_gaq.push(['_trackEvent','story_events','img','http://seas.harvard.edu/cooking']);"><img src="http://www.trumba.com/i/DgC3eBT1gP-Ta0PFJxxr8tlI.jpg" alt="Science &amp; Cooking: Diffusion and Spherification" /></a>
+		</div><!--/.story-photo-->
+		
+		
+		<div class="story-info">
+			<h3><a href="http://seas.harvard.edu/cooking"  onclick="_gaq.push(['_trackEvent','story_events','title','http://seas.harvard.edu/cooking']);">Science &amp; Cooking: Diffusion and Spherification</a></h3>
+			<div class="date">
+			<span class="byline"></span>September 30, 2013
+			</div>
+			<p class="abstract">Science Center Hall C</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://hcl.harvard.edu/hfa/films/2013julsep/italian.html#divo"  onclick="_gaq.push(['_trackEvent','story_events','img','http://hcl.harvard.edu/hfa/films/2013julsep/italian.html#divo']);"><img src="http://www.trumba.com/i/DgAfTMz1CjMFbED%2A9InT8Nom.jpg" alt="Il Divo" /></a>
+		</div><!--/.story-photo-->
+		
+		
+		<div class="story-info">
+			<h3><a href="http://hcl.harvard.edu/hfa/films/2013julsep/italian.html#divo"  onclick="_gaq.push(['_trackEvent','story_events','title','http://hcl.harvard.edu/hfa/films/2013julsep/italian.html#divo']);">Il Divo</a></h3>
+			<div class="date">
+			<span class="byline"></span>September 30, 2013
+			</div>
+			<p class="abstract">Harvard Film Archive</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://www.hmnh.harvard.edu/lectures_and_special_events/index.php"  onclick="_gaq.push(['_trackEvent','story_events','img','http://www.hmnh.harvard.edu/lectures_and_special_events/index.php']);"><img src="http://www.trumba.com/i/DgBwVaihWDSUJA3OQwVugNL6.jpg" alt="Himalaya: Biodiversity, People, and Global Change" /></a>
+		</div><!--/.story-photo-->
+		
+		
+		<div class="story-info">
+			<h3><a href="http://www.hmnh.harvard.edu/lectures_and_special_events/index.php"  onclick="_gaq.push(['_trackEvent','story_events','title','http://www.hmnh.harvard.edu/lectures_and_special_events/index.php']);">Himalaya: Biodiversity, People, and Global Change</a></h3>
+			<div class="date">
+			<span class="byline"></span>October 1, 2013
+			</div>
+			<p class="abstract">The Sackler Museum, 485 Broadway Street, Lecture Hall B029</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://www.leftonpearl.org/"  onclick="_gaq.push(['_trackEvent','story_events','img','http://www.leftonpearl.org/']);"><img src="http://www.trumba.com/i/DgCfTchXeIeKrx80Lo9Svx9N.jpg" alt="Documentary Film Screening: Left on Pearl" /></a>
+		</div><!--/.story-photo-->
+		
+		
+		<div class="story-info">
+			<h3><a href="http://www.leftonpearl.org/"  onclick="_gaq.push(['_trackEvent','story_events','title','http://www.leftonpearl.org/']);">Documentary Film Screening: Left on Pearl</a></h3>
+			<div class="date">
+			<span class="byline"></span>October 1, 2013
+			</div>
+			<p class="abstract">CGIS S-020, 1730 Cambridge St, Cambridge</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://www.dining.harvard.edu/flp/ag_market.html"  onclick="_gaq.push(['_trackEvent','story_events','img','http://www.dining.harvard.edu/flp/ag_market.html']);"><img src="http://www.trumba.com/i/DgDKZ1q01HoNLpYbjEYnswHK.jpg" alt="Farmers&#039; Market at Harvard" /></a>
+		</div><!--/.story-photo-->
+		
+		
+		<div class="story-info">
+			<h3><a href="http://www.dining.harvard.edu/flp/ag_market.html"  onclick="_gaq.push(['_trackEvent','story_events','title','http://www.dining.harvard.edu/flp/ag_market.html']);">Farmers&#039; Market at Harvard</a></h3>
+			<div class="date">
+			<span class="byline"></span>October 1, 2013
+			</div>
+			<p class="abstract">Science Center Plaza</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://www.theexpertshow.com/"  onclick="_gaq.push(['_trackEvent','story_events','img','http://www.theexpertshow.com/']);"><img src="http://www.trumba.com/i/DgDBFZyX9E9ZWsuWpqUJItrA.png" alt="You&#039;re the Expert" /></a>
+		</div><!--/.story-photo-->
+		
+		
+		<div class="story-info">
+			<h3><a href="http://www.theexpertshow.com/"  onclick="_gaq.push(['_trackEvent','story_events','title','http://www.theexpertshow.com/']);">You&#039;re the Expert</a></h3>
+			<div class="date">
+			<span class="byline"></span>October 1, 2013
+			</div>
+			<p class="abstract">OBERON, 2 Arrow Street, Cambridge, MA 02139</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		            
+            
+                <div class="story-more">
+                    <a href="/gazette/harvard-events/" onclick="_gaq.push(['_trackEvent','sidebar_events','btn_more','/gazette/harvard-events/']);">More &raquo;</a><a name="filters"></a>
+                </div><!--/.story-more-->
+            </div><!--/.story-list-->
+        </div><!--/.sidebar-block-->
+
+         
+
+      </div><!--/.sub-->
+
+    </div><!--/.content-->
+
+ 
+<!-- ADD THIS Email with GA tracking-->
+<script type="text/javascript">
+   var addthis_config = {
+      data_ga_property: 'UA-2923555-11',
+      data_ga_social: true
+   };
+	 //var addthis_share = { email_template: "AAD" }
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-518bb0df0f273852"></script>
+<!-- end of add this reference -->
+
+    </div><!--/.primary-->
+  
+  </div><!--/.wrap-->
+
+</div><!--/#outer-wrap-->
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery ||  document.write(unescape("%3Cscript src='http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/j/jquery-1.9.1.min.js' type='text/javascript'%3E%3C/script%3E"))</script>
+<script src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/j/jquery.flexslider.js"></script>
+<script src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/j/jquery.tinyscrollbar.js?v=20130528"></script>
+<script src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/j/functions.js?v=20130709"></script>
+
+<script>
+
+$(window).scroll(function(){
+
+	if ( getInternetExplorerVersion() != 8 ) {
+		var $totalHeight = $('.sticky').outerHeight() + $('#logo').outerHeight() + $('.top-wrapper').outerHeight() + $('.feature-photo-side .article-feature').outerHeight() +  $('.article-feature-caption').outerHeight() + 10;
+
+		var scroll_top = $(window).scrollTop();      
+
+		if (scroll_top <= $totalHeight) {      
+		$('#sticky-filter').hide();
+		} 
+		if (scroll_top > $totalHeight) {
+		$('#sticky-filter').show();
+		} 
+	}
+});
+
+</script>
+
+<script>
+var prev_width = $(window).width();
+var prev_height = $(window).height();
+
+window.onresize = function(event) {
+	var w_width = $(window).width();
+	
+	if ( ( w_width>1242 && prev_width<=1242 ) || ( w_width<=1242 && prev_width>1242 ) ) {
+		if ( ( w_width>1242 && prev_width<=1242 ) ) {
+			$('#nav-open-btn').hide();
+			$('#nav-close-btn').hide();
+			$('#nav-open-btn').removeAttr('style');
+			$('#nav-close-btn').removeAttr('style');
+		}
+		prev_width = w_width;
+	}
+	
+	var w_height = $(window).height();
+	if ( w_height != prev_height ) {
+		if ( use_tinyscroller() ) {
+		$('#scrollbar1').tinyscrollbar({invertscroll: true});
+		}
+		else {
+			set_scroller_height();
+		}
+	}
+}
+
+</script>
+<!-- new chartbeat code, put in March 2, 2013 -->
+<script type="text/javascript">
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 2327;
+_sf_async_config.domain = "news.harvard.edu"; 
+_sf_async_config.sections = "Science &amp; Health, Environments &amp; Sustainability";
+			_sf_async_config.authors = "Colleen Walsh"; 	
+		
+/** CONFIGURATION END **/
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement("script");
+    e.setAttribute("language", "javascript");
+    e.setAttribute("type", "text/javascript");
+    e.setAttribute("src",
+       (("https:" == document.location.protocol) ?
+         "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" :
+         "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != "function") ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+<!-- end chartbeat code -->
+</body>
+</html>

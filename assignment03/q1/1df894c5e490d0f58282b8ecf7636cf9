@@ -2623,7 +2623,7 @@ document.close();
    
 	    
 	   <div id="leaderboard_ad_div" class="ad centerAd topLeaderboard">
-			<script type='text/javascript'>function readCookie(name) {   var nameEQ = name + "=";   var ca = document.cookie.split(';');   for(var i=0;i < ca.length;i++) {   var c = ca[i];   while (c.charAt(0)==' ') c = c.substring(1,c.length);   if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);   }   return null;   }   var x = readCookie('c_mId');   if (x)  {   try {if (typeof adTargetConsumerInfo == 'undefined') {document.write('<scr'+'ipt type="text/javascript" src="include-member-ad.javascript"></scr'+'ipt>');   }   } catch(err) {}}   else {var adTargetConsumerInfo = ';rg=ur';var adTargetYieldExInfo = '';}</script><script type='text/javascript'>   var ordString=';ord=' + cachebuster;   var scriptSrc='http://ad.doubleclick.net/N4011/adj/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=T;dcopt=ist;sz=728x90;tile=1;at=IceHockey;at=Sports;at=JoelQuenneville;at=JonathanToews;at=BrandonSaad;iab=sports;';   var noscriptHref='http://ad.doubleclick.net/N4011/jump/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=T;sz=728x90;tile=1;at=IceHockey;at=Sports;at=JoelQuenneville;at=JonathanToews;at=BrandonSaad;iab=sports?" target="_blank" rel="nofollow"';   var noscriptSrc='http://ad.doubleclick.net/N4011/ad/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=T;dcopt=ist;sz=728x90;tile=1;at=IceHockey;at=Sports;at=JoelQuenneville;at=JonathanToews;at=BrandonSaad;iab=sports?" width="728" height="90" border="0" alt=""';   var noscriptHrefEndOfStr=' target="_blank" rel="nofollow"';   var noscriptSrcEndOfString=' width="728" height="90" border="0" alt=""';   indexOfHrefQuestion='259';   indexOfLastImgSrcQuestion='267';   var yieldExParam=';u=';   var ptypeStr='ptype|s!';   var posStr='pos|T!';   var revenueScienceStr='';   var sizeStr='sz|728x90!';   try {       if (adTargetConsumerInfo != undefined && adTargetYieldExInfo != undefined) {           scriptSrc = scriptSrc.substring(0, scriptSrc.length -1) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?';           noscriptHref = noscriptHref.substring(0, indexOfHrefQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptHrefEndOfStr;           noscriptSrc = noscriptSrc.substring(0, indexOfLastImgSrcQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptSrcEndOfString;       }   } catch(err) {}   document.write('<scr'+'ipt type="text/javascript" src="'+scriptSrc+'"></scr'+'ipt>');   document.write('<noscript><a href="'+noscriptHref+'><img scr="'+noscriptSrc+'></a></noscript>');</script>
+			<script type='text/javascript'>function readCookie(name) {   var nameEQ = name + "=";   var ca = document.cookie.split(';');   for(var i=0;i < ca.length;i++) {   var c = ca[i];   while (c.charAt(0)==' ') c = c.substring(1,c.length);   if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);   }   return null;   }   var x = readCookie('c_mId');   if (x)  {   try {if (typeof adTargetConsumerInfo == 'undefined') {document.write('<scr'+'ipt type="text/javascript" src="include-member-ad.javascript"></scr'+'ipt>');   }   } catch(err) {}}   else {var adTargetConsumerInfo = ';rg=ur';var adTargetYieldExInfo = '';}</script><script type='text/javascript'>   var ordString=';ord=' + cachebuster;   var scriptSrc='http://ad.doubleclick.net/N4011/adj/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=T;dcopt=ist;sz=728x90;tile=1;at=Sports;at=IceHockey;at=JoelQuenneville;at=JonathanToews;at=NationalHockeyLeague;iab=sports;';   var noscriptHref='http://ad.doubleclick.net/N4011/jump/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=T;sz=728x90;tile=1;at=Sports;at=IceHockey;at=JoelQuenneville;at=JonathanToews;at=NationalHockeyLeague;iab=sports?" target="_blank" rel="nofollow"';   var noscriptSrc='http://ad.doubleclick.net/N4011/ad/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=T;dcopt=ist;sz=728x90;tile=1;at=Sports;at=IceHockey;at=JoelQuenneville;at=JonathanToews;at=NationalHockeyLeague;iab=sports?" width="728" height="90" border="0" alt=""';   var noscriptHrefEndOfStr=' target="_blank" rel="nofollow"';   var noscriptSrcEndOfString=' width="728" height="90" border="0" alt=""';   indexOfHrefQuestion='268';   indexOfLastImgSrcQuestion='276';   var yieldExParam=';u=';   var ptypeStr='ptype|s!';   var posStr='pos|T!';   var revenueScienceStr='';   var sizeStr='sz|728x90!';   try {       if (adTargetConsumerInfo != undefined && adTargetYieldExInfo != undefined) {           scriptSrc = scriptSrc.substring(0, scriptSrc.length -1) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?';           noscriptHref = noscriptHref.substring(0, indexOfHrefQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptHrefEndOfStr;           noscriptSrc = noscriptSrc.substring(0, indexOfLastImgSrcQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptSrcEndOfString;       }   } catch(err) {}   document.write('<scr'+'ipt type="text/javascript" src="'+scriptSrc+'"></scr'+'ipt>');   document.write('<noscript><a href="'+noscriptHref+'><img scr="'+noscriptSrc+'></a></noscript>');</script>
 		</div>
 	   
    
@@ -4257,7 +4257,7 @@ div#circularhub_module_351 { clear: both; }
     	<tr>
     		<td id="rightrail_ad_td" vAlign="middle">
                 
-                    <script type='text/javascript'>function readCookie(name) {   var nameEQ = name + "=";   var ca = document.cookie.split(';');   for(var i=0;i < ca.length;i++) {   var c = ca[i];   while (c.charAt(0)==' ') c = c.substring(1,c.length);   if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);   }   return null;   }   var x = readCookie('c_mId');   if (x)  {   try {if (typeof adTargetConsumerInfo == 'undefined') {document.write('<scr'+'ipt type="text/javascript" src="include-member-ad.javascript"></scr'+'ipt>');   }   } catch(err) {}}   else {var adTargetConsumerInfo = ';rg=ur';var adTargetYieldExInfo = '';}</script><script type='text/javascript'>   var ordString=';ord=' + cachebuster;   var scriptSrc='http://ad.doubleclick.net/N4011/adj/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=1;sz=300x250,336x280;tile=2;at=IceHockey;at=Sports;at=JoelQuenneville;at=JonathanToews;at=BrandonSaad;iab=sports;';   var noscriptHref='http://ad.doubleclick.net/N4011/jump/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=1;sz=300x250,336x280;tile=2;at=IceHockey;at=Sports;at=JoelQuenneville;at=JonathanToews;at=BrandonSaad;iab=sports?" target="_blank" rel="nofollow"';   var noscriptSrc='http://ad.doubleclick.net/N4011/ad/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=1;sz=300x250,336x280;tile=2;at=IceHockey;at=Sports;at=JoelQuenneville;at=JonathanToews;at=BrandonSaad;iab=sports?" width="336" height="280" border="0" alt=""';   var noscriptHrefEndOfStr=' target="_blank" rel="nofollow"';   var noscriptSrcEndOfString=' width="336" height="280" border="0" alt=""';   indexOfHrefQuestion='268';   indexOfLastImgSrcQuestion='266';   var yieldExParam=';u=';   var ptypeStr='ptype|s!';   var posStr='pos|1!';   var revenueScienceStr='';   var sizeStr='sz|300x250^336x280!';   try {       if (adTargetConsumerInfo != undefined && adTargetYieldExInfo != undefined) {           scriptSrc = scriptSrc.substring(0, scriptSrc.length -1) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?';           noscriptHref = noscriptHref.substring(0, indexOfHrefQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptHrefEndOfStr;           noscriptSrc = noscriptSrc.substring(0, indexOfLastImgSrcQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptSrcEndOfString;       }   } catch(err) {}   document.write('<scr'+'ipt type="text/javascript" src="'+scriptSrc+'"></scr'+'ipt>');   document.write('<noscript><a href="'+noscriptHref+'><img scr="'+noscriptSrc+'></a></noscript>');</script>
+                    <script type='text/javascript'>function readCookie(name) {   var nameEQ = name + "=";   var ca = document.cookie.split(';');   for(var i=0;i < ca.length;i++) {   var c = ca[i];   while (c.charAt(0)==' ') c = c.substring(1,c.length);   if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);   }   return null;   }   var x = readCookie('c_mId');   if (x)  {   try {if (typeof adTargetConsumerInfo == 'undefined') {document.write('<scr'+'ipt type="text/javascript" src="include-member-ad.javascript"></scr'+'ipt>');   }   } catch(err) {}}   else {var adTargetConsumerInfo = ';rg=ur';var adTargetYieldExInfo = '';}</script><script type='text/javascript'>   var ordString=';ord=' + cachebuster;   var scriptSrc='http://ad.doubleclick.net/N4011/adj/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=1;sz=300x250,336x280;tile=2;at=Sports;at=IceHockey;at=JoelQuenneville;at=JonathanToews;at=NationalHockeyLeague;iab=sports;';   var noscriptHref='http://ad.doubleclick.net/N4011/jump/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=1;sz=300x250,336x280;tile=2;at=Sports;at=IceHockey;at=JoelQuenneville;at=JonathanToews;at=NationalHockeyLeague;iab=sports?" target="_blank" rel="nofollow"';   var noscriptSrc='http://ad.doubleclick.net/N4011/ad/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=1;sz=300x250,336x280;tile=2;at=Sports;at=IceHockey;at=JoelQuenneville;at=JonathanToews;at=NationalHockeyLeague;iab=sports?" width="336" height="280" border="0" alt=""';   var noscriptHrefEndOfStr=' target="_blank" rel="nofollow"';   var noscriptSrcEndOfString=' width="336" height="280" border="0" alt=""';   indexOfHrefQuestion='277';   indexOfLastImgSrcQuestion='275';   var yieldExParam=';u=';   var ptypeStr='ptype|s!';   var posStr='pos|1!';   var revenueScienceStr='';   var sizeStr='sz|300x250^336x280!';   try {       if (adTargetConsumerInfo != undefined && adTargetYieldExInfo != undefined) {           scriptSrc = scriptSrc.substring(0, scriptSrc.length -1) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?';           noscriptHref = noscriptHref.substring(0, indexOfHrefQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptHrefEndOfStr;           noscriptSrc = noscriptSrc.substring(0, indexOfLastImgSrcQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptSrcEndOfString;       }   } catch(err) {}   document.write('<scr'+'ipt type="text/javascript" src="'+scriptSrc+'"></scr'+'ipt>');   document.write('<noscript><a href="'+noscriptHref+'><img scr="'+noscriptSrc+'></a></noscript>');</script>
                 
             </td>
 		</tr>
@@ -4414,7 +4414,51 @@ div#circularhub_module_351 { clear: both; }
                                 
                                 
                                 
-                                    <h2 class="headline headlineBullet "><a href="/sports/hockey/blackhawks/chi-photos-blackhawks-exhibition-games-training-camp-20130919,0,6600810.gallery" target="_top" title="Exhibition games">Exhibition games</a></h2>
+                                    <h2 class="headline headlineBullet "><a href="http://galleries.apps.chicagotribune.com/chi-photos-2013-blackhawks-stanley-cup-rings-20130929" target="_top" title="Stanley Cup rings">Stanley Cup rings</a></h2>
+                                
+                            </li>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine oneColBullet briefRight ">
+                              
+                                
+                                <li class="bullets">
+                                
+                                
+                                
+                                    <h3 class="headline headlineBullet "><a href="/sports/hockey/blackhawks/chi-photos-blackhawks-exhibition-games-training-camp-20130919,0,6600810.gallery" target="_top" title="Exhibition games">Exhibition games</a></h3>
                                 
                             </li>
                               
@@ -4546,51 +4590,7 @@ div#circularhub_module_351 { clear: both; }
                                 
                                 
                                 
-                                    <h3 class="headline headlineBullet "><a href="/sports/hockey/blackhawks/chi-blackhawks-tv-schedule-20130829,0,975019.acrobat" target="_top" title="Hawks TV schedule">Hawks TV schedule</a></h3>
-                                
-                            </li>
-                              
-
-                              
-
-                              
-                                <span class="update-source">
-                                    
-                                      <span>
-                                    
-                                            
-
-
-
-
-
-
-
-
-
-
-                                    
-                                       </span>
-                                    
-                                    
-                                </span>
-                              
-                              
-                                
-                              
-                              
-                              
-                              <div class="clear"></div>
-                            </div>
-            
-                <div class="headlineItem rightHeadlinePos inLine oneColBullet briefRight ">
-                              
-                                
-                                <li class="bullets">
-                                
-                                
-                                
-                                    <h4 class="headline headlineBullet "><a href="http://galleries.apps.chicagotribune.com/chi-photos-blackhawks-training-camp-at-notre-dame-20130912" target="_top" title="Photos: Blackhawks training camp at Notre Dame">Photos: Blackhawks training camp at Notre Dame</a></h4>
+                                    <h4 class="headline headlineBullet "><a href="/sports/hockey/blackhawks/chi-blackhawks-tv-schedule-20130829,0,975019.acrobat" target="_top" title="Hawks TV schedule">Hawks TV schedule</a></h4>
                                 
                             </li>
                               
@@ -4694,7 +4694,7 @@ div#circularhub_module_351 { clear: both; }
 	  
 		<div class="skyScraper">
             		
-                <script type='text/javascript'>function readCookie(name) {   var nameEQ = name + "=";   var ca = document.cookie.split(';');   for(var i=0;i < ca.length;i++) {   var c = ca[i];   while (c.charAt(0)==' ') c = c.substring(1,c.length);   if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);   }   return null;   }   var x = readCookie('c_mId');   if (x)  {   try {if (typeof adTargetConsumerInfo == 'undefined') {document.write('<scr'+'ipt type="text/javascript" src="include-member-ad.javascript"></scr'+'ipt>');   }   } catch(err) {}}   else {var adTargetConsumerInfo = ';rg=ur';var adTargetYieldExInfo = '';}</script><script type='text/javascript'>   var ordString=';ord=' + cachebuster;   var scriptSrc='http://ad.doubleclick.net/N4011/adj/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=1;sz=160x600,300x600;tile=3;at=IceHockey;at=Sports;at=JoelQuenneville;at=JonathanToews;at=BrandonSaad;iab=sports;';   var noscriptHref='http://ad.doubleclick.net/N4011/jump/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=1;sz=160x600,300x600;tile=3;at=IceHockey;at=Sports;at=JoelQuenneville;at=JonathanToews;at=BrandonSaad;iab=sports?" target="_blank" rel="nofollow"';   var noscriptSrc='http://ad.doubleclick.net/N4011/ad/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=1;sz=160x600,300x600;tile=3;at=IceHockey;at=Sports;at=JoelQuenneville;at=JonathanToews;at=BrandonSaad;iab=sports?" width="300" height="600" border="0" alt=""';   var noscriptHrefEndOfStr=' target="_blank" rel="nofollow"';   var noscriptSrcEndOfString=' width="300" height="600" border="0" alt=""';   indexOfHrefQuestion='268';   indexOfLastImgSrcQuestion='266';   var yieldExParam=';u=';   var ptypeStr='ptype|s!';   var posStr='pos|1!';   var revenueScienceStr='';   var sizeStr='sz|160x600^300x600!';   try {       if (adTargetConsumerInfo != undefined && adTargetYieldExInfo != undefined) {           scriptSrc = scriptSrc.substring(0, scriptSrc.length -1) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?';           noscriptHref = noscriptHref.substring(0, indexOfHrefQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptHrefEndOfStr;           noscriptSrc = noscriptSrc.substring(0, indexOfLastImgSrcQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptSrcEndOfString;       }   } catch(err) {}   document.write('<scr'+'ipt type="text/javascript" src="'+scriptSrc+'"></scr'+'ipt>');   document.write('<noscript><a href="'+noscriptHref+'><img scr="'+noscriptSrc+'></a></noscript>');</script>
+                <script type='text/javascript'>function readCookie(name) {   var nameEQ = name + "=";   var ca = document.cookie.split(';');   for(var i=0;i < ca.length;i++) {   var c = ca[i];   while (c.charAt(0)==' ') c = c.substring(1,c.length);   if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);   }   return null;   }   var x = readCookie('c_mId');   if (x)  {   try {if (typeof adTargetConsumerInfo == 'undefined') {document.write('<scr'+'ipt type="text/javascript" src="include-member-ad.javascript"></scr'+'ipt>');   }   } catch(err) {}}   else {var adTargetConsumerInfo = ';rg=ur';var adTargetYieldExInfo = '';}</script><script type='text/javascript'>   var ordString=';ord=' + cachebuster;   var scriptSrc='http://ad.doubleclick.net/N4011/adj/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=1;sz=160x600,300x600;tile=3;at=Sports;at=IceHockey;at=JoelQuenneville;at=JonathanToews;at=NationalHockeyLeague;iab=sports;';   var noscriptHref='http://ad.doubleclick.net/N4011/jump/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=1;sz=160x600,300x600;tile=3;at=Sports;at=IceHockey;at=JoelQuenneville;at=JonathanToews;at=NationalHockeyLeague;iab=sports?" target="_blank" rel="nofollow"';   var noscriptSrc='http://ad.doubleclick.net/N4011/ad/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=1;sz=160x600,300x600;tile=3;at=Sports;at=IceHockey;at=JoelQuenneville;at=JonathanToews;at=NationalHockeyLeague;iab=sports?" width="300" height="600" border="0" alt=""';   var noscriptHrefEndOfStr=' target="_blank" rel="nofollow"';   var noscriptSrcEndOfString=' width="300" height="600" border="0" alt=""';   indexOfHrefQuestion='277';   indexOfLastImgSrcQuestion='275';   var yieldExParam=';u=';   var ptypeStr='ptype|s!';   var posStr='pos|1!';   var revenueScienceStr='';   var sizeStr='sz|160x600^300x600!';   try {       if (adTargetConsumerInfo != undefined && adTargetYieldExInfo != undefined) {           scriptSrc = scriptSrc.substring(0, scriptSrc.length -1) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?';           noscriptHref = noscriptHref.substring(0, indexOfHrefQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptHrefEndOfStr;           noscriptSrc = noscriptSrc.substring(0, indexOfLastImgSrcQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptSrcEndOfString;       }   } catch(err) {}   document.write('<scr'+'ipt type="text/javascript" src="'+scriptSrc+'"></scr'+'ipt>');   document.write('<noscript><a href="'+noscriptHref+'><img scr="'+noscriptSrc+'></a></noscript>');</script>
             		
     	</div>
             
@@ -5157,7 +5157,7 @@ div#circularhub_module_351 { clear: both; }
                  
                      <div class="ad centerAd"> 
                         
-                            <script type='text/javascript'>function readCookie(name) {   var nameEQ = name + "=";   var ca = document.cookie.split(';');   for(var i=0;i < ca.length;i++) {   var c = ca[i];   while (c.charAt(0)==' ') c = c.substring(1,c.length);   if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);   }   return null;   }   var x = readCookie('c_mId');   if (x)  {   try {if (typeof adTargetConsumerInfo == 'undefined') {document.write('<scr'+'ipt type="text/javascript" src="include-member-ad.javascript"></scr'+'ipt>');   }   } catch(err) {}}   else {var adTargetConsumerInfo = ';rg=ur';var adTargetYieldExInfo = '';}</script><script type='text/javascript'>   var ordString=';ord=' + cachebuster;   var scriptSrc='http://ad.doubleclick.net/N4011/adj/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=B;sz=728x91;tile=4;at=IceHockey;at=Sports;at=JoelQuenneville;at=JonathanToews;at=BrandonSaad;iab=sports;';   var noscriptHref='http://ad.doubleclick.net/N4011/jump/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=B;sz=728x91;tile=4;at=IceHockey;at=Sports;at=JoelQuenneville;at=JonathanToews;at=BrandonSaad;iab=sports?" target="_blank" rel="nofollow"';   var noscriptSrc='http://ad.doubleclick.net/N4011/ad/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=B;sz=728x91;tile=4;at=IceHockey;at=Sports;at=JoelQuenneville;at=JonathanToews;at=BrandonSaad;iab=sports?" width="728" height="91" border="0" alt=""';   var noscriptHrefEndOfStr=' target="_blank" rel="nofollow"';   var noscriptSrcEndOfString=' width="728" height="91" border="0" alt=""';   indexOfHrefQuestion='259';   indexOfLastImgSrcQuestion='257';   var yieldExParam=';u=';   var ptypeStr='ptype|s!';   var posStr='pos|B!';   var revenueScienceStr='';   var sizeStr='sz|728x91!';   try {       if (adTargetConsumerInfo != undefined && adTargetYieldExInfo != undefined) {           scriptSrc = scriptSrc.substring(0, scriptSrc.length -1) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?';           noscriptHref = noscriptHref.substring(0, indexOfHrefQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptHrefEndOfStr;           noscriptSrc = noscriptSrc.substring(0, indexOfLastImgSrcQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptSrcEndOfString;       }   } catch(err) {}   document.write('<scr'+'ipt type="text/javascript" src="'+scriptSrc+'"></scr'+'ipt>');   document.write('<noscript><a href="'+noscriptHref+'><img scr="'+noscriptSrc+'></a></noscript>');</script>    
+                            <script type='text/javascript'>function readCookie(name) {   var nameEQ = name + "=";   var ca = document.cookie.split(';');   for(var i=0;i < ca.length;i++) {   var c = ca[i];   while (c.charAt(0)==' ') c = c.substring(1,c.length);   if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);   }   return null;   }   var x = readCookie('c_mId');   if (x)  {   try {if (typeof adTargetConsumerInfo == 'undefined') {document.write('<scr'+'ipt type="text/javascript" src="include-member-ad.javascript"></scr'+'ipt>');   }   } catch(err) {}}   else {var adTargetConsumerInfo = ';rg=ur';var adTargetYieldExInfo = '';}</script><script type='text/javascript'>   var ordString=';ord=' + cachebuster;   var scriptSrc='http://ad.doubleclick.net/N4011/adj/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=B;sz=728x91;tile=4;at=Sports;at=IceHockey;at=JoelQuenneville;at=JonathanToews;at=NationalHockeyLeague;iab=sports;';   var noscriptHref='http://ad.doubleclick.net/N4011/jump/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=B;sz=728x91;tile=4;at=Sports;at=IceHockey;at=JoelQuenneville;at=JonathanToews;at=NationalHockeyLeague;iab=sports?" target="_blank" rel="nofollow"';   var noscriptSrc='http://ad.doubleclick.net/N4011/ad/trb.chicagotribune/sports/hockey/blackhawks;;ptype=s;slug=chi-chicago-blackhawks-stan-bowman-20130911;pos=B;sz=728x91;tile=4;at=Sports;at=IceHockey;at=JoelQuenneville;at=JonathanToews;at=NationalHockeyLeague;iab=sports?" width="728" height="91" border="0" alt=""';   var noscriptHrefEndOfStr=' target="_blank" rel="nofollow"';   var noscriptSrcEndOfString=' width="728" height="91" border="0" alt=""';   indexOfHrefQuestion='268';   indexOfLastImgSrcQuestion='266';   var yieldExParam=';u=';   var ptypeStr='ptype|s!';   var posStr='pos|B!';   var revenueScienceStr='';   var sizeStr='sz|728x91!';   try {       if (adTargetConsumerInfo != undefined && adTargetYieldExInfo != undefined) {           scriptSrc = scriptSrc.substring(0, scriptSrc.length -1) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?';           noscriptHref = noscriptHref.substring(0, indexOfHrefQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptHrefEndOfStr;           noscriptSrc = noscriptSrc.substring(0, indexOfLastImgSrcQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptSrcEndOfString;       }   } catch(err) {}   document.write('<scr'+'ipt type="text/javascript" src="'+scriptSrc+'"></scr'+'ipt>');   document.write('<noscript><a href="'+noscriptHref+'><img scr="'+noscriptSrc+'></a></noscript>');</script>    
                         
                     </div>  
 
@@ -5607,7 +5607,7 @@ DM_tag();
 
 
 
-<!-- Time: Sun Sep 29 18:19:18 PDT 2013-->
+<!-- Time: Mon Sep 30 06:10:02 PDT 2013-->
 
 
 
@@ -5695,4 +5695,4 @@ DM_tag();
 
     </body>
 </html>
-<!--x-Instance-Name: i9latisrapp02-->
+<!--x-Instance-Name: i9latisrapp05-->

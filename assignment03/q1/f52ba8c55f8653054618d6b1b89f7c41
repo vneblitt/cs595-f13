@@ -1,0 +1,881 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+
+<style>
+<!--
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	background: #fff;
+}
+
+#container {
+	width: 980px;
+	margin: 0 auto;
+	text-align: left;
+	background: #fff;
+	border: #b4b2b2 1px solid;
+}
+
+#header {
+	padding: 34px 15px 15px 15px;
+	background: #fff;
+}
+
+#mainContent {
+	width: 900px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+
+#footer {
+	height: 50px;
+	background: #000;
+}
+
+#footer p {
+	color: #fff;
+	font-size: 11px;
+	padding: 10px;
+	font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif;
+}
+-->
+</style>
+
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-5828686-4']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+
+<!--end iCIMS PREHEADER-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(function(){
+_gat._createTracker('UA-35875149-2', 'iCIMS');
+});
+_gaq.push(['iCIMS._setDomainName', 'icims.com']);
+_gaq.push(['iCIMS._setCustomVar', 1, 'x-icims-cid', 'prod_npr', 2 ]);
+_gaq.push(['iCIMS._setCustomVar', 2, 'x-icims-group', '-1', 2 ]);
+_gaq.push(['iCIMS._setCustomVar', 3, 'x-icims-ptype', '5', 3 ]);
+_gaq.push(['iCIMS._setCustomVar', 4, 'x-icims-build', 'platform_13.1.130925.60195', 2 ]);
+_gaq.push(['iCIMS._setSiteSpeedSampleRate', 1]);
+_gaq.push(['iCIMS._setSessionCookieTimeout', 7200000]);
+_gaq.push(['iCIMS._trackPageview']);
+
+try{
+if(window.self !== window.top) {
+_gaq.push(['iCIMS._trackEvent', '13.1 - Portals', 'Loaded in iframe', window.location.hostname]);
+}
+} catch (e){}
+
+(function() {
+if(typeof MooTools !== "undefined") {
+window.addEvent('load', function() {
+
+$$('[gaEvent]').each(function(elem) {
+elem.addEvent(elem.getAttribute('gaEvent'), function(){
+var value = parseInt(elem.getAttribute('gaValue'), 10);
+_gaq.push(['iCIMS._trackEvent',
+'13.1 - ' + elem.getAttribute('gaCategory'),
+elem.getAttribute('gaAction'),
+elem.getAttribute('gaLabel'),
+isNaN(value) ? null : value,
+elem.getAttribute('gaNonInteraction') || false]);
+});
+});
+});
+}
+})();
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+(function () {
+var loadScript = function () {
+var ga = document.createElement('script'),
+s = document.getElementsByTagName('script')[0];
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+s.parentNode.insertBefore(ga, s);
+};
+if (window.addEventListener) {
+window.addEventListener('load', loadScript, false);
+} else if (window.attachEvent) {
+window.attachEvent('onload', loadScript);
+} else if (typeof window.onload === 'function'){
+var originalOnload = window.onload;
+window.onload = function() {
+originalOnload();
+loadScript();
+}
+} else {
+window['onload'] = loadScript;
+}
+})();
+</script>
+
+<title>Careers Center - Job Listings</title>
+<META NAME="ROBOTS" CONTENT="NOINDEX, FOLLOW">
+<link rel="stylesheet" type="text/css" href="https://cdn01.icims.com/platform_13.1.130925.60195/npr.icims.com/icims2/servlet/icims2?module=AppInert&action=renderPortalCss&a=1380135592000&portal=17&cssHash=2080806993" />
+<!-- Don't use rel="prev" if we're on page zero, don't use rel="next" if we're on last page. -->
+
+
+</head>
+<body>
+
+
+<div id="container">
+	<div style="border:4px solid #000;"></div>
+	<div id="header">
+		<a href="http://www.npr.org">
+			<img src="https://cdn01.icims.com/201105020438/images.icims.com/images/customers/npr/global/assets/nprlogo.gif" border="0"/>
+		</a>
+	</div>
+	
+	<div style="border:10px solid #000;"></div>
+	<div id="mainContent">
+<!--BEGIN iCIMS-->
+<!-- Jobs Core -->
+<script type="text/javascript" src="https://cdn07.icims.com/a/images.icims.com/content/platform_13.1.130925.60195/script/portal/trim.js"></script>
+<script type="text/javascript">
+// Only if Javascript is enabled...
+window.onload = function(e) {
+// ...set cursor style only for those columns that are sortable...
+var allTableHeaders = document.getElementsByTagName('th');
+for(var n = 0; n < allTableHeaders.length; n++) {
+if(allTableHeaders[n].getAttribute('sortable') == 'true') {
+allTableHeaders[n].style.cursor = 'pointer';
+}
+}
+// ...unhide the sort text verbiage as well...
+document.getElementById('iCIMS_SortTextRow').className = '';
+// ...and unhide the sort arrow entities. We hide the sort arrow and unhide it if Javascript is enabled
+// to solve an edge case where user had Javascript on sorted, then Javascript was turned off.
+// All other evidence of sortability would disappear except the arrows.
+if(document.getElementById('iCIMS_SortArrowEntity')) {
+document.getElementById('iCIMS_SortArrowEntity').className = '';
+}
+}
+</script>
+<script type="text/javascript">
+function icims_addCookieMessage() {
+var cookieEnabled = navigator.cookieEnabled ? true : false;
+if (typeof navigator.cookieEnabled == "undefined" && !cookieEnabled) {
+document.cookie = "testcookie";
+cookieEnabled = document.cookie.indexOf("testcookie") != -1 ? true : false;
+}
+if (!cookieEnabled) {
+document.getElementById('iCIMS_NoCookiesMessage').style.display = 'block';
+}
+}
+// Either append our cookie check onload or just run it.
+if (typeof window.onload != 'function') {
+window.onload = function() {
+icims_addCookieMessage();
+};
+} else {
+var icims_originalOnload = window.onload;
+window.onload = function() {
+icims_originalOnload();
+icims_addCookieMessage();
+};
+}
+</script>
+<div id="iCIMS_NoCookiesMessage" class="iCIMS_ErrorMsg iCIMS_NoCookies" style="display: none">
+<div class="iCIMS_ErrorMsgTitle">Please Enable Cookies to Continue</div>
+Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+</div>
+<table border="0" cellpadding="0" cellspacing="3" class="iCIMS_MainTable iCIMS_ListingsPage" style="width:100%;">
+<tr>
+<td class="iCIMS_Header iCIMS_Header_Jobs">
+<h1>
+Job Listings
+</h1>
+</td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td class="iCIMS_InfoMsg iCIMS_InfoMsg_Jobs"><br>Here are our current job openings. Please click on the job title for more information, and apply from that page if you are interested.<br><br></td>
+</tr>
+
+<tr>
+<td class="iCIMS_JobsTablePaging">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+
+
+
+&nbsp;
+
+
+</td>
+<td>
+&nbsp;
+Page
+<select paginator="true" style="display: none;" onchange="window.location.href=this.options[this.selectedIndex].value;">
+
+
+
+
+<option value="https://careers-npr.icims.com/jobs/search?pr=0&amp;searchRadius=5&amp;searchCategory=8718" selected="selected" >1</option>
+
+
+
+</select>
+<span staticCurrentPage="true">1</span>
+
+of 1 
+&nbsp;
+</td>
+<td>
+
+
+
+&nbsp;
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td>
+<!-- Job Listings Table (Nested Table) -->
+<table border="0" cellpadding="0" cellspacing="3" class="iCIMS_JobsTable" itemscope itemtype="http://schema.org/JobPosting" summary="Job listings table. ID=$T{Job}.$F{ExtJobID}, Job Title=$T{Job}.$F{JobTitle}, Job Location=, Division=$T{Job}.$F{Position}, Posted Date=$T{Job}.$T{JobPost}.$F{PostedDateTime} are listed in individual columns per job.">
+<tr id="iCIMS_SortTextRow" class="iCIMS_NoDisplay"><td colspan="5" class="iCIMS_SortText">Click Column Header to Sort</td></tr>
+<tr>
+
+
+
+
+<th scope="col" class="iCIMS_JobsTableHeader iCIMS_JobsTableHeader_1" sortable="true"  onclick="window.location.href='https://careers-npr.icims.com/jobs/search?mode=redo&amp;pr=0&amp;schemaId=$T{Job}.$F{ExtJobID}&amp;searchRadius=5&amp;searchCategory=8718';">
+ID
+</th>
+
+
+
+
+
+
+<th scope="col" class="iCIMS_JobsTableHeader iCIMS_JobsTableHeader_2" sortable="true"  onclick="window.location.href='https://careers-npr.icims.com/jobs/search?mode=redo&amp;pr=0&amp;schemaId=$T{Job}.$F{JobTitle}&amp;searchRadius=5&amp;searchCategory=8718';">
+Job Title
+</th>
+
+
+
+
+
+
+<th scope="col" class="iCIMS_JobsTableHeader iCIMS_JobsTableHeader_3" sortable="false" >
+Job Location
+</th>
+
+
+
+
+
+
+<th scope="col" class="iCIMS_JobsTableHeader iCIMS_JobsTableHeader_4" sortable="true"  onclick="window.location.href='https://careers-npr.icims.com/jobs/search?mode=redo&amp;pr=0&amp;schemaId=$T{Job}.$F{Position}&amp;searchRadius=5&amp;searchCategory=8718';">
+Division
+</th>
+
+
+
+
+
+
+<th scope="col" class="iCIMS_JobsTableHeader iCIMS_JobsTableHeader_5" sortable="true"  onclick="window.location.href='https://careers-npr.icims.com/jobs/search?mode=redo&amp;pr=0&amp;schemaId=$T{Job}.$T{JobPost}.$F{PostedDateTime}&amp;searchRadius=5&amp;searchCategory=8718';">
+Posted Date
+</th>
+
+
+
+</tr>
+
+
+<tr>
+
+
+
+
+
+
+
+<td scope="row" class="iCIMS_JobsTableOdd iCIMS_JobsTableField_1"  style="text-align:left">
+
+
+
+2013-1738
+
+
+
+
+
+
+
+</td>
+
+<td class="iCIMS_JobsTableOdd iCIMS_JobsTableField_2" itemprop="title" style="text-align:left">
+
+<a href="https://careers-npr.icims.com/jobs/1738/web-developer/job" class="iCIMS_Anchor iCIMS_JobsTableOddAnchor" title="1738 - Web Developer">
+
+
+
+Web Developer
+
+
+
+
+</a>
+
+
+</td>
+
+<td class="iCIMS_JobsTableOdd iCIMS_JobsTableField_3"  style="text-align:left">
+
+
+
+
+<span itemprop="JobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemProp="addressCountry">US</span>-<span itemProp="addressRegion">DC</span>-<span itemProp="addressLocality">Washington</span></span></span><BR />
+
+
+
+
+</td>
+
+<td class="iCIMS_JobsTableOdd iCIMS_JobsTableField_4" itemprop="occupationalCategory" style="text-align:left">
+
+
+
+Digital Media
+
+
+
+
+
+</td>
+
+<td class="iCIMS_JobsTableOdd iCIMS_JobsTableField_5"  style="text-align:left">
+
+
+<span itemprop="datePosted" content="2013-07-03T00:00:00.000-04:00">
+7/3/2013
+</span>
+
+
+
+
+</td>
+
+</tr>
+
+<tr>
+
+
+
+
+
+
+
+<td scope="row" class="iCIMS_JobsTableEven iCIMS_JobsTableField_1"  style="text-align:left">
+
+
+
+2013-1727
+
+
+
+
+
+
+
+</td>
+
+<td class="iCIMS_JobsTableEven iCIMS_JobsTableField_2" itemprop="title" style="text-align:left">
+
+<a href="https://careers-npr.icims.com/jobs/1727/senior-user-experience-architect/job" class="iCIMS_Anchor iCIMS_JobsTableEvenAnchor" title="1727 - Senior User Experience Architect">
+
+
+
+Senior User Experience Architect
+
+
+
+
+</a>
+
+
+</td>
+
+<td class="iCIMS_JobsTableEven iCIMS_JobsTableField_3"  style="text-align:left">
+
+
+
+
+<span itemprop="JobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemProp="addressCountry">US</span>-<span itemProp="addressRegion">DC</span>-<span itemProp="addressLocality">Washington</span></span></span><BR />
+
+
+
+
+</td>
+
+<td class="iCIMS_JobsTableEven iCIMS_JobsTableField_4" itemprop="occupationalCategory" style="text-align:left">
+
+
+
+Digital Media
+
+
+
+
+
+</td>
+
+<td class="iCIMS_JobsTableEven iCIMS_JobsTableField_5"  style="text-align:left">
+
+
+<span itemprop="datePosted" content="2013-08-21T00:00:00.000-04:00">
+8/21/2013
+</span>
+
+
+
+
+</td>
+
+</tr>
+
+<tr>
+
+
+
+
+
+
+
+<td scope="row" class="iCIMS_JobsTableOdd iCIMS_JobsTableField_1"  style="text-align:left">
+
+
+
+2013-1718
+
+
+
+
+
+
+
+</td>
+
+<td class="iCIMS_JobsTableOdd iCIMS_JobsTableField_2" itemprop="title" style="text-align:left">
+
+<a href="https://careers-npr.icims.com/jobs/1718/design-director/job" class="iCIMS_Anchor iCIMS_JobsTableOddAnchor" title="1718 - Design Director">
+
+
+
+Design Director
+
+
+
+
+</a>
+
+
+</td>
+
+<td class="iCIMS_JobsTableOdd iCIMS_JobsTableField_3"  style="text-align:left">
+
+
+
+
+<span itemprop="JobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemProp="addressCountry">US</span>-<span itemProp="addressRegion">DC</span>-<span itemProp="addressLocality">Washington</span></span></span><BR />
+
+
+
+
+</td>
+
+<td class="iCIMS_JobsTableOdd iCIMS_JobsTableField_4" itemprop="occupationalCategory" style="text-align:left">
+
+
+
+Digital Media
+
+
+
+
+
+</td>
+
+<td class="iCIMS_JobsTableOdd iCIMS_JobsTableField_5"  style="text-align:left">
+
+
+<span itemprop="datePosted" content="2013-05-22T00:00:00.000-04:00">
+5/22/2013
+</span>
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+<!-- End Job Listings Table -->
+</td>
+</tr>
+
+
+
+
+
+
+
+<tr>
+<td class="iCIMS_SubHeader iCIMS_SubHeader_Jobs">Job Search Agent Options:</td>
+</tr>
+
+
+<tr>
+<td class="iCIMS_InfoMsg iCIMS_InfoMsg_Jobs">You can save these search settings as an agent, meaning an email will be sent to you every time a new opening matches your criteria.  If you would like to create an agent, please fill out the form below and click the create button.</td>
+</tr>
+
+<tr>
+<td>
+<script type="text/javascript">
+/*<![CDATA[*/
+function VerifyCreateAgent() {
+if (document.getElementById("createAgentName").value==null || !trim(document.getElementById("createAgentName").value)) {
+alert("Error: Name of Agent is required.");
+document.getElementById("createAgentName").focus();
+return false;
+}
+return true;
+}
+/*]]>*/
+</script>
+<form method="post" accept-charset="utf-8" id="createSearchAgent" name="createSearchAgent" action="https://careers-npr.icims.com/jobs/agents?hashed=0" onsubmit="return VerifyCreateAgent();">
+<input type="hidden" name="icimsCookiesEnabledCheck" value="true" />
+<input type="hidden" id="createAgentKeywords" name="createAgentKeywords" value="" />
+<input type="hidden" id="createAgentLocations" name="createAgentLocations" value="" />
+<input type="hidden" id="createAgentCategories" name="createAgentCategories" value="8718" />
+<input type="hidden" id="createAgentCompanies" name="createAgentCompanies" value="" />
+<input type="hidden" id="createAgentPositionTypes" name="createAgentPositionTypes" value="" />
+<input type="hidden" id="createAgentZipCode" name="createAgentZipCode" value="" />
+<input type="hidden" id="createAgentRadius" name="createAgentRadius" value="5" />
+<input type="hidden" id="agentRunMode" name="agentRunMode" value="create" />
+<table border="0" cellpadding="0" cellspacing="3" class="iCIMS_AgentsTable">
+
+<tr>
+<td class="iCIMS_InfoField iCIMS_InfoField_Agents"><label for="createAgentName">Name of Agent</label>:</td>
+<td class="iCIMS_InfoData iCIMS_InfoData_Agents"><input type="text" id="createAgentName" name="createAgentName" value=""  maxlength="32"></td>
+</tr>
+<tr>
+<td colspan="2" class="iCIMS_ManageAgents">
+<input type="submit" id="jsp_form_create_i" class="iCIMS_Button" value="Create Agent" />
+</td>
+</tr>
+</table>
+</form>
+<table border="0" cellpadding="0" cellspacing="3" class="iCIMS_ManageAgentsTable">
+<tr>
+<td class="iCIMS_ManageAgents">
+<form id="frmManageAgents" method="post" action="https://careers-npr.icims.com/jobs/agents?hashed=0">
+<input type="hidden" name="icimsCookiesEnabledCheck" value="true" />
+<input type="submit" id="jsp_form_manage_i" class="iCIMS_Button" value="Manage My Agents" />
+</form>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+
+
+
+
+<tr>
+<td class="iCIMS_SubHeader iCIMS_SubHeader_JobSearch">Use this form to perform another job search:</td>
+</tr>
+
+
+
+<tr>
+<td>
+<script type="text/javascript">
+/*<![CDATA[*/
+function VerifySearchParameters() {
+
+var keywords = document.getElementById("jsb_f_keywords_i");
+if (keywords!=null && keywords.value!=null) {
+keywords.value = keywords.value.replace(/(^\s+)|(\s+$)/g, "");
+}
+
+/*]]>*/
+}
+</script>
+<form accept-charset="utf-8" id="searchForm" name="searchForm" action="https://careers-npr.icims.com/jobs/search?hashed=0" onsubmit="VerifySearchParameters();">
+<input type="hidden" name="ss" value="1" />
+
+<!-- Search Form Table (Nested Table) -->
+<table class="iCIMS_JobSearchTable" border="0" cellpadding="0" cellspacing="3">
+
+<tr>
+<td id="jsb_f_keywords_label" class="iCIMS_InfoField iCIMS_InfoField_JobSearch"><label for="jsb_f_keywords_i">Keywords</label>:</td>
+<td class="iCIMS_InfoData iCIMS_InfoData_JobSearch">
+<input type="text" id="jsb_f_keywords_i" class="Field_SearchKeywords" name="searchKeyword" maxlength="100" value="" />
+</td>
+</tr>
+
+
+<tr>
+<td id="jsb_f_location_label" class="iCIMS_InfoField iCIMS_InfoField_JobSearch"><label for="jsb_f_location_s">Location</label>:</td>
+<td class="iCIMS_InfoData iCIMS_InfoData_JobSearch">
+<select id="jsb_f_location_s" class="Field_SearchMultiSelect" name="searchLocation" multiple="multiple" size="4">
+<option value="" selected="selected">
+(All)
+</option>
+
+<option value="12781-12832-Washington" >US-DC-Washington</option>
+
+<option value="12781-12805-Boston" >US-MA-Boston</option>
+
+<option value="12781-12816-New York" >US-NY-New York</option>
+
+</select>
+</td>
+</tr>
+
+
+<tr>
+<td id="jsb_f_position_label" class="iCIMS_InfoField iCIMS_InfoField_JobSearch"><label for="jsb_f_position_s">Division</label>:</td>
+<td class="iCIMS_InfoData iCIMS_InfoData_JobSearch">
+<select id="jsb_f_position_s" class="Field_SearchMultiSelect" name="searchCategory" multiple="multiple" size="4">
+<option value="" >
+(All)
+</option>
+
+<option value="8713" >Development</option>
+
+<option value="8718" selected="selected">Digital Media</option>
+
+<option value="8721" >Digital Services</option>
+
+<option value="8723" >Distribution</option>
+
+<option value="8725" >Engineering</option>
+
+<option value="8730" >Executive</option>
+
+<option value="8737" >Finance</option>
+
+<option value="8739" >Human Resources</option>
+
+<option value="8741" >Information Technology</option>
+
+<option value="8743" >Marketing, Branding &amp; Communications</option>
+
+<option value="8746" >Member &amp; Audience Partnership</option>
+
+<option value="17725" >National Public Media</option>
+
+<option value="8748" >News &amp; Information</option>
+
+<option value="20935" >Office of the Chief Administrative Officer</option>
+
+<option value="20934" >Office of the Chief Content Officer</option>
+
+<option value="8750" >Office of the General Counsel</option>
+
+<option value="16015" >Policy &amp; Representation</option>
+
+<option value="16016" >Programming</option>
+
+</select>
+</td>
+</tr>
+
+
+
+
+
+
+<tr>
+<td></td>
+<td class="iCIMS_InfoField iCIMS_InfoField_JobSearch_Zip">
+<span id="jsb_f_zipcoderadius_label">
+
+
+
+<label for="jsb_f_zipradius_s">Find jobs within
+<select id="jsb_f_zipradius_s" name="searchRadius">
+
+<option value="5" selected="selected">5</option>
+
+<option value="10" >10</option>
+
+<option value="15" >15</option>
+
+<option value="20" >20</option>
+
+<option value="25" >25</option>
+
+<option value="35" >35</option>
+
+<option value="50" >50</option>
+
+<option value="75" >75</option>
+
+<option value="100" >100</option>
+
+<option value="150" >150</option>
+
+<option value="200" >200</option>
+
+</select>
+
+
+miles</label> <label for="jsb_f_zipcode_i">of Zip Code</label> <input type="text" id="jsb_f_zipcode_i" name="searchZip" value="" />
+</span>
+</td>
+</tr>
+
+<tr>
+<td id="jsb_form_submit_label" class="iCIMS_InfoData iCIMS_InfoData_JobSearch iCIMS_InfoData_JobSearch_Button" colspan="2">
+<input type="submit" id="jsb_form_submit_i" class="iCIMS_Button" value="Search" />
+</td>
+</tr>
+</table>
+<!-- End Search Form Table -->
+</form>
+
+
+</td>
+</tr>
+
+
+
+<tr>
+<td class="iCIMS_Navigation">
+
+
+<div class="iCIMS_NavigationIconContainer"><a class="iCIMS_Anchor_Nav" href="https://careers-npr.icims.com/jobs/intro"><img alt="" src="https://cdn07.icims.com/platform_13.1.130925.60195/careers-npr.icims.com/jobs/image?img=ccciconthemes/images3/back&amp;color=FFFFFF-000000-FFFFFF-eeeeee-FFFFFF-000000&amp;a=" class="iCIMS_NavIcon" width="40" height="35" />Go back to the welcome page</a></div>
+
+
+</td>
+</tr>
+<tr>
+<td class="iCIMS_Logo iCIMS_PasswordReminder"><a class="iCIMS_Faq_Link" title="Need further assistance? (Opens new window)" href="https://media.icims.com/training/candidatefaq/faq.html" target="_blank">Need further assistance?</a><br /><br /><a href="http://www.icims.com/" target="_blank"><img id="footer_powered" src="https://cdn07.icims.com/platform_13.1.130925.60195/careers-npr.icims.com/jobs/image?img=ccciconthemes/images3/powered&color=FFFFFF-XXXXXX-XXXXXX-65666A&a=" style="border:0px;" alt="Powered by the iCIMS Talent Platform (Opens new window)" width="133" height="63" /><br />Applicant Tracking Software</a></td>
+</tr>
+</table>
+
+<!--END iCIMS-->
+	</div>
+	
+	<div id="footer">
+		<p>Copyright 2011 NPR </p>
+	</div>
+
+</div>
+</body>
+</html>

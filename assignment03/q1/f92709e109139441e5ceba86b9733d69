@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" xmlns:og="http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" xmlns:og="http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" xmlns:og="http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" xmlns:og="http://ogp.me/ns#">
+<!--<![endif]-->
+<!--<div class="suntimes-signature"></div>-->
+<head>
+<link rel="icon" type="image/png" href="http://www.chicagogrid.com/wp-content/themes/Grid-28/favicon.ico">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Chicago Grid | A Kickstarter for funerals?</title>
+
+
+
+<!-- BEGIN Metadata added by Add-Meta-Tags WordPress plugin
+Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plugin/ -->
+<meta name="robots" content="NOODP,NOYDIR" />
+<meta name="description" content="This incubator-grown tech startup is an update on a very old business." />
+<meta name="keywords" content="business articles, business news articles, business magazines, international business news, business article, small business, business news today, business magazine, business current events, small business ideas, business finance, profitable business ideas, business blogs, business opportunity, business management, business news, franchise business opportunities, business week magazine ,business opportunities, graceful goodbyes, funeral, expenses, kickstarter, crowdsource, donate, community, cost, fundraiser, money, pay, business, sandbox, industries, chicago, grid, charles childs, josh mcclung, aa rayner, emma farmer, thomas austin, lori chappell, ibisworld, home" />
+<meta name="news_keywords" content="Graceful Goodbyes, funeral, kickstarter, donate" />
+<!-- END Metadata added by Add-Meta-Tags WordPress plugin -->
+
+
+<!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
+	<meta name="description" content="A tech startup with an update on a very old business." />
+<!-- /SEO Ultimate -->
+
+<link rel="alternate" type="application/rss+xml" title="Chicago Grid &raquo; Feed" href="http://www.chicagogrid.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Chicago Grid &raquo; Comments Feed" href="http://www.chicagogrid.com/comments/feed/" />
+<link rel='stylesheet' id='views-pagination-style-css'  href='http://www.chicagogrid.com/wp-content/plugins/wp-views/embedded/res/css/wpv-pagination.css?ver=1.1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpv_render_css-css'  href='http://www.chicagogrid.com/wp-content/plugins/wp-views/res/css/wpv-views-sorting.css?ver=3.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.chicagogrid.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.chicagogrid.com/wp-content/plugins/wp-views/embedded/res/js/wpv-pagination-embedded.js?ver=1.1.4.1'></script>
+<script type='text/javascript' src='http://www.chicagogrid.com/wp-content/plugins/wp-views/embedded/res/js/wpv-date-front-end-control.js?ver=1.1.4.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.chicagogrid.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.chicagogrid.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Don&#8217;t take candy from strangers, even at work' href='http://www.chicagogrid.com/careers/office-candy-creep-connotations-procon-list/' />
+<link rel='next' title='8 September 13' href='http://www.chicagogrid.com/8at8/8-september-13/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='canonical' href='http://www.chicagogrid.com/features/graceful-goodbyes-funeral-expenses/' />
+<link rel='shortlink' href='http://www.chicagogrid.com/?p=11696' />
+        <script type="text/javascript">
+            var front_ajaxurl = 'http://www.chicagogrid.com/wp-admin/admin-ajax.php';
+            var wpv_calendar_image = 'http://www.chicagogrid.com/wp-content/plugins/wp-views/embedded/res/img/calendar.gif';
+            var wpv_calendar_text = 'Select date';
+        </script>
+    
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #e2e2e2; }
+</style>
+
+<!-- WordPress Facebook Open Graph protocol plugin (WPFBOGP v2.0.7) http://rynoweb.com/wordpress-plugins/ -->
+<meta property="fb:app_id" content="446325655456858"/>
+<meta property="og:url" content="http://www.chicagogrid.com/features/graceful-goodbyes-funeral-expenses/"/>
+<meta property="og:title" content="A Kickstarter for funerals?"/>
+<meta property="og:site_name" content="Chicago Grid"/>
+<meta property="og:description" content="It’d be hard to conceive of an industry with a more stable customer flow than funeral services. But the way we die has changed a lot in recent years. Familie"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="http://www.chicagogrid.com/wp-content/uploads/2013/09/graceful-400x191.jpg"/>
+<meta property="og:image" content="http://www.chicagogrid.com/wp-content/uploads/2013/01/GridG100thumb.jpg"/>
+<meta property="og:locale" content="en_us"/>
+<!-- // end wpfbogp -->
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" media="screen" href="http://www.chicagogrid.com/wp-content/themes/Grid-28/css/index.css?vs=3" type="text/css" />
+<link rel="stylesheet" media="screen" href="http://www.chicagogrid.com/wp-content/themes/Grid-28/css/sf/superfish.css?vs=1" type="text/css"/>
+<link rel="stylesheet" media="screen" href="http://www.chicagogrid.com/wp-content/themes/Grid-28/css/sf/superfish-navbar.css" type="text/css"/>
+<link rel="stylesheet" media="screen" href="http://www.chicagogrid.com/wp-content/themes/Grid-28/css/sf/superfish-vertical.css" type="text/css"/>
+<link rel="stylesheet" media="screen" href="http://www.chicagogrid.com/wp-content/themes/Grid-28/css/gigya/gigya.css" type="text/css"/>
+<link rel="stylesheet" media="print" href="http://www.chicagogrid.com/wp-content/themes/Grid-28/css/print.css"  type="text/css"/>
+
+<link rel="pingback" href="http://www.chicagogrid.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.chicagogrid.com/wp-content/themes/Grid-28/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<script src="http://www.chicagogrid.com/wp-content/themes/Grid-28/js/jquery.cookie.js" type="text/javascript"></script>
+<script src="http://cdn.gigya.com/js/socialize.js?apiKey=3_ak1cExiDm6DCyFP-lOybRkJuyCh0POmUq0jAo1KKsQ8H9FrnjiPcGpKM4jHkLU6a" type="text/javascript">
+{
+	autoLogin: true,
+	connectWithoutLoginBehavior: 'alwaysLogin', //desktop	
+	sessionExpiration: undefined
+}
+</script>
+
+<script src="http://www.suntimes.com/csp/cms/sites/STM/assets/js/disableMobileScreenSet.js?v=20130424a" type="text/javascript"></script>
+<script src="http://www.suntimes.com/csp/cms/sites/STM/assets/js/onAfterScreenLoad.js?v=20130424a" type="text/javascript"></script>
+<script src="http://www.suntimes.com/csp/cms/sites/STM/assets/js/omniture-integration.js?v=20130129a" type="text/javascript"></script>
+<script src="http://www.suntimes.com/csp/cms/sites/STM/assets/js/aggrego-gigya-common.js?domain=chicagogrid.com&v=20130723a" type="text/javascript"></script>
+<!-- Start Omniture SiteCatalyst -->
+<script type="text/javascript" src="http://www.suntimes.com/csp/cms/sites/STM/assets/js/s-code.js"></script>
+<!-- End SiteCatalyst code -->
+<script src="http://www.chicagogrid.com/wp-content/themes/Grid-28/js/sf/hoverIntent.js" type="text/javascript"></script>  
+<script src="http://www.chicagogrid.com/wp-content/themes/Grid-28/js/sf/jquery.bgiframe.min.js" type="text/javascript"></script>
+<script src="http://www.chicagogrid.com/wp-content/themes/Grid-28/js/sf/jquery.superfish-1.5.0.js" type="text/javascript"></script>
+<script src="http://www.chicagogrid.com/wp-content/themes/Grid-28/js/sf/supersubs.js" type="text/javascript"></script>
+<script type="text/javascript" src="//use.typekit.net/cif1exb.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script> 
+
+		jQuery(function($) {
+			$('#menu-main-nav').addClass('sf-menu');
+			$("ul.sf-menu").superfish(); 
+      $("#mobile-menu").change(function() {
+  					window.location = $(this).find("option:selected").val();
+				}); 
+
+	  	var url   = $('meta[property="og:url"]').attr("content");
+  		var title = $('meta[property="og:title"]').attr("content");
+  		var desc  = $('meta[property="og:description"]').attr("content");
+  		var img   = $('meta[property="og:image"]').attr("content");
+		 
+		  var act = new gigya.socialize.UserAction();
+		    // act.setUserMessage("This is the user message");
+		    act.setTitle(title);
+		    act.setLinkBack(url);
+		    act.addActionLink("Read This", url);
+		    act.setDescription(desc);
+		    act.addMediaItem({ type: 'image', src:img , href:url });
+					
+  	 gigyaUI = new Aggrego.Gigya(jQuery, "grid", "Chicago Grid", "chicagogrid.com", { shareBar: { userAction: act } });
+
+		}); 
+  </script>
+    
+<!-- Google Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20033512-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- Google Analytics -->
+
+<!-- ChartBeat tag. The rest of it is at the bottom of page in the s-code.js.-->
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+
+<!------ OAS SETUP start ------>
+<script type="text/javascript" src="http://www.suntimes.com/csp/cms/sites/STM/assets/js/oas-splash.js?vs=08052013"></script>
+<!------ OAS SETUP end ------>
+ </head>
+  <body>
+  	<script type="text/javascript">OAS_AD("x01");</script>
+     <div class="extWrap">
+	  
+      <header id="cover" class="fixedHeader"> 
+                  
+         			
+
+<style>
+html {
+	background: url("http://www.chicagogrid.com/wp-content/uploads/2013/09/hedy2.png") no-repeat fixed center top #000000;
+}
+.fixedHeader {
+	background: transparent url('http://www.chicagogrid.com/wp-content/uploads/2013/09/hedy2.png') top center fixed no-repeat;
+}
+header#cover .coverstory h1 span {
+    background-color: #fed900;
+}
+header#cover .coverstory a h1 span {
+    color: #FFFFFF;
+}
+header#cover .coverstory h2 {
+	 color: #fed900;
+}
+header#cover .coverstory p {
+	color: #FFFFFF;
+}
+</style>
+                               
+                       </header>
+
+      <div class="mezzoWrap modified"> 
+ 		 <div class="standard_wrapper">	     
+		
+        <nav class="naileddNav">
+        	 <div class="masthead-secondary" style="display: block;"> <!-- SMALL MASTHEAD -->    
+         
+                <a href="http://www.chicagogrid.com"><img src="http://www.chicagogrid.com/wp-content/themes/Grid-28/images/sticky-logo.png" class="large-logo" /></a>
+                <a href="http://www.chicagogrid.com"><img src="http://www.chicagogrid.com/wp-content/themes/Grid-28/images/sticky-logo-small.png" class="small-logo" /></a>
+            </div>
+            <div class="nav"><div class="menu-main-nav-container"><ul id="menu-main-nav" class="menu"><li id="menu-item-4348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4348"><a href="http://www.chicagogrid.com/">Home</a></li>
+<li id="menu-item-2083" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2083"><a href="http://www.chicagogrid.com/category/news/">News</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-16"><a href="http://www.chicagogrid.com/category/features/">Features</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://www.chicagogrid.com/category/enterprise/">Entrepreneurs</a>
+<ul class="sub-menu">
+	<li id="menu-item-2187" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2187"><a href="http://www.chicagogrid.com/category/enterprise/conversation/">Conversation</a></li>
+	<li id="menu-item-12558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12558"><a href="http://www.chicagogrid.com/category/enterprise/minority-report/">Minority Report</a></li>
+</ul>
+</li>
+<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17"><a href="http://www.chicagogrid.com/category/people/">Leaders</a>
+<ul class="sub-menu">
+	<li id="menu-item-2186" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2186"><a href="http://www.chicagogrid.com/category/people/happy-hour/">Happy Hour</a></li>
+	<li id="menu-item-2250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2250"><a href="http://www.chicagogrid.com/category/people/interviews/">Interviews</a></li>
+</ul>
+</li>
+<li id="menu-item-2081" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2081"><a href="http://www.chicagogrid.com/category/careers/">Careers</a>
+<ul class="sub-menu">
+	<li id="menu-item-11953" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11953"><a href="http://www.chicagogrid.com/category/careers/etiquette/">Etiquette</a></li>
+</ul>
+</li>
+<li id="menu-item-2249" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2249"><a href="http://www.chicagogrid.com/category/reviews/tech/">Tech</a>
+<ul class="sub-menu">
+	<li id="menu-item-3388" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3388"><a href="http://www.chicagogrid.com/category/reviews/andy-ihnatko/">Andy Ihnatko</a></li>
+</ul>
+</li>
+<li id="menu-item-2082" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2082"><a href="http://www.chicagogrid.com/category/distractions/">Distractions</a>
+<ul class="sub-menu">
+	<li id="menu-item-2342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2342"><a href="http://www.chicagogrid.com/category/distractions/office-space/">Office Space</a></li>
+	<li id="menu-item-2695" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2695"><a href="http://www.chicagogrid.com/category/distractions/index/">Index</a></li>
+</ul>
+</li>
+</ul></div></div>       
+        </nav>
+ </div>
+       
+        
+     <div id="top1" class=""><script type="text/javascript">OAS_AD("Top1");</script></div>
+        
+        <hgroup>
+        	<div class="category">                  
+            	<div class="glyph"></div>                  
+            	<div class="label">
+                the lead              </div>                
+            </div> 
+
+            <div id="gigya" style="float:right;padding-right: 5px;">
+              <!-- GIGYA -->
+                    				<!-- GIGYA LOGIN BAR -->
+					<div id="gigyaLoginBox" class="passportBox">
+						<div class="gigya-logged-out">	 
+							<div class="gigyaUI-register"> 
+								<a href="#" class="gigya-registration-link">Register for free</a> | <a href="#" class="gigya-login-link">Login</a>
+							 </div>
+						</div><!-- /loggedout -->
+						<div class="gigya-logged-in">
+							<div class="gigyaUI-account">&nbsp;| <a href="#" class="gigya-profile-link">My Account</a> | <a href="#" class="gigya-logout-link">Logout</a></div>
+							<div id="gigyaConnections"></div>
+							<div class="gigyaUI-welcome"><img class="userThumbnail" src="" />Welcome, <span class="userFirstName"></span> | </div>
+						</div><!-- /loggedin -->
+					</div>
+				<!-- /GIGYA LOGIN BAR -->              <!-- /GIGYA -->	
+            </div>
+		</hgroup>
+        
+        
+            
+        <div class="intWrap">		<section> 
+     
+    		   	
+
+<!-- gigya vertical -->
+<!--<link rel="stylesheet" media="screen" href="" type="text/css"/>
+<script src="/js/gigya/gigya-floating-bar.js" type="text/javascript"></script>-->
+
+<!-- include reg wall -->
+<script src="http://www.chicagogrid.com/wp-content/themes/Grid-28/js/gigya/regWall.js?vs=1" type="text/javascript"></script>
+
+
+<article id="post-11696" class="listenup">
+
+  <script type="text/javascript">
+  // MG2 Metered Stories START
+  (function($){
+    //IF SITE OTHER THAN SUNTIMES.COM 
+    var now = new Date();
+    var expiresDate = new Date();
+    expiresDate.setDate(now.getDate() + 7);
+    var storyAlreadyMetered = 0;
+    var postID = "11696";  
+    
+    if( $.cookie('mg2StoryIDs') != null ){
+      if ($.cookie('mg2StoryIDs').indexOf(postID)>-1){
+        storyAlreadyMetered = 1;
+        //console.debug('in: ' + postID);
+      }else{
+        var cookieCurrent = $.cookie('mg2StoryIDs');
+        $.cookie('mg2StoryIDs', cookieCurrent + postID + "|", { expires: expiresDate, path: '/', domain: '.chicagogrid.com' });
+        //console.debug('out: ' + postID);          
+      }
+    }else{
+      $.cookie('mg2StoryIDs', postID + "|", { expires: expiresDate, path: '/', domain: '.chicagogrid.com' });
+    }   
+
+    if( storyAlreadyMetered == 0 ){
+      if( $.cookie('mg2PayWallCntr') == null ){
+        $.cookie('mg2PayWallCntr', 1, { expires: expiresDate, path: '/', domain: '.chicagogrid.com' });
+      }else{
+        var mg2Count = parseInt($.cookie('mg2PayWallCntr'))+1;
+        $.cookie('mg2PayWallCntr', mg2Count, { expires: expiresDate, path: '/', domain: '.chicagogrid.com' });      
+      }
+    }
+    //console.debug('Pay Wall Count: ' + $.cookie('mg2PayWallCntr')); 
+
+    // START : FOR NON .SUNTIMES.COM SITES
+    // get count from suntimes.com
+      $.ajax({
+        type: 'get',    
+        url: 'http://dev.suntimes.com/csp/cms/sites/STM/assets/includes/mg2CounterCookie.csp?callback=mg2PayWallCntr_callback',
+        data : 'callback=mg2PayWallCntr_callback',
+        dataType: 'jsonp',
+        cache: false,
+        jsonpCallback: "mg2PayWallCntr_callback",
+        success: function(data, textStatus, jqXHR){
+          checkSuntimesCounter(data);
+        },
+        error: function(httpReq, status, exception){        
+          //console.log(httpReq+' ' +status+' ' +exception);
+        }   
+      }); 
+
+      function checkSuntimesCounter(data){
+        var payWallCountSuntimes = data['count'];
+
+        if( $.cookie('mg2PayWallCntr') != null && payWallCountSuntimes != 0 && $.cookie('mg2ParentCheck') == null ){
+          if( payWallCountSuntimes > $.cookie('mg2PayWallCntr') ){
+            var now = new Date();
+            var expiresDate = new Date();
+
+            $.cookie('mg2PayWallCntr', payWallCountSuntimes, { expires: expiresDate.setDate(now.getDate() + 7), path: '/', domain: '.chicagogrid.com' });
+            $.cookie('mg2ParentCheck', 1, { expires: expiresDate.setDate(now.getDate() + 1), path: '/', domain: '.chicagogrid.com' });
+            //console.debug('Pay Wall Count After Check: ' + $.cookie('mg2PayWallCntr'));
+          }
+        }  
+      }   
+    // END : FOR NON .SUNTIMES.COM SITES
+  })(jQuery); 
+  // MG2 Metered Stories END
+  </script>
+
+  <!--<a id="gigya_start"></a>--><!-- GIGYA floating share bar START -->  
+
+      <h1>A Kickstarter for funerals?</h1>
+        <div class="meta">
+        <p class="subject">[Features]</p>
+        <p class="synopsis">A tech startup with an update on a very old business.</p>
+        </div>
+    <div class="byauthor">BY <a href="mailto:matt@chicagogrid.com">MATT PRESENT</a></div>
+
+  <!-- GIGYA SHAREBAR TOP -->
+  <div class="gigya-sharebar gigya-sharebar-top">
+    <div id="sharebarDivTop" gigya-stream-id="11696"></div>
+  </div>
+  <!-- /GIGYA SHAREBAR TOP -->
+
+
+    
+       <img width="620" height="297" src="http://www.chicagogrid.com/wp-content/uploads/2013/09/graceful-620x297.jpg" class="attachment-post-thumbnail wp-post-image" alt="graceful" />    
+  		<p dir="ltr">It’d be hard to conceive of an industry with a more stable customer flow than funeral services.</p>
+<p dir="ltr">But the way we die has changed a lot in recent years. Families, squeezed by a weak economy that ate away at retirement and savings, choose cheaper options or can’t pay at all.</p>
+<p dir="ltr">Sandbox Industries founder-in-residence Josh McClung thinks he has a solution. McClung launched <a href="http://www.gracefulgoodbye.com/">Graceful Goodbye</a>, a crowdfunding site for funeral expenses, in mid-July. The concept isn’t a whole lot different than Kickstarter, but fundraisers don’t need to hit a goal to get the money. Funeral expenses, which average around $6,000, get spread out across the community.</p>
+<p dir="ltr">McClung figures that by enabling families to cast a wider net, he’ll be able to help all parties involved. “There’s tremendous power in unlocking even small donations amongst a large group of people,” he says. “Right now, families come in and lay down three credit cards.”</p>
+<p dir="ltr">The proposition may have significant value for funeral home owners, who operate on slim margins — 6.4 percent on average, according to market researcher IBISworld — and may feel compelled to extend credit to families they’ve been servicing for years.</p>
+<p dir="ltr">“I’m sure it’s happened with many of the homes in the Chicago area,” says Charles Childs, director of AA Rayner funeral homes. “We end up contributing ourselves because families just don’t have it. Either discounts or just no charging at all.”</p>
+<p dir="ltr">Emma Farmer is one of Graceful Goodbye’s first clients. After her nephew Thomas Austin was murdered in a park in Charlotte, N.C., in August, her family sat down and quickly discovered they were well shy of the $6,000 they needed for funeral expenses.</p>
+<p dir="ltr">Farmer found Graceful Goodbye while Googling around for help with expenses. She created a fundraiser in 30 minutes, sending out an email alert to churches and community organizations.</p>
+<p dir="ltr">“I am of the belief that when something like this occurs, the people you don’t know are those are the ones you want to contact,” she says. Her nephew’s fundraiser yielded about $3,000 from 27 donors. Among those who contributed was the woman who, while walking her dog one morning, found Austin’s body.</p>
+<p>McClung isn’t the only one to offer a crowdfunding option for funerals. Funeral Fund, another website dedicated to funerals, is currently in beta-testing. GiveForward, a platform for funding medical expenses, also allows users to set up fundraisers for funerals costs. Nate St. Pierre, GiveForward’s Director of Communications, says the site has somewhere in the “low hundreds” on any given day.</p>
+<p dir="ltr">Lori Chappell, who owns the North Carolina funeral home that handled Austin’s service, is glad to see another funding mechanism come into play. “With the economy, people don’t have adequate insurance. Sometimes, there’s none,” she says. “Folks are far less capable of paying now than before.”</p>
+<p> That&#8217;s a major reason why cremations are spiking. In 2007, 34.8 percent of deaths resulted in cremation; by 2010, it was 46 percent. A full third of those who chose cremation cited cost as a driving factor, according to the Funeral and Memorial Information Council. For funeral directors, cremations, which cost about a third as much as casket burials, eat into margins.</p>
+<p>While some funeral homes may have the cash flow to set up installment plans or front the money for more expensive services, the industry isn&#8217;t equipped to float grieving families for months at a time. </p>
+<p>&#8220;Funeral homes can’t loan money the way a bank could. We can’t check credit, don’t have those resources. Fewer funeral homes are willing to do payment plans versus up-front methods [these days],&#8221; says Walker Posey, a spokesman for the National Funeral Directors Association and owner of Posey Funeral Directors. &#8220;[Graceful Goodbye] is an alternative means that families can look to.&#8221;</p>
+<p dir="ltr">Monetizing the business is a touchy subject, which McClung recognizes. “There’s a stigma that funeral directors face,” he says. “Profiting off death.”</p>
+<p dir="ltr">For now, McClung charges 4 percent of donations plus credit card fees, usually around 2.9 percent, to cover operating expenses (Kickstarter charges 10 percent). In its first month, more than 60 campaigns have been launched on Graceful Goodbye, and McClung says the average amount raised is around $3,500.</p>
+<p dir="ltr">But he wants to shift the model away from taking a percentage of donations, arguing that Graceful Goodbye’s future resides in becoming an online portal for an industry that remains highly fragmented and predominantly family-owned. According to IBISworld, more than three-quarters of funeral homes have four or fewer employees. Consequently, McClung believes that the industry has been underserved by technology.</p>
+<p dir="ltr">“The way to monetize down the line is by making it the go-to portal for funeral home operators,” he says. “There hasn’t been the focus in this area that it deserves and warrants. It’s a massive industry that impacts everyone.”</p>
+<p dir="ltr"><em>Photo of Josh McClung by Sara Mays</em></p>
+  		      <!-- .entry-content -->
+
+    
+    <!-- GIGYA SHAREBAR BOTTOM -->
+    <div class="gigya-sharebar">
+      <div id="sharebarDivBottom" gigya-stream-id="11696"></div>
+    </div>
+    <!-- /GIGYA SHAREBAR BOTTOM -->
+
+    <!-- /GIGYA COMMENTS START -->
+    <div id="commentLink" class="cmBlk">
+      <div class="redCount">
+        <img src="http://www.suntimes.com/csp/cms/sites/STM/assets/img/gigya/comment_icon.gif" class="commentIcon" />
+      </div>
+      <div> Show / Hide Comments</div>
+    </div>
+    <br />
+    <div id="commentsWrapper">
+      <div id="commentDiv" data-gigya-category-id="grid" data-gigya-stream-id="11696"></div>
+    </div>
+    <!-- /GIGYA COMMENTS END -->
+
+    <!--<a id="gigya_end"></a>--><!-- GIGYA floating share bar END --> 
+
+</article><!-- #post-11696 -->
+
+<!-- GIGYA VERTICAL SHAREBAR -->
+<!--
+<div class="gigya_outer">
+  <div class="gigya_inner">
+    <div id="gigya_ajax_float">
+      <div id="sharebarDivVertical"></div>
+      <div class="sharebarClearLeft"></div>
+    </div>
+  </div>
+</div>
+-->
+<!-- /GIGYA VERTICAL SHAREBAR -->
+
+<!-- GIGYA SHAREBAR JS START -->
+<script type='text/javascript'>
+
+  function clickCommentsClosed() {
+    //alert('trest');
+    $("#commentLink").click();
+  }; 
+
+  jQuery(function($) {
+    
+    var streamID = "11696";
+    
+    // BOTTOM SHAREBARS
+    var sharebarBottomParams = gigyaUI.getShareBarUIParams(streamID,{});
+      sharebarBottomParams.containerID = 'sharebarDivBottom';
+      sharebarBottomParams.shareButtons = [
+         { provider: 'Facebook-Like' }
+        ,{ provider: 'Twitter-Tweet', via: 'Grid_Chicago' }  
+        ,{ provider: 'Pinterest' }        
+        ,{ provider: 'LinkedIn' }     
+        ,{ provider: 'google-plusone', annotation: 'bubble' }         
+        ,{ provider: 'Share', iconOnly: 'false' }
+        ,{ provider: 'comments'
+          ,categoryID:'grid'
+          ,streamID: '11696'
+          ,commentsContainerID: 'commentDiv' }                           
+        ,{ provider: 'print' }
+      ];      
+
+    // VERTICAL SHAREBAR
+    /*
+    var sharebarParams = gigyaUI.getShareBarUIParams(streamID,{});
+      sharebarParams.containerID = 'sharebarDivVertical';
+      sharebarParams.layout = 'vertical';
+      sharebarParams.showCounts = 'top';
+      sharebarParams.shareButtons = [
+         { provider: 'Facebook-Like' }
+        ,{ provider: 'Twitter-Tweet' }
+        ,{ provider: 'Pinterest' }
+        ,{ provider: 'LinkedIn' }
+        ,{ provider: 'google-plusone' }
+        ,{ provider: 'Share', iconOnly: 'false' }
+        ,{ provider: 'email' }
+      ];
+      sharebarParams.onLoad = function(e) {
+        gigya.socialize.showShareBarUI(sharebarBottomParams);
+      };
+      */
+                                  
+
+    // TOP SHAREBAR
+    var sharebarTopParams = gigyaUI.getShareBarUIParams(streamID,{});
+      sharebarTopParams.containerID = 'sharebarDivTop';
+      sharebarTopParams.shareButtons = [
+         { provider: 'Facebook-Like' }
+        ,{ provider: 'Twitter-Tweet', via: 'Grid_Chicago' }  
+        ,{ provider: 'Pinterest' }        
+        ,{ provider: 'LinkedIn' }     
+        ,{ provider: 'google-plusone', annotation: 'bubble' }         
+        ,{ provider: 'Share', iconOnly: 'false' }
+        ,{ provider: 'comments'
+          ,categoryID:'grid'
+          ,streamID: '11696'
+          ,commentsContainerID: 'commentDiv' }                           
+        ,{ provider: 'print' }
+      ];       
+      sharebarTopParams.onLoad = function(e) {
+        gigya.socialize.showShareBarUI(sharebarBottomParams);
+        //gigya.socialize.showShareBarUI(sharebarParams);
+      };
+      gigya.socialize.showShareBarUI(sharebarTopParams);
+
+    // GIGYA COMMENTS
+    $('#commentLink').click(function() {
+      $('#commentsWrapper').toggle('slow', function() {
+      // Animation complete.
+      });
+    }); 
+
+    var commentsParams = gigyaUI.getCommentsParams("/wp-content/themes/Grid-28/css/gigya/gigya.css");
+        commentsParams.categoryID = 'grid';
+        commentsParams.containerID = "commentDiv";
+        commentsParams.streamID = "11696";
+        commentsParams.width = 600;
+    gigya.socialize.showCommentsUI(commentsParams);
+
+  });
+            
+</script>
+<!-- GIGYA SHAREBAR JS END -->		    <!-- #content -->
+        
+		</section><!-- #primary -->
+    
+    	
+      
+		 <aside> <!-- right rail START -->
+      <div id="search-box">
+	<form method="get" id="searchform" action="http://www.chicagogrid.com/">
+		<input type="text" class="field" name="s" id="s" placeholder="Search the grid" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+</div>
+      <article>
+          <div id="text-4" class="widget widget_text">			<div class="textwidget"><a href="http://suntimes.com/register" target="_blank"><img src="http://www.chicagogrid.com/wp-content/uploads/2013/04/chicago-grid-newsletter.png" alt="Sign Up for Chicago Grid's Newsletter" /></a></div>
+		</div><div id="text-2" class="widget widget_text">			<div class="textwidget"><div id="ad-position-1" class="top20">
+  <script type="text/javascript"> OAS_AD("TopRight");</script>
+</div>
+</div>
+		</div><div id="text-3" class="widget widget_text">			<div class="textwidget"><!--<div class="sidebar-section-wrapper">
+<header>Social Activity </header>
+<div class="textwidget" style="margin:15px 0 20px 0; width:280px; min-height:250px; ">
+<div id="divGigyaFeed"></div>
+</div>
+<div><script type="text/javascript">
+jQuery(function($) {
+var activityFeedParams = gigyaUI.getFeedParams();
+activityFeedParams.containerID = "divGigyaFeed";
+activityFeedParams.width = 280;
+activityFeedParams.height = 250;
+gigyaUI.showFeedUI(activityFeedParams);
+});
+</script></div>
+--></div>
+		</div>        </article>
+
+         <article>
+	       <header>News</header>
+
+
+
+
+<!-- wpv-loop-start -->
+   
+              <div class="postWrap">
+                   
+                   <a href="http://www.chicagogrid.com/news/well-corporate-lawyers-paid-more/"><img alt="Chatter Image" title="Chatter Image" src="http://www.chicagogrid.com/wp-content/uploads/2013/09/liarliarthumb.png" /></a>
+                   
+                   
+                  <div class="post">
+                    <h1><a href="http://www.chicagogrid.com/news/well-corporate-lawyers-paid-more/">The economy&#8217;s not bad for everyone — corporate lawyers are getting raises</a></h1>
+                    <!--<p>MATT PRESENT</p>-->
+                    <span><a href="http://www.chicagogrid.com/category/news/">News</a></span>
+                  </div>
+              </div>
+   
+              <div class="postWrap">
+                   
+                   <a href="http://www.chicagogrid.com/news/ice3-octagon-mode/"><img alt="Chatter Image" title="Chatter Image" src="http://www.chicagogrid.com/wp-content/uploads/2013/06/icethumb.png" /></a>
+                   
+                   
+                  <div class="post">
+                    <h1><a href="http://www.chicagogrid.com/news/ice3-octagon-mode/">Ice3 finds one way to keep an ice cream food truck afloat through winter</a></h1>
+                    <!--<p><a href="mailto:madeline@chicagogrid.com">MADELINE SKAGGS</a></p>-->
+                    <span><a href="http://www.chicagogrid.com/category/news/">News</a></span>
+                  </div>
+              </div>
+   
+              <div class="postWrap">
+                   
+                   <a href="http://www.chicagogrid.com/news/years-bankruptcy-moo-oink-expands/"><img alt="Chatter Image" title="Chatter Image" src="http://www.chicagogrid.com/wp-content/uploads/2013/09/moothumb.jpg" /></a>
+                   
+                   
+                  <div class="post">
+                    <h1><a href="http://www.chicagogrid.com/news/years-bankruptcy-moo-oink-expands/">Two years after bankruptcy, Moo &#038; Oink expands</a></h1>
+                    <!--<p><a href="mailto:madeline@chicagogrid.com">MADELINE SKAGGS</a></p>-->
+                    <span><a href="http://www.chicagogrid.com/category/news/">News</a></span>
+                  </div>
+              </div>
+   
+<!-- wpv-loop-end -->
+
+
+
+        </article>
+
+        <article>
+          <header>grid chatter</header>
+           <a class="twitter-timeline"  href="https://twitter.com/Grid_Chicago"  data-widget-id="298524377534824448">Tweets by @Grid_Chicago</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </article>
+
+<div id="ad-position-2" class="top20">
+  <script type="text/javascript"> OAS_AD("Middle");</script>
+</div>
+<div style="clear:both;"></div>
+<div id="ad-position-3" class="top20">
+   <script type="text/javascript"> OAS_AD("Middle3");</script>
+</div>
+    </aside>
+          
+          
+          <div class="clearfix"></div>
+        </div> <!-- intWrap END -->
+      </div> <!-- mezzoWrap END -->
+
+	     <footer>
+        <div id="copyright">
+            <div id="wrapports"></div>
+            <div id="grid-chicago"> </div>
+            <div class="clearfix"></div>
+	    			<div id="copyright_left">
+	    				<span id="rights-reserved">Copyright &copy; 2013.   ChicagoGrid.  All Rights Reserved.</span>  A Wrapports Publication | <a href="http://www.chicagogrid.com/terms/" title="Terms of Use">Terms of Use</a> | <a href="http://www.chicagogrid.com/privacy-policy/" title="Privacy Policy">Privacy Policy</a>  | <a href="http://www.chicagogrid.com/submission-guidelines/" title="Submission Guidelines">Submission Guidelines</a>  | <a href="http://www.chicagogrid.com/about-us/" title="About Us">About Us</a>
+	    			</div>
+	    		</div>
+        <div class="clearfix"></div>
+      </footer>
+    </div> <!-- extWrap END -->
+   <!-- <script src="http://www.chicagogrid.com/wp-content/themes/Grid-28/js/gigya/share-bar-responsive.js" type="text/javascript"></script> -->
+   		<script src="http://www.chicagogrid.com/wp-content/themes/Grid-28/js/fixed-allpages.js"></script> 
+		<div id="su-footer-links" style="text-align: center;"></div><script type='text/javascript' src='http://www.chicagogrid.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.chicagogrid.com/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.9.2'></script>
+    
+
+  </body>
+</html>
+
+
+
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Database Caching 22/38 queries in 0.045 seconds using disk
+Object Caching 2180/2194 objects using disk
+
+ Served from: www.chicagogrid.com @ 2013-09-30 08:24:01 by W3 Total Cache -->

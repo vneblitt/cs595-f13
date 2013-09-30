@@ -1,0 +1,2731 @@
+<!DOCTYPE html>
+<html b:version='2' class='v2' dir='ltr' lang='en' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<title>
+Official Blog: Zero Makes Counting a Billion Times More Fun
+</title>
+<link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&lang=en' rel='stylesheet'/>
+<link type='text/css' rel='stylesheet' href='//www.blogger.com/static/v1/widgets/2220499320-widget_css_2_bundle.css' />
+<link type='text/css' rel='stylesheet' href='//www.google.com/uds/css/gsearch.css' />
+<link type='text/css' rel='stylesheet' href='//www.blogger.com/dyn-css/authorization.css?targetBlogID=8913912091036362264&amp;zx=41ade7ca-5f8d-4c2d-95d4-c30b5c8fc127&quot;/&gt;
+' />
+<style id='page-skin-1' type='text/css'><!--
+/*
+<Group description="Header Color" selector="header">
+<Variable name="header.background.color" description="Header Background"
+type="color" default="#f5f5f5"/>
+</Group>
+*/
+.header-outer {
+background: #8a191b;
+}
+html, .Label h2, #sidebar .rss a, .BlogArchive h2 {
+font-family: arial,sans-serif !important;
+}
+h1, h2 {
+font-family: 'open sans',arial,sans-serif !important;
+}
+.widget .post h2.title{
+font-family: arial,sans-serif !important;
+}
+.Header h1.title {
+font-family: 'open sans',arial,sans-serif !important;
+}
+.widget-item-control {
+height: 100%;
+}
+.followgooglewrapper {
+padding: 12px !important;
+text-align: left !important;
+}
+.Header h1 {
+font-size: 45px !important;
+font-weight: 100;
+background: url("//lh6.googleusercontent.com/-yvkuYrhPZ_s/UXEE1yuBbEI/AAAAAAAAMHw/M4O0htqdVQo/h120/youtube_blog_logo.png");
+background-repeat: no-repeat;
+height: 45px !important;
+padding-left: 140px;
+color: #fff;
+padding-top: 8px
+}
+.Header .description {
+color: #c7b5b4;
+font-size: 14px;
+font-family: arial,sans-serif;
+}
+.widget.Header {
+background: url("http://4.bp.blogspot.com/-bBftF3Wi7b4/UXe9glfoB9I/AAAAAAAAMJQ/pVhH0hlyUHw/s1600/header-image.png");
+background-repeat: no-repeat;
+background-position: right;
+height: 150px;
+}
+.header-outer {
+background-image: -moz-linear-gradient(top, #b42521, #8a191b);
+background-image: -webkit-linear-gradient(top, #b42521, #8a191b);
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #b42521), color-stop(1, #8a191b));
+filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#b42521, EndColorStr=#8a191b)";
+background-image: linear-gradient(top, #b42521, #8a191b);
+}
+.footer-inner-2 .HTML ul {
+list-style: disc !important;
+padding: 0 0 0 1.25em !important;
+}
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+.header-outer {
+clear: both;
+}
+.header-inner {
+max-width: 978px;
+margin: auto;
+height: 150px;
+padding: 0px;
+}
+.footer-outer {
+background: #f9f9f9;
+clear: both;
+margin: 0;
+}
+.footer-inner {
+max-width: 978px;
+margin: auto;
+padding: 0px;
+}
+.footer-inner-2 {
+max-width: 700px;
+min-width: 678px;
+}
+.google-footer-outer {
+background: #f5f5f5;
+clear: both;
+border-top: 1px solid #eee;
+}
+.cols-wrapper {
+min-width: 678px;
+max-width: 978px;
+margin: auto;
+clear: both;
+margin-top: 60px;
+margin-bottom: 60px;
+}
+.col-main-wrapper {
+float: left;
+width: 100%;
+}
+.col-main {
+margin-right: 278px;
+min-width: 400px;
+max-width: 700px;
+}
+.col-right {
+float: right;
+width: 248px;
+margin-left: -278px;
+}
+/* Tweaks for layout mode. */
+body#layout .google-footer-outer {
+display: none;
+}
+body#layout .header-outer, body#layout .footer-outer {
+background: none;
+}
+body#layout .header-inner {
+height: initial;
+}
+body#layout .cols-wrapper {
+margin-top: initial;
+margin-bottom: initial;
+}
+--></style>
+<!-- start all head -->
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<script type="text/javascript">(function() { var b=window,e="jstiming",g="tick";(function(){function d(a){this.t={};this.tick=function(a,d,c){c=void 0!=c?c:(new Date).getTime();this.t[a]=[c,d]};this[g]("start",null,a)}var a=new d;b.jstiming={Timer:d,load:a};if(b.performance&&b.performance.timing){var a=b.performance.timing,c=b[e].load,f=a.navigationStart,a=a.responseStart;0<f&&a>=f&&(c[g]("_wtsrt",void 0,f),c[g]("wtsrt_","_wtsrt",a),c[g]("tbsd_","wtsrt_"))}try{a=null,b.chrome&&b.chrome.csi&&(a=Math.floor(b.chrome.csi().pageT),c&&0<f&&(c[g]("_tbnd",void 0,b.chrome.csi().startE),
+c[g]("tbnd_","_tbnd",f))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,c&&0<f&&(c[g]("_tbnd",void 0,b.external.startE),c[g]("tbnd_","_tbnd",f))),a&&(b[e].pt=a)}catch(l){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[e].load[g]("aft")};var h=!1;function k(){h||(h=!0,b[e].load[g]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",k,!1):b.attachEvent("onscroll",k);
+ })();</script>
+<meta content='blogger' name='generator'/>
+<link href='http://youtube-global.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://youtube-global.blogspot.com/2013/03/zero-makes-counting-billion-times-more.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Official Blog - Atom" href="http://youtube-global.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Official Blog - RSS" href="http://youtube-global.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Official Blog - Atom" href="http://www.blogger.com/feeds/8913912091036362264/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="Official Blog - Atom" href="http://youtube-global.blogspot.com/feeds/2783194124048682698/comments/default" />
+<!--[if IE]><script type="text/javascript" src="//www.blogger.com/static/v1/jsbin/4163410827-ieretrofit.js"></script>
+<![endif]-->
+<link rel="image_src" href="http://img.youtube.com/vi/0sEUdmtyJ3U/default.jpg" />
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<!-- end all head -->
+<base target='_self'/>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+      //<![CDATA[
+      $(document).ready(function() {
+        $(".BlogArchive h2").click(function (event) {
+          event.preventDefault();
+          $(this).siblings().slideToggle(200);
+        });
+        $(".Label h2").click(function (event) {
+          event.preventDefault();
+          $(this).siblings().slideToggle(200);
+        });
+      });
+      //]]>
+</script>
+<style>
+      #navbar {
+        display:none;
+      }
+
+      html {
+        font-family: 'open sans',arial,sans-serif;
+        color: #444;
+      }
+      h2 {
+        font-size: 16px;
+      }
+      h1, h2, h3, h4, h5 {
+        line-height: 2em;
+      }
+      html, h4, h5, h6 {
+        font-size: 13px;
+      }
+      a {
+        color: #245dc1;
+        text-decoration: none;
+      }
+      a:visited {
+        color: #7759ae;
+      }
+      a:focus, a:hover, a:active {
+        text-decoration: underline;
+      }
+
+      .Header {
+        margin-top: 15px;
+      }
+      .Header h1 {
+        font-size: 32px;
+        font-weight: 300;
+        line-height: 32px;
+        height: 42px;
+      }
+      .Header a {
+        color: #444;
+      }
+      .header-inner .Header .titlewrapper {
+        padding: 0;
+        margin-top: 30px;
+      }
+      .header-inner .Header .descriptionwrapper {
+        padding: 0;
+        margin: 0;
+      }
+
+      .sig {
+        min-width: 678px;
+        max-width: 978px;
+        margin: auto;
+        height: 4px;
+      }
+      .sig:before, [dir="rtl"] .sig:after {
+        border-left: 35px solid #ffa900;
+        border-right: 34px solid #00a753;
+      }
+      .sig:after, [dir="rtl"] .sig:before {
+        border-left: 34px solid #0089fa;
+        border-right: 35px solid #ff002b;
+      }
+      .sig:after, .sig:before {
+        content: "";
+        float: right;
+        height: 4px;
+      }
+
+      #google-footer {
+        padding: 10px 0;
+        font-size: 11px;
+        list-style: none;
+        max-width: 978px;
+        margin: auto;
+      }
+      #google-footer ul {
+        margin: 0;
+        padding: 0;
+        height: 24px;
+        line-height: 24px;
+      }
+      #google-footer ul li {
+        display: inline;
+      }
+      #google-footer ul li:before {
+        content: "\00b7";
+        margin: 5px;
+      }
+      #google-footer ul li:first-child::before {
+        content: initial;
+      }
+
+      .footer-inner-2 {
+        padding-top: 15px;
+        padding-bottom: 35px;
+      }
+
+      .footer-inner-2 .HTML h2 {
+        font-size: 13px;
+        font-weight: normal;
+        padding-left: 0;
+        margin: 10px 0;
+      }
+      .footer-inner-2 .HTML ul {
+        font-size: 13px;
+        font-weight: normal;
+        padding-left: 0;
+      }
+      .footer-inner-2 .HTML ul {
+        list-style:none;
+      }
+
+      .BlogArchive {
+        font-size: 13px;
+        font-weight: normal;
+      }
+      .BlogArchive h2 {
+        background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAYAAADzoH0MAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAE1JREFUeNpiNDY23s9AAWBioBCwYBM8c+YMVsUmJibEGYBNMS5DaeMFfDYSZQA2v9I3FrB5AZeriI4FmnrBccCT8mhmGs1MwyAzAQQYAKEWG9zm9QFEAAAAAElFTkSuQmCC");
+        background-repeat: no-repeat;
+        background-position: 0 50%;
+        text-indent: 30px;
+      }
+      .BlogArchive .widget-content {
+        display: none;
+      }
+
+      .BlogArchive h2, .Label h2 {
+        color: #245dc1;
+        text-decoration: none;
+        display: inline-block;
+      }
+      .BlogArchive h2:focus, .BlogArchive h2:hover, .Label h2:focus, .Label h2:hover {
+        text-decoration: underline;
+        cursor: pointer;
+      }
+      .Label {
+        font-size: 13px;
+        font-weight: normal;
+      }
+      .Label h2 {
+        background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUxJREFUeNpiNDY23s9AAMycOfM7UF05kHkZmzwTMkdSUhKrIcXFxZy3bt3qBjIN8RrS09PDsHnzZjCNDr58+cKQlpbGDjSoHcg1w2oIyAUODg5gARCNzUVIBrUCuVYYhjx//pzhwIEDYAEQDeJjA1CDWIAGNQK59jBxRuSABbkAlwHIgIeHh2HWrFn/1NTU2oDcvSgBS4wBSC5iArqoCsj1YGIgEyAZVMoEchqlBjEB/cZAiUHg2AEGznpKDAImxOeM////B4VLKtBvEUCngZ1ILKivr3/u6+ubBzJAGZQ9gC5aQoqLgAY8BhkAZL4BuQQkxgXE34A4BuiiZEIuAhrwEGhAEZD5DpzYoIaA2UAM4kQADUrHZRDUgAIg8wO2XAwzbQXQa5OweQ1owB10AyA6gS7BgX1u3ry5397eHow3bdo0EyjGi00tQIABANPgyAH1q1eaAAAAAElFTkSuQmCC");
+        background-repeat: no-repeat;
+        background-position: 0 50%;
+        text-indent: 30px;
+      }
+      .Label .widget-content {
+        display: none;
+      }
+
+      .FollowByEmail {
+        font-size: 13px;
+        font-weight: normal;
+      }
+      .FollowByEmail h2 {
+        background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAALCAYAAACZIGYHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUBJREFUeNrMkSGLAlEUhb+ZB4JFi8mx2cz+ApvhRUGTcUCrNqNJDYIi+DO0GUwmQXDK2DSIoGgZcSaIjDrzwrK4ssvChj1w0733O+fdp+m6PozH4yQSCfb7Pa7r8pOi0SjJZBLP8zgej4gAIMvlMuPxmADIYrHger1+C6lUKmo+NJ/NZojb7SZDWiwWo1qtks1msW2bw+HwZdkwDHq9HvV6nel0SqvVYrvdIh6Ph3Qch+VyqRYLhQJSSjRNw7IsfN9XgGKxSLfbJZfL0e/3aTabrFYr7vc7IujLcOh8PqunrNdr0uk0pVKJVCpFJBJRgEajweVyod1uMxgM2O12BAGUgRbU8DV2JpOhVquRz+cRQii3+XxOp9NRN3jVR5LPOp1OjEYjlSL8hclkgmmabDabt4d+m+S30vkD/R/IU4ABAPTZgnZdmG/PAAAAAElFTkSuQmCC");
+        background-repeat: no-repeat;
+        background-position: 0 50%;
+        text-indent: 30px;
+      }
+      .FollowByEmail .widget-content {
+        display: none;
+      }
+
+      .CustomSearch td.gsc-input {
+        padding-right: 20px;
+      }
+      .CustomSearch input.gsc-input {
+        padding: 6px 0;
+        margin: 0;
+      }
+      .CustomSearch td.gsc-search-button {
+        background-image: -webkit-linear-gradient(top,rgba(226,226,226,.14),rgba(34,34,34,.14));
+        background-color: #5e94ff;
+        border: 1px solid #5e94ff;
+        border-radius: 2px;
+        width: 45px;
+      }
+      .CustomSearch input.gsc-search-button {
+        text-indent: -9999px;
+        background: url("data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAQtJREFUeNpi/P//PwMlgAmLWBQQrwDip0D8EIiXAnEgThNALkDC8//jBnPQ1IIxMicZpOrv378/du/e3R8UFBQSGRkZdvjw4alAsd9QQ0LwGbALpGLr1q3tQIdJATE7EHMAseyhQ4cmQQ1Yh8sAdqjtvz08PBTQvVlUVKQPNeA1ugEogcjIyPg/MDDwKboBvr6+MDE2fIF4AGTFnz9/EtHV/Pr1qxDqgi0EA/Hfv39fgFQCEPMDsSgQZwLFvj99+hQciOiWo0fLIjzR+B8auFL4DIC5BOTUj9BAA4V8FFQDskFg9YzEJmVgADP8R1IM5EsDuc9IMgDmCmRhJlIzDyPMJBifFrmRJAAQYABIl4BFtRdyJgAAAABJRU5ErkJggg==") center center no-repeat;
+        display: block;
+        margin: auto;
+        border: none;
+        height: 100%;
+      }
+
+      .widget-item-control {
+        margin-top: 0px;
+      }
+
+      .section {
+        margin: 0;
+        padding: 0 20px;
+      }
+
+      #sidebar-top {
+        border: 1px solid #ebebeb;
+      }
+      #sidebar-top .widget {
+        margin: 15px 0;
+      }
+
+      .widget ul {
+        line-height: 1.6;
+      }
+      .CustomSearch .title {
+        display: none;
+      }
+      /*main post*/
+      #maia-main {
+        margin-top:60px;
+      }
+      .post {
+        margin-bottom:30px;
+      }
+      #main .post .title {
+        margin:0 0 1.0em 0/*2.100em 0 .900em*/;
+      }
+      #main .post .title a {
+        color: #444;
+        font-weight: bold;
+        font-size:21px;
+      }
+      #main .post .title a:hover {
+        text-decoration:none;
+        color:#9d9d9d;
+      }
+      .message,  #main .post .post-header {
+        border-bottom: solid 1px #ebebeb;
+        border-top: solid 1px #ebebeb;
+        height: 40px;
+        line-height: 40px;
+        margin: 10px 0;
+        padding: 0;
+      }
+      #main .post .post-header .caption, #main .post .post-header .labels-caption,  #main .post .post-footer .caption, #main .post .post-footer .labels-caption {
+        color: #444;
+        font-weight:bold;
+      }
+      #main .post .post-header .published{
+        font-size:11px;
+        font-weight:bold;
+      }
+      #main .post .post-header .publishdate{
+        font-weight:normal;
+        color:#656565;
+      }
+      #main .post .post-footer{
+        font-size:12px;
+      }
+      #main .post .post-header .published {
+        float: left;
+      }
+      #main .post .post-header .share {
+        float: right;
+        margin-top: 5px;
+      }
+      #main .post .post-header .share .fb-like {
+        display:inline;
+        position:relative;
+        top:-2px;
+      }
+      #main .post .post-content {
+        margin: 25px 0;
+        line-height:1.6;
+      }
+      #main .post .jump-link {
+        margin-bottom:10px;
+      }
+      .post-content img, .post-content iframe {
+        margin: 20px  0;
+      }
+      #aside {
+        background:#f9f9f9;
+        border:1px solid #ebebeb;
+        border-width:1px 1px 0;
+      }
+
+      #aside .widget {
+        margin:0;
+      }
+      #aside .widget h2 {
+        margin:0;
+      }
+
+      #sidebar .widget h2 {
+        font-size: 13px;
+        font-weight: normal;
+      }
+      #sidebar .widget .BlogArchive {
+        padding-bottom: 8px;
+      }
+      #sidebar .widget {
+        border-bottom: 1px solid #EBEBEB;
+        box-shadow: 0px 1px 0 white;
+        margin-bottom: 0;
+        padding: 12px 0;
+        min-height: 20px;
+      }
+      #sidebar .widget:last-child {
+        border-bottom: none;
+        box-shadow: none;
+        margin-bottom: 0;
+      }
+
+      #sidebar ul {
+        margin: 0;
+        padding: 0;
+      }
+      #sidebar ul li {
+        list-style:none;
+        padding:0;
+      }
+      #sidebar ul li a, #sidebar .expander {
+        color: #0055cd!important;
+        font-weight: normal!important;
+        background-color: transparent;
+        background-repeat: no-repeat;
+        background-position: left center;
+        display: inline-block;
+        min-height: 20px;
+        line-height: 20px;
+        padding-left: 30px;
+        -moz-transition: all 0.25s ease-out;
+        -webkit-transition: all 0.25s ease-out;
+        transition: all 0.25s ease-out;
+      }
+      #sidebar ul li:hover a, #sidebar .expander:hover {
+        margin-left: 0;
+        text-decoration: underline;
+      }
+      .expander{
+        cursor:pointer;
+      }
+      #sidebar .rss a, #sidebar .subscription a {
+        font-size: 1em;
+      }
+      #sidebar .archive, #sidebar .labels, #sidebar .rss, #sidebar .subscription {
+        background-repeat: no-repeat;
+        background-position: 0px 0;
+      }
+      #sidebar .archive {
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAYAAADzoH0MAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAE1JREFUeNpiNDY23s9AAWBioBCwYBM8c+YMVsUmJibEGYBNMS5DaeMFfDYSZQA2v9I3FrB5AZeriI4FmnrBccCT8mhmGs1MwyAzAQQYAKEWG9zm9QFEAAAAAElFTkSuQmCC");
+        height: 24px;
+        line-height: 24px;
+        padding-left: 30px;
+      }
+      #sidebar .labels {
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUxJREFUeNpiNDY23s9AAMycOfM7UF05kHkZmzwTMkdSUhKrIcXFxZy3bt3qBjIN8RrS09PDsHnzZjCNDr58+cKQlpbGDjSoHcg1w2oIyAUODg5gARCNzUVIBrUCuVYYhjx//pzhwIEDYAEQDeJjA1CDWIAGNQK59jBxRuSABbkAlwHIgIeHh2HWrFn/1NTU2oDcvSgBS4wBSC5iArqoCsj1YGIgEyAZVMoEchqlBjEB/cZAiUHg2AEGznpKDAImxOeM////B4VLKtBvEUCngZ1ILKivr3/u6+ubBzJAGZQ9gC5aQoqLgAY8BhkAZL4BuQQkxgXE34A4BuiiZEIuAhrwEGhAEZD5DpzYoIaA2UAM4kQADUrHZRDUgAIg8wO2XAwzbQXQa5OweQ1owB10AyA6gS7BgX1u3ry5397eHow3bdo0EyjGi00tQIABANPgyAH1q1eaAAAAAElFTkSuQmCC");
+        height: 20px;
+        line-height: 20px;
+        padding-left: 30px;
+      }
+      #sidebar .rss a {
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAX5JREFUeNqsVDGSgkAQHL2rIiIikohIc/EBRkbwAIwuwgfwAXiAD9AHSI7kEkECRCb6AIyINDLx7K0aa6kT7uq0q7YYtnZ7umdnt7darXbr9Zpegeu61DNNc0dvwCcH4/GYJpMJnc9nOhwOVJbl/4hAAokMECZJQtvt9k+kH7qufyEYDAakqqqYxFdRFBqNRmTbNg2HQ0rTlK7XayvR0xqBdDqdkuM4dE/0ULhYLOh4PHYrknG5XGi/31MYhuL/nkwonM1mlGUZ1XXdrsiyLGEDhY7juJEZ1u5tIixDGdYhmYw+B7CAzPP5nDabjdgIAgCksMX1832/3drtdqPT6SQWapomiGEFNkDEdpDMMAzK81ys/7XYy+XyoQgq2WoURSIJ2iIIgp/WZCCTvFm2wgeAU31aI3Q2GhIDMeB53qPYPIcm5VrxXIOIOxsDMStjVawAc1VViRgN22lNBiuQN3GR+SY07hpOoStmFQAKXRRFY93bnpG+fONfedi+BRgAbkS8Fxp7QQIAAAAASUVORK5CYII=");
+      }
+      #sidebar .subscription a {
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAALCAYAAACZIGYHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUBJREFUeNrMkSGLAlEUhb+ZB4JFi8mx2cz+ApvhRUGTcUCrNqNJDYIi+DO0GUwmQXDK2DSIoGgZcSaIjDrzwrK4ssvChj1w0733O+fdp+m6PozH4yQSCfb7Pa7r8pOi0SjJZBLP8zgej4gAIMvlMuPxmADIYrHger1+C6lUKmo+NJ/NZojb7SZDWiwWo1qtks1msW2bw+HwZdkwDHq9HvV6nel0SqvVYrvdIh6Ph3Qch+VyqRYLhQJSSjRNw7IsfN9XgGKxSLfbJZfL0e/3aTabrFYr7vc7IujLcOh8PqunrNdr0uk0pVKJVCpFJBJRgEajweVyod1uMxgM2O12BAGUgRbU8DV2JpOhVquRz+cRQii3+XxOp9NRN3jVR5LPOp1OjEYjlSL8hclkgmmabDabt4d+m+S30vkD/R/IU4ABAPTZgnZdmG/PAAAAAElFTkSuQmCC");
+      }
+      #sidebar-bottom {
+        background:#f6f6f6;
+        border-top:1px solid #ebebeb;
+      }
+      #sidebar-bottom .widget {
+        border-bottom: 1px solid #ebebeb;
+        padding: 15px 0;
+      }
+
+
+      .expand-content {
+        display: none;
+      }
+      .default-blog-footer ul {
+        padding: 0;
+      }
+      .default-blog-footer li {
+        list-style: none;
+      }
+      .blog-pager {
+        border-top : 1px #ebebeb solid;
+        padding-top: 10px;
+        margin-top: 15px;
+      }
+      .blog-pager-older-link, .home-link, .blog-pager-newer-link {
+        padding: 5px;
+      }
+      .followgooglewrapper {
+        text-align: center;
+        margin: 0 auto;
+        padding: 12px 0 0 0;
+      }
+      .youtubewrapper {
+        text-align: center;
+        margin: 0 auto;
+      }
+    </style>
+<script type="text/javascript">var a=navigator,b="userAgent",c="indexOf",f="&m=1",g="(^|&)m=",h="?",k="?m=1";function l(){var d=window.location.href,e=d.split(h);switch(e.length){case 1:return d+k;case 2:return 0<=e[1].search(g)?null:d+f;default:return null}}if(-1!=a[b][c]("Mobile")&&-1!=a[b][c]("WebKit")&&-1==a[b][c]("iPad")||-1!=a[b][c]("Opera Mini")||-1!=a[b][c]("IEMobile")){var m=l();m&&window.location.replace(m)};
+</script><script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('headEnd');
+</script></head>
+<body>
+<div class='navbar section' id='navbar'><div class='widget Navbar' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+        gapi.load("iframes-styles-bubble", function() {
+          if (window.iframes && iframes.open) {
+            iframes.open(
+                '//www.blogger.com/navbar.g?targetBlogID\758913912091036362264\46blogName\75Official+Blog\46publishMode\75PUBLISH_MODE_BLOGSPOT\46navbarType\75BLUE\46layoutType\75LAYOUTS\46searchRoot\75http://youtube-global.blogspot.com/search\46blogLocale\75en\46v\0752\46homepageUrl\75http://youtube-global.blogspot.com/\46targetPostID\0752783194124048682698\46blogPostOrPageUrl\75http://youtube-global.blogspot.com/2013/03/zero-makes-counting-billion-times-more.html\46blogFollowUrl\75https://plus.google.com/115229808208707341778\46vt\0751631331148541687996',
+                {
+                  container: "navbar-iframe-container",
+                  id: "navbar-iframe"
+                },
+                {
+                });
+          }
+        });
+      </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<!-- Header -->
+<div class='header-outer'>
+<div class='header-inner'>
+<div class='section' id='header'><div class='widget Header' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+<a href='http://youtube-global.blogspot.com/'>Official Blog</a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>What's happening on YouTube</span></p>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<!-- all content wrapper start -->
+<div class='cols-wrapper'>
+<div class='col-main-wrapper'>
+<div class='col-main'>
+<div class='section' id='main'><div class='widget Blog' id='Blog1'>
+<div class='post' data-id='2783194124048682698' itemscope='' itemtype='http://schema.org/BlogPosting'>
+<h2 class='title' itemprop='name'>
+<a href='http://youtube-global.blogspot.com/2013/03/zero-makes-counting-billion-times-more.html' itemprop='url' title='Zero Makes Counting a Billion Times More Fun'>
+Zero Makes Counting a Billion Times More Fun
+</a></h2>
+<div class='post-header'>
+<div class='published'><span class='caption'>Posted:</span>
+<span class='publishdate' itemprop='datePublished'>Wednesday, March 6, 2013</span>
+</div>
+<div class='share'>
+<span class='gplus-wrapper'>
+<div class='g-plusone' data-href='http://youtube-global.blogspot.com/2013/03/zero-makes-counting-billion-times-more.html' data-size='medium'></div>
+</span>
+<a class='twitter-share-button' data-lang='en' data-url='http://youtube-global.blogspot.com/2013/03/zero-makes-counting-billion-times-more.html' href='https://twitter.com/share'>Tweet</a>
+<iframe allowTransparency='true' frameborder='0' scrolling='no' src='http://www.facebook.com/plugins/like.php?href=http://youtube-global.blogspot.com/2013/03/zero-makes-counting-billion-times-more.html&layout=button_count&show_faces=false&width=77&action=like&colorscheme=light&height=20' style='border:none; overflow:hidden; width:77px; height:20px;'></iframe>
+</div>
+</div>
+<div class='post-content' itemprop='articleBody'>
+<i>Occasionally, we invite special guests to share their thoughts on the YouTube Blog. Today, <a href="http://www.youtube.com/user/SesameStreet">Sesame Street</a> became the first nonprofit to reach 1 billion channel views on YouTube.  In honor of that achievement, we bring you a guest post from the Count Von Count about the number zero.</i><br />
+<br />
+Greetings, it is I, the Count Von Count from Sesame Street.  It is a pleasure to be blogging to you today because when I blog I get to count the words.  That is 31, 31 wonderful words in my blog post, ah-ha-ha.<br />
+<br />
+Today I want to pay tribute to one of my favorite numbers.  What number is it? I am glad you asked.  Today I pay tribute to the number zero.  A surprising number, I know.  For when you have zero there is nothing to count.  So why do I, a person who loves to count, love the number zero?<br />
+<br />
+Well, for one thing, zero comes in very handy when there is nothing around to count.  For you can count zero of that thing.  Like right now, as I look around the castle, I count zero elephants, zero airplanes, and zero Justin Bieber CDs.  Wonderful.<br />
+<br />
+But that is not the only reason to love zero.  For you see zero can make a little number much bigger.  How?   Like so&#8212;say you have a little number 1, a very nice number indeed.  But, when you take that one and put a zero next to it, all of a sudden you have 10, 10 wonderful things to count.  1, 2, 3, 4, 5, 6, 7, 8, 9, 10 &#8211; ten little fingers on your hands.  1, 2, 3, 4, 5, 6, 7, 8, 9, 10 &#8211; ten little toes on your feet. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 &#8211; ten little hot dogs in the meat drawer of my refrigerator.  Oh! I love counting to ten.<br />
+<br />
+But that is not all that zero can do.   Take that 10 and put another zero on the end, and suddenly you have 100.  100 is a glorious number to count.    I can count 100 seats in a movie theater; I count 100 golf balls at the golf course.  I count 100 senators in the U.S. Senate. I love counting to 100!<br />
+<br />
+Now what if you take that 100 and place another glorious zero beside it? Then all of a sudden you have 1,000.  1,000 is an extraordinary number to count.  You can count 1,000 seashells on the seashore, 1,000 paperclips in Bert&#8217;s paperclip collection, 1,000 hairs growing out of your uncle&#8217;s ear.  I love counting to 1,000!<br />
+<br />
+Let&#8217;s not stop there!  Let&#8217;s add three zeros to that 1,000 and all of a sudden we have 1,000,000 things to count.    Have you ever counted to 1 million?  I did.  When I worked for the census bureau in Rhode Island. You should try it one time, or every four years, your choice.<br />
+<br />
+Now take that 1,000,000 and add three more wonderful zeroes and what do you get? I&#8217;ll tell you: you get a number so big, so great, and so huge! When you have nine zeroes after a 1 you get the number 1,000,000,000.  Yes 1 billion things to count!  And it is all thanks to that lovely number zero.  Thank you, zero, you make counting a billion times more fun.   By the way, that is 510 words, 512, 513, 514 &#8230; 515 words in my YouTube blog post!  Ah-ha-ha!<br />
+<br />
+<br />
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/0sEUdmtyJ3U" width="560"></iframe>
+
+<i><br /></i>
+<i><br /></i>
+<i>Count Von Count recently watched <a href="http://www.youtube.com/watch?v=i5uR3FxBGd8">"Sesame Street: Pinball #12 New"</a></i>
+</div>
+<div class='post-footer'>
+<span class='labels-caption'>Labels:</span>
+<span class='labels'>
+<a class='label' href='http://youtube-global.blogspot.com/search/label/1%20billion' rel='tag'>1 billion</a>,
+<a class='label' href='http://youtube-global.blogspot.com/search/label/Count%20Von%20Count' rel='tag'>Count Von Count</a>,
+<a class='label' href='http://youtube-global.blogspot.com/search/label/Sesame%20Street' rel='tag'>Sesame Street</a>
+</span>
+<span class='post-comment-link'>
+</span>
+</div>
+<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
+<div class='cmt_iframe_holder' data-href='http://youtube-global.blogspot.com/2013/03/zero-makes-counting-billion-times-more.html' data-viewtype='FILTERED_POSTMOD'></div>
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='http://youtube-global.blogspot.com/2013/03/meet-your-march-2013-on-rise-nominees.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>Newer Post</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://youtube-global.blogspot.com/2013/03/the-2013-dogooder-video-awards-open-for.html' id='Blog1_blog-pager-older-link' title='Older Post'>Older Post</a>
+</span>
+<a class='home-link' href='http://youtube-global.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='col-right'>
+<div class='section' id='sidebar-top'><div class='widget CustomSearch' id='CustomSearch1'>
+<h2 class='title'>Search This Blog</h2>
+<div class='widget-content'>
+<div id='CustomSearch1_form'>
+<span class='cse-status'>Loading...</span>
+</div>
+</div>
+<style type='text/css'>
+      #uds-searchControl .gs-result .gs-title,
+      #uds-searchControl .gs-result .gs-title *,
+      #uds-searchControl .gsc-results .gsc-trailing-more-results,
+      #uds-searchControl .gsc-results .gsc-trailing-more-results * {
+        color:#00c;
+      }
+
+      #uds-searchControl .gs-result .gs-title a:visited,
+      #uds-searchControl .gs-result .gs-title a:visited * {
+        color:#00c;
+      }
+
+      #uds-searchControl .gs-relativePublishedDate,
+      #uds-searchControl .gs-publishedDate {
+        color: #6f6f6f;
+      }
+
+      #uds-searchControl .gs-result a.gs-visibleUrl,
+      #uds-searchControl .gs-result .gs-visibleUrl {
+        color: #00c;
+      }
+
+      #uds-searchControl .gsc-results {
+        border-color: #6f6f6f;
+        background-color: #fff;
+      }
+
+      #uds-searchControl .gsc-tabhActive {
+        border-color: #6f6f6f;
+        border-top-color: #6f6f6f;
+        background-color: #fff;
+        color: #000;
+      }
+
+      #uds-searchControl .gsc-tabhInactive {
+        border-color: #6f6f6f;
+        background-color: transparent;
+        color: #00c;
+      }
+
+      #uds-searchClearResults {
+        border-color: #6f6f6f;
+      }
+
+      #uds-searchClearResults:hover {
+        border-color: #6f6f6f;
+      }
+
+      #uds-searchControl .gsc-cursor-page {
+        color: #00c;
+      }
+
+      #uds-searchControl .gsc-cursor-current-page {
+        color: #000;
+      }
+    </style>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8913912091036362264&widgetType=CustomSearch&widgetId=CustomSearch1&action=editWidget&sectionId=sidebar-top' onclick='return _WidgetManager._PopupConfig(document.getElementById("CustomSearch1"));' target='configCustomSearch1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML7'>
+<div class='widget-content'>
+<script src="https://apis.google.com/js/plusone.js"></script>
+<div class="g-ytsubscribe" data-channel="YouTube" data-layout="full"></div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8913912091036362264&widgetType=HTML&widgetId=HTML7&action=editWidget&sectionId=sidebar-top' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML7"));' target='configHTML7' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<div id='aside'>
+<div class='section' id='sidebar'><div class='widget HTML' id='HTML11'>
+<div class='widget-content'>
+<ul>
+<li class="rss">
+<h2>
+<a href="//feeds.feedburner.com/youtube/PKJx">Feed</a>
+</h2>
+</li>
+</ul>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8913912091036362264&widgetType=HTML&widgetId=HTML11&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML11"));' target='configHTML11' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget BlogArchive' id='BlogArchive1'>
+<h2>Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>&#9660;&#160;</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/search?updated-min=2013-01-01T00:00:00-08:00&amp;updated-max=2014-01-01T00:00:00-08:00&amp;max-results=50'>2013</a>
+<span class='post-count' dir='ltr'>(63)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2013_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2013_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2013_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2013_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2013_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2013_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>&#9660;&#160;</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2013_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(7)</span>
+<ul class='posts'>
+<li><a href='http://youtube-global.blogspot.com/2013/03/youtube-contest-submissions-closing_31.html'>YouTube Contest Submissions Closing Tomorrow at Mi...</a></li>
+<li><a href='http://youtube-global.blogspot.com/2013/03/psychosoprano-is-your-march-featured.html'>PsychoSoprano is your March featured partner On Th...</a></li>
+<li><a href='http://youtube-global.blogspot.com/2013/03/onebillionstrong.html'>YouTube Hits a Billion Monthly Users</a></li>
+<li><a href='http://youtube-global.blogspot.com/2013/03/simon-cowell-and-ricky-gervais-on.html'>Simon Cowell and Ricky Gervais on YouTube</a></li>
+<li><a href='http://youtube-global.blogspot.com/2013/03/meet-your-march-2013-on-rise-nominees.html'>Meet Your March 2013 &#8220;On The Rise&#8221; Nominees</a></li>
+<li><a href='http://youtube-global.blogspot.com/2013/03/zero-makes-counting-billion-times-more.html'>Zero Makes Counting a Billion Times More Fun</a></li>
+<li><a href='http://youtube-global.blogspot.com/2013/03/the-2013-dogooder-video-awards-open-for.html'>The 2013 DoGooder Video Awards Open for Nomination...</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2013_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2013_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/search?updated-min=2012-01-01T00:00:00-08:00&amp;updated-max=2013-01-01T00:00:00-08:00&amp;max-results=50'>2012</a>
+<span class='post-count' dir='ltr'>(240)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2012_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2012_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2012_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2012_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2012_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2012_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2012_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2012_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2012_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2012_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2012_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2012_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/search?updated-min=2011-01-01T00:00:00-08:00&amp;updated-max=2012-01-01T00:00:00-08:00&amp;max-results=50'>2011</a>
+<span class='post-count' dir='ltr'>(349)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2011_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2011_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2011_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2011_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2011_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2011_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2011_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2011_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2011_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(34)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2011_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2011_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2011_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/search?updated-min=2010-01-01T00:00:00-08:00&amp;updated-max=2011-01-01T00:00:00-08:00&amp;max-results=50'>2010</a>
+<span class='post-count' dir='ltr'>(339)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2010_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2010_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2010_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(41)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2010_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2010_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2010_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2010_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2010_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2010_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2010_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2010_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2010_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/search?updated-min=2009-01-01T00:00:00-08:00&amp;updated-max=2010-01-01T00:00:00-08:00&amp;max-results=50'>2009</a>
+<span class='post-count' dir='ltr'>(284)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2009_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2009_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2009_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2009_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2009_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2009_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2009_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2009_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2009_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2009_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2009_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2009_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/search?updated-min=2008-01-01T00:00:00-08:00&amp;updated-max=2009-01-01T00:00:00-08:00&amp;max-results=50'>2008</a>
+<span class='post-count' dir='ltr'>(251)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2008_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2008_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2008_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2008_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2008_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2008_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2008_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2008_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2008_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2008_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2008_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2008_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/search?updated-min=2007-01-01T00:00:00-08:00&amp;updated-max=2008-01-01T00:00:00-08:00&amp;max-results=50'>2007</a>
+<span class='post-count' dir='ltr'>(131)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2007_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2007_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2007_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2007_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2007_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2007_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2007_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2007_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2007_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2007_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2007_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2007_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/search?updated-min=2006-01-01T00:00:00-08:00&amp;updated-max=2007-01-01T00:00:00-08:00&amp;max-results=37'>2006</a>
+<span class='post-count' dir='ltr'>(37)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2006_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2006_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2006_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2006_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2006_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2006_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2006_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2006_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2006_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2006_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2006_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2006_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/search?updated-min=2005-01-01T00:00:00-08:00&amp;updated-max=2006-01-01T00:00:00-08:00&amp;max-results=15'>2005</a>
+<span class='post-count' dir='ltr'>(15)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2005_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2005_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2005_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2005_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2005_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://youtube-global.blogspot.com/2005_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8913912091036362264&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Label' id='Label1'>
+<h2>Labels</h2>
+<div class='widget-content cloud-label-widget-content'>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/3D'>3D</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/4k'>4k</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/accessibility'>accessibility</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/account%20info'>account info</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/activism'>activism</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/ads'>ads</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/africa'>africa</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/annotations'>annotations</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/arts'>arts</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/awards'>awards</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/benefit'>benefit</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/betas'>betas</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/bizblog'>bizblog</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/blogs'>blogs</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/bulletins'>bulletins</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/buzz'>buzz</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/captions'>captions</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/celebrity%20playlists'>celebrity playlists</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/channels'>channels</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/chrome'>chrome</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/citizen%20journalism'>citizen journalism</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/citizen%20reporting'>citizen reporting</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/citizentube'>citizentube</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/comedy'>comedy</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/comments'>comments</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/community'>community</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/community%20guidelines'>community guidelines</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/contests'>contests</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/creator%27s%20corner'>creator&#39;s corner</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/creators'>creators</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/curators'>curators</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/customization'>customization</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/dance'>dance</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/design'>design</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/discovery'>discovery</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/doodle'>doodle</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/editor'>editor</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/education'>education</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/embeds'>embeds</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/entertainment'>entertainment</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/events'>events</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/facebook'>facebook</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/film'>film</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/flagging'>flagging</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/gaming'>gaming</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/gmail'>gmail</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/google'>google</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/google%20tv'>google tv</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/government'>government</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/grants'>grants</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/groups'>groups</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/guidelines'>guidelines</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/hd'>hd</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/help%20center'>help center</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/holidays'>holidays</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/homepage'>homepage</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/howto'>howto</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/inspiration'>inspiration</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/investment'>investment</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/jobs'>jobs</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/journalism'>journalism</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/life%20in%20a%20day'>life in a day</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/live%20stream'>live stream</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/marketing'>marketing</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/meetups'>meetups</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/mobile'>mobile</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/moderator'>moderator</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/movies'>movies</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/music'>music</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/musicians%20wanted'>musicians wanted</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/news'>news</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/nonprofits'>nonprofits</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/open-source'>open-source</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/partners'>partners</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/playlists'>playlists</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/policy'>policy</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/politics'>politics</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/privacy'>privacy</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/product%20update'>product update</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/quicklist'>quicklist</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/ratings'>ratings</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/rentals'>rentals</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/research'>research</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/safety'>safety</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/science%20and%20technology'>science and technology</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/screening%20room'>screening room</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/search'>search</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/sharing'>sharing</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/shows'>shows</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/social%20networks'>social networks</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/sports'>sports</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/staff'>staff</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/stats%20and%20data'>stats and data</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/store'>store</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/subscriptions'>subscriptions</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/tags'>tags</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/test%20tube'>test tube</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/travel'>travel</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/trends'>trends</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/tv'>tv</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/twitter'>twitter</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/upload'>upload</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/vevo'>vevo</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/video%20editing'>video editing</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/video%20production'>video production</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/video%20volunteers'>video volunteers</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/viral%20video'>viral video</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/youtube%20api'>youtube api</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://youtube-global.blogspot.com/search/label/youtube%20direct'>youtube direct</a>
+</span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8913912091036362264&widgetType=Label&widgetId=Label1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label1"));' target='configLabel1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' id='HTML10'>
+<div class='widget-content'>
+Give us feedback in our<br/>
+<a href="http://support.google.com/bin/static.py?hl=en&amp;page=portal_groups.cs">Product Forums</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8913912091036362264&widgetType=HTML&widgetId=HTML10&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML10"));' target='configHTML10' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML13'>
+<div class='widget-content'>
+<!-- G+ -->
+<div class="followgooglewrapper">
+<a href="https://plus.google.com/+youtube" rel="publisher" style="text-decoration:none;display:inline-block;color:#333;text-align:center; font:13px/16px arial,sans-serif;white-space:nowrap;">
+<span style="display:inline-block;font-weight:bold;vertical-align:top;margin-right:5px; margin-top:0px;">YouTube</span><span style="display:inline-block;vertical-align:top;margin-right:13px; margin-top:0px;">on</span>
+<img src="//ssl.gstatic.com/images/icons/gplus-16.png" alt="Google+" style="border:0;width:16px;height:16px;"/></a>
+</div>
+
+<!-- Twitter -->
+<div class="followgooglewrapper"> <a href="https://twitter.com/youtube" class="twitter-follow-button" data-show-count="false">Follow @YouTube</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </div>
+
+<!-- Facebook -->
+<div class="followgooglewrapper">
+<div class="fb-like" data-href="https://www.facebook.com/youtube" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8913912091036362264&widgetType=HTML&widgetId=HTML13&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML13"));' target='configHTML13' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<div class='section' id='sidebar-bottom'></div>
+</div>
+</div>
+<div style='clear:both;'></div>
+</div>
+<!-- Signature (the little colored chips) -->
+<!-- Footer -->
+<div class='sig'></div>
+<div class='footer-outer'>
+<div class='footer-inner'>
+<div class='footer-inner-2'>
+<div style='width:33%;float:left;'>
+<div class='section' id='footer-1'><div class='widget HTML' id='HTML8'>
+<div class='widget-content'>
+<p><a href="http://www.youtube.com" target="_blank" title="YouTube">YouTube</a></p>
+<a href="http://www.youtube.com/t/about_youtube" target="_blank" title="About YouTube">About YouTube</a>
+<br />
+<a href="http://www.youtube.com/t/press/" target="_blank" title="Press &amp; Blog">Press &amp; Blog</a>
+<br />
+<a href="http://www.youtube.com/yt/copyright/" target="_blank" title="Copyright">Copyright</a>
+<br />
+<a href="http://www.youtube.com/yt/creators/" target="_blank" title="Creators &amp; Partners">Creators &amp; Partners</a>
+<br />
+<a href="http://www.youtube.com/yt/advertise/" target="_blank" title="Advertising">Advertising</a>
+<br />
+<a href="http://www.youtube.com/dev" target="_blank" title="Developers">Developers</a>
+<br />
+<a href="http://support.google.com/youtube/" target="_blank" title="Help">Help</a>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8913912091036362264&widgetType=HTML&widgetId=HTML8&action=editWidget&sectionId=footer-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML8"));' target='configHTML8' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+<div style='width:33%;float:left;'>
+<div class='section' id='footer-2'><div class='widget HTML' id='HTML9'>
+<div class='widget-content'>
+<p>More Blogs</p>
+<a href="http://youtubecreator.blogspot.com/" target="_blank" title="YouTube Creator Blog">YouTube Creator Blog</a>
+<br />
+<a href="http://apiblog.youtube.com/" target="_blank" title="YouTube API Blog">YouTube API Blog</a>
+<br />
+<a href="http://youtube-trends.blogspot.com/" target="_blank" title="YouTube Trends Blog">YouTube Trends Blog</a>
+<br />
+<a href="http://googleblog.blogspot.com/" target="_blank" title="Google Blog">Google Blog</a>
+<br />
+<a href="http://www.google.com/press/blog-directory.html" target="_blank" title="More Blogs from Google">More Blogs from Google</a>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8913912091036362264&widgetType=HTML&widgetId=HTML9&action=editWidget&sectionId=footer-2' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML9"));' target='configHTML9' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+<div style='width:33%;float:left;'>
+<div class='section' id='footer-3'></div>
+</div>
+<div style='clear:both;'></div>
+</div>
+</div>
+</div>
+<div class='google-footer-outer'>
+<div id='google-footer'>
+<ul>
+<li><a href='//www.google.com/'>Google</a></li>
+<li><a href='//www.google.com/intl/en/policies/'>Privacy & Terms</a></li>
+</ul>
+</div>
+</div>
+<!-- Twitter -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
+</script><script type="text/javascript" src="//www.blogger.com/static/v1/widgets/2178715077-widgets.js"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type='text/javascript'>
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV2";window['blogger_blog_id'] = '8913912091036362264';BLOG_attachCsiOnload('item_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d8913912091036362264','//youtube-global.blogspot.com/2013/03/zero-makes-counting-billion-times-more.html','8913912091036362264');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '8913912091036362264', 'bloggerUrl': 'http://www.blogger.com', 'title': 'Official Blog', 'pageType': 'item', 'url': 'http://youtube-global.blogspot.com/2013/03/zero-makes-counting-billion-times-more.html', 'canonicalUrl': 'http://youtube-global.blogspot.com/2013/03/zero-makes-counting-billion-times-more.html', 'canonicalHomepageUrl': 'http://youtube-global.blogspot.com/', 'homepageUrl': 'http://youtube-global.blogspot.com/', 'blogspotFaviconUrl': 'http://youtube-global.blogspot.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'Zero Makes Counting a Billion Times More Fun', 'pageTitle': 'Official Blog: Zero Makes Counting a Billion Times More Fun', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Official Blog - Atom\42 href\75\42http://youtube-global.blogspot.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Official Blog - RSS\42 href\75\42http://youtube-global.blogspot.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Official Blog - Atom\42 href\75\42http://www.blogger.com/feeds/8913912091036362264/posts/default\42 /\76\n\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Official Blog - Atom\42 href\75\42http://youtube-global.blogspot.com/feeds/2783194124048682698/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'postImageThumbnailUrl': 'http://img.youtube.com/vi/0sEUdmtyJ3U/default.jpg', 'imageSrcTag': '\74link rel\75\42image_src\42 href\75\42http://img.youtube.com/vi/0sEUdmtyJ3U/default.jpg\42 /\76\n', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,e\75\42jstiming\42,g\75\42tick\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){c\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[c,d]};this[g](\42start\42,null,a)}var a\75new d;b.jstiming\75{Timer:d,load:a};if(b.performance\46\46b.performance.timing){var a\75b.performance.timing,c\75b[e].load,f\75a.navigationStart,a\75a.responseStart;0\74f\46\46a\76\75f\46\46(c[g](\42_wtsrt\42,void 0,f),c[g](\42wtsrt_\42,\42_wtsrt\42,a),c[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,b.chrome\46\46b.chrome.csi\46\46(a\75Math.floor(b.chrome.csi().pageT),c\46\0460\74f\46\46(c[g](\42_tbnd\42,void 0,b.chrome.csi().startE),\nc[g](\42tbnd_\42,\42_tbnd\42,f))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,c\46\0460\74f\46\46(c[g](\42_tbnd\42,void 0,b.external.startE),c[g](\42tbnd_\42,\42_tbnd\42,f))),a\46\46(b[e].pt\75a)}catch(l){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[e].load[g](\42aft\42)};var h\75!1;function k(){h||(h\75!0,b[e].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,k,!1):b.attachEvent(\42onscroll\42,k);\n })();\74/script\076', 'mobileHeadScript': '', 'ieCssRetrofitLinks': '\74!--[if IE]\76\74script type\75\42text/javascript\42 src\75\42//www.blogger.com/static/v1/jsbin/4163410827-ieretrofit.js\42\76\74/script\76\n\74![endif]--\076', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/15de8d1bfc9ff1d1', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'testHtml5CssSrc': '//www.blogger.com/static/v1/widgets/721438413-css_bundle_html5.css', 'sf': 'n', 'tf': ''}}, {'name': 'skin', 'data': {'vars': {'header_background_color': '#8a191b'}, 'override': 'html, .Label h2, #sidebar .rss a, .BlogArchive h2 {\n  font-family: arial,sans-serif !important;\n}\nh1, h2 {\n  font-family: \47open sans\47,arial,sans-serif !important;\n}\n.widget .post h2.title{\n  font-family: arial,sans-serif !important;\n}\n.Header h1.title {\n  font-family: \47open sans\47,arial,sans-serif !important;\n}\n.widget-item-control {\n  height: 100%;\n}\n.followgooglewrapper {\n  padding: 12px !important;\n  text-align: left !important;\n}\n.Header h1 {\n  font-size: 45px !important;\n  font-weight: 100;\n  background: url(\42//lh6.googleusercontent.com/-yvkuYrhPZ_s/UXEE1yuBbEI/AAAAAAAAMHw/M4O0htqdVQo/h120/youtube_blog_logo.png\42);\n  background-repeat: no-repeat;\n  height: 45px !important;\n  padding-left: 140px;\n  color: #fff;\n  padding-top: 8px\n}\n.Header .description {\n  color: #c7b5b4;\n  font-size: 14px;\n  font-family: arial,sans-serif;\n}\n.widget.Header {\n  background: url(\42http://4.bp.blogspot.com/-bBftF3Wi7b4/UXe9glfoB9I/AAAAAAAAMJQ/pVhH0hlyUHw/s1600/header-image.png\42);\n  background-repeat: no-repeat;\n  background-position: right;\n  height: 150px;\n}\n.header-outer {\n  background-image: -moz-linear-gradient(top, #b42521, #8a191b);\n  background-image: -webkit-linear-gradient(top, #b42521, #8a191b);\n  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #b42521), color-stop(1, #8a191b));\n  filter: \42progid:DXImageTransform.Microsoft.gradient(startColorStr\75#b42521, EndColorStr\75#8a191b)\42;\n  background-image: linear-gradient(top, #b42521, #8a191b);\n}\n.footer-inner-2 .HTML ul {\n  list-style: disc !important;\n  padding: 0 0 0 1.25em !important;\n}'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_CustomSearchView', new _WidgetInfo('CustomSearch1', 'sidebar-top', null, document.getElementById('CustomSearch1'), {'title': 'Search This Blog', 'includeBlog': true, 'includePostLinks': false, 'includeWeb': false, 'linkLists': [], 'blogUrl': 'http://youtube-global.blogspot.com/', 'loadingMsg': 'Loading...', 'thisBlogMsg': 'This Blog', 'linkedFromHereMsg': 'Linked From Here', 'theWebMsg': 'The Web', 'backgroundColor': '#fff', 'textColor': '#000', 'dateColor': '#6f6f6f', 'linkColor': '#00c', 'urlColor': '#00c', 'visitedLinkColor': '#00c', 'borderColor': '#6f6f6f', 'activeBorderColor': '#6f6f6f'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'sidebar-top', null, document.getElementById('HTML7'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'sidebar', null, document.getElementById('HTML11'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar', null, document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'sidebar', null, document.getElementById('HTML10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML13', 'sidebar', null, document.getElementById('HTML13'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'footer-1', null, document.getElementById('HTML8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'footer-2', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'showBacklinks': true, 'postId': '2783194124048682698', 'legacyCommentModerationUrl': 'https://www.blogger.com/moderate-legacy-comment.g?blogID\758913912091036362264', 'iframeCommentsId': 'gpluscomments', 'viewType': 'FILTERED_POSTMOD', 'lightboxEnabled': true, 'lightboxModuleUrl': '//www.blogger.com/static/v1/jsbin/1766472746-lbx.js', 'lightboxCssUrl': '//www.blogger.com/static/v1/v-css/4138445517-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'null', null, document.getElementById('PageList1'), {'title': 'Pages', 'links': [{'href': 'http://youtube-global.blogspot.com/', 'title': 'Home', 'isCurrentPage': false}], 'mobile': false}, 'displayModeFull'));
+</script>
+</body>
+</html>

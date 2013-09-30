@@ -1,0 +1,575 @@
+﻿<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta charset="utf-8">
+	
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	
+	
+			<title>United Nations News Centre - Top official calls on Iran, DPR Korea, to cooperate with UN atomic agency</title> 
+
+			<meta property="og:title" content="UN News - Top official calls on Iran, DPR Korea, to cooperate with UN atomic agency" />
+			<meta property="og:image" content="http://www.un.org/News/dh/photos/large/2013/September/09-09-2013iaeaconfab.jpg" />
+			<meta property="og:site_name" content="UN News Service Section" />
+
+			<meta name="dc.title" content="UN News - Top official calls on Iran, DPR Korea, to cooperate with UN atomic agency" />
+			<meta name="dc.creator" content="United Nations News Service Section" />
+			<meta name="dc.description" content="The head of the United Nations atomic energy agency today stressed the need for both Iran and the Democratic People&#8217;s Republic of Korea (DPRK) to cooperate in resolving outstanding issues regarding their nuclear activities." />
+			<meta name="dc.date" content="9 September 2013" />
+			<meta name="dc.subject" content="Top official calls on Iran, DPR Korea, to cooperate with UN atomic agency" />
+			<meta name="dc.publisher" content="United Nations-DPI/NMD - UN News Service Section" />
+
+			<meta name="title" content="UN News - Top official calls on Iran, DPR Korea, to cooperate with UN atomic agency" />
+			<meta name="creator" content="United Nations News Service Section" />
+			<meta name="description" content="The head of the United Nations atomic energy agency today stressed the need for both Iran and the Democratic People&#8217;s Republic of Korea (DPRK) to cooperate in resolving outstanding issues regarding their nuclear activities." />
+			<meta name="date" content="9 September 2013" />
+			<meta name="subject" content="Top official calls on Iran, DPR Korea, to cooperate with UN atomic agency" />
+			<meta name="publisher" content="United Nations-DPI/NMD - UN News Service Section" />
+	
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="/apps/news/en/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/apps/news/en/css/app.css">
+	
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/apps/news/en/css/ie.css">
+	<![endif]-->
+	
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<link href="/apps/news/include/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" media="screen">
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4803886-1']);
+  _gaq.push(['_setDomainName', 'un.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+	<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-LQCS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-LQCS');</script>
+<!-- End Google Tag Manager -->
+	<div id="language-bar" class="visible-desktop">
+		<div class="container">
+			<div class="row">
+				<div class="span12" id="un_icon">
+					<div class="span4">
+						<a href="http://www.un.org/en/" title="United Nations Headquarters website">Welcome to the United Nations. It's your world.</a>
+					</div>
+					<div class="span7 pull-right visible-desktop">
+						<ul>
+						  <li lang="ar" xml:lang="ar" id="arabic"><a href="http://www.un.org/arabic/news/">عربي</a></li>
+						  <li lang="zh-cn" xml:lang="zh-cn" id="chinese"><a href="http://www.un.org/chinese/News/">中文</a></li>
+						  <li lang="en" xml:lang="en" id="english">English</li>
+						  <li lang="fr" xml:lang="fr"><a href="/french/newscentre/">Français</a></li>
+						  <li lang="ru" xml:lang="ru"><a href="http://www.un.org/russian/news/">Русский</a></li>
+						  <li lang="es" xml:lang="es"><a href="http://www.un.org/spanish/News/">Español</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="header">
+		<div class="container">
+			<!-- Navigation -->
+						<div class="row">
+				<a href="/News/" title="UN News Centre home">
+				<div class="span8" id="branding-bar">
+					<h1>United Nations News Centre</h1>
+					<h4 class="subheader">with breaking news from the UN News Service</h4>
+				</div>
+				</a>
+				<div class="span4 visible-desktop" method="post" id="search-bar">
+					<form method="post" accept-charset="ISO-8859-1" class="form-inline pull-right" action="/apps/news/search.asp">
+						<div class="btn-group">
+							<input class="input-medium" id="fldSearch" name="fldSearch" placeholder="Search" size="16" type="text">&nbsp;
+							<input name="fldPastdate" type="hidden" value="45">
+							<button class="btn btn-primary-news" type="submit"><i class="icon-search icon-white"></i></button>
+							<button class="btn btn-primary-news dropdown-toggle" data-toggle="dropdown">
+								<span class="caret"></span>
+							</button>
+							<ul class="dropdown-menu">
+								<a href="/apps/news/advancedsearch.asp" title="Advanced Search">Advanced Search</a>
+							</ul>
+						</div>
+					</form>
+				</div>
+			</div>
+			<div class="row visible-desktop" id="navigation">
+			
+				<div class="span12">
+					<div class="simplenav fix">
+						<ul class="fix nav">
+							<li class="here"><a href="/News/">News</a>
+								<ul class="on">
+									<li><a href="/apps/news/region.asp?Region=Africa">Africa</a></li>
+									<li><a href="/apps/news/region.asp?Region=Americas">Americas</a></li>
+									<li><a href="/apps/news/region.asp?Region=Asia+Pacific">Asia Pacific</a></li>
+									<li><a href="/apps/news/region.asp?Region=Europe">Europe</a></li>
+									<li><a href="/apps/news/region.asp?Region=Middle+East">Middle East</a></li>
+									<li class="skip"><a href="http://www.un.org/apps/news/archive.asp">UN Daily News</a></li>
+								</ul>
+							</li>
+						
+							<li><a href="http://www.unmultimedia.org/radio/english/">Radio</a>
+								<ul  class="off">
+									<li><a href="http://www.unmultimedia.org/radio/english/category/features/todays-news/">Today's News</a></li>
+									<li><a href="http://www.unmultimedia.org/radio/english/category/features/todays-features/">Today's Features</a></li>
+									<li><a href="http://www.unmultimedia.org/radio/english/">Programmes</a></li>
+									<li><a href="http://www.unmultimedia.org/radio/english/">Regions</a></li>
+									<li><a href="http://www.unmultimedia.org/radio/english/about-us/">About Us</a></li>
+									<li><a href="http://www.unmultimedia.org/radio/library/">Audio Library</a></li>
+									<li><a href="http://www.unmultimedia.org/accounts/index.html">Your Account</a></li>
+								</ul>
+							</li>
+
+							<li><a href="http://www.unmultimedia.org/">Television</a>
+								<ul  class="off">
+									<li><a href="http://www.unmultimedia.org/tv/unifeed/">UNifeed</a></li>
+									<li><a href="http://www.unmultimedia.org/tv/unia/">UN in Action</a></li>
+									<li><a href="http://www.unmultimedia.org/tv/21stcentury/">21st Century</a></li>
+									<li><a href="http://www.un.org/webcast/">Webcast</a></li>
+								</ul>
+							</li>
+
+							<li><a href="http://www.unmultimedia.org/photo">Photo</a>
+								<ul  class="off">
+									<li><a href="http://downloads.unmultimedia.org/photo/thumbnails/523/523401.jpg">Latest photos</a></li>
+									<li><a href="http://www.unmultimedia.org/photo/gallery.jsp?query=category%3ASecretary-General">Secretary-General</a></li>
+									<li><a href="http://www.unmultimedia.org/photo/gallery.jsp?query=category%3A%22Security%20Council%22">Security Council</a></li>
+									<li><a href="http://www.unmultimedia.org/photo/gallery.jsp?query=category%3A%22General%20Assembly%22">General Assembly</a></li>
+									<li><a href="http://www.unmultimedia.org/photo/gallery.jsp?query=category%3A%22Field%20coverage%22">UN Around the World</a></li>
+									<li><a href="http://www.unmultimedia.org/photo/gallery.jsp?query=legacy%3Ay&startat=0&sf=arrival_date">Photo Archives</a></li>
+								</ul>
+							</li>
+
+							<li><a href="http://webtv.un.org/">Webcast</a>
+								<ul  class="off">
+									<li><a href="http://webtv.un.org/">Live Now</a></li>
+									<li><a href="http://webtv.un.org/meetings-events/">Meetings &amp; Events</a></li>
+									<li><a href="http://webtv.un.org/media/">Media</a></li>
+									<li><a href="http://webtv.un.org/news-features/">News &amp; Features</a></li>
+									<li><a href="http://webtv.un.org/topics-issues/">Topics &amp; Issues</a></li>
+								</ul>
+							</li>
+						
+							<li><a href="http://www.un.org/en/unpress/">Meetings Coverage</a>
+								<ul  class="off">
+									<li><a href="http://www.un.org/en/unpress/moreBydocType.asp?docType=0">Press Releases</a></li>
+									<li><a href="http://www.un.org/en/unpress/moreBydocType.asp?docType=1">Press Conferences</a></li>
+									<li><a href="http://www.un.org/en/unpress/index_unbodies.asp?unpress=1&unBodies=4">Secretary-General</a></li>
+									<li><a href="http://www.un.org/en/unpress/index_unbodies.asp?unpress=21&unBodies=1">General Assembly</a></li>
+									<li><a href="http://www.un.org/en/unpress/index_unbodies.asp?unpress=31&unBodies=2">Security Council</a></li>
+									<li><a href="http://www.un.org/en/unpress/index_unbodies.asp?unpress=41&unBodies=3">Economic and Social Council</a></li>
+								</ul>
+							</li>
+
+							<li><a href="http://www.un.org/en/media/accreditation/index.shtml">Media Accreditation</a>
+								<ul  class="off">
+									<li><a href="http://www.un.org/en/media/accreditation/request.shtml">Accreditation Requirements</a></li>
+									<li><a href="http://www.un.org/en/media/accreditation/alert.shtml">Media Alert</a></li>
+									<li><a href="http://www.un.org/en/media/accreditation/resources.shtml">Media Resources</a></li>
+									<li><a href="http://www.un.org/en/media/accreditation/events.shtml">Special Media Events</a></li>
+									<li><a href="http://www.un.org/en/media/accreditation/faqs.shtml">FAQs</a></li>
+								</ul>
+							</li>
+
+							<li><a href="http://www.un.org/sg/">Secretary-General</a>
+								<ul  class="off">
+									<li><a href="http://www.un.org/sg/spokesperson/">Spokesperson</a></li>
+									<li><a href="http://www.un.org/apps/news/infocus/sgspeeches/">All Statements</a></li>
+									<li><a href="http://www.un.org/sg/selected-speeches/index.shtml">Selected Speeches</a></li>
+									<li><a href="http://www.un.org/sg/offthecuff/index.asp?cuff=1">Off-the-cuff Remarks</a></li>
+									<li><a href="http://www.un.org/sg/travels.asp">Official Travels</a></li>
+								</ul>
+							</li>
+						
+							<li><a href="#resources">Other Resources</a>
+								<ul  class="off">
+									<li><a href="http://www.un.org/apps/news/topstory.asp">Top Stories Archive</a></li>
+									<li><a href="http://www.un.org/apps/news/html/resources.shtml#PO">Peacekeeping</a></li>
+									<li><a href="http://www.un.org/apps/news/html/resources.shtml#PM">Political Missions</a></li>
+									<li><a href="https://unp.un.org/">UN Publications</a></li>
+									<li><a href="http://www.un.org/Depts/Cartographic/english/htmain.htm">Maps</a></li>
+									<li><a href="http://www.un.org/databases/index.html">Databases</a></li>
+									<li><a href="http://www.un.org/apps/news/html/resources.shtml#NM">New Magazines</a></li>
+									<li><a href="http://www.un.org/apps/news/html/syslinks.asp">UN System Links</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+
+				</div>
+			</div><!-- END Nav -->
+		</div>
+	</div>
+	
+	<div class="container"><!-- Main Content -->
+		<div class="row" id="story-content">
+			<div class="span8">
+				
+				
+				<h4 id='story-headline'>Top official calls on Iran, DPR Korea, to cooperate with UN atomic agency</h4><div id=PhotoHolder3><a href=http://www.un.org/News/dh/photos/large/2013/September/09-09-2013iaeaconfab.jpg id=PhotoCrop class='lightbox' title='IAEA Director General Yukiya Amano (left) addresses Board of Governors meeting in Vienna, Austria. Photo: IAEA/Dean Calma'><img src=http://www.un.org/News/dh/photos/large/2013/September/09-09-2013iaeaconfab.jpg Title  =  'IAEA Director General Yukiya Amano (left) addresses Board of Governors meeting in Vienna, Austria. Photo: IAEA/Dean Calma' border=1></a><p class=phtocaption >IAEA Director General Yukiya Amano (left) addresses Board of Governors meeting in Vienna, Austria. Photo: IAEA/Dean Calma</p></div>
+					<div id=fullstory> 
+						<div class="add-this">
+						<!-- AddThis Button BEGIN -->
+							<div class="addthis_toolbox addthis_counter_style"">
+							<a class="addthis_button_facebook_like" fb:like:layout="box_count"></a>
+							<a class="addthis_button_tweet" tw:count="vertical"></a>
+							<a class="addthis_button_google_plusone" g:plusone:size="tall"></a>
+							<a class="addthis_counter"></a>
+							</div>
+							<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+							<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ffc46c018d77f01"></script>
+							<!-- AddThis Button END -->
+							<div class="old-share">
+								<p><i class="icon-print"></i> <a onclick="javascript:window.open('printnews.asp?nid=45796','','toolbar=no, location=no, menubar=no, scrollbars=yes, Width=500, height=520, resizable=yes','')" href="#">Print</a></p>
+							</div>
+						</div>
+						<p>
+					9 September 2013 &#150 The head of the United Nations atomic energy agency today stressed the need for both Iran and the Democratic People&#8217;s Republic of Korea (DPRK) to cooperate in resolving outstanding issues regarding their nuclear activities.<P>
+
+The Director-General of the International Atomic Energy Agency (<a href=http://www.iaea.org/>IAEA</a>), Yukiya Amano, <A HREF="http://www.iaea.org/newscenter/statements/2013/amsp2013n17.html">said</A> the Agency remains committed to working with the two countries on nuclear verification activities, and urged the Governments to fulfil their obligations.<P>
+
+&#8220;The DPRK&#8217;s statements concerning a third nuclear test and its intention to restart its nuclear facilities at Yongbyon, together with its previous statements about uranium enrichment activities and the construction of a light water reactor, are deeply regrettable,&#8221; said Mr. Amano, in his introductory statement to the Agency&#8217;s annual General Conference in Vienna, which brings together representatives from the IAEA&#8217;s 155 member States.<P>
+
+&#8220;Such actions are clear violations of relevant UN Security Council resolutions.&#8221;<P>
+
+Mr. Amano noted that the IAEA has been unable to carry out verification activities in the DPRK since 2009, which has limited the Agency&#8217;s knowledge of the country&#8217;s nuclear programme.<P>
+
+&#8220;I call upon the DPRK to comply fully with its obligations under relevant Security Council resolutions, to cooperate promptly with the Agency in implementing its Safeguards Agreement and to resolve all outstanding issues,&#8221; he said.<P>
+
+Turning to Iran, Mr. Amano said the Middle Eastern country is not providing the necessary cooperation to enable us to provide credible assurance about the absence of undeclared nuclear material and activities, adding that &#8220;the Agency therefore cannot conclude that all nuclear material in Iran is in peaceful activities.&#8221;<P>
+
+Iran&#8217;s nuclear programme &#8211; which its officials have stated is for peaceful purposes, but some other countries contend is driven by military ambitions &#8211; has been a matter of international concern since the discovery in 2003 that the country had concealed its nuclear activities for 18 years in breach of its obligations under the Nuclear Non-Proliferation Treaty (NPT).<P>
+
+A round of talks on the issue is planned for 27 September in Vienna, and the Board of Governors has stressed that it is essential for Iran to immediately conclude and implement the structured approach. Mr. Amano added that the IAEA is committed to working with Iran&#8217;s new Government to resolve outstanding issues by diplomatic means.<P>
+
+Given the nature and extent of credible information available to the Agency about possible military dimensions to Iran&#8217;s nuclear programme, Mr. Amano said: &#8220;It remains essential and urgent for Iran to engage with us on the substance of our concerns.&#8221;  He also reiterated that Agency&#8217;s request that Iran, without further delay, provide substantive answers to its detailed questions regarding the location within the Parchin site and the foreign expert, and provide access to the location concerned.<P>
+
+&#8220;I continue to urge Iran to fully implement its Safeguards Agreement and its other obligations and to engage with the Agency to achieve concrete results on all outstanding substantive issues,&#8221; he said. <P>
+
+In his remarks, Mr. Amano also reported on the progress made in the implementation of the IAEA Action Plan on Nuclear Safety, which was endorsed in the aftermath of the accident at Japan&#8217;s Fukushima Daiichi Nuclear Power Station in 2011.<P>
+
+&#8220;Recent events in Japan are a clear reminder of the continuing impact of the Fukushima Daiichi accident. The leak of contaminated water at Fukushima Daiichi is a matter of high priority that needs to be addressed urgently,&#8221; he said. <P>
+
+&#8220;Recognizing the importance of this issue, the IAEA international peer review mission to Japan in April recommended that Japan establish an effective plan and mechanisms for the long-term management of liquid waste. The announcement by the Japanese Government of a basic policy for addressing this issue is an important step forward.&#8221;<P>
+
+Mr. Amano added that the IAEA remains ready to assist Japan and will send a second international peer review mission in the next months to offer further advice.<P>
+	
+					</div>
+				<p>
+</center>
+					<hr class="invi" />
+					<p class="redux-height"><strong>News Tracker: past stories on this issue</strong></p>
+				<p class='relatnews'><a href='story.asp?NewsID=45311&Cr=nuclear&Cr1='>More action needed to improve global nuclear security, urges UN atomic energy chief </a></p></p>
+				
+				
+			</div>
+			<!-- Sidebar -->
+			
+			<div id="sidebar" class="span4 sidebar-story">	
+					
+				
+			
+			<div class="row">
+				<div class="span4">
+					<h4>Related Stories</h4>
+				</div>
+			</div>
+				
+			
+
+			<div class="row">	
+				<div class="span1">
+					<img src="http://www.un.org/News/dh/photos/2013/September/564312-uzbekistan.jpg">
+				</div>
+				<div class="span3">
+					<p class="redux-height"><a href="story.asp?NewsID=46100&Cr=general+debate&Cr1=">Central Asian countries cite instability in Afghanistan as serious threat</a></p>
+				</div>
+			</div>
+			<hr class="invi" />
+
+			
+
+			<div class="row">	
+				<div class="span1">
+					<img src="http://www.un.org/News/dh/photos/2013/September/564310-rep-korea.jpg">
+				</div>
+				<div class="span3">
+					<p class="redux-height"><a href="story.asp?NewsID=46099&Cr=general+debate&Cr1=">Republic of Korea, at UN, calls on world to roll back DPR Korea&#8217;s nuclear programme</a></p>
+				</div>
+			</div>
+			<hr class="invi" />
+
+			
+
+			<div class="row">	
+				<div class="span1">
+					<img src="http://www.un.org/News/dh/photos/2013/September/564311-china.jpg">
+				</div>
+				<div class="span3">
+					<p class="redux-height"><a href="story.asp?NewsID=46092&Cr=general+debate&Cr1=">Chinese Foreign Minister urges global governance reform with UN at core</a></p>
+				</div>
+			</div>
+			<hr class="invi" />
+
+			
+
+			<div class="row">	
+				<div class="span1">
+					<img src="http://www.un.org/News/dh/photos/2013/September/564317-tanzania.jpg">
+				</div>
+				<div class="span3">
+					<p class="redux-height"><a href="story.asp?NewsID=46090&Cr=general+debate&Cr1=">African leaders say &#8216;unfinished business&#8217; of Millennium targets must be completed</a></p>
+				</div>
+			</div>
+			<hr class="invi" />
+
+			
+				
+			<div class="row">
+				<div class="span1">
+					<img src="/apps/news/en/images/radio.png" />					
+				</div>
+				<div class="span3">
+					<p class="redux-height"><a href="http://www.unmultimedia.org/radio/english/2013/09/nuclear-energy-agency-remains-concerned-about-iran-and-north-korea/">Listen to related stories and interviews from UN Radio</a></p>	
+				</div>
+			</div>
+			<hr class="invi" />
+			
+			<div class="row">
+				<div class="span4">
+					<h4>In-depth Interviews</h4>
+				</div> 
+			</div>
+				
+			
+			<div class="row">	
+				<div class="span1" id="PhotoHolder">
+					<img src="http://www.un.org/News/dh/photos/thumb/2013/January/67339-urquhart.jpg" alt="Brian Urquhart, Former UN official (Part 2)" border="1">
+				</div>
+				<div class="span3">
+					<a href="/apps/news/newsmakers.asp?NewsID=79" title="Brian Urquhart, Former UN official (Part 2)">Brian Urquhart, Former UN official (Part 2)</a>
+				</div>
+			</div>
+			
+			<hr class="invi" />
+			
+			
+			<div class="row">	
+				<div class="span1" id="PhotoHolder">
+					<img src="http://www.un.org/News/dh/photos/thumb/2013/January/67339-urquhart.jpg" alt="Brian Urquhart, Former UN official (Part 1)" border="1">
+				</div>
+				<div class="span3">
+					<a href="/apps/news/newsmakers.asp?NewsID=70" title="Brian Urquhart, Former UN official (Part 1)">Brian Urquhart, Former UN official (Part 1)</a>
+				</div>
+			</div>
+			
+			<hr class="invi" />
+			
+			
+			<div class="row">	
+				<div class="span1" id="PhotoHolder">
+					<img src="http://www.un.org/News/dh/photos/thumb/2012/January/500265-Ban_newsmaker.jpg" alt="Ban Ki-moon, UN Secretary-General" border="1">
+				</div>
+				<div class="span3">
+					<a href="/apps/news/newsmakers.asp?NewsID=47" title="Ban Ki-moon, UN Secretary-General">Ban Ki-moon, UN Secretary-General</a>
+				</div>
+			</div>
+			
+			<hr class="invi" />
+			
+						
+			
+			<div class="row">
+				<div class="span4">
+					<div class="tabbable">
+						<ul class="nav nav-tabs" id="myTab">
+						  <li class="active"><a href="#releases" data-toggle="tab">Press Releases</a></li>
+						  <li><a href="#briefings" data-toggle="tab">Briefings</a></li>
+						</ul>
+			
+						<div class="tab-content">
+							
+							
+							<div class="tab-pane active" id="releases">					
+								<p><a href=/News/Press/docs/2013/dc3455.doc.htm>Pivotal Treaty to End Nuclear Tests of Any Yield at Any Time Focus of Conference Aimed at Convincing &#8216;Hold-Outs&#8217; to Ratify, Enable Its Entry into Force</a></p>
+<p><a href=/News/Press/docs/2013/sgsm15352.doc.htm>Nuclear-Weapons Test Ban &#8216;Fitting Response to Hopes of Those Who Have Suffered Most&#8217;, Secretary-General Says at Meeting to Operationalize Treaty</a></p>
+<p><a href=/News/Press/docs/2013/ga11426.doc.htm>Disarmament of Most Loathsome Weapons Would &#8216;Ease Fear Clouding Human Existence&#8217;, Speakers Tell General Assembly in Effort to Change Calculus on Nuclear Debate</a></p>
+	
+							</div>
+							
+							<div class="tab-pane" id="briefings">
+							<p><a href=/News/briefings/docs/2013/130904_Guest.doc.htm>Press Conference by Executive Secretary of Preparatory Commission for Comprehensive Nuclear-Test-Ban Treaty Organization</a></p>
+<p><a href=/News/briefings/docs/2011/110901_CTBTO.doc.htm>Press Conference by Preparatory Commission for Comprehensive Nuclear-Test-Ban Treaty Organization</a></p>
+<p><a href=/News/briefings/docs/2010/100429_NPT.doc.htm>Press Conference by President-Elect of 2010 Review Conference of Parties to Treaty on Non-Proliferation of Nuclear Weapons</a></p>
+
+							</div>
+							
+							
+						</div>
+						
+					</div>
+				</div>
+			</div>
+						
+						
+
+				
+			</div>
+
+			<!-- END Sidebar -->		</div>
+		
+	</div>
+	
+	
+
+	<div id="footer">
+		<div class="container">
+
+			<a name="resources"></a>
+			<div class="row">		
+				<div class="span3">
+					<h4>Secretary-General</h4>
+					<hr />
+					<ul class="unstyled">
+						<li><a href="http://www.un.org/apps/news/infocus/sgspeeches/">All Statements</a></li>
+						<li><a href="http://www.un.org/sg/selected-speeches/index.shtml">Selected Speeches</a></li>
+						<li><a href="http://www.un.org/sg/offthecuff/index.asp?cuff=1">Off-the-cuff Remarks</a></li>
+						<li><a href="http://www.un.org/sg/travels.asp">Official Travels</a></li>
+					</ul>
+				</div>
+				
+				<div class="span3">
+					<h4>Spokesperson's Office</h4>
+					<hr />
+					<ul class="unstyled">
+						<li><a href="http://www.un.org/sg/statements/sgstatsarchive.asp">Latest Statements</a></li>
+						<li><a href="http://www.un.org/sg/spokesperson/highlights/index.asp">Briefing Highlights</a></li>
+						<li>
+							<script language="JavaScript" type="text/javascript">  
+								<!--  
+								var dmonths = new Array("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12");  
+								var thirty = 61 * 60 * 60 * 24 * 1000;  
+								now = new Date();  
+								var pastDate = now.getTime() - thirty;  
+								past = new Date(pastDate);  
+								var dmyMonth = dmonths[past.getMonth()];  
+								document.write("<a href=/apps/news/spbrief.asp?DateD=" + dmyMonth + "/1/" + past.getFullYear()+ ">Briefing Transcripts</a>");  
+								//-->  
+							</script>
+						</li>
+						<li><a href="http://www.un.org/sg/spokesperson/confschedule.asp">Press Conferences</a></li>
+						<li><a href="http://www.un.org/sg/offthecuff/index.asp?cuff=3">Notes to Correspondents</a></li>
+					</ul>
+				</div>
+				<div class="span4">
+					<h4>Tools and Services</h4>
+					<hr />
+					<div class="row">
+						<div class="span2">
+							<ul class="unstyled">
+								<li><a href="http://www.un.org/apps/news/topstory.asp">Top Stories Archive</a></li>
+								<li><a href="http://www.un.org/apps/news/archive.asp">UN Daily News</a></li>
+								<li><a href="http://www.un.org/apps/news/html/syslinks.asp">UN System Links</a></li>
+								<li><a href="http://www.un.org/apps/news/html/resources.shtml#PO">Peacekeeping</a></li>
+								<li><a href="http://www.un.org/apps/news/html/resources.shtml#PM">Political Missions</a></li>
+								<li><a href="http://www.un.org/events/tenstories/">Stories the World Should Hear More About</a></li>
+							</ul>
+						</div>
+						<div class="span2">
+							<ul class="unstyled">
+								<li><a href="https://unp.un.org/">UN Publications</a></li>
+								<li><a href="http://www.un.org/Depts/Cartographic/english/htmain.htm">Maps</a></li>
+								<li><a href="http://www.un.org/databases/index.html">Databases</a></li>
+								<li><a href="http://www.un.org/works/">UN Works</a></li>
+								<li><a href="http://www.un.org/apps/news/html/resources.shtml#NM">News Magazines</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="span2">
+					<h4>Social Media</h4>
+					<hr />
+					<ul class="unstyled">
+						<li><a href="http://www.un.org/apps/news/rss/index.asp">RSS</a></li>
+						<li><a href="https://twitter.com/UN_News_Centre">Twitter</a></li>
+						<li><a href="https://www.facebook.com/UN.News.Centre">Facebook</a></li>
+						<li><a href="http://www.flickr.com/photos/un_photo/">Flickr</a></li>
+						<li><a href="http://www.un.org/apps/news/email/">Subscribe</a></li>
+						<li><a href="http://www.un.org/apps/news/html/contactus.asp">Contact</a></li>
+					</ul>
+				</div>
+				
+			</div>
+		
+			
+			<div class="row" id="copy">
+				<div class="span12">
+					<hr />
+					<div class="row">
+						<div class="span5">
+							<a href="/News/" title="UN News Centre homepage"><h4 class="zerospace">UN News Centre</h4></a>
+						</div>
+						<div class="span7 visible-desktop" id="un-copy">
+							<ul class="pull-right">
+								<li><a href="http://www.un.org/en/aboutun/copyright/">Copyright </a> |</li> 
+								<li><a href="http://www.un.org/en/aboutun/terms/">Terms of Use </a> |</li> 
+								<li><a href="http://www.un.org/en/aboutun/privacy/">Privacy Notice </a> | </li> 
+								<li><a href="http://www.un.org/en/siteindex/">Site Index </a> |</li> 
+								<li><a href="http://www.un.org/en/aboutun/fraudalert/">Fraud Alert </a> |</li> 
+								<li><a href="http://www.un.org/en/aboutun/help/">Help </a> </li> 
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<script src="/apps/news/en/js/jquery.min.js"></script>
+	<script src="/apps/news/en/js/bootstrap.min.js"></script>
+	<script src="/apps/news/en/js/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+	<script src="/apps/news/en/js/app.js"></script>
+    <script src="/apps/news/en/js/prettify.js"></script>
+	<script src="/apps/news/en/js/bootstrap-datepicker.js"></script>
+    <script src="/apps/news/en/js/datepicke_calendar.js"></script>
+    
+<script type="text/javascript">
+$(document).ready(function () {
+$("[rel=tooltip]").tooltip();
+});
+function show(object,val) {
+document.getElementById(object).style.visibility = val;
+}
+</script>
+	</body>
+</html>

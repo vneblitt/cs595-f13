@@ -1,0 +1,559 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_3col">
+
+		
+		
+
+		
+				<title>BOE - For Voters - Where to Vote</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+	<body  background="../../includes/site_images/misc/bg.gif"
+	  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="999" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->
+			<tr><td colspan="3" align="left" valign="top" width="999">
+					<table width="999" border="0" cellspacing="0" cellpadding="0" bgcolor="e5e1e1">
+  <tr>
+    <td class="module_bodytext" align="right" style="padding: 7px 13px 4px 0px;" valign="middle">
+        <a href="../../html/voters/spanish.shtml">Espa&#241;ol</a>&nbsp;&nbsp;<span style="color: #b1b1b2;">|</span>&nbsp;&nbsp;
+        <a href="../../html/voters/chinese.shtml">&#32321;&#39636;&#20013;&#25991;</a>&nbsp;&nbsp;<span style="color: #b1b1b2;">|</span>&nbsp;&nbsp;
+        <a href="../../html/voters/korean.shtml">&#54620;&#44397;&#50612;</a>&nbsp;&nbsp;<span style="color: #b1b1b2;">|</span>&nbsp;&nbsp;
+        <a href="../../html/voters/bengali.shtml" class="bengali_bodytext">&#2476;&#2494;&#2434;&#2482;&#2494;</a>&nbsp;&nbsp;<span style="color: #b1b1b2;">|</span>&nbsp;&nbsp;
+        <a href="../../html/voters/russian.shtml">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</a>&nbsp;&nbsp;
+    </td>
+  </tr>
+</table>
+					
+							<script type="text/javascript" src="../../includes/scripts/translate.js"></script>
+<script type="text/javascript" src="../../includes/scripts/share_button.js"></script>
+<script type="text/javascript" src="../../includes/scripts/cookies.js"></script>
+<script language="JavaScript" src="../../includes/scripts/change_text.js"></script><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script> 
+<body><table width="999" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="617" rowspan="2"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/banner.gif" border="0"></a></td>
+    <td width="382" valign="top" style="padding-top: 15px"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <FORM ACTION="http://search1.nyc.gov/search?" METHOD="GET" NAME="gs" TARGET="_top"><tr>
+          <td width="373" valign="top" align="right">
+		  <INPUT VALUE="xml_no_dtd" NAME="output" TYPE="hidden" />
+		  <INPUT VALUE="vote_collection" NAME="site" TYPE="hidden" />
+		  <INPUT VALUE="vote_frontend" NAME="proxystylesheet" TYPE="hidden" />
+		  <INPUT VALUE="vote_frontend" NAME="client" TYPE="hidden" />
+		  <INPUT NAME="q" ID="search_nycgov" SIZE="13" STYLE="width: 155px; height: 23px; border: 1px solid #a2cefe;" TYPE="text" /></td>
+            <td width="43" valign="top" style="padding-top: 1px;"><input name="go" type="image" id="go" src="../../includes/site_images/branding/search.gif" alt="Search" border="0" onMouseOver="MM_swapImage('go','','../../includes/site_images/branding/search_over.gif',1)" onMouseOut="MM_swapImgRestore()"></td>
+  </tr></form>
+</table><!---->
+</td>
+  </tr>
+  <tr> 
+    <td width="416" valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        
+        <tr>
+          <Td id="eu"><a onMouseOver="MM_swapImage('eu','','../../includes/site_images/branding/eu_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="../../html/home/email-updates.shtml"><img 
+	src="../../includes/site_images/branding/eu_0.gif" name="eu" id="eu" alt="Email Updates" border="0"></a></Td>
+	
+	
+	 <Td id="weather"><a onMouseOver="MM_swapImage('eaf','','../../includes/site_images/branding/eaf_1.gif',0)" onMouseOut="MM_swapImgRestore()" onClick="show_share(this);" href="javascript:;"><img 
+	src="../../includes/site_images/branding/eaf_0.gif" name="eaf" id="eaf" alt="Share" border="0"></a></Td>
+          <Td id="translate_button"><a onMouseOver="MM_swapImage('ttp','','../../includes/site_images/branding/translate_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:showTranslate();"><img src="../../includes/site_images/branding/translate_0.gif" name="ttp" id="ttp" alt="Translate This Page" border="0"></a></Td>
+          <Td id="english_button" style="display:none"><a onMouseOver="MM_swapImage('eng','','../../includes/site_images/branding/english_1.gif',0)" 
+	onMouseOut="MM_swapImgRestore()" href="javascript:resetLang();"><img src="../../includes/site_images/branding/english_0.gif" name="eng" id="eng" alt="Back to English" border="0"></a></td>
+          <td><img src="../../includes/site_images/branding/text_size.gif" alt="Text Size" name="size" border="0" id="size"></td>
+          <td><a onMouseOver="swapImage('small','small_1.gif')" onMouseOut="restoreImage('small')" href="javascript:switchStyle('1');"><img src="../../includes/site_images/branding/small_0.gif" border=0 alt="Small" name="small" id="small"></a></td>
+          <td><a 
+	onMouseOver="swapImage('medium','med_1.gif')" onMouseOut="restoreImage('medium')" href="javascript:switchStyle('2');"><img src="../../includes/site_images/branding/med_0.gif" border=0 alt="Medium" name="medium" id="medium"></a></td>
+          <td><a onMouseOver="swapImage('large','large_1.gif')" onMouseOut="restoreImage('large')" href="javascript:switchStyle('3');"><img src="../../includes/site_images/branding/large_0.gif" border=0 alt="Large" name="large" id="large"></a></td>
+        </tr>
+      </table></td>
+  </tr>
+</table><script language="Javascript">
+<!--
+if(GetCookie(fontSizeCookie) == "2"){	
+	document.medium.src='../../includes/site_images/branding/med_1.gif';	
+}else if(GetCookie(fontSizeCookie) == "3"){
+	document.large.src='../../includes/site_images/branding/large_1.gif';	
+}else{
+	document.small.src='../../includes/site_images/branding/small_1.gif';	
+}
+
+if(this.location.href.indexOf("tl=")!=-1) {
+	document.getElementById("english_button").style.display='';
+	document.getElementById("translate_button").style.display = 'none';
+}
+//-->
+</script><table width="999" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+  <tr>
+    <td><img src="../../includes/site_images/spacers/spacer.gif" width="999" height="6"></td>
+  </tr>
+</table>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="af">Afrikaans</option>
+                <option value="sq">Albanian</option>
+                <option value="ar">Arabic</option>
+                <option value="be">Belarusian</option>
+				<option value="bn">Bengali</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh">Chinese</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="en">English</option>
+                <option value="et">Estonian</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="gl">Galician</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="ht">Haitian Creole</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="hu">Hungarian</option>
+                <option value="is">Icelandic</option>
+                <option value="id">Indonesian</option>
+                <option value="ga">Irish</option>
+                <option value="it">Italian</option>
+                <option value="pa">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="mk">Macedonian</option>
+                <option value="ms">Malay</option>
+                <option value="mt">Maltese</option>
+                <option value="no">Norwegian</option>
+                <option value="fa">Persian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="pt-PT">Portuguese (Portugal)</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sw">Swahili</option>
+                <option value="sv">Swedish</option>
+                <option value="tl">Tagalog</option>
+                <option value="th">Thai</option>
+                <option value="tr">Turkish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+                <option value="cy">Welsh</option>
+                <option value="yi">Yiddish</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+<div style="display:none; position:absolute; top:0px; left:0px;">
+  <div id="google_translate_element"></div>
+  <script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+  }, 'google_translate_element');
+}
+</script>
+  <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+						
+			</td></tr>
+
+		
+	<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+	<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="220" height="100%">
+					
+							
+							 
+								  <!-- file tree1_nodes.js will be recreated--><!-- START of leftnav_js.html -->
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  
+<tr><td align="left" bgcolor="" valign="top" width="210">
+    <script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+    <script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+    <noscript>
+<a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../downloads/pdf/documents/boe/2012GeneralElection/pollsitechangepostsandy.pdf" class="nav_section">Poll Site Changes Post Hurricane Sandy</a><br>
+<a href="../../html/temp_hours/temp_hours.shtml" class="nav_section">NYC Board of Elections Post Hurricane Sandy Office Schedule</a><br>
+<a href="../../downloads/pdf/documents/boe/2012GeneralElection/pollsitechangepostprimary2012.pdf" class="nav_section">Poll Site Changes Post Primary 2012</a><br>
+<a href="../../html/about/about.shtml" class="nav_section">About NYC Board of Elections</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/management.shtml" class="nav_subsection">Commissioners & Management</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/minutes.shtml" class="nav_subsection">Commissioners' Minutes</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/agendas.shtml" class="nav_subsection">Commissioners Meeting Agendas</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/meetings.shtml" class="nav_subsection">Meetings & Hearings</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/guidelines.shtml" class="nav_subsection">Personnel Guidelines</a><br>
+<a href="../../html/voters/voters.shtml" class="nav_section">For Voters</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/guide.shtml" class="nav_subsection">Guide to NYC Elections</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/where.shtml" class="nav_subsection">Where to Vote</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/day.shtml" class="nav_subsection">Voting on Election Day</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/absentee.shtml" class="nav_subsection">Absentee Voting</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/status.shtml" class="nav_subsection">Voter Registration Status</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/totals.shtml" class="nav_subsection">Voter Enrollment Totals</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/maps.shtml" class="nav_subsection">NYC District Maps</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/faq.shtml" class="nav_subsection">Frequently Asked Questions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/spanish.shtml" class="nav_subsection">Espa&#241;ol</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/chinese.shtml" class="nav_subsection">&#32321;&#39636;&#20013;&#25991;</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/russian.shtml" class="nav_subsection">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/korean.shtml" class="nav_subsection">&#54620;&#44397;&#50612;</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/voters/bengali.shtml" class="nav_subsection">&#2476;&#2494;&#2434;&#2482;&#2494;</a><br>
+<a href="../../html/workers/workers.shtml" class="nav_section">For Poll Workers</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/workers/guide.shtml" class="nav_subsection">Poll Worker Reference Guide</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/workers/positions.shtml" class="nav_subsection">Poll Worker Positions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/workers/announcements.shtml" class="nav_subsection">Poll Worker Announcements & Notices</a><br>
+<a href="../../html/candidates/candidates.shtml" class="nav_section">For Candidates</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/candidates/list.shtml" class="nav_subsection">List of Candidates</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/candidates/disclosure.shtml" class="nav_subsection">Campaign Finance Disclosure</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/candidates/announcements.shtml" class="nav_subsection">Candidate Announcements & Notices</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/candidates/faq.shtml" class="nav_subsection">Frequently Asked Questions</a><br>
+<a href="../../html/dates/dates.shtml" class="nav_section">Election Dates</a><br>
+<a href="../../html/results/results.shtml" class="nav_section">Election Results Summary</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/results/2011.shtml" class="nav_subsection">2011</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/results/2010.shtml" class="nav_subsection">2010</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/results/2009.shtml" class="nav_subsection">2009</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/results/2008.shtml" class="nav_subsection">2008</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/results/2007.shtml" class="nav_subsection">2007</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/results/2006.shtml" class="nav_subsection">2006</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/results/2005.shtml" class="nav_subsection">2005</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/results/2004_previous.shtml" class="nav_subsection">2004-1999</a><br>
+<a href="../../html/news/news.shtml" class="nav_section">News</a><br>
+<a href="../../html/forms/forms.shtml" class="nav_section">Publications & Forms</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/forms/reports.shtml" class="nav_subsection">Annual Reports</a><br>
+<a href="../../html/info/info.shtml" class="nav_section">Requests for Information</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact NYC Board of Elections</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/offices.shtml" class="nav_subsection">Board of Elections Offices</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/bank.shtml" class="nav_subsection">Phone Bank Information</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/feedback.shtml" class="nav_subsection">Feedback Form</a><br>
+</noscript>
+    </td></tr>
+  
+</table><br><table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="padding-left: 16px;"><a href="../../html/home/email-updates.shtml"><img src="../../includes/site_images/nav/email_signup.gif" alt="Sign up for email updates" width="188" height="59" border="0" /></a></td>
+  </tr>
+</table><br><table width="188" border="0" cellspacing="0" cellpadding="0" bgcolor="f3f3f3" class="social_table" align="center">
+  <tr>
+    <td style="border-bottom: 1px solid #FFF;"><img src="../../includes/site_images/misc/fb.gif" width="37" height="28" align="absmiddle"><a href="http://www.facebook.com/VoteTheNewWayNY" class="social_link">Fan 
+      us on Facebook</a></td>
+  </tr>
+  <tr>
+    <td><img src="../../includes/site_images/misc/tw.gif" width="37" height="28" align="absmiddle"><a href="https://twitter.com/boenyc" class="social_link">Follow 
+      us on Twitter</a></td>
+  </tr>
+</table><br><table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="padding-left: 16px;"><a href="http://www.adobe.com/products/acrobat/readstep2.html"><img src="../../includes/site_images/misc/adobe.gif" border="0" align="absmiddle"></a></td>
+  </tr>
+</table>
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+			<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="559">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="559" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="559">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="20" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="509"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="509" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><span class="vote_header">Where to Vote</span><b>Polling places are located throughout the city. You can vote ONLY at your designated polling place.</b> Make sure your are at the correct polling site and Election District/Assembly District (ED/AD) for your address. <br /><br />
+Polling Places open 6:00 A.M. to 9:00 P.M. If you are not sure of that location you can <b>find you poll site location</b> by: 
+
+<ul><li>Search with the <a href="../../html/home/locator_updates.shtml">Online Poll Site Address Locator</a>&#160;</li><li>&#160;Call the Voter Phone Bank at 1.866.VOTE.NYC</li><li>&#160;<a href="mailto:voterreg@boe.nyc.ny.us">E-mail</a> your complete home address to us at vote@boe.nyc.ny.us and we'll e-mail your polling place location back to you. (Please put in the subject line the borough in which you reside.)</li></ul></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="20" border="0"></td></tr>
+					
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="559">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="20" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="509"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="509" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">Making the Polls Accessible<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext">The Board has made a concerted effort to increase the polling place accessibility for senior citizens and handicapped voters by removing physical barriers to the voting area at New York City polling sites. <br /><br />
+The effort includes: 
+
+<ul><li>Installation of curb cuts to assist voters with wheelchairs in gaining access from street level</li><li>Construction of building ramps or temporary ramps for voters with canes or wheelchairs</li><li>Miscellaneous repairs to doors, handrails, light fixtures, and walkways</li></ul>
+
+In some cases, polling places have been relocated to more accessible buildings within the same Election District. 99% of all city polling sites are now barrier free, however, problems remain at some sites. <b>Voters who feel that their site is inaccessible may</b>&#160;<a href="../../html/contact/offices.shtml">call the Voter Registration Unit of their local Borough office</a> for information.<br /></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="20" border="0"></td></tr>
+					
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="559" border="0" cellspacing="0" cellpadding="0">
+				
+				  
+				
+				
+
+				  
+					  
+					<tr>
+					<td colspan="3" align="left" valign="top" bgcolor="" width="559">
+							
+							</td></tr>
+						
+					
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="559" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="559">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+		<!-- END_PRINT_PAGE -->		
+
+			
+
+
+<!-- BEGIN_PRINT_PAGE -->
+				</td>
+				<!-- END of CENTER column -->
+		<!-- END_PRINT_PAGE -->					
+				
+				<!-- START of THIRD column -->
+				<td align="left" valign="top" width="220" id="col3_content">
+					
+						<div>
+	<img src="../../includes/site_images/misc/vote_here.jpg">
+	<br />
+	<p style="line-height:17px; font-size:small; margin:5px 0px 5px 0px;"><strong>Poll Site Locator &amp;</strong><br /><strong>Sample Ballots</strong></p>
+</div>
+<div class="psl-search-widget layout-v" data-uri="http://nyc.pollsitelocator.com/" data-ref="Board of Elections in the City of New York" data-domain="http://vote.nyc.ny.us" data-placeholder="Enter Home Address" data-text="Lookup" data-lang="eng"></div>
+<script src="http://nyc.pollsitelocator.com/xd.searchwidget.js" type="text/javascript"></script>
+					
+						<!--<table border="0" cellspacing="0" cellpadding="0" width="220">
+  <tr> 
+    <td><img src="../../includes/site_images/misc/module_divider.gif" width="220" height="1"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td style="padding-right: 10px;"><a href="../../html/contact/feedback_primary_en.shtml">Voter Feedback on Voting 
+      Experience</a> </td>
+  </tr>
+  <tr> 
+    <td style="padding-top: 7px; padding-right: 10px;"><a href="../../html/contact/feedback_primary_sp.shtml">Comentarios de los Votantes 
+      sobre la Experiencia de Votar</a></td>
+  </tr>
+  <tr> 
+    <td style="padding-top: 7px;padding-right: 10px;"><a href="../../html/contact/feedback_primary_ch.shtml">&#36984;&#27665;&#25237;&#31080;&#39636;&#39511;&#24847;&#35211;&#35519;&#26597;</a></td>
+  </tr>
+  <tr> 
+    <td style="padding-top: 7px;"><a href="../../html/contact/feedback_primary_ko.shtml">&#53804;&#54364;&#51088;&#51032; 
+      &#44221;&#54744;&#45812;</a></td>
+  </tr>
+  <tr> 
+    <td style="padding-top: 7px;"><a style="font-size:18px" href="../../html/contact/feedback_primary_bn.shtml">&#2477;&#2507;&#2463;&#2470;&#2494;&#2472;&#2503;&#2480; &#2437;&#2477;&#2495;&#2460;&#2509;&#2462;&#2468;&#2494;&#2480; &#2441;&#2474;&#2480; &#2477;&#2507;&#2463;&#2494;&#2480;&#2503;&#2480; &#2474;&#2509;&#2480;&#2468;&#2495;&#2453;&#2509;&#2480;&#2495;&#2527;&#2494;</a></td>
+  </tr>
+
+</table>-->
+					
+				</td>
+				<!-- END of THIRD column -->
+		<!-- BEGIN_PRINT_PAGE -->		
+			</tr>
+	<!-- END_PRINT_PAGE -->			
+			<tr>
+				
+
+				<td>&nbsp;</td><td colspan="2"><!--<div style="position: absolute; left: 0px;"><table width="999" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+      <td><img src="../../includes/site_images/misc/bottom_branding_sub.gif" width="999" height="25" border="0" usemap="#Map"></td>
+    </tr>
+</table></div>
+<map name="Map">
+  <area shape="rect" coords="931,-1,996,64" href="http://vote.nyc.ny.us/html/contact/feedback.shtml">
+</map>-->
+</td>
+
+			
+			</tr>
+			<tr height="25">
+				<td colspan="3" align="left" valign="top" width="999" height="25">
+
+					<table width="999" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+	<!-- END_PRINT_PAGE -->
+			<table width="999" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+      <td><img src="../../includes/site_images/misc/bottom_branding_sub.gif" width="999" height="25" border="0" usemap="#Map"></td>
+    </tr>
+</table><map name="Map">
+  <area shape="rect" coords="931,-1,996,64" href="http://vote.nyc.ny.us/html/contact/feedback.shtml">
+</map><!--<table width="999" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding_home.gif" border="0"></td></tr>
+</table>-->
+<script src="/js/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+//<![CDATA[
+var PageConfig = {};
+var PageArray = {};
+
+PageConfig.dcsid = "dcs8myc867etzujzfdkl0u3e0_9g1u";
+PageConfig.trackdownload = true;
+
+PageArray.PageLoad = [];
+PageArray.PageLoad[0] = "WT.cg_n";
+PageArray.PageLoad[1] = "_BOE";
+
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+<img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcs8myc867etzujzfdkl0u3e0_9g1u/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/>
+</noscript>
+	<!-- BEGIN_PRINT_PAGE -->
+				</td>
+			</tr>
+		</table>
+	<!-- END_PRINT_PAGE -->	
+	</body>
+</html>
+

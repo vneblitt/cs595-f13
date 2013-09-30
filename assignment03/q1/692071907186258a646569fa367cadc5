@@ -1,0 +1,4501 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!--[if lt IE 7 ]> <html class="ie6" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="This month, we&#039;re updating eGallon prices and taking a look at how the U.S. electric vehicle market continues to strengthen." />
+<meta content="eGallon and Electric Vehicle Sales: The Big Picture" about="/articles/egallon-and-electric-vehicle-sales-big-picture" property="dc:title" />
+<script type="text/javascript" src="/sites/all/themes/energy/scripts/Federated-Analytics.js"></script>
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://energy.gov/articles/egallon-and-electric-vehicle-sales-big-picture" />
+<meta property="fb:admins" content="10718899,1407911,20010394,13004794,207303407,203176,747807274,100001088239132,1384028141" />
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<link rel="shortcut icon" href="http://energy.gov/sites/all/themes/energy/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="http://energy.gov/node/715131" />
+<meta property="og:site_name" content="Energy.gov" />
+<meta property="og:country-name" content="USA" />
+<meta property="og:image" content="http://energy.gov/sites/prod/files/styles/thumbnail/public/contributor/headshot/leviThumbnail.jpeg?itok=TyEFXNfQ" />
+<meta property="og:description" content="eGallon and Electric Vehicle Sales: The Big Picture" />
+<meta property="og:title" content="eGallon and Electric Vehicle Sales: The Big Picture" />
+<meta name="viewport" content="width = 1150" />
+<meta property="og:type" content="government" />
+<meta property="og:url" content="http://energy.gov/articles/egallon-and-electric-vehicle-sales-big-picture" />
+<meta property="og:postal-code" content="20585" />
+<meta property="og:locality" content="Washington D.C." />
+<meta property="og:street-address" content="1000 Independence Ave. SW" />
+<meta property="og:phone_number" content="202-586-5000" />
+  <title>eGallon and Electric Vehicle Sales: The Big Picture | Department of Energy</title>
+  <link type="text/css" rel="stylesheet" href="http://energy.gov/sites/prod/files/css/css_xwwty2lVop1GS28EwMIEiahTMh1EiKYJvecV_wRTX_I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://energy.gov/sites/prod/files/css/css_Lny62KFVHcZKZ4br6vN6g3NoQxWyMOiO7UxqfNtGUqo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fast.fonts.com/t/1.css?apiType=css&amp;projectid=b893a4ff-9ea3-4ce8-bf77-c8d3e3a3de97" media="all" />
+<link type="text/css" rel="stylesheet" href="http://energy.gov/sites/prod/files/css/css_p4_C3hA3pQ1Xm6odhfnBxnmoIAlgmficgmhj9QPOknQ.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sidebar-right{display:none !important;}*{margin:0;padding:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;}a{cursor:pointer;text-decoration:none;color:#ccc;}a:hover{color:#fff;}ul{list-style:none}.clearfix:before,.clearfix:after{content:" ";display:table;}.clearfix:after{clear:both;}.clearfix{*zoom:1;}#body_cont h1{font-size:30px;font-family:'Avenir LT W02 35 Light',verdana,sans-serif;text-transform:none !important;line-height:36px;color:#fff;}#body_cont h2{font-size:24px;line-height:29px;font-weight:400;color:#93C528;margin-bottom:10px;text-transform:none !important;}#body_cont h3{font-size:24px;line-height:29px;font-weight:400;margin-bottom:10px;text-transform:none !important;color:#fff;}#body_cont p{font-size:20px;line-height:24px;font-weight:300;margin-bottom:30px;text-transform:none !important;color:#fff;border-bottom:none !important;}#body_cont p#ptop{margin-right:15px;}.green{color:#93C528;font-family:'Avenir LT W02 85 Heavy',verdana,sans-serif;}#body_cont{font-family:'Avenir LT W02 35 Light',verdana,sans-serif;text-transform:none !important;position:relative;width:1000px;background:rgb(70,70,70) url('/sites/prod/files/egallon_bg.png') fixed;height:480px;}#top_cont{background-color:rgb(60,60,60);background-color:rgba(50,50,50,0.25);text-align:center;padding-top:15px;padding-bottom:10px;border-bottom:13px solid #303031;}#left_cont{width:50%;float:left;margin-top:50px;position:relative;}#right_cont{float:right;width:50%;margin-top:25px;border-left:1px solid #4DB33D;}.left_text{padding-top:5px;padding-bottom:5px;padding-left:83px;margin-left:70px;margin-right:55px;background-repeat:no-repeat;}#bottom_right{padding-right:100px;margin-top:23px;float:right;}#bottom_right a{color:#93C528 !important;font-weight:300;font-size:12px;}#right_text{margin-right:50px;margin-left:50px;padding-top:15px;padding-bottom:20px;text-align:center;}#gauge{background-image:url('/sites/prod/files/gauge.png');}#pump{background-image:url('/sites/prod/files/pump.png');}#fold img{z-index:100;margin-top:30px;position:absolute;bottom:0px;right:0px;padding-bottom:0px !important;margin-bottom:0px !important;}.price{margin-right:20px;margin-left:40px;position:relative;height:100px;border-top:1px solid #4DB33D;}.price:last-child{border-bottom:1px solid #4DB33D;padding-bottom:100px;}.price_text{bottom:-42px;left:10px;width:100px;float:left;position:relative;}.subprice{position:absolute;top:0px;right:-15px;width:230px;}#price2{clear:both;}.decimal{position:relative;float:left;width:15px;height:90px;margin-left:-5px;font-size:70px;font-weight:bold;line-height:165px;color:#fff;}ul.flip{position:relative;float:left;margin:5px;width:60px;height:90px;font-size:80px;font-weight:bold;line-height:87px;border-radius:6px;box-shadow:0 2px 5px rgba(0,0,0,.7);}ul.flip li{z-index:1;position:absolute;left:0;top:0;width:100%;height:100%;}ul.flip li:first-child{z-index:2;}ul.flip li a{display:block;height:100%;perspective:200px;}ul.flip li a div{z-index:1;position:absolute;left:0;width:100%;height:100%;overflow:hidden;}ul.flip li a div .shadow{position:absolute;width:100%;height:100%;z-index:2;}ul.flip li a div div.inn{position:absolute;left:0;z-index:1;width:100%;height:100%;color:#ccc;text-shadow:0 1px 2px #000;text-align:center;background-color:#333;border-radius:6px;}ul.flip li a div.shadow div.line{height:2px;background-color:#111;top:48%;-moz-box-shadow:0 1px 1px #555;-webkit-box-shadow:0 1px 1px #555;box-shadow:0 1px 1px #555;}ul.flip li a div.shadow div.side{z-index:99;height:14px;background-color:rgb(220,220,220);top:41%;width:4px;}ul.flip li a div.shadow div.le{left:0%;-moz-box-shadow:inset 0px -5px 5px 0px #555,1px 1px 1px #222;-webkit-box-shadow:inset 0px -5px 5px 0px #555,1px 1px 1px #222;box-shadow:inset 0px -5px 5px 0px #555,1px 1px 1px #222;}ul.flip li a div.shadow div.ri{left:93%;-moz-box-shadow:inset 0px -5px 5px 0px #555,-1px 1px 1px #222;-webkit-box-shadow:inset 0px -5px 5px 0px #555,-1px 1px 1px #222;box-shadow:inset 0px -5px 5px 0px #555,-1px 1px 1px #222;}body.play ul li.before{z-index:3;}body.play ul li.active{animation:asd .5s .5s linear both;z-index:2;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://energy.gov/sites/prod/files/css/css_xQqzfYSmU-a_z_V4pavBH3Dm_6nYF8iiXvhNdNLXclA.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sidebar-right{display:none !important;}*{margin:0;padding:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;}a{cursor:pointer;text-decoration:none;color:#ccc;}a:hover{color:#fff;}ul{list-style:none}.clearfix:before,.clearfix:after{content:" ";display:table;}.clearfix:after{clear:both;}.clearfix{*zoom:1;}#body_cont h1{font-size:30px;font-family:'Avenir LT W02 35 Light',verdana,sans-serif;text-transform:none !important;line-height:36px;color:#fff;}#body_cont h2{font-size:24px;line-height:29px;font-weight:400;color:#93C528;margin-bottom:10px;text-transform:none !important;}#body_cont h3{font-size:24px;line-height:29px;font-weight:400;margin-bottom:10px;text-transform:none !important;color:#fff;}#body_cont p{font-size:20px;line-height:24px;font-weight:300;margin-bottom:30px;text-transform:none !important;color:#fff;border-bottom:none !important;}#body_cont p#ptop{margin-right:15px;}.green{color:#93C528;font-family:'Avenir LT W02 85 Heavy',verdana,sans-serif;}#body_cont{font-family:'Avenir LT W02 35 Light',verdana,sans-serif;text-transform:none !important;position:relative;width:1000px;background:rgb(70,70,70) url('/sites/prod/files/egallon_bg.png') fixed;height:480px;}#top_cont{background-color:rgb(60,60,60);background-color:rgba(50,50,50,0.25);text-align:center;padding-top:15px;padding-bottom:10px;border-bottom:13px solid #303031;}#left_cont{width:50%;float:left;margin-top:50px;position:relative;}#right_cont{float:right;width:50%;margin-top:25px;border-left:1px solid #4DB33D;}.left_text{padding-top:5px;padding-bottom:5px;padding-left:83px;margin-left:70px;margin-right:55px;background-repeat:no-repeat;}#bottom_right{padding-right:100px;margin-top:23px;float:right;}#bottom_right a{color:#93C528 !important;font-weight:300;font-size:12px;}#right_text{margin-right:50px;margin-left:50px;padding-top:15px;padding-bottom:20px;text-align:center;}#gauge{background-image:url('/sites/prod/files/gauge.png');}#pump{background-image:url('/sites/prod/files/pump.png');}#fold img{z-index:100;margin-top:30px;position:absolute;bottom:0px;right:0px;padding-bottom:0px !important;margin-bottom:0px !important;}.price{margin-right:20px;margin-left:40px;position:relative;height:100px;border-top:1px solid #4DB33D;}.price:last-child{border-bottom:1px solid #4DB33D;padding-bottom:100px;}.price_text{bottom:-42px;left:10px;width:100px;float:left;position:relative;}.subprice{position:absolute;top:0px;right:-15px;width:230px;}#price2{clear:both;}.decimal{position:relative;float:left;width:15px;height:90px;margin-left:-5px;font-size:70px;font-weight:bold;line-height:165px;color:#fff;}ul.flip{position:relative;float:left;margin:5px;width:60px;height:90px;font-size:80px;font-weight:bold;line-height:87px;border-radius:6px;box-shadow:0 2px 5px rgba(0,0,0,.7);}ul.flip li{z-index:1;position:absolute;left:0;top:0;width:100%;height:100%;}ul.flip li:first-child{z-index:2;}ul.flip li a{display:block;height:100%;perspective:200px;}ul.flip li a div{z-index:1;position:absolute;left:0;width:100%;height:100%;overflow:hidden;}ul.flip li a div .shadow{position:absolute;width:100%;height:100%;z-index:2;}ul.flip li a div div.inn{position:absolute;left:0;z-index:1;width:100%;height:100%;color:#ccc;text-shadow:0 1px 2px #000;text-align:center;background-color:#333;border-radius:6px;}ul.flip li a div.shadow div.line{height:2px;background-color:#111;top:48%;-moz-box-shadow:0 1px 1px #555;-webkit-box-shadow:0 1px 1px #555;box-shadow:0 1px 1px #555;}ul.flip li a div.shadow div.side{z-index:99;height:14px;background-color:rgb(220,220,220);top:41%;width:4px;}ul.flip li a div.shadow div.le{left:0%;-moz-box-shadow:inset 0px -5px 5px 0px #555,1px 1px 1px #222;-webkit-box-shadow:inset 0px -5px 5px 0px #555,1px 1px 1px #222;box-shadow:inset 0px -5px 5px 0px #555,1px 1px 1px #222;}ul.flip li a div.shadow div.ri{left:93%;-moz-box-shadow:inset 0px -5px 5px 0px #555,-1px 1px 1px #222;-webkit-box-shadow:inset 0px -5px 5px 0px #555,-1px 1px 1px #222;box-shadow:inset 0px -5px 5px 0px #555,-1px 1px 1px #222;}body.play ul li.before{z-index:3;}body.play ul li.active{animation:asd .5s .5s linear both;z-index:2;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://energy.gov/sites/prod/files/css/css_xEha32p3r_SWNDY2T700ER6I6kMtW8mIHMdi3KIRe_c.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sidebar-right{display:none !important;}*{margin:0;padding:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;}a{cursor:pointer;text-decoration:none;color:#ccc;}a:hover{color:#fff;}ul{list-style:none}.clearfix:before,.clearfix:after{content:" ";display:table;}.clearfix:after{clear:both;}.clearfix{*zoom:1;}#body_cont h1{font-size:30px;font-family:'Avenir LT W02 35 Light',verdana,sans-serif;text-transform:none !important;line-height:36px;color:#fff;}#body_cont h2{font-size:24px;line-height:29px;font-weight:400;color:#93C528;margin-bottom:10px;text-transform:none !important;}#body_cont h3{font-size:24px;line-height:29px;font-weight:400;margin-bottom:10px;text-transform:none !important;color:#fff;}#body_cont p{font-size:20px;line-height:24px;font-weight:300;margin-bottom:30px;text-transform:none !important;color:#fff;border-bottom:none !important;}#body_cont p#ptop{margin-right:15px;}.green{color:#93C528;font-family:'Avenir LT W02 85 Heavy',verdana,sans-serif;}#body_cont{font-family:'Avenir LT W02 35 Light',verdana,sans-serif;text-transform:none !important;position:relative;width:1000px;background:rgb(70,70,70) url('/sites/prod/files/egallon_bg.png') fixed;height:480px;}#top_cont{background-color:rgb(60,60,60);background-color:rgba(50,50,50,0.25);text-align:center;padding-top:15px;padding-bottom:10px;border-bottom:13px solid #303031;}#left_cont{width:50%;float:left;margin-top:50px;position:relative;}#right_cont{float:right;width:50%;margin-top:25px;border-left:1px solid #4DB33D;}.left_text{padding-top:5px;padding-bottom:5px;padding-left:83px;margin-left:70px;margin-right:55px;background-repeat:no-repeat;}#bottom_right{padding-right:100px;margin-top:23px;float:right;}#bottom_right a{color:#93C528 !important;font-weight:300;font-size:12px;}#right_text{margin-right:50px;margin-left:50px;padding-top:15px;padding-bottom:20px;text-align:center;}#gauge{background-image:url('/sites/prod/files/gauge.png');}#pump{background-image:url('/sites/prod/files/pump.png');}#fold img{z-index:100;margin-top:30px;position:absolute;bottom:0px;right:0px;padding-bottom:0px !important;margin-bottom:0px !important;}.price{margin-right:20px;margin-left:40px;position:relative;height:100px;border-top:1px solid #4DB33D;}.price:last-child{border-bottom:1px solid #4DB33D;padding-bottom:100px;}.price_text{bottom:-42px;left:10px;width:100px;float:left;position:relative;}.subprice{position:absolute;top:0px;right:-15px;width:230px;}#price2{clear:both;}.decimal{position:relative;float:left;width:15px;height:90px;margin-left:-5px;font-size:70px;font-weight:bold;line-height:165px;color:#fff;}ul.flip{position:relative;float:left;margin:5px;width:60px;height:90px;font-size:80px;font-weight:bold;line-height:87px;border-radius:6px;box-shadow:0 2px 5px rgba(0,0,0,.7);}ul.flip li{z-index:1;position:absolute;left:0;top:0;width:100%;height:100%;}ul.flip li:first-child{z-index:2;}ul.flip li a{display:block;height:100%;perspective:200px;}ul.flip li a div{z-index:1;position:absolute;left:0;width:100%;height:100%;overflow:hidden;}ul.flip li a div .shadow{position:absolute;width:100%;height:100%;z-index:2;}ul.flip li a div div.inn{position:absolute;left:0;z-index:1;width:100%;height:100%;color:#ccc;text-shadow:0 1px 2px #000;text-align:center;background-color:#333;border-radius:6px;}ul.flip li a div.shadow div.line{height:2px;background-color:#111;top:48%;-moz-box-shadow:0 1px 1px #555;-webkit-box-shadow:0 1px 1px #555;box-shadow:0 1px 1px #555;}ul.flip li a div.shadow div.side{z-index:99;height:14px;background-color:rgb(220,220,220);top:41%;width:4px;}ul.flip li a div.shadow div.le{left:0%;-moz-box-shadow:inset 0px -5px 5px 0px #555,1px 1px 1px #222;-webkit-box-shadow:inset 0px -5px 5px 0px #555,1px 1px 1px #222;box-shadow:inset 0px -5px 5px 0px #555,1px 1px 1px #222;}ul.flip li a div.shadow div.ri{left:93%;-moz-box-shadow:inset 0px -5px 5px 0px #555,-1px 1px 1px #222;-webkit-box-shadow:inset 0px -5px 5px 0px #555,-1px 1px 1px #222;box-shadow:inset 0px -5px 5px 0px #555,-1px 1px 1px #222;}body.play ul li.before{z-index:3;}body.play ul li.active{animation:asd .5s .5s linear both;z-index:2;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://energy.gov/sites/prod/files/css/css_eML5x8a0V5Y0xdSlyhchORfklT6lOcSP1XTxE-gtV08.css" media="all" />
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-715131 node-type-article group-context group-context-group-1 group-context-taxonomy-term group-context-taxonomy-term-31" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+
+<div id="sticky-header-anchor"></div>
+<div id="sticky-header">
+  <div id="header-wrapper">
+    <div id="header" class="container column-row">
+        <div class="region region-header">
+    <div><div class="block-energy-core-site-name-wrapper">
+  <div id="block-energy-core-site-name" class="block block-energy-core block-energy-core-site-name clearfix">
+
+          
+    <div class="content">
+      <h1 class="site-name"><a href="/" class=""><span>Energy.gov</span></a></h1>    </div>
+  </div>
+</div></div><div class="energy-location-widget no-zip"><div class="block-energy-location-energy-location-zip-wrapper">
+  <div id="block-energy-location-energy-location-zip" class="block block-energy-location block-energy-location-energy-location-zip clearfix">
+
+          
+    <div class="content">
+      <div class="energy-current-location">Find information about your town or city.</div><div class="energy-location-form"><form action="/articles/egallon-and-electric-vehicle-sales-big-picture" method="post" id="energy-location-set-zip-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-zip">
+ <input placeholder="Enter your zip code" type="text" id="edit-zip" name="zip" value="" size="10" maxlength="5" class="form-text" />
+</div>
+<input onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;ZipCode&#039;, &#039;GO&#039;, &#039;Zipcode form&#039;]);" type="submit" id="edit-zip-save" name="op" value="GO" class="form-submit" /><input type="hidden" name="form_build_id" value="form-kpwL43eu9BBlEXr3v92A32SX8hBe8Nue0rntv3YIiqE" />
+<input type="hidden" name="form_id" value="energy_location_set_zip_form" />
+</div></form></div>    </div>
+  </div>
+</div></div><div class="block-search-form-wrapper">
+  <div id="block-search-form" class="block block-search block-search-form clearfix">
+
+          
+    <div class="content">
+      <form action="/articles/egallon-and-electric-vehicle-sales-big-picture" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search Energy.gov" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" value="Search" src="http://energy.gov/sites/all/themes/energy/images/energy_search_glass.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-OjT9xpZkCh8KhIRAhF1qmiktaKWsnqNFqUc8hIlE8So" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+</div><div class="block-energy-social-energy-gov-social-block-wrapper">
+  <div id="block-energy-social-energy-gov-social-block" class="block block-energy-social block-energy-social-energy-gov-social-block clearfix">
+
+          
+    <div class="content">
+      <div id="energy-social-widget">
+<div class="item-list"><ul><li class="first"><a href="/exit?url=https%3A//www.facebook.com/energygov" class="energy-social-link"><span>link to facebook</span></a></li>
+<li><a href="/exit?url=https%3A//twitter.com/energy" class="energy-social-link"><span>link to twitter</span></a></li>
+<li class="last"><a href="/#emailSignup" class=""><span>Email Signup</span></a>
+<!-- Begin MailChimp Signup Form -->
+    <div id="mc_embed_signup">
+      <form action="http://energy.us5.list-manage.com/subscribe/post?u=d8fbb7a1814155cc38f24adeb&amp;id=a6805280ba" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <label for="mce-EMAIL">Sign up for updates</label>
+        <input type="email" value="" placeholder="Enter your e-mail address" name="EMAIL" class="form-text" id="mce-EMAIL">
+        <input type="submit" value="Go" name="subscribe" id="mc-embedded-subscribe" class="form-button link-button more-link energy-social-link">
+      </form>
+    </div>
+    <!--End mc_embed_signup--></li>
+</ul></div>
+</div>    </div>
+  </div>
+</div>  </div>
+    </div>
+  </div>
+
+<div id="navigation-wrapper">
+  <div id="navigation" class="container column-row">
+      <div class="region region-navigation">
+    <div class="block-energy-core-navigation-main-wrapper">
+  <div id="block-energy-core-navigation-main" class="block block-energy-core block-energy-core-navigation-main clearfix">
+
+          <h4 class="block-title">Energy.gov</h4>
+      
+    <div class="content">
+      <div class="primary-nav"><ul class="menu"><li class="first expanded"><a href="/public-services" class=""><span>Public Services</span></a><ul class="menu"><li class="first leaf"><a href="/savings" class=""><span>Tax Credits, Rebates &amp; Savings</span></a></li>
+<li class="collapsed"><a href="/public-services/homes" class=""><span>Homes</span></a></li>
+<li class="collapsed"><a href="/public-services/vehicles" class=""><span>Vehicles</span></a></li>
+<li class="collapsed"><a href="/public-services/building-design" class=""><span>Building Design</span></a></li>
+<li class="leaf"><a href="/public-services/manufacturing" class=""><span>Manufacturing</span></a></li>
+<li class="collapsed"><a href="/public-services/national-security-safety" class=""><span>National Security &amp; Safety</span></a></li>
+<li class="collapsed"><a href="/public-services/energy-economy" class=""><span>Energy Economy</span></a></li>
+<li class="leaf"><a href="/public-services/funding-opportunities" class=""><span>Funding Opportunities</span></a></li>
+<li class="last leaf"><a href="/public-services/state-local-government" class=""><span>State &amp; Local Government</span></a></li>
+</ul></li>
+<li class="expanded"><a href="/science-innovation" class=""><span>Science &amp; Innovation</span></a><ul class="menu"><li class="first collapsed"><a href="/science-innovation/science-technology" class=""><span>Science &amp; Technology</span></a></li>
+<li class="leaf"><a href="/science-innovation/science-education" class=""><span>Science Education</span></a></li>
+<li class="collapsed"><a href="/science-innovation/innovation" class=""><span>Innovation</span></a></li>
+<li class="collapsed"><a href="/science-innovation/energy-sources" class=""><span>Energy Sources</span></a></li>
+<li class="collapsed"><a href="/science-innovation/energy-usage" class=""><span>Energy Usage</span></a></li>
+<li class="collapsed"><a href="/science-innovation/energy-efficiency" class=""><span>Energy Efficiency</span></a></li>
+<li class="last leaf"><a href="/climate-change" class=""><span>Climate Change</span></a></li>
+</ul></li>
+<li class="last leaf"><a href="/mission" class=""><span>Mission</span></a></li>
+</ul></div><div class="secondary-nav"><ul class="menu"><li class="first leaf"><a href="/news-blog" class=""><span>News &amp; Blog</span></a></li>
+<li class="leaf"><a href="/maps/" class=""><span>Maps</span></a></li>
+<li class="leaf"><a href="/data/open-energy-data" class=""><span>Data</span></a></li>
+<li class="leaf"><a href="/about-us" class=""><span>About Us</span></a></li>
+<li class="leaf"><a href="/staff-and-contractors" class=""><span>For Staff &amp; Contractors</span></a></li>
+<li class="last leaf"><a href="/offices" class=""><span>Offices</span></a></li>
+<div class="office-flyout"><div class="item-list"><h3>All Offices</h3><ul><li class="first"><a href="/offices#Program Offices" class="more-link"><span>Program Offices</span></a></li>
+<li><a href="/offices#Staff Offices" class="more-link"><span>Staff Offices</span></a></li>
+<li><a href="/offices#Labs &amp; Technology Centers" class="more-link"><span>Labs &amp; Technology Centers</span></a></li>
+<li><a href="/offices#Operations Offices" class="more-link"><span>Field Sites</span></a></li>
+<li><a href="/offices#Power Marketing Administration" class="more-link"><span>Power Marketing Administration</span></a></li>
+<li class="last"><a href="/offices#Other Agencies" class="more-link"><span>Other Agencies</span></a></li>
+</ul></div></div></ul></div>    </div>
+  </div>
+</div>  </div>
+  </div>
+</div>
+</div> 
+<div id="content-wrapper">
+<div id="top-wrapper">
+  <div id="top" class="container column-row">
+        <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/energygov" class=""><span>Home</span></a> » eGallon and Electric Vehicle Sales: The Big Picture</div>    <div class="page-title-wrapper clearfix">
+      <h2 class="page-title">eGallon and Electric Vehicle Sales: The Big Picture</h2>
+          </div>
+        <div class="publish-date">August 19, 2013 - 8:30am</div>                            <div class="region region-top">
+    <div class="block-energy-content-energy-addthis-wrapper">
+  <div id="block-energy-content-energy-addthis" class="block block-energy-content block-energy-content-energy-addthis clearfix">
+
+          <h4 class="block-title">Addthis</h4>
+      
+    <div class="content">
+          <script type="text/javascript">
+      <!--//--><![CDATA[//><!--
+        addthis_pub = 'ra-4e306a1b4dc28184';
+        Document.ui_use_css = false;
+      //--><!]]>
+    </script>
+    <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_default_style "  addthis:url="http://energy.gov/articles/egallon-and-electric-vehicle-sales-big-picture" addthis:title="eGallon and Electric Vehicle Sales: The Big Picture" addthis:description="eGallon and Electric Vehicle Sales: The Big Picture">
+      <a class="addthis_button_email"></a><a class="addthis_button_facebook"></a><a class="addthis_button_tweet" tw:via="energy" tw:count="none"></a><a class="addthis_button_google_plusone" g:plusone:size="medium" g:plusone:count="false"></a>
+    </div>
+    <script type="text/javascript">
+    var addthisScript = addthisScript || document.createElement('script');
+    addthisScript.src = addthisScript.src || 'http://s7.addthis.com/js/250/addthis_widget.js';
+    if (!firstScript) {
+      var firstScript = document.getElementsByTagName("script")[0];
+      firstScript.parentNode.insertBefore(addthisScript, firstScript);
+    }
+    </script>
+    <!-- AddThis Button END -->    </div>
+  </div>
+</div>  </div>
+      </div>
+</div>
+
+<div id="page-wrapper">
+  <div id="page" class="container column-row">
+
+    
+
+    <div id="content-sidebar-right-wrapper"  class="column last first grid-12">
+      
+      <div id="main-content"  class="column first grid-9">
+                <div id="content">  <div class="region region-content">
+    <div class="block-system-main-wrapper">
+  <div id="block-system-main" class="block block-system block-system-main clearfix">
+
+          
+    <div class="content">
+      <div class="node node-article node-full node-715131 clearfix" about="/articles/egallon-and-electric-vehicle-sales-big-picture" typeof="sioc:Item foaf:Document">
+
+  
+          
+  
+  <div class="content">
+    <div class="field field-name-field-article-hero field-type-energy-hero field-label-hidden"><div class="field-items"><div class="field-item field-item-0"><div class="energy-hero energy-static-map"><div class="node node-map node-hero-node-reference node-641211 clearfix" about="/maps/egallon" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <div class="field field-name-field-map-map field-type-energy-map field-label-hidden"><div class="field-items"><div class="field-item even"><div id="body_cont">
+    <div id="top_cont">
+        <h1><span class="green">eGallon:</span> Compare the costs of <span class="green">driving</span> with <span class="green">electricity</span></h1> 
+    </div>
+    
+    <div id="left_cont">
+        <div id="pump" class="left_text">
+            <h2>What is eGallon?</h2>
+            <p id="ptop">It is the cost of fueling a vehicle with electricity compared to a similar vehicle that runs on gasoline.</p>
+        </div>
+        <div id="gauge" class="left_text">
+            <h2>Did you know?</h2>
+            <p>On average, it costs about 3 times less to drive an electric vehicle.</p>
+        </div>
+    </div>
+
+    <div id="right_cont">
+        <div id="right_text">
+            <h3>Find out how much it costs to fuel an electric vehicle in your state</h3>
+
+            <select id="mySelect"></select>
+        </div>
+        <div class="price">
+            <div class="price_text">
+                <p>regular gasoline</p>
+            </div>
+            <div class="subprice">
+                <ul class="flip minutePlay">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow">
+                                    <div class="line"></div>
+                                    <div class="side le"></div>
+                                    <div class="side ri"></div>
+                                </div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">6</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">1</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow">
+                                    <div class="line"></div>
+                                    <div class="side le"></div>
+                                    <div class="side ri"></div>
+                                    
+                                </div>
+                                <div id="onestG" class="inn">3</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <div class="decimal">&middot;</div>
+                <ul class="flip secondPlay">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">2</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">8</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="tenthstG" class="inn">6</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="flip milliPlay">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">8</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">9</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">2</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">3</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">5</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="hundrethstG" class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+        <div id="price2" class="price">
+            <div class="price_text">
+                <p>electric eGallon</p>
+            </div>
+            <div class="subprice">
+                <ul class="flip minutePlay2">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">1</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">7</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">2</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">3</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="onestE" class="inn">3</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <div class="decimal">&middot;</div>
+                <ul class="flip secondPlay2">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">2</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="tenthstE" class="inn">6</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="flip milliPlay2">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">8</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">5</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">9</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">1</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">5</div>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="hundrethstE" class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+ <div id="fold">
+            <a href="http://energy.gov/"><img src="/sites/prod/files/fold.png"></a>
+        </div>
+    </div>
+               <div id="bottom_right">
+            <a href="http://energy.gov/node/658271">Data and Methodology</a>
+        </div>
+</div></div></div></div>  </div>
+
+  
+  
+</div>
+</div></div></div></div><div class="field-group-format group_article_sidebar field-group-div group-article-sidebar column grid-2 first sidebar speed-fast effect-none"><div class="field field-name-field-article-contributor field-type-node-reference field-label-hidden"><a href="/contributors/levi-tillemann" class=""><span><img typeof="foaf:Image" src="http://energy.gov/sites/prod/files/styles/photo_thumb/public/contributor/headshot/leviThumbnail.jpeg?itok=VCtYAlF4" width="150" height="100" alt="Levi Tillemann" title="Levi Tillemann" /></span></a><a href="/contributors/levi-tillemann" class=""><span>Levi Tillemann</span></a><div class="contributor-title">Special Advisor for Policy and International Affairs</div></div><h3 class="field field-name-field-article-callout-title field-type-text field-label-hidden">More on eGallon:</h3><ul class="field field-name-field-article-callout-text field-type-text-long field-label-hidden"><li>Learn how <a href="/node/656041">electricity and gasoline prices compare</a>, and what this means for driving electric.</li><li><a href="/node/712451">Explore EV sales</a> by the numbers with our interactive graph.</li><li>Read the <a href="/node/658521">eGallon Q&amp;A</a> to learn more about the interactive tool.</li><li><a href="/node/711791">Read more</a> about electric vehicle sales and eGallon's continued consistency.</li></ul></div><div class="field-group-format group_article_main field-group-div group-article-main column grid-7 last speed-fast effect-none"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p><strong><em>Editor's Note: This post was edited to reflect the most current gasoline price figures.</em></strong></p>
+<p>For certain markets, time of year has a distinct effect on prices and/or sales volumes. For instance, sales of Halloween favors tend to be high in October and decline in November. But that drop in sales doesn’t spell doom for candy and costume shops. Similarly, falling peach harvests between August and October don’t say much about the overall health of the orchards. This seasonality is why we often look at year-on-year growth instead of month-to-month growth to determine market dynamics.</p>
+<p>July exhibits some of that same seasonality for the electric vehicle (EV) market. Taken in this context, both the EV market and <a href="/articles/egallon-what-it-and-why-it-s-important">eGallon</a> are performing extremely well.</p>
+<h4><strong>Gasoline prices rise, eGallon edges up</strong></h4>
+<p>Just like gasoline, the eGallon price tends to rise with the summer heat. This mostly results from increased electricity use associated with air conditioning. But despite this, the eGallon to gasoline ratio has held steady at about a 1:3 -- meaning that a gallon of unleaded gasoline is about three times as expensive as an eGallon. The average eGallon price for the country, which is based on May’s electricity prices, is now about $1.22 -- four cents higher than last month. Since our last eGallon update, gasoline prices have actually jumped about 7 cents to $3.56 -- though they too are down compared to this time last year. Use our eGallon tool at the top of the page to see gasoline and eGallon prices for your state.</p>
+<h4><strong>2013 continues to build strength</strong></h4>
+<p>Last month’s sales for plug-in electric vehicles were also robust, keeping America on track for a strong year. Americans bought 147 percent more EVs in July 2013 than July 2012 -- that's more than twice as many as last July. Although these numbers don’t quite match <a href="/articles/ev-sales-skyrocketing-egallon-holds-steady">June’s record highs</a>, there is good reason to believe that the slight retreat in sales was seasonal. In 2011, EV sales dropped by more than half from June to July. In 2012, they dropped by about 10 percent -- despite the fact that the market tripled in size. So the fact that EV sales retreated about 15 percent from June to July during 2013 shouldn’t come as much of a surprise.</p>
+<p>As for raw numbers, the Nissan Leaf topped the plug-in charts with 1,864 sales. But the Chevy Volt was right behind, selling almost 1,800 cars. Tesla’s Model S also sold at a steady clip, beating the company’s own forecasts for the second quarter of 2013. Using our <a href="/maps/visualizing-electric-vehicle-sales">interactive graph</a>, you can see how EV sales have progressed since their introduction in 2010.</p>
+<h4><strong>And ... 80 percent love their EVs</strong></h4>
+<p>One explanation for the continued strength of the U.S. EV market can be found in the overwhelmingly positive customer experience. A <a href="/exit?url=http%3A//autos.jdpower.com/content/press-release/X0Iqfsz/2012-electric-vehicle-ownership-experience-study.htm" rel="nofollow">recent survey by JD Power and Associates</a> showed that more than 80 percent of EV owners intend to purchase another EV of the same brand in the future. This is compared to under 50 percent brand loyalty for traditional vehicles -- yet another strong showing for America’s world-leading EV market.</p>
+ </div></div></div></div>  </div>
+
+  
+  
+</div>
+    </div>
+  </div>
+</div>  </div>
+</div>
+                  <div id="content-bottom">  <div class="region region-content-bottom">
+    <div class="block-energy-content-energy-addthis-bottom-wrapper">
+  <div id="block-energy-content-energy-addthis-bottom" class="block block-energy-content block-energy-content-energy-addthis-bottom clearfix">
+
+          <h4 class="block-title">Addthis</h4>
+      
+    <div class="content">
+          <script type="text/javascript">
+      <!--//--><![CDATA[//><!--
+        addthis_pub = 'ra-4e306a1b4dc28184';
+        Document.ui_use_css = false;
+      //--><!]]>
+    </script>
+    <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_default_style "  addthis:url="http://energy.gov/articles/egallon-and-electric-vehicle-sales-big-picture" addthis:title="eGallon and Electric Vehicle Sales: The Big Picture" addthis:description="eGallon and Electric Vehicle Sales: The Big Picture">
+      <a class="addthis_button_email"></a><a class="addthis_button_facebook"></a><a class="addthis_button_tweet" tw:via="energy" tw:count="none"></a><a class="addthis_button_google_plusone" g:plusone:size="medium" g:plusone:count="false"></a>
+    </div>
+    <script type="text/javascript">
+    var addthisScript = addthisScript || document.createElement('script');
+    addthisScript.src = addthisScript.src || 'http://s7.addthis.com/js/250/addthis_widget.js';
+    if (!firstScript) {
+      var firstScript = document.getElementsByTagName("script")[0];
+      firstScript.parentNode.insertBefore(addthisScript, firstScript);
+    }
+    </script>
+    <!-- AddThis Button END -->    </div>
+  </div>
+</div>  </div>
+</div>
+              </div>
+
+              <div id="sidebar-right"  class="sidebar column last grid-3">  <div class="region region-sidebar-second">
+    <div class="block-apachesolr-search-article-related-articles-wrapper">
+  <div id="block-apachesolr-search-article-related-articles" class="block block-apachesolr-search block-apachesolr-search-article-related-articles clearfix">
+
+          <h4 class="block-title">Related Articles</h4>
+      
+    <div class="content">
+      <div class="node node-article node-search-related node-711791 clearfix" about="/articles/ev-sales-skyrocketing-egallon-holds-steady" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <div class="field field-name-field-article-hero field-type-energy-hero field-label-hidden"><div class="field-items"><div class="field-item field-item-0"><div class="energy-hero energy-static-map"><div class="energy-hero-map-thumb" style="position: relative;"><a href="/articles/ev-sales-skyrocketing-egallon-holds-steady" class=""><span>See Map</span></a><div class="node node-map node-hero-node-reference node-641211 clearfix" about="/maps/egallon" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <div class="field field-name-field-map-map field-type-energy-map field-label-hidden"><div class="field-items"><div class="field-item even"><div id="body_cont">
+    <div id="top_cont">
+        <h1><span class="green">eGallon:</span> Compare the costs of <span class="green">driving</span> with <span class="green">electricity</span></h1> 
+    </div>
+    
+    <div id="left_cont">
+        <div id="pump" class="left_text">
+            <h2>What is eGallon?</h2>
+            <p id="ptop">It is the cost of fueling a vehicle with electricity compared to a similar vehicle that runs on gasoline.</p>
+        </div>
+        <div id="gauge" class="left_text">
+            <h2>Did you know?</h2>
+            <p>On average, it costs about 3 times less to drive an electric vehicle.</p>
+        </div>
+    </div>
+
+    <div id="right_cont">
+        <div id="right_text">
+            <h3>Find out how much it costs to fuel an electric vehicle in your state</h3>
+
+            <select id="mySelect"></select>
+        </div>
+        <div class="price">
+            <div class="price_text">
+                <p>regular gasoline</p>
+            </div>
+            <div class="subprice">
+                <ul class="flip minutePlay">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow">
+                                    <div class="line"></div>
+                                    <div class="side le"></div>
+                                    <div class="side ri"></div>
+                                </div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">6</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">1</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow">
+                                    <div class="line"></div>
+                                    <div class="side le"></div>
+                                    <div class="side ri"></div>
+                                    
+                                </div>
+                                <div id="onestG" class="inn">3</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <div class="decimal">&middot;</div>
+                <ul class="flip secondPlay">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">2</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">8</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="tenthstG" class="inn">6</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="flip milliPlay">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">8</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">9</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">2</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">3</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">5</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="hundrethstG" class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+        <div id="price2" class="price">
+            <div class="price_text">
+                <p>electric eGallon</p>
+            </div>
+            <div class="subprice">
+                <ul class="flip minutePlay2">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">1</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">7</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">2</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">3</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="onestE" class="inn">3</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <div class="decimal">&middot;</div>
+                <ul class="flip secondPlay2">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">2</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="tenthstE" class="inn">6</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="flip milliPlay2">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">8</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">5</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">9</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">1</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">5</div>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="hundrethstE" class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+ <div id="fold">
+            <a href="http://energy.gov/"><img src="/sites/prod/files/fold.png"></a>
+        </div>
+    </div>
+               <div id="bottom_right">
+            <a href="http://energy.gov/node/658271">Data and Methodology</a>
+        </div>
+</div></div></div></div>  </div>
+
+  
+  
+</div>
+</div></div></div></div></div><div class="search-related-title-image"><a href="/articles/ev-sales-skyrocketing-egallon-holds-steady" class="title-link"><span>EV Sales Skyrocketing. eGallon Holds Steady.</span></a></div>  </div>
+
+  
+  
+</div>
+
+<div class="node node-article node-search-related node-658646 clearfix" about="/articles/driving-114-gallon" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <a href="/articles/driving-114-gallon" class="title-link"><span>Driving for $1.14 Per Gallon</span></a>  </div>
+
+  
+  
+</div>
+
+<div class="node node-article node-search-related node-658521 clearfix" about="/articles/egallon-what-it-and-why-it-s-important" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <div class="field field-name-field-article-hero field-type-energy-hero field-label-hidden"><div class="field-items"><div class="field-item field-item-0"><div class="energy-hero energy-static-map"><div class="energy-hero-map-thumb" style="position: relative;"><a href="/articles/egallon-what-it-and-why-it-s-important" class=""><span>See Map</span></a><div class="node node-map node-hero-node-reference node-641211 clearfix" about="/maps/egallon" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <div class="field field-name-field-map-map field-type-energy-map field-label-hidden"><div class="field-items"><div class="field-item even"><div id="body_cont">
+    <div id="top_cont">
+        <h1><span class="green">eGallon:</span> Compare the costs of <span class="green">driving</span> with <span class="green">electricity</span></h1> 
+    </div>
+    
+    <div id="left_cont">
+        <div id="pump" class="left_text">
+            <h2>What is eGallon?</h2>
+            <p id="ptop">It is the cost of fueling a vehicle with electricity compared to a similar vehicle that runs on gasoline.</p>
+        </div>
+        <div id="gauge" class="left_text">
+            <h2>Did you know?</h2>
+            <p>On average, it costs about 3 times less to drive an electric vehicle.</p>
+        </div>
+    </div>
+
+    <div id="right_cont">
+        <div id="right_text">
+            <h3>Find out how much it costs to fuel an electric vehicle in your state</h3>
+
+            <select id="mySelect"></select>
+        </div>
+        <div class="price">
+            <div class="price_text">
+                <p>regular gasoline</p>
+            </div>
+            <div class="subprice">
+                <ul class="flip minutePlay">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow">
+                                    <div class="line"></div>
+                                    <div class="side le"></div>
+                                    <div class="side ri"></div>
+                                </div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">6</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">1</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow">
+                                    <div class="line"></div>
+                                    <div class="side le"></div>
+                                    <div class="side ri"></div>
+                                    
+                                </div>
+                                <div id="onestG" class="inn">3</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <div class="decimal">&middot;</div>
+                <ul class="flip secondPlay">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">2</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">8</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="tenthstG" class="inn">6</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="flip milliPlay">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">8</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">9</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">2</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">3</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">5</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="hundrethstG" class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+        <div id="price2" class="price">
+            <div class="price_text">
+                <p>electric eGallon</p>
+            </div>
+            <div class="subprice">
+                <ul class="flip minutePlay2">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">1</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">7</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">2</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">3</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="onestE" class="inn">3</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <div class="decimal">&middot;</div>
+                <ul class="flip secondPlay2">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">2</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">4</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="tenthstE" class="inn">6</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="flip milliPlay2">
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">8</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">5</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">9</div>
+                            </div>
+                        </a>
+                    </li>
+                            <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">1</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div class="inn">5</div>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#">
+                            <div class="up">
+                                <div class="shadow"><div class="line"></div>
+                            <div class="side le"></div>
+                                    <div class="side ri"></div></div>
+                                <div id="hundrethstE" class="inn">0</div>
+                            </div>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+ <div id="fold">
+            <a href="http://energy.gov/"><img src="/sites/prod/files/fold.png"></a>
+        </div>
+    </div>
+               <div id="bottom_right">
+            <a href="http://energy.gov/node/658271">Data and Methodology</a>
+        </div>
+</div></div></div></div>  </div>
+
+  
+  
+</div>
+</div></div></div></div></div><div class="search-related-title-image"><a href="/articles/egallon-what-it-and-why-it-s-important" class="title-link"><span>eGallon: What It Is and Why It’s Important</span></a></div>  </div>
+
+  
+  
+</div>
+    </div>
+  </div>
+</div><div class="block-bean-1873-wrapper">
+  <div id="block-bean-1873" class="block block-bean bean-imagelink block-bean-1873 clearfix">
+
+          
+    <div class="content">
+      <div class="energy-infographfic"></div>    </div>
+  </div>
+</div>  </div>
+</div>
+          </div>
+
+      </div>
+</div>
+
+<div id="footer-wrapper">
+  <div id="footer" class="container column-row">
+      <div class="region region-footer">
+    <div class="block-bean-1801-wrapper">
+  <div id="block-bean-1801" class="block block-bean bean-whatwedo block-bean-1801 clearfix">
+
+          <h4 class="block-title">What We Do For You</h4>
+      
+    <div class="content">
+      <div class="node node-topic node-block-thumbnail-title node-154453 clearfix" about="/public-services/energy-economy" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <div class="field field-name-field-topic-hero field-type-energy-hero field-label-hidden"><div class="field-items"><div class="field-item field-item-0"><div class="energy-hero energy-static-image"><a href="/public-services/energy-economy" class=""><span><img class="energy-static-image-photo-thumb" typeof="foaf:Image" src="http://energy.gov/sites/prod/files/styles/photo_thumb/public/MadeInAmerica_2.jpg?itok=3iZpz5wc" width="150" height="100" alt="Month by month the clean energy economy continues to grow, creating new job opportunities for tens of thousands of Americans along the way." title="Month by month the clean energy economy continues to grow, creating new job opportunities for tens of thousands of Americans along the way." /></span></a></div></div></div></div><div class="field field-name-field-topic-term field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/public-services/energy-economy" class=""><span>Energy Economy</span></a></div></div></div><a href="/public-services/energy-economy" class="title-link"><span>Energy Economy</span></a>  </div>
+
+  
+  
+</div>
+<div class="node node-topic node-block-thumbnail-title node-13327 clearfix" about="/science-innovation/innovation" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <div class="field field-name-field-topic-hero field-type-energy-hero field-label-hidden"><div class="field-items"><div class="field-item field-item-0"><div class="energy-hero energy-static-video"><a href="/science-innovation/innovation" class=""><span><img typeof="foaf:Image" src="http://energy.gov/sites/prod/files/styles/media_energy_gov_150_video/public/media-youtube/P6v8tUaZ7Us.jpg?itok=b1--9-9Y" alt="" /></span></a></div></div></div></div><div class="field field-name-field-topic-term field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/science-innovation/innovation" class=""><span>Innovation</span></a></div></div></div><a href="/science-innovation/innovation" class="title-link"><span>Innovation</span></a>  </div>
+
+  
+  
+</div>
+<div class="node node-topic node-block-thumbnail-title node-13141 clearfix" about="/public-services/national-security-safety/nuclear-security-safety" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <div class="field field-name-field-topic-hero field-type-energy-hero field-label-hidden"><div class="field-items"><div class="field-item field-item-0"><div class="energy-hero energy-static-image"><a href="/public-services/national-security-safety/nuclear-security-safety" class=""><span><img class="energy-static-image-photo-thumb" typeof="foaf:Image" src="http://energy.gov/sites/prod/files/styles/photo_thumb/public/Picture%2015.jpg?itok=EzAjRFP8" width="150" height="100" alt="National Security Technologies scientists, technicians and engineers from the National Nuclear Security Administration’s Nevada Site Office board the Air Force C-17. Highly trained nuclear emergency response personnel and more than 17,000 lbs of hi-tech equipment were sent to Japan as part of the Department of Energy and National Nuclear Security Administration’s effort to assist Japanese personnel with nuclear issues. | Photo Courtesy NNSA News" title="National Security Technologies scientists, technicians and engineers from the National Nuclear Security Administration’s Nevada Site Office board the Air Force C-17. Highly trained nuclear emergency response personnel and more than 17,000 lbs of hi-tech equipment were sent to Japan as part of the Department of Energy and National Nuclear Security Administration’s effort to assist Japanese personnel with nuclear issues. | Photo Courtesy NNSA News" /></span></a></div></div></div></div><div class="field field-name-field-topic-term field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/public-services/national-security-safety/nuclear-security-safety" class=""><span>Nuclear Security &amp; Safety</span></a></div></div></div><a href="/public-services/national-security-safety/nuclear-security-safety" class="title-link"><span>Nuclear Security &amp; Safety</span></a>  </div>
+
+  
+  
+</div>
+    </div>
+  </div>
+</div>  </div>
+  </div>
+</div>
+
+<div id="footer-nav-wrapper">
+  <div id="footer-nav" class="container column-row">
+    <div class="region region-footer-nav">
+    <div class="column grid-4 first"><div class="block-energy-core-footer-site-name-wrapper">
+  <div id="block-energy-core-footer-site-name" class="block block-energy-core block-energy-core-footer-site-name clearfix">
+
+          
+    <div class="content">
+      <h5 class="site-name"><a href="/" class=""><span>Energy.gov</span></a></h5>    </div>
+  </div>
+</div></div><div class="block-energy-core-footer-main-menu-wrapper">
+  <div id="block-energy-core-footer-main-menu" class="block block-energy-core block-energy-core-footer-main-menu clearfix">
+
+          
+    <div class="content">
+      <div class="footer-main-menu column grid-8 last"><ul class="menu"><li class="first leaf"><a href="http://jobs.energy.gov" class=""><span>Careers &amp; Internships</span></a></li>
+<li class="leaf"><a href="/about-us/contact-us" class=""><span>Contact Us</span></a></li>
+<li class="last leaf"><a href="/sign-email-updates" class=""><span>Email Updates</span></a></li>
+</ul></div>    </div>
+  </div>
+</div>  </div>
+  </div>
+</div>
+
+<div id="footer-legal-wrapper">
+  <div id="footer-legal" class="container column-row">
+    <div class="region region-footer-legal">
+    <div class="block-energy-core-footer-secondary-menu-wrapper">
+  <div id="block-energy-core-footer-secondary-menu" class="block block-energy-core block-energy-core-footer-secondary-menu clearfix">
+
+          
+    <div class="content">
+      <div class="footer-secondary-menu column grid-8 last"><ul class="menu"><li class="first expanded"><a href="https://www.energy.gov" class=""><span>About this site</span></a><ul class="menu"><li class="first leaf"><a href="/about-us/web-policies" class=""><span>Web Policies</span></a></li>
+<li class="leaf"><a href="/about-us/web-policies/privacy" class=""><span>Privacy</span></a></li>
+<li class="leaf"><a href="/diversity/services/protecting-civil-rights/no-fear-act" class=""><span>No Fear Act</span></a></li>
+<li class="leaf"><a href="/cio/department-energy-information-quality-guidelines" class=""><span>Information Quality</span></a></li>
+<li class="last leaf"><a href="/about-us/open-government" class=""><span>Open Gov</span></a></li>
+</ul></li>
+<li class="expanded"><a href="/" class=""><span>Energy Department</span></a><ul class="menu"><li class="first leaf"><a href="/about-us/budget-performance" class=""><span>Budget &amp; Performance</span></a></li>
+<li class="leaf"><a href="https://www.directives.doe.gov" class=""><span>Directives, Delegations &amp; Requirements</span></a></li>
+<li class="leaf"><a href="/management/office-management/operational-management/freedom-information-act" class=""><span>FOIA</span></a></li>
+<li class="leaf"><a href="/ig/office-inspector-general" class=""><span>Inspector General</span></a></li>
+<li class="leaf"><a href="/cio/office-chief-information-officer/services/guidance/privacy" class=""><span>Privacy Program</span></a></li>
+<li class="last leaf"><a href="/diversity/working-us/small-businesses-101-doing-business-department-energy" class=""><span>Small Business</span></a></li>
+</ul></li>
+<li class="last expanded"><a href="/" class=""><span>Federal Government</span></a><ul class="menu"><li class="first leaf"><a href="http://www.whitehouse.gov" class=""><span>The White House</span></a></li>
+<li class="last leaf"><a href="http://www.usa.gov" class=""><span>USA.gov</span></a></li>
+</ul></li>
+</ul></div>    </div>
+  </div>
+</div><div class="column grid-4 first"><div class="contact-info"><div class="block-energy-core-footer-contact-info-wrapper">
+  <div id="block-energy-core-footer-contact-info" class="block block-energy-core block-energy-core-footer-contact-info clearfix">
+
+          
+    <div class="content">
+      <p>1000 Independence Ave. SW<br />Washington DC 20585<br />202-586-5000</p>    </div>
+  </div>
+</div></div></div><div class="block-energy-core-stay-connected-wrapper">
+  <div id="block-energy-core-stay-connected" class="block block-energy-core block-energy-core-stay-connected clearfix">
+
+          <h4 class="block-title">Stay Connected</h4>
+      
+    <div class="content">
+      <div class="item-list"><ul><li class="first"><a href="/exit?url=http%3A//www.facebook.com/energygov" class="facebook"><span>Facebook</span></a></li>
+<li><a href="/exit?url=http%3A//twitter.com/energy" class="twitter"><span>Twitter</span></a></li>
+<li><a href="/exit?url=http%3A//www.youtube.com/usdepartmentofenergy" class="youtube"><span>Youtube</span></a></li>
+<li class="last"><a href="/exit?url=http%3A//www.flickr.com/photos/departmentofenergy" class="flickr"><span>Flickr</span></a></li>
+</ul></div>    </div>
+  </div>
+</div>  </div>
+  </div>
+</div>
+
+</div>   <script type="text/javascript" src="http://energy.gov/sites/prod/files/js/js_gAPRNhhbIbP3Ety0MqvkrzpVhraIwQvY3elaEr2h6h4.js"></script>
+<script type="text/javascript" src="http://energy.gov/sites/prod/files/js/js_xlunKglKpd-9zfGsQL3DODSmcQLJWBOPEiUkgfA3OEg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function ($) {
+
+$(document).ready(function() {
+//Load state price json
+    var data = [
+    {
+        "state": "US Average",
+        "stateabbrev": "US",
+        "electric_raw": "12.54",
+        "eproxy": "1.24"
+    },
+    {
+        "state": "Alabama",
+        "stateabbrev": "AL",
+        "electric_raw": "11.66",
+        "eproxy": "1.15"
+    },
+    {
+        "state": "Alaska",
+        "stateabbrev": "AK",
+        "electric_raw": "18.51",
+        "eproxy": "1.83"
+    },
+    {
+        "state": "Arizona",
+        "stateabbrev": "AZ",
+        "electric_raw": "12.18",
+        "eproxy": "1.20"
+    },
+    {
+        "state": "Arkansas",
+        "stateabbrev": "AR",
+        "electric_raw": "10.05",
+        "eproxy": "0.99"
+    },
+    {
+        "state": "California",
+        "stateabbrev": "CA",
+        "electric_raw": "17.5",
+        "eproxy": "1.73"
+    },
+    {
+        "state": "Colorado",
+        "stateabbrev": "CO",
+        "electric_raw": "12.42",
+        "eproxy": "1.23"
+    },
+    {
+        "state": "Connecticut",
+        "stateabbrev": "CT",
+        "electric_raw": "17.77",
+        "eproxy": "1.75"
+    },
+    {
+        "state": "Delaware",
+        "stateabbrev": "DE",
+        "electric_raw": "13.18",
+        "eproxy": "1.30"
+    },
+    {
+        "state": "District of Columbia",
+        "stateabbrev": "DC",
+        "electric_raw": "12.65",
+        "eproxy": "1.25"
+    },
+    {
+        "state": "Florida",
+        "stateabbrev": "FL",
+        "electric_raw": "11.29",
+        "eproxy": "1.11"
+    },
+    {
+        "state": "Georgia",
+        "stateabbrev": "GA",
+        "electric_raw": "12.17",
+        "eproxy": "1.20"
+    },
+    {
+        "state": "Hawaii",
+        "stateabbrev": "HI",
+        "electric_raw": "37.04",
+        "eproxy": "3.66"
+    },
+    {
+        "state": "Idaho",
+        "stateabbrev": "ID",
+        "electric_raw": "10.19",
+        "eproxy": "1.01"
+    },
+    {
+        "state": "Illinois",
+        "stateabbrev": "IL",
+        "electric_raw": "10.12",
+        "eproxy": "1.00"
+    },
+    {
+        "state": "Indiana",
+        "stateabbrev": "IN",
+        "electric_raw": "11.15",
+        "eproxy": "1.10"
+    },
+    {
+        "state": "Iowa",
+        "stateabbrev": "IA",
+        "electric_raw": "12.03",
+        "eproxy": "1.19"
+    },
+    {
+        "state": "Kansas",
+        "stateabbrev": "KS",
+        "electric_raw": "12.11",
+        "eproxy": "1.20"
+    },
+    {
+        "state": "Kentucky",
+        "stateabbrev": "KY",
+        "electric_raw": "10.04",
+        "eproxy": "0.99"
+    },
+    {
+        "state": "Louisiana",
+        "stateabbrev": "LA",
+        "electric_raw": "9.65",
+        "eproxy": "0.95"
+    },
+    {
+        "state": "Maine",
+        "stateabbrev": "ME",
+        "electric_raw": "14.16",
+        "eproxy": "1.40"
+    },
+    {
+        "state": "Maryland",
+        "stateabbrev": "MD",
+        "electric_raw": "13.97",
+        "eproxy": "1.38"
+    },
+    {
+        "state": "Massachusetts",
+        "stateabbrev": "MA",
+        "electric_raw": "15.86",
+        "eproxy": "1.57"
+    },
+    {
+        "state": "Michigan",
+        "stateabbrev": "MI",
+        "electric_raw": "15.47",
+        "eproxy": "1.53"
+    },
+    {
+        "state": "Minnesota",
+        "stateabbrev": "MN",
+        "electric_raw": "12.83",
+        "eproxy": "1.27"
+    },
+    {
+        "state": "Mississippi",
+        "stateabbrev": "MS",
+        "electric_raw": "11.14",
+        "eproxy": "1.10"
+    },
+    {
+        "state": "Missouri",
+        "stateabbrev": "MO",
+        "electric_raw": "12.34",
+        "eproxy": "1.22"
+    },
+    {
+        "state": "Montana",
+        "stateabbrev": "MT",
+        "electric_raw": "11.06",
+        "eproxy": "1.09"
+    },
+    {
+        "state": "Nebraska",
+        "stateabbrev": "NE",
+        "electric_raw": "11.69",
+        "eproxy": "1.15"
+    },
+    {
+        "state": "Nevada",
+        "stateabbrev": "NV",
+        "electric_raw": "11.56",
+        "eproxy": "1.14"
+    },
+    {
+        "state": "New Hampshire",
+        "stateabbrev": "NH",
+        "electric_raw": "16.73",
+        "eproxy": "1.65"
+    },
+    {
+        "state": "New Jersey",
+        "stateabbrev": "NJ",
+        "electric_raw": "16.03",
+        "eproxy": "1.58"
+    },
+    {
+        "state": "New Mexico",
+        "stateabbrev": "NM",
+        "electric_raw": "12.48",
+        "eproxy": "1.23"
+    },
+    {
+        "state": "New York",
+        "stateabbrev": "NY",
+        "electric_raw": "19.31",
+        "eproxy": "1.91"
+    },
+    {
+        "state": "North Carolina",
+        "stateabbrev": "NC",
+        "electric_raw": "11.04",
+        "eproxy": "1.09"
+    },
+    {
+        "state": "North Dakota",
+        "stateabbrev": "ND",
+        "electric_raw": "10.94",
+        "eproxy": "1.08"
+    },
+    {
+        "state": "Ohio",
+        "stateabbrev": "OH",
+        "electric_raw": "12.95",
+        "eproxy": "1.28"
+    },
+    {
+        "state": "Oklahoma",
+        "stateabbrev": "OK",
+        "electric_raw": "10.18",
+        "eproxy": "1.00"
+    },
+    {
+        "state": "Oregon",
+        "stateabbrev": "OR",
+        "electric_raw": "10.16",
+        "eproxy": "1.00"
+    },
+    {
+        "state": "Pennsylvania",
+        "stateabbrev": "PA",
+        "electric_raw": "13.09",
+        "eproxy": "1.29"
+    },
+    {
+        "state": "Rhode Island",
+        "stateabbrev": "RI",
+        "electric_raw": "16.9",
+        "eproxy": "1.67"
+    },
+    {
+        "state": "South Carolina",
+        "stateabbrev": "SC",
+        "electric_raw": "12.02",
+        "eproxy": "1.19"
+    },
+    {
+        "state": "South Dakota",
+        "stateabbrev": "SD",
+        "electric_raw": "11.29",
+        "eproxy": "1.11"
+    },
+    {
+        "state": "Tennessee",
+        "stateabbrev": "TN",
+        "electric_raw": "10.46",
+        "eproxy": "1.03"
+    },
+    {
+        "state": "Texas",
+        "stateabbrev": "TX",
+        "electric_raw": "11.45",
+        "eproxy": "1.13"
+    },
+    {
+        "state": "Utah",
+        "stateabbrev": "UT",
+        "electric_raw": "10.83",
+        "eproxy": "1.07"
+    },
+    {
+        "state": "Vermont",
+        "stateabbrev": "VT",
+        "electric_raw": "17.77",
+        "eproxy": "1.75"
+    },
+    {
+        "state": "Virginia",
+        "stateabbrev": "VA",
+        "electric_raw": "11.51",
+        "eproxy": "1.14"
+    },
+    {
+        "state": "Washington",
+        "stateabbrev": "WA",
+        "electric_raw": "8.82",
+        "eproxy": "0.87"
+    },
+    {
+        "state": "West Virginia",
+        "stateabbrev": "WV",
+        "electric_raw": "9.74",
+        "eproxy": "0.96"
+    },
+    {
+        "state": "Wisconsin",
+        "stateabbrev": "WI",
+        "electric_raw": "14.39",
+        "eproxy": "1.42"
+    },
+    {
+        "state": "Wyoming",
+        "stateabbrev": "WY",
+        "electric_raw": "10.77",
+        "eproxy": "1.06"
+    }
+]
+
+        //Populate select dropdown menu
+        var mySelect = $('#mySelect');
+            $.each(data, function(i) {
+              mySelect.append(
+                $('<option></option>').val(data[i].stateabbrev).html(data[i].state)
+            );
+        });
+
+        //load gas data
+        var gas_data = [
+    {
+        "loc": "US",
+        "loc_abbrev": "US",
+        "price": "3.587"
+    },
+    {
+        "loc": "East Coast",
+        "loc_abbrev": "EC",
+        "price": "3.587"
+    },
+    {
+        "loc": "New England",
+        "loc_abbrev": "NE",
+        "price": "3.751"
+    },
+    {
+        "loc": "Central Atlantic",
+        "loc_abbrev": "CAT",
+        "price": "3.66"
+    },
+    {
+        "loc": "Lower Atlantic",
+        "loc_abbrev": "LAT",
+        "price": "3.483"
+    },
+    {
+        "loc": "Midwest",
+        "loc_abbrev": "MW",
+        "price": "3.574"
+    },
+    {
+        "loc": "Gulf Coast",
+        "loc_abbrev": "GC",
+        "price": "3.377"
+    },
+    {
+        "loc": "Rocky Mountain",
+        "loc_abbrev": "RM",
+        "price": "3.631"
+    },
+    {
+        "loc": "West Coast",
+        "loc_abbrev": "WC",
+        "price": "3.797"
+    },
+    {
+        "loc": "West Coast less California",
+        "loc_abbrev": "WCLC",
+        "price": "3.621"
+    },
+    {
+        "loc": "California",
+        "loc_abbrev": "CA",
+        "price": "3.899"
+    },
+    {
+        "loc": "Colorado",
+        "loc_abbrev": "CO",
+        "price": "3.564"
+    },
+    {
+        "loc": "Florida",
+        "loc_abbrev": "FL",
+        "price": "3.525"
+    },
+    {
+        "loc": "Massachusetts",
+        "loc_abbrev": "MA",
+        "price": "3.679"
+    },
+    {
+        "loc": "Minnesota",
+        "loc_abbrev": "MN",
+        "price": "3.587"
+    },
+    {
+        "loc": "New York",
+        "loc_abbrev": "NY",
+        "price": "3.836"
+    },
+    {
+        "loc": "Ohio",
+        "loc_abbrev": "OH",
+        "price": "3.496"
+    },
+    {
+        "loc": "Texas",
+        "loc_abbrev": "TX",
+        "price": "3.391"
+    },
+    {
+        "loc": "Washington",
+        "loc_abbrev": "WA",
+        "price": "3.72"
+    }
+]
+
+        var loop2 = ["onestG","tenthstG","hundrethstG","onestE","tenthstE","hundrethstE","name","price1","price2"];
+        var html2 = [];
+        //loading a json above and then for loop to define them below using a for loop. 5/6.
+    
+        for (var i = 0; i<loop2.length; i++) {
+            html2.push(document.getElementById(loop2[i]));
+        };  
+
+        //load initial values
+
+                var onesG = String(gas_data[0].price).charAt(0);
+                var tenthsG = String(gas_data[0].price).charAt(2);
+                var hundrethsG = String(gas_data[0].price).charAt(3);
+                                
+                var onesE = String(data[0].eproxy).charAt(0);
+                var tenthsE = String(data[0].eproxy).charAt(2);
+                var hundrethsE = String(data[0].eproxy).charAt(3);
+
+                //put those characters collected into the appropriate innerHTML
+
+                html2[0].innerHTML=onesG;
+                html2[1].innerHTML=tenthsG;
+                html2[2].innerHTML=hundrethsG;
+                
+
+                html2[3].innerHTML=onesE;
+                html2[4].innerHTML=tenthsE;
+                html2[5].innerHTML=hundrethsE;
+
+//                html2[6].innerHTML=data.features[0].state;
+//                html2[7].innerHTML="The price of gasoline is <strong>$"+data.features[0].regular+"</strong> per gallon.";
+//                html2[8].innerHTML="The price of electricity is <strong>$"+data.features[0].eproxy+"</strong> per egallon.";
+
+
+        //what happens when you select a state
+            $('select').change(function (e){
+            e.preventDefault();
+            for (var i=0;i<data.length;i++)
+            {
+                //When the value selected equals the JSONs state abbreviation, gather the data at specific characters
+                if (this.value === data[i].stateabbrev) {
+                                    
+                    var onesE = String(data[i].eproxy).charAt(0);
+                    var tenthsE = String(data[i].eproxy).charAt(2);
+                    var hundrethsE = String(data[i].eproxy).charAt(3);
+
+                    //put those characters collected into the appropriate innerHTML
+
+                    html2[3].innerHTML=onesE;
+                    html2[4].innerHTML=tenthsE;
+                    html2[5].innerHTML=hundrethsE;
+                };
+            }
+
+            if (this.value === "MA" ||this.value === "NY" ||this.value === "FL" ||this.value === "OH" ||this.value === "TX" ||this.value === "CO" ||this.value === "CA" ||this.value === "WA" || this.value === "MN") 
+            {
+                    for (var i=0;i<gas_data.length;i++)
+                        {
+                            //When the value selected equals the JSONs state abbreviation, gather the data at specific characters
+                            if (this.value === gas_data[i].loc_abbrev) {
+                                            
+                                var onesG = String(gas_data[i].price).charAt(0);
+                                var tenthsG = String(gas_data[i].price).charAt(2);
+                                var hundrethsG = String(gas_data[i].price).charAt(3);    
+
+                                html2[0].innerHTML=onesG;
+                                html2[1].innerHTML=tenthsG; 
+                                html2[2].innerHTML=hundrethsG;
+
+                            };
+                        }
+            } 
+
+            else{
+
+                var pr;
+                if (this.value === "ME" ||this.value === "NH" ||this.value === "VT" ||this.value === "NH" ||this.value === "CT" ||this.value === "RI") 
+                {pr = gas_data[2].price;}            
+                else if (this.value === "NY" ||this.value === "PA" ||this.value === "NJ" ||this.value === "DE" ||this.value === "MD" || this.value === "DC")
+                {pr = gas_data[3].price;}            
+                else if (this.value === "WV" ||this.value === "VA" ||this.value === "NC" ||this.value === "SC" ||this.value === "GA" )
+                {pr = gas_data[4].price;}            
+                else if (this.value === "AL" ||this.value === "MS" ||this.value === "AR" ||this.value === "LA" ||this.value === "NM" )
+                {pr = gas_data[6].price;}            
+                else if (this.value === "WY" ||this.value === "MT" ||this.value === "ID" ||this.value === "UT" )
+                {pr = gas_data[7].price;}            
+                else if (this.value === "OR" ||this.value === "NV" ||this.value === "AZ" ||this.value === "AK" ||this.value === "HI" )
+                {pr = gas_data[9].price;}            
+                else if (this.value === "ND" ||this.value === "SD" ||this.value === "NE" ||this.value === "KS" ||this.value === "OK" ||this.value === "MO" ||this.value === "IA" ||this.value === "WI" ||this.value === "MI" ||this.value === "IL" ||this.value === "IN" ||this.value === "KY" ||this.value === "TN" )
+                {pr = gas_data[5].price;} 
+                else if (this.value === "US")
+                {pr = gas_data[0].price;}            
+
+                var onesG = String(pr).charAt(0);
+                var tenthsG = String(pr).charAt(2);
+                var hundrethsG = String(pr).charAt(3);       
+
+                html2[0].innerHTML=onesG;
+                html2[1].innerHTML=tenthsG; 
+                html2[2].innerHTML=hundrethsG;
+
+            };
+
+     });
+   
+  });
+
+}(jQuery));
+
+(function ($) {
+$(document).ready(function() {
+
+    var timesRun = 0;
+
+    //on load, cycle through numbers to data
+    var mp = setInterval(function () {
+                minutePlay()
+                
+            }, 60);
+    var sp = setInterval(function () {
+                secondPlay()
+            }, 90);
+    var ml = setInterval(function () {
+                milliPlay()
+            }, 120); 
+    var mp2 = setInterval(function () {
+                minutePlay2()
+            }, 70);
+    var sp2 = setInterval(function () {
+                secondPlay2()
+            }, 100);
+    var ml2 = setInterval(function () {
+                milliPlay2();
+                //step through time to get to 8 times (there are 7 li's in html)
+                timesRun += 1;
+
+                //when it gets to 8 times, chop it off.     
+                if(timesRun === 8){
+                    clearInterval(mp);
+                    clearInterval(sp);
+                    clearInterval(ml);
+                    clearInterval(mp2);
+                    clearInterval(sp2);
+                    clearInterval(ml2);
+                }
+            }, 140);   
+
+//on select, cycle through numbers to new data
+  $('select').change(function (e){
+    //reset iterations variable to 0
+    var timesRun = 0;
+
+    //On select when last child, reset to no active, so that we can start process of function correctly.
+    var bb = $("ul.secondPlay li.active"); 
+    if (bb.is(":last-child")) {
+        $("ul.secondPlay li").removeClass("active");
+        $("ul.minutePlay li").removeClass("active");
+        $("ul.milliPlay li").removeClass("active");
+        $("ul.secondPlay2 li").removeClass("active");
+        $("ul.minutePlay2 li").removeClass("active");
+        $("ul.milliPlay2 li").removeClass("active");
+    };
+    
+    var mp = setInterval(function () {
+                minutePlay()
+                
+            }, 60);
+    var sp = setInterval(function () {
+                secondPlay()
+            }, 90);
+    var ml = setInterval(function () {
+                milliPlay()
+            }, 120); 
+    var mp2 = setInterval(function () {
+                minutePlay2()
+            }, 70);
+    var sp2 = setInterval(function () {
+                secondPlay2()
+            }, 100);
+    var ml2 = setInterval(function () {
+                milliPlay2();
+                //step through time to get to 8 times (there are 7 li's in html)
+                timesRun += 1;
+
+                //when it gets to 8 times, chop it off.     
+                if(timesRun === 8){
+                    clearInterval(mp);
+                    clearInterval(sp);
+                    clearInterval(ml);
+                    clearInterval(mp2);
+                    clearInterval(sp2);
+                    clearInterval(ml2);
+                }
+            }, 140);                  
+    });
+
+
+    function milliPlay() {
+        $("body").removeClass("play");
+        var aa = $("ul.milliPlay li.active");
+
+//if nothing in aa, go through sequence to step through number to next li
+        if (aa.html() == undefined) {
+            aa = $("ul.milliPlay li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        //On last child add active and stop their
+        else if (aa.is(":last-child")) {
+            $("ul.milliPlay li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+            //aa = $("ul.milliPlay li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        //normally, (not first/last) cycle through, add active to next li, take away current active
+        else {
+            $("ul.milliPlay li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+    
+
+    function secondPlay() {
+        $("body").removeClass("play");
+        var aa = $("ul.secondPlay li.active");
+
+        if (aa.html() == undefined) {
+            aa = $("ul.secondPlay li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        else if (aa.is(":last-child")) {
+            $("ul.secondPlay li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+            //aa = $("ul.secondPlay li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        else {
+            $("ul.secondPlay li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+    function minutePlay() {
+        $("body").removeClass("play");
+        var aa = $("ul.minutePlay li.active");
+
+        if (aa.html() == undefined) {
+            aa = $("ul.minutePlay li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        else if (aa.is(":last-child")) {
+            $("ul.minutePlay li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+           // aa = $("ul.minutePlay li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        else {
+            $("ul.minutePlay li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+
+    function secondPlay2() {
+        $("body").removeClass("play");
+        var aa = $("ul.secondPlay2 li.active");
+
+        if (aa.html() == undefined) {
+            aa = $("ul.secondPlay2 li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        else if (aa.is(":last-child")) {
+            $("ul.secondPlay2 li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+            //aa = $("ul.secondPlay li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        else {
+            $("ul.secondPlay2 li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+    function minutePlay2() {
+        $("body").removeClass("play");
+        var aa = $("ul.minutePlay2 li.active");
+
+        if (aa.html() == undefined) {
+            aa = $("ul.minutePlay2 li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        else if (aa.is(":last-child")) {
+            $("ul.minutePlay2 li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+           // aa = $("ul.minutePlay2 li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        else {
+            $("ul.minutePlay2 li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+
+function milliPlay2() {
+        $("body").removeClass("play");
+        var aa = $("ul.milliPlay2 li.active");
+
+//if nothing in aa, go through sequence to step through number to next li
+        if (aa.html() == undefined) {
+            aa = $("ul.milliPlay2 li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        //On last child add active and stop their
+        else if (aa.is(":last-child")) {
+            $("ul.milliPlay2 li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+            //aa = $("ul.milliPlay2 li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        //normally, (not first/last) cycle through, add active to next li, take away current active
+        else {
+            $("ul.milliPlay2 li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+    
+});
+}(jQuery));
+
+function getIEVersion(){
+    var agent = navigator.userAgent;
+    var reg = /MSIE\s?(\d+)(?:\.(\d+))?/i;
+    var matches = agent.match(reg);
+    if (matches != null) {
+        return { major: matches[1], minor: matches[2] };
+    }
+    return { major: "-1", minor: "-1" };
+}
+
+var ie_version =  getIEVersion();
+var is_ie10 = ie_version.major == 10;
+
+if (is_ie10 === true) {alert("Internet Explorer 10 does not fully support this feature.");};
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://energy.gov/sites/prod/files/js/js_lTNhy66Gdad8ieRWFzbIj3vnlzlhiZ1JSCT8DeCnDds.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function ($) {
+
+$(document).ready(function() {
+//Load state price json
+    var data = [
+    {
+        "state": "US Average",
+        "stateabbrev": "US",
+        "electric_raw": "12.54",
+        "eproxy": "1.24"
+    },
+    {
+        "state": "Alabama",
+        "stateabbrev": "AL",
+        "electric_raw": "11.66",
+        "eproxy": "1.15"
+    },
+    {
+        "state": "Alaska",
+        "stateabbrev": "AK",
+        "electric_raw": "18.51",
+        "eproxy": "1.83"
+    },
+    {
+        "state": "Arizona",
+        "stateabbrev": "AZ",
+        "electric_raw": "12.18",
+        "eproxy": "1.20"
+    },
+    {
+        "state": "Arkansas",
+        "stateabbrev": "AR",
+        "electric_raw": "10.05",
+        "eproxy": "0.99"
+    },
+    {
+        "state": "California",
+        "stateabbrev": "CA",
+        "electric_raw": "17.5",
+        "eproxy": "1.73"
+    },
+    {
+        "state": "Colorado",
+        "stateabbrev": "CO",
+        "electric_raw": "12.42",
+        "eproxy": "1.23"
+    },
+    {
+        "state": "Connecticut",
+        "stateabbrev": "CT",
+        "electric_raw": "17.77",
+        "eproxy": "1.75"
+    },
+    {
+        "state": "Delaware",
+        "stateabbrev": "DE",
+        "electric_raw": "13.18",
+        "eproxy": "1.30"
+    },
+    {
+        "state": "District of Columbia",
+        "stateabbrev": "DC",
+        "electric_raw": "12.65",
+        "eproxy": "1.25"
+    },
+    {
+        "state": "Florida",
+        "stateabbrev": "FL",
+        "electric_raw": "11.29",
+        "eproxy": "1.11"
+    },
+    {
+        "state": "Georgia",
+        "stateabbrev": "GA",
+        "electric_raw": "12.17",
+        "eproxy": "1.20"
+    },
+    {
+        "state": "Hawaii",
+        "stateabbrev": "HI",
+        "electric_raw": "37.04",
+        "eproxy": "3.66"
+    },
+    {
+        "state": "Idaho",
+        "stateabbrev": "ID",
+        "electric_raw": "10.19",
+        "eproxy": "1.01"
+    },
+    {
+        "state": "Illinois",
+        "stateabbrev": "IL",
+        "electric_raw": "10.12",
+        "eproxy": "1.00"
+    },
+    {
+        "state": "Indiana",
+        "stateabbrev": "IN",
+        "electric_raw": "11.15",
+        "eproxy": "1.10"
+    },
+    {
+        "state": "Iowa",
+        "stateabbrev": "IA",
+        "electric_raw": "12.03",
+        "eproxy": "1.19"
+    },
+    {
+        "state": "Kansas",
+        "stateabbrev": "KS",
+        "electric_raw": "12.11",
+        "eproxy": "1.20"
+    },
+    {
+        "state": "Kentucky",
+        "stateabbrev": "KY",
+        "electric_raw": "10.04",
+        "eproxy": "0.99"
+    },
+    {
+        "state": "Louisiana",
+        "stateabbrev": "LA",
+        "electric_raw": "9.65",
+        "eproxy": "0.95"
+    },
+    {
+        "state": "Maine",
+        "stateabbrev": "ME",
+        "electric_raw": "14.16",
+        "eproxy": "1.40"
+    },
+    {
+        "state": "Maryland",
+        "stateabbrev": "MD",
+        "electric_raw": "13.97",
+        "eproxy": "1.38"
+    },
+    {
+        "state": "Massachusetts",
+        "stateabbrev": "MA",
+        "electric_raw": "15.86",
+        "eproxy": "1.57"
+    },
+    {
+        "state": "Michigan",
+        "stateabbrev": "MI",
+        "electric_raw": "15.47",
+        "eproxy": "1.53"
+    },
+    {
+        "state": "Minnesota",
+        "stateabbrev": "MN",
+        "electric_raw": "12.83",
+        "eproxy": "1.27"
+    },
+    {
+        "state": "Mississippi",
+        "stateabbrev": "MS",
+        "electric_raw": "11.14",
+        "eproxy": "1.10"
+    },
+    {
+        "state": "Missouri",
+        "stateabbrev": "MO",
+        "electric_raw": "12.34",
+        "eproxy": "1.22"
+    },
+    {
+        "state": "Montana",
+        "stateabbrev": "MT",
+        "electric_raw": "11.06",
+        "eproxy": "1.09"
+    },
+    {
+        "state": "Nebraska",
+        "stateabbrev": "NE",
+        "electric_raw": "11.69",
+        "eproxy": "1.15"
+    },
+    {
+        "state": "Nevada",
+        "stateabbrev": "NV",
+        "electric_raw": "11.56",
+        "eproxy": "1.14"
+    },
+    {
+        "state": "New Hampshire",
+        "stateabbrev": "NH",
+        "electric_raw": "16.73",
+        "eproxy": "1.65"
+    },
+    {
+        "state": "New Jersey",
+        "stateabbrev": "NJ",
+        "electric_raw": "16.03",
+        "eproxy": "1.58"
+    },
+    {
+        "state": "New Mexico",
+        "stateabbrev": "NM",
+        "electric_raw": "12.48",
+        "eproxy": "1.23"
+    },
+    {
+        "state": "New York",
+        "stateabbrev": "NY",
+        "electric_raw": "19.31",
+        "eproxy": "1.91"
+    },
+    {
+        "state": "North Carolina",
+        "stateabbrev": "NC",
+        "electric_raw": "11.04",
+        "eproxy": "1.09"
+    },
+    {
+        "state": "North Dakota",
+        "stateabbrev": "ND",
+        "electric_raw": "10.94",
+        "eproxy": "1.08"
+    },
+    {
+        "state": "Ohio",
+        "stateabbrev": "OH",
+        "electric_raw": "12.95",
+        "eproxy": "1.28"
+    },
+    {
+        "state": "Oklahoma",
+        "stateabbrev": "OK",
+        "electric_raw": "10.18",
+        "eproxy": "1.00"
+    },
+    {
+        "state": "Oregon",
+        "stateabbrev": "OR",
+        "electric_raw": "10.16",
+        "eproxy": "1.00"
+    },
+    {
+        "state": "Pennsylvania",
+        "stateabbrev": "PA",
+        "electric_raw": "13.09",
+        "eproxy": "1.29"
+    },
+    {
+        "state": "Rhode Island",
+        "stateabbrev": "RI",
+        "electric_raw": "16.9",
+        "eproxy": "1.67"
+    },
+    {
+        "state": "South Carolina",
+        "stateabbrev": "SC",
+        "electric_raw": "12.02",
+        "eproxy": "1.19"
+    },
+    {
+        "state": "South Dakota",
+        "stateabbrev": "SD",
+        "electric_raw": "11.29",
+        "eproxy": "1.11"
+    },
+    {
+        "state": "Tennessee",
+        "stateabbrev": "TN",
+        "electric_raw": "10.46",
+        "eproxy": "1.03"
+    },
+    {
+        "state": "Texas",
+        "stateabbrev": "TX",
+        "electric_raw": "11.45",
+        "eproxy": "1.13"
+    },
+    {
+        "state": "Utah",
+        "stateabbrev": "UT",
+        "electric_raw": "10.83",
+        "eproxy": "1.07"
+    },
+    {
+        "state": "Vermont",
+        "stateabbrev": "VT",
+        "electric_raw": "17.77",
+        "eproxy": "1.75"
+    },
+    {
+        "state": "Virginia",
+        "stateabbrev": "VA",
+        "electric_raw": "11.51",
+        "eproxy": "1.14"
+    },
+    {
+        "state": "Washington",
+        "stateabbrev": "WA",
+        "electric_raw": "8.82",
+        "eproxy": "0.87"
+    },
+    {
+        "state": "West Virginia",
+        "stateabbrev": "WV",
+        "electric_raw": "9.74",
+        "eproxy": "0.96"
+    },
+    {
+        "state": "Wisconsin",
+        "stateabbrev": "WI",
+        "electric_raw": "14.39",
+        "eproxy": "1.42"
+    },
+    {
+        "state": "Wyoming",
+        "stateabbrev": "WY",
+        "electric_raw": "10.77",
+        "eproxy": "1.06"
+    }
+]
+
+        //Populate select dropdown menu
+        var mySelect = $('#mySelect');
+            $.each(data, function(i) {
+              mySelect.append(
+                $('<option></option>').val(data[i].stateabbrev).html(data[i].state)
+            );
+        });
+
+        //load gas data
+        var gas_data = [
+    {
+        "loc": "US",
+        "loc_abbrev": "US",
+        "price": "3.587"
+    },
+    {
+        "loc": "East Coast",
+        "loc_abbrev": "EC",
+        "price": "3.587"
+    },
+    {
+        "loc": "New England",
+        "loc_abbrev": "NE",
+        "price": "3.751"
+    },
+    {
+        "loc": "Central Atlantic",
+        "loc_abbrev": "CAT",
+        "price": "3.66"
+    },
+    {
+        "loc": "Lower Atlantic",
+        "loc_abbrev": "LAT",
+        "price": "3.483"
+    },
+    {
+        "loc": "Midwest",
+        "loc_abbrev": "MW",
+        "price": "3.574"
+    },
+    {
+        "loc": "Gulf Coast",
+        "loc_abbrev": "GC",
+        "price": "3.377"
+    },
+    {
+        "loc": "Rocky Mountain",
+        "loc_abbrev": "RM",
+        "price": "3.631"
+    },
+    {
+        "loc": "West Coast",
+        "loc_abbrev": "WC",
+        "price": "3.797"
+    },
+    {
+        "loc": "West Coast less California",
+        "loc_abbrev": "WCLC",
+        "price": "3.621"
+    },
+    {
+        "loc": "California",
+        "loc_abbrev": "CA",
+        "price": "3.899"
+    },
+    {
+        "loc": "Colorado",
+        "loc_abbrev": "CO",
+        "price": "3.564"
+    },
+    {
+        "loc": "Florida",
+        "loc_abbrev": "FL",
+        "price": "3.525"
+    },
+    {
+        "loc": "Massachusetts",
+        "loc_abbrev": "MA",
+        "price": "3.679"
+    },
+    {
+        "loc": "Minnesota",
+        "loc_abbrev": "MN",
+        "price": "3.587"
+    },
+    {
+        "loc": "New York",
+        "loc_abbrev": "NY",
+        "price": "3.836"
+    },
+    {
+        "loc": "Ohio",
+        "loc_abbrev": "OH",
+        "price": "3.496"
+    },
+    {
+        "loc": "Texas",
+        "loc_abbrev": "TX",
+        "price": "3.391"
+    },
+    {
+        "loc": "Washington",
+        "loc_abbrev": "WA",
+        "price": "3.72"
+    }
+]
+
+        var loop2 = ["onestG","tenthstG","hundrethstG","onestE","tenthstE","hundrethstE","name","price1","price2"];
+        var html2 = [];
+        //loading a json above and then for loop to define them below using a for loop. 5/6.
+    
+        for (var i = 0; i<loop2.length; i++) {
+            html2.push(document.getElementById(loop2[i]));
+        };  
+
+        //load initial values
+
+                var onesG = String(gas_data[0].price).charAt(0);
+                var tenthsG = String(gas_data[0].price).charAt(2);
+                var hundrethsG = String(gas_data[0].price).charAt(3);
+                                
+                var onesE = String(data[0].eproxy).charAt(0);
+                var tenthsE = String(data[0].eproxy).charAt(2);
+                var hundrethsE = String(data[0].eproxy).charAt(3);
+
+                //put those characters collected into the appropriate innerHTML
+
+                html2[0].innerHTML=onesG;
+                html2[1].innerHTML=tenthsG;
+                html2[2].innerHTML=hundrethsG;
+                
+
+                html2[3].innerHTML=onesE;
+                html2[4].innerHTML=tenthsE;
+                html2[5].innerHTML=hundrethsE;
+
+//                html2[6].innerHTML=data.features[0].state;
+//                html2[7].innerHTML="The price of gasoline is <strong>$"+data.features[0].regular+"</strong> per gallon.";
+//                html2[8].innerHTML="The price of electricity is <strong>$"+data.features[0].eproxy+"</strong> per egallon.";
+
+
+        //what happens when you select a state
+            $('select').change(function (e){
+            e.preventDefault();
+            for (var i=0;i<data.length;i++)
+            {
+                //When the value selected equals the JSONs state abbreviation, gather the data at specific characters
+                if (this.value === data[i].stateabbrev) {
+                                    
+                    var onesE = String(data[i].eproxy).charAt(0);
+                    var tenthsE = String(data[i].eproxy).charAt(2);
+                    var hundrethsE = String(data[i].eproxy).charAt(3);
+
+                    //put those characters collected into the appropriate innerHTML
+
+                    html2[3].innerHTML=onesE;
+                    html2[4].innerHTML=tenthsE;
+                    html2[5].innerHTML=hundrethsE;
+                };
+            }
+
+            if (this.value === "MA" ||this.value === "NY" ||this.value === "FL" ||this.value === "OH" ||this.value === "TX" ||this.value === "CO" ||this.value === "CA" ||this.value === "WA" || this.value === "MN") 
+            {
+                    for (var i=0;i<gas_data.length;i++)
+                        {
+                            //When the value selected equals the JSONs state abbreviation, gather the data at specific characters
+                            if (this.value === gas_data[i].loc_abbrev) {
+                                            
+                                var onesG = String(gas_data[i].price).charAt(0);
+                                var tenthsG = String(gas_data[i].price).charAt(2);
+                                var hundrethsG = String(gas_data[i].price).charAt(3);    
+
+                                html2[0].innerHTML=onesG;
+                                html2[1].innerHTML=tenthsG; 
+                                html2[2].innerHTML=hundrethsG;
+
+                            };
+                        }
+            } 
+
+            else{
+
+                var pr;
+                if (this.value === "ME" ||this.value === "NH" ||this.value === "VT" ||this.value === "NH" ||this.value === "CT" ||this.value === "RI") 
+                {pr = gas_data[2].price;}            
+                else if (this.value === "NY" ||this.value === "PA" ||this.value === "NJ" ||this.value === "DE" ||this.value === "MD" || this.value === "DC")
+                {pr = gas_data[3].price;}            
+                else if (this.value === "WV" ||this.value === "VA" ||this.value === "NC" ||this.value === "SC" ||this.value === "GA" )
+                {pr = gas_data[4].price;}            
+                else if (this.value === "AL" ||this.value === "MS" ||this.value === "AR" ||this.value === "LA" ||this.value === "NM" )
+                {pr = gas_data[6].price;}            
+                else if (this.value === "WY" ||this.value === "MT" ||this.value === "ID" ||this.value === "UT" )
+                {pr = gas_data[7].price;}            
+                else if (this.value === "OR" ||this.value === "NV" ||this.value === "AZ" ||this.value === "AK" ||this.value === "HI" )
+                {pr = gas_data[9].price;}            
+                else if (this.value === "ND" ||this.value === "SD" ||this.value === "NE" ||this.value === "KS" ||this.value === "OK" ||this.value === "MO" ||this.value === "IA" ||this.value === "WI" ||this.value === "MI" ||this.value === "IL" ||this.value === "IN" ||this.value === "KY" ||this.value === "TN" )
+                {pr = gas_data[5].price;} 
+                else if (this.value === "US")
+                {pr = gas_data[0].price;}            
+
+                var onesG = String(pr).charAt(0);
+                var tenthsG = String(pr).charAt(2);
+                var hundrethsG = String(pr).charAt(3);       
+
+                html2[0].innerHTML=onesG;
+                html2[1].innerHTML=tenthsG; 
+                html2[2].innerHTML=hundrethsG;
+
+            };
+
+     });
+   
+  });
+
+}(jQuery));
+
+(function ($) {
+$(document).ready(function() {
+
+    var timesRun = 0;
+
+    //on load, cycle through numbers to data
+    var mp = setInterval(function () {
+                minutePlay()
+                
+            }, 60);
+    var sp = setInterval(function () {
+                secondPlay()
+            }, 90);
+    var ml = setInterval(function () {
+                milliPlay()
+            }, 120); 
+    var mp2 = setInterval(function () {
+                minutePlay2()
+            }, 70);
+    var sp2 = setInterval(function () {
+                secondPlay2()
+            }, 100);
+    var ml2 = setInterval(function () {
+                milliPlay2();
+                //step through time to get to 8 times (there are 7 li's in html)
+                timesRun += 1;
+
+                //when it gets to 8 times, chop it off.     
+                if(timesRun === 8){
+                    clearInterval(mp);
+                    clearInterval(sp);
+                    clearInterval(ml);
+                    clearInterval(mp2);
+                    clearInterval(sp2);
+                    clearInterval(ml2);
+                }
+            }, 140);   
+
+//on select, cycle through numbers to new data
+  $('select').change(function (e){
+    //reset iterations variable to 0
+    var timesRun = 0;
+
+    //On select when last child, reset to no active, so that we can start process of function correctly.
+    var bb = $("ul.secondPlay li.active"); 
+    if (bb.is(":last-child")) {
+        $("ul.secondPlay li").removeClass("active");
+        $("ul.minutePlay li").removeClass("active");
+        $("ul.milliPlay li").removeClass("active");
+        $("ul.secondPlay2 li").removeClass("active");
+        $("ul.minutePlay2 li").removeClass("active");
+        $("ul.milliPlay2 li").removeClass("active");
+    };
+    
+    var mp = setInterval(function () {
+                minutePlay()
+                
+            }, 60);
+    var sp = setInterval(function () {
+                secondPlay()
+            }, 90);
+    var ml = setInterval(function () {
+                milliPlay()
+            }, 120); 
+    var mp2 = setInterval(function () {
+                minutePlay2()
+            }, 70);
+    var sp2 = setInterval(function () {
+                secondPlay2()
+            }, 100);
+    var ml2 = setInterval(function () {
+                milliPlay2();
+                //step through time to get to 8 times (there are 7 li's in html)
+                timesRun += 1;
+
+                //when it gets to 8 times, chop it off.     
+                if(timesRun === 8){
+                    clearInterval(mp);
+                    clearInterval(sp);
+                    clearInterval(ml);
+                    clearInterval(mp2);
+                    clearInterval(sp2);
+                    clearInterval(ml2);
+                }
+            }, 140);                  
+    });
+
+
+    function milliPlay() {
+        $("body").removeClass("play");
+        var aa = $("ul.milliPlay li.active");
+
+//if nothing in aa, go through sequence to step through number to next li
+        if (aa.html() == undefined) {
+            aa = $("ul.milliPlay li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        //On last child add active and stop their
+        else if (aa.is(":last-child")) {
+            $("ul.milliPlay li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+            //aa = $("ul.milliPlay li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        //normally, (not first/last) cycle through, add active to next li, take away current active
+        else {
+            $("ul.milliPlay li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+    
+
+    function secondPlay() {
+        $("body").removeClass("play");
+        var aa = $("ul.secondPlay li.active");
+
+        if (aa.html() == undefined) {
+            aa = $("ul.secondPlay li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        else if (aa.is(":last-child")) {
+            $("ul.secondPlay li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+            //aa = $("ul.secondPlay li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        else {
+            $("ul.secondPlay li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+    function minutePlay() {
+        $("body").removeClass("play");
+        var aa = $("ul.minutePlay li.active");
+
+        if (aa.html() == undefined) {
+            aa = $("ul.minutePlay li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        else if (aa.is(":last-child")) {
+            $("ul.minutePlay li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+           // aa = $("ul.minutePlay li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        else {
+            $("ul.minutePlay li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+
+    function secondPlay2() {
+        $("body").removeClass("play");
+        var aa = $("ul.secondPlay2 li.active");
+
+        if (aa.html() == undefined) {
+            aa = $("ul.secondPlay2 li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        else if (aa.is(":last-child")) {
+            $("ul.secondPlay2 li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+            //aa = $("ul.secondPlay li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        else {
+            $("ul.secondPlay2 li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+    function minutePlay2() {
+        $("body").removeClass("play");
+        var aa = $("ul.minutePlay2 li.active");
+
+        if (aa.html() == undefined) {
+            aa = $("ul.minutePlay2 li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        else if (aa.is(":last-child")) {
+            $("ul.minutePlay2 li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+           // aa = $("ul.minutePlay2 li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        else {
+            $("ul.minutePlay2 li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+
+function milliPlay2() {
+        $("body").removeClass("play");
+        var aa = $("ul.milliPlay2 li.active");
+
+//if nothing in aa, go through sequence to step through number to next li
+        if (aa.html() == undefined) {
+            aa = $("ul.milliPlay2 li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        //On last child add active and stop their
+        else if (aa.is(":last-child")) {
+            $("ul.milliPlay2 li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+            //aa = $("ul.milliPlay2 li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        //normally, (not first/last) cycle through, add active to next li, take away current active
+        else {
+            $("ul.milliPlay2 li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+    
+});
+}(jQuery));
+
+function getIEVersion(){
+    var agent = navigator.userAgent;
+    var reg = /MSIE\s?(\d+)(?:\.(\d+))?/i;
+    var matches = agent.match(reg);
+    if (matches != null) {
+        return { major: matches[1], minor: matches[2] };
+    }
+    return { major: "-1", minor: "-1" };
+}
+
+var ie_version =  getIEVersion();
+var is_ie10 = ie_version.major == 10;
+
+if (is_ie10 === true) {alert("Internet Explorer 10 does not fully support this feature.");};
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function ($) {
+
+$(document).ready(function() {
+//Load state price json
+    var data = [
+    {
+        "state": "US Average",
+        "stateabbrev": "US",
+        "electric_raw": "12.54",
+        "eproxy": "1.24"
+    },
+    {
+        "state": "Alabama",
+        "stateabbrev": "AL",
+        "electric_raw": "11.66",
+        "eproxy": "1.15"
+    },
+    {
+        "state": "Alaska",
+        "stateabbrev": "AK",
+        "electric_raw": "18.51",
+        "eproxy": "1.83"
+    },
+    {
+        "state": "Arizona",
+        "stateabbrev": "AZ",
+        "electric_raw": "12.18",
+        "eproxy": "1.20"
+    },
+    {
+        "state": "Arkansas",
+        "stateabbrev": "AR",
+        "electric_raw": "10.05",
+        "eproxy": "0.99"
+    },
+    {
+        "state": "California",
+        "stateabbrev": "CA",
+        "electric_raw": "17.5",
+        "eproxy": "1.73"
+    },
+    {
+        "state": "Colorado",
+        "stateabbrev": "CO",
+        "electric_raw": "12.42",
+        "eproxy": "1.23"
+    },
+    {
+        "state": "Connecticut",
+        "stateabbrev": "CT",
+        "electric_raw": "17.77",
+        "eproxy": "1.75"
+    },
+    {
+        "state": "Delaware",
+        "stateabbrev": "DE",
+        "electric_raw": "13.18",
+        "eproxy": "1.30"
+    },
+    {
+        "state": "District of Columbia",
+        "stateabbrev": "DC",
+        "electric_raw": "12.65",
+        "eproxy": "1.25"
+    },
+    {
+        "state": "Florida",
+        "stateabbrev": "FL",
+        "electric_raw": "11.29",
+        "eproxy": "1.11"
+    },
+    {
+        "state": "Georgia",
+        "stateabbrev": "GA",
+        "electric_raw": "12.17",
+        "eproxy": "1.20"
+    },
+    {
+        "state": "Hawaii",
+        "stateabbrev": "HI",
+        "electric_raw": "37.04",
+        "eproxy": "3.66"
+    },
+    {
+        "state": "Idaho",
+        "stateabbrev": "ID",
+        "electric_raw": "10.19",
+        "eproxy": "1.01"
+    },
+    {
+        "state": "Illinois",
+        "stateabbrev": "IL",
+        "electric_raw": "10.12",
+        "eproxy": "1.00"
+    },
+    {
+        "state": "Indiana",
+        "stateabbrev": "IN",
+        "electric_raw": "11.15",
+        "eproxy": "1.10"
+    },
+    {
+        "state": "Iowa",
+        "stateabbrev": "IA",
+        "electric_raw": "12.03",
+        "eproxy": "1.19"
+    },
+    {
+        "state": "Kansas",
+        "stateabbrev": "KS",
+        "electric_raw": "12.11",
+        "eproxy": "1.20"
+    },
+    {
+        "state": "Kentucky",
+        "stateabbrev": "KY",
+        "electric_raw": "10.04",
+        "eproxy": "0.99"
+    },
+    {
+        "state": "Louisiana",
+        "stateabbrev": "LA",
+        "electric_raw": "9.65",
+        "eproxy": "0.95"
+    },
+    {
+        "state": "Maine",
+        "stateabbrev": "ME",
+        "electric_raw": "14.16",
+        "eproxy": "1.40"
+    },
+    {
+        "state": "Maryland",
+        "stateabbrev": "MD",
+        "electric_raw": "13.97",
+        "eproxy": "1.38"
+    },
+    {
+        "state": "Massachusetts",
+        "stateabbrev": "MA",
+        "electric_raw": "15.86",
+        "eproxy": "1.57"
+    },
+    {
+        "state": "Michigan",
+        "stateabbrev": "MI",
+        "electric_raw": "15.47",
+        "eproxy": "1.53"
+    },
+    {
+        "state": "Minnesota",
+        "stateabbrev": "MN",
+        "electric_raw": "12.83",
+        "eproxy": "1.27"
+    },
+    {
+        "state": "Mississippi",
+        "stateabbrev": "MS",
+        "electric_raw": "11.14",
+        "eproxy": "1.10"
+    },
+    {
+        "state": "Missouri",
+        "stateabbrev": "MO",
+        "electric_raw": "12.34",
+        "eproxy": "1.22"
+    },
+    {
+        "state": "Montana",
+        "stateabbrev": "MT",
+        "electric_raw": "11.06",
+        "eproxy": "1.09"
+    },
+    {
+        "state": "Nebraska",
+        "stateabbrev": "NE",
+        "electric_raw": "11.69",
+        "eproxy": "1.15"
+    },
+    {
+        "state": "Nevada",
+        "stateabbrev": "NV",
+        "electric_raw": "11.56",
+        "eproxy": "1.14"
+    },
+    {
+        "state": "New Hampshire",
+        "stateabbrev": "NH",
+        "electric_raw": "16.73",
+        "eproxy": "1.65"
+    },
+    {
+        "state": "New Jersey",
+        "stateabbrev": "NJ",
+        "electric_raw": "16.03",
+        "eproxy": "1.58"
+    },
+    {
+        "state": "New Mexico",
+        "stateabbrev": "NM",
+        "electric_raw": "12.48",
+        "eproxy": "1.23"
+    },
+    {
+        "state": "New York",
+        "stateabbrev": "NY",
+        "electric_raw": "19.31",
+        "eproxy": "1.91"
+    },
+    {
+        "state": "North Carolina",
+        "stateabbrev": "NC",
+        "electric_raw": "11.04",
+        "eproxy": "1.09"
+    },
+    {
+        "state": "North Dakota",
+        "stateabbrev": "ND",
+        "electric_raw": "10.94",
+        "eproxy": "1.08"
+    },
+    {
+        "state": "Ohio",
+        "stateabbrev": "OH",
+        "electric_raw": "12.95",
+        "eproxy": "1.28"
+    },
+    {
+        "state": "Oklahoma",
+        "stateabbrev": "OK",
+        "electric_raw": "10.18",
+        "eproxy": "1.00"
+    },
+    {
+        "state": "Oregon",
+        "stateabbrev": "OR",
+        "electric_raw": "10.16",
+        "eproxy": "1.00"
+    },
+    {
+        "state": "Pennsylvania",
+        "stateabbrev": "PA",
+        "electric_raw": "13.09",
+        "eproxy": "1.29"
+    },
+    {
+        "state": "Rhode Island",
+        "stateabbrev": "RI",
+        "electric_raw": "16.9",
+        "eproxy": "1.67"
+    },
+    {
+        "state": "South Carolina",
+        "stateabbrev": "SC",
+        "electric_raw": "12.02",
+        "eproxy": "1.19"
+    },
+    {
+        "state": "South Dakota",
+        "stateabbrev": "SD",
+        "electric_raw": "11.29",
+        "eproxy": "1.11"
+    },
+    {
+        "state": "Tennessee",
+        "stateabbrev": "TN",
+        "electric_raw": "10.46",
+        "eproxy": "1.03"
+    },
+    {
+        "state": "Texas",
+        "stateabbrev": "TX",
+        "electric_raw": "11.45",
+        "eproxy": "1.13"
+    },
+    {
+        "state": "Utah",
+        "stateabbrev": "UT",
+        "electric_raw": "10.83",
+        "eproxy": "1.07"
+    },
+    {
+        "state": "Vermont",
+        "stateabbrev": "VT",
+        "electric_raw": "17.77",
+        "eproxy": "1.75"
+    },
+    {
+        "state": "Virginia",
+        "stateabbrev": "VA",
+        "electric_raw": "11.51",
+        "eproxy": "1.14"
+    },
+    {
+        "state": "Washington",
+        "stateabbrev": "WA",
+        "electric_raw": "8.82",
+        "eproxy": "0.87"
+    },
+    {
+        "state": "West Virginia",
+        "stateabbrev": "WV",
+        "electric_raw": "9.74",
+        "eproxy": "0.96"
+    },
+    {
+        "state": "Wisconsin",
+        "stateabbrev": "WI",
+        "electric_raw": "14.39",
+        "eproxy": "1.42"
+    },
+    {
+        "state": "Wyoming",
+        "stateabbrev": "WY",
+        "electric_raw": "10.77",
+        "eproxy": "1.06"
+    }
+]
+
+        //Populate select dropdown menu
+        var mySelect = $('#mySelect');
+            $.each(data, function(i) {
+              mySelect.append(
+                $('<option></option>').val(data[i].stateabbrev).html(data[i].state)
+            );
+        });
+
+        //load gas data
+        var gas_data = [
+    {
+        "loc": "US",
+        "loc_abbrev": "US",
+        "price": "3.587"
+    },
+    {
+        "loc": "East Coast",
+        "loc_abbrev": "EC",
+        "price": "3.587"
+    },
+    {
+        "loc": "New England",
+        "loc_abbrev": "NE",
+        "price": "3.751"
+    },
+    {
+        "loc": "Central Atlantic",
+        "loc_abbrev": "CAT",
+        "price": "3.66"
+    },
+    {
+        "loc": "Lower Atlantic",
+        "loc_abbrev": "LAT",
+        "price": "3.483"
+    },
+    {
+        "loc": "Midwest",
+        "loc_abbrev": "MW",
+        "price": "3.574"
+    },
+    {
+        "loc": "Gulf Coast",
+        "loc_abbrev": "GC",
+        "price": "3.377"
+    },
+    {
+        "loc": "Rocky Mountain",
+        "loc_abbrev": "RM",
+        "price": "3.631"
+    },
+    {
+        "loc": "West Coast",
+        "loc_abbrev": "WC",
+        "price": "3.797"
+    },
+    {
+        "loc": "West Coast less California",
+        "loc_abbrev": "WCLC",
+        "price": "3.621"
+    },
+    {
+        "loc": "California",
+        "loc_abbrev": "CA",
+        "price": "3.899"
+    },
+    {
+        "loc": "Colorado",
+        "loc_abbrev": "CO",
+        "price": "3.564"
+    },
+    {
+        "loc": "Florida",
+        "loc_abbrev": "FL",
+        "price": "3.525"
+    },
+    {
+        "loc": "Massachusetts",
+        "loc_abbrev": "MA",
+        "price": "3.679"
+    },
+    {
+        "loc": "Minnesota",
+        "loc_abbrev": "MN",
+        "price": "3.587"
+    },
+    {
+        "loc": "New York",
+        "loc_abbrev": "NY",
+        "price": "3.836"
+    },
+    {
+        "loc": "Ohio",
+        "loc_abbrev": "OH",
+        "price": "3.496"
+    },
+    {
+        "loc": "Texas",
+        "loc_abbrev": "TX",
+        "price": "3.391"
+    },
+    {
+        "loc": "Washington",
+        "loc_abbrev": "WA",
+        "price": "3.72"
+    }
+]
+
+        var loop2 = ["onestG","tenthstG","hundrethstG","onestE","tenthstE","hundrethstE","name","price1","price2"];
+        var html2 = [];
+        //loading a json above and then for loop to define them below using a for loop. 5/6.
+    
+        for (var i = 0; i<loop2.length; i++) {
+            html2.push(document.getElementById(loop2[i]));
+        };  
+
+        //load initial values
+
+                var onesG = String(gas_data[0].price).charAt(0);
+                var tenthsG = String(gas_data[0].price).charAt(2);
+                var hundrethsG = String(gas_data[0].price).charAt(3);
+                                
+                var onesE = String(data[0].eproxy).charAt(0);
+                var tenthsE = String(data[0].eproxy).charAt(2);
+                var hundrethsE = String(data[0].eproxy).charAt(3);
+
+                //put those characters collected into the appropriate innerHTML
+
+                html2[0].innerHTML=onesG;
+                html2[1].innerHTML=tenthsG;
+                html2[2].innerHTML=hundrethsG;
+                
+
+                html2[3].innerHTML=onesE;
+                html2[4].innerHTML=tenthsE;
+                html2[5].innerHTML=hundrethsE;
+
+//                html2[6].innerHTML=data.features[0].state;
+//                html2[7].innerHTML="The price of gasoline is <strong>$"+data.features[0].regular+"</strong> per gallon.";
+//                html2[8].innerHTML="The price of electricity is <strong>$"+data.features[0].eproxy+"</strong> per egallon.";
+
+
+        //what happens when you select a state
+            $('select').change(function (e){
+            e.preventDefault();
+            for (var i=0;i<data.length;i++)
+            {
+                //When the value selected equals the JSONs state abbreviation, gather the data at specific characters
+                if (this.value === data[i].stateabbrev) {
+                                    
+                    var onesE = String(data[i].eproxy).charAt(0);
+                    var tenthsE = String(data[i].eproxy).charAt(2);
+                    var hundrethsE = String(data[i].eproxy).charAt(3);
+
+                    //put those characters collected into the appropriate innerHTML
+
+                    html2[3].innerHTML=onesE;
+                    html2[4].innerHTML=tenthsE;
+                    html2[5].innerHTML=hundrethsE;
+                };
+            }
+
+            if (this.value === "MA" ||this.value === "NY" ||this.value === "FL" ||this.value === "OH" ||this.value === "TX" ||this.value === "CO" ||this.value === "CA" ||this.value === "WA" || this.value === "MN") 
+            {
+                    for (var i=0;i<gas_data.length;i++)
+                        {
+                            //When the value selected equals the JSONs state abbreviation, gather the data at specific characters
+                            if (this.value === gas_data[i].loc_abbrev) {
+                                            
+                                var onesG = String(gas_data[i].price).charAt(0);
+                                var tenthsG = String(gas_data[i].price).charAt(2);
+                                var hundrethsG = String(gas_data[i].price).charAt(3);    
+
+                                html2[0].innerHTML=onesG;
+                                html2[1].innerHTML=tenthsG; 
+                                html2[2].innerHTML=hundrethsG;
+
+                            };
+                        }
+            } 
+
+            else{
+
+                var pr;
+                if (this.value === "ME" ||this.value === "NH" ||this.value === "VT" ||this.value === "NH" ||this.value === "CT" ||this.value === "RI") 
+                {pr = gas_data[2].price;}            
+                else if (this.value === "NY" ||this.value === "PA" ||this.value === "NJ" ||this.value === "DE" ||this.value === "MD" || this.value === "DC")
+                {pr = gas_data[3].price;}            
+                else if (this.value === "WV" ||this.value === "VA" ||this.value === "NC" ||this.value === "SC" ||this.value === "GA" )
+                {pr = gas_data[4].price;}            
+                else if (this.value === "AL" ||this.value === "MS" ||this.value === "AR" ||this.value === "LA" ||this.value === "NM" )
+                {pr = gas_data[6].price;}            
+                else if (this.value === "WY" ||this.value === "MT" ||this.value === "ID" ||this.value === "UT" )
+                {pr = gas_data[7].price;}            
+                else if (this.value === "OR" ||this.value === "NV" ||this.value === "AZ" ||this.value === "AK" ||this.value === "HI" )
+                {pr = gas_data[9].price;}            
+                else if (this.value === "ND" ||this.value === "SD" ||this.value === "NE" ||this.value === "KS" ||this.value === "OK" ||this.value === "MO" ||this.value === "IA" ||this.value === "WI" ||this.value === "MI" ||this.value === "IL" ||this.value === "IN" ||this.value === "KY" ||this.value === "TN" )
+                {pr = gas_data[5].price;} 
+                else if (this.value === "US")
+                {pr = gas_data[0].price;}            
+
+                var onesG = String(pr).charAt(0);
+                var tenthsG = String(pr).charAt(2);
+                var hundrethsG = String(pr).charAt(3);       
+
+                html2[0].innerHTML=onesG;
+                html2[1].innerHTML=tenthsG; 
+                html2[2].innerHTML=hundrethsG;
+
+            };
+
+     });
+   
+  });
+
+}(jQuery));
+
+(function ($) {
+$(document).ready(function() {
+
+    var timesRun = 0;
+
+    //on load, cycle through numbers to data
+    var mp = setInterval(function () {
+                minutePlay()
+                
+            }, 60);
+    var sp = setInterval(function () {
+                secondPlay()
+            }, 90);
+    var ml = setInterval(function () {
+                milliPlay()
+            }, 120); 
+    var mp2 = setInterval(function () {
+                minutePlay2()
+            }, 70);
+    var sp2 = setInterval(function () {
+                secondPlay2()
+            }, 100);
+    var ml2 = setInterval(function () {
+                milliPlay2();
+                //step through time to get to 8 times (there are 7 li's in html)
+                timesRun += 1;
+
+                //when it gets to 8 times, chop it off.     
+                if(timesRun === 8){
+                    clearInterval(mp);
+                    clearInterval(sp);
+                    clearInterval(ml);
+                    clearInterval(mp2);
+                    clearInterval(sp2);
+                    clearInterval(ml2);
+                }
+            }, 140);   
+
+//on select, cycle through numbers to new data
+  $('select').change(function (e){
+    //reset iterations variable to 0
+    var timesRun = 0;
+
+    //On select when last child, reset to no active, so that we can start process of function correctly.
+    var bb = $("ul.secondPlay li.active"); 
+    if (bb.is(":last-child")) {
+        $("ul.secondPlay li").removeClass("active");
+        $("ul.minutePlay li").removeClass("active");
+        $("ul.milliPlay li").removeClass("active");
+        $("ul.secondPlay2 li").removeClass("active");
+        $("ul.minutePlay2 li").removeClass("active");
+        $("ul.milliPlay2 li").removeClass("active");
+    };
+    
+    var mp = setInterval(function () {
+                minutePlay()
+                
+            }, 60);
+    var sp = setInterval(function () {
+                secondPlay()
+            }, 90);
+    var ml = setInterval(function () {
+                milliPlay()
+            }, 120); 
+    var mp2 = setInterval(function () {
+                minutePlay2()
+            }, 70);
+    var sp2 = setInterval(function () {
+                secondPlay2()
+            }, 100);
+    var ml2 = setInterval(function () {
+                milliPlay2();
+                //step through time to get to 8 times (there are 7 li's in html)
+                timesRun += 1;
+
+                //when it gets to 8 times, chop it off.     
+                if(timesRun === 8){
+                    clearInterval(mp);
+                    clearInterval(sp);
+                    clearInterval(ml);
+                    clearInterval(mp2);
+                    clearInterval(sp2);
+                    clearInterval(ml2);
+                }
+            }, 140);                  
+    });
+
+
+    function milliPlay() {
+        $("body").removeClass("play");
+        var aa = $("ul.milliPlay li.active");
+
+//if nothing in aa, go through sequence to step through number to next li
+        if (aa.html() == undefined) {
+            aa = $("ul.milliPlay li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        //On last child add active and stop their
+        else if (aa.is(":last-child")) {
+            $("ul.milliPlay li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+            //aa = $("ul.milliPlay li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        //normally, (not first/last) cycle through, add active to next li, take away current active
+        else {
+            $("ul.milliPlay li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+    
+
+    function secondPlay() {
+        $("body").removeClass("play");
+        var aa = $("ul.secondPlay li.active");
+
+        if (aa.html() == undefined) {
+            aa = $("ul.secondPlay li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        else if (aa.is(":last-child")) {
+            $("ul.secondPlay li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+            //aa = $("ul.secondPlay li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        else {
+            $("ul.secondPlay li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+    function minutePlay() {
+        $("body").removeClass("play");
+        var aa = $("ul.minutePlay li.active");
+
+        if (aa.html() == undefined) {
+            aa = $("ul.minutePlay li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        else if (aa.is(":last-child")) {
+            $("ul.minutePlay li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+           // aa = $("ul.minutePlay li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        else {
+            $("ul.minutePlay li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+
+    function secondPlay2() {
+        $("body").removeClass("play");
+        var aa = $("ul.secondPlay2 li.active");
+
+        if (aa.html() == undefined) {
+            aa = $("ul.secondPlay2 li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        else if (aa.is(":last-child")) {
+            $("ul.secondPlay2 li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+            //aa = $("ul.secondPlay li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        else {
+            $("ul.secondPlay2 li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+    function minutePlay2() {
+        $("body").removeClass("play");
+        var aa = $("ul.minutePlay2 li.active");
+
+        if (aa.html() == undefined) {
+            aa = $("ul.minutePlay2 li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        else if (aa.is(":last-child")) {
+            $("ul.minutePlay2 li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+           // aa = $("ul.minutePlay2 li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        else {
+            $("ul.minutePlay2 li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+
+
+function milliPlay2() {
+        $("body").removeClass("play");
+        var aa = $("ul.milliPlay2 li.active");
+
+//if nothing in aa, go through sequence to step through number to next li
+        if (aa.html() == undefined) {
+            aa = $("ul.milliPlay2 li").eq(0);
+            aa.addClass("before")
+                //.removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+
+        }
+        //On last child add active and stop their
+        else if (aa.is(":last-child")) {
+            $("ul.milliPlay2 li").removeClass("before");
+            aa.addClass("before").removeClass("active");
+            //aa = $("ul.milliPlay2 li").eq(0);
+            aa.addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+        //normally, (not first/last) cycle through, add active to next li, take away current active
+        else {
+            $("ul.milliPlay2 li").removeClass("before");
+            aa.addClass("before")
+                .removeClass("active")
+                .next("li")
+                .addClass("active")
+                .closest("body")
+                .addClass("play");
+        }
+
+    }
+    
+});
+}(jQuery));
+
+function getIEVersion(){
+    var agent = navigator.userAgent;
+    var reg = /MSIE\s?(\d+)(?:\.(\d+))?/i;
+    var matches = agent.match(reg);
+    if (matches != null) {
+        return { major: matches[1], minor: matches[2] };
+    }
+    return { major: "-1", minor: "-1" };
+}
+
+var ie_version =  getIEVersion();
+var is_ie10 = ie_version.major == 10;
+
+if (is_ie10 === true) {alert("Internet Explorer 10 does not fully support this feature.");};
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://energy.gov/sites/prod/files/js/js_VKNSAhOEDIpOa0fo3uTijNXGfVSN90K2kVQ-PNQnbmg.js"></script>
+<script type="text/javascript" src="http://energy.gov/sites/prod/files/js/js_fML-0KAodfPEnZqsajVChAev-TTYnWjs0PMsSas-hUE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"energy","theme_token":"JyiibcKQwoUBjXFFHEYRf1BvrJ_0PJSQu--rcWTty2w","js":{"sites\/all\/modules\/custom\/energy_core\/js\/event_tracking.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/jquery.hoverIntent\/jquery.hoverIntent.min.js":1,"misc\/ui\/jquery.ui.button.min.js":1,"misc\/ui\/jquery.ui.mouse.min.js":1,"misc\/ui\/jquery.ui.draggable.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.resizable.min.js":1,"misc\/ui\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/contrib\/views\/js\/jquery.ui.dialog.patch.js":1,"sites\/all\/modules\/contrib\/ext_link_page\/ext_link_page.js":1,"sites\/all\/modules\/custom\/energy_social\/js\/eventTracking.js":1,"1":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"misc\/form.js":1,"misc\/collapse.js":1,"2":1,"3":1,"sites\/all\/themes\/energy\/scripts\/mapbox.js\/v1.0.2\/mapbox.js":1,"sites\/all\/themes\/energy\/scripts\/energyColumns.js":1,"sites\/all\/themes\/energy\/scripts\/navigation.js":1,"sites\/all\/themes\/energy\/scripts\/stickyHeader.js":1,"sites\/all\/themes\/energy\/scripts\/placeholder_shim.js":1,"sites\/all\/themes\/energy\/scripts\/equalHeights.js":1,"sites\/all\/themes\/energy\/scripts\/energy.js":1,"sites\/all\/themes\/energy\/scripts\/oms.min.js":1},"css":{"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"\/\/fast.fonts.com\/t\/1.css?apiType=css\u0026projectid=b893a4ff-9ea3-4ce8-bf77-c8d3e3a3de97":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/energy_content\/css\/wysiwyg.css":1,"0":1,"sites\/all\/modules\/contrib\/field_group\/field_group.css":1,"1":1,"sites\/all\/themes\/energy\/scripts\/mapbox.js\/v1.0.2\/mapbox.css":1,"2":1,"sites\/all\/themes\/energy\/style\/reset.css":1,"sites\/all\/themes\/energy\/style\/drupal.css":1,"sites\/all\/themes\/energy\/style\/grid.css":1,"sites\/all\/themes\/energy\/style\/layout.less":1,"sites\/all\/themes\/energy\/style\/fontography.less":1}},"energy_content":{"nid":"715131","base_url":"http:\/\/energy.gov","isFront":false,"toggle_tophero_frontpage":1},"drupal_ga_accounts":["UA-17192165-1"],"ext_link_page":{"pathLinkPage":"\/exit","messageTitle":"You are now leaving Energy.gov","messageBody":"\u003Cstrong\u003EYou will be automatically redirected to:\u003C\/strong\u003E\u003Cbr \/\u003E\n  [link]\u003Cbr \/\u003E\n  in [delay] seconds\u003Cspan class=\u0022ext-link-modal-message\u0022\u003E or you may click \u0022Continue to the Site\u0022\u003C\/span\u003E.\n","extLinkClass":"ext","directDisable":0,"delay":10,"siteName":"Department of Energy"},"field_group":{"div":"full"},"og":{"og_context":{"gid":"1","etid":"31","entity_type":"taxonomy_term","label":"Energy.gov","state":"1","created":"1308158799","rdf_mapping":[]}}});
+//--><!]]>
+</script>
+  <script type="text/javascript" src="http://energy.gov/sites/prod/files/js/js_SVAVlc78N_ue4X4jmbrqLfrTGPa-OAcmjjyhvAZ5BNk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var _gaq = _gaq || [];
+_gaq.push(
+  
+  ['_setAccount', 'UA-17192165-1'],
+  ['_trackPageview'],
+  ['_setDomainName', '.energy.gov']
+);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//--><!]]>
+</script>
+  </body>
+</html>

@@ -1,0 +1,857 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:addthis="http://www.addthis.com/help/api-spec">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=7" /> 
+<script type="text/javascript">
+   var _U = "undefined";
+   var g_HttpRelativeWebRoot = "/ucm/";
+   var SSContributor = false;
+   var SSForceContributor = false;
+   var SSHideContributorUI = false;
+   var ssUrlPrefix = "/";
+   var ssUrlType = "1";
+   
+   var g_navNode_Path = new Array();
+       g_navNode_Path[0] = '1201';
+       g_navNode_Path[1] = '1850';
+       g_navNode_Path[2] = '3483';
+   var g_ssSourceNodeId = "3483";
+   var g_ssSourceSiteId = "FDAgov";
+   var g_strLanguageId = "en";
+</script>
+<!--<script id="SSNavigationFunctionsScript" type="text/javascript" src="/ucm/websites/FDAgov/sitenavigationfunctions.js"></script>
+<script id="SSNavigationScript" type="text/javascript" src="/ucm/websites/FDAgov/sitenavigation.js"></script>-->
+
+	<script type="text/javascript" src="/ucm/resources/wcm/sitestudio/wcm.toggle.js"></script>
+	<script type="text/javascript" src="/ucm/resources/sitestudio/ssajax/ssajax.js"></script>
+
+
+<script id="ssInfo" type="text/xml" warning="DO NOT MODIFY!">
+  <ssinfo>
+    <fragmentinstance  id="fragment23" fragmentid="FDAgov_Skip_Nav" library="server:SS_FRAG_FDAGOV_SKIPNAV"></fragmentinstance>
+  </ssinfo>
+  </script>
+ 
+  		
+		
+		 
+    <title>Use Sunscreen Spray? Avoid Open Flame</title> 
+	<meta name="ID" content="UCM359437"/>
+	<meta name="msvalidate.01" content="0AE61A039CC5BDCCF556A11C18A61D44" />
+		<meta name="dc.title" content="Consumer Updates - Use Sunscreen Spray? Avoid Open Flame"/>
+	<meta name="dc.type" content="WebContent"/>
+	<meta name="dc.description" content="In 2012, FDA received reports of five separate incidents in which people wearing sunscreen spray near an open flame actually caught fire. Learn how to use sunscreen spray safely and avoid potential harm."/>
+	<meta name="dc.language" content="en"/>
+	<meta name="posted" content="2013-07-03"/>
+	<meta name="keywords" content="FDA, Food and Drug Administration, Narayan Nair, Lydia Velazquez, sunscreen spray, tanning, sun safety, sunscreen-related fires, burn incidents, flammable spray, sun protection, sunscreen products, Consumer Product Safety Commission"/>
+	<meta name="description" content="In 2012, FDA received reports of five separate incidents in which people wearing sunscreen spray near an open flame actually caught fire. Learn how to use sunscreen spray safely and avoid potential harm."/>
+	<meta name="dc.publisher" content="Office of the Commissioner"/>
+	<meta name="dc.audience" content="Patients & Consumers"/>
+	<meta name="dc.creator" content="Office of the Commissioner"/>
+	<meta name="old_url" content=""/>
+	
+	<meta name="archive" content="No"/>
+	
+		<meta name="search_topic" content="Drugs"/>
+		<meta name="dc.subject" content="Drugs"/>
+	<script language="JavaScript" type="text/javascript">
+	document.title = "Consumer Updates" + " > " + "Use Sunscreen Spray? Avoid Open Flame";</script>
+ 
+
+
+<!--- /**** Begin CSS References ****/-->
+<link rel="stylesheet" type="text/css" media="screen" href="/ucm/groups/fdagov-public/@system/documents/system/css_fda_gov_stylesheet.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/ucm/groups/fdagov-public/@system/documents/system/css_fda_gov_print_stylesheet.css" />
+<!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" media="screen" href="/ucm/groups/fdagov-public/@system/documents/system/css_fda_gov_stylesheet_ie.css" />
+<![endif]-->
+
+
+<!--- /**** Begin Sitewide JS References ****/-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" ></script>
+<!-- ## ADDED tips Javascript reference to handle styling the tool tips ## -->
+<script type="text/javascript" src="/ucm/groups/fdagov-public/@system/documents/system/js_fdagov_tips.js"></script>
+
+<script type="text/javascript" src="/ucm/groups/fdagov-public/@system/documents/system/js_fdagov_global.js"></script>
+<script type="text/javascript" src="/ucm/groups/fdagov-public/@system/documents/system/js_fdagov_resize.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js" ></script>
+<script type="text/javascript" src="/ucm/groups/fdagov-public/@system/documents/system/highcharts.js" ></script>
+ <!-- ## ADDED hoverIntent JavaScript to support the drop-down menus ## -->
+<script type="text/JavaScript" src="/ucm/groups/fdagov-public/@system/documents/system/js_jquery_hover_intent.js"></script>
+<!-- ## ADDED submenus JavaScript reference to import code to handle displaying sub-menus when hovered over ## -->
+<script type="text/javascript" src="/ucm/groups/fdagov-public/@system/documents/system/js_fdagov_submenus.js"></script>
+<script type="text/javascript" src="/ucm/groups/fdagov-public/@system/documents/system/js_jquery_tablesort.js"></script>
+
+ 
+	<script type="text/javascript" src="/ucm/groups/fdagov-public/@system/documents/system/js_jquery_tablepagination.js"></script> 
+	<script type="text/javascript" src="/ucm/groups/fdagov-public/@system/documents/system/js_sorttable_fdagov.js"></script>
+
+		<!--- /**** FEATURE SECTION ****/-->	
+<!--- /**** SUBTOPIC/CONTENT SECTION ****/-->
+	<!--[if lt IE 7]>
+		<script defer type="text/javascript" src="/ucm/groups/fdagov-public/@system/documents/system/js_pngfix_fdagov.js"></script>
+	<![endif]-->
+	<!-- ## ADDED hovers Javascript reference to handle hovering over images and replacing that image with it's hover effect ## -->
+	<script type="text/javascript" src="/ucm/groups/fdagov-public/@system/documents/system/js_fdagov_hovers.js"></script>
+	
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js" language="JavaScript"></script>
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-22737364-1']);
+	_gaq.push(['_setDomainName', '.fda.gov']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})(); 
+	</script>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript" src="/ucm/groups/fdagov-public/@system/documents/system/org.js"></script>
+
+</head>
+
+<body>
+ 
+ <!--==== START nsharma: Combining SP_FDA_GOV_CONTENT_BOXES for all secondary pages under Fda Basics==== -->   
+	
+  <!--SS_BEGIN_SNIPPET(fragment23,1)--><div class="quicklinks"> 
+  <a href="#main" accesskey="2" class="quicklinks" tabindex="1" title="Skip to content">Quick Links: Skip to main page content</a>
+  <a href="#search-form" class="quicklinks" tabindex="1" title="Skip to search">Skip to Search</a>
+
+  <a href="#fda-topmenu" class="quicklinks" tabindex="1" title="Skip to FDA top menu">Skip to Topics Menu</a>
+		
+	
+        <a href="#section-menu" class="quicklinks" tabindex="1" title="Skip to Section table of contents">Skip to Section Content Menu</a>            
+  <a href="#footer-heading" class="quicklinks" tabindex="1" title="Skip to site options">Skip to Common Links</a>
+</div>
+			<!--SS_END_SNIPPET(fragment23,1)-->
+
+  <div id="outerwrapper">
+		
+		<!--==== BEGIN PAGE OUTER WRAPPER ==== -->
+
+			<!-- #** VALIDATION not sure what this tag is, but it will fail XHTML validation **# -->
+			<MAXAMINEIGNORE XMLNS="FDA">
+			<div id="hhs-masthead">
+				<!--googleoff: index-->
+				<!-- ==== BEGIN RIGHT HHS MASTHEAD ==== -->
+				<div id="hhs-rightmast">
+					<!-- ## ADD page-tools ## -->
+					<div id="page-tools">
+						<ul class="list-horizontal">
+							<li><a id="font-size-decrease" href="#" title="Decrease font size"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_font_adj_small.png" alt="Decrease font size" title="Decrease font size"/></a></li>
+							<li><a id="font-size-standard" href="#" title="Return font size to normal"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_font_adj_medium.png" alt="Return font size to normal" title="Return font size to normal"/></a></li>
+							<li><a id="font-size-increase" href="#" title="Increase font size"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_font_adj_large.png" alt="Increase font size" title="Increase font size"/></a></li>
+						</ul>
+					</div>
+					<!-- ## END page-tools ## -->
+				</div>
+				<!-- ==== END RIGHT HHS MASTHEAD ==== -->
+				<!-- ==== BEGIN LEFT HHS MASTHEAD ==== -->
+				<div id="hhs-leftmast">
+					<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services"><img id="rrimg1" border="0" src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_hhs_masthead_logo_r.png" alt="U.S. Department of Health and Human Services" title="U.S. Department of Health and Human Services"/></a>
+				</div>
+				<!-- ==== END LEFT HHS MASTHEAD ==== -->
+			</div>
+			<div id="wrapper">
+				<!-- ==== BEGIN PAGE HEADER ==== -->
+				<div id="header">
+					<!-- ==== BEGIN MASTHEAD ==== -->
+					<div id="fda-masthead">
+						<!-- ==== BEGIN LEFT MASTHEAD ==== -->
+						<div id="fda-leftmast">
+							<div id="FDAlogo">
+								<a href="/default.htm" title="FDA, U.S. Food and Drug Administration"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_fda_masthead_logo.png" alt="FDA, U.S. Food and Drug Administration" border="0" title="FDA, U.S. Food and Drug Administration"/></a>
+							</div>
+							<!-- ## ADDED print-pagetitle This is what is displayed when the page is printed, rather than the logo ## -->
+							<div class="print-pagetitle">
+								U.S. Food &amp; Drug Administration
+							</div>
+							<!-- ## END print-pagetitle ## -->
+							<div class="clearfloat">&nbsp;</div>
+						</div>
+						<!-- ==== END LEFT FDA MASTHEAD ==== -->
+						<!-- ==== BEGIN RIGHT MASTHEAD ==== -->
+						<div id="fda-rightmast">
+							<!-- ## ADDED masthead-links ## -->
+							<div id="masthead-links">
+								<ul class="list-horizontal">
+									<li class="first"><a href="/SiteIndex/default.htm" title="A to Z Index">A to Z Index</a></li>
+									<li><a href="/NewsEvents/InteractiveMedia/default.htm" title="Follow FDA">Follow FDA</a></li>
+									<li class="last"><a href="https://blogs.fda.gov/fdavoice/" title="FDA Voice">FDA Voice Blog</a></li>
+								</ul>
+							</div>
+							<!-- ## END masthead-links ## -->
+							<div id="search-form">
+								<form action="http://google2.fda.gov/search" method="get" name="searchForm" id="searchbox">
+									<label class="searchlable" for="search">Enter Search terms</label>
+									<input accesskey="4" id="search" type="text" name="q" />
+									<!-- ## ADDED go_button ## -->
+									<div id="go_button">
+										<a href="javascript:document.getElementById('searchbox').submit();" title="Search this site"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_mast_search_button.png" alt="Search" title="Search this site"/></a>
+									</div>
+									<!-- ## END go_button -->
+									<!-- ==== BEGIN HIDDEN SEARCH FIELDS ==== -->
+									<input type="hidden" name="client" value="FDAgov" />
+									<input type="hidden" name="site" value="FDAgov" />
+									<input type="hidden" name="lr" value="" />
+									<input type="hidden" name="proxystylesheet" value="FDAgov" />
+									<input type="hidden" name="requiredfields" value="-archive:Yes" />
+									<input type="hidden" name="output" value="xml_no_dtd"/>
+									<input type="hidden" name="getfields" value="*" />
+									<!-- ==== END HIDDEN SEARCH FIELDS ==== -->
+								</form>
+								<div class="clearfloat">&nbsp;</div>
+							</div>
+							<div id="masthead-links" style="margin-top:8px;">
+								<a href="http://www.accessdata.fda.gov/scripts/search/index.cfm?action=archive.search" title="Search the FDA Archive">Search the FDA Archive</a>
+							</div>
+						</div> 
+						<div class="clearfloat">&nbsp;</div>
+						<!-- ==== END RIGHT MASTHEAD ==== -->
+					</div>
+				</MAXAMINEIGNORE>
+
+
+<div id="fda-topmenu">
+            <ul class="menu-tabbed">
+                  <li><a title="Home" href="/default.htm" accesskey="1"><span>Home</span></a></li>
+                  <li><a title="Food" href="/Food/default.htm"><span>Food</span></a></li>
+                  <li><a title="Drugs" href="/Drugs/default.htm"><span>Drugs</span></a></li>
+                  <li><a title="Medical Devices" href="/MedicalDevices/default.htm"><span>Medical Devices</span></a></li>
+                  <li><a title="Radiation-Emitting Products" href="/Radiation-EmittingProducts/default.htm"><span>Radiation-Emitting Products</span></a></li>
+                  <li><a title="Vaccines, Blood and Biologics" href="/BiologicsBloodVaccines/default.htm"><span>Vaccines, Blood & Biologics</span></a></li>
+                  <li><a title="Animal and Veterinary" href="/AnimalVeterinary/default.htm"><span>Animal & Veterinary</span></a></li>
+                  <li><a title="Cosmetics" href="/Cosmetics/default.htm"><span>Cosmetics</span></a></li>
+                  <li><a title="Tobacco Products" href="/TobaccoProducts/default.htm"><span>Tobacco Products</span></a></li>
+            </ul>
+    </div>
+<div class="clearfloat">&nbsp;</div>
+			</div>
+			<!--googleon: index-->
+
+<div id="content">
+      <div class="clearfloat"> </div>
+   
+      <div class="clearfloat"> </div>
+<!--==== BEGIN Topic Page Title ==== -->
+
+            		
+            		<h1 id="topic_page_title" class="head1">For Consumers</h1>
+            		
+<!--==== END Topic Page Title ==== -->
+				<!-- ## ADD page-options ## -->
+				<div id="page-options" class="hover-fade">
+					<ul class="list-horizontal">
+						<li><a href="javascript:window.print();" title="Print this page"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_utility_icon_print.png" alt="Print"  title="Print this page"/></a></li>
+						<li><a href="http://www.addthis.com/bookmark.php?u508=true&v=152&amp;username=fdamain" class="addthis_button_compact" title="Share this page"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_utility_icon_share.png" alt="Share" title="Share this page"/></a></li>
+						<li><a href="http://www.addthis.com/bookmark.php" class="addthis_button_email" title="E-mail this page"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_utility_icon_email.png" alt="E-mail" title="E-mail this page"/></a></li>
+						<!-- BEGIN esEspanol Button -->
+							<script language="JavaScript" type="text/javascript">
+							var MP = {
+							<!-- mp_trans_disable_start --> 
+  							Version: '1.0.22',
+  							Domains: {'es':'esp.fda.gov'},	
+  							SrcLang: 'en',
+							<!-- mp_trans_disable_end -->
+  							UrlLang: 'mp_js_current_lang',
+  							SrcUrl: unescape('mp_js_orgin_url'),
+							<!-- mp_trans_disable_start --> 	
+  							init: function(){
+    							if (MP.UrlLang.indexOf('p_js_')==1) {
+      							MP.SrcUrl=window.top.document.location.href;
+      							MP.UrlLang=MP.SrcLang;
+  							}
+							},
+							getCookie: function(name){
+  							var start=document.cookie.indexOf(name+'=');
+  							if(start < 0) return null;
+  							start=start+name.length+1;
+  							var end=document.cookie.indexOf(';', start);
+  							if(end < 0) end=document.cookie.length;
+  							while (document.cookie.charAt(start)==' '){ start++; }
+  							return unescape(document.cookie.substring(start,end));
+							},
+							setCookie: function(name,value,path,domain){
+  							var cookie=name+'='+escape(value);
+  							if(path)cookie+='; path='+path;
+  							if(domain)cookie+='; domain='+domain;
+  							var now=new Date();
+  							now.setTime(now.getTime()+1000*60*60*24*365);
+  							cookie+='; expires='+now.toUTCString();
+  							document.cookie=cookie;
+							},
+							switchLanguage: function(lang){
+  							if(lang!=MP.SrcLang){
+    							var script=document.createElement('SCRIPT');
+    							script.src=location.protocol+'//'+MP.Domains[lang]+'/'+MP.SrcLang+lang+'/?1023749632;'+encodeURIComponent(MP.SrcUrl);
+								document.body.appendChild(script);
+  							} else if(lang==MP.SrcLang && MP.UrlLang!=MP.SrcLang){
+    							var script=document.createElement('SCRIPT');
+    							script.src=location.protocol+'//'+MP.Domains[MP.UrlLang]+'/'+MP.SrcLang+MP.UrlLang+'/?1023749634;'+encodeURIComponent(location.href);
+								document.body.appendChild(script);
+  							}
+  							return false;
+							},
+							switchToLang: function(url) {
+  							window.top.location.href=url; 
+							}
+							<!-- mp_trans_disable_end -->   
+							};
+							</script>
+						<!-- END enEspanol Button -->
+					</ul>
+					
+					<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=fdamain"></script>
+
+					<script type="text/javascript">
+					var addthis_config = {data_track_clickback: true, ui_508_compliant: true} ;
+					</script>
+				</div>
+				<!-- ## END page-options ## -->
+<!--==== BEGIN Breadcrumbs ==== -->
+	<div id="fda-breadcrumbs">
+<!-- Check if Node List exists and user is not at the homepage.  If the user is at the homepage, hide the breadcrumb -->
+<!-- Limits Level of BreadCrumb to 4 -->
+<div class="hmenu">
+	<ul class="list-horizontal">
+			<li><a href = "/default.htm" >Home</a></li>
+			<li><a href = "/ForConsumers/default.htm" >For Consumers</a></li>
+			<li><a href = "/ForConsumers/ConsumerUpdates/default.htm" >Consumer Updates</a></li>
+	</ul>
+</div>
+</div>
+
+
+
+<!--==== END Breadcrumbs ==== --> 
+ 
+
+
+
+<div class="left-column">
+		<!-- Wrapping Style Div -->
+	<div id="main_left_nav">
+	<div class="liquid-round">
+	<div class="top"><span></span></div>
+	<div class="liquid-round-header">
+
+	</div>
+	<div class="center-content" id="section-menu">
+	<h2 class="searchlable">Section Contents Menu</h2>
+	<!-- Save your active nodeId -->
+	<!-- determine nav start level from current node -->
+		<!-- find Parent nodeId of active node -->
+		<!-- find Parent nodeId of active node -->
+		<!-- find Parent nodeId of active node -->
+	<!-- If useParentNav = true, then use parentNodeId for traversal -->
+	<!-- Opening  Header -->
+
+
+	<!-- Section Data File links -->
+	<!-- SSingh: removes archive pages from the left navigation -->
+	
+     <!--ssLoadSiteNavResultSet(siteId)-->
+				<h1 class="header_bg"><a href="/ForConsumers/ConsumerUpdates/default.htm">Consumer Updates</a></h1>
+		        	
+			<ul id="tabMenu" class="leftnav_child">
+					<li id="UCM149147" onclick="javascript:location.href=this.getElementsByTagName('a')[0].href" ><a href="/ForConsumers/ConsumerUpdates/ucm149147.htm">Animal & Veterinary&nbsp; </a></li>
+					<li id="UCM047364" onclick="javascript:location.href=this.getElementsByTagName('a')[0].href" ><a href="/ForConsumers/ConsumerUpdates/ucm047364.htm">Children's Health </a></li>
+					<li id="UCM149191" onclick="javascript:location.href=this.getElementsByTagName('a')[0].href" ><a href="/ForConsumers/ConsumerUpdates/ucm149191.htm">Cosmetics&nbsp; </a></li>
+					<li id="UCM153239" onclick="javascript:location.href=this.getElementsByTagName('a')[0].href" ><a href="/ForConsumers/ConsumerUpdates/ucm153239.htm">Dietary Supplements&nbsp; </a></li>
+					<li id="UCM149195" onclick="javascript:location.href=this.getElementsByTagName('a')[0].href" ><a href="/ForConsumers/ConsumerUpdates/ucm149195.htm">Drugs&nbsp; </a></li>
+					<li id="UCM149202" onclick="javascript:location.href=this.getElementsByTagName('a')[0].href" ><a href="/ForConsumers/ConsumerUpdates/ucm149202.htm">Food&nbsp; </a></li>
+					<li id="UCM149209" onclick="javascript:location.href=this.getElementsByTagName('a')[0].href" ><a href="/ForConsumers/ConsumerUpdates/ucm149209.htm">Medical Devices&nbsp; </a></li>
+					<li id="UCM244206" onclick="javascript:location.href=this.getElementsByTagName('a')[0].href" ><a href="/ForConsumers/ConsumerUpdates/ucm244206.htm">Nutrition </a></li>
+					<li id="UCM149210" onclick="javascript:location.href=this.getElementsByTagName('a')[0].href" ><a href="/ForConsumers/ConsumerUpdates/ucm149210.htm">Radiation-Emitting Products&nbsp; </a></li>
+					<li id="UCM237634" onclick="javascript:location.href=this.getElementsByTagName('a')[0].href" ><a href="/ForConsumers/ConsumerUpdates/ucm237634.htm">Tobacco Products </a></li>
+					<li id="UCM149184" onclick="javascript:location.href=this.getElementsByTagName('a')[0].href" ><a href="/ForConsumers/ConsumerUpdates/ucm149184.htm">Vaccines, Blood & Biologics&nbsp; </a></li>
+			</ul>
+	<!-- Subsection links -->
+	
+			<ul id="tabMenu" class="leftnav_child">
+	</ul><!--here 1-->
+
+</div> <!--- center-content -->
+<div class="bottom"><span></span></div>
+</div> <!-- liquid-round -->
+</div>
+
+<!--BEGIN Resources_for_You Box -->
+    
+<!--$if not isTrue(rsExists(folioNavSetName)) or isTrue(ssShowEditButton)$-->
+	
+	
+	
+ 
+<script type="text/javascript">
+var maincontentcss = document.getElementById("middle_js");
+if(maincontentcss)
+{
+	maincontentcss.style.width = "71%";
+}
+</script>
+
+<!--END Resources_for_You Box -->
+<div class="clearfloat"> </div>
+</div>
+<div class="middle-column">
+<a name="main"></a>
+      <h1 class="head1_body">Use Sunscreen Spray? Avoid Open Flame</h1>
+	       
+<div class="section_search" style="margin: 10px 0;">
+ 
+<form method="get" action="http://google2.fda.gov/search">
+<label for="sectionsearch">Search the Consumer Updates Section</label><br>
+<input id="sectionsearch" type="text" name="q" size="40"/>
+<!--<input type="image" name="btnG" value="Search" alt="Search button" src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_Go_button.gif"/>-->
+<input type="image" src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_mast_search_button.png" alt="Go - Search Consumer Updates" id="searchButton"/>
+<input type="hidden" name="filter" value="0"/>
+<input type="hidden" name="proxystylesheet" value="FDAgov"/>
+<input type="hidden" name="output" value="xml_no_dtd"/>
+<input type="hidden" name="sort" value="date%3AD%3AL%3Ad1"/>
+<input type="hidden" name="site" value="FDAgov-Updates-Consumers"/>
+<input type="hidden" name="requiredfields" value="-archive:Yes"/>
+  
+    <input type="hidden" name="client" value="FDAgov"/>  	
+ 
+</form>
+</div>
+<p><img title="Red envelope icon for Govdelivery" alt="Red envelope icon for Govdelivery" border="0" src="/ucm/groups/fdagov-public/documents/image/ucm149301.jpg" /> <a target="_blank" href="http://service.govdelivery.com/service/subscribe.html?code=USFDA_9">Get Consumer Updates by E-mail</a><a name="top"></a></p><table cellpadding="10" width="350" align="right" bgcolor="#ffffff" cellwidth="10" style="border-right: rgb(102,102,102) 1px dotted; border-top: rgb(102,102,102) 1px dotted; margin-left: 15px; border-left: rgb(102,102,102) 1px dotted; border-bottom: rgb(102,102,102) 1px dotted"><tbody><tr><td><p><img title="Sunscreen Spray" alt="Sunscreen Spray" src="/ucm/groups/fdagov-public/documents/image/ucm359460.png" /></p><p>&nbsp;</p><p>FDA has become aware of five separate incidents in which people wearing sunscreen spray near sources of flame suffered significant burns that required medical treatment. You should never apply a product labeled as flammable while you are near a source of flame. <a href="http://www.flickr.com/photos/fdaphotos/9196637400/">Get this high resolution image on Flickr.</a></p></td></tr></tbody></table><p><img title="RSS feed orange symbol" alt="RSS feed orange symbol" border="0" src="/ucm/groups/fdagov-public/documents/image/ucm200694.png" /> <a href="/AboutFDA/ContactFDA/StayInformed/RSSFeeds/Consumers/rss.xml">Consumer Updates RSS Feed</a></p><p><img title="PDF icon" alt="PDF icon" border="0" style="width: 18px; margin-right: 4px; height: 18px" src="/ucm/groups/fdagov-public/documents/image/ucm192743.gif" /><a target="" href="/downloads/ForConsumers/ConsumerUpdates/UCM359494.pdf">Share this article (PDF 201 K)</a></p><p><a target="" href="/ForConsumers/ConsumerUpdates/ucm359942.htm">En Espa&ntilde;ol</a></p><p><strong>On this page:</strong></p><ul><li><a href="#must">Sunscreen a Must</a></li><li><a href="#safety">Safety Precautions</a></li></ul><p>You love a good summer barbecue and wisely use sunscreen if you are out in the sun. What you may not know is that if you apply certain sunscreen sprays and then come close to a source of flame, you may risk the sunscreen catching fire and giving you a serious burn.</p><p>The Food and Drug Administration (FDA) has become aware of five separate incidents in which people wearing sunscreen spray near sources of flame suffered significant burns that required medical treatment. The specific products reported to have been used in these cases were <a href="http://phx.corporate-ir.net/phoenix.zhtml?c=124138&amp;p=irol-newsArticle&amp;ID=1747798&amp;highlight">voluntarily recalled from the market</a>, so should no longer be on store shelves.</p><p>However, many other sunscreen spray products contain flammable ingredients, commonly alcohol. The same is true for certain other spray products, such as hairspray and insect repellants, and even some non-spray sunscreens may contain flammable ingredients. Many flammable products have a label warning against their use near an open flame.</p><p>You should never <u>apply</u> a product labeled as flammable while you are near a source of flame. In the five incidents reported to FDA, however, the burns occurred after the sunscreen spray had been applied. The ignition sources were varied and involved lighting a cigarette, standing too close to a lit citronella candle, approaching a grill, and in one case, doing some welding. These incidents suggest that there is a possibility of catching fire if you are near an open flame or a spark <u>after</u> spraying on a flammable sunscreen&mdash;even if you believe you have waited a sufficient time for the sunscreen to dry and your skin feels dry.</p><p>&quot;Based on this information, we recommend that after you have applied a sunscreen spray labeled as flammable, you consider avoiding being near an open flame, sparks or an ignition source,&quot; says Narayan Nair, M.D., a lead medical officer at FDA.</p><p>No children were involved in the reported burn incidents involving sunscreen sprays. However, keeping children safe near flammable materials is very important because burns have the potential to be more severe in children compared to adults. Parents and caregivers should read the product label and choose a sunscreen that is not flammable if there is a possibility that the child will be near a source of flame.</p><p><a href="#top">back to top</a></p><h3><a name="must"></a>Sunscreen a Must</h3><p>Lydia Velazquez, Pharm.D., an FDA expert on sunscreen and other skin-related products, says people should &quot;absolutely be using a sunscreen product before venturing out in the summer sun.&quot; Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF (Sun Protection Factor) value of 15 or higher and other sun protection measures including: limiting time in the sun, especially from 10 a.m. to 2 p.m., and wearing long-sleeve shirts, pants, hats and sunglasses.</p><p>&quot;It's always important to read the label of a product before you use it and to follow the directions,&quot; Velazquez says. Also consider your location and activities. Just as you should choose a water-resistant sunscreen if you will be swimming or sweating, if you anticipate being near an open flame or another source that may give off sparks, look closely for flammability warnings on your sunscreen product and consider using a non-flammable sunscreen instead.</p><p><a href="#top">back to top</a></p><h3><a name="safety"></a>Safety Precautions</h3><p>To stay safe, do the following:</p><ul><li>When you choose a sunscreen, think about where you'll be using it. If you'll be anywhere near a flame source, avoid any product with a flammability warning and choose another non-flammable sunscreen product instead. This recommendation is particularly important when it comes to choosing a product for children since they are frequently active and may get near a flame source.</li><li>While applying and wearing sunscreen products labeled as flammable, do not smoke, and avoid open flames from lighting cigarettes, lit cigarettes, grilling, candles or sparking materials.</li><li>Do not apply flammable products to yourself or someone else near an open flame.</li></ul><p>This article appears on <a href="http://www.fda.gov/ForConsumer/ConsumerUpdates/defaul.htm">FDA's Consumer Updates page</a>, which features the latest on all FDA-regulated products.</p><p><em>July 3, 2013</em></p><p><a href="#top">back to top</a></p> 
+<!--==== START Dynamic List ====-->
+ 
+<!--==== END Dynamic List ====--> 
+
+ 
+<!--==== BEGIN Mainlist_Folio ====-->
+<!--retrieve the folio based on dDocName-->
+<div>
+</div>
+		 
+  		  
+				 
+    		 
+	 					
+ 				
+		 
+  		  
+				  
+				 
+ 
+												
+ 				
+		 
+  		  
+		
+			
+	<!--only do dynlist tool process if we have both a query and display -->
+ 
+	 					
+ 				
+		 
+  		  
+				 
+    		 
+					  			     
+		
+					<!--Ssingh: logic for display 2nd wysiwyg under photogallery -->
+					<!--loop FolioNodeSet-->
+						  
+									
+
+				
+				<div class='box'><div class='box_top'><div>-</div></div><div class='box_body'><div><h2 class='head3'>For More Information</h2><p></p><ul>
+				
+				
+
+		
+
+		    
+				
+	<li><a href="/Drugs/ResourcesForYou/Consumers/BuyingUsingMedicineSafely/UnderstandingOver-the-CounterMedicines/ucm239463.htm" ><linktitle>Sunscreen</linktitle></a>
+	
+	</li>
+
+				
+
+			
+	
+									
+											
+											</ul><div class='clearfloat'></div></div></div><div class='box_bottom'><div>-</div></div></div>	
+								
+						
+ 				
+		 
+  		  
+				 
+    		 
+					  			     
+		
+					<!--Ssingh: logic for display 2nd wysiwyg under photogallery -->
+					<!--loop FolioNodeSet-->
+						  
+									
+
+				
+				<div class='box'><div class='box_top'><div>-</div></div><div class='box_body'><div><h2 class='head3'>Related Consumer Updates</h2><p></p><ul>
+				
+				
+
+		
+
+		    
+				
+	<li><a href="/ForConsumers/ConsumerUpdates/ucm049090.htm" ><linktitle>Sun Safety: Save Your Skin!</linktitle></a>					<span style="margin-left:4px;">[ARCHIVED]</span>
+
+	
+	</li>
+
+				
+
+			
+	
+									
+					  
+									
+
+				
+				
+				
+				
+
+		
+
+		    
+				
+	<li><a href="/ForConsumers/ConsumerUpdates/ucm258416.htm" ><linktitle>FDA Sheds Light on Sunscreens</linktitle></a>
+	
+	</li>
+
+				
+
+			
+	
+									
+					  
+									
+
+				
+				
+				
+				
+
+		
+
+		    
+				
+	<li><a href="/ForConsumers/ConsumerUpdates/ucm309136.htm" ><linktitle>Should You Put Sunscreen on Infants? Not Usually</linktitle></a>
+	
+	</li>
+
+				
+
+			
+	
+									
+											
+											</ul><div class='clearfloat'></div></div></div><div class='box_bottom'><div>-</div></div></div>	
+								
+						
+ 				
+		 
+  		  
+				 
+    		 
+					  			     
+		
+ 				
+		 
+  		  
+				 
+    		 
+					  			     
+		
+ 				
+		 
+  		  
+				 
+    		 
+					  			     
+		
+ 				
+		 
+  		  
+				 
+    		 
+					  			     
+		
+ 				
+		 
+  		  
+				 
+    		 
+					  			     
+		
+ 				
+		 
+  		  
+				 
+    		 
+					  			     
+		
+ 				
+		 
+  		  
+				 
+    		 
+					  			     
+		
+ 				
+		 
+  		  
+				 
+    		 
+					  			     
+		
+ 				
+		 
+  		  
+				 
+    		 
+	 					
+ 				
+	
+  
+<!--isForRelatedTablesAndLinks=1-->
+
+ 
+ <!--==== END Mainlist_Folio ====-->
+
+	
+  	     
+	
+    
+	
+ 
+ 
+<script type="text/javascript">
+var maincontentcss = document.getElementById("middle_js");
+if(maincontentcss)
+{
+	maincontentcss.style.width = "71%";
+}
+</script>
+ 
+<div class="clearfloat"> </div>
+</div>
+
+<div class="clearfloat"> </div>
+
+  <div class="clearfloat"> </div>
+  </div>
+	  
+  <!--==== BEGIN CTP Disclaimer ==== -->
+<!--mp_trans_add
+<blockquote>
+<hr>
+<p>This website has been translated to Spanish from English, and is updated often. It is possible that some links will connect you to content only 
+available in English or some of the words on the page will appear in English until translation has been completed (usually within 24 hours). We 
+appreciate your patience with the translation process. In the case of any discrepancy in meaning, the English version is considered official. Thank 
+you for visiting <a href="http://esp.fda.gov/TobaccoProducts/default.htm">esp.fda.gov/tabaco.</a></p>
+</blockquote>
+-->
+<!--==== END CTP Disclaimer ==== -->
+<script type="text/javascript">
+	setStyle();
+</script>
+
+		<!--==== BEGIN FOOTER ==== -->
+			<!--googleoff: index-->
+			<div id="footer">
+							
+				<!-- ==== BEGIN Page Tools Bottom ==== -->
+				<div id="pagetools_bottom">
+				<div id="pagetools_right">
+				<p>
+				
+
+<!-- <ul> -->
+
+
+		
+		
+	<!-- The below statement will never be true, xPostedDate is used for the PageLastUpdated Date when a CI has a Folio -->
+			
+			
+			
+			
+			
+	
+	<!-- <li>Page Last Updated: 08/20/2013</li> -->
+	Page Last Updated: 08/20/2013
+<!-- </ul> -->
+
+
+<br/>
+				Note: If you need help accessing information in different file formats, see <a href="/AboutFDA/AboutThisWebsite/WebsitePolicies/ViewingFiles/default.htm">Instructions for Downloading Viewers and Players</a>.
+				</p>
+				</div>
+				<br class="clearfloat" />
+				</div>
+				<!-- ## ADDED footer-heading ## -->
+				<div id="footer-heading">
+					<div id="footer-fdalinks">
+						<ul class="list-horizontal">
+							<li class="first"><a href="/AboutFDA/AboutThisWebsite/Accessibility/default.htm" title="Accessibility">Accessibility</a></li>
+							<li><a href="/AboutFDA/ContactFDA/default.htm" title="Contact FDA">Contact FDA</a></li>
+							<li><a href="/AboutFDA/WorkingatFDA/default.htm" title="Careers">Careers</a></li>
+							<li><a href="/AboutFDA/Transparency/Basics/default.htm" title="FDA Basics">FDA Basics</a></li>
+							<li><a href="/RegulatoryInformation/FOI/default.htm" title="Freedom of Information Act">FOIA</a></li>
+							<li><a href="/AboutFDA/WorkingatFDA/NoFearAct/default.htm" title="No Fear Act">No Fear Act</a></li>
+							<li><a href="/SiteMap/default.htm" title="Site Map">Site Map</a></li>
+							<li><a href="/AboutFDA/Transparency/default.htm" title="Transparency">Transparency</a></li>
+							<li class="last"><a href="/AboutFDA/AboutThisWebsite/WebsitePolicies/default.htm" title="Website Policies">Website Policies</a></li>
+						</ul>
+					</div>
+					<div id="footer-fdalogo">
+						<a href="http://www.fda.gov" title="FDA Homepage"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_footer_logo_fda.png" alt="FDA" title="FDA Homepage"/></a>
+					</div>
+				</div>
+				<!-- ## END footer-heading ## -->
+				<!-- ## ADDED footer-content ## -->
+				<div id="footer-content" class="three-column">
+					<div id="footer-fda" class="first">
+						<div class="footer-header">U.S. Food and Drug Administration</div>
+						<div class="address">
+							10903 New Hampshire Avenue <br/>
+							Silver Spring, MD 20993 <br/>
+							Ph. 1-888-INFO-FDA (1-888-463-6332)<br/>
+							<a href="/AboutFDA/ContactFDA/default.htm" title="Email FDA">Email FDA</a>
+						</div>
+						<div id="social-links" class="hover-fade">
+							<ul class="list-horizontal">
+								<li><a href="http://www.usa.gov" title="USA.gov"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_footer_logo_usagov.png" alt="USA.gov" title="USA.gov"/></a></li>
+								<li><a href="/AboutFDA/ContactFDA/StayInformed/GetEmailUpdates/default.htm" title="Subscribe to E-mails"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_footer_icon_email.png" alt="E-mail" title="Subscribe to E-mails"/></a></li>
+								<li><a href="/AboutFDA/ContactFDA/StayInformed/RSSFeeds/default.htm" title="Subscribe to RSS Feeds"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_footer_icon_rss.png" alt="RSS" title="Subscribe to RSS Feeds"/></a></li>
+								<li><a href="https://twitter.com/US_FDA" title="Follow FDA on Twitter"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_footer_icon_twitter.png" alt="Twitter" title="Follow FDA on Twitter"/></a></li>
+								<li><a href="https://www.facebook.com/FDA" title="Follow FDA on Facebook"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_ftr_icon_facebook.png" alt="Facebook" title="Follow FDA on Facebook" /></a></li>
+								<li><a href="http://www.youtube.com/user/USFoodandDrugAdmin" title="View FDA Videos"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_footer_icon_youtube.png" alt="YouTube" title="View FDA Videos"/></a></li>
+								<li><a href="http://www.flickr.com/photos/fdaphotos/" title="View FDA Photostream on Flickr"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_footer_icon_flickr.png" alt="Flickr" title="View FDA Photostream on Flickr"></a></li>
+							</ul>
+						</div>
+						<div id="footer-audience">
+							<ul class="list-horizontal">
+								<li class="first"><a href="/ForFederalStateandLocalOfficials/default.htm" title="For Government">For Government</a></li>
+								<li class="last"><a href="/NewsEvents/default.htm" title="For Press">For Press</a></li>
+							</ul>
+						</div>
+					</div>
+	
+				<div id="footer-links" class="second">
+						<div>
+
+							  <ul class="list-no-bullets">
+								<li><a href="/CombinationProducts/default.htm" title="Combination Products">Combination Products</a></li>
+								<li><a href="/AdvisoryCommittees/default.htm" title="Advisory Committees">Advisory Committees</a></li>
+								<li><a href="/ScienceResearch/default.htm" title="Science &amp; Research">Science & Research</a></li>
+								<li><a href="/RegulatoryInformation/default.htm" title="Regulatory Information">Regulatory Information</a></li>
+								<li><a href="/Safety/default.htm" title="Safety">Safety</a></li>
+								<li><a href="/EmergencyPreparedness/default.htm" title="Emergency Preparedness">Emergency Preparedness</a></li>
+								<li><a href="/InternationalPrograms/default.htm" title="International Programs">International Programs</a></li>
+								<li><a href="/NewsEvents/default.htm" title="News &amp; Events">News & Events</a></li>
+								<li><a href="/Training/default.htm" title="Training and Continuing Education">Training and Continuing Education</a></li>
+								<li><a href="/ICECI/default.htm" title="Inspections/Compliance">Inspections/Compliance</a></li>
+								<li><a href="/ForFederalStateandLocalOfficials/default.htm" title="State &amp; Local Officials">State & Local Officials</a></li>
+								<li><a href="/ForConsumers/default.htm" title="Consumers">Consumers</a></li>
+								<li><a href="/ForIndustry/default.htm" title="Industry">Industry</a></li>
+								<li><a href="/ForHealthProfessionals/default.htm" title="Health Professionals">Health Professionals</a></li>
+								<li><a href="http://www.accessdata.fda.gov/scripts/search/index.cfm?action=archive.search">FDA Archive</a></li>
+								</ul>
+
+						</div>
+					</div>
+					
+					<div id="footer-hhs" class="third">
+						<div class="footer-header"><a href="http://www.hhs.gov" title="U.S. Department of Health &amp; Human Services"><img src="/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_footer_hhslogo.png" alt="U.S. Department of Health &amp; Human Services" title="U.S. Department of Health &amp; Human Services"/></a></div>
+
+					</div>
+					<div class="clearfloat">&nbsp;</div>
+				</div>
+				<!-- ## END footer-content ## -->
+				<!-- ==== BEGIN Footnote(s) ==== -->
+				<div id="footnote"><h2>Links on this page:</h2><div></div></div>
+				<!-- ==== END Footnote(s) ==== -->
+				<!-- ==== BEGIN Page Tools Bottom ==== -->
+				<!-- ## REMOVED pagetools_bottom ## -->
+				<!-- ==== END Page Tools Bottom ==== -->
+				<!-- ## REMOVED footer-menu ## -->
+			<!--googleon: index-->
+			</div>
+			<!-- ==== END PAGE FOOTER ==== -->
+<div class="clearfloat">
+      
+    </div>
+  </div>
+  <div id="bottom_corner" class="box_bottom"></div> 
+   <div class="clearfloat">
+    
+  </div>
+
+<script type="text/javascript">
+	var cid_id, cid_item, cid_class, content_page = 0;
+	var breakout = false;
+	var cid = window.location.href.split("/");
+	var cid_filename = cid[cid.length - 1];
+	if(cid_filename.toLowerCase() == "default.htm" || cid_filename.toLowerCase() == "index.htm" )
+	{
+		cid_id = document.getElementById("left_nav_3483");
+		if(cid_id != null)
+		{
+			if(cid_id.className == "sidemenu_parent")
+			{
+			  breakout = true;			 
+			}
+		} 
+	}
+	else
+	{
+		cid_item = cid_filename.split(".");
+		cid_id = document.getElementById(cid_item[0].toUpperCase());
+		content_page = 1;	
+	}
+	if(breakout == false)
+	{
+		if (cid_id && content_page == 1) {
+			var cid_img_text="<div id=\"doc-select-arrow\" > <img src=\"/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_arrow.gif\" alt=\"Current Page is:\" />";
+			var cid_id_innertext = cid_id.innerHTML; 
+			cid_img_text += cid_id_innertext;
+			cid_id.innerHTML = cid_img_text+"<div class=\"clearfloat\"></div></div>";		
+		}
+		else if(cid_id)
+		{
+		    var cid_img_text="<div id=\"doc-select-arrow-two\" ><img src=\"/ucm/groups/fdagov-public/@system/documents/system/img_fdagov_arrow.gif\" alt=\"Current Page is:\" />";
+			var cid_id_innertext = cid_id.innerHTML;
+			
+			if((cid_id_innertext.toLowerCase()).indexOf("<ul>") >= 0)
+			{
+			  var indexer = (cid_id_innertext.toLowerCase()).indexOf("<ul>");
+			  var beg = cid_id_innertext.substring(0, indexer);
+			  var end = cid_id_innertext.substring(indexer);
+			  cid_id.innerHTML = cid_img_text + beg + "<div class=\"clearfloat\"></div></div>" + end;	
+			}
+			else
+			{
+				cid_img_text += cid_id_innertext;
+				cid_id.innerHTML = cid_img_text+"<div class=\"clearfloat\"></div></div>";
+			}
+		}
+	}
+</script>
+ 
+  <!--==== END nsharma: Combining PP_FDAGOV for all secondary pages under FDA Track and Consumer Updates==== --> 
+  
+</body>
+</html>

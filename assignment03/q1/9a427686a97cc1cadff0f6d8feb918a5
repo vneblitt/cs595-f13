@@ -1,0 +1,519 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> <!-- Content Copyright Environmental Protection Agency -->
+<!-- Page generated 2013-09-30 09:17:29 by CommonSpot Build 7.0.0.202 (2012-04-03 15:04:22) -->
+<!-- JavaScript & DHTML Code Copyright &copy; 1998-2012 PaperThin, Inc.  All rights reserved --> <head> <title>Emergency Disinfection of Drinking Water | Emergency Preparedness | US EPA</title> <meta name="DC.title" content="Emergency Disinfection of Drinking Water" />
+<meta name="DC.description" content="Emergency Disinfection of Drinking Water" />
+
+<meta name="DC.date.created" content="2010-04-06" />
+<meta name="DC.date.modified" content="2013-09-10" />
+<meta name="DC.date.reviewed" content="" />
+<meta name="DC.language" content="en" />
+<meta name="DC.creator" content="US EPA, OW, " />
+
+
+<link rel="stylesheet" href="/style/default.css" type="text/css" />
+<link rel="stylesheet" href="http://www.epa.gov/epafiles/templates/webcms/css/epa.css" type="text/css" />
+<link rel="stylesheet" href="/style/extra.css" type="text/css" />
+<style type="text/css">
+	.mw { color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none; }
+	a.mw:link	{color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none;}
+	a.mw:visited	{color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none;}
+	a.mw:hover	{color:#0000FF;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none;}
+</style> <script type="text/javascript">
+<!--
+	var gMenuControlID = 0;
+	var menus_included = 0;
+	var jsDlgLoader = '/drink/emerprep/loader.cfm';
+	var jsSiteID = 1;
+	var jsSubSiteID = 993;
+	var js_gvPageID = 436186;
+	var jsPageID = 436186;
+	var jsPageSetID = 0;
+	var jsPageType = 0;
+	var jsControlsWithRenderHandlers = ",36,36,207689,123540,181293,126238,30750,30750,30750,30750,30750,30750,30750,30806,36,199032,41896,524818,524941,29,537173,491604,525049,501304,505941,525195,520363,524263,554062,496103,496510,498268,516839,554608,491542,496735,498576,511123,504353,535106,";
+	var jsDefaultRenderHandlerProps = ",207689_1,123540_1,181293_1,199032_1,41896_1,524818_1,524941_1,29_1,29_2,537173_1,491604_1,525049_1,505941_1,525195_1,554062_1,496103_1,496510_1,498268_1,516839_1,554608_1,491542_1,496735_1,498576_1,511123_1,504353_1,535106_1,";
+	var jsAuthorizedControls = ",66643,66647,66654,66721,126238,125819,179706,205540,207689,352576,347053,41896,199032,344006,348832,3874,4077,30734,30742,30750,30806,123540,181293,260844,260910,342254,358194,405065,3954,1,2,3,4,6,7,8,9,468743,491604,520363,491542,494083,495903,496103,496503,496510,496735,498268,498576,501304,502563,504353,505941,511123,515769,516839,519503,524263,524818,525049,525195,535106,536186,536198,536200,537173,545816,547079,544844,529192,524941,554062,554608,10,11,16,18,20,21,22,23,25,26,27,28,29,30,31,34,36,37,38,39,40,41,42,43,45,46,47,50,51,52,53,54,609946,609951,609954,";
+	var jsCustomRenderHandlerPairs = "";
+	var jsStandardRenderHandlers = "";
+	var jsSiteSecurityCreateControls = 0;
+	var jsShowRejectForApprover = 0;
+
+// -->
+</script><script type="text/javascript" src="/commonspot/javascript/browser-all.js"></script> 
+
+    <!--[if IE 7]><link rel="stylesheet" href="http://www.epa.gov/epafiles/templates/webcms/css/ie7.css"/><![endif]-->
+    <!--[if lt IE 6]><link rel="stylesheet" href="http://www.epa.gov/epafiles/templates/webcms/css/ie6.css"/><![endif]-->
+
+    <link href="/style/ow.css" rel="stylesheet" type="text/css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ow-ie6.css"/><![endif]-->
+
+
+    <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+    <link rel="meta" href="http://www.epa.gov/labels.rdf" type="application/rdf+xml" title="ICRA labels" />
+    <script type="text/javascript" src="http://www.epa.gov/epafiles/js/third-party/jquery.js"></script>
+
+    
+<script src="/scripts/GAtrackevents.js" type="text/javascript"></script>
+<script src="/scripts/GA_event_tracking.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23412152-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css" id="cs_maincss" /> </head><body lang="en" class="basic"><a name="__topdoc__"></a><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script><script src="/commonspot/pagemode/always-include-ns.js" type="text/javascript"></script>
+
+<p id="sitewidec"></p>
+<p class="skip">Jump to <a href="#main" title="Jump to main content">main content</a> or <a href="#areanav" title="Jump to area navigation.">area navigation</a>.</p>
+<div id="header">
+	<p><a href="http://www.epa.gov/" title="US EPA Home Page"><img src="http://www.epa.gov/epafiles/templates/webcms/css/i/print-epa-logo.gif" alt="US Environmental Protection Agency logo" /></a></p>
+	
+  <form id="EPAsearch" method="get" action="http://nlquery.epa.gov/epasearch/epasearch">
+    <fieldset>
+      <ol>
+        <li id="azindex"><a href="http://www.epa.gov/epahome/quickfinder.htm" title="Alphabetical list of top EPA topics">A-Z Index</a></li>
+        <li><a href="http://www.epa.gov/search.html">Advanced Search</a></li>
+        <li>
+
+          <fieldset id="search">
+            <legend>What are you looking for?</legend>
+            <input name="querytext" id="searchbox" value=""/>
+            <button id="searchbutton" type="submit" title="Search"></button>
+          </fieldset>
+        </li>
+      </ol>
+      <input type="hidden" name="fld" value="" />
+
+      <input type="hidden" name="areaname" value="" />
+      <input type="hidden" name="areacontacts" value="" />
+      <input type="hidden" name="areasearchurl" value="" />
+      <input type="hidden" name="typeofsearch" value="epa" />
+      <input type="hidden" name="result_template" value="epafiles_default.xsl" />
+      <input type="hidden" name="filter" value="sample4filt.hts" />
+    </fieldset>
+  </form><!-- /search -->
+
+  <ul>
+    <li id="learn"><a href="http://www.epa.gov/gateway/learn/" title="Learn the Issues">Learn the Issues</a></li>
+    <li id="scitech"><a href="http://www.epa.gov/gateway/science/" title="Science and Technology">Science &amp; Technology</a></li>
+    <li id="laws"><a href="http://www.epa.gov/lawsregs/" title="Laws and Regulations">Laws &amp; Regulations</a></li>
+    <li id="about"><a href="http://www.epa.gov/aboutepa/" title="About EPA">About EPA</a></li>
+  </ul><!-- /IA Buckets -->
+
+</div> 
+
+<div id="content">
+	
+<div id="area">
+
+<p><a href="/contactus.cfm?fromurl=water%2Eepa%2Egov%2Fdrink%2Femerprep%2Femergencydisinfection%2Ecfm">Contact Us</a></p> 
+
+<p>	
+	Water: Emergency Preparedness
+</p>
+
+
+</div> <!-- /area -->
+
+
+	<div id="page">
+		<div id="main">
+<div id="cs_control_1518" class="cs_control CS_Element_LinkBar"><span class="CS_LinkBar_BeforeLabel">You are here: </span><a href="/" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/');return true;">Water</a><img src="/images/breadcrumbarrow_1.gif" border="0" class="CS_LinkBar_Image" align="bottom" title="" alt="" width="11" height="10" /><a href="/drink/" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/drink/');return true;">Drinking Water</a><img src="/images/breadcrumbarrow_1.gif" border="0" class="CS_LinkBar_Image" align="bottom" title="" alt="" width="11" height="10" /><a href="/drink/emerprep/" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/drink/emerprep/');return true;">Emergency Preparedness</a><img src="/images/breadcrumbarrow_1.gif" border="0" class="CS_LinkBar_Image" align="bottom" title="" alt="" width="11" height="10" /><span class="CS_LinkBar_CurrentItem">Emergency Disinfection of Drinking Water</span></div> 
+	<h1>Emergency Disinfection of Drinking Water</h1>
+<div id="cs_control_2103" class=""><div  class="CS_Element_Schedule"  title="" id="CS_Element_basicTemplateContainer" >
+<a name="textblocknohdr33915" id="textblocknohdr33915"></a><a name="CP_JUMP_33915" id="CP_JUMP_33915"></a><div id="cs_control_33915" class="cs_control CS_Element_Textblock"><div class="CS_Textblock_Text"><h2 style="text-align: center; color: red; font-variant:small-caps; font-weight:bolder;">Use only water that has been properly disinfected for drinking, cooking, making any prepared drink, or for brushing teeth.</h2>
+<div class="boxnat" style="width:350px;">
+<h5>Downloads &amp; Translations</h5>
+<p style="text-align:center; margin:10px;">You will need Adobe Reader to view some of the files on this page. See <a href="http://www.epa.gov/epahome/pdf.html">EPA's PDF page</a> to learn more.</p>
+<hr>
+<p style="text-align:center; margin:10px"><a style="" class="CP___PAGEID_37023" href="/aboutow/ogwdw/upload/2006_09_14_faq_fs_emergency-disinfection-drinkingwater-2006.pdf"><strong>Download<br>Emergency Disinfection of Drinking Water (PDF)</strong></a> <br>(4 pp, 317 K)</p>
+<hr>
+<div style="margin:18px;">
+<h3 style="margin-left:10px;">Translations</h3>
+<h4 style="margin-left:12px; margin-top:15px;">En Español</h4>
+<ul style="margin-top:-12px; margin-bottom:10px:">
+<li style="margin-left:20px;"><a style="" class="CP___PAGEID_33946" href="/aboutow/ogwdw/emerg_spanish.cfm">Desinfección de Emergencia del Agua Potable</a>
+<ul>
+<li><a style="" class="CP___PAGEID_37016" href="/aboutow/ogwdw/upload/2006_09_14_faq_fs_emergency-disinfection-drinkingwater-2006_spanish.pdf">Descargar como archivo PDF</a> <br>(4 pp, 320 K)</li></ul>
+</li>
+</ul>
+<h4 style="margin-left:10px; margin-top:10px;">En Français</h4>
+<ul style="margin-top:-12px; margin-bottom:10px:">
+<li style="margin-left:20px;"><a style="" class="CP___PAGEID_33960" href="/aboutow/ogwdw/emerg_french.cfm">Désinfection de Secours de L'eau Potable</a>
+<ul>
+<li><a style="" class="CP___PAGEID_37002" href="/aboutow/ogwdw/upload/2007_08_09_faq_fs_emergency-disinfection-drinkingwater-2006_french.pdf">Télécharger au format PDF</a><br>(4 pp, 330 K)</li>
+</ul>
+</li>
+</ul>
+<h4 style="margin-left:10px; margin-top:10px;">Arabic</h4>
+<ul style="margin-top:-12px; margin-bottom:10px:">
+<li style="margin-left:20px;"><a style="" class="CP___PAGEID_37030" href="/aboutow/ogwdw/upload/2006_09_14_faq_fs_emergency-disinfection-drinkingwater-2006_arabic.pdf"><span style="font-size:18px;">تحميل الملف بصيغة </span>PDF</a> <br>(4 pp, 391 K)</li>
+</ul>
+<h4 style="margin-left:10px; margin-top:8px;">Vietnamese</h4>
+<ul style="margin-top:-12px; margin-bottom:10px:">
+<li style="margin-left:20px;"><a style="" class="CP___PAGEID_37009" href="/aboutow/ogwdw/upload/2007_08_09_faq_fs_emergency-disinfection-drinkingwater-2006_vietnamese.pdf">Tâi Như File PDF</a> <br>(2 pp, 419 K)</li>
+</ul>
+</div>
+</div>
+<ol style="padding:2px;">
+<li style="margin-right:3px;">Use bottled water that has not been exposed to flood waters if it is available.</li>
+<li style="margin-top:12px; margin-right:3px;">If you don't have bottled water, you should boil water to make it safe. Boiling water will kill most types of disease-causing organisms that may be present. If the water is cloudy, filter it through clean cloths or allow it to settle, and draw off the clear water for boiling. Boil the water for one minute, let it cool, and store it in clean containers with covers.</li>
+<li style="margin-top:12px; margin-right:3px;">If you can't boil water, you can disinfect it using household bleach. Bleach will kill some, but not all, types of disease-causing organisms that may be in the water. If the water is cloudy, filter it through clean cloths or allow it to settle, and draw off the clear water for disinfection. Add 1⁄8 teaspoon (or 8 drops) of regular, unscented, liquid household bleach for each gallon of water, stir it well and let it stand for 30 minutes before you use it. Store disinfected water in clean containers with covers.</li>
+<li style="margin-top:12px; margin-right:3px;">If you have a well that has been flooded, the water should be tested and disinfected after flood waters recede. If you suspect that your well may be contaminated, contact your local or state health department or agriculture extension agent for specific advice.</li>
+</ol>
+<p style="margin:4px; margin-top:5px; padding:5px; font-style:italic; font-weight:bold; padding-bottom:4px;">U.S. federal agencies and the Red Cross recommend these same four steps to disinfect drinking water in an emergency. Please, read each tab below for important details about disinfection, how to choose a disinfection method, and 7 Steps to Emergency Drinking Water Disinfection.</p></div></div> <div id="cs_control_651433" class="cs_control CS_Element_Custom">
+
+<link href="/style/tabs.css"  REL=StyleSheet  TYPE="text/css">
+<div>
+
+
+		<ul class="tab">
+			
+			<li><a href="#tabs-1">More Information</a></li>
+				
+			<li><a href="#tabs-2">Choose A Disinfection Method</a></li>
+				
+			<li><a href="#tabs-3">7 Steps to Emergency Drinking WaterDisinfection</a></li>
+			
+		</ul>
+	
+		<!-- tab "panes" -->
+		<div class="pane">
+			
+			<div id="tabs-1">
+			<p><p><strong>In times of crisis, follow advice from local officials</strong>. Local health departments or public water systems may urge consumers to use more caution or to follow additional measures than the information provided here.</p>
+
+<p><strong>Look for other sources of potable water in and around your home.</strong><br>
+When your home water supply is interrupted by natural or other forms of disaster, you can obtain limited amounts of water by draining your hot water tank or melting ice cubes. In most cases, well water is the preferred source of drinking water. If it is not available and river or lake water must be used, avoid sources containing floating material and water with a dark color or an odor. Generally, flowing water is better quality than stagnant water.</p>
+
+<p><strong>Examine the physical condition of the water.</strong><br>
+When emergency disinfection is necessary, disinfectants are less effective in cloudy, murky or colored water. Filter murky or colored water through clean cloths or allow it to settle. It is better to both settle <strong><em>and</em></strong> filter. After filtering until it is clear, or allowing all dirt and other particles to settle, draw off the clean and clear water for disinfection. Water prepared for disinfection should be stored only in clean, tightly covered, containers, not subject to corrosion.</p></p>
+			</div>
+			
+			<div id="tabs-2">
+			<p><h2 id="method"><strong>Choose a disinfection method.</strong></h2>
+
+<p>Boiling and chemical treatment are two general methods used to effectively disinfect small quantities of filtered and settled water.</p>
+
+<h3>Boiling</h3>
+
+<p><strong>Boiling is the surest method to make water safe to drink and kill disease-causing microorganisms like <em>Giardia lamblia</em> and <em>Cryptosporidium</em>, which are frequently found in rivers and lakes.</strong><br>
+These disease-causing organisms are less likely to occur in well water (as long as it has not been affected by flood waters). If not treated properly and neutralized, <em>Giardia</em> may cause diarrhea, fatigue, and cramps after ingestion. <em>Cryptosporidium</em> is highly resistant to disinfection. It may cause diarrhea, nausea and/or stomach cramps. People with severely weakened immune systems are likely to have more severe and more persistent symptoms than healthy individuals. Boil filtered and settled water vigorously for one minute (at altitudes above one mile, boil for three minutes). To improve the flat taste of boiled water, aerate it by pouring it back and forth from one container to another and allow it to stand for a few hours, or add a pinch of salt for each quart or liter of water boiled.</p>
+
+<p class="center" style="color: red; font-weight:bold; font-variant:italic;">If boiling is not possible, chemical disinfection of filtered and settled water collected from a well, spring, river, or other surface water body will still provide some health benefits and is better than no treatment at all.</p>
+
+<h3>Chemical Treatment</h3>
+
+<p><strong>When boiling is not practical,</strong> <strong>certain chemicals will kill most harmful or disease-causing organisms.</strong><br>
+For chemical disinfection to be effective, the water must be filtered and settled first. Chlorine and iodine are the two chemicals commonly used to treat water. They are somewhat effective in protecting against exposure to <em>Giardia,</em> but may not be effective in controlling more resistant organisms like <em>Cryptosporidium</em>. Chlorine is generally more effective than iodine in controlling <em>Giardia</em>, and both disinfectants work much better in warm water.</p>
+
+<p><strong>You can use a non-scented, household chlorine bleach that contains a chlorine compound to disinfect water.</strong><br>
+Do not use non-chlorine bleach to disinfect water. Typically, household chlorine bleaches will be 5.25% available chlorine. Follow the procedure written on the label. When the necessary procedure is not given, find the percentage of available chlorine on the label and use the information in the following table as a guide. (Remember, 1⁄8 teaspoon and 8 drops are about the same quantity.)</p>
+
+If the strength of the bleach is unknown, add ten drops per quart or liter of filtered and settled water. Double the amount of chlorine for cloudy, murky or colored water or water that is extremely cold.
+
+<table style="" summary="Table showing the percentage of available chlorine for the number of drops per the quqrt or gallon of clear water as well as drops of chlorine per liter of clear water" class="table zebra" width="98%">
+<caption style="text-align:center;">
+Chlorine Disinfection
+</caption>
+<thead>
+<tr>
+<th>Available Chlorine</th>
+<th>Drops per Quart/Gallon of Clear Water</th>
+<th>Drops per Liter of Clear Water</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="">1%</td>
+<td style="">10 drops per Quart - 40 per Gallon</td>
+<td style="">10 per Liter</td>
+</tr>
+<tr>
+<td style="">4-6%</td>
+<td style="">2 drops per Quart - 8 per Gallon (1⁄8 teaspoon)</td>
+<td style="">2 per Liter</td>
+</tr>
+<tr>
+<td style="">7-10%</td>
+<td style="">1 drop per Quart - 4 per Gallon</td>
+<td style="">1 per Liter</td>
+</tr>
+</tbody>
+<caption style="font-weight:bold; padding:15px; margin-top:10px; boder-bottom:thin, solid, black;">
+If the strength of the bleach is unknown, add ten drops per quart or liter of filtered and settled water. Double the amount of chlorine for cloudy, murky or colored water or water that is extremely cold.
+</caption>
+</table>
+
+<p>Mix the treated water thoroughly and allow it to stand, preferably covered, for 30 minutes. The water should have a slight chlorine odor. If not, repeat the dosage and allow the water to stand for an additional 15 minutes. If the treated water has too strong a chlorine taste, allow the water to stand exposed to the air for a few hours or pour it from one clean container to another several times.</p>
+
+<p><strong>You can use granular calcium hypochlorite to disinfect water.<br>
+</strong>Add and dissolve one heaping teaspoon of high-test granular calcium hypochlorite (approximately ¼ ounce) for each two gallons of water, or 5 milliliters (approximately 7 grams) per 7.5 liters of water. </p>
+<p>The mixture will produce a stock chlorine solution of approximately 500 milligrams per liter, since the calcium hypochlorite has available chlorine equal to 70 percent of its weight. </p>
+<p>To disinfect water, add the chlorine solution in the ratio of one part of chlorine solution to each 100 parts of water to be treated. This is roughly equal to adding 1 pint (16 ounces) of stock chlorine to each 12.5 gallons of water or (approximately ½ liter to 50 liters of water) to be disinfected. </p>
+<p>To remove any objectionable chlorine odor, aerate the disinfected water by pouring it back and forth from one clean container to another.</p>
+
+<p><strong>You can use chlorine tablets to disinfect filtered and settled water.</strong><br>
+Chlorine tablets containing the necessary dosage for drinking water disinfection can be purchased in a commercially prepared form. These tablets are available from drug and sporting goods stores and should be used as stated in the instructions. </p>
+<p>When instructions are not available, use one tablet for each quart or liter of water to be purified.</p>
+
+<p><strong>You can use tincture of iodine to disinfect filtered and settled water.</strong><br>
+Common household iodine from the medicine chest or first aid kit may be used to disinfect water. Add five drops of 2% U.S. or your country’s approved Pharmacopeia tincture of iodine to each quart or liter of clear water. </p>
+<p>For cloudy water add ten drops and let the solution stand for at least 30 minutes.</p>
+
+<p><strong>You can use iodine tablets to disinfect filtered and settled water.</strong><br>
+Purchase commercially prepared iodine tablets containing the necessary dosage for drinking water disinfection at drug and sporting goods stores. Use as stated in instructions. </p>
+<p>When instructions are not available, use one tablet for each quart or liter of filtered and settled water to be purified.</p>
+
+<div style="padding:30px; margin:10px; display:block; visibility:visible; width:80%; height:70px;
+border:thick; border-style:solid; border-color:red; background-color:yellow;"><p style="text-align: center; color:red; font-weight:bold; word-spacing:5px; font-variant:small-caps; font-size:16px;">Only use water that has been properly disinfected for drinking, cooking, making any prepared drink, or for brushing teeth.</p></div></p>
+			</div>
+			
+			<div id="tabs-3">
+			<p><h2>7 Steps to Emergency Drinking Water Disinfection</h2>
+
+<div class="center" style="padding:5px; margin:2px; display:block; visibility:visible; width:60%; height:60px;
+border:thick; border-style:solid; border-color:red; background-color:yellow;"><p style="text-align: center; color: red; font-variant:small-caps; font-weight:bold;">Only use water that has been properly disinfected for drinking, cooking, making any prepared drink, or for brushing teeth.</p></div>
+
+<table style="" class="table zebra" title="Summary and illustration of key points to disinfect drinking water" summary="Seven steps in emergency drinking water disinfection." align="center" border="0" cellpadding="5" cellspacing="0" width="98%">
+<caption style="text-align:center;">
+7 Steps to Emergency Disinfection of Drinking Water
+</caption>
+<thead>
+<tr>
+<th width="90%">Instructions on disinfecting drinking water.<br></th>
+<th width="8%">Illustrations<br></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style=""><strong>Step 1: </strong><p>Filter murky or colored water through clean cloths or allow it to settle. It is better to both settle</p><em>and</em> filter.</td>
+<td style="" align="center"><img src="/aboutow/ogwdw/images/emerg_image2_1.jpg" id="||CPIMAGE:90241|" alt="Image of Image of filtering murky or colored water through clean cloths or allow it to settle. It is better to both settle and filter." title="7 Steps to Emergency Disinfection, Image 01" border="0" height="97" hspace="0" vspace="0" width="97"></td>
+</tr>
+
+<tr>
+<td style=""><strong>Step 2: </strong><br>Boiling is the surest method to make water safe to drink and kill disease-causing microorganisms like <em>Giardia lamblia</em> and <em>Cryptosporidium</em>, which are frequently found in rivers and lakes.</td>
+<td style="" align="center"><img src="/aboutow/ogwdw/images/emerg_image1_1.jpg" id="||CPIMAGE:90242|" alt="Image of boiling water in a pot." title="7 Steps to Emergency Disinfection, Image 02" border="0" height="97" hspace="0" vspace="0" width="97"></td>
+</tr>
+
+<tr>
+<td style=""><strong>Step 3: </strong>To improve the flat taste of boiled water, aerate it by pouring it back and forth from one container to another and allow it to stand for a few hours, or add a pinch of salt for each quart or liter of water boiled.</td>
+<td style="" align="center"><img src="/aboutow/ogwdw/images/emerg_image3.jpg" id="||CPIMAGE:90012|" alt="Image showing aeration of water." title="7 Steps to Emergency Disinfection, Image 03" border="0" height="97" hspace="0" vspace="0" width="97"></td>
+</tr>
+
+<tr>
+<td style=""><strong>Step 4: <br></strong>When boiling is not practical, certain chemicals will kill most harmful or disease-causing organisms. Chlorine (in the form of unscented bleach) and iodine are the two chemicals commonly used to treat water.</td>
+<td style="" align="center"><img src="/aboutow/ogwdw/images/emerg_image4.jpg" id="||CPIMAGE:90013|" alt="Image of unscented bleach and iodine." title="Image of unscented bleach and iodine." border="0" height="97" hspace="0" vspace="0" width="97"></td>
+</tr>
+
+<tr>
+<td style=""><strong>Step 5: <br></strong>You can use a non-scented, household chlorine bleach that contains a chlorine compound to disinfect water. (Remember, 1/8 teaspoon and 8 drops are about the same quantity.)</td>
+<td style="" align="center"><img src="/aboutow/ogwdw/images/emerg_image5.jpg" id="||CPIMAGE:90014|" alt="Image of non-scented, household chlorine bleach." title="7 Steps to Emergency Disinfection, Image 05" border="0" height="97" hspace="0" vspace="0" width="97"></td>
+</tr>
+
+<tr>
+<td style=""><strong>Step 6: </strong><br>You can use tincture of iodine to disinfect filtered and settled water. Common household iodine from the medicine chest or first aid kit may be used to disinfect water.</td>
+<td style="" align="center"><img src="/aboutow/ogwdw/images/emerg_image6.jpg" id="||CPIMAGE:90015|" alt="Image of tincture of iodine." title="7 Steps to Emergency Disinfection, Image 06" border="0" height="97" hspace="0" vspace="0" width="97"></td>
+</tr>
+
+<tr>
+<td style=""><strong>Step 7: </strong><br>Tincture of iodine. For cloudy water add ten drops and let the solution stand for at least 30 minutes.</td>
+<td style="" align="center"><img src="/aboutow/ogwdw/images/emerg_image7.jpg" id="||CPIMAGE:90016|" alt="Image showing the application of tincture of iodine to cloudy water." title="7 Steps to Emergency Disinfection, Image 07" border="0" height="97" hspace="0" vspace="0" width="97"></td>
+</tr>
+</tbody>
+</table></p>
+			</div>
+			
+		</div>
+	
+</div>
+<script type="text/javascript" src="http://www.epa.gov/epafiles/js/third-party/jquery.tools.1.2.min.js"></script>
+<script type="text/javascript">
+
+
+$(document).ready(function(){
+  // Tabs
+    $("ul.tab").addClass("tabs-js").tabs( "div.pane > div" );
+  });
+</script>
+
+</div>
+</div></div>
+			<hr />
+
+		</div>
+		<div id="areanav">
+			<h4 class="skip">Area Navigation</h4>
+<div id="cs_control_4110" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_436186_4110">
+<!-- BEGIN AREA MAIN NAVIGATION -->
+	<ul style="margin : 0px; position : relative; left:0px;">
+		<li class="separator"><a href="/">Water Home</a><hr /></li>
+		<li><a href="/drink/">Drinking Water</a>			
+		
+		<ul>
+			<li><a href="/drink/analmal/">Analytical Methods and Laboratories</a></li>				
+			<li><a href="/drink/info/">Consumer Information</a></li>	
+			<li><a href="/drink/standards/">Drinking Water Standards</a></li>
+			<li><a href="/drink/emerprep/">Emergency Preparedness</a></li>				
+			<li><a href="/drink/local/">Local Drinking Water<br /> Information</a></li>
+			<li><a href="/drink/info/well/">Private Wells</a></li>
+			<li><a href="/drink/tour/">Virtual Tour of Water<br />Treatment Plant</a></li>
+			<li><a href="/drink/contaminants/">Water Contaminants</a></li>
+			<li><a href="/drink/security/">Water Security</a></li>	
+			<li><a href="/drink/guide/">Water on Tap:<br />Consumer's Guide</a></li>																
+		</ul>
+		</li>
+		<li><a href="/learn/">Education &amp; Training</a>
+		</li>
+		<li><a href="/grants_funding/">Grants &amp; Funding</a>		
+		</li>
+		<li><a href="/lawsregs/">Laws &amp; Regulations</a>
+		</li>
+        <li><a href="/type/">Our Waters</a>			
+		</li>
+		<li><a href="/polwaste/">Pollution Prevention &amp; Control</a>		
+		</li>  
+		
+		<li><a href="/resource_performance/">Resources &amp; Performance</a> 
+		</li>
+		<li><a href="/scitech/">Science &amp; Technology</a>
+		</li>
+			
+        <li><a href="/infrastructure/">Water Infrastructure</a>
+		</li>
+        <li><a href="/action/">What You Can Do</a>													
+		</li>
+	</ul>
+<!-- END AREA MAIN NAVIGATION -->
+</div></div>       
+		</div> 
+	</div> 
+</div> 
+
+<div id="footer">
+  <ul id="goodies">
+    <li id="rss-news"><a href="http://www.epa.gov/newsroom/rssfeeds.htm">News Feeds</a></li>
+    <li id="podcasts"><a href="http://www.epa.gov/epahome/podcasts.htm">Podcasts</a></li>
+    <li id="mobile"><a href="http://m.epa.gov/">EPA Mobile</a></li>
+    <li id="email-news"><a href="http://www.epa.gov/newsroom/email_signups.htm">News by Email</a></li>
+    <li id="widgets"><a href="http://www.epa.gov/widgets/">Widgets</a></li>
+  </ul>
+<div id="cs_control_9964" class="cs_control CS_Element_Textblock"><div class="CS_Textblock_Text"><ul id="globalfooter"> <li><a href="http://www.epa.gov/">EPA Home</a></li> <li><a href="http://www.epa.gov/epafiles/usenotice.htm">Privacy and Security Notice</a></li> <li class="last"><a class="CP___PAGEID_468711" href="/contactus.cfm">Contact Us</a></li> </ul></div></div>
+<p id="datemod" style="padding-left: 10px">Last updated on Tuesday, September 10, 2013</p>
+<p id="seal">The Seal of the United States Environmental Protection Agency</p>
+</div><!-- END  id="footer" -->
+<p class="skip">
+<a href="#content" title="Jump to main content.">Jump to main content.</a></p>
+
+
+<div id="cs_control_555751" class="cs_control CS_Element_Custom"></div>
+<script type="text/javascript" src="http://www.epa.gov/epafiles/js/epa-core-v4.js"></script><div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div>
+		<script type="text/javascript">
+		<!--
+			var jsPageContributeMode = 'read';
+			var jsPageSessionContributeMode = 'read';
+			
+			var jsPageAuthorMode = 0;
+			var jsPageEditMode = 0;
+
+			
+			if(!commonspot)
+				var commonspot = {};
+			commonspot.csPage = {};
+			commonspot.csPage.url = '/drink/emerprep/emergencydisinfection.cfm';
+			
+			commonspot.csPage.id = 436186;
+			commonspot.csPage.title = 'Emergency Disinfection of Drinking Water';
+
+			commonspot.csPage.pagetype = 0;
+			commonspot.csPage.publicationState = 'Published Page';	
+			commonspot.csPage.siteRoot = '/';
+			commonspot.csPage.subsiteRoot = '/drink/emerprep/';			
+			commonspot.csPage.mode = jsPageSessionContributeMode;
+			commonspot.csPage.authorok = 0;
+			commonspot.csPage.approvalstatus = 0;
+			commonspot.csPage.showContainerUI = 0;
+			commonspot.csPage.requestedVersionTimestamp = '';
+			commonspot.csPage.userRights = {};
+			commonspot.csPage.userRights.isLoggedIn = 0;
+			commonspot.csPage.userRights.licensedContributor = 0;
+			commonspot.csPage.userRights.read = 1;
+			commonspot.csPage.userRights.author = 0;
+			commonspot.csPage.userRights.edit = 0;
+			commonspot.csPage.userRights.approve = 0;
+			commonspot.csPage.userRights.history = 0;
+			commonspot.csPage.userRights.design = 0;
+			commonspot.csPage.userRights.admin = 0;
+			commonspot.csPage.userRights.subsiteAdmin = 0;
+			commonspot.csPage.userRights.siteAdmin = 0;
+			commonspot.csPage.userRights.customerAdmin = 0;
+			commonspot.csPage.userRights.serverAdmin = 0;
+
+			commonspot.csPage.enabledMenuClasses = '';
+			
+			commonspot.csPage.visibleMenuClasses = '';
+
+			
+			commonspot.csPage.subsiteContext = {};
+			commonspot.csPage.subsiteContext.sitetype = 1;
+			commonspot.csPage.subsiteContext.siteid = 1;
+			commonspot.csPage.subsiteContext.subsiteid = 993;
+			commonspot.csPage.subsiteContext.siteurl = '/';
+			commonspot.csPage.subsiteContext.subsiteurl = '/drink/emerprep/';
+			commonspot.csPage.subsiteContext.sitename = 'Water';
+			commonspot.csPage.subsiteContext.subsitename = 'emerprep';
+			commonspot.csPage.subsiteContext.menucontexttimestamp = '1380524460012';
+			commonspot.csPage.serveradminurl = "/commonspot/admin/";
+			if (parent.commonspot)
+				parent.commonspot.csPage = commonspot.csPage;
+			var doLviewRedirect;
+			if(parent &&
+						parent.commonspot &&
+						parent.commonspot.lview &&
+						!doLviewRedirect &&
+						parent.commonspot.lightbox &&
+						parent.commonspot.lightbox.stack.length == 0)
+			{
+			
+				commonspot.csPage.showPageSubmit = false;
+			
+				onPageArrival = function()
+				{
+					parent.commonspot.lview.currentPage.onPageArrival( commonspot.csPage );
+				};
+				onPageUnload = function()
+				{
+					parent.commonspot.lview.currentPage.onPageUnload();
+				};
+				parent.Spry.Utils.addEventListener(window, 'load', onPageArrival, false);
+				parent.Spry.Utils.addEventListener(window, 'unload', onPageUnload, false);
+			}
+		
+
+		// -->
+		</script>
+<script type="text/javascript">
+<!--
+	if (typeof parent.commonspot == 'undefined' || typeof parent.commonspot.lview == 'undefined')
+		loadNonDashboardFiles();
+	else if (parent.commonspot && typeof newWindow == 'undefined')
+	{
+		var arrFiles = 
+				[
+					{fileName: '/commonspot/javascript/lightbox/overrides.js', fileType: 'script', fileID: 'cs_overrides'},
+					{fileName: '/commonspot/javascript/lightbox/window_ref.js', fileType: 'script', fileID: 'cs_windowref'}
+				];
+		
+		loadDashboardFiles(arrFiles);
+	}	
+//-->
+</script>
+
+</body></html>

@@ -1,0 +1,490 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="https://www.eff.org/press/releases/trolling-effects-new-web-resource-launched-shine-light-patent-trolls" />
+<meta property="og:site_name" content="Electronic Frontier Foundation" />
+<meta property="og:type" content="article" />
+<link rel="shortcut icon" href="https://www.eff.org/sites/all/themes/frontier/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:url" content="https://www.eff.org/press/releases/trolling-effects-new-web-resource-launched-shine-light-patent-trolls" />
+<link rel="canonical" href="https://www.eff.org/press/releases/trolling-effects-new-web-resource-launched-shine-light-patent-trolls" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta content="" about="/press/releases/trolling-effects-new-web-resource-launched-shine-light-patent-trolls" property="dc:title" />
+<meta name="description" content="San Francisco - The Electronic Frontier Foundation (EFF) and a coalition of organizations and law schools today launched the newest tool in the fight against patent trolls: Trolling Effects (trollingeffects.org). The online resource aims to unite and empower would-be victims of patent trolls through a crowdsourced database of demand letters and to serve as a clearinghouse of information on the troll epidemic." />
+<meta property="og:title" content="Trolling Effects: New Web Resource Launched to Shine Light on Patent Trolls" />
+<meta property="og:description" content="San Francisco - The Electronic Frontier Foundation (EFF) and a coalition of organizations and law schools today launched the newest tool in the fight against patent trolls: Trolling Effects (trollingeffects.org). The online resource aims to unite and empower would-be victims of patent trolls through a crowdsourced database of demand letters and to serve as a clearinghouse of information on the troll epidemic." />
+<meta property="og:image" content="https://www.eff.org/sites/all/themes/frontier/images/eff-logo-opengraph-noalpha-square.png?v=1" />
+  <title>Trolling Effects: New Web Resource Launched to Shine Light on Patent Trolls | Electronic Frontier Foundation</title>
+  <link type="text/css" rel="stylesheet" href="https://www.eff.org/sites/default/files/css/css_r7mP1rcWJQ63n8Fdr5p_bAp2cVsr4IDoQbtzGzliANo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/sites/default/files/css/css_2WDS6rAKK7kwjEKZtVIbWvbcKp7kyhaaJDneFaYyT34.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/sites/default/files/css/css_aoJTSMGBDHlE3pbcMgZd7aVMOZjXoGsWw4ZwWEawRUY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/sites/default/files/css/css_Eusycmt7oVG_SOJBtPtKoKe0nxDchp5g8YuC410uPLE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/sites/default/files/css/css_tac-6FWJqlYSecIaWzTPfIMPkxVjs1ZZA9xM8tIgXBk.css" media="print" />
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+/**
+ * @licstart The following is the entire license notice for the JavaScript
+ * code in this page.
+ *
+ * Copyright (C) 2013  Electronic Frontier Foundation.
+ *
+ * The JavaScript code in this page is free software: you can redistribute
+ * it and/or modify it under the terms of the GNU General Public License
+ * (GNU GPL) as published by the Free Software Foundation, either version 3
+ * of the License, or (at your option) any later version.  The code is
+ * distributed WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU GPL
+ * for more details.
+ *
+ * As additional permission under GNU GPL version 3 section 7, you may
+ * distribute non-source (e.g., minimized or compacted) forms of that code
+ * without the copy of the GNU GPL normally required by section 4, provided
+ * you include this license notice and a URL through which recipients can
+ * access the Corresponding Source.
+ *
+ * @licend The above is the entire license notice for the JavaScript code
+ * in this page.
+ */
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.eff.org/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.1"></script>
+<script type="text/javascript" src="https://www.eff.org/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script type="text/javascript" src="https://www.eff.org/sites/default/files/js/js_SiNkhMDgW01LU7-LXsk3u2QY9PwWnvluOyewAt0wX8c.js"></script>
+<script type="text/javascript" src="https://www.eff.org/sites/default/files/js/js_KsJ2zaTfmTBTXK90rNpwSbQP8mVJNrqq0tcnw7FaMeU.js"></script>
+<script type="text/javascript" src="https://www.eff.org/sites/default/files/js/js_aRe4mjwNkRq0UugCuQDnvErzl6bmOFX_DLCke_FfyYc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"frontier","theme_token":"oi8caHHwqP4xLSTCy62f_d5bHWeqQzn5cxFDVtFdgN8","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/custom\/eff_whyb\/js\/whyb.js":1,"sites\/all\/modules\/mytube\/mytube.js":1,"sites\/all\/modules\/caption_filter\/js\/caption-filter.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/themes\/frontier\/js\/no_has_js.js":1,"sites\/all\/themes\/frontier\/js\/jquery.mailcheck.min.js":1,"sites\/all\/themes\/frontier\/js\/do_mailcheck.js":1,"sites\/all\/themes\/frontier\/js\/placeholder.js":1},"css":{"sites\/all\/themes\/frontier\/css\/reset.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/footnotes\/footnotes.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mytube\/mytube.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/caption_filter\/caption-filter.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lexicon\/css\/lexicon.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/modules\/custom\/eff_library\/plugins\/layouts\/eff_lefthand_sidebar\/eff-lefthand-sidebar.css":1,"sites\/all\/modules\/custom\/eff_library\/plugins\/layouts\/eff_site_layout\/eff-site-layout.css":1,"sites\/all\/themes\/frontier\/css\/layout.css":1,"sites\/all\/themes\/frontier\/css\/html-elements.css":1,"sites\/all\/themes\/frontier\/css\/frontier.css":1,"sites\/all\/themes\/frontier\/css\/wysiwyg.css":1,"sites\/all\/themes\/frontier\/timeline\/css\/style.css":1,"sites\/all\/themes\/frontier\/css\/print.css":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-75218 node-type-press-release" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page">
+  <div id="container-wrapper">
+    <div id="container">
+      <div id="header-wrapper">
+        <div class="header-content">
+          <div class="panel-pane pane-pane-header" >
+  
+      
+  
+  <div class="pane-content">
+    <div id="header">
+  <div class="section clearfix">
+    <div id="logo-title">
+
+              <a href="/" title="Home" rel="home" id="logo">
+          <img src="https://www.eff.org/sites/all/themes/frontier/images/logo_full.png" alt="Home" />
+        </a>
+      
+      <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/" title="Home" rel="home"><span>Electronic Frontier Foundation</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Defending your rights in the digital world</div>
+              </div> <!-- /name-and-slogan -->
+    </div> <!-- /logo-title -->
+
+      </div> <!-- /section -->
+</div> <!-- /header -->
+  </div>
+
+  
+  </div>
+        </div>
+        <div class="search-box">
+          <div class="panel-pane pane-block pane-search-form" >
+  
+      
+  
+  <div class="pane-content">
+    <form action="/press/releases/trolling-effects-new-web-resource-launched-shine-light-patent-trolls" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-1xOaupOavEkUfueoJ-8p-FXbqQoYr88C-7W55wIo6zk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+  
+  </div>
+        </div>  
+      </div>
+      <div id="main-menu-nav" class="navigation">
+          <div class="panel-pane pane-pane-navigation" >
+  
+      
+  
+  <div class="pane-content">
+    <div id="navigation" class="menu withprimary ">
+      <div id="primary" class="clear-block">
+      <h2>Main menu</h2><ul id="main-menu" class="links clearfix inline"><li class="menu-925 first"><a href="/" title="">Home</a></li>
+<li class="menu-1746"><a href="/about">About</a></li>
+<li class="menu-689"><a href="/work">Our Work</a></li>
+<li class="menu-301"><a href="/deeplinks">Deeplinks Blog</a></li>
+<li class="menu-302 active-trail"><a href="/press" class="active-trail">Press Room</a></li>
+<li class="menu-303"><a href="/action">Take Action</a></li>
+<li class="menu-926 last"><a href="https://supporters.eff.org/shop" title="">Shop</a></li>
+</ul>    </div>
+  
+</div> <!-- /navigation -->
+  </div>
+
+  
+  </div>
+      </div>
+      <div id="breadcrumb">
+                </div>
+      <div id="main">
+        <div class="layout-main-content">
+          <div class="panel-pane pane-pane-messages" >
+  
+      
+  
+  <div class="pane-content">
+      <div class="tabs"></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-page-content" >
+  
+      
+  
+  <div class="pane-content">
+    
+  <div id="panel-lefthand-sidebar">
+    <!-- See if there's anything in the banner -->
+        <!-- See if there's anything in the left sidebar -->
+          <div class="lefthand-sidebar-sidebar">
+        <div class="panel-pane pane-views-panes pane-press-releases-panel-pane-2" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-press-releases view-id-press_releases view-display-id-panel_pane_2 view-dom-id-a5087b6b7f1c50defdfff9893872bec7">
+            <div class="view-header">
+      <h2><a href="/press">Press Releases</a></h2>
+
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+  <ul class="views-summary">
+      <li><a href="/press/archives/201309">September 2013</a>
+          </li>
+      <li><a href="/press/archives/201308">August 2013</a>
+          </li>
+      <li><a href="/press/archives/201307">July 2013</a>
+          </li>
+      <li><a href="/press/archives/201306">June 2013</a>
+          </li>
+      <li><a href="/press/archives/201305">May 2013</a>
+          </li>
+      <li><a href="/press/archives/201304">April 2013</a>
+          </li>
+      <li><a href="/press/archives/201303">March 2013</a>
+          </li>
+      <li><a href="/press/archives/201302">February 2013</a>
+          </li>
+      <li><a href="/press/archives/201301">January 2013</a>
+          </li>
+      <li><a href="/press/archives/201212">December 2012</a>
+          </li>
+    </ul>
+</div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a href="/press/archives">All archives</a>
+
+    </div>
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-block-1" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-1354"><a href="/press/mentions">EFF in the News</a></li>
+<li class="expanded active-trail menu-mlid-1885"><a href="/press/contact" class="active-trail">Press Contact</a><ul class="menu"><li class="first last leaf active-trail active menu-mlid-2296"><a href="/press/releases/trolling-effects-new-web-resource-launched-shine-light-patent-trolls" class="menu-position-link active-trail active">Trolling Effects: New Web Resource Launched to Shine Light on Patent Trolls</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-1958"><a href="/press/logos">Press Materials</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+      </div>
+      <div class="lefthand-sidebar-main-column sidebar">
+          <div class="panel-pane pane-eff-share-blog" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="share-links"><a class="share-twitter" href="https://twitter.com/home?status=Trolling%20Effects%3A%20New%20Web%20Resource%20Launched%20to%20Shine%20Light%20on%20Patent%20Trolls%20https%3A//www.eff.org/press/releases/trolling-effects-new-web-resource-launched-shine-light-patent-trolls%20via%20%40EFF" target="_blank"><img src="/sites/all/themes/frontier/images/share/twitter.gif" alt="Share on Twitter" /></a><a class="share-facebook" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.eff.org%2Fpress%2Freleases%2Ftrolling-effects-new-web-resource-launched-shine-light-patent-trolls&t=Trolling+Effects%3A+New+Web+Resource+Launched+to+Shine+Light+on+Patent+Trolls" target="_blank"><img src="/sites/all/themes/frontier/images/share/facebook.gif" alt="Share on Facebook" /></a><a class="share-google" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.eff.org%2Fpress%2Freleases%2Ftrolling-effects-new-web-resource-launched-shine-light-patent-trolls" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="/sites/all/themes/frontier/images/share/gplus-16.png" alt="Share on Google+"/></a><a class="share-diaspora" href="http://sharetodiaspora.github.com/?title=Trolling Effects%3A New Web Resource Launched to Shine Light on Patent Trolls&url=https%3A%2F%2Fwww.eff.org%2Fpress%2Freleases%2Ftrolling-effects-new-web-resource-launched-shine-light-patent-trolls" target="_blank"><img src="/sites/all/themes/frontier/images/share/diaspora-16.png" alt="Share on Diaspora" /></a><a class="share-print" href="javascript:window.print()" target="_blank"><img src="/sites/all/themes/frontier/images/share/print.png" width="16" height="16" alt="Print" /></a><a class="share-email" href="mailto:?subject=Trolling Effects: New Web Resource Launched to Shine Light on Patent Trolls&body=San Francisco - The Electronic Frontier Foundation (EFF) and a coalition of organizations and law schools today launched the newest tool in the fight against patent trolls: Trolling Effects (trollingeffects.org). The online resource aims to unite and empower w...%0D%0A%0D%0Ahttps://www.eff.org/press/releases/trolling-effects-new-web-resource-launched-shine-light-patent-trolls%0D%0A" target="_blank"><img src="/sites/all/themes/frontier/images/share/email.gif" alt="Email This" /></a></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-pr-date" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-pr-date field-type-date field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2013-07-31T00:00:00-07:00">July 31, 2013</span></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-node-content" >
+  
+        <h2 class="pane-title">Trolling Effects: New Web Resource Launched to Shine Light on Patent Trolls</h2>
+    
+  
+  <div class="pane-content">
+    <div id="node-75218" class="node node-press-release node-promoted clearfix" about="/press/releases/trolling-effects-new-web-resource-launched-shine-light-patent-trolls" typeof="sioc:Item foaf:Document">
+
+  
+      
+  
+  <div class="content">
+    <div class="field field-name-field-pr-subhead field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Coalition Led by Electronic Frontier Foundation Crowdsources Demand Letters</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>San Francisco - The Electronic Frontier Foundation (EFF) and a coalition of organizations and law schools today launched the newest tool in the fight against patent trolls: Trolling Effects (<a target="_blank" href="https://trollingeffects.org/">trollingeffects.org</a>). The online resource aims to unite and empower would-be victims of patent trolls through a crowdsourced database of demand letters and to serve as a clearinghouse of information on the troll epidemic.</p>
+<p>"Patent trolls will no longer be able to hide under a cloak of legal darkness," EFF Activist Adi Kamdar said. "Trolling Effects will shine a light on companies that abuse the patent system to shake down innovators."</p>
+<p>Patent trolls use the threat of expensive and lengthy patent litigation to extort settlements from innovators large and small. Because the majority of these threats never become lawsuits, most of the threatening letters never show up in public dockets.</p>
+<p>In June, the White House joined calls from Congress for more transparency around demand letters. Trolling Effects aims to provide that transparency. The site will allow demand-letter recipients to post the documents online, find letters received by others, and research who is really behind the threats. The site also features comprehensive guides to the patent system and a blueprint for patent reform. Journalists, academics, and policy makers will find the site a one-stop resource for researching the patent system.</p>
+<p>"Trolling Effects began with the idea that people need to come together to defeat patent trolls," said EFF Staff Attorney Julie Samuels, who also holds the Mark Cuban Chair to Eliminate Stupid Patents. "Innovators who previously would have had to face the troll threat alone can use this new collaborative tool to share information and intelligence."</p>
+<p>Other members of the Trolling Effects coalition include: Application Developers Alliance, Ask Patents, Engelberg Center on Innovation Law &amp; Policy at NYU School of Law, Engine Advocacy, Public Knowledge, PUBPAT, and the Samuelson Law, Technology &amp; Public Policy Clinic at Berkeley Law.</p>
+<p>Trolling Effects is one of several ways EFF is combating the troll plague on the U.S. patent system. Currently, EFF is collecting information on legislative proposals as part of its Defend Innovation project and will publish a report later this year. EFF also recently launched an effort to challenge patents held by Personal Audio, a notorious patent troll that has been shaking down podcasters across the country.</p>
+<p>"The tide is turning on patent trolls," said EFF Staff Attorney Daniel Nazer. "The more people learn about their business practices, the more pressure we're able to put on them. It's time to shut down this business model once and for all."</p>
+<p>Contacts:</p>
+<p>Adi Kamdar<br />
+Activist<br />
+Electronic Frontier Foundation<br />
+adi@eff.org</p>
+<p>Julie Samuels<br />
+Staff Attorney and The Mark Cuban Chair to Eliminate Stupid Patents<br />
+Electronic Frontier Foundation<br />
+julie@eff.org</p>
+
+</div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-issue" >
+  
+        <h2 class="pane-title">Related Issues</h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-issue field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/patent" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Patents</a></div><div class="field-item odd"><a href="/issues/resources-patent-troll-victims" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Patent Trolls</a></div></div></div>  </div>
+
+  
+  </div>
+    </div>
+    <div class="clear-block"></div>
+  </div>
+
+  </div>
+
+  
+  </div>
+        </div>
+                <div class="layout-right-sidebar">
+          <div class="panel-pane pane-sidebar-button" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="sidebar-big-button donate"><a href="https://supporters.eff.org/donate">Donate to EFF</a></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-sidebar-newsletter" >
+  
+        <h2 class="pane-title">Stay in Touch</h2>
+    
+  
+  <div class="pane-content">
+    <form action="https://supporters.eff.org/subscribe" method="post" class="newsletter-form" accept-charset="UTF-8">
+<div class="form-item form-type-textfield form-item-email-address">
+  <label for="edit-email" style="display:none">Email Address</label>
+  <input placeholder="Email Address" type="text" style="margin-bottom:5px" name="email" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-postal-code">
+  <label for="edit-postal-code" style="display:none">Postal Code (optional) </label>
+  <input placeholder="Postal Code (optional)" type="text" name="postal_code" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<input type="submit" name="op" value="Sign Up Now" class="form-submit" />
+<input type="hidden" name="form_id" value="eff_supporters_library_subscribe_form" />
+</form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-nsa-spying" >
+  
+        <h2 class="pane-title">NSA Spying</h2>
+    
+  
+  <div class="pane-content">
+    <div>
+  <div>
+    <p><a style="display:block; height:50px; background-color:#ffffff; padding:5px; border-radius:20px;" href="/nsa-spying">
+      <img style="float:left; margin-right:10px;" width="50" height="50" src="/sites/all/modules/custom/eff_library/images/NSA-small.png" title="NSA Spying" />
+      <strong style="float:left; height:50px; line-height:50px; font-family: Arial">eff.org/nsa-spying</strong>
+    </a></p>
+  </div>
+  <p style="font-size:0.8em; line-height:150%; color:#666666;">EFF is leading the fight against the NSA's illegal mass surveillance program. <a href="/nsa-spying">Learn more</a> about what the program is, how it works and what you can do.</p>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-twitterator-follow-eff-panel-pane-1" >
+  
+        <h2 class="pane-title">Follow EFF</h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-twitterator-follow-eff view-id-twitterator_follow_eff view-display-id-panel_pane_1 view-dom-id-6c108dbdece82b253c3ebbd511e4eec7">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-tweet">        <div class="field-content"><p>Sen. Feinstein confirms NSA obtains emails directly from Internet backbone, describes process.  <a href="https://eff.org/r.2cdG">https://eff.org/r.2cdG</a></p>
+</div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Sep 28 @ 5:42pm</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-tweet">        <div class="field-content"><p>After NSA court hearing today, government must unseal documents for public viewing by December 20: <a href="https://eff.org/r.c9dD">https://eff.org/r.c9dD</a></p>
+</div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Sep 27 @ 5:38pm</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-tweet">        <div class="field-content"><p>Ten US representatives call for Vietnamese human rights lawyer Le Quoc Quan&#039;s release <a href="https://eff.org/r.c7d9">https://eff.org/r.c7d9</a></p>
+</div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Sep 27 @ 2:38pm</span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <ul id="social-networks">
+<li><a href="https://twitter.com/eff">Twitter</a></li>
+<li><a href="https://www.facebook.com/eff">Facebook</a></li>
+<li><a href="https://identi.ca/eff">Identi.ca</a></li>
+</ul>
+
+    </div>
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-projects"  id="projects-menu">
+  
+        <h2 class="pane-title">Projects</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/bloggers" title="">Bloggers&#039; Rights</a></li>
+<li class="leaf"><a href="/issues/coders" title="">Coders&#039; Rights</a></li>
+<li class="leaf"><a href="/social-networks" title="">Follow EFF</a></li>
+<li class="leaf"><a href="/free-speech-weak-link" title="">Free Speech Weak Links</a></li>
+<li class="leaf"><a href="https://globalchokepoints.org/" title="">Global Chokepoints</a></li>
+<li class="leaf"><a href="/https-everywhere" title="">HTTPS Everywhere</a></li>
+<li class="leaf"><a href="https://openwireless.org" title="">Open Wireless Movement</a></li>
+<li class="leaf"><a href="https://w2.eff.org/patent/" title="">Patent Busting</a></li>
+<li class="leaf"><a href="https://ssd.eff.org" title="">Surveillance Self-Defense</a></li>
+<li class="leaf"><a href="/takedowns" title="">Takedown Hall of Shame</a></li>
+<li class="leaf"><a href="http://www.teachingcopyright.org/" title="">Teaching Copyright</a></li>
+<li class="leaf"><a href="https://www.eff.org/issues/transparency" title="">Transparency Project</a></li>
+<li class="leaf"><a href="https://trollingeffects.org" title="">Trolling Effects</a></li>
+<li class="last leaf"><a href="/helpout" title="">Ways To Help</a></li>
+</ul>  </div>
+
+  
+  </div>
+        </div>
+              </div>
+    </div>
+  </div>
+</div>
+<div id="footer-wrapper">
+  <div id="footer">
+    <div id="footerleft">
+      <div class="panel-pane pane-footer-elements" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="cc"><a href="https://www.eff.org/copyright"><img typeof="foaf:Image" src="https://www.eff.org/sites/all/themes/frontier/images/cc-by-logo.png" alt="Creative Commons Licensed" /></a></div>  </div>
+
+  
+  </div>
+    </div>
+    <div id="footerright">
+      <div class="panel-pane pane-block pane-menu-menu-footer-menu" >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/thanks" title="">Thanks</a></li>
+<li class="leaf"><a href="/rss" title="">RSS Feeds</a></li>
+<li class="leaf"><a href="/copyright" title="">Copyright Policy</a></li>
+<li class="leaf"><a href="/policy" title="">Privacy Policy</a></li>
+<li class="last leaf"><a href="/about/contact" title="">Contact EFF</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1" >
+  
+      
+  
+  <div class="pane-content">
+    <noscript><img src="https://anon-stats.eff.org/piwik.php?idsite=1&amp;rec=1&amp;action_name=Trolling Effects: New Web Resource Launched to Shine Light on Patent Trolls" style="border:0" alt="" /></noscript>
+<div id="anon-stats"></div><script>document.getElementById('anon-stats').innerHTML = '<img src="https://anon-stats.eff.org/piwik.php?idsite=1&amp;rec=1&amp;urlref='+document.referrer+'&amp;action_name=Trolling Effects: New Web Resource Launched to Shine Light on Patent Trolls" style="border:0" alt="" />';</script>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div>  <a href="/librejs/jslicense" rel="jslicense" style="display: none">JavaScript license information</a></body>
+</html>

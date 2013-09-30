@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>Kanye West</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5">
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+<!--
+__/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\\\\\\\\\\\\\__/\\\\\\\\\\\\\\\__/\\\________/\\\_____/\\\\\\\\\\\___
+ _\///\\\____/\\\/__\/\\\///////////__\/\\\///////////__\////////////\\\__\/\\\_______\/\\\___/\\\/////////\\\_
+  ___\///\\\/\\\/____\/\\\_____________\/\\\_______________________/\\\/___\/\\\_______\/\\\__\//\\\______\///__
+   _____\///\\\/______\/\\\\\\\\\\\_____\/\\\\\\\\\\\_____________/\\\/_____\/\\\_______\/\\\___\////\\\_________
+    _______\/\\\_______\/\\\///////______\/\\\///////____________/\\\/_______\/\\\_______\/\\\______\////\\\______
+     _______\/\\\_______\/\\\_____________\/\\\_________________/\\\/_________\/\\\_______\/\\\_________\////\\\___
+      _______\/\\\_______\/\\\_____________\/\\\_______________/\\\/___________\//\\\______/\\\___/\\\______\//\\\__
+       _______\/\\\_______\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\__/\\\\\\\\\\\\\\\__\///\\\\\\\\\/___\///\\\\\\\\\\\/___
+        _______\///________\///////////////__\///////////////__\///////////////_____\/////////_______\///////////_____
+
+        kanyewest.com v.yeezus - builtbylane.com x davidbaker.tv x Spins.FM (email: requests@spins.fm) made in brooklyn
+        ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––-->
+    <meta content="Kanye West" property="og:title" />
+    <meta content="Yeezus Tour" property="og:description" />
+    <meta content="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/img/yeezus-tour-final/yeezus-tour-facebook.jpg" property="og:image" />
+    <meta content="http://www.kanyewest.com" property="og:url" />
+    <meta content="Kanye West" property="og:site_name" />
+    <meta content="16806373" property="fb:admins" />
+    <meta content="website" property="og:type" />
+    <meta content="Spins.FM" name="author" />
+
+    <link rel="icon" type="image/x-icon" href="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/img/favicon/tour-favicon.ico" />
+    <link rel="apple-touch-icon" sizes="57x57" href="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/img/favicon/tour-114.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/img/favicon/tour-114.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/img/favicon/tour-114.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/img/favicon/tour-144.png" />
+
+    <link rel="stylesheet" href="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/css/main.09_24-05_25.css">
+    <script src="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/js/vendor/modernizr.custom.yeezus_tour.min.js"></script>
+    
+    <!--[if lt IE 8]>
+    <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script><![endif]-->
+
+    <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/js/vendor/jquery.min.js"><\/script>')</script>    
+
+    <script> 
+        /* global Modernizr */
+        Modernizr.load([{ 
+            test: Modernizr.mq('only all'),
+            nope: '//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js'
+        }]);
+    </script>
+</head>
+<body class="home">
+
+<div class="Wrap YeezusTour Ave">
+   <div class="row">
+	<div class="large-7 medium-7 small-11 columns small-centered">
+		<div class="tourImgWrap">
+			<img class="tourLogo no-select" src="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/img/yeezus-tour-final/yeezus-logo-low.png" alt="The YEEZUS Tour">
+			<img class="tourImg no-select" src="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/img/yeezus-tour-final/yeezus-beams-500-3.gif" alt="KANYE WEST 1st SOLO TOUR IN 5 YEARS WITH KENDRICK LAMAR">
+		</div>
+	</div>
+</div>
+
+
+
+<div class="row text-center">
+	<p class="headline">KANYE WEST'S 1ST SOLO TOUR IN 5 YEARS WITH KENDRICK LAMAR</p>
+</div>
+<div class="row text-center">
+	<div class="credits">
+		<img src="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822//img/yeezus-tour-final/new_credits-final-.png" alt="DONDA Surround">
+	</div>
+</div>
+
+
+
+<div class="Dates">
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">10 19 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Seattle, WA</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			KeyArena<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-seattle-washington-10-19-2013/event/0F004B19D8114FAC?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">10 20 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Vancouver, B.C.</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Pepsi Live at Rogers Arena<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-vancouver-british-columbia-10-20-2013/event/11004B1ABF740DC7?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">10 22 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">San Jose, CA</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			SAP Center<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-san-jose-california-10-22-2013/event/1C004B17C7C18244?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">10 23 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Oakland, CA</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Oracle Arena<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-oakland-california-10-23-2013/event/1C004B1BCC436FA0?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">10 25 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Las Vegas, NV</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			MGM Grand Garden Arena<span class="SC carot" title="SPECIAL GUEST TO BE ANNOUNCED">^</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-las-vegas-nevada-10-25-2013/event/2E004B1DCE7834A4?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">10 26 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Los Angeles, CA</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			STAPLES Center<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.axs.com/events/244622/kanye-west-tickets?skin=staples&src=AEGLIVE_TSOONADK091313WEB002" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">10 28 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Los Angeles, CA</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			STAPLES Center<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.axs.com/events/244873/kanye-west-tickets&src=AEGLIVE_TSOONADK091313WEB002" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 01 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Anaheim, CA</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Honda Center<span class="SC pound" title="WITH KENDRICK LAMAR">#</span><span class="SC aster" title="ON SALE 9 27">*</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-with-anaheim-california-11-01-2013/event/09004B337F074584?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 03 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Denver, CO</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Pepsi Center<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.tickethorse.com/event/kanye-west/1857" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 05 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Minneapolis, MN</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Target Center<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.axs.com/events/244619/kanye-west-tickets?skin=targetcenter&src=AEGLIVE_TSOONADK091313WEB002" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 07 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Chicago, IL</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			United Center<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-chicago-illinois-11-07-2013/event/04004B1A7B5E37E7?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 08 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Columbus, OH</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Nationwide Arena<span class="SC pound" title="WITH KENDRICK LAMAR">#</span><span class="SC aster" title="ON SALE 9 27">*</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-columbus-ohio-11-08-2013/event/05004B3384BC5F89?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 09 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Chicago, IL</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			United Center<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/venueartist/32882/885590?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>	
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 10 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Detroit, MI</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Palace of Auburn Hills<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-auburn-hills-michigan-11-10-2013/event/08004B1EC1F564B5?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 12 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Toronto, Ont.</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Air Canada Centre<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-toronto-ontario-11-12-2013/event/10004B1EAF126D72?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 13 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Toronto, Ont.</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Air Canada Centre<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.ca/venueartist/131157/885590?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 14 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Montreal, Que.</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Bell Centre<span class="SC pound" title="WITH KENDRICK LAMAR">#</span><span class="SC aster" title="ON SALE 9 28">**</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.axs.com/events/244763/kanye-west-tickets" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 16 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Philadelphia, PA</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Wells Fargo Center<span class="SC carot" title="SPECIAL GUEST TO BE ANNOUNCED">^</span><span class="SC aster" title="ON SALE 9 27">*</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.comcasttix.com/events/page/east/Wells+Fargo+Center/Kanye+West/" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 17 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Boston, MA</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			TD Garden<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-boston-massachusetts-11-17-2013/event/01004B1BA51C7F63?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 19 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Brooklyn, NY</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Barclays Center<span class="SC carot" title="SPECIAL GUEST TO BE ANNOUNCED">^</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-till-death-do-brooklyn-new-york-11-19-2013/event/00004B249983781E?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+		<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 20 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Brooklyn, NY</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Barclays Center<span class="SC carot" title="SPECIAL GUEST TO BE ANNOUNCED">^</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-brooklyn-new-york-11-20-2013/event/00004B2CE6B3800A?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 21 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Washington, DC</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Verizon Center<span class="SC pound" title="WITH KENDRICK LAMAR">#</span><span class="SC aster" title="ON SALE 9 27">*</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-washington-district-of-columbia-11-21-2013/event/15004B34CFB992BC?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 23 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">New York, NY</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Madison Square Garden<span class="SC carot" title="SPECIAL GUEST TO BE ANNOUNCED">^</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-new-york-new-york-11-23-2013/event/1D004B27D5E07E45?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 24 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">New York, NY</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Madison Square Garden<span class="SC carot" title="SPECIAL GUEST TO BE ANNOUNCED">^</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/venueartist/237569/885590?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 29 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Miami, FL</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			AmericanAirlines Arena<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-miami-florida-11-29-2013/event/0D004B1DDF8F9A30?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">11 30 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Tampa, FL</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Tampa Bay Times Forum<span class="SC carot" title="SPECIAL GUEST TO BE ANNOUNCED">^</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">12 01 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Atlanta, GA</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Philips Arena<span class="SC pound" title="WITH KENDRICK LAMAR">#</span><span class="SC aster" title="ON SALE 9 27">*</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-atlanta-georgia-12-01-2013/event/0E004B329E5BA3BD?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">12 06 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Dallas, TX</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			American Airlines Center<span class="SC pound" title="WITH KENDRICK LAMAR">#</span><span class="SC aster" title="ON SALE 9 27">*</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+			<a href="http://www.ticketmaster.com/kanye-west-the-yeezus-tour-dallas-texas-12-06-2013/event/0C004B32BD61A70B?camefrom=AEGLIVE_TSOONADK091313WEB001" class="Buy">BUY</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="Dates__d large-push-1 medium-3 small-2 columns">12 07 13</div>
+		<div class="Dates__c large-4 medium-4 small-4 columns">Houston, TX</div>
+		<div class="Dates__v large-4 medium-4 small-5 columns">
+			Toyota Center<span class="SC pound" title="WITH KENDRICK LAMAR">#</span>
+		</div>
+		<div class="Dates__b large-1 medium-1 small-1 columns">
+		</div>
+	</div>
+
+</div>
+
+<div class="row text-center">
+	<div class="Fineprint">
+		<span id="on-sale" class="SC">*</span> ON SALE 9 27
+		<br>
+		<br>
+		<span id="on-sale" class="SC">**</span> ON SALE 9 28
+		<br>
+		<br>
+		<span id="kendrick" class="SC">#</span> WITH KENDRICK LAMAR
+		<br>
+		<br>
+		<span id="special" class="SC">^</span> SPECIAL GUEST TO BE ANNOUNCED
+	</div>
+</div>
+
+<div class="row text-center">
+	<div class="Fineprint">
+		<a id="js-SignUp" href="http://www.islanddefjam.com/signups/artist.aspx?aid=7307">SIGN UP FOR UPDATES</a>
+	</div>
+</div>
+</div>
+
+<script src="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/js/app/kanye-yeezus-tour.09_24-05_25.js"></script>
+<script src="http://a4.g.akamai.net/7/1/9499/v1/defjam.download.akamai.com/9499/kanye-lane/kw-tour-0822/js/app/mag-pop.09_24-05_25.js"></script>
+<script>
+	$('#js-SignUp').magnificPopup({
+	   removalDelay: 200
+	   , showCloseBtn: 0 
+	   , mainClass: 'mfp-fade'
+	   , type: 'iframe'
+	});
+
+</script>
+
+
+<!-- KANYE TRACKING-->
+<!-- RadiumOne code begin -->
+<script type="text/javascript">
+<!--
+document.write('<img src="http://rs.gwallet.com/r1/pixel/x8211r'+Math.round(Math.random()*10000000)+'" width="1" height="1" border="0" alt=""/>');
+//-->
+</script><noscript><img src="http://rs.gwallet.com/r1/pixel/x8211" width="1" height="1" border="0" alt=""/></noscript>
+<!-- RadiumOne code end -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-34495711-11']);
+    _gaq.push(['_setDomainName', 'none']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<!-- Google Code for Kanye 2013 -->
+<!-- Remarketing tags may not be associated with personally identiﬁable information or placed on
+pages related to sensitive categories. For instructions on adding this tag and more information on the
+above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1062540359;
+var google_conversion_label = "4-D5CKHXwgQQx6jU-gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1062540359/%3Fvalue=0&amp%3Blabel=4-D5CKHXwgQQx6jUgM&amp%3Bguid=ON&amp%3Bscript=0"/></div></noscript>
+<!-- /KANYE TRACKING-->
+
+
+</body>
+</html>
+
+<!-- @rexfeng #rexroutes -->

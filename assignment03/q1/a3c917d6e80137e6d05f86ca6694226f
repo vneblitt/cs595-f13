@@ -1,0 +1,433 @@
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/XtraContent.dwt.cfm" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="HeaderInfo" -->
+
+<!-- InstanceEndEditable -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="imagetoolbar" content="no" />
+<link rel="stylesheet" type="text/css" href="/admin/styles/gl.1.css" />
+
+<style type="text/css">
+	.csp_cntr#celebrate { background-image: url();}
+	.csp_cntr#study { background-image: url();}
+	.csp_cntr#protect { background-image: url();}
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="/admin/styles/XC.1.css" />
+
+<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="/admin/styles/IE.1.css" />
+	<script type="text/javascript" src="/admin/scripts/minmax.js"></script>
+<![endif] -->
+<!--[if lt IE 7.0]>
+	<link rel="stylesheet" type="text/css" href="/admin/styles/IE7.1.css" />
+<![endif]-->
+<!-- Here is the Javascript for the drop-down menus -->
+<script src="/admin/scripts/gl.1.js" type="text/javascript"></script>
+
+
+<!-- InstanceBeginEditable name="HeaderContent" -->
+
+
+
+
+<!-- InstanceEndEditable -->
+
+<title>Directions - National Zoo</title>
+<meta name="description" content="Directions to and from the Zoo, and parking information.  " /><script type="text/javascript">cpp_value="NZP";</script>
+<script type="text/javascript" src="http://www.si.edu/fsrscripts/triggerParams.js"></script>
+<script type="text/javascript" src="http://www.si.edu/fsrscripts/stdLauncher.js"></script><link rel="canonical" href="http://nationalzoo.si.edu/Visit/gettingtozoo.cfm" />
+    
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-13111990-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    
+
+<script src="/scripts/webtrends.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<!-- END OF SmartSource Data Collector TAG -->
+<link href="http://fonts.googleapis.com/css?family=Oswald:400,300,700" rel="stylesheet" type="text/css" /></head>
+
+<body>
+<div id="page_cntr">
+	<div id="header_cntr">
+	<img src="/admin/images/newcss/header_bevel_top.gif" alt="" width="777" height="4" id="header_bevel_top" /><br />
+	<a name="top" href="#SiteNavigation" style="float:left;"><img src="/admin/images/spacer.gif" alt="" width="1" height="1" /></a>
+	<a href="#SectionNavigation" style="float:left;"><img src="/admin/images/spacer.gif" alt="" width="1" height="1" /></a>
+	<a href="#Content" style="float:left;"><img src="/admin/images/spacer.gif" alt="" width="1" height="1" /></a><br />
+
+	<a href="/default.cfm" id="siteLogoImg"><img src="/admin/images/SIlogo.gif" alt="Smithsonian''s National Zoological Park/ Friends of the National Zoo" name="siteLogo" width="299" height="39" id="siteLogo" /></a>
+
+<span id="print_logo">
+		<img src="/PrintPage/images/nzp-bw.gif" width="275" height="66" alt="Smithsonian''s National Zoological Park/ Friends of the National Zoo" id="p_logo2" style="padding-right:50px;"/>
+		<img src="/PrintPage/images/fonz-logo.gif" width="42" height="61" alt="Smithsonian''s National Zoological Park/ Friends of the National Zoo" id="p_logo1"/></span>
+
+	<form action="/Search/default.cfm" method="post" id="head_search_form"><fieldset><input type="search" name="q" id="head_search_field" /><p id="search_button"><a href="javascript:document.getElementById('head_search_form').submit()">Search</a></p></fieldset>
+	</form>
+	<div id="adminLinks">
+		<p id="donate"><a href="https://salsa.democracyinaction.org/o/1483/t/8832/p/salsa/donation/common/public/?donate_page_KEY=4607">Donate Now</a></p>
+		<p id="contact"><a href="/Shop/" id="fonz_shop">Shop</a></p>
+	</div>
+	<img src="/admin/images/newcss/header_bevel_bot.gif" alt="" width="777" height="4" id="header_bevel_bot" />
+</div> 
+<div id="globalNav_cntr">
+
+<ul id = "nav">
+
+ <li class="firstItem"><a href="/Visit/">Visit</a>	
+  <ul>
+   <li class="heading"><h2>Visit</h2></li>
+   <li><a href="/Visit/gettingtozoo.cfm">Getting to the Zoo</a></li>
+   <li><a href="/Visit/zoomap.cfm">Zoo Map</a></li>
+   <li><a href="/Visit/hours.cfm">Hours</a></li>
+   <li><a href="/Visit/DailyPrograms/">Daily Programs</a></li>
+   <li><a href="/Visit/PlanYourVisit/">Plan Your Visit</a></li>
+   <li><a href="/Visit/food.cfm">Food</a></li>
+   <li><a href="/Visit/parkrules.cfm">Park Rules</a></li>
+   <li><a href="/Visit/accessibility.cfm">Accessibility</a></li>
+   <li><a href="/smithsoniannationalzooapp/">Download the Zoo App</a></li>
+   <li class="heading"><h2>Events</h2></li>
+   <li><a href="/ActivitiesAndEvents/Calendar/">Calendar</a></li>
+   <li><a href="/events/">Special Events and Celebrations</a></li>
+   <li><a href="/YourEvent/">Host Your Event</a></li>
+  </ul>
+ </li>
+ 
+ <li class="firstItem"><a href="/Animals/">Animals</a>	
+  <ul>
+   <li class="heading"><h2>Animals</h2></li>
+   <li><a href="/Animals/WebCams/">Live Animal Cams</a></li>
+   <li><a href="/Animals/PhotoGallery/">Photo Galleries</a></li>
+   <li><a href="/Animals/AnimalIndex/">Animals A to Z</a></li>
+   <li><a href="/Animals/AsianElephants/">Asian Elephants</a></li>
+   <li><a href="/Animals/Birds/">Birds</a></li>
+   <li><a href="/Animals/GiantPandas/">Giant Pandas</a></li>
+   <li><a href="/Animals/Primates/">Great Apes and Other Primates</a></li>
+   <li><a href="/Animals/GreatCats/">Great Cats</a></li>
+   <li><a href="/Animals/Invertebrates/">Invertebrates</a></li>
+   <li><a href="/Animals/ReptilesAmphibians/">Reptiles and Amphibians</a></li>
+   <li><a href="/Animals/SmallMammals/">Small Mammals</a></li>
+   <li class="heading"><h2><a href="/Animals/exhibits.cfm">Exhibits</a></h2></li>
+   <li><a href="/Animals/AfricanSavanna/">African Savanna</a></li>
+   <li><a href="/Animals/Amazonia/">Amazonia</a></li>
+   <li><a href="/Animals/AmericanTrail/">American Trail</a></li>
+   <li><a href="/Animals/AsiaTrail/">Asia Trail</a></li>
+   <li><a href="/Animals/KidsFarm/">Kids' Farm</a></li>
+   <li><a href="/Animals/ThinkTank/">Think Tank</a></li>
+  </ul>
+ </li>
+ 
+ <li class="firstItem"><a href="/Audiences/Members/">Membership</a>	
+  <ul>
+   <li class="heading"><h2>Join Friends of the National Zoo</h2></li>
+   <li><a href="/JoinFONZ/Join/">Member Benefits</a></li>
+   <li><a href="/JoinFONZ/Join/">Join or Renew Today</a></li>
+   <li><a href="https://salsa.democracyinaction.org/o/1483/p/salsa/donation/common/public/?donate_page_KEY=2039">Give a Gift Membership</a></li>
+   <li><a href="/JoinFONZ/Join/#Donor">Donor Membership Levels</a></li>
+   <li class="heading"><h2>Members</h2></li>
+   <li><a href="/Audiences/Members/ForMembersOnly/">Member Services &amp; Information</a></li>
+   <li><a href="/JoinFONZ/Join/default.cfm#scbiclub">SCBI Club</a></li>
+   <li><a href="/scbi/migratorybirds/club/">Smithsonian Migratory Bird Club</a></li>
+   <li><a href="/JoinFONZ/Benefits/PhotoClub/">FONZ Photo Club</a></li>
+  </ul>
+ </li>
+ 
+ <li class="firstItem"><a href="/SCBI/">Science</a>	
+  <ul>
+   <li class="heading"><h2>Smithsonian Conservation Biology Institute (SCBI)</h2></li>
+   <li><a href="/SCBI/">Overview</a></li>
+   <li><a href="/SCBI/AboutUs/FrontRoyal/">Front Royal Headquarters</a></li>
+   <li><a href="/SCBI/AboutUs/RockCreek/">Rock Creek Campus</a></li>
+   <li><a href="/SCBI/IntheField/default.cfm">In the Field</a></li>
+   <li><a href="/SCBI/Scientific_Staff/">Scientists</a></li>
+   <li><a href="/SCBI/News/">Newsletter</a></li>
+   <li class="heading"><h2>Science Centers</h2></li>
+   <li><a href="/SCBI/AnimalCare/">Animal Care Sciences</a></li>
+   <li><a href="/SCBI/CCEG/">Conservation and Evolutionary Genetics</a></li>
+   <li><a href="/SCBI/ConservationEcology/">Conservation Ecology</a></li>
+   <li><a href="/SCBI/CCES/">Conservation Education and Sustainability</a></li>
+   <li><a href="/scbi/migratorybirds/">Migratory Bird Center</a></li>
+   <li><a href="/SCBI/SpeciesSurvival/">Species Survival</a></li>
+  </ul>
+ </li>
+ 
+ <li class="firstItem"><a href="/Education/">Education</a>
+  <ul>
+   <li class="heading"><h2>Programs and Events</h2></li>
+   <li class="heading"><h3>Classes</h3></li>
+   <li><a href="/Education/Classes/preschool.cfm">Preschool Classes</a></li>
+   <!--<li><a href="/Education/Classes/afterschool.cfm">After-School Programs</a></li>-->
+   <li><a href="/Education/Classes/childrensclasses.cfm">Family Programs and Children's Workshops</a></li>
+   <!--<li><a href="/Education/Classes/homeeducation.cfm">Homeschool</a></li>-->
+<li><a href="/Education/Classes/Adult/">Adult Classes</a></li>
+   <li class="heading"><h3>Camps</h3></li>
+   <!--<li><a href="/Education/Camps/SpringCamp/default.cfm">Spring Camp</a></li>-->
+   <li><a href="/Education/Camps/DayCamp/">Summer Safari Day Camp</a></li>
+   <!--<li><a href="/Education/Camps/WinterCamp/">Snow Safari Day Camp</a></li>-->
+   <li><a href="/Education/Camps/NightCamp/">FONZ Nature Camp</a></li>
+   <li class="heading"><h3>Overnights</h3></li>
+   <li><a href="/ActivitiesAndEvents/Activities/SnoreRoar/">Snore and Roar</a></li>
+   <li><a href="/ActivitiesAndEvents/Activities/SnoreRoar/ScoutSnooze.cfm">Scout Snooze</a></li>
+   <li><a href="/ActivitiesAndEvents/Activities/ConservationCampout/">Conservation Campouts in Front Royal, VA</a></li>
+   <li class="heading"><h3>Birthday Parties</h3></li>
+   <li><a href="/ActivitiesAndEvents/Celebrations/birthdayparties.cfm">FONZ Birthdays</a></li>
+   <li class="heading"><h2>Teacher Resources</h2></li>
+   <li><a href="/Education/FieldTripResources/">Field Trips</a></li>
+   <li><a href="/Education/OnlineResources/">Lesson Plans/Online Resources</a></li>
+   <li><a href="/Education/ClassroomResources/CRCClassroomOutreach/">SCBI Outreach near Front Royal, VA</a></li>
+   <li><a href="/scbi/migratorybirds/education/teacher_resources/bridging_the_americas/">Bridging the Americas</a></li>
+   <li class="heading"><h2>Adult Education</h2></li>
+   <li><a href="/SCBI/CCES/GMU/">Undergraduate and Continuing Education</a></li>
+   <li><a href="/Support/Volunteer/">Volunteer Interpreters</a></li>
+   <li><a href="/ActivitiesAndEvents/Lectures/">Lectures and Symposia</a></li>
+  </ul>
+ </li>
+ 
+ <li class="firstItem"><a href="/Support/">Support the Zoo</a>
+  <ul>
+   <li class="heading"><h2>Ways to Help</h2></li>
+   <li><a href="/JoinFONZ/Join/">Join Friends of the National Zoo (FONZ)</a></li>
+   <li><a href="/Support/AdoptSpecies/">Adopt a Species</a></li>
+   <li><a href="/ActivitiesAndEvents/Celebrations/ambassadors.cfm">Be an Ambassador for Salamanders</a>
+   <li><a href="/Support/FONZVisa/">Get a FONZ Capital One Visa</a></li>
+   <li><a href="/Support/Volunteer/">Volunteer</a></li>
+   <li class="heading"><h2>Donate Now</h2></li>
+   <li><a href="/Support/MakeDonation/GivingTree.cfm">Enrichment Giving Tree</a></li>
+   <li><a href="https://salsa.democracyinaction.org/o/1483/t/8832/p/salsa/donation/common/public/?donate_page_KEY=4607">General Donations</a></li>
+   <li><a href="https://salsa.democracyinaction.org/o/1483/p/salsa/donation/common/public/?donate_page_KEY=1595">Giant Panda Conservation Fund</a></li>
+   <li><a href="https://salsa.democracyinaction.org/o/1483/p/salsa/donation/common/public/?donate_page_KEY=1617">Tiger Conservation Fund</a></li>
+   <!--<li><a href="/Support/MakeDonation/carousel.cfm">Carousel</a></li>-->
+   <li><a href="https://salsa.democracyinaction.org/o/1483/p/salsa/donation/common/public/?donate_page_KEY=2169">Neighborhood Nestwatch</a></li>
+   <li><a href="/Support/MakeDonation/Planned-Giving.cfm">Planned Giving</a></li>
+   <li><a href="/Support/MakeDonation/Champions-of-Conservation.cfm">Champions of Conservation</a></li>
+   <li class="heading"><h2>Help Build Exhibits</h2></li>
+   <li><a href="https://salsa.democracyinaction.org/o/1483/t/383/p/salsa/donation/common/public/?donate_page_KEY=4094">Elephant Trails</a></li>
+   <li><a href="https://salsa.democracyinaction.org/o/1483/p/salsa/donation/common/public/?donate_page_KEY=8128">American Trail</a></li>
+   <li><a href="https://salsa.democracyinaction.org/o/1483/t/3613/p/salsa/donation/common/public/?donate_page_KEY=6822">Seals and Sea Lions</a></li>
+  </ul>
+ </li>
+
+</ul>
+<img id="globalNav_bevel_bot" width="777" height="4" alt="" src="/admin/images/newcss/globalNav_bevel_bot.gif">
+</div> 		 
+	<div id="content_cntr">
+		<div id="pageHeader_cntr"><div id="pageHead"><img src="/Visit/images/title.gif" width="769" height="40" alt="Visit the Smithsonians National Zoo  Admission is free" /></div><div id="pageHead_BC"><ul class="Hlist" id="breadCrumb"><li class="firstItem"><a href="/default.cfm">Home</a></li><li><a href="/Visit/default.cfm">Visit</a></li></ul></div></div>
+		<div id="page_content_cntr">
+			<div id="rightColumn_cntr">
+				<div id="pageImage_cntr"><!-- InstanceBeginEditable name="PageImage" --><img src="http://ids.si.edu/ids/deliveryService?max=200&id=http%3A%2F%2Fsirismm.si.edu%2Fsiahistory%2Fimagedb%2F20100708-278MM.jpg" alt="" /><!-- InstanceEndEditable --></div>
+				<a name="SectionNavigation"></a><div id="nav_head"><a href="/Visit">Visit the Zoo</a></div><ul id="navigation"><li><a href="/smithsoniannationalzooapp/">Download the Zoo's App</a></li><li><a href="/Visit/hours.cfm">Hours</a></li><li class="thisDir"><a href="/Visit/gettingtozoo.cfm">Getting to the Zoo</a></li><li><a href="/Visit/zoomap.cfm">Zoo Map</a></li><li><a href="/Visit/PlanYourVisit/">Plan Your Visit</a></li><li><a href="/Visit/DailyPrograms/">Daily Programs</a></li><li><a href="/ActivitiesAndEvents/Calendar/">Calendar</a></li><li><a href="/Visit/food.cfm">Food</a></li><li><a href="/Visit/accessibility.cfm">Accessibility</a></li><li><a href="/Visit/parkrules.cfm">Park Rules</a></li><li><a href="/YourEvent/">Host Your Own Event</a></li></ul>			
+				<div id="related_resources_cntr">
+					<p id="rel_res_head">Related Resources</p>
+					<!-- InstanceBeginEditable name="RelatedLinks" --><!-- InstanceEndEditable -->
+				</div>
+				<div id="cross_refernce_cntr"></div><!--  -->
+				<div id="page_ads_cntr"><div class="section">
+ <p class="center"><a href="/smithsoniannationalzooapp/"><img src="/Visit/PlanYourVisit/images/App-Icon.Maps.gif" width="160" height="198" alt="App" /> <h3>Download our app</h3> </a>
+ <p>Plan your visit with  interactive maps, animal information, demo schedules, and more!</p>
+ <p><a href="/Visit/sunsafety.cfm"><img src="/admin/images/icons/img_arrowdk.gif" />Stay safe in the sun when you visit the Zoo.</a></p>
+</div></div>
+			</div>				
+			<div id="center_column_cntr">		
+				<!-- InstanceBeginEditable name="ContentArea" -->
+<div class="section">
+
+<h1>Getting to the Zoo</h1>  
+<div class="rightgivespace">
+<iframe width="250" height="405" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?oe=utf-8&amp;client=firefox-a&amp;q=3001+connecticut+avenue&amp;ie=UTF8&amp;hq=&amp;hnear=3001+Connecticut+Ave,+Washington,+District+of+Columbia+20008&amp;gl=us&amp;t=m&amp;ll=38.931906,-77.052441&amp;spn=0.019496,0.015364&amp;z=14&amp;iwloc=near&amp;output=embed"></iframe>
+<p><a href="https://maps.google.com/maps?oe=utf-8&amp;client=firefox-a&amp;q=3001+connecticut+avenue&amp;ie=UTF8&amp;hq=&amp;hnear=3001+Connecticut+Ave,+Washington,+District+of+Columbia+20008&amp;gl=us&amp;t=m&amp;ll=38.931906,-77.052441&amp;spn=0.019496,0.015364&amp;z=14&amp;iwloc=A&amp;source=embed">View Larger Map</a></p>
+</div>
+<p>
+The National Zoo is located at 3001 Connecticut  Avenue NW, Washington, DC 20008. You can get to the Zoo by <a href="/Visit/metro.cfm">taking public transportation</a> and <a href="#driving">driving</a>.
+</p>
+<p>There are pedestrian and vehicle entrances on Connecticut Avenue, at the west side of the Zoo.</p>
+<p>
+There are two entrances for pedestrians and vehicles at the east side of the Zoo, near Rock Creek Park. One is off Rock Creek Parkway, the other is at the intersection of Harvard Street and Adams Mill Road. 
+</p>
+
+<div class="borderbottom">
+<h2><a name="public" id="public"></a>To get to the Zoo by public transportation:</h2>
+<p>
+The Zoo's Connecticut Avenue entrance is equidistant from 2 Metrorail stops. There is a Metrobus stop directly in front of the Zoo.
+</p>
+<p>
+<a href="/Visit/metro.cfm"><img src="/admin/images/icons/img_arrowdk.gif" width="15" height="11" alt="" />Get details about taking Metro to the Zoo</a>
+</p>
+</div>
+
+<div class="borderbottom">
+<h2><a name="biking" id="biking"></a>To get to the Zoo by bicycle:</h2>
+<p>
+<a href="http://www.capitalbikeshare.com/" target="ext">Capital Bikeshare</a> has stations at the Connecticut Avenue pedestrian entrance (at 3000 Connecticut Avenue NW) and at the Harvard Street gate (Harvard Street and Adams Mill Road NW). <img src="/admin/images/icons/icon_weblet.gif" alt="" width="15" height="11" /><a href="http://www.capitalbikeshare.com/" target="ext">Find out more about Capital Bikeshare.</a>
+</p>
+<p class="note">
+Note: Biking is permitted only on public vehicle roads. Riding bikes, scooters, skateboards, and the like is prohibited on all pedestrian walkways. While in the Zoo, you must park or walk or carry your bike, scooter, skateboard, etc. There are bike racks near the Visitor Center and at Lion-Tiger Hill.
+</p>
+</div>
+
+<div class="borderbottom">
+<h2><a name="driving" id="driving"></a>To get to the Zoo by car:</h2>
+<p>
+You can enter the Zoo from Connecticut Avenue, Harvard Street, or Rock Creek Parkway. Parking in the Zoo and nearby is limited, so we strongly encourage you to use public transportation. 
+</p>
+</div>
+                  
+<div class="borderbottom">                   
+<h2><a name="parking" id="parking"></a>Parking:</h2>
+<p>
+Parking at the Zoo costs $16 for the first 3 hours, and $22 for more than 3 hours. Every dollar you spend at the Zoo&#8212;for parking, food, and gifts&#8212;supports our education, research, and conservation efforts.
+</p>
+<p>
+<strong>Please note:</strong> The Zoo is a popular destination, and lots fill early in the day during spring break and summer, so we encourage you to take the <a href="#public">Metro</a>. We are located in a city, and there is not a lot of street parking in the neighborhood. 
+</p>
+
+<h3><a name="savestress"></a>Save Time and Stress&#8212;Reserve a Parking Spot</h3>
+<p>
+  The Zoo  is a very popular destination, and parking lots often fill up early in the day, especially in spring and summer. Street parking in the neighborhood is quite limited. Reserved  parking guarantees you a hassle-free experience while providing faster access  to animal exhibits and Panda Plaza. <span class="note">The availability of spaces is limited; reservations may not be available on some dates.</span></p>
+<p>
+  <img src="/admin/images/icons/icon_weblet.gif" alt="" width="15" height="11" /><a href="https://www.parkingpanda.com/national-zoo-parking?ref=fonz" target="ext">Reserve your space now!</a></p>
+<p class="note">Please  note: You will leave the Smithsonian National Zoo website when you click the  link above. Parking Panda is a third-party contractor.&nbsp; <a href="https://www.parkingpanda.com/privacy-policy" target="ext">Read Parking Panda&rsquo;s privacy policy.</a></p>
+
+<h3>Tour buses</h3>
+<p>Tour bus parking is extremely limited. Tour buses may not drop off passengers on Connecticut Avenue. This is both unsafe and illegal. </p>
+
+<h3>School buses</h3>
+<p>				  
+Parking is available most weekdays. On weekends and during the summer, bus parking is not available.
+</p>
+
+</div>                  
+</div>
+				<!-- InstanceEndEditable -->
+				<div id="page_controls">
+					
+				</div>
+		  </div>
+				
+		</div>
+		<div id="page_close"><img src="/admin/images/spacer.gif" width="1" height="1" alt="" /></div>	
+	</div>
+	<div id="footer_cntr">
+	<img src="/admin/images/newcss/footer_bevel_top.gif" alt="" width="777" height="4" id="footer_bevel_top" />
+	
+	<div id="foot_AnimalNav_cntr"><img src="/admin/images/newcss/ButtonBarMiddle.jpg" alt="Navigate Animal Program" width="777" height="47" usemap="#ProgButons" /><img src="/admin/images/newcss/footer_bevel_aniNav_bot.gif" width="145" height="4" id="footer_bevel_aniNav_bot" alt="" /></div>
+	
+	<div id="foot_openSpace_cntr"><img src="/admin/images/newcss/footer_bevel_opnSpa_t.gif" alt="" width="145" height="3" id="footer_bevel_opnSpa_t" /></div>
+	<div id="foot_upperNav_cntr">
+		<ul class="Hlist" id="audNav">
+			<li class="firstItem"><a href="/Publications/PressMaterials/PressReleases/latest-news.cfm">Newsroom</a></li>
+			<li><a href="/events/">Events</a></li>
+			<li><a href="/Support/Volunteer/default.cfm">Volunteers</a></li>
+			<li><a href="/Audiences/JobSeekers/default.cfm">Careers &amp; Internships</a></li>
+			
+		</ul>
+		<ul class="Hlist" id="adminNav">
+			<li class="firstItem"><a href="/Contact/">Contact</a></li>
+			<li><a href="/AboutUs/">About Us</a></li>
+            <li><a href="http://si.edu/privacy" target="_blank">Privacy</a></li>
+			<li><a href="http://si.edu/Termsofuse" target="_blank">Copyright</a></li>
+			<li><a href="/Help/">Help</a></li>
+		</ul>
+		
+	</div>
+	<div id="foot_lowerNav_cntr">
+		<p id="ENews"><a href="/Publications/ENews/" id="subscribe"><img src="/admin/images/subscribe.gif" alt="Subscribe to Zoo E-Newsletters" width="212" height="30" /></a>	
+        </p>
+	
+    <span id="sc_media_links" style="margin-top:5px">
+	<span id="connect_text" style="height: 1px">&nbsp;</span>
+	<span id="sm_link_hold">
+	    <span>
+			<img src="/Publications/Enewsletters/images/sm_links.gif" usemap="#SM_links" height="30" width="126" style="border:none;"  />
+			<map name="SM_links" id="SM_links">
+                <area shape="rect" coords="3,0,30,30" href="http://www.facebook.com/nationalzoo" alt="Facebook" />
+                <area shape="rect" coords="33,0,63,30" href="http://twitter.com/nationalzoo" alt="Twitter" />
+                <area shape="rect" coords="66,0,94,30" href="http://www.flickr.com/photos/nationalzoo" alt="Flickr" />
+                <area shape="rect" coords="98,0,124,30" href="http://www.youtube.com/user/SmithsonianNZP" alt="YouTube" />
+			</map>                
+	</span>
+	</span>
+</span>
+    	
+
+			
+			
+			
+	  
+		
+		
+	   
+
+      <p id="SIlogo" style="display:inline;"><a href="http://www.si.edu/" target="ext"><img src="/admin/images/SIlogo.1.gif" alt="Smithsonian Institution" width="167" height="30" hspace="0" border="0" /></a></p>
+	  
+  </div>
+	<div id="foot_close"><img src="/admin/images/newcss/footer_bevel_bot.gif" alt="" width="777" height="4" id="footer_bevel_bot" /></div>
+	<div>
+	
+		<map name="ProgButons" id="ProgButons">
+			<area shape="rect" coords="0,0,54,47" href="/Animals/AfricanSavanna/" alt="African Savanna" />
+			<area shape="rect" coords="54,0,107,47" href="/Animals/Amazonia/" alt="Amazonia" />
+			<area shape="rect" coords="107,0,158,47" href="/Animals/AsiaTrail/" alt="Asia Trail" />
+			<area shape="rect" coords="158,0,209,47" href="/Animals/AsianElephants/" alt="Asian Elephants" />
+			<area shape="rect" coords="261,0,311,47" href="/Animals/Birds/" alt="Birds" />
+			<area shape="rect" coords="311,0,364,47" href="/Animals/GiantPandas/" alt="Giant Pandas" />
+			<area shape="rect" coords="364,0,414,47" href="/Animals/Primates/" alt="Great Apes and Other Primates" />
+			<area shape="rect" coords="414,0,466,47" href="/Animals/GreatCats/" alt="Great Cats" />
+			<area shape="rect" coords="466,0,518,47" href="/Animals/Invertebrates/" alt="Invertebrates" />
+			<area shape="rect" coords="518,0,569,47" href="/Animals/KidsFarm/" alt="Kids' Farm" />
+			<area shape="rect" coords="569,0,621,47" href="/Animals/AmericanTrail/" alt="North America" />
+			<area shape="rect" coords="621,0,672,47" href="/Animals/AmericanTrail/" alt="Ocean Living" />
+			<area shape="rect" coords="672,0,723,47" href="/Animals/ReptilesAmphibians/" alt="Reptiles and Amphibians" />
+			<area shape="rect" coords="723,0,775,47" href="/Animals/SmallMammals/" alt="Small Mammals" />
+		</map>
+	
+	</div>
+</div>
+
+
+
+
+
+    
+	
+	
+
+
+
+</div>
+
+</body>
+<!-- InstanceEnd --></html>

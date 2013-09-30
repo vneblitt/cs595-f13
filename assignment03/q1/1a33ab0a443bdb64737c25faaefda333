@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" data-pageid="145993" class="no-js">
+<head><meta http-equiv="content-type" content="text/html; charset=utf-8"/><title>NIMH &#183; NIMH Twitter Chat on Suicide Prevention</title><meta name="description" content="To commemorate World Suicide Prevention Day on September 10, 2013, NIMH will host a twitter chat on the topic. "/> <link rel="alternate" type="application/atom+xml" title="NIMH RSS Feed" href="http://www.nimh.nih.gov/site-info/index-rss.atom"/>
+	 <link rel="stylesheet" type="text/css" href="/css/vendor/normalize.2013082201.css" media="screen" />
+<!--[if lte IE 7]><![if gte IE 8]><![endif]-->
+<link rel="stylesheet" type="text/css" href="/css/vendor/bootstrap.min.2013082201.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/main.2013092301.css" media="screen" />
+<!--[if lte IE 7]><![endif]><![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/css/ie8.2013092301.css" media="screen" />
+<![endif]-->
+<link href='http://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css' /><link href='http://fonts.googleapis.com/css?family=Satisfy' rel='stylesheet' type='text/css' />  <script src="/js/vendor/modernizr-2.6.2.min.js"></script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20011391-1']);
+  _gaq.push(['_setDomainName', 'www.nimh.nih.gov']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript">
+function recordLinkDelay(link, category, action) {
+  try {
+    _gaq.push(['_trackEvent',category,action]);
+	if(link.target !== "_blank") {
+    	setTimeout('document.location = " ' + link.href + '"', 100);
+	} else {
+		newWindow = window.open(link.href);
+		if (window.focus) {newWindow.focus();}
+	}
+  } catch(err){}
+}
+function recordLinkNoDelay(link, category, action) {
+  try {
+    _gaq.push(['_trackEvent',category,action]);
+  } catch(err){}
+}
+</script>
+</head><body id="news" class="news level_2 NIMH_News nimh_News_P sidebar_default short leaf"><div id="skip_links"><div><a href="#wrapper">Skip to content</a></div></div><header role="banner"><div id='intro_links'>
+<div class="row" data-cmsid="144832">
+ <div class="span8 col_1 column"> 
+  <a href="http://www.nih.gov/" rel="external" class=" external-icon">National Institutes of Health</a>
+ </div>
+ <div class="span4 col_2 column ie8_last"> 
+  <ul class="row intro_standardLinks" data-cmsid="144928">
+   <li class="span"> <a class="contact_link" href="/site-info/contact-nimh.shtml">Contact Us</a></li>
+   <li class="span ie8_last"> <a href="https://public.govdelivery.com/accounts/USNIMH/subscriber/new" rel="external" class="email_link external-disclaimer" title="Link to non-government website. For more information, click on Policies in our footer." data-toggle="tooltip">Get Email Updates</a></li>
+  </ul>
+ </div>
+</div>
+</div><div id='banner'>
+<div class="row" data-cmsid="144838">
+ <div class="span6 col_1 column"> 
+  <a href="/index.shtml" data-cmsid="39786"> <img src="/images/r1_nimh_logo.gif" alt="Logo for the National Institute of Mental Health (NIMH)." data-cmsid="144835" /></a>
+ </div>
+ <div class="span6 col_2 column ie8_last"> 
+  <form accept-charset="UTF-8" action="http://search.nimh.nih.gov/search" id="search" method="get" role="search">
+   <div style=" margin: 0; padding: 0; display: inline;">
+    <input name="utf8" type="hidden" value="✓" />
+   </div>
+   <input id="affiliate" name="affiliate" type="hidden" value="nimh" />
+   <input aria-label="Search the NIMH website" autocomplete="off" class="usagov-search-autocomplete" id="query" name="query" placeholder="Search the NIMH website" type="search" />
+   <input name="commit" type="submit" value="Search" />
+  </form>
+ </div>
+</div>
+</div></header><nav id="menu" class='has_submenu'><!--[if IE 8]><div id="ie8_menu"><![endif]-->																																																																																	<ul class="row navbar">					<li class="span navbarli home">		<div class="root_wrapper">								<a class="navbari root" href="/index.shtml">Home</a></div>			</li>
+								<li class="span navbarli health">		<div class="root_wrapper">										<a class="navbari root" href="/health/index.shtml">Health  &amp; Education</a><div class='megamenu_placeholder'></div></div>			</li>
+								<li class="span navbarli outreach">		<div class="root_wrapper">										<a class="navbari root" href="/outreach/index.shtml">Outreach</a><div class='megamenu_placeholder'></div></div>			</li>
+								<li class="span navbarli priorities">		<div class="root_wrapper">										<a class="navbari root" href="/research-priorities/index.shtml">Research Priorities</a><div class='megamenu_placeholder'></div></div>			</li>
+								<li class="span navbarli research">		<div class="root_wrapper">										<a class="navbari root" href="/funding/index.shtml">Funding</a><div class='megamenu_placeholder'></div></div>			</li>
+								<li class="span navbarli intramural">		<div class="root_wrapper">										<a class="navbari root" href="/labs-at-nimh/index.shtml">Labs at NIMH</a><div class='megamenu_placeholder'></div></div>			</li>
+										<li class="span navbarli has_submenu news">		<div class="root_wrapper">										<a class="navbari root" href="/news/index.shtml">News </a><div class='megamenu_placeholder'></div></div>				<div class="submenu">																														<ul class="row navbar">					<li class="span navbarli">						<a class="navbari subroot" href="/news/science-news/index.shtml">Science News</a>			</li>
+					<li class="span navbarli">						<a class="navbari subroot" href="/news/media/index.shtml">Multimedia</a>			</li>
+					<li class="span navbarli">						<a class="navbari subroot" href="/news/image-library/index.shtml">Image Library</a>			</li>
+					<li class="span navbarli">						<a class="navbari subroot" href="/news/e-mail-newsletters/index.shtml">Newsletters</a>			</li>
+						<li class="span navbarli ie8_last">						<a class="navbari subroot" href="/news/web-channels/index.shtml">RSS Feeds</a>			</li>
+</ul></div>		</li>
+									<li class="span navbarli ie8_last about">		<div class="root_wrapper">										<a class="navbari root" href="/about/index.shtml">About Us</a><div class='megamenu_placeholder'></div></div>			</li>
+</ul><!--[if IE 8]></div><![endif]--></nav><div id="wrapper"><nav id='breadcrumbs'>
+						<a href='/index.shtml'>Home</a> &gt; <a href='/news/index.shtml'>News </a> &gt; <span class="last-crumb"><a href='/news/science-news/index.shtml'>Science News</a></span></nav><main><article>
+ <div id="title">
+  <h1>NIMH Twitter Chat on Suicide Prevention</h1>
+ </div>
+ <div class="row"> 
+  <nav id="area_nav" class="default">
+   <div class="areanav_news"> 
+    <section class="recent"> 
+     <h2>Recent News</h2> 
+     <ul class="index_recent"> 
+      <li class=" generic-container"> <a href="/news/science-news/2013/science-aaas-google-hangout-on-the-adolescent-brain-featuring-nimhs-jay-giedd-md.shtml">NIMH's Jay Giedd Google Hangout on Teen Brain</a><time class="date_titleLink" datetime="2013-09-27">September 27, 2013</time></li><li class=" generic-container"> <a href="/news/science-news/2013/former-nimh-grantee-receives-2013-macarthur-fellow-award.shtml">Susan Murphy Named 2013 MacArthur Fellow</a><time class="date_titleLink" datetime="2013-09-27">September 27, 2013</time></li><li class=" generic-container"> <a href="/news/science-news/2013/jay-giedd-on-pbs-documentary-brains-on-trial.shtml">Jay Giedd on PBS documentary “Brains on Trial”</a><time class="date_titleLink" datetime="2013-09-19">September 19, 2013</time></li><li class=" generic-container"> <a href="/news/science-news/2013/nimh-grantees-receive-2013-lasker-award.shtml">S&uuml;dhof and Scheller Receive 2013 Lasker Award</a><time class="date_titleLink" datetime="2013-09-09">September 9, 2013</time></li><li class=" generic-container"> <span>NIMH Twitter Chat on Suicide Prevention</span> <time class="date_titleLink" datetime="2013-09-05">September 5, 2013</time></li></ul> 
+    </section> 
+    <section class="index_news_year">
+ <h2>News by Year</h2>
+ <ul class="index_news_year_list">
+  <li class="index_news_year_list_item"> <a href="/news/science-news/2013/science-news-from-2013.shtml">2013</a></li>
+  <li class="index_news_year_list_item"> <a href="/news/science-news/2012/index.shtml">2012</a></li>
+  <li class="index_news_year_list_item"> <a href="/news/science-news/2011/index.shtml">2011</a></li>
+  <li class="index_news_year_list_item"> <a href="/news/science-news/2010/index.shtml">2010</a></li>
+  <li class="index_news_year_list_item"> <a href="/news/science-news/2009/index.shtml">2009</a></li>
+  <li class="index_news_year_list_item"> <a href="/news/science-news/2008/index.shtml">2008</a></li>
+  <li class="index_news_year_list_item"> <a href="/news/science-news/2007/index.shtml">2007</a></li>
+  <li class="index_news_year_list_item"> <a href="/news/science-news/2006/index.shtml">2006</a></li>
+  <li class="index_news_year_list_item"> <a href="/news/science-news/2005/index.shtml">2005</a></li>
+  <li class="index_news_year_list_item"> <a href="/news/science-news/2004/index.shtml">2004</a></li>
+  <li class="index_news_year_list_item"> <a href="/news/science-news/2003/index.shtml">2003</a></li>
+  <li class="index_news_year_list_item"> <a href="/news/science-news/2002/index.shtml">2002</a></li>
+ </ul>
+</section>
+<section class="index_news_topic">
+ <h2>News by Topic</h2> 
+ <h3><span>Disorders</span></h3>
+ <section>
+  <ul class="index_news_topic_list"> 
+   <li><a href="/news/science-news/science-news-about-attention-deficit-hyperactivity-disorder-adhd.shtml">Attention Deficit Hyperactivity Disorder (ADHD) (30 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-anxiety-disorders.shtml">Anxiety Disorders (43 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-autism.shtml">Autism (81 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-bipolar-disorder.shtml">Bipolar Disorder (60 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-borderline-personality-disorder.shtml">Borderline Personality Disorder (7 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-depression.shtml">Depression (143 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-eating-disorder.shtml">Eating Disorders (9 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-obsessive-compulsive-disorder-ocd.shtml">Obsessive-Compulsive Disorder (OCD) (12 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-panic-disorder.shtml">Panic Disorder (6 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-post-traumatic-stress-disorder.shtml">Post-Traumatic Stress Disorder (25 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-schizophrenia.shtml">Schizophrenia (79 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-social-anxiety-disorder.shtml">Social Phobia (4 Items)</a></li> 
+  </ul>
+ </section> 
+ <h3><span>Populations</span></h3>
+ <section>
+  <ul class="index_news_topic_list"> 
+   <li><a href="/news/science-news/science-news-about-older-adults.shtml">Older Adults (13 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-mens-mental-health.shtml">Men's Mental Health (10 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-military-servicemembers.shtml">Military Servicemembers (2 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-womens-mental-health.shtml">Women's Mental Health (12 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-children-and-adolescents.shtml">Children and Adolescents (161 Items)</a></li> 
+  </ul>
+ </section> 
+ <h3><span>Research</span></h3>
+ <section>
+  <ul class="index_news_topic_list"> 
+   <li><a href="/news/science-news/science-news-about-basic-research.shtml">Basic Research (170 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-clinical-research-and-trials.shtml">Clinical Research and Trials (118 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-funding.shtml">Research Funding (43 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-mental-health-services-research.shtml">Mental Health Services Research (28 Items)</a></li> 
+  </ul>
+ </section> 
+ <h3><span>Other</span></h3>
+ <section>
+  <ul class="index_news_topic_list"> 
+   <li><a href="/news/science-news/science-news-about-alzheimers-disease.shtml">Alzheimer's Disease (8 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-coping-with-traumatic-events.shtml">Coping with Traumatic Events (16 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-diversity-and-ethnic-groups.shtml">Diversity and Ethnic Groups (25 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-genetics.shtml">Genetics (58 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-hiv-aids.shtml">HIV/AIDS (26 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-imaging.shtml">Imaging (64 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-medications.shtml">Medications (87 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-nimh.shtml">NIMH (56 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-prevention-of-mental-disorders.shtml">Prevention (20 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-psychotherapies.shtml">Psychotherapies (22 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-the-recovery-act.shtml">Recovery Act (11 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-statistics.shtml">Statistics (30 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-suicide-prevention.shtml">Suicide Prevention (31 Items)</a></li> 
+   <li><a href="/news/science-news/science-news-about-treatments.shtml">Treatments (65 Items)</a></li> 
+  </ul>
+ </section>
+</section> 
+   </div>
+  </nav>
+  <div id="main_content">
+   <div class="inner_content">
+    <p class="stamp">Science Update • <time class="stamp_date_news" datetime="2013-09-05">September 5, 2013</time></p>
+    <div class="main-text">
+     <p>About one million people worldwide die annually by <a href="/health/topics/suicide-prevention/index.shtml">suicide</a>—there is one death by suicide every 40 seconds. The number of lives lost each year through suicide exceeds the number of deaths due to homicide and war combined. Despite these daunting numbers, suicide is one of the most preventable health problems.</p>
+     <p>In honor of <a href="http://www.iasp.info/wspd/" rel="external" class=" external-icon external-disclaimer" title="Link to non-government website. For more information, click on Policies in our footer." data-toggle="tooltip">World Suicide Prevention Day</a>, the National Institute of Mental Health (NIMH) will host a Twitter chat with Lisa Horowitz, Ph.D., M.P.H., on September 10, 2013, from 2–3 pm ET. Dr. Horowitz is a senior clinician on the Psychiatric Consultation-Liaison Service in NIMH’s Office of the Clinical Director. She recently developed a <a href="/news/science-news/2013/emergency-department-suicide-screening-tool-accurately-predicts-at-risk-youth.shtml">suicide screening tool</a> that emergency department doctors and nurses can use to detect youth at risk for attempting suicide.</p>
+     <p>A <a href="/health/twitter-chats/index.shtml">Twitter chat</a> is an organized event where people participate in an interactive conversation through tweets. The conversation usually focuses on a pre-arranged topic and specific tag (#) called a hashtag. Hashtags allow the conversation to be easily followed on Twitter. The chats are scheduled for a specific time and date, but are archived on this web page for viewing anytime. To participate, you will need a Twitter handle and account. If you prefer to simply observe the chat taking place, you may enter the specified hashtag at <a href="http://twubs.com/" rel="external" class=" external-icon external-disclaimer" title="Link to non-government website. For more information, click on Policies in our footer." data-toggle="tooltip">twubs.com</a> to view the conversation in real-time. Email us at <a href="mailto:NIMHpress@nih.gov">NIMHpress@nih.gov</a> if you have questions...and we’ll see you at our next Twitter chat!</p>
+     <p>You can find this discussion under <a href="/health/twitter-chats/index.shtml">#NIMHchats</a>. An archive of the chat will be posted shortly after the event.</p>
+    </div> 
+   </div>
+  </div>
+  <aside id="sidebar">
+   <section class="box default">
+    <h2>Contact(s)</h2>
+    <p> <span class="vcard"> <span class="fn">Jackie Oberst</span><br /> <span class="org"><abbr title="National Institute of Mental Health">NIMH</abbr> Press Office</span><br /> <span class="tel">301-443-4536</span><br /> <a class="email" href="mailto:NIMHPress@nih.gov">NIMHPress@nih.gov</a> </span> </p>
+   </section> 
+   <section class="box default">
+    <h2>More Science News about: </h2>
+    <ul class="ul_default">
+     <li class=" link-container"> <a href="/news/science-news/science-news-about-basic-research.shtml" class=" single-link">Basic Research</a></li><li class=" link-container"> <a href="/news/science-news/science-news-about-nimh.shtml" class=" single-link">NIMH</a></li><li class=" link-container"> <a href="/news/science-news/science-news-about-prevention-of-mental-disorders.shtml" class=" single-link">Prevention</a></li><li class=" link-container"> <a href="/news/science-news/science-news-about-suicide-prevention.shtml" class=" single-link">Suicide Prevention</a></li></ul>
+   </section> 
+   <section class="box" data-cmsid="93772">
+    <h2>Contact the Press Office</h2>
+    <ul class="ul_default">
+     <li class=" generic-container"><span class="icon phone-icon">Phone: 301-443-4536</span></li><li class=" link-container"><a class="icon email-icon single-link" href="mailto:NIMHpress@mail.nih.gov">Email: NIMHpress@mail.nih.gov</a></li></ul>
+   </section> 
+   <section class="box" data-cmsid="35591">
+    <h2>Press Resources</h2>
+    <ul class="ul_default">
+     <li class=" link-container"><a href="/health/index.shtml" class=" single-link">Mental Health Information</a></li><li class=" link-container"><a href="/health/topics/statistics/index.shtml" class=" single-link">Statistics on Mental Disorders</a></li><li class=" link-container"><a href="/research-priorities/scientific-meetings/index.shtml" class=" single-link">Summaries of Scientific Meetings</a></li><li class=" link-container"><a href="/about/index.shtml" class=" single-link">Information about <abbr title="National Institute of Mental Health">NIMH</abbr></a></li><li class=" link-container"><a href="http://projectreporter.nih.gov/reporter.cfm" rel="external" class=" external-icon single-link"><abbr title="Research Portfolio Online Reporting Tool Expenditures and Results">RePORTER</abbr>: Research Portfolio Online Reporting Tool Expenditures and Results</a></li><li class=" link-container"><a href="http://www.pubmedcentral.nih.gov/" rel="external" class=" external-icon single-link">PubMed Central: An Archive of Life Sciences Journals</a></li><li class=" link-container"><a href="/health/topics/suicide-prevention/recommendations-for-reporting-on-suicide.shtml" class=" single-link">Recommendations for Reporting on Suicide</a></li><li class=" link-container"><a href="http://www.eurekalert.org/nih/fundednews.php?view=nimh" rel="external" class=" external-icon external-disclaimer single-link" title="Link to non-government website. For more information, click on Policies in our footer." data-toggle="tooltip">News from the Field</a></li></ul>
+   </section> 
+   <section class="box" data-cmsid="141837">
+ <h2>News from the Field</h2>
+ <h3>NIMH-Funded Science on EurekAlert</h3>
+ <ul class="ul_default">
+  <li><span class="BB_SubheadNoSpace"><a class="release_link external-disclaimer" href="http://www.eurekalert.org/pub_releases/2013-09/uops-pmp091313.php" onclick="NewPopupWindow(this.href,'READ','600','550','yes');return false" rel="external" title="Link to non-government website. For more information, click on Policies in our footer." data-toggle="tooltip">Pinpointing Molecular Path That Makes Antidepressants Act Quicker in Mouse Model</a></span></li>
+  <li><span class="BB_SubheadNoSpace"><a class="release_link external-disclaimer" href="http://www.eurekalert.org/pub_releases/2013-09/uoc--sm090513.php" onclick="NewPopupWindow(this.href,'READ','600','550','yes');return false" rel="external" title="Link to non-government website. For more information, click on Policies in our footer." data-toggle="tooltip">Social Media + Behavior Psychology Leads to HIV Testing, Better Health Behaviors</a></span></li>
+  <li><span class="BB_SubheadNoSpace"><a class="release_link external-disclaimer" href="http://www.eurekalert.org/pub_releases/2013-09/du-yao090413.php" onclick="NewPopupWindow(this.href,'READ','600','550','yes');return false" rel="external" title="Link to non-government website. For more information, click on Policies in our footer." data-toggle="tooltip">Young Adults on the Autism Spectrum Face Tough Prospects For Jobs and Independent Living</a></span></li>
+ </ul>
+ <p><a href="http://www.eurekalert.org/nih/fundednews.php?view=nimh" rel="external" class=" external-icon external-disclaimer" title="Link to non-government website. For more information, click on Policies in our footer." data-toggle="tooltip">More News From the Field...</a></p>
+</section>
+  </aside>
+ </div>
+</article></main></div><footer id='social'>
+<ul class="row social_links" data-cmsid="144915">
+ <li class="span"> <a href="http://www.addthis.com/bookmark.php" rel="external" class="addthis external-disclaimer" title="Link to non-government website. For more information, click on Policies in our footer." data-toggle="tooltip">Bookmark &amp; Share</a></li>
+ <li class="span"> <a class="email" href="/news/e-mail-newsletters/index.shtml">Newsletters</a></li>
+ <li class="span"> <a class="rss" href="/news/web-channels/index.shtml">RSS Feeds</a></li>
+ <li class="span"> <a href="http://www.facebook.com/nimhgov" rel="external" class="facebook external-disclaimer" title="Link to non-government website. For more information, click on Policies in our footer." data-toggle="tooltip">Facebook</a></li>
+ <li class="span"> <a href="http://twitter.com/nimhgov" rel="external" class="twitter external-disclaimer" title="Link to non-government website. For more information, click on Policies in our footer." data-toggle="tooltip">Twitter</a></li>
+ <li class="span"> <a href="http://www.youtube.com/nimhgov" rel="external" class="youtube external-disclaimer" title="Link to non-government website. For more information, click on Policies in our footer." data-toggle="tooltip">YouTube</a></li>
+ <li class="span ie8_last"> <a class="widget" href="/widgets/index.shtml">NIMH New Items Widget</a></li>
+</ul>
+</footer><footer id='site_info'>
+<div class="row siteInfo_inner" data-cmsid="144849">
+ <div class="span3 col_1 column"> 
+  <ul data-cmsid="144914" class="siteInfo_standardLinks">
+   <li> <a href="/site-info/contact-nimh.shtml">Contact Us</a> </li>
+   <li> <a href="/about/staff-directories/index.shtml">Staff Directories</a> </li>
+   <li> <a href="/site-info/privacy-notice.shtml">Privacy Notice</a> </li>
+   <li> <a href="/site-info/policies.shtml">Policies</a> </li>
+   <li> <a href="http://www.nih.gov/icd/od/foia/index.htm" rel="external" class=" external-icon">FOIA</a></li>
+   <li> <a href="/site-info/accessibility.shtml">Accessibility</a> </li>
+   <li> <a href="/topics/index.shtml">Topic Finder</a> </li>
+  </ul>
+ </div>
+ <div class="span9 col_2 column ie8_last"> 
+  <p>The National Institute of Mental Health (NIMH) is part of the National Institutes of Health (NIH), a component of the U.S. Department of Health and Human Services.</p> 
+  <ul class="row siteInfo_logoLinks" data-cmsid="144916">
+   <li class="span"> <a href="http://www.nih.gov/" data-cmsid="33324" rel="external"> <img src="/images/r4_nih_logo.png" alt="Logo for the National Institutes of Health (NIH)." data-cmsid="144853" /></a></li>
+   <li class="span"> <a href="http://www.hhs.gov/index.html" data-cmsid="34417" rel="external"> <img src="/images/r3_hhs_logo.png" alt="Logo for the U.S. Department of Health and Human Services (DHHS)." data-cmsid="144855" /></a></li>
+   <li class="span ie8_last"> <a href="http://www.usa.gov/" data-cmsid="144859" rel="external"> <img src="/images/r3_footer_logo_usagov.png" alt="Logo for USA.gov: Government Made Easy." data-cmsid="144856" /></a></li>
+  </ul>
+ </div>
+</div>
+</footer><!--[if lte IE 7]><![if gte IE 8]><![endif]-->
+<script type='text/javascript'>var megaMenus = {
+"about": "/menus/about.html"
+, 
+"health": "/menus/health.html"
+, 
+"intramural": "/menus/intramural.html"
+, 
+"research": "/menus/research.html"
+, 
+"news": "/menus/news.html"
+, 
+"outreach": "/menus/outreach.html"
+, 
+"priorities": "/menus/priorities.html"
+}</script><script type="text/javascript">
+//<![CDATA[
+var usasearch_config = { siteHandle:"nimh" };
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = "//search.usa.gov/javascripts/remote.loader.js";
+document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+</script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/js/vendor/jquery-1.9.1.min.js'><\/script>")</script>
+<script src="/js/vendor/bootstrap.min.js"></script>
+<script type="text/javascript">
+$(function() {
+	var links = $('a');
+	var linkFragments = $(links).filter('[href^="#"]');
+	var links = $(links).not(linkFragments);
+	var slideActionLinks = $('#actions').children('a');
+	var slideNavLinks = $('.navi').children('a');
+	var links = $(links).not(slideActionLinks).not(slideNavLinks); // Subtracting these links fixes IE bug for slideshow.
+	var outboundLinks = $(links).filter('[href^="http://"],[href^="https://"]');
+	var mailLinks = $(links).filter('[href^="mailto:"]');
+	var subsetLinks = $(links).not(outboundLinks).not(mailLinks);
+	var pdfLinks = $(subsetLinks).filter('[href*=".pdf"]');
+	var zipLinks = $(subsetLinks).not(pdfLinks).filter('[href*=".zip"]');
+	var epubLinks = $(subsetLinks).not(pdfLinks).not(zipLinks).filter('[href*=".epub"]');
+	var mobiLinks = $(subsetLinks).not(pdfLinks).not(zipLinks).not(epubLinks).filter('[href*=".mobi"]');
+	$(outboundLinks).click(function() {
+		var action = this.href;
+		action = action.substring(action.indexOf('://') + 3,action.length);
+		recordLinkDelay(this, 'Outbound Links', action); return false;
+	});
+	$(pdfLinks).click(function() {
+		var action = this.href;
+		action = action.substring(action.indexOf('.gov') + 4,action.length);
+		recordLinkDelay(this, 'PDF Downloads', action); return false;
+	});
+	$(zipLinks).click(function() {
+		var action = this.href;
+		action = action.substring(action.indexOf('.gov') + 4,action.length);
+		recordLinkNoDelay(this, 'Zip Downloads', action);
+	});
+	$(epubLinks).click(function() {
+		var action = this.href;
+		action = action.substring(action.indexOf('.gov') + 4,action.length);
+		recordLinkNoDelay(this, 'Epub Downloads', action);
+	});
+	$(mobiLinks).click(function() {
+		var action = this.href;
+		action = action.substring(action.indexOf('.gov') + 4,action.length);
+		recordLinkNoDelay(this, 'Mobi Downloads', action);
+	});
+	$(mailLinks).click(function() {
+		var action = this.href;
+		action = action.substring(action.indexOf(':') + 1,action.length);
+		recordLinkNoDelay(this, 'Mail Links', action);
+	});
+});
+</script>
+<script src="/js/plugins.2013081601.js"></script><!-- provides hover on/off functionality, used in mega dropdown menu -->
+<script src="/js/main.2013081601.js"></script>
+<!--[if lte IE 7]><![endif]><![endif]-->
+</body></html>

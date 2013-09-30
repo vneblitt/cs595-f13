@@ -1,0 +1,391 @@
+
+		
+			<!DOCTYPE html>
+
+<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>The TMZ Custom Charters</title>
+	<meta name="robots" content="all"/>
+	
+	<meta name="description" content="TMZ Custom Charters - Any location, Exclusive Access, VIP Treatment" />
+    <meta name="keywords" content="" />
+	<meta name="generator" content="Crowd Fusion 2.0-enterprise" />
+	<script language="JavaScript" type="text/javascript" src="http://tmz.vo.llnwd.net/o28/assets/js/TmzView.js" ></script>
+	<script language="JavaScript" type="text/javascript" src="http://tmz.vo.llnwd.net/o28/assets/js/TmzObject.js" ></script>
+	<script language="JavaScript" type="text/javascript" src="http://tmz.vo.llnwd.net/o28/assets/js/TmzLightbox.js" ></script>
+	<script language="JavaScript" type="text/javascript" src="http://tmz.vo.llnwd.net/o28/assets/js/TmzClass.js" ></script>
+	
+	<link rel="stylesheet" type="text/css" href="http://tmz.vo.llnwd.net/o28/assets/css/tmz_lightbox.css" />
+	
+	<script language="JavaScript" type="text/javascript" src="http://ll-assets.tmz.com/www.tmz.com/default/cache/jquery-1.7.2.min.1be3e0cdff0e27a1f9eff0c53b7b9b43.v2012_05_02_165937.js"></script>
+	<script language="JavaScript" type="text/javascript" src="http://ll-assets.tmz.com/www.tmz.com/default/cache/25890c45491f4e14821789160974ec5b.v2012_08_09_131247.js"></script>
+	
+	<style>
+		/*----------------------------- begin    CSS RESET*/
+		html, body, div, span, applet, object, iframe,
+		h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+		a, abbr, acronym, address, big, cite, code,
+		del, dfn, em, font, img, ins, kbd, q, s, samp,
+		small, strike, strong, sub, sup, tt, var,
+		dl, dt, dd, ol, ul, li,
+		fieldset, form, label, legend,
+		table, caption, tbody, tfoot, thead, tr, th, td {
+			margin: 0;
+			padding: 0;
+			border: 0;
+			outline: 0;
+			font-weight: inherit;
+			font-style: inherit;
+			font-size: 100%;
+			font-family: inherit;
+			vertical-align: baseline;
+		}
+		/* remember to define focus styles! */
+		:focus {
+			outline: 0;
+		}
+		body {
+			line-height: 1;
+			color: black;
+			background: white;
+		}
+		ol, ul {
+			list-style: none;
+		}
+		/* tables still need 'cellspacing="0"' in the markup */
+		table {
+			border-collapse: separate;
+			border-spacing: 0;
+		}
+		caption, th, td {
+			text-align: left;
+			font-weight: normal;
+		}
+		blockquote:before, blockquote:after,
+		q:before, q:after {
+			content: "";
+		}
+		blockquote, q {
+			quotes: "" "";
+		}
+
+		/*Title: IE Patches, Author: dan@simplebits.com*/
+
+		/* PNG Fix*/
+		* html #selector { /* for IE<6 */
+		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale src='img/image.png');
+			background-image: none;
+			background-repeat: none;
+			background-color: transparent;
+		}
+
+		/* self-clear floats */
+		* html .group { /* IE6 */
+		height:1%;
+		}
+
+		*:first-child+html .group { /* IE7 */
+		min-height: 1px;
+		}
+
+
+		.group:after {
+			content: ".";
+			display: block;
+			height:0;
+			clear:both;
+			visibility: hidden;
+		}
+
+		/*----------------------------- end CSS RESET*/
+		html {
+			background-color: black;
+		}
+		body {
+			background: #000 url('http://tmz.vo.llnwd.net/o28/assets/images/bg_charter_01.jpg') no-repeat top center;
+			background-attachment: fixed;
+			font-family: arial;
+		}
+		#body-wrapper {
+			margin: 0 auto;
+			width: 982px;
+			position: relative;
+		}
+		h1 {
+			text-indent: -9999px;
+			width: 984px;
+			height: 308px;
+			background: url('http://tmz.vo.llnwd.net/o28/assets/images/h1_tmzcustomcharter.jpg') no-repeat;
+		}
+		.nav {
+			position:absolute;
+			top:0;
+			width: 984px;
+		}
+		#visittmz {
+			float:left;
+			width: 136px;
+			height: 31px;
+			display: block;
+			background: url('http://tmz.vo.llnwd.net/o28/assets/images/sprite_tmzcustomcharter.png') no-repeat 0 0;
+			text-indent: -9999px;
+		}
+		#tmzhollywoodtour {
+			float:right;
+			display: block;
+		}
+		.content {
+			width: 984px;
+			height: 539px;
+			background: url('http://tmz.vo.llnwd.net/o28/assets/images/CustomChartersPage-v2.jpg') no-repeat;
+		}
+		div.leftcol {
+			width: 326px;
+			margin-left: 100px;
+			padding: 50px 10px 10px 10px;
+		}
+		.leftcol {
+			text-indent: -9999px;
+		}
+		.footer {
+			width: 984px;
+			height: 165px;
+			background: url('http://tmz.vo.llnwd.net/o28/assets/images/footer_tmzcustomcharter.gif') no-repeat;
+		}
+		#planyourcharter {
+			display: block;
+			text-indent: -9999px;
+			width: 440px;
+			height: 90px;
+			background: url('http://tmz.vo.llnwd.net/o28/assets/images/sprite_tmzcustomcharter.png') no-repeat 0 -83px;
+			float:right;
+			margin-top: 20px;
+		}
+		.tmz-lightbox-modal-trap {
+		position: absolute;
+		display: block;
+		width: 100%;
+		opacity: .5;
+		background-color: black;
+		left: 0;
+		top: 0;
+		z-index: 999998;
+		}
+		#checkoutphotos {
+			position: absolute;
+			right: 64px;
+			top: 675px;
+		}
+		/* Quotes */
+		.charterquotes {
+			background-color:#252324;
+			color:#fff;
+			margin: 0px 65px 0px 100px;
+			width:817px;
+			/*height:115px;*/
+			overflow:hidden;
+		}
+		.charterquotes ul {
+			list-style-type: none;
+			padding: 0px;
+			margin: 0px;
+			overflow: hidden;
+			width: 8370px;
+		}
+		.charterquotes ul li {
+			float:left;
+			width:735px;
+			/*height:115px;*/
+			padding: 0 70px 15px 65px;
+		}
+		#qleft {
+			width:26px;
+			height:115px;
+			text-indent: -99999px;
+			background: transparent url('http://tmz.vo.llnwd.net/o28/assets/images/qnav_arrow.gif') no-repeat;
+			position:absolute;
+			left:100px;
+			margin-top: .5%;
+		}
+		#qright {
+			width:26px;
+			height:115px;
+			text-indent: -99999px;
+			background: transparent url('http://tmz.vo.llnwd.net/o28/assets/images/qnav_arrow.gif') no-repeat -26px 0px;
+			position:absolute;
+			right: 65px;
+			margin-top: .5%;
+		}
+		.charterquotes h3 {
+			font-size: 14px;
+			font-weight: bold;
+			margin-top: 19px;
+		}
+		.charterquotes blockquote {
+			font-size: 21px;
+			margin-top: 4px;
+		}
+		.charterquotes ul li span {
+			display: block;
+			font-style: italic;
+			font-size: 16px;
+			margin-top: 4px;
+		}
+	</style>
+</head>
+<body>
+	<div id="body-wrapper" class="group">
+		<h1>TMZ Custom Charters - Partnered with StarLine Tours.</h1>
+		<div class="nav">
+			<a href="http://www.tmz.com?adid=tmz" id="visittmz">Visit tmz.com</a>
+			<a href="http://www.tmztour.com?adid=tmztour" id="tmzhollywoodtour"><img src="http://tmz.vo.llnwd.net/o28/assets/images/to_tmzcustomcharter.gif" alt="TMZ TOUR - For Individual Tickets... Click here."></a>
+		</div>
+		<div class="content">
+			<div class="leftcol">
+				<h3>TMZ WILL CREATE A CUSTOMIZED CHARTER TOUR FOR YOUR:</h3>
+				<ul>
+					<li>Birthday Party</li>
+					<li>Family Reunion</li>
+					<li>Bachelor or Bachelorette Party</li>
+					<li>Corporate Outing</li>
+					<li>Team Building Event</li>
+				</ul>
+				<h4>YOUR CUSTOM charter can include:</h4>
+				<ul>
+					<li><p>Stops at the hottest Hollywood restaurants and clubs</p></li>
+					<li><p>A tailor-made route around Beverly Hills, Hollywood, The Sunset Strip, Malibu or other locations in the 30-Mile Zone.</p></li>
+					<li><p>Videos we will customize for your group -- For example, Harvey or members of the TMZ newsroom will set the stage for a custom bachelor party night out on the town. </p></li>
+					<li><p>The creative people at TMZ will make every tour memorable.  Each tour will be hosted by our hilarious and informative TMZ Guides, who are all on the TMZ TV show.</p></li>
+				</ul>
+			</div>
+		</div>
+		<div onclick="tmzPhotosLightbox('2012/08/21/tmz-custom-charters'); return false;">
+		<a href="javascript:void(0)" id="checkoutphotos"><img src="http://tmz.vo.llnwd.net/o28/assets/images/charter_checkoutphotos.png" alt="Check Out Charter Tour Photos"></a></div>
+		<div class="charterquotes">
+			<a href="javascript:void(0);" id="qleft">Left</a>
+			<a href="javascript:void(0);" id="qright">Right</a>
+			<ul class="group" id="box1">
+
+				<li>
+					<h3>One of the Nation's Biggest Law Firms</h3>
+					<blockquote>"The event was a huge hit! The Harvey bit was great. They loved it! Everyone had a fantastic time! Thank you for putting everything together!"</blockquote>
+					<span>Best, Candice</span>
+				</li>
+				<li>
+					<h3>Rachel's 18th Birthday Celebration</h3>
+					<blockquote>"Rachel says this was her best birthday <em>ever</em>. We can't thank you enough for all of the little details and surprises. Rachel was blown away"</blockquote>
+					<span>Thank you, Michelle</span>
+				</li>
+				<li>
+					<h3>Nancy's 66th Birthday Celebration</h3>
+					<blockquote>"Thanks so much for making my party perfect.  I know how hard you worked and my two personal party planners said they couldn't have done it without you."</blockquote>
+					<span>xx, Nancy</span>
+				</li>
+				<li>
+					<h3>Exclusive Family Vacation Charter</h3>
+					<blockquote>"We had great laughs, and Alex (our guide) did a great job. Thanks for setting us up,  and for your personalized treatment, including coming to SLS hotel. Thanks again!"</blockquote>
+					<span>Dan</span>
+				</li>
+				<li>
+					<h3>Corporate Incentive Trip</h3>
+					<blockquote>"The tour was amazing! I'm so happy...it was great!  Stacey was our hostess and was awesome. I look forward to bringing more groups out and incorporating the TMZ tour"</blockquote>
+					<span>Thanks again, Jeffrey</span>
+				</li>
+				<li>
+					<h3>LA Based Production Company – Department Outing</h3>
+					<blockquote>"Alex was fantastic and did a great job entertaining our group! Thank you for all of your assistance and thank the crew for all their hard work as well... we truly had a great time!"</blockquote>
+					<span>Patrick</span>
+				</li>
+				<li>
+					<h3>Bachelorette Party</h3>
+					<blockquote>"We all had a wonderful time!! Nasrene was perfect. She made it so much fun, she is so great!! Thanks for all your help. TMZ has a great staff!!"</blockquote>
+					<span>Cynthia</span>
+				</li>
+			</ul>
+
+				
+				<script>
+					var countA=1;
+					if (countA==1) {
+						$('#qleft').hide();
+						$('#qright').show();
+					}
+					
+					
+					var moveRight = function() {
+						if (countA==1) {
+							$('#box1').animate({ marginLeft: "-877px"}, 300);countA=2;$('#qleft').show();
+						}
+						else if (countA==2) {
+							$('#box1').animate({ marginLeft: "-1754px"}, 300);countA=3;
+						}
+						else if (countA==3) {
+							$('#box1').animate({ marginLeft: "-2631px"}, 300);countA=4;
+						}
+						else if (countA==4) {
+							$('#box1').animate({ marginLeft: "-3508px"}, 300);countA=5;;
+						}
+						else if (countA==5) {
+							$('#box1').animate({ marginLeft: "-4380px"}, 300);countA=6;;
+						}
+						else if (countA==6) {
+							$('#box1').animate({ marginLeft: "-5252px"}, 300);countA=7;;
+						}
+						else if (countA==7) {
+							$('#box1').animate({ marginLeft: "0px"}, 300);countA=1;$('#qleft').hide();
+						}
+						else {return false;}
+					};
+					
+					var moveLeft = function() {
+						if (countA==2) {
+							$('#box1').animate({ marginLeft: "0px"}, 300);countA=1;$('#qleft').hide();
+						}
+						else if (countA==3) {
+							$('#box1').animate({ marginLeft: "-877px"}, 300);countA=2;
+						}
+						else if (countA==4) {
+							$('#box1').animate({ marginLeft: "-1754px"}, 300);countA=3;
+						}
+						else if (countA==5) {
+							$('#box1').animate({ marginLeft: "-2631px"}, 300);countA=4;
+						}
+						else if (countA==6) {
+							$('#box1').animate({ marginLeft: "-3508px"}, 300);countA=5;
+						}
+						else if (countA==7) {
+							$('#box1').animate({ marginLeft: "-4380px"}, 300);countA=6;$('#qright').show();
+						}
+						else {return false;}
+					};
+					
+					var clickRight = function() {
+						clearInterval(int);
+						moveRight();
+						int = setInterval(moveRight, 7500);
+					}
+					
+					var clickLeft = function() {
+						clearInterval(int);
+						moveLeft();
+						int = setInterval(moveRight, 7500);
+					}
+					
+					$('#qright').click(clickRight);
+					$('#qleft').click(clickLeft);
+					
+					var int = setInterval(moveRight, 7500);
+					
+					
+				</script>
+		</div>
+		<div class="footer">
+			<a href="mailto:chartertours@tmz.com?subject=TMZ%20Custom%20Charters%20--%20Inquiry%20from%20Website&body=Name:%20%0dPhone%20Number:%20%0dQuestion:" id="planyourcharter">Plan Your Custom Charter Now! - Click here</a>
+		</div>
+	</div>
+</body>
+
+</html>
+		
+	

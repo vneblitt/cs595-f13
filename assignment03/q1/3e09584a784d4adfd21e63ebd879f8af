@@ -1,0 +1,500 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>The National Association of Free & Charitable Clinics</title>
+    <meta property="og:url" content="http://www.nafcclinics.org"/>
+    <meta property="og:title" content="The National Association of Free & Charitable Clinics"/>
+    <meta property="og:image" content="http://www.nafcclinics.org/sites/all/themes/framework/images/logo.png"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link type="text/plain" rel="author" href="http://nafcclinics.org/humans.txt" />
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_8b13766cd0cd66cb05cb0aef5e2e15b2.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_44787d6cfe00d2b0c6fd3a0a46cc6f9a.css" />
+    <script type="text/javascript" src="/sites/default/files/js/js_e00d466511b8f8341d1964c1df60ee5f.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "cron": { "basePath": "/poormanscron", "runNext": 1380556248 } });
+//--><!]]>
+</script>
+    <!--[if lte IE 7]><link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/framework/ie.css" /><![endif]--> <!--If Less Than or Equal (lte) to IE 7-->
+  </head>
+  <body class="front not-logged-in page-front-page one-sidebar sidebar-right">
+    <!-- Layout -->
+    <div class="container"> <!-- add "showgrid" class to display grid -->
+  
+      <div id="header" class="clearfix">
+
+        <div id="sitename">
+					            <h1><a href="/" title="The National Association of Free &amp;amp; Charitable Clinics">The National Association of Free &amp;amp; Charitable Clinics</a></h1>
+                  </div> <!-- /#sitename -->
+				
+        <div id="block-menu-menu-site-tools" class="block block-menu ">
+
+  					<h2>Site Tools</h2>
+		  
+  <div class="content">
+        <ul class="menu"><li class="leaf first active-trail even"><a href="/" class="active">HOME</a></li>
+<li class="leaf odd"><a href="/clinics/search" title="Find a Free or Charitable Clinic">FIND A CLINIC</a></li>
+<li class="leaf even"><a href="https://secure.commonground.convio.com/NAFC/generaldonations/" title="Donate Now" target="_blank">DONATE NOW</a></li>
+<li class="leaf odd"><a href="http://nafcclinics.org/resources/discount-card" target="_blank">DISCOUNT PHARMACY CARD</a></li>
+<li class="leaf last even"><a href="/contact" title="Contact">CONTACT - VOLUNTEER</a></li>
+</ul>  </div>
+
+</div>
+<div id="block-webform-client-block-1839" class="block block-webform mailing-list-form">
+
+  					<h2>Mailing List</h2>
+		  
+  <div class="content">
+        <form action="/"  accept-charset="UTF-8" method="post" id="webform-client-form-1839" class="webform-client-form" enctype="multipart/form-data">
+<div><div class="webform-component webform-component-textfield webform-container-inline" id="webform-component-email-address"><div class="form-item" id="edit-submitted-email-address-wrapper">
+ <label for="edit-submitted-email-address">Join Our Email List for Free NAFC Newsletters <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="submitted[email_address]" id="edit-submitted-email-address" size="60" value="" class="form-text required" />
+</div>
+</div><input type="hidden" name="details[sid]" id="edit-details-sid" value=""  />
+<input type="hidden" name="details[page_num]" id="edit-details-page-num" value="1"  />
+<input type="hidden" name="details[page_count]" id="edit-details-page-count" value="1"  />
+<input type="hidden" name="details[finished]" id="edit-details-finished" value="0"  />
+<input type="hidden" name="form_build_id" id="form-7b66590f0a9a346315c3c9d1370b2c36" value="form-7b66590f0a9a346315c3c9d1370b2c36"  />
+<input type="hidden" name="form_id" id="edit-webform-client-form-1839" value="webform_client_form_1839"  />
+<div id="edit-actions" class="form-actions form-wrapper"><input type="submit" name="op" id="edit-submit" value="Sign Up!"  class="form-submit" />
+</div>
+</div></form>
+  </div>
+
+</div>
+<div id="block-menu-primary-links" class="block block-menu ">
+
+  					<h2>Primary links</h2>
+		  
+  <div class="content">
+        <ul class="menu"><li class="expanded first odd"><a href="/news">News</a><ul class="menu"><li class="leaf first odd"><a href="/news/nafc-news">NAFC News</a></li>
+<li class="leaf last even"><a href="/news/in-the-news">In The News</a></li>
+</ul></li>
+<li class="leaf even"><a href="/blog">Blog</a></li>
+<li class="leaf odd"><a href="/issues" title="Issues">Issues</a></li>
+<li class="expanded even"><a href="/resources" title="Resources">Resources</a><ul class="menu"><li class="leaf first even"><a href="/resources">Clinic Resources</a></li>
+<li class="leaf odd"><a href="/resources/discount-card" title="Discount Card" id="Discount Card">Discount Card</a></li>
+<li class="leaf even"><a href="/resources/job-listings">Job Listings</a></li>
+<li class="leaf last odd"><a href="http://nafcclinics.org/resources/journal-list">Journal List</a></li>
+</ul></li>
+<li class="leaf odd"><a href="/partners">Partners</a></li>
+<li class="expanded odd"><a href="/about-us" title="About Us">About Us</a><ul class="menu"><li class="leaf first even"><a href="/about-us">About the NAFC</a></li>
+<li class="leaf odd"><a href="/about-us/what-is-free-charitable-clinic" title="What is a Free or Charitable Clinic?">What is a Free or Charitable Clinic?</a></li>
+<li class="leaf even"><a href="/about-us/board-directors" title="Board of Directors">Board of Directors</a></li>
+<li class="leaf odd"><a href="/about-us/stateregional-associations" title="State/Regional Associations" id="http://nafc.dreamcc.com/about-us/state-reg-associations">State/Regional Associations</a></li>
+<li class="leaf even"><a href="/about-us/history" title="History">History</a></li>
+<li class="leaf odd"><a href="http://nafcclinics.org/photos" title="Photo Gallery">Photo Gallery</a></li>
+<li class="leaf last even"><a href="/about-us/our-volunteers" title="Volunteers" id="Volunteers">Our Volunteers</a></li>
+</ul></li>
+<li class="expanded even"><a href="/events" title="Events" id="Events">Events</a><ul class="menu"><li class="leaf first even"><a href="http://www.cvent.com/d/gcq30p" title="Annual Summit" target="_blank">2013 Annual Summit</a></li>
+<li class="leaf last odd"><a href="/CAREclinics" title="C.A.R.E. Clinics">C.A.R.E. Clinics</a></li>
+</ul></li>
+<li class="expanded odd"><a href="/join-nafc">Join the NAFC</a><ul class="menu"><li class="leaf first odd"><a href="/join-nafc">Join</a></li>
+<li class="leaf last even"><a href="/membership-benefits">Membership Benefits</a></li>
+</ul></li>
+<li class="leaf last even"><a href="http://nafcclinics.org/member-area" title="Members Only Area" id="memberArea">Members Only Area Login</a></li>
+</ul>  </div>
+
+</div>
+      
+      </div> <!-- /#header -->
+
+			      
+      
+							<div id="frontHeader">
+					<div id="block-views-home_features-block_1" class="block block-views ">
+
+  
+  <div class="content">
+        <div class="view view-home-features view-id-home_features view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content">Donate Now</span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="https://secure.commonground.convio.com/NAFC/generaldonations/" target="_blank">Learn how to make a secure donation to support the work of the NAFC!</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_image" width="594" height="222" alt="" src="http://nafcclinics.org/sites/default/files/home-donate.jpg?1344267852" /></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content">Volunteer</span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="http://nafcclinics.org/contact" target="_blank">Learn more about volunteer opportunities with the NAFC and our clinics</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_image" width="594" height="222" alt="" src="http://nafcclinics.org/sites/default/files/home-volunteer.jpg?1344267926" /></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content">2013 Summit</span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="http://www.cvent.com/d/gcq30p" target="_blank">Learn more about the Annual Conference and REGISTER TODAY! Oct. 27-29, 2013 in Baltimore, MD</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_image" width="594" height="222" alt="" src="http://nafcclinics.org/sites/default/files/dsc_9290-small.jpg?1352231300" /></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+</div>
+<div id="block-find_clinic-0" class="block block-find_clinic ">
+
+  					<h2>Find a Free or Charitable Clinic</h2>
+		  
+  <div class="content">
+        <form action="/"  accept-charset="UTF-8" method="post" id="find-clinic-form">
+<div><div class="form-item" id="edit-city-state-wrapper">
+ <label for="edit-city-state">Enter a City &amp; State ... </label>
+ <input type="text" maxlength="128" name="city_state" id="edit-city-state" size="60" value="" class="form-text" />
+</div>
+<div class="form-item" id="edit-zip-code-wrapper">
+ <label for="edit-zip-code">... or Zip Code ... </label>
+ <input type="text" maxlength="128" name="zip_code" id="edit-zip-code" size="60" value="" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Find a Clinic"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-c307bae20dc6ed9e6a24c5629d9f0d0e" value="form-c307bae20dc6ed9e6a24c5629d9f0d0e"  />
+<input type="hidden" name="form_id" id="edit-find-clinic-form" value="find_clinic_form"  />
+
+</div></form>
+  </div>
+
+</div>
+				</div>
+			
+      <div id="main">
+                                                        <div id="block-block-13" class="block block-block ">
+
+  					<h2>Combined Federal Campaign (CFC): #60555 - Donate Today</h2>
+		  
+  <div class="content">
+        <p><a href="https://secure.commonground.convio.com/NAFC/generaldonations/" target="_blank"><img src="/sites/default/files/images/donate-banner.jpg" alt="Support Free and Charitable Clinics" height="100" width="570" /></a></p>
+  </div>
+
+</div>
+<div id="block-views-front_news_blogs-block_1" class="block block-views latest-news-blogs">
+
+  					<h2>Latest News &amp; Blog Posts</h2>
+		  
+  <div class="content">
+        <div class="view view-front-news-blogs view-id-front_news_blogs view-display-id-block_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-created">
+                <span class="field-content">9 September 2013</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/blog/2013-9-9/nafc-and-arlington-free-clinic-featured-washington-post-left-behind-stories-obamacare%E2%80%99">NAFC and the Arlington Free Clinic Featured in the Washington Post - Left behind: Stories from Obamacare’s 31 million uninsured</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content">The NAFC is excited to share a great article from the front page of today's Washington Post.&nbsp; This important piece highlights the plight and future of our patients, clinics and volunteers as the Affordable Care Act continues implementation.... <a href="/blog/2013-9-9/nafc-and-arlington-free-clinic-featured-washington-post-left-behind-stories-obamacare%E2%80%99">READ MORE</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-created">
+                <span class="field-content">5 August 2013</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/2013-8-5/nafcs-lamoureux-busby-named-one-nonprofits-top-executives">NAFC&#039;s Lamoureux Busby Named One of Nonprofits Top Executives</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content">WASHINGTON, Aug. 5, 2013 -- The Executive Director of the National Association of Free and Charitable Clinics (NAFC), Nicole Lamoureux Busby, has been named one of the top executives in the non-profit sector by The NonProfit Times, the leading... <a href="/news/2013-8-5/nafcs-lamoureux-busby-named-one-nonprofits-top-executives">READ MORE</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-created">
+                <span class="field-content">1 August 2013</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/blog/2013-8-1/nafc-executive-director-honored-non-profit-times-2013-power-and-influence-top-50-honor">NAFC Executive Director honored in the Non Profit Times 2013 Power and Influence Top 50 Honorees list</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content">Congratulations to the NAFC Executive Director Nicole Lamoureux for being honored and recognized in the Non Profit Times 2013 Power and Influence Top 50 Honorees list.&nbsp; The staff and board are very proud of Nicole for this well-deserved... <a href="/blog/2013-8-1/nafc-executive-director-honored-non-profit-times-2013-power-and-influence-top-50-honor">READ MORE</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-created">
+                <span class="field-content">24 July 2013</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/blog/2013-7-24/volunteer-or-donate-your-local-free-or-charitable-clinic-today">Volunteer or Donate to Your Local Free or Charitable Clinic Today!</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content">Every day in America, there are approximately 1,200 Free and Charitable Clinics providing quality health care to the Nation’s medically underserved.&nbsp; These clinics rely on the generosity of volunteers and donors to help provide the medical... <a href="/blog/2013-7-24/volunteer-or-donate-your-local-free-or-charitable-clinic-today">READ MORE</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field-created">
+                <span class="field-content">16 July 2013</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/2013-7-16/hundreds-receive-free-health-care-new-orleans-through-help-sponsors-donors-and-volunt">Hundreds Receive Free Health Care in New Orleans Through the Help of Sponsors, Donors and Volunteers - Event Highlights Continued Need for Access to Medical Care</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content">WASHINGTON, DC, July 16, 2013 (GLOBE NEWSWIRE) -- The National Association of Free and Charitable Clinics(NAFC) held another successful free clinic event in New Orleans this month. On July 3, 2013, part of the Ernest N. Morial Convention Center was... <a href="/news/2013-7-16/hundreds-receive-free-health-care-new-orleans-through-help-sponsors-donors-and-volunt">READ MORE</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <ul>
+<li class="more-link"><a href="/news">More News ...</a></li>
+<li class="more-link"><a href="/blog">Read Our Blog ...</a></li>
+</ul>
+    </div>
+  
+  
+</div>   </div>
+
+</div>
+				      </div> <!-- /#main -->
+
+              <div id="sidebar-right" class="sidebar">
+          <div id="block-block-2" class="block block-block what-is-the-nafc">
+
+  					<h2>What is the NAFC?</h2>
+		  
+  <div class="content">
+        <iframe width="300" height="203" src="http://www.youtube.com/embed/mDhKN8DD1BY?rel=0" frameborder="0" allowfullscreen></iframe>
+<p>The National Association of Free and Charitable Clinics (NAFC) is the only nonprofit 501c(3) organization whose mission is solely focused on the issues and needs of the more than 1,200 Free and Charitable Clinics and the people they serve in the United States.</p>
+<p><a href="/about-us">LEARN MORE</a></p>  </div>
+
+</div>
+<div id="block-views-upcoming_events-block_1" class="block block-views upcoming-events">
+
+  					<h2>Upcoming Events</h2>
+		  
+  <div class="content">
+        <div class="view view-upcoming-events view-id-upcoming_events view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-nothing-1">
+                <span class="field-content"><span class="day"><span class="date-display-single">27</span></span>
+<span class="month"><span class="date-display-single">Oct</span></span>
+<span class="year"><span class="date-display-single">2013</span></span></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/nafc-2013-annual-summit">NAFC 2013 Annual Summit</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content">
+CLICK HERE FOR THE 2013 NAFC ANNUAL SUMMIT WEBSITE FOR MORE INFORMATION AND TO REGISTER TODAY!... <a href="/event/nafc-2013-annual-summit">READ MORE</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field-nothing-1">
+                <span class="field-content"><span class="day"><span class="date-display-single">20</span></span>
+<span class="month"><span class="date-display-single">Oct</span></span>
+<span class="year"><span class="date-display-single">2014</span></span></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/nafc-2014-annual-summit">NAFC 2014 Annual Summit</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content">The NAFC 2014 Annual Summit will be help from October 20-22nd at the Kansas City Marriott Downtown... <a href="/event/nafc-2014-annual-summit">READ MORE</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/events">
+    More Events  </a>
+</div>
+  
+  
+  
+</div>   </div>
+
+</div>
+        </div> <!-- /#sidebar-right -->
+      
+      <div id="footer" class="clear">
+        <div id="block-block-1" class="block block-block footer-contact-info">
+
+  					<h2>National Association of Free &amp; Charitable Clinics</h2>
+		  
+  <div class="content">
+        <table>
+<tbody>
+<tr>
+<th scope="row">Address</th>
+<td>
+<p>1800 Diagonal Road, Suite 600<br />Alexandria, VA 22314</p>
+</td>
+</tr>
+<tr>
+<th scope="row">Phone</th>
+<td>
+<p>703-647-7427</p>
+</td>
+</tr>
+<tr>
+<th scope="row">Fax</th>
+<td>
+<p>866-875-3827</p>
+</td>
+</tr>
+<tr>
+<th scope="row">Email</th>
+<td>
+<p><a href="mailto:info@nafcclinics.org">Info@nafcclinics.org</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-size: medium;"><strong>Combined Federal Campaign (CFC): #60555</strong></span></p>
+<ul class="socialLinks">
+<li><a href="http://www.facebook.com/pages/National-Association-of-Free-Clinics/115662218866" target="_blank" title="Join Us On Facebook" id="facebookButton">Join Us On Facebook</a></li>
+<li><a href="http://www.youtube.com/user/FreeClinics" target="_blank" title="Visit our YouTube Channel" id="youtubeButton">Visit our YouTube Channel</a></li>
+<li><a href="http://www.twitter.com/NAFClinics" target="_blank" title="Follow Us On Twitter" id="twitterButton">Follow Us On Twitter</a></li>
+<p><a href="https://secure.commonground.convio.com/NAFC/generaldonations/"> <img src="https://secure.commonground.convio.com/NAFC/generaldonations/images/donation-button.png" style="border: 0 none;" onmouseover="this.src='https://secure.commonground.convio.com/NAFC/generaldonations/images/donation-button-mouseover.png';" onmouseout="this.src='https://secure.commonground.convio.com/NAFC/generaldonations/images/donation-button.png';" /></a><br />
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input name="cmd" value="_s-xclick" type="hidden" /><br />
+<input name="hosted_button_id" value="CZGDXTDQ5L4T2" type="hidden" />&nbsp;<br />
+</form>
+</p></ul>
+  </div>
+
+</div>
+<div id="block-views-partners-block_1" class="block block-views footer-partners">
+
+  					<h2>Partners</h2>
+		  
+  <div class="content">
+        <div class="view view-partners view-id-partners view-display-id-block_1 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-field-partner-logo-fid">
+                <span class="field-content"><a href="/partners"><img  class="imagefield imagefield-field_partner_logo" width="150" height="50" alt="" src="http://nafcclinics.org/sites/default/files/MDR_Logo_New7%20final_0.jpg?1380250570" /></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-field-partner-logo-fid">
+                <span class="field-content"><a href="/partners"><img  class="imagefield imagefield-field_partner_logo" width="150" height="50" alt="" src="http://nafcclinics.org/sites/default/files/NDNSLongLogo2.jpg?1377301726" /></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-field-partner-logo-fid">
+                <span class="field-content"><a href="/partners"><img  class="imagefield imagefield-field_partner_logo" width="150" height="50" alt="" src="http://nafcclinics.org/sites/default/files/Covance---Partner-Page.jpg?1369250593" /></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-field-partner-logo-fid">
+                <span class="field-content"><a href="/partners"><img  class="imagefield imagefield-field_partner_logo" width="150" height="50" alt="" src="http://nafcclinics.org/sites/default/files/echo.jpg?1345664559" /></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-field-partner-logo-fid">
+                <span class="field-content"><a href="/partners"><img  class="imagefield imagefield-field_partner_logo" width="150" height="50" alt="" src="http://nafcclinics.org/sites/default/files/partners/logo-moa.png?1295454941" /></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-field-partner-logo-fid">
+                <span class="field-content"><a href="/partners"><img  class="imagefield imagefield-field_partner_logo" width="150" height="50" alt="" src="http://nafcclinics.org/sites/default/files/goldstar.jpg?1345663158" /></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-field-partner-logo-fid">
+                <span class="field-content"><a href="/partners"><img  class="imagefield imagefield-field_partner_logo" width="150" height="50" alt="" src="http://nafcclinics.org/sites/default/files/WellDyne%20Logo.jpg?1345665263" /></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field-field-partner-logo-fid">
+                <span class="field-content"><a href="/partners"><img  class="imagefield imagefield-field_partner_logo" width="150" height="50" alt="" src="http://nafcclinics.org/sites/default/files/HHILogo%28NAFCC%29web.jpg?1364409310" /></a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+</div>
+              </div> <!-- /#footer -->
+
+    </div> <!-- /.container -->
+    <!-- /layout -->
+
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-25350685-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+
+  </body>
+</html>

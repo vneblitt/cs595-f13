@@ -1,0 +1,1539 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:og="http://ogp.me/ns/fb#"
+xmlns:fb="https://www.facebook.com/2008/fbml">
+<head id="Head1"><meta name="copyright" content="Copyright © 2010 ksdk.com. All rights reserved. Absolutely no portions of any Document may be reproduced or re-transmitted in any form or media." /><link href="/ScriptCombiner.ashx?t=text/css&amp;s=articleCSS&amp;v=188" rel="stylesheet" type="text/css" /><script src="/ScriptCombiner.ashx?t=text/javascript&amp;s=coreJS&amp;v=188" type="text/javascript"></script><title>
+	Adolphus Busch IV resigns NRA membership  | ksdk.com
+</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+
+    <script type="text/javascript">
+	    setTimeout(function () { var s = "ksdk", a = document.getElementsByTagName("head")[0] || document.documentElement, c = document.createElement("script"), b = document.createElement("link"); c.type = "text/javascript"; c.async = true; c.src = "http://content.secondspace.com/" + s + "/widgets" + (window.__dsns_.GetCookie('dsnswidgetversion') || '') + ".js"; b.rel = "stylesheet"; b.type = "text/css"; b.href = "http://content.secondspace.com/" + s + "/widgets" + (window.__dsns_.GetCookie('dsnswidgetversion') || '') + ".css"; a.insertBefore(b, a.firstChild); a.insertBefore(c, a.firstChild); }, 200); if (typeof window.__dsns_ == "undefined") window.__dsns_ = {}; window.__dsns_.GetCookie = function (a) { a += "="; for (var c = document.cookie.split(";"), b = 0; b < c.length; b++) { for (var d = c[b]; d.charAt(0) == " "; ) d = d.substring(1, d.length); if (d.indexOf(a) == 0) return d.substring(a.length, d.length) } return null }; document.write('<style type="text/css">#dsnslocal {display:none}</style>');
+    </script>
+
+<script type="text/javascript" src="/common/v5/gel/v1.47/lib/core/core.js" />
+</script>
+<script type="text/javascript">
+	var searchlink = "http://search.ksdk.com/default.aspx?ct=r&q=";
+	
+	GEL.thepage.pageinfo = { 
+		type: "article"
+		,categoryid:"3"
+		,title:"Adolphus Busch IV resigns NRA membership "
+		,url: { 
+			hostname: "www.ksdk.com"
+			,domainname: "ksdk.com"
+			,domainroot: "ksdk"
+		}
+		
+		,GO4TurnOffZag:"1"
+		
+		,sn: { 
+			pluck: { 
+				url: "http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-",
+				id: "20130418.ksdk.376098.article",
+				author:"",
+				moderate:"" ? true: false,
+				trackview:false
+			}
+		}
+		
+	};
+  
+	(function() { 
+		var _c = GEL.config.userauth = {
+			timeout: 20 
+			,enable_auth_by_division: true 
+			,enable_auth_by_site: true 
+			,enable_third_party_by_division: true 
+			,enable_third_party_by_site: (function() { 
+				var _enable= ""; 
+				return _enable.toLowerCase() != 'no' ? true : false; 
+			})() 
+			,app_name: "ksdk"
+			,host: "newspaper.app40.ur.gcion.com"
+			,site_name: "ksdk.com"
+			,enable_ssl: window.location.protocol === 'https:' ? true : false
+			,enable_reg_help: true
+			,enable_search: true
+			,enable_links: false
+			,group_name: "gannett"
+			,third_party_app_name: "MMX"
+			,third_party_site_name: "Metromix"
+			,third_party_logo: "/graphics/mmx_logo.jpg"
+			,login_title: "Comment, blog &#38; share photos"
+			,login_image: "/graphics/registration/login_tagline.gif"
+			//,persona_url: "/life/community/persona.aspx"
+			//,blogs_url: "/life/community/persona.aspx?plckPersonaPage=PersonaBlog"
+			//,photos_url: "/life/community/persona.aspx?plckPersonaPage=PersonaPhotos"
+			,version: "3.4"
+			,coppaage: 13
+			,pp_url: "/privacy/"
+			,tos_url: "/terms/"
+			,faq_url: "/faq/"
+			,confirm_dest: "/default.aspx"
+			,feedback_url: "/company/contact/default.aspx"
+			,email_logo: "/graphics/mastlogo_email.gif"
+			,enable_saxotech: true
+			,saxotech_site_code: "C0"
+			,site_url:"www.ksdk.com"
+			,default_avatar: "/graphics/avatar.gif"
+			,auto_refresh:false
+		} 
+		,_ur = GEL.config.userreg = {
+			zag_form_url: "/common/v5/gel/lib/userauth/content/zag.html"
+			,zagurl: "/common/v5/gel/lib/userauth/content/zag.html"
+			,zagwhyurl: "/section/zagwhy"
+			,zagfaqurl: "/section/zagfaq"
+			,days: 30
+			,page_views: 3
+			,section_front: GEL.thepage.pageinfo.type
+			,MaxSessions: 10
+			,reg_site_code: "gntbcstksdk"
+			,occupation_required: false
+			,sessions: 2
+		} 
+		,_v = "";
+		if(!_c.app_name) { 
+			_c.app_name = "gmti";
+		}
+		if(!_c.host) {
+			_c.host = "newspaper.app30.ur.gcion.com"; 
+		}
+		for(var _g in _c) {
+			_v = _c[_g]; 
+			_g = "gdn_" + _g; 
+			window[_g] = _v; 
+		}
+		for(var _g in _ur) {
+			_v = _ur[_g]; 
+			_g = "gdn_" + _g; 
+			window[_g] = _v; 
+		}
+		
+		/*
+		GEL.thepage.initializer.addInitRoutine(	{ 
+			name: "userauthpreload", 
+			namespace: ["legacy.GDNpreload","social.socialprovider"],     
+			priority: 11,  
+			callback: function() { 
+				GDN.UA.Page.Load();
+				var options ={}; 
+				options.uatrackclicks=false;
+				options.loadjscontent=true;         
+				options.ualoadfastoption=false; 
+				options.ualoginpage = "/life/community/login.aspx";
+				options.uasigninpage = "/life/community/register.aspx";
+				GEL.util.uautil = new GEL.UserAuth(options);
+				GEL.util.uautil.uatrackclicks=false;
+				GEL.util.uautil.init();
+				var spoptions={};
+					spoptions.APIKey = '2_VMV046sw_0dwFewADnccl89g40UAoWY9ub43UJGvEoDDZ8tRJlWNHZptisDFSDAs'; 
+				GEL.util.sputil = new GEL.Socialprovider(spoptions);		
+				GEL.util.sputil.loadscript();
+			}
+		});
+		
+		GEL.thepage.initializer.addInitRoutine({ 
+		     name: "userauthpostload",
+			 namespace: ["legacy.GDNpostload"],     
+			 priority: 120,      
+			 callback: function(){          
+			 	GDN.Api.Register(function(){              
+					GEL.env.user.onLogin();
+				}, null, "Login");
+				GDN.Api.Register(function(){              
+					GEL.env.user.onLogout();          
+				}, null, "Logout");         
+				GDN.Autologin();
+				GDN.LoadFile("UI");      
+			GEL.thepage.on("ready", function(){              
+				_timer= setTimeout(init, 1000);         
+				});          
+				function init(){              
+					var _noneedzag=  (function(){                  
+						var _u = GEL.env.user;                 
+						return (_u.state || _u.yob || _u.zip || GEL.env.cookies.gcionid.values.status =="16") ? true : false;                 
+						})();             
+					if(!_noneedzag&&GEL.thepage.pageinfo.GO4TurnOffZag!=1) {          
+					GDN.UR.Page.Load();               
+					}         
+				}     
+			} 
+		});  
+		
+		GEL.thepage.initializer.addInitRoutine({      
+			name: "userauthlateload",     
+			priority: 300,      
+			callback: function(){            
+		
+			} 
+		}); 
+		*/
+		
+	})();
+	
+	//GEL.thepage.pageinfo.siteinstance=""; 
+	/* Anonymous function to initialize plunk API for the site on this page */       
+	//(function(){     
+		//var _i = GEL.thepage.pageinfo;     
+		//GEL.register("social.pluck.api", {          
+			//path: "http://sitelife"+_i.siteinstance+"."+_i.url.domainname+"/ver1.0/direct/javascriptsdkproxy",          
+			//depends:[],         
+			//requires:[],         
+			//type: 'script'}     
+		//); 
+		//GEL.register("social.pluck", { 
+			//path: "social/pluck/pluck.js", 
+			//depends: ['social.pluck.api'], 
+			//requires:[],
+			//type: 'script'}
+		//);
+	//})();    
+
+
+
+//    GEL.config.sitelifeurl = "http://sitelife." +_i.url.domainnam + "/ver1.0/Direct/Process?sid=sitelife" + _i.url.domainnam;
+	/* Ad Settings */
+	(function () {
+		var 
+		_c = GEL.config,
+		_a = [];
+		_c.gcion_section_front = "article"; 
+		_c.gdn_section_front = "article"; 
+
+		
+			_c.dfp = { syncrendering:true}; 
+			
+			_c.adprovider = "dfp";
+			
+			_c.dataservice = "http://aws.gannett.com/m?";
+			try{
+				eval('('+ 'GEL.thepage.bannerData =  {"dfp": { "networkid": "7103" },"siteid": "mo-stlouis-KSDK-B3325", "inventory": [ "mo-stlouis-KSDK-B3325","","news","",""], "pageType": ""}'+')');
+			}catch(e){
+				GEL.thepage.bannerData.error=e;
+			}
+		
+		
+
+		_c.AdServer = "gannett.gcion.com";
+		_c.AdNetworkId = 5111.1;
+		_c.AdPage = 'news.ksdk.com';
+		GEL.thepage.initializer.addInitRoutine({
+			name: "banners",
+			namespace: "widget.AdBanner",
+			callback: bannerFinder,
+			priority: 25
+		});
+		function bannerFinder() {
+			var 
+			_t = new GEL.util.benchmark.Timer("Banners").start(),
+			_bl = GEL.thepage.bannerLoader =
+				new GEL.widget.AdBanner.Locator(),
+			_bm = null;
+			_bl.findBanners();
+			_bm = _bl.loadBanners(
+				function () { return this.config.loadOnInit; },
+				null,
+				false
+		);
+			_bm.on("ready", _t.getStop());
+			this.addElement(_bm);
+		}
+	})();
+
+   
+	/* This is for backward compatibility */
+	window["OAS_AD"] = (function () {
+		var _sMap = document.getElementsByTagName("SCRIPT");
+		return function OAS_AD(pos, opts) {
+			opts = opts || {};
+			opts.position = pos;
+			var 
+		_me = _sMap[_sMap.length - 1],
+		_container = _container = GEL.ement("BANNER", opts)
+	;
+			_me.parentNode.insertBefore(_container.getElement(), _me);
+		}
+	})();    
+	GEL.thepage.pageinfo.admail={
+//    firsttime: false,
+//    enable: "",
+//    show: false,
+//    currentsubscriber: false
+	};
+</script>
+<meta property="fb:admins" content="100002679474592,768073508" />
+<meta property="fb:app_id" content="187455787981773" />      
+<meta name="robots" content="noodp">
+<meta name="robots" content="noydir"><meta property="og:site_name" content="ksdk.com" /><meta property="og:type" content="article" /><meta property="fb:app_id" content="187455787981773" /><meta property="fb:admins" content="100002679474592,768073508" /><meta name="category" content="news" /><meta property="og:title" content="Adolphus Busch IV resigns NRA membership  | ksdk.com" /><meta property="og:url" content="http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-" /><meta property="og:image" content="http://www.ksdk.com/Common/v5/graphics/icons/og-icon/ksdk.png" /><link rel="canonical" href="http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-"></link></head>
+<body>
+	
+	<div id="modalouter" class="modal-outer-inactive" style="display:none;"></div>   
+	<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+ 
+	<form method="post" action="KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-" id="frmMain">
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWBAIBD2QWAgIED2QWBGYPFgIeB1Zpc2libGVnZAICDxYCHwBnZAIFD2QWBAIBD2QWAgIBD2QWAmYPFgIfAGdkAg4PFgIfAGdkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBTBjdGwwMCRIZWFkZXIkUHJpbWFyeU5hdmlnYXRpb24kUHJpbWFyeU5hdmlnYXRpb24FGmN0bDAwJGZvb3RlciRGb290ZXJTaXRlbWFwMUZ0ezgdBVqN/9qLZoOLuU2l2BrzSltu/VBCSIAt+Ww=" />
+
+
+<script src="/ScriptResource.axd?d=9t5m29RqXhI_cqZhc2D5k7SD40WF8v-Ilmfo1EcwkHGbdp-FHYNtQg67hGGHFGDI5BhfebrhcVyKUUOJvf1nRVUMmOTVJzw0yjdch9xTu0YevBcCbB4Lce7K4kmcmRb_mW3JceifNK2HDyaGT1KYOa-KuGw3B4v4dR5E1455AaI1&amp;t=40d258c3" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLHtKi2BwLgpOymBjAB+j7NIO6l5E3oxnuPxASIB/wqdnsNyZSZYodP43en" />
+		<input type="hidden" name="ctl00$ScriptManager" id="ScriptManager" />
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.setServerId("ScriptManager", "ctl00$ScriptManager");
+Sys.Application._enableHistoryInScriptManager();
+//]]>
+</script>
+	
+		
+<div id="gtv_header">
+	<div id="gtv_masthead">
+		<div id="gtv_weatherbg" style="background:url(/graphics/header/weather/dayfog.jpg) no-repeat 0px;">
+<div id="gtv_marketplacenav">
+<ul>
+        <li><a href="/news/investigative/default.aspx" target="">Investigations</a></li>
+    
+        <li><a href="/news/difference/default.aspx" target="">Making A Difference</a></li>
+    
+        <li><a href="/5onyourside" target="">5 On Your Side</a></li>
+    
+        <li><a href="http://www.ksdk.com/company/contact/" target="">Newstips</a></li>
+    </ul>
+</div>
+</div>
+		<div id="gtv_masthead_logo_container">
+			<div id="gtv_masthead_logo"><a href="/default.aspx"><img id="Header_imgLogo" src="/graphics/header/logo.gif" /></a></div>
+			<div id="gtv_masthead_branding"></div>
+		</div>
+		<div id="gtv_masthead_lower_container">
+			<div id="gtv_nav_container"><div id="ctl00_Header_PrimaryNavigation_PrimaryNavigation" class="RadMenu RadMenu_gtv rmSized">
+	<!-- 2010.2.826.40 --><ul class="rmRootGroup rmShadows rmHorizontal">
+		<li class="rmItem rmFirst"><a href="/default.aspx" class="rmLink rmRootLink"><span class="rmText">Home</span></a></li><li class="rmItem "><a href="/news/default.aspx" class="rmLink rmRootLink"><span class="rmText">News</span></a><div class="rmSlide">
+			<ul class="rmMultiColumn">
+				<li class="rmGroupColumn rmFirstGroupColumn"><ul class="rmVertical rmGroup rmLevel1 rmMultiGroup">
+					<li class="rmItem rmFirst rmLast rmTemplate"><div class="rmText">
+						
+                        
+<div class="subNav_Left">
+    <ul>
+            <li>
+                <a href="/news/local/default.aspx"><span class="rmText">Local News</span></a>
+            </li>
+        
+            <li>
+                <a href="/money/default.aspx"><span class="rmText">Business News</span></a>
+            </li>
+        
+            <li>
+                <a href="/news/crime/default.aspx"><span class="rmText">Crime News</span></a>
+            </li>
+        
+            <li>
+                <a href="/news/5_on_your_side/"><span class="rmText">5 On Your Side</span></a>
+            </li>
+        
+            <li>
+                <a href="/news/health/default.aspx"><span class="rmText">Health News</span></a>
+            </li>
+        
+            <li>
+                <a href="/news/watercooler/default.aspx"><span class="rmText">Hot Topics</span></a>
+            </li>
+        
+            <li>
+                <a href="/news/investigative/default.aspx"><span class="rmText">Investigations</span></a>
+            </li>
+        
+            <li>
+                <a href="/news/regional/default.aspx"><span class="rmText">Illinois News</span></a>
+            </li>
+        
+            <li>
+                <a href="/news/difference/default.aspx"><span class="rmText">Making A Difference</span></a>
+            </li>
+        
+            <li>
+                <a href="http://www.ksdk.com/news/govt_politics/"><span class="rmText">Politics</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/community/pets/default.aspx"><span class="rmText">Sammy's Stars</span></a>
+            </li>
+        
+            <li>
+                <a href="/news/world/default.aspx"><span class="rmText">U.S. & World News</span></a>
+            </li>
+        </ul>
+</div>
+
+<div class="gtv_subnav_right">
+	<p class="latestHeadlines">Latest Headlines</p>
+    
+
+
+
+        <div class="gtv_menu_imgcontainer_140">
+<img src="/images/video/80/60/2/1/urlbcdownload.gannett.edgesuite.net/ksdk/35121359001/201309/35121359001_2706719814001_th-52497693e4b0625904b095bb-1592194028001.jpg" height="60" width="80" alt="On this weeks Manly Monday segment on Today in St. Louis, our Ryan Dean went to find the best Tailgaters in St. Louis." class="" style="float:left;" /></div>
+        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/400211/3/These-Rams-fans-know-how-to-tailgate">These Rams fans know how to tailgate</a></h3>
+        <p class="gtv_menu_topstory_abstract">On this week's "Manly Monday" segment on 'Today in St. Louis,' our Ryan Dean ...</p>
+    
+        <div class="gtv_clear"></div>
+    
+        <div class="gtv_menu_imgcontainer_140">
+<img src="/images/80/60/2/assetpool/images/130925042957_cardinals-nationals.jpg" height="60" width="80" alt="The St. Louis Cardinals swept the Nationals Wednesday with a 4-1 win.  (Photo by Jeff Curry/Getty Images) " class="" style="float:left;" /></div>
+        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/400212/3/Cardinals-playoff-games-offer-economic-boost-for-city">Cardinals playoff games offer economic boost for city</a></h3>
+        <p class="gtv_menu_topstory_abstract">Sunday's win didn't just clinch the Cardinals home-field advantage in the ...</p>
+    
+        <div class="gtv_clear"></div>
+    
+        <div class="gtv_menu_imgcontainer_140">
+<img src="/images/video/80/60/2/1/urlbcdownload.gannett.edgesuite.net/ksdk/35121359001/201309/35121359001_2703157185001_th-52478276e4b0625904b084c8-672293877001.jpg" height="60" width="80" alt="Watch Tracy Clemons Story Here:" class="" style="float:left;" /></div>
+        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/400077/3/17-East-St-Louis-firefighters-face-layoffs-today">17 East St. Louis firefighters face layoffs today</a></h3>
+        <p class="gtv_menu_topstory_abstract">More than a dozen East St. Louis firefighters are set to lose their jobs, ...</p>
+    
+
+
+
+
+</div>
+
+                    
+					</div></li>
+				</ul></li>
+			</ul>
+		</div></li><li class="rmItem "><a href="/weather/default.aspx" class="rmLink rmRootLink"><span class="rmText">Weather</span></a><div class="rmSlide">
+			<ul class="rmMultiColumn">
+				<li class="rmGroupColumn rmFirstGroupColumn"><ul class="rmVertical rmGroup rmLevel1 rmMultiGroup">
+					<li class="rmItem rmFirst rmLast rmTemplate"><div class="rmText">
+						
+                        
+<div class="subNav_Left">
+    <ul>
+            <li>
+                <a href="/weather/conditions/multiday_forecast/default.aspx"><span class="rmText">7-Day Forecast</span></a>
+            </li>
+        
+            <li>
+                <a href="/weather/conditions/current/alerts.aspx"><span class="rmText">Alerts</span></a>
+            </li>
+        
+            <li>
+                <a href="/weather/conditions/current/conditions.aspx"><span class="rmText">Forecast Conditions</span></a>
+            </li>
+        
+            <li>
+                <a href="/weather/radar/default.aspx"><span class="rmText">Radar</span></a>
+            </li>
+        
+            <li>
+                <a href="/services/default.aspx"><span class="rmText">E-Updates</span></a>
+            </li>
+        
+            <li>
+                <a href="/weather/severe_weather/cancellations_closings/default.aspx"><span class="rmText">School Closings</span></a>
+            </li>
+        
+            <li>
+                <a href="/weather/tropics/default.aspx"><span class="rmText">Tracking the Tropics</span></a>
+            </li>
+        
+            <li>
+                <a href="/weather/severe_weather/resources/default.aspx"><span class="rmText">Severe Weather Guide</span></a>
+            </li>
+        
+            <li>
+                <a href="/video/weather/ondemand/default.aspx"><span class="rmText">Forecast On Demand</span></a>
+            </li>
+        
+            <li>
+                <a href="/weather/conditions/webcams/40.aspx"><span class="rmText">Weather Cameras</span></a>
+            </li>
+        </ul>
+</div>
+
+                    
+					</div></li>
+				</ul></li>
+			</ul>
+		</div></li><li class="rmItem "><a href="/sports/default.aspx" class="rmLink rmRootLink"><span class="rmText">Sports</span></a><div class="rmSlide">
+			<ul class="rmMultiColumn">
+				<li class="rmGroupColumn rmFirstGroupColumn"><ul class="rmVertical rmGroup rmLevel1 rmMultiGroup">
+					<li class="rmItem rmFirst rmLast rmTemplate"><div class="rmText">
+						
+                        
+<div class="subNav_Left">
+    <ul>
+            <li>
+                <a href="http://www.usatodayhss.com/st-louis/"><span class="rmText">USATodayHSS.com</span></a>
+            </li>
+        
+            <li>
+                <a href="/sports/golf/senior_pga/default.aspx"><span class="rmText">Golf</span></a>
+            </li>
+        
+            <li>
+                <a href="/sports/college/default.aspx"><span class="rmText">Mizzou Tigers</span></a>
+            </li>
+        
+            <li>
+                <a href="/sports/motor_sports/default.aspx"><span class="rmText">NASCAR</span></a>
+            </li>
+        
+            <li>
+                <a href="/sports/pro_basketball/default.aspx"><span class="rmText">NBA</span></a>
+            </li>
+        
+            <li>
+                <a href="/sports/olympics/default.aspx"><span class="rmText">Olympics</span></a>
+            </li>
+        
+            <li>
+                <a href="/sports/pro_hockey/default.aspx"><span class="rmText">St. Louis Blues</span></a>
+            </li>
+        
+            <li>
+                <a href="http://bit.ly/fRXEJg"><span class="rmText">Spring Training</span></a>
+            </li>
+        
+            <li>
+                <a href="/sports/pro_baseball/default.aspx"><span class="rmText">St. Louis Cardinals</span></a>
+            </li>
+        
+            <li>
+                <a href="/sports/pro_football/default.aspx"><span class="rmText">St. Louis Rams</span></a>
+            </li>
+        
+            <li>
+                <a href="/sports/tennis/default.aspx"><span class="rmText">Tennis</span></a>
+            </li>
+        
+            <li>
+                <a href="http://seatgeek.com/st-louis-missouri-sports-tickets"><span class="rmText"><img src='/common/v5/graphics/icons/icon_tix.png' align='left' style='padding-right:5px;' border='0'/> Buy Tickets</span></a>
+            </li>
+        </ul>
+</div>
+
+<div class="gtv_subnav_right">
+	<p class="latestHeadlines">Latest Headlines</p>
+    
+
+
+
+        <div class="gtv_menu_imgcontainer_140">
+<img src="/images/80/60/2/assetpool/images/130929051740_Kelly.jpg" height="60" width="80" alt="" class="" style="float:left;" /></div>
+        <h3 class="gtv_menu_headline_topstory"><a href="/sports/article/400147/6/Cards-wrap-up-NLs-best-record-with-shutout-in-finale">Cards wrap up N.L.'s best record with shutout in finale</a></h3>
+        <p class="gtv_menu_topstory_abstract">The St. Louis Cardinals clinched home-field advantage throughout the National ...</p>
+    
+        <div class="gtv_clear"></div>
+    
+        <div class="gtv_menu_imgcontainer_140">
+<img src="/images/80/60/2/assetpool/images/130705115103_westbrook.jpg" height="60" width="80" alt="" class="" style="float:left;" /></div>
+        <h3 class="gtv_menu_headline_topstory"><a href="/sports/article/400122/6/Cards-nearing-home-field-advantage-wrap-up-set-with-Cubs">Cards nearing home-field advantage, wrap up set with Cubs</a></h3>
+        <p class="gtv_menu_topstory_abstract">With a chance to secure home-field advantage throughout the National League ...</p>
+    
+        <div class="gtv_clear"></div>
+    
+        <div class="gtv_menu_imgcontainer_140">
+<img src="/images/80/60/2/assetpool/images/130922093643_Pirates.jpg" height="60" width="80" alt="Sep 21, 2013; Pittsburgh, PA, USA; Pittsburgh Pirates relief pitcher Jason Grilli (39) and catcher Russell Martin (55) celebrate after defeating the Cincinnati Reds at PNC Park. The Pittsburgh Pirates won 4-2. Mandatory Credit: Charles LeClaire-USA TODAY Sports" class="" style="float:left;" /></div>
+        <h3 class="gtv_menu_headline_topstory"><a href="/sports/article/400118/6/Pirates-Reds-end-series-before-wild-card-showdown">Pirates, Reds end series before wild card showdown</a></h3>
+        <p class="gtv_menu_topstory_abstract">After having secured home-field advantage for next week's wild card playoff ...</p>
+    
+
+
+
+
+</div>
+
+                    
+					</div></li>
+				</ul></li>
+			</ul>
+		</div></li><li class="rmItem "><a href="/video/default.aspx" class="rmLink rmRootLink"><span class="rmText">Video</span></a><div class="rmSlide">
+			<ul class="rmMultiColumn">
+				<li class="rmGroupColumn rmFirstGroupColumn"><ul class="rmVertical rmGroup rmLevel1 rmMultiGroup">
+					<li class="rmItem rmFirst rmLast rmTemplate"><div class="rmText">
+						
+                        
+<div class="subNav_Left">
+    <ul>
+            <li>
+                <a href="/news/archive2.aspx"><span class="rmText">Archive Video</span></a>
+            </li>
+        
+            <li>
+                <a href="/video/live/default.aspx"><span class="rmText">Live Newscasts</span></a>
+            </li>
+        
+            <li>
+                <a href="/video/promos/default.aspx"><span class="rmText">KSDK Promos</span></a>
+            </li>
+        
+            <li>
+                <a href="/video/nbc_episode.aspx"><span class="rmText">NBC Full Episode Player</span></a>
+            </li>
+        
+            <li>
+                <a href="http://www.ksdk.com/life/community/photogallery.aspx"><span class="rmText">Photo Galleries</span></a>
+            </li>
+        
+            <li>
+                <a href="/video/viewer/default.aspx"><span class="rmText">Upload your video</span></a>
+            </li>
+        
+            <li>
+                <a href="/video/pets/default.aspx"><span class="rmText">Fun Pet Videos</span></a>
+            </li>
+        </ul>
+</div>
+
+                    
+					</div></li>
+				</ul></li>
+			</ul>
+		</div></li><li class="rmItem "><a href="/life/community/default.aspx" class="rmLink rmRootLink"><span class="rmText">Connect</span></a><div class="rmSlide">
+			<ul class="rmMultiColumn">
+				<li class="rmGroupColumn rmFirstGroupColumn"><ul class="rmVertical rmGroup rmLevel1 rmMultiGroup">
+					<li class="rmItem rmFirst rmLast rmTemplate"><div class="rmText">
+						
+                        
+<div class="subNav_Left">
+    <ul>
+            <li>
+                <a href="/life/community/adoption/default.aspx"><span class="rmText">A Place To Call Home</span></a>
+            </li>
+        
+            <li>
+                <a href="/forms/appearance_request.aspx"><span class="rmText">Appearance Requests</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/community/health/default.aspx"><span class="rmText">Friend To Friend</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/community/gannett_foundation/"><span class="rmText">Gannett Foundation</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/community/mda/default.aspx"><span class="rmText">MDA</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/community/health/race_for_the_cure/default.aspx"><span class="rmText">Race for The Cure</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/community/window/default.aspx"><span class="rmText">Window Guests</span></a>
+            </li>
+        </ul>
+</div>
+
+                    
+					</div></li>
+				</ul></li>
+			</ul>
+		</div></li><li class="rmItem "><a href="/life/programming/default.aspx" class="rmLink rmRootLink"><span class="rmText">Shows</span></a><div class="rmSlide">
+			<ul class="rmMultiColumn">
+				<li class="rmGroupColumn rmFirstGroupColumn"><ul class="rmVertical rmGroup rmLevel1 rmMultiGroup">
+					<li class="rmItem rmFirst rmLast rmTemplate"><div class="rmText">
+						
+                        
+<div class="subNav_Left">
+    <ul>
+            <li>
+                <a href="/life/programming/droz/default.aspx"><span class="rmText">Dr. Oz Show</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/programming/information.aspx"><span class="rmText">KSDK Show Information</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/programming/local_info.aspx"><span class="rmText">Local Programming</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/programming/nbc.aspx"><span class="rmText">NBC Shows</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/programming/local/showme/default.aspx"><span class="rmText">Show Me St. Louis</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/programming/local/tisl/default.aspx"><span class="rmText">Today In St. Louis</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/programming/frontline_for_hope/default.aspx"><span class="rmText">The Frontline for Hope</span></a>
+            </li>
+        
+            <li>
+                <a href="http://affiliate.zap2it.com/tvlistings/ZCSGrid.do?aid=aaj"><span class="rmText">TV Listings</span></a>
+            </li>
+        </ul>
+</div>
+
+                    
+					</div></li>
+				</ul></li>
+			</ul>
+		</div></li><li class="rmItem rmLast"><a href="/life/advertorial/default.aspx" class="rmLink rmRootLink"><span class="rmText">Features</span></a><div class="rmSlide">
+			<ul class="rmMultiColumn">
+				<li class="rmGroupColumn rmFirstGroupColumn"><ul class="rmVertical rmGroup rmLevel1 rmMultiGroup">
+					<li class="rmItem rmFirst rmLast rmTemplate"><div class="rmText">
+						
+                        
+<div class="subNav_Left">
+    <ul>
+            <li>
+                <a href="http://www.careerbuilder.com/?lr=cbga_ksd&siteid=gaksd001"><span class="rmText">Careerbuilder</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/advertorial/contests/"><span class="rmText">Contests</span></a>
+            </li>
+        
+            <li>
+                <a href="http://search.askarchy.com/sp?skin=200&aff=1170"><span class="rmText">Coupons</span></a>
+            </li>
+        
+            <li>
+                <a href="/news/salutes/default.aspx"><span class="rmText">Salutes</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/programming/local/jeopardy_exp/default.aspx"><span class="rmText">Jeopardy EXP Game</span></a>
+            </li>
+        
+            <li>
+                <a href="/life/advertorial/summer_camp/default.aspx"><span class="rmText">Summer Camp Guide</span></a>
+            </li>
+        </ul>
+</div>
+
+                    
+					</div></li>
+				</ul></li>
+			</ul>
+		</div></li>
+	</ul><input id="ctl00_Header_PrimaryNavigation_PrimaryNavigation_ClientState" name="ctl00_Header_PrimaryNavigation_PrimaryNavigation_ClientState" type="hidden" />
+</div>
+
+
+
+
+
+
+</div>
+		</div>
+		<div id="gtv_subnav_container">
+			<div id="login-container" class="login-container"></div>
+			<div id="gtv_subnav_rightcontainer">
+				
+						<ul>
+						<li><strong>FEATURED:</strong></li>
+					
+						<li><a href="/travel/traffic/commuter_dude/default.aspx">Commuter Dude</a></li>
+					
+						<li><a href="/travel/traffic/default.aspx">Traffic</a></li>
+					
+						<li><a href="/life/community/photogallery.aspx">Photos</a></li>
+					
+						<li><a href="/news/salutes/default.aspx">Salutes</a></li>
+					
+						<li><a href="/franklyspeaking">Frankly Speaking</a></li>
+					
+						</ul>
+					
+				<div id="gtv_pd_search">
+						<div id="search-wrapper">
+							<div id="search_border">
+							<input id="searchbox-footer" type="text" size="34" maxlength="34"/>
+							<button class="button" onclick="return submitFormActionFooter()" type="submit"> Search</button>
+							</div>
+						</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<style>
+.gtv_webalerts a {padding-left:395px; line-height:27px; font-size:18px; font-weight:bold; color:white;}
+.gtv_webalert_alertblue_container {background: url(/common/v5/graphics/webalerts/blueAlertBG.jpg); background-color: #003782; width: 100%; margin:auto; height:35px;}
+.gtv_webalert_alertblue_container a {line-height:35px; font-size:18px; font-weight:bold; color: #FFFFFF;}
+</style>
+<div class="gtv_clear" />
+
+
+
+
+<!--  -->
+
+
+
+
+ 
+
+		<div class="gtv_padding10_0_20_0">
+			<div id="gtv_penad_container">
+				<banner position="728x90_1"></banner>
+			</div>
+		</div>  
+		<input type="hidden" name="ctl00$hdnBitlyUrl" id="hdnBitlyUrl" value="random" />
+		<div id="gtv_content">
+			<div id="gtv_headline_container">
+				<h1>Adolphus Busch IV resigns NRA membership </h1>
+				
+					<h6>
+					6:29 PM, Apr 18, 2013
+					&nbsp;&nbsp;|&nbsp;&nbsp;<a class="gtv_comment" href="/comments/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-"><span id="Span1" class="gslCommentsCount"></span>
+					<fb:comments-count href=http://www.ksdk.com/news/comments.aspx?storyid=376098></fb:comments-count>
+					&nbsp;comments</a>
+					</h6>    
+			   
+			</div>
+			<div id="IE6fix" style="float: left;">
+			<div id="gtv_leftcolumn">
+				  <script type="text/javascript">
+					  var SimpleReach_date = ('2013-04-18T15:24:53');
+					  var SimpleReach_categories = new Array('Headlines','Business News','Politics','I-Team Investigations');
+					  var SimpleReach_CanonicalURL = 'http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-';
+					  var SimpleReach_Title = 'KSDK Exclusive Adolphus Busch IV resigns NRA membership ';
+				  </script>	
+					
+					
+<script type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+<script language="javascript" type="text/javascript">
+	var BCSetting = {};
+	BCSetting.overlayson = true;
+	BCSetting.publisherID = "35121359001";
+	BCSetting.omnitureAccountID = "gntbcstksdk,gntbcstglobal";
+	BCSetting.marketName = "St. Louis, MO:ksdk";
+	BCSetting.SSTS = "";
+	BCSetting.immersiveBaseURL = "http://www.ksdk.com/video/default.aspx?bctid=";	
+			
+	(function (){                
+	  var pageInfo= GEL.namespace("thepage.pageinfo"),
+	  size=[640,480];
+	
+	  GEL.thepage.initializer.addInitRoutine({
+	   name:"loadVideo",
+	   namespace:["widget.AdBanner"],
+	   callback:loadVastUrl,
+	   priority:205
+	});
+
+	function loadVastUrl(){
+	   dfpBanner= new (GEL.thepage.bannerLocator.getProvider())({
+	   position: 'Video_prestream', 
+	   size: size.join("x")  
+	}); 
+															
+	dfpBanner.setKeyvalues({companion: "no"}).getVideoUrl(function(u){ 
+	BCSetting.adServerURL = u; 
+	GEL.log("bc="+BCSetting.adServerURL);
+	});
+	}
+	})();
+	
+	BCSetting.adServerURL = "http://pubads.g.doubleclick.net/gampad/ads?env=vp&gdfp_req=1&impl=s&output=xml_vast2&iu=7103/mo-stlouis-KSDK-B3325/Video_prestream&sz=640x480&unviewed_position_start=1&ciu_szs=300x250&"
+			
+</script>
+
+<div id="ArticleVideo-2310772346001"><img id="VideoImage" src="/images/video/640/360/2/1/urlbcdownload.gannett.edgesuite.net/ksdk/35121359001/35121359001_2310777519001_vs-51707eb2e4b07d1f31b39659-806787304001.jpg" onclick="GTVLoadPlayer('ArticleVideo-2310772346001', '2310772346001', '1811591071001', '640', '360')" /></div>
+<script type="text/javascript">
+	var BCGannett;
+	BCGannett = new PlayerBC();
+	function onTemplateLoaded(pExperienceID) {
+		BCGannett.playerAPIInit(pExperienceID);
+	}
+	
+		
+			BCSetting.AutoLoad = "true";
+			GTVLoadPlayer('ArticleVideo-2310772346001', '2310772346001', '1811591071001', '640', '360')
+		
+</script>
+					
+					<div id="gtv_article_container">
+
+					
+					<div class="gtv_socialToolsArticle">
+						<div style="padding-top: 10px; padding-bottom:10px;"><div style="border-top:1px dashed #CCCCCC;"></div></div>
+						<div style="height:20px;">
+							<ul style="padding: 0px; margin: 0px;">
+						
+						  <!-- <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> -->
+						  
+						  
+						 						
+						  <li style="display: inline; list-style: none; float: left;">
+							  <fb:like 
+								  href='http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-'
+								  send="false" 
+								  layout="button_count" 
+								  width="90" 
+								  show_faces="false" 
+								  action="recommend"
+								  font="" 
+								  ref="artsharetop">
+								</fb:like>
+							</li>
+						  <li style="display: inline; list-style: none; float: left;">
+							  <a href='http://twitter.com/share?url=http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-'
+								  class="twitter-share-button" 
+								  data-count="horizontal" data-via="ksdknews">
+								  Tweet
+							  </a>
+						  </li>
+						  <li style="display: inline; list-style: none; float: left;">
+							  <g:plusone size="medium" href="http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-" >
+							  </g:plusone>
+						  </li>
+						  <li style="display: inline; list-style:none; float:left; padding-right:10px;">
+                              <a data-pin-config="beside" onclick="window.open(this.href, 'signin', 'height=300,width=665'); return false" href="//pinterest.com/pin/create/button/?url=http%3a%2f%2fwww.ksdk.com%2fnews%2farticle%2f376098%2f3%2fKSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-&media=http%3a%2f%2fwww.ksdk.com%2fimages%2fvideo%2f640%2f360%2f2%2f1%2furlbcdownload.gannett.edgesuite.net%2fksdk%2f35121359001%2f35121359001_2310777519001_vs-51707eb2e4b07d1f31b39659-806787304001.jpg&description=Adolphus+Busch+IV+resigns+NRA+membership+" data-pin-do="buttonPin" ><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a>
+						  </li>
+						  <li style="display: inline; list-style: none; float: left;"><a href="javascript:displaySharingLayer();"><img src="/common/v5/graphics/icons/icnShareNetworkGray.gif" height="20" width="21" border="0" alt="Share" /></a>
+							<div id="sharinglayer" style="display: none;" class="sharinglayer" onmouseover="cancelCloseTime()" onmouseout="closeTime()">
+							<ul>
+							
+							<li id="gtv_sharinglayer_fb">
+									  <a href="http://www.facebook.com/share.php?u=http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-" target="_blank" class="gtv_socialToolBar">Facebook</a>
+							</li>
+							
+							<li id="gtv_sharinglayer_twitter">
+									  <a href="http://twitter.com/home?status=Currently reading http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-" title="Click to share this post on Twitter" target="_blank" class="gtv_socialToolBar">Twitter</a>
+							</li>
+							
+							<li id="gtv_sharinglayer_google">
+									  <a href="http://www.google.com/reader/link?url=&amp;title=&srcURL=http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-" target="_blank" class="gtv_socialToolBar">Google buzz</a>
+							</li>
+							
+							<li id="gtv_sharinglayer_delicious">
+									  <a href="http://delicious.com/save" class="gtv_socialToolBar" onclick="window.open('http://delicious.com/save?v=5&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550'); return false;" target="_blank">Del.icio.us</a>
+							</li>
+							
+							<li id="gtv_sharinglayer_digg">
+									  <a href="http://digg.com/submit?url=http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-&amp;title=" target="_blank" class="gtv_socialToolBar">Digg</a>
+							</li>
+							
+							<li id="gtv_sharinglayer_reddit">
+									  <a href="http://reddit.com/submit?url=http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-" title="Share this story to Reddit" target="_blank" class="gtv_socialToolBar">Reddit</a>
+							</li>
+							
+							<li id="gtv_sharinglayer_newsvine">
+									  <a href="javascript:void(0)" class="gtv_socialToolBar" onclick="window.open('http://www.newsvine.com/_wine/save?popoff=1&u=http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-','newsvine','toolbar=no,width=590,height=600,resizable=yes,scrollbars=yes')" target="_blank">Newsvine</a>
+							</li>							
+							<li id="gtv_sharinglayer_buzzup">
+									  <a href="http://buzzup.com/us/submit.php" target="_blank">Buzz up!</a>
+							</li>
+							
+							<li id="gtv_sharinglayer_fark">
+									  <a href="http://www.fark.com/cgi/farkit.pl?u=http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-&h=" target="_blank">Fark it</a>
+							</li>
+							</ul>
+						</div>
+						  </li>
+						<style>
+							#gtv_sharinglayer_fb:hover, #gtv_sharinglayer_twitter:hover, #gtv_sharinglayer_google:hover, #gtv_sharinglayer_delicious:hover, #gtv_sharinglayer_digg:hover, #gtv_sharinglayer_reddit:hover, #gtv_sharinglayer_newsvine:hover, #gtv_sharinglayer_buzzup:hover, #gtv_sharinglayer_fark:hover   { background-color: #dfdfdf; }
+						  </style>
+						
+						<li style="display: inline; list-style: none; float: left;">
+							<div id="divEmailPopUp">
+                                <a onclick="window.open('','email','resizable=yes,scrollbars=no,width=400,height=350')" target="email" title="Email" href="/email.aspx"><img src="/common/v5/graphics/icons/icnShareEmailGray.gif" height="20" width="21" border="0" alt="Email" /></a>			
+                                </div>
+						</li>						
+						<li style="display: inline; list-style: none; float: left;">
+								<a href="#" onclick="FDCPUrl('http://www.ksdk.com/print.aspx?storyid=376098', true); return false;"><img src="/common/v5/graphics/icons/icnSharePrintGray.gif" height="20" width="21" border="0" alt="Print" /></a>
+						</li>						  
+						<li style="display: inline; list-style: none; float: left;">
+						<span style="padding-left:20px; margin-top:5px; vertical-align:top;">
+						  <span style="text-align: center; vertical-align:middle; padding:0px 4px 0px 4px; border:1px solid #D7D7D7;"><a href="javascript:article_DecreaseFontsize();">-</a></span>
+						  <span style="font-size: 12px; vertical-align:middle; margin-top: 3px;">A</span>
+						  <span style="font-size: 14px; vertical-align:middle; margin-top: 2px;"><strong>A</strong></span>
+						  <span style="font-size: 15px; vertical-align:middle; margin-top: 2px">A</span>
+						  <span  style="text-align: center; vertical-align:middle; padding:0px 3px 0px 3px; border:1px solid #D7D7D7;"><a href="javascript:article_IncreaseFontsize();">+</a></span>
+						</span></li>
+						
+						</ul>
+						
+						</div>
+					  </div>
+									
+					<div style="clear:both;padding-top:10px;"></div>
+					<div style="border-bottom: 1px dashed #CCCCCC;"></div>
+					<div style="padding-top:10px;"></div>
+					
+					
+					
+					
+
+					<div class="gtv_breakoutSM" style="margin-top: 20px;">
+						
+<script type="text/javascript">
+   var SimpleReach_authors = new Array('Kevin Held','Leisa Zigman');
+</script>
+
+		<div class="gtv_byline clearfix borB1">
+			
+			<h6></h6>
+			<span><a class="gtv_link_a" href="mailto:kheld@ksdk.com">Kevin Held</a></span>
+		</div>
+	
+		<div class="gtv_byline clearfix borB1">
+			
+			<h6></h6>
+			<span><a class="gtv_link_a" href="mailto:lzigman@ksdk.gannett.com">Leisa Zigman</a></span>
+		</div>
+	
+						<div class="filedunder clearfix" style="margin-bottom:10px">
+							
+									<ul id="gtv_article_list">
+										<li style="margin-bottom: 10px;" id="gtv_article">FILED UNDER</li>
+								<li><a href="/news/local/default.aspx" class="gtv_article_sidebarlinks">Headlines</a></li><li><a href="/money/default.aspx" class="gtv_article_sidebarlinks">Business News</a></li><li><a href="/news/investigative/default.aspx" class="gtv_article_sidebarlinks">I-Team Investigations</a></li></ul>
+						</div>
+						
+						
+					</div>
+<!--
+<div id="p360_left_wrapper" class="ody-asset-breakout">
+	   
+			<div class="p360-article">
+				<banner id="__gelement_adbanner_2" ganss="columnist" gans="sports" ganid="indystar" pageposition="left" p360id="91041742" adserver="content.pulse360.com" bannertype="p360" position="p360"></banner>
+			</div>
+</div>
+-->
+					
+						<div class="gtv_breakoutLG">
+							
+								
+        <div id="gtv_article_sidebar_container" style="margin-bottom: 20px;">
+    
+       <img src="http://www.ksdk.com/Common/graphics/logos/pdf_icon.png" align="absmiddle">&nbsp;<b>PDF Document:</b> <a href="http://www.ksdk.com/assetpool/documents/130418042829_Read Adolphus Busch IV's letter to NRA.pdf">Read Adolphus Busch IV's letter to NRA</a>
+    </div>
+<div id="extraHolder"></div>
+						</div>
+					
+					<p class="gtv_articlebody_container">
+						<p>
+							
+							<p>By <a href="mailto:lzigman@ksdk.com">Leisa Zigman</a>, I-Team Reporter </p>
+<p><strong>ST. LOUIS (KSDK)</strong> - One day after the U.S. Senate rejected a bill that would have expanded background checks on guns, one of St. Louis' most powerful and staunch supporters of gun rights ended his lifetime membership with the National Rifle Association (NRA). </p>
+<p>In an email sent exclusively to NewsChannel 5's Leisa Zigman, Adolphus Busch IV, an heir to the Busch family fortune, asked the gun rights group to "immediately" remove his name from its membership roles. </p>
+<p>An avid environmentalist and hunter, guns have been a part of Busch's life since he was a child. </p>
+<p>"It's something you never forget being able to be in the outdoors with your father," Busch said in a 2005 interview with KSDK. </p>
+<p>Busch, whose great-grandfather founded Anheuser-Busch, made clear his position on guns and the people who legally use them. </p>
+<p>"Hunters put back everything they take out and more," he said at the time. </p>
+<p>Now, the man who joined the NRA in 1975&nbsp;is cutting ties. </p>
+<p>In a letter addressed to NRA President David Keene, Busch writes, "It disturbs me greatly to see this rigid new direction of the NRA." </p>
+<p>"...One only has to ask why the NRA reversed its original position on background checks. Was it not the NRA position to support background checks when Mr. LaPierre himself stated in 1999 that NRA saw checks as 'reasonable'?" </p>
+<p>"...I fail to see how the NRA can disregard the overwhelming will of its members who see background checks as reasonable," Busch writes. </p>
+<p>On its website, the NRA fiercely opposed the Senate background check legislation, calling the amendment "misguided." It's clear from Busch's email he does not agree. </p>
+<p>"I am simply unable to comprehend how assault weapons and large capacity magazines have a role in your vision," he said. "The NRA I see today has undermined the values upon which it was established. Your current strategic focus clearly places priority on the needs of gun and ammunition manufacturers while disregarding the opinions of your 4 million individual members." </p>
+<p>"One only has to look at the makeup of the 75-member board of directors, dominated by manufacturing interests, to confirm my point. The NRA appears to have evolved into the lobby for gun and ammunition manufacturers rather than gun owners." </p>
+<p>NewsChannel 5 attempted to get comment from David Keene regarding Busch's letter, but we were told that he has yet to receive the letter and will not comment until he reads it.</p>
+<p>&nbsp;</p>
+							<p>
+							KSDK
+							</p>
+						</p>
+					</p>
+					<div class="clear"></div>
+					<div class="marB20 clearfix" style="margin-bottom: 2px;"></div>
+					<div class="gtv_articleComments" style="text-align: left; padding: 20px 0px 0px 0px; margin: 0px;">
+
+					<a class="gtv_commentsLG" href="/comments/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-">Comments
+					
+					(<fb:comments-count href=http://www.ksdk.com/news/comments.aspx?storyid=376098></fb:comments-count>)
+					
+					&nbsp;|&nbsp;Share your thoughts &raquo;</a>
+					</div>
+					
+
+
+<div id="taboola-leftcolumn-div"></div>
+<script type="text/javascript">
+(function(){
+	GEL.thepage.initializer.addInitRoutine({ 
+		name: "loadtaboola", 
+		callback:inittaboola, 
+		priority: 210
+	}); 
+	function inittaboola() {
+		var 
+			taboolaLoader = document.createElement('script')
+		;
+		document.getElementsByTagName('head')[0].appendChild(taboolaLoader);
+		if (taboolaLoader.attachEvent) // support Internet Explorer
+			taboolaLoader.attachEvent("onactivate", rboxReady);
+		else
+			taboolaLoader.addEventListener("activate", rboxReady, false);
+			taboolaLoader.type="text/javascript";
+			taboolaLoader.src="http://cdn.taboolasyndication.com/libtrc/gannett-ksdk/rbox.js?dynamic&article";
+		}
+		function rboxReady(evnt) {
+			TRC.loadRBox({
+				mode:'story-leftcolumn',
+				container:'taboola-leftcolumn-div'
+				},{mode:'story-bannerad',container:'taboola-ad'
+			});
+		}	
+})();					
+</script>
+<div class="ody-ob-taboola-wrapper">
+	<div class="ody-ob-wrapper">
+		<div class="ody-ob" id="ody-ob-up" style="width:440px;float:left; display:inline; ">
+			<!-- <h3>You Might Be Interested In</h3> -->
+			<div class="gtv_padding5"></div>
+			<div class="OUTBRAIN" data-src="http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-" data-widget-id="AR_2" data-ob-template="gannettbroadcast" ></div>
+			<div class="OUTBRAIN" data-src="http://www.ksdk.com/news/article/376098/3/KSDK-Exclusive-Adolphus-Busch-IV-resigns-NRA-membership-" data-widget-id="AR_3" data-ob-template="gannettbroadcast" ></div>
+			<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+			<div class="clear"></div>
+			<div id="taboola-ad"></div>
+		</div>
+		<script type="text/javascript">
+		jQuery(document).ready(function(){
+		jQuery.getScript("http://widgets.outbrain.com/outbrain.js");
+		});
+		
+		jQuery(window).load(function() {
+			var holder = jQuery(".OUTBRAIN:eq(1) .odb_li:eq(0)").detach();
+			jQuery(".OUTBRAIN:eq(0) .ob_dual_left ul").append(holder);
+		});
+		</script>
+		<style>
+			#outbrain_widget_1 {display: none;}
+		</style>
+	</div>
+</div>
+<div id="ob_sponsor_container_0"></div>
+ 
+
+</div>
+			</div>
+			<div id="gtv_rightcolumn">
+				<div class="gtv_300flex_container"><banner position="Flex_1"></banner></div>
+				<div class="gtv_padding15"></div>
+				<div class="gtv_rightcolumn_extras">
+					<h3>Most Viewed Articles</h3>
+					
+<div style="clear:both;"></div>
+
+<ul>
+        <li>
+            <div class="gtv_imgcontainer">
+<img src="/images/video/65/43/2/1/urlbcdownload.gannett.edgesuite.net/ksdk/35121359001/201309/35121359001_2705378338001_th-5248f897e4b0625904b08f2e-672293875001.jpg" height="43" width="65" alt="Car into Restaurant" class="" style="float:left;" /></div>
+            <a class="gtv_content_headlines" href="/news/article/400156/3/Car-slams-into-Crestwood-restaurant-2-injured-">Car slams into Crestwood restaurant, 2 injured </a>
+        </li>
+    
+        <li>
+            <div class="gtv_imgcontainer">
+<img src="/images/65/43/2/assetpool/images/110126105551_Accident.jpg" height="43" width="65" alt="" class="" style="float:left;" /></div>
+            <a class="gtv_content_headlines" href="/news/article/400148/3/James-Koch-killed-in-Lake-of-the-Ozarks-boating-accident">James Koch killed in Lake of the Ozarks boating accident</a>
+        </li>
+    
+        <li>
+            <div class="gtv_imgcontainer">
+<img src="/images/65/43/2/assetpool/images/130930034326_coffee.jpg" height="43" width="65" alt="" class="" style="float:left;" /></div>
+            <a class="gtv_content_headlines" href="/news/article/400189/3/BOGO-K-Cups-and-crazy-coffee-deals">BOGO K-Cups and crazy coffee deals</a>
+        </li>
+    
+        <li>
+            <div class="gtv_imgcontainer">
+<img src="/images/video/65/43/2/1/urlbcdownload.gannett.edgesuite.net/ksdk/35121359001/201309/35121359001_2705370964001_th-5248f6a2e4b0e4d4b4fffd0d-1592194017001.jpg" height="43" width="65" alt="Kay Quinn reports." class="" style="float:left;" /></div>
+            <a class="gtv_content_headlines" href="/news/article/400155/3/Wentzvilles-police-chief-is-one-of-few-female-chiefs-in-MO">Wentzville's police chief is one of few female chiefs in MO</a>
+        </li>
+    
+        <li>
+            <div class="gtv_imgcontainer">
+<img src="/images/65/43/2/assetpool/images/130930061336_Still0930_00039.jpg" height="43" width="65" alt="" class="" style="float:left;" /></div>
+            <a class="gtv_content_headlines" href="/news/article/400196/3/One-dead-three-injured-in-rollover-crash-at-East-Grand-and-North-Broadway">One dead, three injured in rollover crash at East Grand and North Broadway</a>
+        </li>
+    
+        <li><a href="/news/mostpopular.aspx">SEE MORE</a></li>
+        </ul>
+    
+				</div>
+				<div class="gtv_padding15"></div>
+				<div class="gtv_rightcolumn_extras">
+					<h3>Most Watched Videos</h3>
+					<ul>
+        <li><a href="http://www.ksdk.com/news/mostpopular.aspx">SEE MORE</a></li>
+        </ul>
+    
+				</div>
+				<div class="gtv_padding15"></div>
+				<div class="gtv_300x250_container">
+					
+<!-- KSDK ARTICLE PAGE -->
+
+<script type="text/javascript">
+<!--
+
+    OAS_url = 'http://oascentral.datasphere.com';
+    OAS_sitepage = 'ksdk/article';
+    OAS_pos = 'Frame2';
+    try {
+        OAS_query = 'KSDK_COMMUNITY=' + __dsns_.GetCookie('dsnscomm');
+    } catch (e) {
+        OAS_query = '';
+    }
+    var OAS_RN = new String(Math.random());
+    var OAS_RNS = OAS_RN.substring(2, 11);
+
+    document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_query + '"></scr' + 'ipt>');
+
+    // -->
+</script>
+<noscript>
+    <a href="http://oascentral.datasphere.com/RealMedia/ads/click_nx.ads/ksdk/article/@Frame2?">
+    <img src="http://oascentral.datasphere.com/RealMedia/ads/adstream_nx.ads/ksdk/article/@Frame2?" border="0">
+    </a>
+</noscript>
+
+				</div>
+				<div class="gtv_padding15"></div>
+				
+					<script type="text/javascript"><!--
+						google_ad_client = "pub-9305154137033334";
+						/* 300x250, created 9/9/09 */
+						google_ad_slot = "8679133871";
+						google_ad_width = 300;
+						google_ad_height = 250;
+						//-->
+					</script>
+					<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+						
+			</div>
+			<div style="clear: both;"></div>
+			</div>
+		</div>
+				<div class="gtv_padding15" style="clear: both;">&nbsp;</div>
+		
+		<div style="clear: both;"></div>
+		<div class="gtv_728x90_container">
+			<banner position="728x90_2"></banner>
+		</div>
+		<div style="clear: both;"></div>
+		
+<div style="clear: both;">
+</div>
+<div class="footer-bg">
+<div id="gtv_footer">
+	<div id="gtv_footer_branding">
+		<div id="gtv_footer_branding_layout">
+			<a href="/">
+				<img src="/graphics/footer/logo.gif" alt="" id="gtv_footer_logo" border="0" /></a>
+			<div id="gtv_footer_branding_links">
+				<a href="/sitemap.aspx">Site Map</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="#top">Back to
+					Top</a> <a href="#top">
+						<img src="/common/v5/graphics/icons/up_icon.gif" alt="back to top" id="gtv_icon_backtotop" /></a>
+			</div>
+		</div>
+		<div class="gtv_clear">
+		</div>
+	</div>
+</div>
+<div class="gtv_clear">
+</div>
+
+<div id="gtv_sitemap_container">
+	<div id="ctl00_footer_FooterSitemap" class="RadSiteMap RadSiteMap_GTV">
+	<ul class="rsmList rsmColumn rsmLevel rsmTwoLevels">
+		<li class="rsmItem"><a class="rsmLink" href="/default.aspx" title="St. Louis News">Home</a></li><li class="rsmItem"><a class="rsmLink" href="/news/default.aspx" title="Local News">News</a><ul class="rsmList rsmLevel1">
+			<li class="rsmItem"><a class="rsmLink" href="/news/local/default.aspx" title="St. Louis Local News">Local News</a></li><li class="rsmItem"><a class="rsmLink" href="/money/default.aspx" title="St. Louis Business News">Business News</a></li><li class="rsmItem"><a class="rsmLink" href="/news/crime/default.aspx" title="St. Louis Crime News">Crime News</a></li><li class="rsmItem"><a class="rsmLink" href="/news/5_on_your_side/">5 On Your Side</a></li><li class="rsmItem"><a class="rsmLink" href="/news/health/default.aspx" title="Health News ">Health News</a></li><li class="rsmItem"><a class="rsmLink" href="/news/watercooler/default.aspx" title="Latest News and Hot Topics">Hot Topics</a></li><li class="rsmItem"><a class="rsmLink" href="/news/investigative/default.aspx" title="St. Louis Investigative News">Investigations</a></li><li class="rsmItem"><a class="rsmLink" href="/news/regional/default.aspx">Illinois News</a></li>
+		</ul></li>
+	</ul><ul class="rsmList rsmColumn rsmLevel rsmTwoLevels">
+		<li class="rsmItem"><a class="rsmLink" href="/weather/default.aspx" title="St. Louis Weather">Weather</a><ul class="rsmList rsmLevel1">
+			<li class="rsmItem"><a class="rsmLink" href="/weather/conditions/multiday_forecast/default.aspx" title="7 Day Forecast for St. Louis">7-Day Forecast</a></li><li class="rsmItem"><a class="rsmLink" href="/weather/conditions/current/alerts.aspx" title="Midwest Weather Alerts">Alerts</a></li><li class="rsmItem"><a class="rsmLink" href="/weather/conditions/current/conditions.aspx" title="Midwest Weather Conditions">Forecast Conditions</a></li><li class="rsmItem"><a class="rsmLink" href="/weather/radar/default.aspx" title="St. Louis Weather Radar">Radar</a></li><li class="rsmItem"><a class="rsmLink" href="/services/default.aspx" title="Email News Updates">E-Updates</a></li><li class="rsmItem"><a class="rsmLink" href="/weather/severe_weather/cancellations_closings/default.aspx" title="Missouri School Closures">School Closings</a></li><li class="rsmItem"><a class="rsmLink" href="/weather/tropics/default.aspx" title="Hurricane and tropics coverage from KSDK.com">Tracking the Tropics</a></li><li class="rsmItem"><a class="rsmLink" href="/weather/severe_weather/resources/default.aspx" title="Severe Weather Glossary">Severe Weather Guide</a></li><li class="rsmItem"><a class="rsmLink" href="/video/weather/ondemand/default.aspx" title="First Alert Forecast on Demand">Forecast On Demand</a></li><li class="rsmItem"><a class="rsmLink" href="/weather/conditions/webcams/40.aspx">Weather Cameras</a></li>
+		</ul></li><li class="rsmItem"><a class="rsmLink" href="/sports/default.aspx" title="St. Louis Sports News">Sports</a><ul class="rsmList rsmLevel1">
+			<li class="rsmItem"><a class="rsmLink" href="http://www.usatodayhss.com/st-louis/" title="USAToday High School Sports">USATodayHSS.com</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/golf/senior_pga/default.aspx" title="PGA Golf News">Golf</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/college/default.aspx" title="Missouri Tigers Headlines">Mizzou Tigers</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/motor_sports/default.aspx" title="NASCAR News">NASCAR</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/pro_basketball/default.aspx" title="NBA Basketball">NBA</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/olympics/default.aspx" title="2012 Olympics News">Olympics</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/pro_hockey/default.aspx">St. Louis Blues</a></li><li class="rsmItem"><a class="rsmLink" href="http://bit.ly/fRXEJg">Spring Training</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/pro_baseball/default.aspx" title="St. Louis Cardinals News">St. Louis Cardinals</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/pro_football/default.aspx" title="St. Louis Rams News">St. Louis Rams</a></li>
+		</ul></li>
+	</ul><ul class="rsmList rsmColumn rsmLevel rsmTwoLevels">
+		<li class="rsmItem"><a class="rsmLink" href="/video/default.aspx" title="St. Louis Videos">Video</a><ul class="rsmList rsmLevel1">
+			<li class="rsmItem"><a class="rsmLink" href="/news/archive2.aspx">Archive Video</a></li><li class="rsmItem"><a class="rsmLink" href="/video/live/default.aspx">Live Newscasts</a></li><li class="rsmItem"><a class="rsmLink" href="/video/promos/default.aspx">KSDK Promos</a></li><li class="rsmItem"><a class="rsmLink" href="/video/nbc_episode.aspx" title="NBC Episodes">NBC Full Episode Player</a></li><li class="rsmItem"><a class="rsmLink" href="http://www.ksdk.com/life/community/photogallery.aspx" title="Photos of St. Louis">Photo Galleries</a></li><li class="rsmItem"><a class="rsmLink" href="/video/viewer/default.aspx" title="KSDK 5 Viewer Videos">Upload your video</a></li><li class="rsmItem"><a class="rsmLink" href="/video/pets/default.aspx">Fun Pet Videos</a></li>
+		</ul></li><li class="rsmItem"><a class="rsmLink" href="/life/community/default.aspx" title="Community Section">Connect</a><ul class="rsmList rsmLevel1">
+			<li class="rsmItem"><a class="rsmLink" href="/life/community/adoption/default.aspx">A Place To Call Home</a></li><li class="rsmItem"><a class="rsmLink" href="/forms/appearance_request.aspx" title="Appearance Requests Forms">Appearance Requests</a></li><li class="rsmItem"><a class="rsmLink" href="/life/community/health/default.aspx">Friend To Friend</a></li><li class="rsmItem"><a class="rsmLink" href="/life/community/gannett_foundation/">Gannett Foundation</a></li><li class="rsmItem"><a class="rsmLink" href="/life/community/mda/default.aspx" title="MDA Telethon">MDA</a></li><li class="rsmItem"><a class="rsmLink" href="/life/community/health/race_for_the_cure/default.aspx" title="Susan G. Komen Race for the Cure">Race for The Cure</a></li><li class="rsmItem"><a class="rsmLink" href="/life/community/window/default.aspx">Window Guests</a></li>
+		</ul></li>
+	</ul><ul class="rsmList rsmColumn rsmLevel rsmTwoLevels">
+		<li class="rsmItem"><a class="rsmLink" href="/life/programming/default.aspx" title="Programming on KSDK">Shows</a><ul class="rsmList rsmLevel1">
+			<li class="rsmItem"><a class="rsmLink" href="/life/programming/droz/default.aspx" title="The Dr. Oz Show">Dr. Oz Show</a></li><li class="rsmItem"><a class="rsmLink" href="/life/programming/information.aspx" title="Program Information">KSDK Show Information</a></li><li class="rsmItem"><a class="rsmLink" href="/life/programming/local_info.aspx" title="Local Show Times">Local Programming</a></li><li class="rsmItem"><a class="rsmLink" href="/life/programming/nbc.aspx" title="What&#39;s On NBC">NBC Shows</a></li><li class="rsmItem"><a class="rsmLink" href="/life/programming/local/showme/default.aspx">Show Me St. Louis</a></li><li class="rsmItem"><a class="rsmLink" href="/life/programming/local/tisl/default.aspx">Today In St. Louis</a></li><li class="rsmItem"><a class="rsmLink" href="/life/programming/frontline_for_hope/default.aspx">The Frontline for Hope</a></li><li class="rsmItem"><a class="rsmLink" href="http://affiliate.zap2it.com/tvlistings/ZCSGrid.do?aid=aaj">TV Listings</a></li>
+		</ul></li><li class="rsmItem"><a class="rsmLink" href="/life/advertorial/default.aspx">Features</a><ul class="rsmList rsmLevel1">
+			<li class="rsmItem"><a class="rsmLink" href="http://www.careerbuilder.com/?lr=cbga_ksd&amp;siteid=gaksd001">Careerbuilder</a></li><li class="rsmItem"><a class="rsmLink" href="/life/advertorial/contests/">Contests</a></li><li class="rsmItem"><a class="rsmLink" href="http://search.askarchy.com/sp?skin=200&amp;aff=1170">Coupons</a></li><li class="rsmItem"><a class="rsmLink" href="/news/salutes/default.aspx">Salutes</a></li><li class="rsmItem"><a class="rsmLink" href="/life/programming/local/jeopardy_exp/default.aspx" title="Jeopardy Game">Jeopardy EXP Game</a></li><li class="rsmItem"><a class="rsmLink" href="/life/advertorial/summer_camp/default.aspx">Summer Camp Guide</a></li>
+		</ul></li>
+	</ul><input id="ctl00_footer_FooterSitemap_ClientState" name="ctl00_footer_FooterSitemap_ClientState" type="hidden" />
+</div>
+	<div id="gtv_footer_right">
+		
+<div id="gtv_footer_help_container">
+	<ul>
+		<li><h4>HELPFUL LINKS</h4></li>
+		<li><a href="/sales/media_kit/" target="_blank">Advertising Info</a></li>
+		<li><a href="/company/fcc/">Closed Captioning</a></li>
+		<li><a href="/company/contact/">Contact Us</a></li>
+        <li><a href="/company/jobs/">KSDK Jobs</a></li>
+        <li><a href="/company/jobs/interns.aspx">Internships</a></li>
+        <li><a href="/company/bios/">Meet The Team</a></li>
+        <li><a href="/company/jobs/EEO_Public_File_Report.pdf">EEO Public File Report</a></li>
+        <li><a href="/company/contact/publicfile.aspx">FCC Online Public Inspection File</a></li>
+        
+	</ul>
+</div>
+<div id="gtv_footer_followus_container">
+	<ul>
+	<li class="icn_follow_headline"><h4>FOLLOW US</h4></li>
+	<li class="icn_follow_twitter"><a href="http://twitter.com/ksdknews">Twitter</a></li>
+	<li class="icn_follow_facebook"><a href="http://www.facebook.com/KSDKTV">Facebook</a></li>
+	<li class="icn_follow_mobile"><a href="/news/mobile/">Mobile</a></li>
+	<li class="icn_follow_rss"><a href="/rss/">RSS</a></li>
+	<li class="icn_follow_email"><a href="/services/default.aspx">E-mail Alerts</a></li>
+	<li class="icn_follow_text"><a href="/news/mobile/text/">Text Alerts</a></li>
+    <li class="icn_follow_connectv"><a href="http://www.connectv.com/ksdk" target="_blank">ConnecTV</a></li>
+	</ul>
+</div>
+		<div id="gtv_pd_search">
+			<div id="search-wrapper">
+				<div id="search_border">
+					<input id="searchbox-footer" type="text" size="34" maxlength="34" />
+					<button class="button" type="submit" onclick="return submitFormActionFooter()">Search</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="gtv_clear"></div>
+
+<div id="gtv_footer_partners">
+	<ul>
+		<li><a href="http://www.nbc.com/" target="_blank"><img src="/graphics/footer/partner-nbc.jpg" /></a></li>
+		<li><a href="http://www.gannett.com/" target="_blank"><img src="/common/v5/graphics/footer/gannettlogo.jpg" /></a></li>
+		<li><a href="http://www.usatoday.com/" target="_blank"><img src="/graphics/footer/usatoday_new.jpg" /></a></li>
+		<li><a href="http://www.careerbuilder.com/?lr=cbga_ksd&siteid=gaksd001" target="_blank"><img src="/graphics/footer/partner-careerbuilder.jpg" width="80" /></a></li>
+        <li><a href="http://www.usatodayhss.com/st-louis/" target="_blank"><img src="/graphics/footer/usatoday-hss.gif" alt="USATodayHSS.com" width="80" /></a></li>
+          <li><a href="http://datasphere.com/advertise-us-ksdk" target="_blank"><img src="/common/v5/graphics/footer/datasphere.jpg" alt="DataSphere" width="100" height="24" border="0" title="DataSphere" /></a></li>
+           <li><a href="http://connectv.com/ksdk" target="_blank"><img src="/common/v5/graphics/footer/connectv-80.gif" alt="ConnecTV" width="80" height="19" border="0" title="ConnecTV" /></a></li>
+	</ul>
+</div>	
+<div class="gtv_clear"></div>
+<div id="gtv_footer_copyright">
+	Copyright &#169;2013
+	Multimedia KSDK, Inc.. All rights reserved.<br />
+	Users of this site agree to the <a href="/terms/">Terms of Service</a>, <a href="/privacy/">Privacy Notice/Your California Privacy Rights</a>, and <a href="/privacy#adchoices">Ad Choices</a>
+</div>
+</div>
+		
+<script type="text/javascript" language="javascript">
+var s_account="gntbcstksdk,gntbcstglobal"
+</script>
+<script type="text/javascript" language="JavaScript" src="/common/v5/js/s_code.js"></script>
+<script type="text/javascript" language="JavaScript"> 
+function PageQuery(q) {
+if(q.length > 1) this.q = q.substring(1, q.length);
+else this.q = null;
+this.keyValuePairs = new Array();
+if(q) {
+for(var i=0; i < this.q.split("&").length; i++) {
+this.keyValuePairs[i] = this.q.split("&")[i];
+}
+}
+this.getKeyValuePairs = function() { return this.keyValuePairs; }
+this.getValue = function(s) {
+for(var j=0; j < this.keyValuePairs.length; j++) {
+if(this.keyValuePairs[j].split("=")[0] == s)
+return this.keyValuePairs[j].split("=")[1];
+}
+return false;
+}
+this.getParameters = function() {
+var a = new Array(this.getLength());
+for(var j=0; j < this.keyValuePairs.length; j++) {
+a[j] = this.keyValuePairs[j].split("=")[0];
+}
+return a;
+}
+this.getLength = function() { return this.keyValuePairs.length; }
+}
+function queryString(key){
+var page = new PageQuery(window.location.search);
+return unescape(page.getValue(key));
+}
+function getQS(key){
+if(queryString(key)=='false')
+{
+	return;
+}else{ 
+return queryString(key);
+}
+}
+  
+ if((document.location.search==undefined)||(document.location.search=="")){QS="";}else{QS=document.location.search;QSA=QS.split("=");QS=QSA[1];QSA=QS.split("&");QS=QSA[0];} 
+ if((document.title==undefined)||(document.title=="")){DT=NO_TITLE_VAR;}else{DT=document.title;}
+ myPageName=DT+" | "+QS; 
+ if(DT.indexOf(" | ") != -1){DT=document.title;DTA=DT.split(" | ");DT=DTA[0];}
+ mySlug = "376098" +" - " + DT.substring(0,35) + ">" + "KSDK" + ">news";
+ s.server = "Newsmaker";
+ s.pageName = myPageName;
+ s.channel = "KSDK"; 
+ s.pageType = "article"; 
+ s.prop1 = "";  
+ s.prop2 = "";
+ s.prop3 = "";
+ s.prop4 = "";
+ s.prop5 = "";
+ s.prop6 = "news"; 
+ s.prop7 = "local:story";
+ s.prop16 = "article";
+ if(s.prop16 == 'article'){s.prop11 = mySlug;}
+ s.prop17 = "news";
+ s.prop18 = "local:story";
+ s.prop19 = "";
+ s.prop20 = "";
+ s.prop8 = "";
+ s.prop23=document.location.href;
+
+ s.prop41 = "";
+
+/* Override any s_code.js default settings here */
+s.currencyCode="USD"
+s.linkInternalFilters="javascript:ksdk.com"
+s.prop25 = "St. Louis, MO"
+s.prop50 = "Broadcast"
+
+var s_code=s.t();if(s_code)document.write(s_code)
+<!-- 
+  /*  ComSCORE beacon */
+var __cs_c1 = 2; 
+var __cs_c2 = "6035223"; 
+var __cs_params = ["c1=", __cs_c1, "&c2=", __cs_c2].join('');
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") +
+".scorecardresearch.com/beacon.js?" + __cs_params +"' %3E%3C/script%3E"));
+/* End comScore */
+
+(function() { 
+	GEL.use('http://content.gannettonline.com/global/scripts/revsci.js',function(){
+	GEL.use('http://js.revsci.net/gateway/gw.js?csid=J06575',function(){
+	
+	 var now = new Date();
+	 var gciYear = now.getYear();
+	 DM_addToLoc("zipcode", escape(s.prop30));
+	 DM_addToLoc("age", escape((gciYear-s.prop31)));
+	 DM_addToLoc("gender", escape(s.prop32));
+	 DM_cat("broadcast > " + escape(s.prop6) + " > "  +  escape(s.prop7) );
+	 DM_tag();
+																	  
+	if (rsinetsegs.length > 0)
+		{
+			if (!RevSci.HasSegmentCookie())
+				{
+					RevSci.Rpc.Send(RevSci.RequestUrl(rsinetsegs));
+					RevSci.Cookie.Set(revsci_Cookie, true);
+				}		
+			}
+		})
+	})
+})();
+//-->
+</script>
+
+<script type="text/javascript" language="JavaScript"> 
+var SimpleReachID= "5108012b4240cf6ef600000f"
+
+__reach_config = {
+  pid: SimpleReachID, // The SimpleReach assigned Publisher ID (pid)
+  title: SimpleReach_Title, // The title of the article (remember that they should be escaped, not HTML or URL encoded)
+  url: SimpleReach_CanonicalURL, // The canonical URL of the article. This is not the window.location, this the URL that you would give to a search engine for SEO purposes.
+ date: SimpleReach_date, // Article publish date in UTC or any ISO8601 date
+ authors: [SimpleReach_authors], // An array of the article author(s); (remember that they should be escaped, not HTML or URL encoded)
+ channels: [SimpleReach_categories], // An array of the article channel(s); (remember that they should be escaped, not HTML or URL encoded)
+ tags: [''], // An array of the article tag(s); (remember that they should be escaped, not HTML or URL encoded)
+  landing_url: '' // Optional parameter for the main page of slideshows, galleries, multipage articles, etc.
+};
+
+try
+{
+  var s = document.createElement('script');
+  s.async = true;
+  s.type = 'text/javascript';
+  s.src = document.location.protocol + '//d8rk54i4mohrb.cloudfront.net/js/reach.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+}
+catch(err){
+};
+
+</script>
+
+
+
+<script type="text/javascript" language="JavaScript"> 
+    var timerPageRefresh;
+    timerPageRefresh = setTimeout("pageRefreshTimer();",900000); 
+    
+    function pageRefreshTimer() {
+        
+        location.reload(true);
+        
+    }
+
+
+</script>
+	
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2010.2.826.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3ad6fabc03-35c2-445a-85cd-7474d04f8edf%3a16e4e7cd%3af7645509%3a24ee1bba%3ae330518b%3a1e771326%3ac8618e41%3aa1a4383a" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"gtv","clientStateFieldID":"ctl00_Header_PrimaryNavigation_PrimaryNavigation_ClientState","collapseAnimation":"{\"duration\":450}","defaultGroupSettings":"{\"repeatColumns\":2}","enableShadows":true,"expandAnimation":"{\"duration\":450}","expandDelay":500,"itemData":[{"postBack":0,"value":"1","navigateUrl":"/default.aspx"},{"items":[{"value":"2-1","templated":true}],"postBack":0,"value":"2","navigateUrl":"/news/default.aspx"},{"items":[{"value":"3-1","templated":true}],"postBack":0,"value":"3","navigateUrl":"/weather/default.aspx"},{"items":[{"value":"4-1","templated":true}],"postBack":0,"value":"4","navigateUrl":"/sports/default.aspx"},{"items":[{"value":"5-1","templated":true}],"postBack":0,"value":"5","navigateUrl":"/video/default.aspx"},{"items":[{"value":"6-1","templated":true}],"postBack":0,"value":"6","navigateUrl":"/life/community/default.aspx"},{"items":[{"value":"7-1","templated":true}],"postBack":0,"value":"7","navigateUrl":"/life/programming/default.aspx"},{"items":[{"value":"8-1","templated":true}],"postBack":0,"value":"8","navigateUrl":"/life/advertorial/default.aspx"}]}, null, null, $get("ctl00_Header_PrimaryNavigation_PrimaryNavigation"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSiteMap, null, null, null, $get("ctl00_footer_FooterSitemap"));
+});
+//]]>
+</script>
+</form>
+	
+		<script type="text/javascript">
+			GEL.thepage.initializer.addInitRoutine({
+				name: "PluckJSDK",
+				namespace: "social.pluck",
+				callback: function () {
+					GEL.social.pluck.getCommentCount({}, function (count) {
+						GEL.log("Comments Count: " + count)
+						var _tmp = GEL.thepage.$('.gslCommentsCount');
+						if (_tmp.length > 0 && count) {
+							_tmp[0].innerHTML = count + ' ';
+						}
+						if (_tmp.length > 1 && count) {
+							_tmp[1].innerHTML = ' (' + count + ')';
+						}
+					});
+				},
+				priority: 60
+			}); 
+		</script>
+	
+	<div id="UAModalcontainerwrapper" class="ody-UAmodalcontainer modal modal-inner-content">
+		<div id="UAModalcontainer"></div>
+	</div>
+	<div id="zagmodalcontainer" class="zagmodal modal modal-inner-content">
+		<div id="ody-modalcontent"></div>
+		<a></a>
+	</div>
+	<script type="text/javascript">
+		setTimeout(function () { GEL.thepage.initializer.init(); }, 100);
+		var isArticlePage = 'true';
+	</script> 
+	
+		<!-- start Vibrant Media IntelliTXT script section -->
+		<script type="text/javascript" src="http://gannettbroadcast.us.intellitxt.com/intellitxt/front.asp?ipid=12688"></script>
+		<!-- end Vibrant Media IntelliTXT script section -->
+		
+</body>
+</html>

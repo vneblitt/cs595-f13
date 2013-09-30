@@ -1,0 +1,1482 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns:og="http://ogp.me/ns#">
+<head>
+  <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/8067.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<script type="text/javascript">
+   var external_id = 'UA-1420324-52';
+   var _gaq = _gaq || [];
+   _gaq.push(['_setAccount', 'UA-12552489-1'],
+             ['_setDomainName', 'auto'],
+             ['_trackPageview']); 
+   if(typeof external_id != "undefined"){
+     _gaq.push(['b._setAccount', 'UA-1420324-52'],
+               ['b._setDomainName', 'auto'],
+               ['b._trackPageview']);
+   }
+   (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+   })();
+</script>
+  <script type='text/javascript'>
+    var analytics_pageStartTime = new Date();
+  </script>
+  <script type="text/javascript">
+  setTimeout(function(){var a=document.createElement("script");
+  var b=document.getElementsByTagName("script")[0];
+  a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/8067.js?"+Math.floor(new Date().getTime()/3600000);
+  a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+  </script>
+  <!-- start Mixpanel -->
+  <script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+  typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+  b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+  mixpanel.init("809b7aac3549e34531f6efb2b54412a9");</script>
+  <!-- end Mixpanel -->
+  
+  
+  <script type="text/javascript" charset="utf-8">
+    var registered_messages = [];
+    var controller_js = 'http://cdn.bibliocommons.com/javascripts/item.js?1380141575_files';
+  </script>
+  <title data-analytics="item">Hielo y fuego | New York Public Library | BiblioCommons</title>
+  <meta http-equiv="Content-Language" content="en-us">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="App-Version" content="Version stieb1 (stieb1)  Last updated 2013/09/26 17:33 [appserver4]">
+		<meta name="title" content="Hielo y fuego - NYPL">
+		<meta name="description" content="Hielo y fuego  (Book) : Garwood, Julie  : The daughter of notorious, high-profile thief Bobby Rose, journalist Sophie Rose leaves her job at a major Chicago newspaper for a small local paper, but when she stumbles into the middle of a bizarre story, she follows the trail of the mystery north to Prudhoe Bay, Alaska, accompanied by a bodyguard, Jack Prescott, a sexy FBI agent.">
+    <meta property="og:image" content="http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=9788498726060&content=M&Return=1&Type=M">
+
+	
+
+
+  <meta property="og:image" content="http://nypl.bibliocommons.com/images/NY-NEWYORKCITY-DIGITAL-UNION/logo.png?1380532016404">
+
+  <link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/base_master.css?1380532016404" media="all" rel="stylesheet" type="text/css">
+    <link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/item.css?1380532016404" media="all" rel="stylesheet" type="text/css">
+    <link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/stylesheet.css?1380532016404" media="all" rel="stylesheet" type="text/css">
+    <link href="http://cdn.bibliocommons.com/stylesheets/fontello/fontello-embedded.css?1380141575" media="all" rel="stylesheet" type="text/css">
+    <link href="http://cdn.bibliocommons.com/stylesheets/fontello/animation.css?1370443704" media="all" rel="stylesheet" type="text/css">
+
+  <style type="text/css" media="screen" id="defaultStickyWinStyle">
+    @import url("http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/bc/StickyWin.css?1380532016404");
+  </style>
+  <!--[if lt IE 9]><link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/bc/IE.css?1380532016404" media="screen" rel="stylesheet" type="text/css"><![endif]-->
+  <!--[if IE 6]><link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/bc/IE6.css?1380532016404" media="screen" rel="stylesheet" type="text/css"><![endif]-->
+  <!--[if IE 7]><link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/bc/IE7.css?1380532016404" media="screen" rel="stylesheet" type="text/css"><![endif]-->
+  <!--[if IE 8]><link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/bc/IE8.css?1380532016404" media="screen" rel="stylesheet" type="text/css"><![endif]-->
+
+      <script type="text/javascript" charset="UTF-8" src="http://nypl.bibliocommons.com/jsvars.js"></script>
+      <script type="text/javascript" charset="UTF-8" src="http://nypl.bibliocommons.com/jsvars/other.js?1380532016404"></script>
+
+
+  <script type="text/javascript">
+    if (typeof console == "undefined" || typeof console.debug == "undefined") var console = { log: function() {}, warn: function() {}, info: function() {}, error: function() {} };
+    console.debug = function() {};
+    var messages = [];
+  </script>
+
+  <link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/print.css?1380532016404" media="print" rel="stylesheet" type="text/css">
+
+  <script type="text/javascript">
+    document.write("<style type=\"text/css\">.hide_on_script{display:none;}</style>");
+
+      var event_query = ""
+
+  </script>
+    <link rel="shortcut icon" href="/images/NY-NEWYORKCITY/favicon.ico"/>
+</head>
+<body class="two_col">
+  <div class="screen-reader-text" role="navigation">
+    <a  href="#globalQuery" tabindex="1">Skip To Search</a>
+    <a  href="#content-start" tabindex="2">Skip To Content</a>
+  </div>
+  
+
+<div class="messaging" id="id_12tsymreo39kxho9sfh2ya4pf">
+  <div class="messageContent">
+    <span class="message-icon"></span>
+    <div class="top_message" id="msg_id_54nfl5p8hfb7mvb1t1ib4khp" >
+      <a name=""></a>
+    </div>
+  </div>
+  <div class="closeButton" onClick="javascript:Messages.clear();"></div>
+</div>
+<script type="text/javascript" charset="utf-8">
+    registered_messages.push( {element: 'msg_id_54nfl5p8hfb7mvb1t1ib4khp', key: [], type: ["message","error"]});
+</script>
+  <div id="globalSpinner" class="spinner">	
+	<img alt="Ajax-loader" src="http://cdn.bibliocommons.com/images/ajax-loader.gif?1360704916">
+</div>
+
+    <div id="biblioMasterMessage">
+  <p style="text-align:left;" class="clearfix"><a class='bc-buttons right is-danger' href="https://secure3.convio.net/nypl/site/Donation2?4700.donation=form1&df_id=4700&s_src=FRS13SE_QBCN">DONATE</a>Dear Library Patrons, NYPL relies on readers like you to buy new bestsellers, science books for kids, GED and SAT guides, and so much more. <strong>Give before September 30 and your gift will be matched.</strong></p> 
+</div>
+
+
+
+  <div id="biblioMasterMessage" style="display:none">
+    <!-- IE7 Browser Message -->
+    <p>You are using Internet Explorer 7.0 to view this site. IE7 is a 6-year-old browser that does not display modern web sites properly. Please upgrade to a newer browser to make best use of this site. Contact your local library branch if you require assistance. <br>For more information, see this <a href="http://help.bibliocommons.com/045faq/000faq-system/" target="_blank" class="highlight">FAQ page</a>.</p><p>Download <a href="http://www.google.com/chrome/index.html" target="_blank" class="highlight">Chrome</a>, <a href="http://www.mozilla.org/en-US/firefox/new/" target="_blank" class="highlight">Firefox</a> or a newer version of <a href="http://windows.microsoft.com/en-US/internet-explorer/download-ie" target="_blank" class="highlight">Internet Explorer</a></p>
+  </div>
+
+  <div id="page" class="js_disabled">
+    <div class="modal-wrap"></div>
+    <div class="modal-box" aria-atomic="true" aria-live="polite" aria-relevant="additions" aria-relevant="text">
+      <a href="" class="close" style="display:block;" aria-label="Close Modal"></a>
+    </div>
+    
+    <div data-analytics='{ "Section": "Header" }' id="header" class="clearfix">
+    <div data-analytics='{ "Feature": "Language Selection" }' id="language" class="dropDown">
+       <a href="javascript:void(0)" class="dropBtn dropDownArrow" id="localization_trigger" title=""><img alt="" src="http://cdn.bibliocommons.com/images/icon.drop.arrow.gif?1377722035"></a>
+      <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.drop.arrow.on.gif?1360704916">
+ 
+		<a href="" class="userLink flag">English</a>
+    <ul class="dropDownContent">
+        <li></li>
+        <li><a href="/info/switch_language?selected_language=es-ES" class="dropdownitem">Español</a></li>
+        <li><a href="/info/switch_language?selected_language=fr-CA" class="dropdownitem">Français</a></li>
+        <li><a href="/info/switch_language?selected_language=ru-RU" class="dropdownitem">Русский</a></li>
+        <li><a href="/info/switch_language?selected_language=zh-CN" class="dropdownitem">中文</a></li>
+    </ul>
+  </div>
+
+   	 
+  	<div data-analytics='{ "Feature": "Library Logo" }' class="logo">
+      	<a href="http://nypl.org"><img alt="New York Public Library" src="http://cdn.bibliocommons.com/images/NY-NEWYORKCITY-DIGITAL-UNION/logo.png?1380532016404"></a>
+    </div>       
+	 
+  <div id="navAndSearch" class="clearfix">   
+	  
+<div data-analytics='{ "Feature": "Bibliocommons Navigation" }' id="userNav" class="clearfix">
+  <div id="userAction">    	
+	    <div class="defaultOptions">
+	        
+          
+
+
+		
+		       
+          
+          <a href="https://secure3.convio.net/nypl/site/SPageServer?pagename=donation_form&amp;JServSessionIdr003=dwcz55yj27.app304a&amp;s_src=FRQ13ZZ_BLCN" class="userLink" >Donate</a> 
+           
+          <a href="http://help.bibliocommons.com" class="userLink" id="header_help" >Help</a> 
+
+           
+                <a href="https://nypl.bibliocommons.com/user/login" class="userLink" >Log In</a>
+                
+           
+	      
+	    </div>
+	</div>
+	<div id="scopeNav">
+		
+	</div>
+</div>
+    
+    
+  		
+  		
+  		<form action="/search" class="clearfix" data-analytics="{ &quot;Feature&quot;: &quot;Search Bar&quot; }" id="globalSearch" method="get" onsubmit="">
+        <h1>Find books, music, movies, and more.</h1>
+				
+				<select class="hideMe" id="t" name="t" ><option title="Keyword" value="smart">Keyword</option>
+<option title="Title" value="title">Title</option>
+<option title="Author" value="author">Author</option>
+<option title="Series" value="series">Series</option>
+<option title="Subject" value="subject">Subject</option>
+<option title="Tag" value="tag">Tag</option>
+<option title="List" value="userlist">List</option>
+<option title="User" value="user">User</option></select>
+				<input id="search_category" name="search_category" type="hidden" value="keyword">		
+				 
+	 
+				<input aria-label="Search Catalog" class=" text" id="globalQuery" name="q" type="text">
+ 	   		    <input alt="Search" class="search_button" name="commit" role="button" title="Search" type="submit" value="Search">
+  		    <div class="searchOptions">
+    				<input aria-label="Search within the catalogue" checked="checked" class="inline" id="searchOpt_catalogue" name="searchOpt" type="radio" value="catalogue"><label for="searchOpt_catalogue" class="inline">Catalog</label>
+    					<input aria-label="Search within NYPL.ORG" class="inline" id="searchOpt_website" name="searchOpt" type="radio" value="website"><label for="searchOpt_website" class="inline">NYPL.ORG</label>
+    			</div>     
+  			                      
+  			
+  			<a href="/search" class="moreSearch" >Advanced Search</a>
+        
+</form>  	
+  </div>
+
+  <br class="clear">
+  <a class="screen-reader-text" href="#content-start">Skip Navigation</a>
+  <div data-analytics='{ "Feature": "Library Navigation" }' id="topNav" class="drop_shadow" role="navigation" >
+    <ul id="mainNav" role="menubar" class="clearfix" aria-haspopup="true">
+  
+<li role="menu" class="drop_shadow   " id="top_nav_item_id_lrqfsvo31jwdbsljvvd0wqc5">
+	<a href="http://www.nypl.org/" class="navLabel  ">Home</a></li>
+<li role="menu" class="drop_shadow dropDown  extendedNav" id="top_nav_item_id_dip8h766muf4k1i653hmqb3v5">
+	<a href="/dashboard/user_dashboard" class="navLabel  " >My NYPL</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="navColumn">
+  <h5>My Borrowing</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="/checkedout" >Checked Out</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/holds/index/active" >Holds</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/fines" >Fines</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/accountmessages" >Library Messages</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>My Collections</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="/collection/show/my/library/completed" >My Shelves</a>
+    </li>
+            <li class="dropDownItem indented"><a href="/collection/show/my/library/completed" >Completed</a></li>
+            <li class="dropDownItem indented"><a href="/collection/show/my/library/in_progress" >In Progress</a></li>
+            <li class="dropDownItem indented"><a href="/collection/show/my/library/for_later" >For Later</a></li>
+    <li class="dropDownItem">
+      <a href="/lists/show/mine" >My Lists</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>My Community</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="/trustedsources" >I'm Following</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/recently_shared" >Recently Shared</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/ignoredusers" >Ignored Users</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/messages" >Inbox</a>
+    </li>
+  </ul>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow dropDown  extendedNav" id="top_nav_item_id_5h5cqywze1s2bf9s0dua4mfx2">
+	<a href="/dashboard/index" class="navLabel  " >Explore</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="navColumn">
+  <h5>New & Notable</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="/dashboard" >Recent Activity</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/explore/index/newly_acquired?f_on_order=false">New Titles</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/explore/index/awards" >Awards</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/explore/index/best_sellers" >Bestsellers</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>Collections</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="/search?q=books&amp;t=smart&amp;search_category=keyword&amp;title=Books">Books</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://nypl.org/ebooks">Ebooks and Audiobooks</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/search?q=movies&amp;t=smart&amp;search_category=keyword&amp;title=Movies">Movies</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/search?t=smart&amp;search_category=keyword&amp;q=music&amp;commit=Search&amp;searchOpt=catalogue&amp;title=Music+and+Recordings">Music and Recordings</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/search?t=smart&amp;search_category=keyword&amp;q=magazines&amp;commit=Search&amp;searchOpt=catalogue&amp;title=Periodicals">Periodicals</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://digitalgallery.nypl.org/">Images</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/collections/nypl-collections/braille-talking-books">Braille and Talking Books</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>Made at NYPL</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/blog/all">Blogs</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/voices/audio-video">Audio & Video</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/voices/print-publications">Print Publications</a>
+    </li>
+  </ul>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow dropDown  extendedNav" id="top_nav_item_id_erbt2096gtego71ys6bxadtpt">
+	<a href="http://www.nypl.org/collections" class="navLabel  ">Research</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="navColumn">
+  <h5>Electronic Resources</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/collections/articles-databases">Articles and Databases</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/events/online-exhibitions">Online Exhibitions</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://digitalgallery.nypl.org/nypldigital/index.cfm">Digital Gallery</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/collections/labs">NYPL Labs</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/online_projects">Digital Projects</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>Tools and Services</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://catalog.nypl.org/">Classic Catalog</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/collections/nypl-recommendations/guides">Research Guides</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/specialindexes">Indexes to NYPL Collections</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/ask-nypl/research-questions-reproductions">Get Copies</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/collections/nypl-recommendations">NYPL Recommendation</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>Collections</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/research-collections">Research Collections</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/find-archival-materials">Manuscripts and Archives</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://wallachprintsandphotos.nypl.org/">Prints and Photos Online Catalog</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/collections/nypl-collections/preservation-division">Preservation of NYPL Collections</a>
+    </li>
+  </ul>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow dropDown  extendedNav" id="top_nav_item_id_40hx1za67iwd2t96xy6cl20qw">
+	<a href="http://www.nypl.org/help" class="navLabel  ">Using the Library</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="navColumn">
+  <h5>Get Oriented</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/library-card">Get a Library Card</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/borrowing-materials">Borrowing</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/finding-things">How to Find Things</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/computers-internet-and-wireless-access">Computers</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities">Accessibility</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/about-nypl">About the NYPL</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/voices/connect-nypl">Connect with NYPL</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>Services</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/ask-nypl">AskNYPL</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/computers-internet-and-wireless-access/reserving-computer">Reserve a PC</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/community-outreach">Community Outreach</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/ask-nypl/research-questions-reproductions">Get Copies</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/research-services/interlibrary-loan">Interlibrary Loan</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/spacerental">Space Rental</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://shop.nypl.org/">The Library Shop</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>I am a…</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/node/29643">Teacher</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/node/54754">Job Seeker</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://smallbiz.nypl.org/">Small Business Owner</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/node/29646">Child</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/node/29647">Teen</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/node/87">Person with a Disability</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/node/29870">Recent Immigrant</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/support">NYPL Donor</a>
+    </li>
+  </ul>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow dropDown  " id="top_nav_item_id_7qvwrdmofcctywmscyzrq0qkw">
+	<a href="http://www.nypl.org/locations" class="navLabel  ">Locations</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="dropDownItem">
+	<a href="http://www.nypl.org/locations#manhattan-list">Manhattan</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/locations#bronx-list">The Bronx</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/locations#statenisland-list">Staten Island</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/locations#research-list">Research Libraries</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/help/getting-oriented/brooklyn-queens-libraries">Brooklyn & Queens</a>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow dropDown  " id="top_nav_item_id_5d8k36ilzfszbotpvlkssyopf">
+	<a href="http://www.nypl.org/events" class="navLabel  ">Classes & Events</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="dropDownItem">
+	<a href="http://www.nypl.org/events/exhibitions">Current Exhibitions</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/events/public-programs">Programs</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/events/classes">Classes</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/events/tours">Tours</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/events/exhibitions-past">Past Exhibitions</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/events/live-nypl">LIVE from the NYPL</a>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow dropDown  " id="top_nav_item_id_9f0gzo0hynshbdngp0q3jurar">
+	<a href="http://www.nypl.org/support" class="navLabel  ">Support the Library</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="dropDownItem">
+	<a href="http://www.nypl.org/donate">Donate</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/support/membership">Membership</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/support/membership/friends-library">Monthly Giving</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/support/benefit-events">Benefits Events</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/support/planned-giving">Planned Giving</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/support">More…</a>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow   " id="top_nav_item_id_1l8gz2w7c60o8w4amq1etijed">
+	<a href="http://www.nypl.org/ask-nypl" class="navLabel  ">Help</a></li>
+</ul>
+<div> <!-- clearing navigation for multiline nav instances. --> </div>
+
+  </div>
+</div>
+
+
+    <div class="errorSpace messaging">
+      <div class="errors"></div>
+    </div>
+
+    <div class="messageSpace messaging">
+      <div class="messages"></div>
+    </div>
+
+
+  	  
+
+
+    <div id="main" class="clearfix">
+      <a class="screen-reader-text" name="content-start"></a>
+      <div data-analytics='{ "Section": "Center" }' id="content">
+        
+
+
+<div class="content itemDetail" id="19676521052907">
+
+   
+
+<div class="titleBlock clearfix" style="position:relative;">
+
+    <h1 >Hielo y fuego</h1>
+    <div class="author" >
+ <a href="/search?q=Garwood%2C+Julie&amp;search_category=author&amp;t=author" class="author_detail_link" target="_parent" title="Garwood, Julie">Garwood, Julie</a>      	<span class="format" >(Book -  - 2012) - Spanish</span>
+      	 <div class="itemRating">
+                    </div>
+
+    </div>	
+
+
+
+
+
+
+</div>
+
+  
+  <div class="splitContent clearfix">  
+    
+    
+    <div class="mainContent">
+
+        <div class="clearfix main_image_wrapper">
+            <img alt="Hielo y fuego" class="jacketCover bib_detail" fallback="http://cdn.bibliocommons.com/images/default_covers/icon-book.png?1360704916" id="19676521052907" src="http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&amp;userID=NYPL49807&amp;password=CC68707&amp;Value=9788498726060&amp;content=M&amp;Return=1&amp;Type=M" title="Hielo y fuego">          
+          
+        </div>
+        
+        <div class="actions actions_no_user" id="list_actions">
+            
+		<div param="rate_19676521052907" class="ratingBlock data_19676521052907_rating" id="id_data_19676521052907_rating_26430">
+			 <span class="button">My Rating:</span>
+	  <a href="/usercontent/update/19676521052907?part_name=rating&amp;rating=0" class="rating-0" data-analytics="{ &quot;EventName&quot;:&quot;Unrate Bib&quot; }"><img alt="Clear Rating" class="cancelRating unrateBtn rating-0" src="http://cdn.bibliocommons.com/images/icon.unrate.png?1360704916" title="Clear Rating"></a> 
+		<ul data-analytics='{ "EventName":"Rate Bib" }' class="starRating" title="not rated">
+			<li role="presentation" class="currentRating" style="width: 0%">&nbsp;</li>
+				<li><a href="javascript:void(0)" class="star-1 ratingStar" title="awful">set item rating to 0.5 out of 5.</a></li>
+				<li><a href="javascript:void(0)" class="star-2 ratingStar" title="poor">set item rating to 1 out of 5.</a></li>
+				<li><a href="javascript:void(0)" class="star-3 ratingStar" title="not bad">set item rating to 1.5 out of 5.</a></li>
+				<li><a href="javascript:void(0)" class="star-4 ratingStar" title="ok">set item rating to 2 out of 5.</a></li>
+				<li><a href="javascript:void(0)" class="star-5 ratingStar" title="average">set item rating to 2.5 out of 5.</a></li>
+				<li><a href="javascript:void(0)" class="star-6 ratingStar" title="above average">set item rating to 3 out of 5.</a></li>
+				<li><a href="javascript:void(0)" class="star-7 ratingStar" title="good">set item rating to 3.5 out of 5.</a></li>
+				<li><a href="javascript:void(0)" class="star-8 ratingStar" title="very good">set item rating to 4 out of 5.</a></li>
+				<li><a href="javascript:void(0)" class="star-9 ratingStar" title="great">set item rating to 4.5 out of 5.</a></li>
+				<li><a href="javascript:void(0)" class="star-10 ratingStar" title="outstanding">set item rating to 5 out of 5.</a></li>
+		</ul>
+	</div>                
+  
+
+            
+          
+                                               
+   
+
+            <a href="/usercontent/edit/19676521052907?section=comment" id="addcommentBtn" class="button detailForm" onclick="return false" >
+		<img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.comment.png?1360704916">
+		Add a Comment
+</a>
+
+                                               
+   
+
+            <a href="/usercontent/edit/19676521052907?section=tags" id="addtagsBtn" class="button detailForm" onclick="return false" >
+		<img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.tags.png?1360704916">
+		Add Tags
+</a>
+
+             
+           
+                    
+	<div class="dropDown editButton" id="edit_19676521052907">
+	  <a href="/user/login" class="editButton button dropBtn " onclick='false' id="edit_button_19676521052907_id_c92gfzv7q5xf451jo96hklpnf"><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.png?1360704916"> Add More</a>
+		<ul class="dropDownContent">
+   
+
+   
+
+				<li><a href="/usercontent/edit/19676521052907?section=similar_titles" class="detailForm" >Similar Titles</a></li>
+   
+
+				<li><a href="/usercontent/edit/19676521052907?section=private_notes" class="detailForm" >Private Note</a></li>
+   
+
+   
+
+				<li><a href="/usercontent/edit/19676521052907?section=content_advisory" class="detailForm" >Notices</a></li>
+   
+
+				<li><a href="/usercontent/edit/19676521052907?section=age_suitability" class="detailForm" >Age Suitability</a></li>
+   
+
+				<li><a href="/usercontent/edit/19676521052907?section=summary" class="detailForm" >Summary</a></li>
+   
+
+				<li><a href="/usercontent/edit/19676521052907?section=quotation" class="detailForm" >Quotation</a></li>
+   
+
+				<li><a href="/usercontent/edit/19676521052907?section=video" class="detailForm" >Video</a></li>
+			
+		<li><hr><a href="/usercontent/edit/19676521052907?section=all" id="edit_all_19676521052907" class="edit_all_btn">Edit All &raquo;</a></li>
+	    <li><hr></li>
+	    <li></li>
+	    </ul>
+	</div>
+      
+          <hr/>
+            
+   
+  <div class="dropDown saveStatus" id="bibStatus_19676521052907_id_e99o344hry2fg2rd7pmys6rti"> 
+     <a href="#" class="button dropBtn dropDownArrow clearfix" id="trigger_19676521052907_id_e99o344hry2fg2rd7pmys6rti" title=""><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.png?1360704916"></a>
+     <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.on.png?1360704916">
+     <a href="#" class="trigger button " >Add to My Shelves</a>
+       <ul class="dropDownContent">
+
+         	<li class=""><a href="/collection/add/my/library?bib=19676521052907&amp;bib_status=past" data-analytics="{ &quot;EventName&quot;:&quot;Add to Shelf&quot; }" with_hook="ajax_link">Completed</a></li>
+<li class=""><a href="/collection/add/my/library?bib=19676521052907&amp;bib_status=present" data-analytics="{ &quot;EventName&quot;:&quot;Add to Shelf&quot; }" with_hook="ajax_link">In Progress</a></li>
+<li class=""><a href="/collection/add/my/library?bib=19676521052907&amp;bib_status=future" data-analytics="{ &quot;EventName&quot;:&quot;Add to Shelf&quot; }" with_hook="ajax_link">For Later</a></li>
+ 
+                                                     
+       </ul>
+   </div>
+
+          
+          <div class="dropDown saveToButton" id="save_to_19676521052907_id_7pdb9iihnags7usu1qdaaxkkg"> 
+  <a href="" class="button dropBtn" id="save_button_19676521052907_id_7pdb9iihnags7usu1qdaaxkkg" ><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.saveto.png?1360704916"> Save to a List</a>
+  <ul class="dropDownContent"> 
+    <li>
+      <h5>Save to a Shared List</h5>
+      <p><a href="/list/new/my/list/new?bib=19676521052907&amp;origin=%2Fitem%2Fshow%2F19676521052907_hielo_y_fuego" class="newList">Create a New List</a></p>
+      <p><a href="/lists/add_bib/mine?bib=19676521052907_hielo_y_fuego" class="add_bib_more_lists" id="more_lists_id_7pdb9iihnags7usu1qdaaxkkg">Existing Lists &raquo;</a></p>
+    </li>
+  </ul>
+</div>
+          
+          <a href="#" class="button listPrintButton" onclick="window.print(); return false;"><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.print.png?1360704916"> Print</a>    
+          <hr>
+                
+            	<div class="addthis_toolbox addthis_default_style">
+    <span data-analytics='{ "Share Network":"Email" }' class="st_email" displayText=""></span>
+    <span data-analytics='{ "Share Network":"Facebook" }' class="st_facebook" displayText=""></span>
+    <span data-analytics='{ "Share Network":"Twitter" }' class="st_twitter" displayText=""  st_via="bibliocommons"></span>
+    <span data-analytics='{ "Share Network":"Custom" }' class="st_sharethis_custom"></span>
+
+	</div>
+
+                                 
+        
+        </div>
+        <br class="clear">
+        <hr class="secondary">
+
+      
+      <h3>Details</h3>
+      
+      <div data-analytics='{ "Feature":"Details" }' class="tabContainer" id="bibInformation">  
+  
+          <ul class="subNav tabContainerNav clearfix">
+          
+      
+            <li class="active" id="description" >                        
+              <a href="/item/show/19676521052907_hielo_y_fuego?section=description" class="description" >Description</a>
+            </li>
+      
+            <li class="" id="bib_info" >                        
+              <a href="/item/show/19676521052907_hielo_y_fuego?section=bib_info" class="bib_info" >Full Record</a>
+            </li>
+          
+            <li class="hidden " id="author_notes" >                        
+              <a href="/item/show/19676521052907_hielo_y_fuego?section=author_notes" class="author_notes">Author Notes</a>
+            </li>
+            <li class="hidden " id="toc" >                        
+              <a href="/item/show/19676521052907_hielo_y_fuego?section=toc" class="toc">Contents</a>
+            </li>
+            <li class="hidden " id="excerpt" >                        
+              <a href="/item/show/19676521052907_hielo_y_fuego?section=excerpt" class="excerpt">Excerpts</a>
+            </li>
+            <li class="hidden " id="reviews" >                        
+              <a href="/item/show/19676521052907_hielo_y_fuego?section=reviews" class="reviews">Reviews</a>
+            </li>
+            <li class="hidden " id="summary" >                        
+              <a href="/item/show/19676521052907_hielo_y_fuego?section=summary" class="summary">Summary</a>
+            </li>
+            <li class="hidden " id="avsummary" >                        
+              <a href="/item/show/19676521052907_hielo_y_fuego?section=avsummary" class="avsummary">A\\V Summary</a>
+            </li>
+          
+            <li style="margin:0;background:#fff;border:none;" id="loading_external_data"><img alt="Spinner" src="http://cdn.bibliocommons.com/images/spinner.grey.gif?1360704916" style="vertical-align:baseline">Searching for more content&hellip;</li>
+          </ul>
+    
+        <div id="bibInformationContent" class="tabContainerContent">
+                      
+            <div class="description tabContent clearfix show">
+              <a name="description" ></a>
+
+                <div class="truncated"><p>The daughter of notorious, high-profile thief Bobby Rose, journalist Sophie Rose leaves her job at a major Chicago newspaper for a small local paper, but when she stumbles into the middle of a bizarre story, she follows the trail of the mystery north to Prudhoe Bay, Alaska, accompanied by a bodyguard, </p> <a href="/item/show" class="more">More &raquo;</a></div>
+                <div class="full"><p>The daughter of notorious, high-profile thief Bobby Rose, journalist Sophie Rose leaves her job at a major Chicago newspaper for a small local paper, but when she stumbles into the middle of a bizarre story, she follows the trail of the mystery north to Prudhoe Bay, Alaska, accompanied by a bodyguard, Jack Prescott, a sexy FBI agent.
+</p> <a href="/item/show" class="more">&laquo; Less</a></div>
+                          
+           </div>         
+          
+
+          
+            <div class="bib_info tabContent clearfix ">
+                <div class="research_view_trigger">
+    <div class="the_link">
+      <a href="/item/switch_to_research_view?ref=19676521052907_hielo_y_fuego&amp;switch_to=research">Switch to Research View &raquo; </a>
+    </div>
+  </div>
+
+                            <div class="dataPair clearfix">
+    <span class="label">Authors:</span>
+    	<span class="value">Garwood, Julie</span>
+  </div>
+
+            
+              <div class="dataPair clearfix">
+    <span class="label">Statement of Responsibility:</span>
+    	<span class="value">Julie Garwood ; traducción de Albert Sole</span>
+  </div>
+
+            
+            
+            
+        <div class="dataPair clearfix">
+    <span class="label">Uniform Title:</span>
+    <span class="value">
+      <a href="/search?q=Fire+and+ice.+Spanish&amp;search_category=title&amp;t=title">Fire and ice. Spanish</a>
+  </span>
+  </div>
+
+            
+      <div class="dataPair clearfix">
+  <span class="label">Title:</span>
+<span class="value">
+  Hielo y fuego <br/>
+</span>
+</div>
+
+  
+
+            
+            
+            
+              <div class="dataPair clearfix">
+    <span class="label">Publisher:</span>
+    	<span class="value">Barcelona :, Bolsillo,, 2012</span>
+  </div>
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        <div class="dataPair clearfix" >
+    <span class="label ">Edition:</span>
+    <span class="value">1. ed</span>
+  </div>
+
+            
+            
+            
+            
+            
+            
+            
+      <div class="dataPair clearfix">
+  <span class="label">Characteristics:</span>
+<span class="value">
+	349 p. ;,21 cm.</br>
+</span>
+</div>
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+      
+  
+    <div id="external_characters"></div>
+    <div id="external_settings"></div>
+    <div id="external_time_period"></div>
+    <div id="external_syndetics_topic"></div>
+    <div id="external_syndetics_genre"></div>
+
+              <div id="tier2_bibfields" style="display:none">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+      
+            
+              <div class="dataPair clearfix">
+    <span class="label">Notes:</span>
+    	<span class="value">Originally published in English: New York : Ballantine Books, c2008</span>
+  </div>
+
+            
+            
+            
+            
+            
+            
+            
+      
+            
+            
+            
+            
+            
+      
+            
+            
+            
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+         
+  <div class="dataPair clearfix" >
+    <span class="label">Summary:</span>
+    <span class="value"><p>The daughter of notorious, high-profile thief Bobby Rose, journalist Sophie Rose leaves her job at a major Chicago newspaper for a small local paper, but when she stumbles into the middle of a bizarre story, she follows the trail of the mystery north to Prudhoe Bay, Alaska, accompanied by a bodyguard, Jack Prescott, a sexy FBI agent.</p> <br/></span>
+  </div>
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+              <div class="dataPair clearfix">
+    <span class="label">Other Language:</span>
+    	<span class="value">Text in Spanish</span>
+  </div>
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+      
+            
+            
+            
+            
+              <div class="dataPair clearfix">
+    <span class="label">Subject Headings:</span>
+ 
+    	<span class="value">
+	    	 	Journalists Fiction <br/>
+	    	 	Bodyguards Fiction <br/>
+	    	 	Chicago (Ill.) Fiction <br/>
+	    	 	Prudhoe Bay (Alaska) Fiction <br/>
+    	 </span>
+  </div>
+
+            
+            
+            
+              <div class="dataPair clearfix">
+    <span class="label">Genre/Form:</span>
+    	<span class="value">Love stories</span>
+  </div>
+
+            
+            
+            
+            
+            
+      <div class="dataPair clearfix">
+  <span class="label">Additional Contributors:</span>
+<span class="value author"">
+ <a href="/search?q=%22Sol%C3%A9%2C+Albert%22&amp;search_category=author&amp;t=author" target="_parent" >Solé, Albert</a>
+
+
+
+
+ 
+ </br>
+</span>
+</div>
+
+            
+            
+            
+      
+            
+            
+            
+      
+            
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+              <div class="dataPair clearfix">
+    <span class="label">ISBN:</span>
+ 
+    	<span class="value">
+	    	 	9788498726060 <br/>
+	    	 	8498726069 <br/>
+    	 </span>
+  </div>
+
+            
+            
+              <div class="dataPair clearfix">
+    <span class="label">Branch Call Number:</span>
+    	<span class="value">Spa FIC G</span>
+  </div>
+
+            
+</div>
+
+<a href="javascript:void(0)" onclick="return false;" id="tier2_bibfields_trigger">
+  <span class="opened" style="display:none">&laquo; Less</span>
+  <span class="closed">More &raquo;</span>
+</a>
+
+              	  <a href="/item/catalogue_info/19676521052907_hielo_y_fuego" class="right" id="marc_detail_link">MARC Display&raquo</a>
+
+            </div>
+   
+          
+             <div class="author_notes tabContent clearfix ">
+                 <div id="external_author_notes"></div>
+             </div>    
+             <div class="toc tabContent clearfix ">
+                 <div id="external_toc"></div>
+             </div>    
+             <div class="excerpt tabContent clearfix ">
+                 <div id="external_excerpt"></div>
+             </div>    
+             <div class="reviews tabContent clearfix ">
+                 <div id="external_reviews"></div>
+             </div>    
+             <div class="summary tabContent clearfix ">
+                 <div id="external_summary"></div>
+             </div>    
+             <div class="avsummary tabContent clearfix ">
+                 <div id="external_avsummary"></div>
+             </div>    
+          
+
+              
+        </div>
+      </div>
+      
+      
+
+      <hr class="secondary">       
+
+        <div data-analytics='{ "Feature":"Community Activity" }' class="tabContainer" id="communityContent">
+          <h3>Community Activity</h3>
+         
+          <ul class="subNav tabContainerNav clearfix">
+                                    <li class="active comment" >
+                    <a href="/item/show/19676521052907_hielo_y_fuego?display=comment" class="comment">Comment </a>
+                  </li>
+                                    <li class=" age_suitability" >
+                    <a href="/item/show/19676521052907_hielo_y_fuego?display=age_suitability" class="age_suitability">Age </a>
+                  </li>
+                                    <li class=" summary" >
+                    <a href="/item/show/19676521052907_hielo_y_fuego?display=summary" class="summary">Summary </a>
+                  </li>
+                                    <li class=" content_advisory" >
+                    <a href="/item/show/19676521052907_hielo_y_fuego?display=content_advisory" class="content_advisory">Notices </a>
+                  </li>
+                                    <li class=" quotation" >
+                    <a href="/item/show/19676521052907_hielo_y_fuego?display=quotation" class="quotation">Quotes </a>
+                  </li>
+                                    <li class=" video" >
+                    <a href="/item/show/19676521052907_hielo_y_fuego?display=video" class="video">Videos </a>
+                  </li>
+          </ul>
+          
+          <div id="userContent" class="tabContainerContent">
+          <div id="edit_anchor"></div>
+
+
+                  <div class="comment tabContent show">
+                    <h4 class="print">Comment</h4>
+                       <a role="button" href="/usercontent/edit/19676521052907?section=comment" class="inline_edit_button submit_button detailForm" id="add_comment_19676521052907">Add a Comment</a> 
+   <div class="clear"></div>
+
+                    
+
+ 
+	    <p class="help	    	move_up
+">
+	    There are no comments for this title yet.</p>
+
+                    
+                  </div>
+
+
+                  <div class="age_suitability tabContent ">
+                    <h4 class="print">Age</h4>
+                       <a role="button" href="/usercontent/edit/19676521052907?section=age_suitability" class="inline_edit_button submit_button detailForm" id="add_age_suitability_19676521052907">Add Age Suitability</a> 
+   <div class="clear"></div>
+
+                    
+
+ 
+	    <p class="help	    	move_up
+">
+	    There are no ages for this title yet.</p>
+
+                    
+                  </div>
+
+
+                  <div class="summary tabContent ">
+                    <h4 class="print">Summary</h4>
+                       <a role="button" href="/usercontent/edit/19676521052907?section=summary" class="inline_edit_button submit_button detailForm" id="add_summary_19676521052907">Add a Summary</a> 
+   <div class="clear"></div>
+
+                    
+
+ 
+	    <p class="help	    	move_up
+">
+	    There are no summaries for this title yet.</p>
+
+                    
+                  </div>
+
+
+                  <div class="content_advisory tabContent ">
+                    <h4 class="print">Notices</h4>
+                       <a role="button" href="/usercontent/edit/19676521052907?section=content_advisory" class="inline_edit_button submit_button detailForm" id="add_content_advisory_19676521052907">Add a Notice</a> 
+   <div class="clear"></div>
+
+                    
+
+ 
+	    <p class="help	    	move_up
+">
+	    There are no notices for this title yet.</p>
+
+                    
+                  </div>
+
+
+                  <div class="quotation tabContent ">
+                    <h4 class="print">Quotes</h4>
+                       <a role="button" href="/usercontent/edit/19676521052907?section=quotation" class="inline_edit_button submit_button detailForm" id="add_quotation_19676521052907">Add a Quote</a> 
+   <div class="clear"></div>
+
+                    
+
+ 
+	    <p class="help	    	move_up
+">
+	    There are no quotes for this title yet.</p>
+
+                    
+                  </div>
+
+
+                  <div class="video tabContent ">
+                    <h4 class="print">Videos</h4>
+                       <a role="button" href="/usercontent/edit/19676521052907?section=video" class="inline_edit_button submit_button detailForm" id="add_video_19676521052907">Add a Video</a> 
+   <div class="clear"></div>
+
+                    
+
+ 
+	    <p class="help	    	move_up
+">
+	    There are no videos for this title yet.</p>
+
+                    
+                  </div>
+          </div>
+      </div>
+
+    </div>
+            
+  <script type="text/javascript" charset="utf-8">
+      if(document.getElementById('preview') != null)
+      {
+          var bib_isbns = ['ISBN:9788498726060','ISBN:8498726069'];
+      }
+    </script>
+
+    <div class="secondaryContent">
+      <div class="circulation" style="position:relative;">
+<div class="messaging inPage" id="id_a60d29ci4sxv68rn7t9kpyb0u" role="alert">
+  <div class="messageContent">
+    <span class="message-icon"></span>
+    <p id="msg_id_626sw0e85rqme2fn6be0ksb7z" class="first">
+      <a name="cached_items"></a>
+    </p>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+	registered_messages.push({element: 'msg_id_626sw0e85rqme2fn6be0ksb7z', key: ["cached_items"], type: ["message","error"]});
+</script>
+   <div id="circulation">
+      <!-- edition matching results -->
+      <div class="edition_matching">
+  
+  <h3>Find it at NYPL</h3>
+
+
+
+</div>
+
+      <!-- show_circulation_widget ajax'd into here. -->
+    <img align="left" alt="Spinner" src="http://cdn.bibliocommons.com/images/spinner.grey.gif?1360704916">&nbsp;&nbsp;Loading...
+  </div>
+
+
+
+<!-- alternative formats for onix integration -->
+
+</div>
+
+
+
+<!-- display worldcat library information if enabled. -->
+
+
+<!-- special display of OMDC E-Resources. -->
+
+
+
+  <!-- buy the book -->
+
+    </div> 
+  
+    
+  </div>
+  
+</div>
+
+
+        
+        
+      </div>
+
+        <div data-analytics='{ "Section": "Right" }' class="secondary " id="rightBar"><div class="content">
+	<div data-analytics='{ "Feature": "Explore Further" }' class="findSimilar bib19676521052907">
+  <h3>Explore Further</h3>
+  <hr>
+ 
+    <a href="/dashboard/browse/shelf_browse?bib=19676521052907&amp;all_bibs=true" class="shelfBrowseButton" id="popup_browse_shelf">Browse the Shelf <img src="/images/NY-NEWYORKCITY/icon.go.png"></a>
+    <hr>      
+    
+  
+  
+ 
+ 
+  
+	
+	  <h4>Subject Headings</h4>
+	    <div data-analytics='{ "SubFeature": "Subject Headings" }' class="expand" id="all_headings_expand" >
+	      <ul class="further_list">
+	        <li><a href="/search?q=Journalists+--+Fiction&amp;t=subject">Journalists &mdash; Fiction</a></li><li><a href="/search?q=Bodyguards+--+Fiction&amp;t=subject">Bodyguards &mdash; Fiction</a></li><li><a href="/search?q=Chicago+%28Ill.%29+--+Fiction&amp;t=subject">Chicago (Ill.) &mdash; Fiction</a></li><li><a href="/search?q=Prudhoe+Bay+%28Alaska%29+--+Fiction&amp;t=subject">Prudhoe Bay (Alaska) &mdash; Fiction</a></li><li><a href="/search?q=Love+Stories&amp;t=subject">Love Stories</a></li>
+	        	
+	      </ul>
+	      
+	    </div>
+     
+	  <hr>
+	
+
+  
+
+
+
+  
+    <div class="ugc_loader">
+		
+		<div id="ugc_loader" bib="19676521052907">
+     		 <img align="left" alt="Spinner" src="http://cdn.bibliocommons.com/images/spinner.grey.gif?1360704916">&nbsp;&nbsp;Loading...
+		</div>    
+ 
+	</div>
+	
+</div>
+
+</div></div>
+    </div>
+
+    <div data-analytics='{ "Section": "Footer" }' id="footer">
+      <div class="footerContent clearfix">
+            <div class="footerLinks clearfix">
+  <div class="col">
+    <a href="http://www.nypl.org/node/122489"><h3>Privacy Overview</h3></a>
+    <ul>
+      <li>
+        <a href="http://www.nypl.org/help/about-nypl/legal-notices/privacy-policy">NYPL Privacy Policy</a>
+      </li>
+      <li>
+        <a href="/info/privacy">BiblioCommons Privacy Statement</a>
+      </li>
+    </ul>
+  </div>
+  <div class="col">
+    <a href="http://www.nypl.org/node/123383"><h3>Terms & Conditions Overview</h3></a>
+    <ul>
+      <li>
+        <a href="http://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions">NYPL Terms & Conditions</a>
+      </li>
+      <li>
+        <a href="/info/terms">BiblioCommons Terms of Use</a>
+      </li>
+    </ul>
+  </div>
+  
+  <div class="col">
+    <a href="http://catalog.nypl.org/"><h3>Classic Catalog</h3></a>
+  </div>
+  
+  <div class="col">
+    <a href="http://www.nypl.org/eNews"><h3>Get the NYPL Newsletter</h3></a>
+  </div>
+  <div class="col">
+  	<a href="https://secure3.convio.net/nypl/site/SPageServer?pagename=donation_form&amp;JServSessionIdr003=dwcz55yj27.app304a&amp;s_src=FRQ12ZZ_BLCN"><h3>Donate Now</h3></a>
+  </div>
+</div>
+      </div>
+    </div>
+
+
+    
+    <p>Powered by BiblioCommons.</p>
+
+
+
+  </div>
+      <script src="http://cdn.bibliocommons.com/javascripts/compressed_base.js?1380209504" type="text/javascript"></script>
+
+    <script src="http://cdn.bibliocommons.com/javascripts/item_files.js?1380141575" type="text/javascript"></script>
+
+	<script type="text/javascript" charset="utf-8">
+      init_sharing();
+	</script>
+
+
+    <script type="text/javascript">
+        $(window).load(function() {
+            setTimeout(function() {
+                $.getScript("https://ws.sharethis.com/button/buttons.js", function(data, textStatus, jqxhr) {
+                    stLight.options({publisher: "7dd0d1cf-af07-444c-b940-87533df8f598", onhover: false});
+                    $('.st_sharethis_custom').show();
+                });
+            }, 2000);
+        });
+   </script>
+
+  
+  <!-- BEGIN FOXYCART FILES -->
+  <script src="//cdn.foxycart.com/nypl.secure.bibliocommons.com/foxycart.js" type="text/javascript" charset="utf-8"></script>
+  <!-- END FOXYCART FILES -->
+
+  
+
+  <div class="popup-box-ie-position">
+    <div class="popout-box" >
+      <div id="popout-box-content"  aria-live="polite" aria-atomic="true" aria-relevant="additions"></div>
+      <div class="popout-box-border"></div>
+      <div class="popout-box-arrow"></div>
+    </div>
+  </div>
+    <script type="text/javascript" charset="UTF-8" src="http://nypl.bibliocommons.com/jsvars/analytics.js"></script>
+</body>
+</html>

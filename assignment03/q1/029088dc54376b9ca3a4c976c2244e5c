@@ -1,0 +1,664 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Podcast #50 &#8211; Listen To This Podcast &laquo;  Blog &#8211; Stack Exchange</title>
+<link rel="alternate" type="application/rss+xml" title="Stack Exchange Company Blog RSS Feed" href="http://blog.stackoverflow.com/feed/" />
+<link rel="shortcut icon" href="http://cdn.sstatic.net/stackexchange/img/favicon.ico">
+<link rel="stylesheet" href="http://blog.stackoverflow.com/wp-content/themes/se-new/style.css" type="text/css"  />
+<link rel="stylesheet" href="http://blog.stackoverflow.com/wp-content/themes/se-new/print.css" type="text/css" media="print" />
+<link rel="pingback" href="http://blog.stackoverflow.com/xmlrpc.php" />
+
+<link rel="alternate" type="application/rss+xml" title="Blog - Stack Exchange &raquo; Podcast #50 &#8211; Listen To This Podcast Comments Feed" href="http://blog.stackoverflow.com/2013/07/podcast-50-listen-to-this-podcast/feed/" />
+<link rel='stylesheet' id='podpress_frontend_styles-css'  href='http://blog.stackoverflow.com/wp-content/plugins/podpress/style/podpress.css?ver=3.6.1' type='text/css' media='all' />
+<script type="text/javascript">
+//<![CDATA[
+var podpressL10 = {
+	openblogagain : 'back to:',
+	theblog : 'the blog',
+	close : 'close',
+	playbutton : 'Play &gt;'
+}
+//]]>
+</script>
+<script type="text/javascript" src="http://blog.stackoverflow.com/wp-content/plugins/podpress/players/1pixelout/1pixelout_audio-player.js"></script>
+<script type="text/javascript">//<![CDATA[
+	var podPressPlayerFile = "1pixelout_player.swf";
+	var podPressPopupPlayerOpt = new Object();
+	podPressPopupPlayerOpt["lefticon"] = "333333";
+	podPressPopupPlayerOpt["leftbg"] = "CCCCCC";
+	podPressPopupPlayerOpt["volslider"] = "666666";
+	podPressPopupPlayerOpt["voltrack"] = "FFFFFF";
+	podPressPopupPlayerOpt["text"] = "333333";
+	podPressPopupPlayerOpt["tracker"] = "DDDDDD";
+	podPressPopupPlayerOpt["slider"] = "666666";
+	podPressPopupPlayerOpt["loader"] = "009900";
+	podPressPopupPlayerOpt["track"] = "FFFFFF";
+	podPressPopupPlayerOpt["border"] = "CCCCCC";
+	podPressPopupPlayerOpt["bg"] = "E5E5E5";
+	podPressPopupPlayerOpt["skip"] = "666666";
+	podPressPopupPlayerOpt["righticon"] = "333333";
+	podPressPopupPlayerOpt["righticonhover"] = "FFFFFF";
+	podPressPopupPlayerOpt["rightbg"] = "B4B4B4";
+	podPressPopupPlayerOpt["rightbghover"] = "999999";
+	podPressPopupPlayerOpt["initialvolume"] = "70";
+	podPressPopupPlayerOpt["buffer"] = "5";
+	podPressPopupPlayerOpt["checkpolicy"] = "no";
+	podPressPopupPlayerOpt["animation"] = "yes";
+	podPressPopupPlayerOpt["remaining"] = "no";
+	podpressAudioPlayer.setup("http://blog.stackoverflow.com/wp-content/plugins/podpress/players/1pixelout/" + podPressPlayerFile, {lefticon:"333333", leftbg:"CCCCCC", volslider:"666666", voltrack:"FFFFFF", text:"333333", tracker:"DDDDDD", slider:"666666", loader:"009900", track:"FFFFFF", border:"CCCCCC", bg:"E5E5E5", skip:"666666", righticon:"333333", righticonhover:"FFFFFF", rightbg:"B4B4B4", rightbghover:"999999", initialvolume:"70", buffer:"5", checkpolicy:"no", animation:"yes", remaining:"no",  pagebg:"FFFFFF", transparentpagebg:"yes", encode: "no"} );
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+var podPressBlogURL = "http://blog.stackoverflow.com/";
+var podPressBackendURL = "http://blog.stackoverflow.com/wp-content/plugins/podpress/";
+var podPressDefaultPreviewImage = "http://blog.stackoverflow.com/wp-content/plugins/podpress/images/vpreview_center.png";
+var podPressMP3PlayerWrapper = true;
+var podPress_cortado_signed = false;
+var podPressOverwriteTitleandArtist = false;
+var podPressHTML5 = false;
+var podPressHTML5_showplayersdirectly = false;
+var podPressText_PlayNow = "Play Now";
+var podPressText_HidePlayer = "Hide Player";
+//]]></script>
+<script type='text/javascript' src='http://blog.stackoverflow.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://blog.stackoverflow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://blog.stackoverflow.com/wp-content/plugins/podpress/js/podpress.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.stackoverflow.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog.stackoverflow.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Say Hi to Nine of Our Newest Newbies' href='http://blog.stackoverflow.com/2013/07/say-hi-to-nine-of-our-newest-newbies/' />
+<link rel='next' title='Podcast #51 &#8211; The Return of Coding Horror' href='http://blog.stackoverflow.com/2013/08/podcast-51-the-return-of-codinghorror/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://blog.stackoverflow.com/2013/07/podcast-50-listen-to-this-podcast/' />
+<link rel='shortlink' href='http://blog.stackoverflow.com/?p=13878' />
+<link rel="stylesheet" type="text/css" href="http://blog.stackoverflow.com/wp-content/plugins/wp-recaptcha/recaptcha.css" />
+</head>
+<body>
+
+<div class="container">
+	<section class="topbarWrapper">
+		<div class="topbar">
+			<a href="http://www.stackexchange.com" class="logo-se">Stack Exchange</a>
+	
+			<div class="searchBox">
+				 
+<form class="frmSearch" method="get" id="searchform" action="http://blog.stackoverflow.com/" >
+<input type="text" size="25" class="txtSearch" value="Search"  name="s" id="s"  onblur="if (this.value == '')  {this.value = 'Search';}"  onfocus="if (this.value == 'Search')  {this.value = '';}" /> 
+
+<input type="hidden" class="btnSearch" id="searchsubmit" value="Search" />
+</form>
+
+			</div>  
+			
+
+			
+						
+		</div>
+	</section>
+    <header class="main">
+	<!-- Header Starts -->
+       <a href="http://blog.stackoverflow.com/"><img src="http://blog.stackoverflow.com/wp-content/themes/se-new/images/logo.png" alt="site title" class="logo-blog" /></a>
+       
+       <nav class="main">
+				<ul ><li class="page_item page-item-11180"><a href="http://blog.stackoverflow.com/archive/">Archive</a></li>
+</ul>
+		</nav>	
+    <!-- Header Ends -->
+    </header>
+	
+
+ 
+
+  <section id="content">  <!-- Main Content Start -->
+	<div class="contentWrapper">
+		<div id="mainbar">
+
+		        	
+					<h1 class="blog-title"><a href="http://blog.stackoverflow.com/2013/07/podcast-50-listen-to-this-podcast/">Podcast #50 &#8211; Listen To This Podcast</a></h1>
+					<div class="meta-info"><span class="postedDate">07-25-13</span> by <a href="http://blog.stackoverflow.com/author/alex/" title="Posts by Alex Miller" rel="author">Alex Miller</a>.  <a href="http://blog.stackoverflow.com/2013/07/podcast-50-listen-to-this-podcast/#comments">19 comments</a> </div>
+         
+					<div class="post-text">                    
+  					
+                  <p>Welcome to Stack Exchange podcast #50, featuring usual suspects Joel Spolsky, Jay Hanlon, and David Fullerton, plus special guest Shog9 aka Nine Shogs <a href="http://dictionary.reference.com/browse/shogging" target="_blank">Shogging</a>.  And remember, today&#8217;s podcast is sponsored by the House of Lords, bringing you excellent laws, 100% free!</p>
+<ul>
+<ul>
+<li> This is podcast #50… sort of. It&#8217;s the 50th podcast since we switched from the Stack Overflow podcast to the Stack Exchange podcast, but we&#8217;ll celebrate anyway.</li>
+<li> Our most recent blog post <a href="http://blog.stackoverflow.com/2013/07/say-hi-to-nine-of-our-newest-newbies/" target="_blank">had an instruction in the title</a>, and 80 people bothered to do so. Apparently, our blog post titles have power. We probably promise only to use it for good.</li>
+<li> Site milestones, featuring Jaydles. Since our last podcast, we have launched <a href="http://space.stackexchange.com/" target="_blank">Space Exploration</a>. As of this recording it&#8217;s in private beta, but it may be public by the time of publishing. The activity level is very good &#8211; 150 questions in the first few days. 136 of them are even open! (Amusingly, the proposal faced <a href="http://discuss.area51.stackexchange.com/questions/11018/space-exploration-proposal-promotion-deleted-because-of-area-51-connection" target="_blank">some promotional setbacks</a> during the Area 51 process.)</li>
+<li>New features. We redesigned two small but important pages: the <a href="http://stackoverflow.com/help/badges" target="_blank">badges page</a> and the <a href="http://stackoverflow.com/help/privileges" target="_blank">privileges page</a>, which used to be extremely confusing. We also fulfilled an <a href="http://meta.stackoverflow.com/q/915/165581" target="_blank">ancient [feature-request]</a> - you can now retract close votes.</li>
+<li>Jon Ericson is the newest member of the Community Team, and since Community Managers have lots of direct interaction with the community we like to introduce them personally. He&#8217;s a top user on <a href="http://hermeneutics.stackexchange.com/users/68/jon-ericson" target="_blank">Biblical Hermeneutics</a> and we are happy to have him on board.</li>
+<li>Reason #48923 to <a href="http://stackexchange.com/about/hiring" target="_blank">work at Stack Exchange</a>: we now have two private chefs working for us. They are awesome.</li>
+<li>Also,  today is the rollout of our custom beer pong table. Blame Jay and Michael.</li>
+<li>What is there that&#8217;s left to say about closing? We made some changes to closing. It&#8217;s close to our hearts because a) we hate fun, and b) the whole reason that people like us (and also hate us) is because we close all the crap. But people don&#8217;t <i>feel</i> that way about closing. So we needed to learn to close less hatefully.</li>
+<li>Enter: <a href="http://blog.stackoverflow.com/2013/06/the-war-of-the-closes/" target="_blank">the War of the Closes</a>. Jay walks us through what changed. Including statistics! And buckets!</li>
+<li>So why do we have to close questions at all? Joel has the answer! Because otherwise we would be like Yahoo! Answers. Joel walks us through the history of programming questions, from the Dark Days. It takes a while. Get comfortable.</li>
+<li>Also, <a href="http://blog.stackoverflow.com/2010/01/stack-overflow-where-we-hate-fun/" target="_blank">we still hate fun</a>. (If you didn&#8217;t copy down the question number, <a href="http://stackoverflow.com/questions/953714/face-recognition-library" target="_blank">this is the question</a> we talk about for a while.) This could be a podcast all on its own. <a href="http://meta.travel.stackexchange.com/questions/13/localized-questions" target="_blank">Here&#8217;s the Meta.Travel.SE question we discuss</a>. <a href="http://www.flyertalk.com/forum/manufactured-spending/1455542-pin-available-now-visa-mc-prepaid-debit-cards.html" target="_blank">Here&#8217;s the FlyerTalk example thread</a> Joel was talking about.</li>
+<li>Joel broke the shades in the conference room. Possibly forever. Then, back to close reasons. We realized we couldn&#8217;t ever cover all of the off topic questions, so there&#8217;s an &#8220;other&#8221; free-form reason.</li>
+</ul>
+</ul>
+<p style="text-align: center;"><a href="http://imgur.com/CqsAzHL"><img class="aligncenter" title="Hosted by imgur.com" alt="" src="http://i.imgur.com/CqsAzHL.jpg" width="420" height="286" /></a></p>
+<ul>
+<li>Go to <a href="http://stackoverflow.com/" target="_blank">stackoverflow.com</a> and search for &#8220;closed:1&#8243; and click &#8220;newest&#8221;. This will show you the most recently closed questions. You&#8217;ll hopefully find that the new set of reasons makes much more sense. We&#8217;re happy with the way</li>
+</ul>
+<p>Thanks for joining us!  Today&#8217;s guest has been Nine Shogs Shogging, joining Jay Hanlon, David Fullerton, and Joel Spolsky.  Today&#8217;s episode was sponsored by the House of Lords. See you next time!<br />
+<iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F102518231" height="166" width="100%" frameborder="no" scrolling="no"></iframe></p>
+<div class="podPress_content podPress_content_audio_mp3"><div class="podPress_downloadlinks podPress_downloadlinks_audio_mp3"><a href="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/102518231-stack-exchange-stack-exchange-podcast-50.mp3" target="new" title="Download: SE Podcast #50 - Listen To This Podcast" class="podpress_downloadimglink podpress_downloadimglink_audio_mp3"><img src="http://blog.stackoverflow.com/wp-content/plugins/podpress/images/audio_mp3_button.png" class="podPress_imgicon podpress_imgicon_audio_mp3" alt="" /></a> <span class="podpress_mediafile_title podpress_mediafile_title_audio_mp3">SE Podcast #50 - Listen To This Podcast</span> <span class="podpress_mediafile_dursize podpress_mediafile_dursize_audio_mp3">[ 43:41 ]</span> <a href="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/102518231-stack-exchange-stack-exchange-podcast-50.mp3" target="new" class="podpress_downloadlink podpress_downloadlink_audio_mp3">Download</a></div></div>
+<script type="text/javascript"></script>				  <div>
+							<span class="filedto">Filed under <a href="http://blog.stackoverflow.com/category/podcasts/" title="View all posts in podcasts" rel="category tag">podcasts</a></span>
+													</div>
+					</div>
+                    
+					<div class="navigation">
+                        <span >&laquo;  <a href="http://blog.stackoverflow.com/2013/07/say-hi-to-nine-of-our-newest-newbies/" rel="prev">Say Hi to Nine of Our Newest Newbies</a></span> | 
+                        <span style="float: right"><a href="http://blog.stackoverflow.com/2013/08/podcast-51-the-return-of-codinghorror/" rel="next">Podcast #51 &#8211; The Return of Coding Horror</a> &raquo; </span>
+                    </div>                   
+
+				  <div id="comments">
+				  
+<!-- You can start editing here. -->
+
+	<h2 id="commentsTitle">19 Comments</h2>
+
+
+	
+	        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81108" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://0.gravatar.com/avatar/06b7d7b3e85fa75a678b91d6b2741b1a?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">1</div>--><div class="authorName"> Wouter 			 <span class="commentDate"><a href="#comment-81108">Jul 25 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>4:00-4:30 That&#8217;s spooky. This is the first Podcast I&#8217;ve ever clicked on! Just remember that with great power comes great pizza &#8211; eh responsibility&#8230; *sigh* &#8211; I&#8217;m eating pizza right now. Hmm, pizza&#8230; What was I talking about again?</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81109" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/565bf9c1abbccb0f1cab5d9ed24c5883?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">2</div>--><div class="authorName"> <a href='http://porsche356thefirst.org/' rel='external nofollow' class='url'>Michael King</a> 			 <span class="commentDate"><a href="#comment-81109">Jul 25 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>One of the first podcasts I ever listened all the way through. Intersting, funny. I enjoyed :)</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81111" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/31975d063f893b2551f6f7d5ed6bfa8e?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">3</div>--><div class="authorName"> <a href='http://labs.nticompassinc.com' rel='external nofollow' class='url'>Eric Siegel</a> 			 <span class="commentDate"><a href="#comment-81111">Jul 25 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>Was the podcast supposed to be cut off at &#8220;we should not allow any popular question because&#8230;&#8221;?</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81113" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/31975d063f893b2551f6f7d5ed6bfa8e?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">4</div>--><div class="authorName"> <a href='http://labs.nticompassinc.com' rel='external nofollow' class='url'>Eric Siegel</a> 			 <span class="commentDate"><a href="#comment-81113">Jul 25 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>Never mind, I saw you updated the SoundCloud with a longer file! :-)</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81115" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://0.gravatar.com/avatar/6e3b00302eeb937b1358f0445e53efc4?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">5</div>--><div class="authorName"> Freddy 			 <span class="commentDate"><a href="#comment-81115">Jul 25 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>My valuable contribution to this podcast :</p>
+<p>Snogging = Kissing (tonsil tennis variety)<br />
+Shagging = Sexual congress</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81116" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/3ea3b82e836912041124db305e08ed31?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">6</div>--><div class="authorName"> Andre Calil 			 <span class="commentDate"><a href="#comment-81116">Jul 25 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>Man, I took a minute to realize that Powdermilk, S (?!) and the House of Lords aren&#8217;t actually sponsoring the show&#8230;</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81117" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/1233ec65168f4aae4d939ae8fe6cde1e?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">7</div>--><div class="authorName"> Robert Harvey 			 <span class="commentDate"><a href="#comment-81117">Jul 25 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>Yeah, that&#8217;s not what shogging means.</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81118" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/5290171fc34aa660e85414480cffc4f7?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">8</div>--><div class="authorName"> Manuel Görlich 			 <span class="commentDate"><a href="#comment-81118">Jul 25 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>Title did his work, first StackExchange/Overflow Podcast i&#8217;ve ever listened to, only because i was curious about the Title&#8230;</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81119" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/fa1512d38160d0546361d2723d0949e4?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">9</div>--><div class="authorName"> AlbeyAmakiir 			 <span class="commentDate"><a href="#comment-81119">Jul 25 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>I, at least, read the page before following the title instruction blindly. Still worked. Weird. &lt;_&lt;</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81152" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://0.gravatar.com/avatar/0e1db262b29cd6eb1369a78daeff21f0?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">10</div>--><div class="authorName"> Dustin 			 <span class="commentDate"><a href="#comment-81152">Jul 26 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>First Podcast I have ever bothered to click on.</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81157" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://0.gravatar.com/avatar/8071e328b0efbc60d977e710e84703fa?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">11</div>--><div class="authorName"> Misty Fowler 			 <span class="commentDate"><a href="#comment-81157">Jul 26 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>I was looking on Google for programming advice, and it took me to this weird ExpertSexchange site. I got confused, and suddenly found myself listening to this weird thing called a podcast. Just figured someone might want to know about this weird experience.</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81166" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/191dbc0ae8b2e1192d867f5e806bbf71?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">12</div>--><div class="authorName"> Sumurai8 			 <span class="commentDate"><a href="#comment-81166">Jul 27 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>Well&#8230; I listened&#8230;</p>
+<p>To be honest I wouldn&#8217;t have even noticed there was a podcast in this blog post if it wouldn&#8217;t have been in the title.</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81173" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/5ea9cb9bb7787dc8c6468f2bb8468478?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">13</div>--><div class="authorName"> Gavriel Feria 			 <span class="commentDate"><a href="#comment-81173">Jul 27 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>Also, to &#8216;we still hate fun&#8217;, well it contradicts itself. This website is about programming, and programming is actually FUN (for some users, like me), so apparently the &#8216;we still hate fun&#8217; post is contradicting itself. Like the others that commented this is the first time I&#8217;ve seen a podcast on the blog.</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81174" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://0.gravatar.com/avatar/6a8b8b5fef7e64c7a0830e9b39ff0794?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">14</div>--><div class="authorName"> <a href='http://genealogy.stackexchange.com/users/56/american-luke' rel='external nofollow' class='url'>Luke</a> 			 <span class="commentDate"><a href="#comment-81174">Jul 27 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>I listened to the podcast</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81188" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://0.gravatar.com/avatar/a0161feded4a20b2636f9a0177738316?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">15</div>--><div class="authorName"> <a href='http://stackoverflow.com/users/811' rel='external nofollow' class='url'>Shog9</a> 			 <span class="commentDate"><a href="#comment-81188">Jul 27 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>@Gavriel: the &#8220;we hate fun&#8221; line is kinda tongue-in-cheek, a reference to a common complaint raised in response to the moderation of certain popular questions. <i>Most</i> of us are here to have fun &#8211; but some folks really wanted to play <a href="http://en.wikipedia.org/wiki/Calvinball#Calvinball" rel="nofollow">Calvinball</a>.</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81251" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/565bf9c1abbccb0f1cab5d9ed24c5883?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">16</div>--><div class="authorName"> <a href='http://porsche356thefirst.org/' rel='external nofollow' class='url'>Lawliet Lynn</a> 			 <span class="commentDate"><a href="#comment-81251">Jul 31 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>Interesting Podcast. Great listen :)</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81262" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://0.gravatar.com/avatar/4d19fd706ffd7042d3b1749ff4fa9ae9?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">17</div>--><div class="authorName"> <a href='http://stackexchange.com/users/200902/kronos' rel='external nofollow' class='url'>Kronos</a> 			 <span class="commentDate"><a href="#comment-81262">Aug 1 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>What about the BLOG!  Why don&#8217;t we use the blogging system for these types of questions that are not really on-topic for the site, but is still useful to the site, and site members?  Software, Library or other product recommendations would be perfectly suited for blog posts.  They can also be maintained by the community as well.</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81584" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/9e455a8bffc8c90133797447d2b7aaa1?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">18</div>--><div class="authorName"> <a href='http://sarkarinaukrisportal.blogspot.com' rel='external nofollow' class='url'>sarkari naukri</a> 			 <span class="commentDate"><a href="#comment-81584">Aug 14 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>I follow this blog regularly<br />
+always i will be some knowledge from this blog<br />
+thanks for every thing. keep posting</p>
+		</div>
+        </div>
+	</div>
+
+        
+  
+    
+   
+	
+	<div class="commentGuests">
+    	<span id="comment-81631" ></span>
+   		<div class="authorInfo">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/bb430dc40c4648586562d2ef22c8557b?s=35&amp;d=identicon&amp;r=PG' class='avatar avatar-35 photo' height='35' width='35' /> <!--<div class="count">19</div>--><div class="authorName"> awe 			 <span class="commentDate"><a href="#comment-81631">Aug 16 2013</a></span> 			 	 
+			
+		</div>
+		<div class="commentTxt">
+			<p>@Kronos: The &#8220;blog&#8221; you are looking for is called &#8220;chat&#8221; here in the SE community. Blog is for posting articles.</p>
+		</div>
+        </div>
+	</div>
+
+	
+
+ 
+<br />
+                  </div>  
+    		                 
+       
+                    
+
+                
+        </div>
+
+
+     <div id="sidebar">
+		
+		
+                        
+            <div id="hireme" class="hireme blog module" style="min-height:220px"></div> 
+             
+            <script type="text/javascript"> 
+                setTimeout(function () { 
+                    var a = document.createElement("script"); 
+                    var b = document.getElementsByTagName('script')[0]; 
+                    a.src = "http://careers.stackoverflow.com/ad/js?blog"; 
+                    a.async = true;  
+                    a.type = "text/javascript";  
+                    b.parentNode.insertBefore(a, b); 
+                }, 5); 
+            </script>
+
+
+            <div class="module">
+            	<h4>Recent</h4>
+            
+				<ul>
+						<li><a href='http://blog.stackoverflow.com/2013/09/summer-hiring-happened-so-fast/' title='Summer Hiring, Happened So Fast'>Summer Hiring, Happened So Fast</a></li>
+	<li><a href='http://blog.stackoverflow.com/2013/09/five-years-ago-stack-overflow-launched-then-a-miracle-occurred/' title='Five years ago, Stack Overflow launched. Then, a miracle occurred.'>Five years ago, Stack Overflow launched. Then, a miracle occurred.</a></li>
+	<li><a href='http://blog.stackoverflow.com/2013/09/community-management-by-popular-demand-kevin-chang-joins-the-team/' title='Community Management by Popular Demand: Kevin Chang Joins The Team'>Community Management by Popular Demand: Kevin Chang Joins The Team</a></li>
+	<li><a href='http://blog.stackoverflow.com/2013/09/podcast-52-we-didnt-need-headphones/' title='Podcast #52 &#8211; We Didn&#8217;t Need Headphones'>Podcast #52 &#8211; We Didn&#8217;t Need Headphones</a></li>
+	<li><a href='http://blog.stackoverflow.com/2013/08/introducing-gabe-the-smiling-community-manager/' title='Introducing Gabe, The Smiling Community Manager'>Introducing Gabe, The Smiling Community Manager</a></li>
+				</ul>  
+				<p class="fr"><a href="/archive/">view all posts</a></p>
+            </div> 			         
+			
+            <div class="module">
+            	<h4>Topics</h4>
+				<ul class="twoCol post-category">
+						<li class="cat-item cat-item-22"><a href="http://blog.stackoverflow.com/category/announcement/" title="View all posts filed under announcement">announcement</a> (53)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://blog.stackoverflow.com/category/api/" title="View all posts filed under API">API</a> (13)
+</li>
+	<li class="cat-item cat-item-24"><a href="http://blog.stackoverflow.com/category/area51/" title="View all posts filed under Area51">Area51</a> (15)
+</li>
+	<li class="cat-item cat-item-9"><a href="http://blog.stackoverflow.com/category/background/" title="View all posts filed under background">background</a> (118)
+</li>
+	<li class="cat-item cat-item-11"><a href="http://blog.stackoverflow.com/category/beta/" title="View all posts filed under Beta">Beta</a> (18)
+</li>
+	<li class="cat-item cat-item-28"><a href="http://blog.stackoverflow.com/category/blogoverflow/" title="View all posts filed under blogoverflow">blogoverflow</a> (2)
+</li>
+	<li class="cat-item cat-item-19"><a href="http://blog.stackoverflow.com/category/careers/" title="View all posts filed under careers">careers</a> (24)
+</li>
+	<li class="cat-item cat-item-16"><a href="http://blog.stackoverflow.com/category/cc-wiki-dump/" title="View all posts filed under cc-wiki-dump">cc-wiki-dump</a> (10)
+</li>
+	<li class="cat-item cat-item-52"><a href="http://blog.stackoverflow.com/category/chaos/" title="View all posts filed under chaos">chaos</a> (5)
+</li>
+	<li class="cat-item cat-item-13"><a href="http://blog.stackoverflow.com/category/community/" title="View all posts filed under community">community</a> (217)
+</li>
+	<li class="cat-item cat-item-56"><a href="http://blog.stackoverflow.com/category/denver/" title="View all posts filed under denver">denver</a> (3)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://blog.stackoverflow.com/category/design/" title="View all posts filed under design">design</a> (118)
+</li>
+	<li class="cat-item cat-item-25"><a href="http://blog.stackoverflow.com/category/devdays/" title="View all posts filed under devdays">devdays</a> (6)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://blog.stackoverflow.com/category/legal/" title="View all posts filed under legal">legal</a> (6)
+</li>
+	<li class="cat-item cat-item-55"><a href="http://blog.stackoverflow.com/category/meetups/" title="View all posts filed under meetups">meetups</a> (5)
+</li>
+	<li class="cat-item cat-item-21"><a href="http://blog.stackoverflow.com/category/moderators/" title="View all posts filed under moderators">moderators</a> (14)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://blog.stackoverflow.com/category/podcasts/" title="View all posts filed under podcasts">podcasts</a> (153)
+</li>
+	<li class="cat-item cat-item-53"><a href="http://blog.stackoverflow.com/category/promotion/" title="View all posts filed under promotion">promotion</a> (11)
+</li>
+	<li class="cat-item cat-item-26"><a href="http://blog.stackoverflow.com/category/reference/" title="View all posts filed under reference">reference</a> (28)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://blog.stackoverflow.com/category/server/" title="View all posts filed under server">server</a> (31)
+</li>
+	<li class="cat-item cat-item-14"><a href="http://blog.stackoverflow.com/category/serverfaultcom/" title="View all posts filed under serverfault.com">serverfault.com</a> (34)
+</li>
+	<li class="cat-item cat-item-18"><a href="http://blog.stackoverflow.com/category/stackexchange/" title="View all posts filed under stackexchange">stackexchange</a> (113)
+</li>
+	<li class="cat-item cat-item-27"><a href="http://blog.stackoverflow.com/category/stackoverflow/" title="View all posts filed under stackoverflow">stackoverflow</a> (16)
+</li>
+	<li class="cat-item cat-item-15"><a href="http://blog.stackoverflow.com/category/superusercom/" title="View all posts filed under superuser.com">superuser.com</a> (33)
+</li>
+				</ul> 
+            </div>   
+            
+			
+			 	
+            
+
+                        
+            <div class="module">
+            	<h4>Proud Supporter of:</h4><br />
+                
+                <a href="http://www.microsoft.com/bizspark/"><img src="http://blog.stackoverflow.com/wp-content/themes/se-new/images/biz-spark.png" alt="BizSparkDB" /></a><br />
+                <a href="http://www.mathjax.org/sponsors/"><img src="http://blog.stackoverflow.com/wp-content/themes/se-new/images/mathjax.png" alt="MathJax" /></a><br />
+                <a href="http://tug.org/instmem.html"><img src="http://blog.stackoverflow.com/wp-content/themes/se-new/images/tex.png" alt="Institutional members of the TeX Users Group" /></a>
+            </div>	
+            
+			<div class="module">
+				<a href="http://blog.stackoverflow.com/feed/"><img src="http://blog.stackoverflow.com/wp-content/themes/se-new/images/ico_rss.png" alt="Subscribe to our RSS feed" /> Subscribe via RSS</a><br />
+                <a href="https://twitter.com/#!/stackexchange" class="btn-share"><img src="http://blog.stackoverflow.com/wp-content/themes/se-new/images/twitter.png" alt="twitter"/></a>
+                <a href="https://www.facebook.com/stackexchange" class="btn-share"><img src="http://blog.stackoverflow.com/wp-content/themes/se-new/images/facebook.png" alt="facebook"/></a>
+                <a href="https://plus.google.com/u/0/101120115153580954446/posts" class="btn-share"><img src="http://blog.stackoverflow.com/wp-content/themes/se-new/images/gplus.png" alt="G-Plus"/></a>                                
+			</div>            	
+            
+	</div>               
+	</section> <!-- Main Content End -->
+
+
+    
+             
+</div>    
+
+	<div id="footer">
+		<div class="footerwrap">
+        <p>Stack Exchange © 2013<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0; " src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png"></a><br><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Sound" property="dc:title" rel="dc:type">blog content and podcasts</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.</p>			 
+
+		</div>
+	</div>
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5620270-26']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.300 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2013-09-30 05:37:38 -->
+
+<!-- super cache -->

@@ -1,0 +1,2814 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<!-- Mimic Internet Explorer 8, to solve compatibility mode issue -->
+		<meta http-equiv="X-UA-Compatible" content="IE=8" />
+		
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Locations | The New York Public Library</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/nypl_new/favicon.ico" type="image/x-icon" />
+<script src="http://maps.google.com/maps?file=api&amp;v=2.115&amp;key=ABQIAAAA7Tt83wKSx-fKnRSU80jW-hQkRbLN1aFemfwyS6wnyuMq0ia-MxQqH5NOky1OvIi_PTEKtPvyJ0L4og&amp;hl=en" type="text/javascript"></script>
+<meta name="keywords" content="NYPL,The New York Public Library,Manhattan,Bronx,Staten Island" />
+<meta name="copyright" content="© 2010 The New York Public Library" />
+<link rel="canonical" href="http://www.nypl.org/locations" />
+<meta name="revisit-after" content="1 day" />
+<link type="text/css" rel="stylesheet" media="all" href="http://www.nypl.org/sites/default/files/css/css_0af8b1d8a144d9b9a534fca09b79777d.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="http://www.nypl.org/sites/default/files/css/css_aa7cf642d3e0dba589d66bb301771898.css" />
+<link type="text/css" rel="stylesheet" media="print" href="http://www.nypl.org/sites/default/files/css/css_f52d3331b3e15a90d12d757270dd0ae2.css" />
+
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="/sites/all/themes/nypl_new/css/IE7.css" />
+<![endif]-->
+
+
+<script type="text/javascript" src="http://www.nypl.org/sites/default/files/js/js_1ef7fee63c6a3c1c529c6e8e4ee3886b.js"></script>
+<script type="text/javascript" src="http://www.nypl.org/sites/default/files/js/gmap_markers.js?M"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip|mp3|mp4|mpe|mpg"},"extlink":{"extTarget":0,"extClass":0,"extSubdomains":1,"extExclude":"(bibliocommons\\.com)|(convio\\.net)|(questionpoint\\.org)","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0},"gmap_markermanager":[],"gmap":{"all_locations":{"width":"500px","height":"500px","zoom":12,"maxzoom":17,"controltype":"Large","align":"None","maptype":"Map","mtc":"standard","baselayers":{"Map":1,"Satellite":1,"Hybrid":1},"styles":{"line_default":["0000ff","5","45","",""],"poly_default":["000000","3","25","ff0000","45"]},"line_colors":["#00cc00","#ff0000","#0000ff"],"behavior":{"locpick":false,"nodrag":0,"nokeyboard":1,"nomousezoom":1,"nocontzoom":0,"autozoom":0,"dynmarkers":1,"overview":1,"collapsehack":0,"scale":0,"extramarkerevents":false,"clickableshapes":false},"markermode":"1","id":"all_locations","markers":[{"options":[],"opts":{"title":"115th Street Library"},"longitude":"-73.9532","latitude":"40.8028","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/115th-street\"\u003e115th Street Library\u003c\/a\u003e\u003cbr \/\u003e203 West 115th Street\u003cbr \/\u003eNew York, NY 10026-2403\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"125th Street Library"},"longitude":"-73.9354","latitude":"40.8034","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/125th-street\"\u003e125th Street Library\u003c\/a\u003e\u003cbr \/\u003e224 East 125th Street\u003cbr \/\u003eNew York, NY 10035-1786\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"58th Street Library"},"longitude":"-73.9691","latitude":"40.7619","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/58th-street\"\u003e58th Street Library\u003c\/a\u003e\u003cbr \/\u003e127 East 58th Street\u003cbr \/\u003eNew York, NY 10022-1211\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"67th Street Library"},"longitude":"-73.9601","latitude":"40.7652","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/67th-street\"\u003e67th Street Library\u003c\/a\u003e\u003cbr \/\u003e328 East 67th Street\u003cbr \/\u003eNew York, NY 10065-6204\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"96th Street Library"},"longitude":"-73.9522","latitude":"40.7863","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/96th-street\"\u003e96th Street Library\u003c\/a\u003e\u003cbr \/\u003e112 East 96th Street\u003cbr \/\u003eNew York, NY 10128-2597\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Aguilar Library"},"longitude":"-73.9436","latitude":"40.7943","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/aguilar\"\u003eAguilar Library\u003c\/a\u003e\u003cbr \/\u003e174 East 110th Street\u003cbr \/\u003eNew York, NY 10029-3212\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Allerton Library"},"longitude":"-73.8632","latitude":"40.866","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/allerton\"\u003eAllerton Library\u003c\/a\u003e\u003cbr \/\u003e2740 Barnes Avenue\u003cbr \/\u003eBronx, NY 10467\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Andrew Heiskell Braille and Talking Book Library"},"longitude":"-73.993","latitude":"40.7404","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/heiskell\"\u003eAndrew Heiskell Braille and Talking Book Library\u003c\/a\u003e\u003cbr \/\u003e40 West 20th Street\u003cbr \/\u003eNew York, NY 10011-4211\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Baychester Library"},"longitude":"-73.8305","latitude":"40.8711","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/baychester\"\u003eBaychester Library\u003c\/a\u003e\u003cbr \/\u003e2049 Asch Loop North\u003cbr \/\u003eBronx, NY 10475\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Belmont Library and Enrico Fermi Cultural Center"},"longitude":"-73.8877","latitude":"40.8544","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/belmont\"\u003eBelmont Library and Enrico Fermi Cultural Center\u003c\/a\u003e\u003cbr \/\u003e610 E. 186th Street\u003cbr \/\u003eBronx, NY 10458\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Bloomingdale Library"},"longitude":"-73.9671","latitude":"40.796","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/bloomingdale\"\u003eBloomingdale Library\u003c\/a\u003e\u003cbr \/\u003e150 West 100th Street\u003cbr \/\u003eNew York, NY 10025-5196\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Bronx Library Center"},"longitude":"-73.8944","latitude":"40.8634","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/bronx-library-center\"\u003eBronx Library Center\u003c\/a\u003e\u003cbr \/\u003e310 East Kingsbridge Road\u003cbr \/\u003eBronx, NY 10458\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Castle Hill Library"},"longitude":"-73.8499","latitude":"40.8264","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/castle-hill\"\u003eCastle Hill Library\u003c\/a\u003e\u003cbr \/\u003e947 Castle Hill Avenue\u003cbr \/\u003eBronx, NY 10473\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Terence Cardinal Cooke-Cathedral Library"},"longitude":"-73.9725","latitude":"40.7568","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/cathedral\"\u003eTerence Cardinal Cooke-Cathedral Library\u003c\/a\u003e\u003cbr \/\u003e560 Lexington Avenue\u003cbr \/\u003eNew York, NY 10022-6828\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Chatham Square Library"},"longitude":"-73.9965","latitude":"40.7134","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/chatham-square\"\u003eChatham Square Library\u003c\/a\u003e\u003cbr \/\u003e33 East Broadway\u003cbr \/\u003eNew York, NY 10002-6804\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"City Island Library"},"longitude":"-73.7865","latitude":"40.8477","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/city-island\"\u003eCity Island Library\u003c\/a\u003e\u003cbr \/\u003e320 City Island Avenue\u003cbr \/\u003eBronx, NY 10464\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Clason's Point Library"},"longitude":"-73.8748","latitude":"40.8299","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/clasons-point\"\u003eClason\u0026#039;s Point Library\u003c\/a\u003e\u003cbr \/\u003e1215 Morrison Avenue\u003cbr \/\u003eBronx, NY 10472\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Columbus Library"},"longitude":"-73.9914","latitude":"40.765","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/columbus\"\u003eColumbus Library\u003c\/a\u003e\u003cbr \/\u003e742 10th Avenue\u003cbr \/\u003eNew York, NY 10019-7019\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Countee Cullen Library"},"longitude":"-73.9408","latitude":"40.8148","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/countee-cullen\"\u003eCountee Cullen Library\u003c\/a\u003e\u003cbr \/\u003e104 West 136th Street\u003cbr \/\u003eNew York, NY 10030-2695\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Dongan Hills Library"},"longitude":"-74.101","latitude":"40.5906","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/dongan-hills\"\u003eDongan Hills Library\u003c\/a\u003e\u003cbr \/\u003e1617 Richmond Road\u003cbr \/\u003eStaten Island, NY 10304\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Donnell Library Center"},"longitude":"-73.9774","latitude":"40.7609","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/donnell\"\u003eDonnell Library Center\u003c\/a\u003e\u003cbr \/\u003e20 West 53rd Street\u003cbr \/\u003eNew York, NY 10019-6185\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Eastchester Library"},"longitude":"-73.8454","latitude":"40.8702","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/eastchester\"\u003eEastchester Library\u003c\/a\u003e\u003cbr \/\u003e1385 East Gun Hill Road\u003cbr \/\u003eBronx, NY 10469\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Edenwald Library"},"longitude":"-73.8409","latitude":"40.8888","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/edenwald\"\u003eEdenwald Library\u003c\/a\u003e\u003cbr \/\u003e1255 East 233rd Street\u003cbr \/\u003eBronx, NY 10466\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Epiphany Library"},"longitude":"-73.9827","latitude":"40.7385","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/epiphany\"\u003eEpiphany Library\u003c\/a\u003e\u003cbr \/\u003e228 East 23rd Street\u003cbr \/\u003eNew York, NY 10010-4672\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Fort Washington Library"},"longitude":"-73.9337","latitude":"40.8478","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/fort-washington\"\u003eFort Washington Library\u003c\/a\u003e\u003cbr \/\u003e535 West 179th Street\u003cbr \/\u003eNew York, NY 10033-5799\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Francis Martin Library"},"longitude":"-73.9095","latitude":"40.8574","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/francis-martin\"\u003eFrancis Martin Library\u003c\/a\u003e\u003cbr \/\u003e2150 University Avenue\u003cbr \/\u003eBronx, NY 10453\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"George Bruce Library"},"longitude":"-73.957","latitude":"40.8139","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/george-bruce\"\u003eGeorge Bruce Library\u003c\/a\u003e\u003cbr \/\u003e518 West 125th Street\u003cbr \/\u003eNew York, NY 10027-3407\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Grand Concourse Library"},"longitude":"-73.9101","latitude":"40.8439","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/grand-concourse\"\u003eGrand Concourse Library\u003c\/a\u003e\u003cbr \/\u003e155 East 173rd Street\u003cbr \/\u003eBronx, NY 10457\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Great Kills Library"},"longitude":"-74.151","latitude":"40.5524","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/great-kills\"\u003eGreat Kills Library\u003c\/a\u003e\u003cbr \/\u003e56 Giffords Lane\u003cbr \/\u003eStaten Island, NY 10308\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Hamilton Fish Park Library"},"longitude":"-73.9791","latitude":"40.7199","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/hamilton-fish-park\"\u003eHamilton Fish Park Library\u003c\/a\u003e\u003cbr \/\u003e415 East Houston Street\u003cbr \/\u003eNew York, NY 10002-1197\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Hamilton Grange Library"},"longitude":"-73.9477","latitude":"40.8255","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/hamilton-grange\"\u003eHamilton Grange Library\u003c\/a\u003e\u003cbr \/\u003e503 West 145th Street\u003cbr \/\u003eNew York, NY 10031-5101\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Harlem Library"},"longitude":"-73.9431","latitude":"40.8061","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/harlem\"\u003eHarlem Library\u003c\/a\u003e\u003cbr \/\u003e9 West 124th Street\u003cbr \/\u003eNew York, NY 10027-5699\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"High Bridge Library"},"longitude":"-73.9235","latitude":"40.838","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/high-bridge\"\u003eHigh Bridge Library\u003c\/a\u003e\u003cbr \/\u003e78 West 168th Street\u003cbr \/\u003eBronx, NY 10452\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Hudson Park Library"},"longitude":"-74.0053","latitude":"40.73","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/hudson-park\"\u003eHudson Park Library\u003c\/a\u003e\u003cbr \/\u003e66 Leroy Street\u003cbr \/\u003eNew York, NY 10014-3929\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Huguenot Park Library"},"longitude":"-74.1933","latitude":"40.5345","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/huguenot-park\"\u003eHuguenot Park Library\u003c\/a\u003e\u003cbr \/\u003e830 Huguenot Avenue\u003cbr \/\u003eStaten Island, NY 10312\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Stephen A. Schwarzman Building"},"longitude":"-73.9822","latitude":"40.7532","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/schwarzman\"\u003eStephen A. Schwarzman Building\u003c\/a\u003e\u003cbr \/\u003eFifth Avenue at 42nd Street\u003cbr \/\u003eNew York, NY 10018-2788\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Hunt's Point Library"},"longitude":"-73.8939","latitude":"40.8187","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/hunts-point\"\u003eHunt\u0026#039;s Point Library\u003c\/a\u003e\u003cbr \/\u003e877 Southern Boulevard\u003cbr \/\u003eBronx, NY 10459\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Inwood Library"},"longitude":"-73.9257","latitude":"40.866","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/inwood\"\u003eInwood Library\u003c\/a\u003e\u003cbr \/\u003e4790 Broadway\u003cbr \/\u003eNew York, NY 10034-4916\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Jefferson Market Library"},"longitude":"-73.999","latitude":"40.7347","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/jefferson-market\"\u003eJefferson Market Library\u003c\/a\u003e\u003cbr \/\u003e425 Avenue of the Americas\u003cbr \/\u003eNew York, NY 10011-8454\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Jerome Park Library"},"longitude":"-73.9012","latitude":"40.8691","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/jerome-park\"\u003eJerome Park Library\u003c\/a\u003e\u003cbr \/\u003e118 Eames Place\u003cbr \/\u003eBronx, NY 10468\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Kingsbridge Library"},"longitude":"-73.908","latitude":"40.8805","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/kingsbridge\"\u003eKingsbridge Library\u003c\/a\u003e\u003cbr \/\u003e291 West 231st Street\u003cbr \/\u003eBronx, NY 10463\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Kips Bay Library"},"longitude":"-73.9797","latitude":"40.7438","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/kips-bay\"\u003eKips Bay Library\u003c\/a\u003e\u003cbr \/\u003e446 Third Avenue\u003cbr \/\u003eNew York, NY 10016-6025\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Macomb's Bridge Library"},"longitude":"-73.9363","latitude":"40.826","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/macombs-bridge\"\u003eMacomb\u0026#039;s Bridge Library\u003c\/a\u003e\u003cbr \/\u003e2650 Adam Clayton Powell, Jr. Blvd.\u003cbr \/\u003eNew York, NY 10039-2004\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Melrose Library"},"longitude":"-73.9177","latitude":"40.8267","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/melrose\"\u003eMelrose Library\u003c\/a\u003e\u003cbr \/\u003e910 Morris Avenue\u003cbr \/\u003eBronx, NY 10451\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Mid-Manhattan Library"},"longitude":"-73.9817","latitude":"40.7518","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/mid-manhattan-library\"\u003eMid-Manhattan Library\u003c\/a\u003e\u003cbr \/\u003e455 Fifth Avenue\u003cbr \/\u003eNew York, NY 10016-0122\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Morningside Heights"},"longitude":"-73.965","latitude":"40.8062","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/morningside-heights\"\u003eMorningside Heights\u003c\/a\u003e\u003cbr \/\u003e2900 Broadway\u003cbr \/\u003eNew York, NY 10025-7822\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Morrisania Library"},"longitude":"-73.9013","latitude":"40.8316","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/morrisania\"\u003eMorrisania Library\u003c\/a\u003e\u003cbr \/\u003e610 East 169th Street\u003cbr \/\u003eBronx, NY 10456\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Mosholu Library"},"longitude":"-73.8784","latitude":"40.8744","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/mosholu\"\u003eMosholu Library\u003c\/a\u003e\u003cbr \/\u003e285 East 205th Street\u003cbr \/\u003eBronx, NY 10467\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Mott Haven Library"},"longitude":"-73.9243","latitude":"40.8116","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/mott-haven\"\u003eMott Haven Library\u003c\/a\u003e\u003cbr \/\u003e321 East 140th Street\u003cbr \/\u003eBronx, NY 10454\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Muhlenberg Library"},"longitude":"-73.9961","latitude":"40.7444","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/muhlenberg\"\u003eMuhlenberg Library\u003c\/a\u003e\u003cbr \/\u003e209 West 23rd Street\u003cbr \/\u003eNew York, NY 10011-2379\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"New Amsterdam Library"},"longitude":"-74.0078","latitude":"40.7134","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/new-amsterdam\"\u003eNew Amsterdam Library\u003c\/a\u003e\u003cbr \/\u003e9 Murray Street\u003cbr \/\u003eNew York, NY 10007-2223\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"New Dorp Library"},"longitude":"-74.1123","latitude":"40.572","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/new-dorp\"\u003eNew Dorp Library\u003c\/a\u003e\u003cbr \/\u003e309 New Dorp Lane\u003cbr \/\u003eStaten Island, NY 10306\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center"},"longitude":"-73.9848","latitude":"40.7735","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/lpa\"\u003eNew York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center\u003c\/a\u003e\u003cbr \/\u003e40 Lincoln Center Plaza\u003cbr \/\u003eNew York, NY 10023-7498\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Ottendorfer Library"},"longitude":"-73.9877","latitude":"40.7288","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/ottendorfer\"\u003eOttendorfer Library\u003c\/a\u003e\u003cbr \/\u003e135 Second Avenue\u003cbr \/\u003eNew York, NY 10003-8304\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Parkchester Library"},"longitude":"-73.8593","latitude":"40.8336","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/parkchester\"\u003eParkchester Library\u003c\/a\u003e\u003cbr \/\u003e1985 Westchester Avenue\u003cbr \/\u003eBronx, NY 10462\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Pelham Bay Library"},"longitude":"-73.828","latitude":"40.8444","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/pelham-bay\"\u003ePelham Bay Library\u003c\/a\u003e\u003cbr \/\u003e3060 Middletown Road\u003cbr \/\u003eBronx, NY 10461\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Port Richmond Library"},"longitude":"-74.1322","latitude":"40.638","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/port-richmond\"\u003ePort Richmond Library\u003c\/a\u003e\u003cbr \/\u003e75 Bennett Street\u003cbr \/\u003eStaten Island, NY 10302\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Richmondtown Library"},"longitude":"-74.1381","latitude":"40.5668","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/richmondtown\"\u003eRichmondtown Library\u003c\/a\u003e\u003cbr \/\u003e200 Clarke Avenue\u003cbr \/\u003eStaten Island, NY 10306\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Riverdale Library"},"longitude":"-73.9037","latitude":"40.9029","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/riverdale\"\u003eRiverdale Library\u003c\/a\u003e\u003cbr \/\u003e5540 Mosholu Avenue\u003cbr \/\u003eBronx, NY 10471\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Riverside Library"},"longitude":"-73.9844","latitude":"40.7743","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/riverside\"\u003eRiverside Library\u003c\/a\u003e\u003cbr \/\u003e127 Amsterdam Avenue\u003cbr \/\u003eNew York, NY 10023-6447\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Roosevelt Island Library"},"longitude":"-73.9506","latitude":"40.7609","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/roosevelt-island\"\u003eRoosevelt Island Library\u003c\/a\u003e\u003cbr \/\u003e524 Main Street\u003cbr \/\u003eNew York, NY 10044-0001\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Schomburg Center for Research in Black Culture"},"longitude":"-73.941","latitude":"40.8144","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/schomburg\"\u003eSchomburg Center for Research in Black Culture\u003c\/a\u003e\u003cbr \/\u003e515 Malcolm X Boulevard\u003cbr \/\u003eNew York, NY 10037-1801\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Science, Industry and Business Library (SIBL)"},"longitude":"-73.983","latitude":"40.748","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/sibl\"\u003eScience, Industry and Business Library (SIBL)\u003c\/a\u003e\u003cbr \/\u003e188 Madison Avenue @ 34th Street\u003cbr \/\u003eNew York, NY 10016-4314\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Sedgwick Library"},"longitude":"-73.9184","latitude":"40.8496","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/sedgwick\"\u003eSedgwick Library\u003c\/a\u003e\u003cbr \/\u003e1701 Martin Luther King, Jr. Blvd.\u003cbr \/\u003eBronx, NY 10453\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Seward Park Library"},"longitude":"-73.9884","latitude":"40.7144","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/seward-park\"\u003eSeward Park Library\u003c\/a\u003e\u003cbr \/\u003e192 East Broadway\u003cbr \/\u003eNew York, NY 10002-5597\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Soundview Library"},"longitude":"-73.8625","latitude":"40.8182","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/soundview\"\u003eSoundview Library\u003c\/a\u003e\u003cbr \/\u003e660 Soundview Avenue\u003cbr \/\u003eBronx, NY 10473\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"South Beach Library"},"longitude":"-74.0631","latitude":"40.5959","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/south-beach\"\u003eSouth Beach Library\u003c\/a\u003e\u003cbr \/\u003e21-25 Robin Road\u003cbr \/\u003eStaten Island, NY 10305\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Spuyten Duyvil Library"},"longitude":"-73.9144","latitude":"40.8863","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/spuyten-duyvil\"\u003eSpuyten Duyvil Library\u003c\/a\u003e\u003cbr \/\u003e650 W. 235th St.\u003cbr \/\u003eBronx, NY 10463\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"St. Agnes Library"},"longitude":"-73.9773","latitude":"40.7848","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/st-agnes\"\u003eSt. Agnes Library\u003c\/a\u003e\u003cbr \/\u003e444 Amsterdam Avenue\u003cbr \/\u003eNew York, NY 10024-5506\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"St. George Library Center"},"longitude":"-74.0768","latitude":"40.6419","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/st-george-library-center\"\u003eSt. George Library Center\u003c\/a\u003e\u003cbr \/\u003e5 Central Avenue\u003cbr \/\u003eStaten Island, NY 10301\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Stapleton Library"},"longitude":"-74.0779","latitude":"40.6263","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/stapleton\"\u003eStapleton Library\u003c\/a\u003e\u003cbr \/\u003e132 Canal St.\u003cbr \/\u003eStaten Island, NY 10304\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Throg's Neck Library"},"longitude":"-73.8188","latitude":"40.8219","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/throgs-neck\"\u003eThrog\u0026#039;s Neck Library\u003c\/a\u003e\u003cbr \/\u003e3025 Cross Bronx Expressway Extension\u003cbr \/\u003eBronx, NY 10465\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Todt Hill-Westerleigh Library"},"longitude":"-74.148","latitude":"40.6098","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/todt-hill-westerleigh\"\u003eTodt Hill-Westerleigh Library\u003c\/a\u003e\u003cbr \/\u003e2550 Victory Boulevard\u003cbr \/\u003eStaten Island, NY 10314\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Tompkins Square Library"},"longitude":"-73.9806","latitude":"40.7273","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/tompkins-square\"\u003eTompkins Square Library\u003c\/a\u003e\u003cbr \/\u003e331 East 10th Street\u003cbr \/\u003eNew York, NY 10009-5099\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Tottenville Library"},"longitude":"-74.244","latitude":"40.5098","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/tottenville\"\u003eTottenville Library\u003c\/a\u003e\u003cbr \/\u003e7430 Amboy Road\u003cbr \/\u003eStaten Island, NY 10307\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Tremont Library"},"longitude":"-73.8984","latitude":"40.8461","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/tremont\"\u003eTremont Library\u003c\/a\u003e\u003cbr \/\u003e1866 Washington Avenue\u003cbr \/\u003eBronx, NY 10457\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Van Cortlandt Library"},"longitude":"-73.8951","latitude":"40.8825","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/van-cortlandt\"\u003eVan Cortlandt Library\u003c\/a\u003e\u003cbr \/\u003e3874 Sedgwick Avenue\u003cbr \/\u003eBronx, NY 10463\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Van Nest Library"},"longitude":"-73.8637","latitude":"40.8551","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/van-nest\"\u003eVan Nest Library\u003c\/a\u003e\u003cbr \/\u003e2147 Barnes Avenue\u003cbr \/\u003eBronx, NY 10462\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Wakefield Library"},"longitude":"-73.8596","latitude":"40.8912","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/wakefield\"\u003eWakefield Library\u003c\/a\u003e\u003cbr \/\u003e4100 Lowerre Place\u003cbr \/\u003eBronx, NY 10466\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Washington Heights Library"},"longitude":"-73.9399","latitude":"40.8346","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/washington-heights\"\u003eWashington Heights Library\u003c\/a\u003e\u003cbr \/\u003e1000 St. Nicholas Avenue\u003cbr \/\u003eNew York, NY 10032-5202\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Webster Library"},"longitude":"-73.9512","latitude":"40.7707","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/webster\"\u003eWebster Library\u003c\/a\u003e\u003cbr \/\u003e1465 York Avenue\u003cbr \/\u003eNew York, NY 10021-8895\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"West Farms Library"},"longitude":"-73.8828","latitude":"40.8448","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/west-farms\"\u003eWest Farms Library\u003c\/a\u003e\u003cbr \/\u003e2085 Honeywell Avenue\u003cbr \/\u003eBronx, NY 10460\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"West New Brighton Library"},"longitude":"-74.1152","latitude":"40.6346","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/west-new-brighton\"\u003eWest New Brighton Library\u003c\/a\u003e\u003cbr \/\u003e976 Castleton Avenue\u003cbr \/\u003eStaten Island, NY 10310\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Westchester Square Library"},"longitude":"-73.8469","latitude":"40.8407","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/westchester-square\"\u003eWestchester Square Library\u003c\/a\u003e\u003cbr \/\u003e2521 Glebe Avenue\u003cbr \/\u003eBronx, NY 10461\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Woodlawn Heights Library"},"longitude":"-73.8679","latitude":"40.9005","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/woodlawn-heights\"\u003eWoodlawn Heights Library\u003c\/a\u003e\u003cbr \/\u003e4355 Katonah Avenue\u003cbr \/\u003eBronx, NY 10470\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Woodstock Library"},"longitude":"-73.9046","latitude":"40.8205","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/woodstock\"\u003eWoodstock Library\u003c\/a\u003e\u003cbr \/\u003e761 East 160th Street\u003cbr \/\u003eBronx, NY 10456\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Yorkville Library"},"longitude":"-73.9569","latitude":"40.774","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/yorkville\"\u003eYorkville Library\u003c\/a\u003e\u003cbr \/\u003e222 East 79th Street\u003cbr \/\u003eNew York, NY 10021-1295\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Mulberry Street Library"},"longitude":"-73.9956","latitude":"40.7242","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/mulberry-street\"\u003eMulberry Street Library\u003c\/a\u003e\u003cbr \/\u003e10 Jersey Street\u003cbr \/\u003eNew York, NY 10012-3332\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Morris Park Library"},"longitude":"-73.8558","latitude":"40.8467","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/morris-park\"\u003eMorris Park Library\u003c\/a\u003e\u003cbr \/\u003e985 Morris Park Avenue\u003cbr \/\u003eBronx, NY 10462\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Grand Central Library"},"longitude":"-73.974","latitude":"40.7539","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/grand-central\"\u003eGrand Central Library\u003c\/a\u003e\u003cbr \/\u003e135 East 46th Street\u003cbr \/\u003eNew York, NY 10017\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"},{"options":[],"opts":{"title":"Battery Park City Library"},"longitude":"-74.0157","latitude":"40.7155","text":"\u003cdiv class=\"gmap-popup\"\u003e\u003ca href=\"\/locations\/battery-park-city\"\u003eBattery Park City Library\u003c\/a\u003e\u003cbr \/\u003e175 North End Avenue\u003cbr \/\u003eNew York, NY 10282\u003cbr \/\u003e\u003c\/div\u003e","markername":"small red"}],"longitude":"-73.97661209106445","latitude":"40.7701418259051"}},"base_url":"http:\/\/www.nypl.org","from":"","destination":"destination=locations","async_scripts":[{"url":"\/\/cdn.optimizely.com\/js\/284748925.js","abbrev":"optimizely"}]});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var BASE_URL = "/";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1420324-3"]);_gaq.push(["_setVar", "anonymous user"]);_gaq.push(['_setCustomVar', 1, "User roles", "anonymous user", 3]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+  (function (doc, script) {
+      'use strict';
+      var js,
+          fjs = doc.getElementsByTagName(script)[0],
+          add = function (url, id) {
+              if (doc.getElementById(id)) { return; }
+              js = doc.createElement(script);
+              js.src = url;
+              if (id !== undefined) {
+                  js.id = id;
+              }
+              fjs.parentNode.insertBefore(js, fjs);
+          },
+          scripts = Drupal.settings.async_scripts,
+          i;
+
+      for (i = 0; i < scripts.length; i += 1) {
+          add(scripts[i].url, scripts[i].abbrev);
+      }
+  }(document, 'script'));
+      
+//--><!]]>
+</script>
+
+<script type="text/javascript" src="/sites/all/themes/nypl_new/javascript/jquery.locations.js"></script>
+
+
+</head>
+
+
+<body class="not-front not-logged-in page-locations-1 one-sidebar sidebar-right ">
+
+
+<div id="main-locations">
+
+
+<!-- ** ACCESSIBILITY OPTIONS ** -->
+<div id="hidden-top">
+	<div>
+		<a href="http://lblpac.nypl.org/klasweb/" title="Click for accessible search">Click for accessible search</a>	
+		<a href="#page-title">Skip Navigation</a>
+	</div>
+</div><!-- ** END ACCESSIBILITY OPTIONS ** -->
+
+
+<!-- ** BEGIN HEADER ** -->
+<div id="header">
+
+
+
+<div id="header">
+  <div class="tophdr-wrapper">
+    <div id="header1"><!-- LOGIN, HELP ETC, LANGS -->
+
+      <!-- Output Global Header BiblioCommons Login Form -->
+            
+      <div class="header-buttons">
+        <a href="https://secure3.convio.net/nypl/site/SPageServer?pagename=donation_form&amp;JServSessionIdr003=dwcz55yj27.app304a&amp;s_src=FRQ14ZZ_SWN" class="donate-button">Donate</a>
+                  <div class='account-login'>
+                 <a class='login-button' title='Log In'>
+                    <span class='label'></span>
+                    <img class='logged-in-arrow' src='http://www.nypl.org/sites/all/themes/nypl_new/images/site-icons/down-triangle_15.png' />
+                 </a>
+               </div>
+              <div class='sso-login'>
+                 <div class='login-form desktop-login'>
+                  <form action="/locations"  accept-charset="UTF-8" method="post" id="bc-sso-login-form">
+<div><div class="form-item" id="username-wrapper">
+ <label for="username">Username or bar code: </label>
+ <input type="text" maxlength="128" name="name" id="username" size="60" value="" class="form-text" />
+</div>
+<div class="form-item" id="pin-wrapper">
+ <label for="pin">PIN: </label>
+ <input type="password" name="user_pin" id="pin"  maxlength="128"  size="60"  class="form-text" />
+</div>
+<div class="form-item" id="remember_me-wrapper">
+ <label class="option" for="remember_me"><input type="checkbox" name="remember_me" id="remember_me" value="1"   class="form-checkbox" /> Remember me</label>
+</div>
+<input type="hidden" name="destination" id="edit-destination" value="http://www.nypl.org/locations"  />
+<input type="submit" name="op" id="login-form-submit" value="Log In"  class="form-submit" />
+<div id="login-form-help" class="login-helptext">
+      <a href="https://nypl.bibliocommons.com/user/forgot" class="forgotpin-button">Forgot your PIN?</a>
+      <a href="http://www.nypl.org/help/library-card" class="createacct-button">Need an account?</a>
+    </div><input type="hidden" name="form_build_id" id="form-8d8d88f0500d0fa07d7b70152cbfe96d" value="form-8d8d88f0500d0fa07d7b70152cbfe96d"  />
+<input type="hidden" name="form_id" id="edit-bc-sso-login-form" value="bc_sso_login_form"  />
+
+</div></form>
+
+                  <p id='login-message'></p>
+                  <a id='login-form-close' style='top: 0; right: 0; position: absolute; padding: 5px; display:none;' href='#''>Close</a>
+                 </div>
+
+                 <ul class='logged-in-menu'>
+                   <li><a href='http://nypl.bibliocommons.com/user/account'>Personal Information</a></li>
+                   <li><a href='http://nypl.bibliocommons.com/user/saved_searches'>Saved Searches</a></li>
+                   <li><a href='http://nypl.bibliocommons.com/user/preferences'>Preferences</a></li>
+                   <li><a href='http://nypl.bibliocommons.com/user/privacy'>Privacy</a></li>
+                   <li><a href='http://nypl.bibliocommons.com/user/reminders'>Reminders</a></li>
+                   <li><a href='http://nypl.bibliocommons.com/communitycredits'>Community Credits</a></li>
+                   <li><a href='http://nypl.bibliocommons.com/carts/order_history'>Order History</a></li>
+                   <li><a href='http://www.nypl.org/bc_sso/logout' id='sso-logout'>Log out</a></li>
+                 </ul>
+              </div>         
+      </div>
+    </div>
+
+    <div id="header2">
+      
+      <a href="/" id="site-id" title="Go to the home page"><span class="site-name">The New York Public Library</span></a>
+
+      <a href="/" class="logo grid_8">
+        <!-- <a href="/" title="Go to the home page"> -->
+          The New York Public Library
+        <!-- </a>     -->
+      </a>
+      
+      <!-- Responsive header buttons -->
+      <div class="collapsed-buttons">
+        <div class="button search-open-button icon-search"></div>
+        <div class="button nav-open-button icon-menu"></div>
+      </div> 
+
+      <!-- SEARCH -->
+      
+        <!-- SEARCH BOX -->
+        <div id="search-top">
+        <form action="/locations"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><!-- SEARCH BOX -->
+<select class="hideMe" id="t" name="t">
+<option title="Keyword" value="smart">Keyword</option>
+<option title="Title" value="title">Title</option>
+<option title="Author" value="author">Author</option>
+<option title="Subject" value="subject">Subject</option>
+<option title="Tag" value="tag">Tag</option>
+<option title="List" value="userlist">List</option>
+<option title="User" value="user">User</option>
+</select>			
+
+<input id="search_category" name="search_category" type="hidden" value="keyword">		
+
+<input class="form-text" maxlength="128" id="search-block-form-input" name="search_block_form" type="text" placeholder="Find books, music, movies and more">
+<input alt="Search" class="search_button" name="commit" title="Search" type="submit" value="Search">
+
+<div class="searchOptions">
+<span>Search:</span>
+<input checked="checked" class="inline" id="search-zone-catalog" name="search-zone" type="radio" value="catalogue"><label for="search-zone-catalog" class="inline active-option">Catalog</label>
+<input class="inline" id="search-zone-site" name="search-zone" type="radio" value="website"><label for="search-zone-site" class="inline">NYPL.org</label>
+</div>
+
+<div class="searchLinks">
+<a href="http://catalog.nypl.org/" class="moreSearch" >Classic Catalog</a>
+<a href="http://nypl.bibliocommons.com/search" class="moreSearch" >Advanced Search</a>
+</div>
+<!-- END SEARCH -->
+<div class="search-options-resp">
+  <div class="catalog-search">catalog</div>
+  <div class="nypl-search">NYPL.org</div>
+</div>
+</div></form>
+        </div>
+      
+      <!-- END SEARCH -->
+      
+      <div class="clearboth"></div>
+      
+    </div>
+
+    
+  <!-- end .tophdr-wrapper -->
+  </div>
+
+  <div id="header3">
+    <!-- BIBLIOCOMMONS TOP NAV -->
+    <div class="nav-wrapper"><div id="primary-links"><ul>
+<li class="first"><a href="/"><span class="active-border">Home</span></a></li>
+</li>
+<li class="dropDown"><a href="http://nypl.bibliocommons.com/dashboard/user_dashboard"><span class="active-border">My NYPL</span></a>
+<div class="dropDownContent"><ul>
+<li><h5>My Borrowing</h5>
+<ul>
+<li><a href="http://nypl.bibliocommons.com/checkedout" title="">Checked Out</a></li>
+<li><a href="http://nypl.bibliocommons.com/holds/index/active" title="">Holds</a></li>
+<li><a href="http://nypl.bibliocommons.com/fines" title="">Fines</a></li>
+<li class="last"><a href="http://nypl.bibliocommons.com/accountmessages" title="">Library Messages</a></li>
+</ul></li>
+<li><h5>My Shelves</h5>
+<ul>
+<li><a href="http://nypl.bibliocommons.com/collection/show/my/library/completed" title="">Completed</a></li>
+<li><a href="http://nypl.bibliocommons.com/collection/show/my/library/in_progress" title="">In progress</a></li>
+<li><a href="http://nypl.bibliocommons.com/collection/show/my/library/for_later" title="">For later</a></li>
+<li class="last"><a href="http://nypl.bibliocommons.com/lists/show/mine" title="">My Lists</a></li>
+</ul></li>
+<li><h5>My Community</h5>
+<ul>
+<li><a href="http://nypl.bibliocommons.com/trustedsources" title="">I&#039;m Following</a></li>
+<li><a href="http://nypl.bibliocommons.com/ignoredusers" title="">Ignored Users</a></li>
+<li><a href="http://nypl.bibliocommons.com/recently_shared" title="">Recently Shared</a></li>
+<li class="last"><a href="http://nypl.bibliocommons.com/messages" title="">Inbox</a></li>
+</ul></li>
+</ul></div></li>
+<li class="dropDown"><a href="http://nypl.bibliocommons.com/dashboard"><span class="active-border">Explore</span></a>
+<div class="dropDownContent"><ul>
+<li><h5>New & Notable</h5>
+<ul>
+<li><a href="http://nypl.bibliocommons.com/dashboard" title="">Recent Activity</a></li>
+<li><a href="http://nypl.bibliocommons.com/explore/index/newly_acquired?f_on_order=false" title="">New Titles</a></li>
+<li><a href="http://nypl.bibliocommons.com/explore/index/awards" title="">Award Winners</a></li>
+<li><a href="http://nypl.bibliocommons.com/explore/index/best_sellers" title="">Bestsellers</a></li>
+<li><a href="http://nypl-kids-2013.bibliocommons.com/" title="">Kids Summer Reading 2013</a></li>
+<li><a href="http://nypl-teens-2013.bibliocommons.com/" title="">Teen Summer Reading 2013</a></li>
+<li class="last"><a href="http://nypl-adults-2013.bibliocommons.com/" title="">Adult Summer Reading 2013</a></li>
+</ul></li>
+<li><h5>Collections</h5>
+<ul>
+<li><a href="http://nypl.bibliocommons.com/search?q=books&amp;t=smart&amp;search_category=keyword&amp;title=Books" title="">Books</a></li>
+<li><a href="/ebooks" title="">E-books &amp; Audiobooks</a></li>
+<li><a href="http://nypl.bibliocommons.com/search?q=movies&amp;t=smart&amp;search_category=keyword&amp;title=Movies" title="">Movies</a></li>
+<li><a href="http://nypl.bibliocommons.com/search?t=smart&amp;search_category=keyword&amp;q=music&amp;commit=Search&amp;searchOpt=catalogue&amp;title=Music+and+R" title="">Music &amp; Recordings</a></li>
+<li><a href="http://nypl.bibliocommons.com/search?t=smart&amp;search_category=keyword&amp;q=periodicals&amp;commit=Search&amp;searchOpt=catalogue" title="">Periodicals</a></li>
+<li><a href="http://digitalgallery.nypl.org/" title="">Images</a></li>
+<li class="last"><a href="/collections/nypl-collections/braille-talking-books" title="">Braille &amp; Talking Books</a></li>
+</ul></li>
+<li><h5>Made at NYPL</h5>
+<ul>
+<li><a href="/blog" title="">Blogs</a></li>
+<li><a href="/voices/audio-video" title="">Audio &amp; Video</a></li>
+<li class="last"><a href="/voices/print-publications" title="">Print Publications</a></li>
+</ul></li>
+</ul></div></li>
+<li class="dropDown"><a href="/collections"><span class="active-border">Research</span></a>
+<div class="dropDownContent"><ul>
+<li><h5>Electronic Resources</h5>
+<ul>
+<li><a href="/collections/articles-databases" title="">Articles and Databases</a></li>
+<li><a href="/events/online-exhibitions" title="">Online Exhibitions</a></li>
+<li><a href="http://digitalgallery.nypl.org/" title="">Digital Gallery</a></li>
+<li><a href="/collections/labs" title="">NYPL Labs</a></li>
+<li class="last"><a href="/online_projects" title="Digital Projects">Digital Projects</a></li>
+</ul></li>
+<li><h5>Tools and Services</h5>
+<ul>
+<li><a href="http://catalog.nypl.org/" title="">Classic Catalog</a></li>
+<li><a href="/collections/nypl-recommendations/guides" title="">Research Guides</a></li>
+<li><a href="/specialindexes" title="">Indexes to NYPL Collections</a></li>
+<li><a href="/ask-nypl/research-questions-reproductions" title="">Get Copies</a></li>
+<li class="last"><a href="/collections/nypl-recommendations" title="">NYPL Recommendations</a></li>
+</ul></li>
+<li><h5>Collections</h5>
+<ul>
+<li><a href="/research-collections" title="">Research Collections</a></li>
+<li><a href="http://archives.nypl.org" title="">Manuscripts and Archives</a></li>
+<li><a href="http://wallachprintsandphotos.nypl.org/" title="">Prints &amp; Photos Online Catalog</a></li>
+<li class="last"><a href="/collections/nypl-collections/preservation-division" title="">Preservation of NYPL Collections</a></li>
+</ul></li>
+</ul></div></li>
+<li class="dropDown"><a href="/help"><span class="active-border">Using the Library</span></a>
+<div class="dropDownContent"><ul>
+<li><h5>Get Oriented</h5>
+<ul>
+<li><a href="/help/library-card" title="">Get a Library Card</a></li>
+<li><a href="/help/borrowing-materials" title="">Borrowing</a></li>
+<li><a href="/help/finding-things" title="">How To Find Things</a></li>
+<li><a href="/help/computers-internet-and-wireless-access" title="">Computers</a></li>
+<li><a href="/help/community-outreach/services-for-persons-with-disabilities" title="">Accessibility</a></li>
+<li><a href="/help/about-nypl" title="">About the NYPL</a></li>
+<li class="last"><a href="/voices/connect-nypl" title="">Connect with NYPL</a></li>
+</ul></li>
+<li><h5>Services</h5>
+<ul>
+<li><a href="http://nypl.org/ask-nypl" title="">AskNYPL</a></li>
+<li><a href="/help/computers-internet-and-wireless-access/reserving-computer" title="">Reserve a PC</a></li>
+<li><a href="/help/community-outreach" title="">Community Outreach</a></li>
+<li><a href="/ask-nypl/research-questions-reproductions" title="">Get Copies</a></li>
+<li><a href="/help/research-services/interlibrary-loan" title="Interlibrary Loan">Interlibrary Loan</a></li>
+<li><a href="/spacerental" title="">Space Rental</a></li>
+<li class="last"><a href="http://shop.nypl.org/" title="">The Library Shop</a></li>
+</ul></li>
+<li><h5>I am a...</h5>
+<ul>
+<li><a href="/events/teaching-learning" title="">Teacher</a></li>
+<li><a href="/help/getting-oriented/for-job-seekers" title="">Job Seeker</a></li>
+<li><a href="http://smallbiz.nypl.org/" title="">Small Business Owner</a></li>
+<li><a href="/help/getting-oriented/resources-kids" title="">Child</a></li>
+<li><a href="/help/getting-oriented/resources-teens" title="">Teen</a></li>
+<li><a href="/help/community-outreach/services-for-persons-with-disabilities" title="">Person with a Disability</a></li>
+<li><a href="/help/community-outreach/immigrant-services" title="">Recent Immigrant</a></li>
+<li class="last"><a href="http://nypl.org/support" title="">NYPL Donor</a></li>
+</ul></li>
+</ul></div></li>
+<li class="dropDown active"><a href="/locations" class="active"><span class="active-border">Locations</span></a>
+<div class="dropDownContent oneLevel"><ul>
+<li><a href="/locations#manhattan-list" title="" class="active">Manhattan</a></li>
+<li><a href="/locations#bronx-list" title="" class="active">The Bronx</a></li>
+<li><a href="/locations#statenisland-list" title="" class="active">Staten Island</a></li>
+<li><a href="/locations/schwarzman" title="">Schwarzman Building</a></li>
+<li><a href="/locations/lpa" title="">Library for the Performing Arts</a></li>
+<li><a href="/locations/schomburg" title="">Schomburg Center</a></li>
+<li class="last"><a href="/locations/sibl" title="">Science, Industry and Business Library</a></li>
+</ul></div></li>
+<li class="dropDown"><a href="/events"><span class="active-border">Classes & Events</span></a>
+<div class="dropDownContent oneLevel"><ul>
+<li><a href="/events/exhibitions" title="">Current Exhibitions</a></li>
+<li><a href="/events/public-programs" title="">Programs</a></li>
+<li><a href="/events/classes" title="">Classes</a></li>
+<li><a href="/events/classes/adult-learning-centers" title="">Learn English</a></li>
+<li><a href="/events/tours" title="">Tours</a></li>
+<li><a href="/events/exhibitions-past" title="">Past Exhibitions</a></li>
+<li class="last"><a href="/events/live-nypl" title="">LIVE from the NYPL</a></li>
+</ul></div></li>
+<li class="dropDown"><a href="/support"><span class="active-border">Support the Library</span></a>
+<div class="dropDownContent oneLevel"><ul>
+<li><a href="http://nypl.org/donate" title="">Donate</a></li>
+<li><a href="/support/membership" title="">Membership</a></li>
+<li><a href="/help/about-nypl/volunteer-nypl" title="">Volunteer</a></li>
+<li><a href="http://www.nypl.org/honorandmemorial" title="Honor and Memorial Gifts">Honor and Memorial Gifts</a></li>
+<li><a href="/support/benefit-events" title="">Benefit Events</a></li>
+<li><a href="/support/planned-giving" title="">Planned Giving</a></li>
+<li><a href="http://shop.nypl.org/" title="">Shop</a></li>
+<li class="last"><a href="/support/donate" title="">More Ways to Give</a></li>
+</ul></div></li>
+<li class="last"><a href="/ask-nypl"><span class="active-border">Help</span></a></li>
+</li>
+</ul></div></div>    <!-- END TOP NAV -->
+
+        <!-- BREADCRUMB NAV -->
+    <div class="breadcrumb"><a href="/">Home</a></div>    <!-- BREADCRUMB NAV -->
+      </div>
+<!-- End of #header -->
+</div>
+</div>
+<!-- ** END HEADER ** -->	
+
+
+<!-- ** BEGIN CONTENT CONTAINER ** -->
+<div id="container-full" class="clear-block">
+
+
+<div id="locations-main">
+
+
+	<!-- MESSAGES -->
+		<!-- END MESSAGES -->
+
+
+
+	<!-- HELP -->
+		<!-- END HELP -->
+
+
+
+	<!-- TABS -->
+		<!-- END TABS -->
+
+
+	
+
+	
+		<!-- LOCATIONS LIST -->
+		<div id="locations-index" class="locations-index-noscript">
+
+		<ul id="locations-index-tabs">
+			<li id="all-link" class="active"><a href="#locations-index">All Locations</a></li>
+			<li id="research-link"><a href="#research-list">Research Libraries</a></li>
+			<li id="manhattan-link"><a href="#manhattan-list">Manhattan</a></li>
+			<li id="bronx-link"><a href="#bronx-list">The&nbsp;Bronx</a></li>
+			<li id="statenisland-link" class="last"><a href="#statenisland-list">Staten&nbsp;Island</a></li>
+		</ul>
+		<div class="clearboth"></div>
+		
+		<div id="locations-index-content">
+<div id="all-locations" class="locations-list">
+<h2 id="research-list">Research Libraries <a href="/sites/default/files/researchhours.pdf" class="pdf-link" title="Download PDF"><span class="replaced-text">Download PDF</span></a></h2>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/schwarzman">Stephen A. Schwarzman Building</a></h3>
+<div class="location-address">Fifth Avenue at 42nd Street, New York, NY 10018-2788<br />
+(917) 275-6975</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/lpa">New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center</a></h3>
+<div class="location-address">40 Lincoln Center Plaza, New York, NY 10023-7498<br />
+(917) 275-6975</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/schomburg">Schomburg Center for Research in Black Culture</a></h3>
+<div class="location-address">515 Malcolm X Boulevard, New York, NY 10037-1801<br />
+(212) 491-2200</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/sibl">Science, Industry and Business Library (SIBL)</a></h3>
+<div class="location-address">188 Madison Avenue @ 34th Street, New York, NY 10016-4314<br />
+(917) 275-6975</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<h2 id="manhattan-list">Libraries in Manhattan <a href="/sites/default/files/manhattanhours.pdf" class="pdf-link" title="Download PDF"><span class="replaced-text">Download PDF</span></a></h2>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/115th-street">115th Street Library</a></h3>
+<div class="location-address">203 West 115th Street, New York, NY 10026-2403<br />
+(212) 666-9393</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/125th-street">125th Street Library</a></h3>
+<div class="location-address">224 East 125th Street (near Third Ave.), New York, NY 10035-1786<br />
+(212) 534-5050</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/58th-street">58th Street Library</a></h3>
+<div class="location-address">127 East 58th Street (between Park &amp; Lexington Aves.), New York, NY 10022-1211<br />
+(212) 759-7358</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/67th-street">67th Street Library</a></h3>
+<div class="location-address">328 East 67th Street (near First Ave.), New York, NY 10065-6204<br />
+(212) 734-1717</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/96th-street">96th Street Library</a></h3>
+<div class="location-address">112 East 96th Street (near Lexington Ave.), New York, NY 10128-2597<br />
+(212) 289-0908</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/aguilar">Aguilar Library</a></h3>
+<div class="location-address">174 East 110th Street (between Lexington & Third Aves.), New York, NY 10029-3212<br />
+(212) 534-2930</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/heiskell">Andrew Heiskell Braille and Talking Book Library</a></h3>
+<div class="location-address">40 West 20th Street (between 5th and 6th Aves.), New York, NY 10011-4211<br />
+(212) 206-5400</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 5:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/battery-park-city">Battery Park City Library</a></h3>
+<div class="location-address">175 North End Avenue (at Murray Street), New York, NY 10282<br />
+(212) 790-3499</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/bloomingdale">Bloomingdale Library</a></h3>
+<div class="location-address">150 West 100th Street (between Amsterdam & Columbus Aves.), New York, NY 10025-5196<br />
+(212) 222-8030</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/chatham-square">Chatham Square Library</a></h3>
+<div class="location-address">33 East Broadway (near Catherine St.), New York, NY 10002-6804<br />
+(212) 964-6598</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/columbus">Columbus Library</a></h3>
+<div class="location-address">742 10th Avenue (between 50th & 51st Sts.), New York, NY 10019-7019<br />
+(212) 586-5098</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/countee-cullen">Countee Cullen Library</a></h3>
+<div class="location-address">104 West 136th Street (near Lenox Ave.), New York, NY 10030-2695<br />
+(212) 491-2070</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/donnell">Donnell Library Center</a></h3>
+<div class="location-address">20 West 53rd Street, New York, NY 10019-6185<br />
+</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours"><p>As of August 30, 2008, The Donnell Library Center is closed. Please visit one of the other branches of The New York Public Library.</p>
+</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/epiphany">Epiphany Library</a></h3>
+<div class="location-address">228 East 23rd Street (near Second Ave.), New York, NY 10010-4672<br />
+(212) 679-2645</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours"><p>The Epiphany Library will be closed temporarily beginning August 15th to facilitate necessary upgrades to the building and its  heating and cooling systems. The branch is scheduled to reopen in November 2013. The bookdrop will remain open during this time. During this construction, we encourage patrons to visit the following nearby branches:<br />
+Kips Bay Library - 446 Third Avenue<br />
+Ottendorfer Library - 135 Second Avenue<br />
+Muhlenberg Library - 209 West 23rd Street (near Seventh Avenue) </p>
+<p>Your hold requests can be picked up at Kip's Bay, 446 Third Avenue (at E 31st St.), tel. (212) 683-2520. </p>
+<p>"Like" us on Facebook @ <a href="http://www.facebook.com/epiphanynypl" title="www.facebook.com/epiphanynypl">www.facebook.com/epiphanynypl</a>!</p>
+</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/fort-washington">Fort Washington Library</a></h3>
+<div class="location-address">535 West 179th Street (between St. Nicholas & Audubon Aves.), New York, NY 10033-5799<br />
+(212) 927-3533</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/george-bruce">George Bruce Library</a></h3>
+<div class="location-address">518 West 125th Street (at Amsterdam Ave.), New York, NY 10027-3407<br />
+(212) 662-9727</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/grand-central">Grand Central Library</a></h3>
+<div class="location-address">135 East 46th Street (between Lexington &amp; Third Aves.), New York, NY 10017<br />
+(212) 621-0670</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/hamilton-fish-park">Hamilton Fish Park Library</a></h3>
+<div class="location-address">415 East Houston Street (near Avenue D), New York, NY 10002-1197<br />
+(212) 673-2290</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/hamilton-grange">Hamilton Grange Library</a></h3>
+<div class="location-address">503 West 145th Street, New York, NY 10031-5101<br />
+(212) 926-2147</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/harlem">Harlem Library</a></h3>
+<div class="location-address">9 West 124th Street, New York, NY 10027-5699<br />
+(212) 348-5620</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/hudson-park">Hudson Park Library</a></h3>
+<div class="location-address">66 Leroy Street (off Seventh Ave. South), New York, NY 10014-3929<br />
+(212) 243-6876</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/inwood">Inwood Library</a></h3>
+<div class="location-address">4790 Broadway (near Dyckman St.), New York, NY 10034-4916<br />
+(212) 942-2445</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/jefferson-market">Jefferson Market Library</a></h3>
+<div class="location-address">425 Avenue of the Americas (at 10th St.), New York, NY 10011-8454<br />
+(212) 243-4334</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/kips-bay">Kips Bay Library</a></h3>
+<div class="location-address">446 Third Avenue (at E. 31st St.), New York, NY 10016-6025<br />
+(212) 683-2520</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/macombs-bridge">Macomb&#039;s Bridge Library</a></h3>
+<div class="location-address">2650 Adam Clayton Powell, Jr. Blvd. (between W. 152nd & 153rd Sts.), New York, NY 10039-2004<br />
+(212) 281-4900</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/mid-manhattan-library">Mid-Manhattan Library</a></h3>
+<div class="location-address">455 Fifth Avenue (at 40th Street), New York, NY 10016-0122<br />
+(212) 340-0863</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 8:00 AM to 11:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/morningside-heights">Morningside Heights</a></h3>
+<div class="location-address">2900 Broadway (at W. 113th St.), New York, NY 10025-7822<br />
+(212) 864-2530</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/muhlenberg">Muhlenberg Library</a></h3>
+<div class="location-address">209 West 23rd Street (near Seventh Ave.), New York, NY 10011-2379<br />
+(212) 924-1585</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/mulberry-street">Mulberry Street Library</a></h3>
+<div class="location-address">10 Jersey Street (Between Lafayette & Mulberry Streets), New York, NY 10012-3332<br />
+(212) 966-3424</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/new-amsterdam">New Amsterdam Library</a></h3>
+<div class="location-address">9 Murray Street (between Broadway & Church St.), New York, NY 10007-2223<br />
+(212) 732-8186</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/lpa">New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center</a></h3>
+<div class="location-address">40 Lincoln Center Plaza, New York, NY 10023-7498<br />
+(917) 275-6975</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/ottendorfer">Ottendorfer Library</a></h3>
+<div class="location-address">135 Second Avenue (near E. 8th St. - St. Marks Place), New York, NY 10003-8304<br />
+(212) 674-0947</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/riverside">Riverside Library</a></h3>
+<div class="location-address">127 Amsterdam Avenue (at W. 65th St.), New York, NY 10023-6447<br />
+(212) 870-1810</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/roosevelt-island">Roosevelt Island Library</a></h3>
+<div class="location-address">524 Main Street, New York, NY 10044-0001<br />
+(212) 308-6243</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/schomburg">Schomburg Center for Research in Black Culture</a></h3>
+<div class="location-address">515 Malcolm X Boulevard, New York, NY 10037-1801<br />
+(212) 491-2200</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/sibl">Science, Industry and Business Library (SIBL)</a></h3>
+<div class="location-address">188 Madison Avenue @ 34th Street, New York, NY 10016-4314<br />
+(917) 275-6975</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/seward-park">Seward Park Library</a></h3>
+<div class="location-address">192 East Broadway (at Jefferson St.), New York, NY 10002-5597<br />
+(212) 477-6770</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/st-agnes">St. Agnes Library</a></h3>
+<div class="location-address">444 Amsterdam Avenue (near @. 81st St.), New York, NY 10024-5506<br />
+(212) 621-0619</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/schwarzman">Stephen A. Schwarzman Building</a></h3>
+<div class="location-address">Fifth Avenue at 42nd Street, New York, NY 10018-2788<br />
+(917) 275-6975</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/cathedral">Terence Cardinal Cooke-Cathedral Library</a></h3>
+<div class="location-address">560 Lexington Avenue (at E. 50th St., lower level), New York, NY 10022-6828<br />
+(212) 752-3824</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/tompkins-square">Tompkins Square Library</a></h3>
+<div class="location-address">331 East 10th Street (near Avenue B), New York, NY 10009-5099<br />
+(212) 228-4747</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/washington-heights">Washington Heights Library</a></h3>
+<div class="location-address">1000 St. Nicholas Avenue (at W. 160th St.), New York, NY 10032-5202<br />
+(212) 923-6054</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours"><p>The Washington Heights Library is projected to reopen in late 2013 after a major renovation.</p>
+</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/webster">Webster Library</a></h3>
+<div class="location-address">1465 York Avenue (near E. 78th St.), New York, NY 10021-8895<br />
+(212) 288-5049</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/yorkville">Yorkville Library</a></h3>
+<div class="location-address">222 East 79th Street (between Second & Third Aves.), New York, NY 10021-1295<br />
+(212) 744-5824</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<h2 id="bronx-list">Libraries in The Bronx <a href="/sites/default/files/bronxhours.pdf" class="pdf-link" title="Download PDF"><span class="replaced-text">Download PDF</span></a></h2>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/allerton">Allerton Library</a></h3>
+<div class="location-address">2740 Barnes Avenue (between Allerton & Arnow Aves.), Bronx, NY 10467<br />
+(718) 881-4240</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/baychester">Baychester Library</a></h3>
+<div class="location-address">2049 Asch Loop North (north of Bartow Ave.), Bronx, NY 10475<br />
+(718) 379-6700</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/belmont">Belmont Library and Enrico Fermi Cultural Center</a></h3>
+<div class="location-address">610 E. 186th Street (at Hughes Ave.), Bronx, NY 10458<br />
+(718) 933-6410</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/bronx-library-center">Bronx Library Center</a></h3>
+<div class="location-address">310 East Kingsbridge Road (at Briggs Avenue), Bronx, NY 10458<br />
+(718) 579-4244</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 9:00 AM to 9:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/castle-hill">Castle Hill Library</a></h3>
+<div class="location-address">947 Castle Hill Avenue (at Bruckner Blvd.), Bronx, NY 10473<br />
+(718) 824-3838</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/city-island">City Island Library</a></h3>
+<div class="location-address">320 City Island Avenue (between Bay & Fordham Sts.), Bronx, NY 10464<br />
+(718) 885-1703</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/clasons-point">Clason&#039;s Point Library</a></h3>
+<div class="location-address">1215 Morrison Avenue (near Westchester Ave.), Bronx, NY 10472<br />
+(718) 842-1235</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/eastchester">Eastchester Library</a></h3>
+<div class="location-address">1385 East Gun Hill Road (near Eastchester Rd.), Bronx, NY 10469<br />
+(718) 653-3292</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/edenwald">Edenwald Library</a></h3>
+<div class="location-address">1255 East 233rd Street (at DeReimer Ave.), Bronx, NY 10466<br />
+(718) 798-3355</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/francis-martin">Francis Martin Library</a></h3>
+<div class="location-address">2150 University Avenue (at 181st St.), Bronx, NY 10453<br />
+(718) 295-5287</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/grand-concourse">Grand Concourse Library</a></h3>
+<div class="location-address">155 East 173rd Street (east of Grand Concourse), Bronx, NY 10457<br />
+(718) 583-6611</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/high-bridge">High Bridge Library</a></h3>
+<div class="location-address">78 West 168th Street (at Woodycrest Ave.), Bronx, NY 10452<br />
+(718) 293-7800</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/hunts-point">Hunt&#039;s Point Library</a></h3>
+<div class="location-address">877 Southern Boulevard (at Tiffany St.), Bronx, NY 10459<br />
+(718) 617-0338</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/jerome-park">Jerome Park Library</a></h3>
+<div class="location-address">118 Eames Place (near Kingsbridge Rd.), Bronx, NY 10468<br />
+(718) 549-5200</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/kingsbridge">Kingsbridge Library</a></h3>
+<div class="location-address">291 West 231st Street, Bronx, NY 10463<br />
+(718) 548-5656</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/melrose">Melrose Library</a></h3>
+<div class="location-address">910 Morris Avenue (at E. 162nd St.), Bronx, NY 10451<br />
+(718) 588-0110</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/morris-park">Morris Park Library</a></h3>
+<div class="location-address">985 Morris Park Avenue (between Radcliff and Colden Aves.), Bronx, NY 10462<br />
+(718) 931-0636</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/morrisania">Morrisania Library</a></h3>
+<div class="location-address">610 East 169th Street (at Franklin Ave.), Bronx, NY 10456<br />
+(718) 589-9268</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/mosholu">Mosholu Library</a></h3>
+<div class="location-address">285 East 205th Street (near Perry Ave.), Bronx, NY 10467<br />
+(718) 882-8239</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/mott-haven">Mott Haven Library</a></h3>
+<div class="location-address">321 East 140th Street (at Alexander Ave.), Bronx, NY 10454<br />
+(718) 665-4878</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/parkchester">Parkchester Library</a></h3>
+<div class="location-address">1985 Westchester Avenue (at Pugsley Ave.), Bronx, NY 10462<br />
+(718) 829-7830</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 8:00 AM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/pelham-bay">Pelham Bay Library</a></h3>
+<div class="location-address">3060 Middletown Road (north of Crosby Ave.), Bronx, NY 10461<br />
+(718) 792-6744</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/riverdale">Riverdale Library</a></h3>
+<div class="location-address">5540 Mosholu Avenue (at W. 256th St.), Bronx, NY 10471<br />
+(718) 549-1212</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/sedgwick">Sedgwick Library</a></h3>
+<div class="location-address">1701 Martin Luther King, Jr. Blvd. (at W. 176th St.), Bronx, NY 10453<br />
+(718) 731-2074</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/soundview">Soundview Library</a></h3>
+<div class="location-address">660 Soundview Avenue (at Seward Ave.), Bronx, NY 10473<br />
+(718) 589-0880</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/spuyten-duyvil">Spuyten Duyvil Library</a></h3>
+<div class="location-address">650 W. 235th St. (at Independence Ave.), Bronx, NY 10463<br />
+(718) 796-1202</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/throgs-neck">Throg&#039;s Neck Library</a></h3>
+<div class="location-address">3025 Cross Bronx Expressway Extension (at E. Tremont Ave.), Bronx, NY 10465<br />
+(718) 792-2612</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/tremont">Tremont Library</a></h3>
+<div class="location-address">1866 Washington Avenue (at E. 176th St.), Bronx, NY 10457<br />
+(718) 299-5177</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/van-cortlandt">Van Cortlandt Library</a></h3>
+<div class="location-address">3874 Sedgwick Avenue (south of Mosholu Parkway), Bronx, NY 10463<br />
+(718) 543-5150</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/van-nest">Van Nest Library</a></h3>
+<div class="location-address">2147 Barnes Avenue (near Pelham Parkway South), Bronx, NY 10462<br />
+(718) 829-5864</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/wakefield">Wakefield Library</a></h3>
+<div class="location-address">4100 Lowerre Place (at E. 229th St.), Bronx, NY 10466<br />
+(718) 652-4663</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/west-farms">West Farms Library</a></h3>
+<div class="location-address">2085 Honeywell Avenue (between E. 179th & 180th Sts.), Bronx, NY 10460<br />
+(718) 367-5376</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/westchester-square">Westchester Square Library</a></h3>
+<div class="location-address">2521 Glebe Avenue, Bronx, NY 10461<br />
+(718) 863-0436</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/woodlawn-heights">Woodlawn Heights Library</a></h3>
+<div class="location-address">4355 Katonah Avenue (at E. 239th St.), Bronx, NY 10470<br />
+(718) 519-9627</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/woodstock">Woodstock Library</a></h3>
+<div class="location-address">761 East 160th Street (west of Prospect Ave.), Bronx, NY 10456<br />
+(718) 665-6255</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<h2 id="statenisland-list">Libraries on Staten Island <a href="/sites/default/files/statenhours.pdf" class="pdf-link" title="Download PDF"><span class="replaced-text">Download PDF</span></a></h2>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/dongan-hills">Dongan Hills Library</a></h3>
+<div class="location-address">1617 Richmond Road (between Seaview & Liberty Aves.), Staten Island, NY 10304<br />
+(718) 351-1444</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/great-kills">Great Kills Library</a></h3>
+<div class="location-address">56 Giffords Lane (at Margaret St.), Staten Island, NY 10308<br />
+(718) 984-6670</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/huguenot-park">Huguenot Park Library</a></h3>
+<div class="location-address">830 Huguenot Avenue (at Drumgoole Rd., East), Staten Island, NY 10312<br />
+(718) 984-4636</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/new-dorp">New Dorp Library</a></h3>
+<div class="location-address">309 New Dorp Lane, Staten Island, NY 10306<br />
+(718) 351-2977</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/port-richmond">Port Richmond Library</a></h3>
+<div class="location-address">75 Bennett Street (at Heberton Ave.), Staten Island, NY 10302<br />
+(718) 442-0158</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/richmondtown">Richmondtown Library</a></h3>
+<div class="location-address">200 Clarke Avenue (at Amber St.), Staten Island, NY 10306<br />
+(718) 668-0413</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/south-beach">South Beach Library</a></h3>
+<div class="location-address">21-25 Robin Road (at Ocean Ave. & Father Capodanno Blvd.), Staten Island, NY 10305<br />
+(718) 816-5834</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/st-george-library-center">St. George Library Center</a></h3>
+<div class="location-address">5 Central Avenue (near Borough Hall), Staten Island, NY 10301<br />
+(718) 442-8560</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 8:00 AM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/stapleton">Stapleton Library</a></h3>
+<div class="location-address">132 Canal St. (at Wright St.), Staten Island, NY 10304<br />
+(718) 727-0427</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/todt-hill-westerleigh">Todt Hill-Westerleigh Library</a></h3>
+<div class="location-address">2550 Victory Boulevard (past Willowbrook Rd.), Staten Island, NY 10314<br />
+(718) 494-1642</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/tottenville">Tottenville Library</a></h3>
+<div class="location-address">7430 Amboy Road, Staten Island, NY 10307<br />
+(718) 984-0945</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/west-new-brighton">West New Brighton Library</a></h3>
+<div class="location-address">976 Castleton Avenue (at N. Burgher Ave.), Staten Island, NY 10310<br />
+(718) 442-1416</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+</div>
+<div id="research" class="locations-list hidden">
+<h2 id="research-list">Research Libraries <a href="/sites/default/files/researchhours.pdf" class="pdf-link" title="Download PDF"><span class="replaced-text">Download PDF</span></a></h2>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/schwarzman">Stephen A. Schwarzman Building</a></h3>
+<div class="location-address">Fifth Avenue at 42nd Street, New York, NY 10018-2788<br />
+(917) 275-6975</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/lpa">New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center</a></h3>
+<div class="location-address">40 Lincoln Center Plaza, New York, NY 10023-7498<br />
+(917) 275-6975</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/schomburg">Schomburg Center for Research in Black Culture</a></h3>
+<div class="location-address">515 Malcolm X Boulevard, New York, NY 10037-1801<br />
+(212) 491-2200</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/sibl">Science, Industry and Business Library (SIBL)</a></h3>
+<div class="location-address">188 Madison Avenue @ 34th Street, New York, NY 10016-4314<br />
+(917) 275-6975</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+</div>
+<div id="manhattan" class="locations-list hidden">
+<h2 id="manhattan-list">Libraries in Manhattan <a href="/sites/default/files/manhattanhours.pdf" class="pdf-link" title="Download PDF"><span class="replaced-text">Download PDF</span></a></h2>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/115th-street">115th Street Library</a></h3>
+<div class="location-address">203 West 115th Street, New York, NY 10026-2403<br />
+(212) 666-9393</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/125th-street">125th Street Library</a></h3>
+<div class="location-address">224 East 125th Street (near Third Ave.), New York, NY 10035-1786<br />
+(212) 534-5050</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/58th-street">58th Street Library</a></h3>
+<div class="location-address">127 East 58th Street (between Park &amp; Lexington Aves.), New York, NY 10022-1211<br />
+(212) 759-7358</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/67th-street">67th Street Library</a></h3>
+<div class="location-address">328 East 67th Street (near First Ave.), New York, NY 10065-6204<br />
+(212) 734-1717</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/96th-street">96th Street Library</a></h3>
+<div class="location-address">112 East 96th Street (near Lexington Ave.), New York, NY 10128-2597<br />
+(212) 289-0908</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/aguilar">Aguilar Library</a></h3>
+<div class="location-address">174 East 110th Street (between Lexington & Third Aves.), New York, NY 10029-3212<br />
+(212) 534-2930</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/heiskell">Andrew Heiskell Braille and Talking Book Library</a></h3>
+<div class="location-address">40 West 20th Street (between 5th and 6th Aves.), New York, NY 10011-4211<br />
+(212) 206-5400</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 5:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/battery-park-city">Battery Park City Library</a></h3>
+<div class="location-address">175 North End Avenue (at Murray Street), New York, NY 10282<br />
+(212) 790-3499</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/bloomingdale">Bloomingdale Library</a></h3>
+<div class="location-address">150 West 100th Street (between Amsterdam & Columbus Aves.), New York, NY 10025-5196<br />
+(212) 222-8030</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/chatham-square">Chatham Square Library</a></h3>
+<div class="location-address">33 East Broadway (near Catherine St.), New York, NY 10002-6804<br />
+(212) 964-6598</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/columbus">Columbus Library</a></h3>
+<div class="location-address">742 10th Avenue (between 50th & 51st Sts.), New York, NY 10019-7019<br />
+(212) 586-5098</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/countee-cullen">Countee Cullen Library</a></h3>
+<div class="location-address">104 West 136th Street (near Lenox Ave.), New York, NY 10030-2695<br />
+(212) 491-2070</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/donnell">Donnell Library Center</a></h3>
+<div class="location-address">20 West 53rd Street, New York, NY 10019-6185<br />
+</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours"><p>As of August 30, 2008, The Donnell Library Center is closed. Please visit one of the other branches of The New York Public Library.</p>
+</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/epiphany">Epiphany Library</a></h3>
+<div class="location-address">228 East 23rd Street (near Second Ave.), New York, NY 10010-4672<br />
+(212) 679-2645</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours"><p>The Epiphany Library will be closed temporarily beginning August 15th to facilitate necessary upgrades to the building and its  heating and cooling systems. The branch is scheduled to reopen in November 2013. The bookdrop will remain open during this time. During this construction, we encourage patrons to visit the following nearby branches:<br />
+Kips Bay Library - 446 Third Avenue<br />
+Ottendorfer Library - 135 Second Avenue<br />
+Muhlenberg Library - 209 West 23rd Street (near Seventh Avenue) </p>
+<p>Your hold requests can be picked up at Kip's Bay, 446 Third Avenue (at E 31st St.), tel. (212) 683-2520. </p>
+<p>"Like" us on Facebook @ <a href="http://www.facebook.com/epiphanynypl" title="www.facebook.com/epiphanynypl">www.facebook.com/epiphanynypl</a>!</p>
+</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/fort-washington">Fort Washington Library</a></h3>
+<div class="location-address">535 West 179th Street (between St. Nicholas & Audubon Aves.), New York, NY 10033-5799<br />
+(212) 927-3533</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/george-bruce">George Bruce Library</a></h3>
+<div class="location-address">518 West 125th Street (at Amsterdam Ave.), New York, NY 10027-3407<br />
+(212) 662-9727</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/grand-central">Grand Central Library</a></h3>
+<div class="location-address">135 East 46th Street (between Lexington &amp; Third Aves.), New York, NY 10017<br />
+(212) 621-0670</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/hamilton-fish-park">Hamilton Fish Park Library</a></h3>
+<div class="location-address">415 East Houston Street (near Avenue D), New York, NY 10002-1197<br />
+(212) 673-2290</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/hamilton-grange">Hamilton Grange Library</a></h3>
+<div class="location-address">503 West 145th Street, New York, NY 10031-5101<br />
+(212) 926-2147</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/harlem">Harlem Library</a></h3>
+<div class="location-address">9 West 124th Street, New York, NY 10027-5699<br />
+(212) 348-5620</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/hudson-park">Hudson Park Library</a></h3>
+<div class="location-address">66 Leroy Street (off Seventh Ave. South), New York, NY 10014-3929<br />
+(212) 243-6876</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/inwood">Inwood Library</a></h3>
+<div class="location-address">4790 Broadway (near Dyckman St.), New York, NY 10034-4916<br />
+(212) 942-2445</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/jefferson-market">Jefferson Market Library</a></h3>
+<div class="location-address">425 Avenue of the Americas (at 10th St.), New York, NY 10011-8454<br />
+(212) 243-4334</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/kips-bay">Kips Bay Library</a></h3>
+<div class="location-address">446 Third Avenue (at E. 31st St.), New York, NY 10016-6025<br />
+(212) 683-2520</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/macombs-bridge">Macomb&#039;s Bridge Library</a></h3>
+<div class="location-address">2650 Adam Clayton Powell, Jr. Blvd. (between W. 152nd & 153rd Sts.), New York, NY 10039-2004<br />
+(212) 281-4900</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/mid-manhattan-library">Mid-Manhattan Library</a></h3>
+<div class="location-address">455 Fifth Avenue (at 40th Street), New York, NY 10016-0122<br />
+(212) 340-0863</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 8:00 AM to 11:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/morningside-heights">Morningside Heights</a></h3>
+<div class="location-address">2900 Broadway (at W. 113th St.), New York, NY 10025-7822<br />
+(212) 864-2530</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/muhlenberg">Muhlenberg Library</a></h3>
+<div class="location-address">209 West 23rd Street (near Seventh Ave.), New York, NY 10011-2379<br />
+(212) 924-1585</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/mulberry-street">Mulberry Street Library</a></h3>
+<div class="location-address">10 Jersey Street (Between Lafayette & Mulberry Streets), New York, NY 10012-3332<br />
+(212) 966-3424</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/new-amsterdam">New Amsterdam Library</a></h3>
+<div class="location-address">9 Murray Street (between Broadway & Church St.), New York, NY 10007-2223<br />
+(212) 732-8186</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/lpa">New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center</a></h3>
+<div class="location-address">40 Lincoln Center Plaza, New York, NY 10023-7498<br />
+(917) 275-6975</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/ottendorfer">Ottendorfer Library</a></h3>
+<div class="location-address">135 Second Avenue (near E. 8th St. - St. Marks Place), New York, NY 10003-8304<br />
+(212) 674-0947</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/riverside">Riverside Library</a></h3>
+<div class="location-address">127 Amsterdam Avenue (at W. 65th St.), New York, NY 10023-6447<br />
+(212) 870-1810</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/roosevelt-island">Roosevelt Island Library</a></h3>
+<div class="location-address">524 Main Street, New York, NY 10044-0001<br />
+(212) 308-6243</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/schomburg">Schomburg Center for Research in Black Culture</a></h3>
+<div class="location-address">515 Malcolm X Boulevard, New York, NY 10037-1801<br />
+(212) 491-2200</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/sibl">Science, Industry and Business Library (SIBL)</a></h3>
+<div class="location-address">188 Madison Avenue @ 34th Street, New York, NY 10016-4314<br />
+(917) 275-6975</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/seward-park">Seward Park Library</a></h3>
+<div class="location-address">192 East Broadway (at Jefferson St.), New York, NY 10002-5597<br />
+(212) 477-6770</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/st-agnes">St. Agnes Library</a></h3>
+<div class="location-address">444 Amsterdam Avenue (near @. 81st St.), New York, NY 10024-5506<br />
+(212) 621-0619</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/schwarzman">Stephen A. Schwarzman Building</a></h3>
+<div class="location-address">Fifth Avenue at 42nd Street, New York, NY 10018-2788<br />
+(917) 275-6975</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/cathedral">Terence Cardinal Cooke-Cathedral Library</a></h3>
+<div class="location-address">560 Lexington Avenue (at E. 50th St., lower level), New York, NY 10022-6828<br />
+(212) 752-3824</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/tompkins-square">Tompkins Square Library</a></h3>
+<div class="location-address">331 East 10th Street (near Avenue B), New York, NY 10009-5099<br />
+(212) 228-4747</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/washington-heights">Washington Heights Library</a></h3>
+<div class="location-address">1000 St. Nicholas Avenue (at W. 160th St.), New York, NY 10032-5202<br />
+(212) 923-6054</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours"><p>The Washington Heights Library is projected to reopen in late 2013 after a major renovation.</p>
+</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/webster">Webster Library</a></h3>
+<div class="location-address">1465 York Avenue (near E. 78th St.), New York, NY 10021-8895<br />
+(212) 288-5049</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/yorkville">Yorkville Library</a></h3>
+<div class="location-address">222 East 79th Street (between Second & Third Aves.), New York, NY 10021-1295<br />
+(212) 744-5824</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+</div>
+<div id="bronx" class="locations-list hidden">
+<h2 id="bronx-list">Libraries in The Bronx <a href="/sites/default/files/bronxhours.pdf" class="pdf-link" title="Download PDF"><span class="replaced-text">Download PDF</span></a></h2>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/allerton">Allerton Library</a></h3>
+<div class="location-address">2740 Barnes Avenue (between Allerton & Arnow Aves.), Bronx, NY 10467<br />
+(718) 881-4240</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/baychester">Baychester Library</a></h3>
+<div class="location-address">2049 Asch Loop North (north of Bartow Ave.), Bronx, NY 10475<br />
+(718) 379-6700</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/belmont">Belmont Library and Enrico Fermi Cultural Center</a></h3>
+<div class="location-address">610 E. 186th Street (at Hughes Ave.), Bronx, NY 10458<br />
+(718) 933-6410</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/bronx-library-center">Bronx Library Center</a></h3>
+<div class="location-address">310 East Kingsbridge Road (at Briggs Avenue), Bronx, NY 10458<br />
+(718) 579-4244</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 9:00 AM to 9:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/castle-hill">Castle Hill Library</a></h3>
+<div class="location-address">947 Castle Hill Avenue (at Bruckner Blvd.), Bronx, NY 10473<br />
+(718) 824-3838</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/city-island">City Island Library</a></h3>
+<div class="location-address">320 City Island Avenue (between Bay & Fordham Sts.), Bronx, NY 10464<br />
+(718) 885-1703</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/clasons-point">Clason&#039;s Point Library</a></h3>
+<div class="location-address">1215 Morrison Avenue (near Westchester Ave.), Bronx, NY 10472<br />
+(718) 842-1235</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/eastchester">Eastchester Library</a></h3>
+<div class="location-address">1385 East Gun Hill Road (near Eastchester Rd.), Bronx, NY 10469<br />
+(718) 653-3292</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/edenwald">Edenwald Library</a></h3>
+<div class="location-address">1255 East 233rd Street (at DeReimer Ave.), Bronx, NY 10466<br />
+(718) 798-3355</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/francis-martin">Francis Martin Library</a></h3>
+<div class="location-address">2150 University Avenue (at 181st St.), Bronx, NY 10453<br />
+(718) 295-5287</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/grand-concourse">Grand Concourse Library</a></h3>
+<div class="location-address">155 East 173rd Street (east of Grand Concourse), Bronx, NY 10457<br />
+(718) 583-6611</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/high-bridge">High Bridge Library</a></h3>
+<div class="location-address">78 West 168th Street (at Woodycrest Ave.), Bronx, NY 10452<br />
+(718) 293-7800</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/hunts-point">Hunt&#039;s Point Library</a></h3>
+<div class="location-address">877 Southern Boulevard (at Tiffany St.), Bronx, NY 10459<br />
+(718) 617-0338</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/jerome-park">Jerome Park Library</a></h3>
+<div class="location-address">118 Eames Place (near Kingsbridge Rd.), Bronx, NY 10468<br />
+(718) 549-5200</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/kingsbridge">Kingsbridge Library</a></h3>
+<div class="location-address">291 West 231st Street, Bronx, NY 10463<br />
+(718) 548-5656</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/melrose">Melrose Library</a></h3>
+<div class="location-address">910 Morris Avenue (at E. 162nd St.), Bronx, NY 10451<br />
+(718) 588-0110</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/morris-park">Morris Park Library</a></h3>
+<div class="location-address">985 Morris Park Avenue (between Radcliff and Colden Aves.), Bronx, NY 10462<br />
+(718) 931-0636</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/morrisania">Morrisania Library</a></h3>
+<div class="location-address">610 East 169th Street (at Franklin Ave.), Bronx, NY 10456<br />
+(718) 589-9268</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/mosholu">Mosholu Library</a></h3>
+<div class="location-address">285 East 205th Street (near Perry Ave.), Bronx, NY 10467<br />
+(718) 882-8239</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/mott-haven">Mott Haven Library</a></h3>
+<div class="location-address">321 East 140th Street (at Alexander Ave.), Bronx, NY 10454<br />
+(718) 665-4878</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/parkchester">Parkchester Library</a></h3>
+<div class="location-address">1985 Westchester Avenue (at Pugsley Ave.), Bronx, NY 10462<br />
+(718) 829-7830</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 8:00 AM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/pelham-bay">Pelham Bay Library</a></h3>
+<div class="location-address">3060 Middletown Road (north of Crosby Ave.), Bronx, NY 10461<br />
+(718) 792-6744</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/riverdale">Riverdale Library</a></h3>
+<div class="location-address">5540 Mosholu Avenue (at W. 256th St.), Bronx, NY 10471<br />
+(718) 549-1212</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/sedgwick">Sedgwick Library</a></h3>
+<div class="location-address">1701 Martin Luther King, Jr. Blvd. (at W. 176th St.), Bronx, NY 10453<br />
+(718) 731-2074</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/soundview">Soundview Library</a></h3>
+<div class="location-address">660 Soundview Avenue (at Seward Ave.), Bronx, NY 10473<br />
+(718) 589-0880</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/spuyten-duyvil">Spuyten Duyvil Library</a></h3>
+<div class="location-address">650 W. 235th St. (at Independence Ave.), Bronx, NY 10463<br />
+(718) 796-1202</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/throgs-neck">Throg&#039;s Neck Library</a></h3>
+<div class="location-address">3025 Cross Bronx Expressway Extension (at E. Tremont Ave.), Bronx, NY 10465<br />
+(718) 792-2612</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/tremont">Tremont Library</a></h3>
+<div class="location-address">1866 Washington Avenue (at E. 176th St.), Bronx, NY 10457<br />
+(718) 299-5177</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/van-cortlandt">Van Cortlandt Library</a></h3>
+<div class="location-address">3874 Sedgwick Avenue (south of Mosholu Parkway), Bronx, NY 10463<br />
+(718) 543-5150</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/van-nest">Van Nest Library</a></h3>
+<div class="location-address">2147 Barnes Avenue (near Pelham Parkway South), Bronx, NY 10462<br />
+(718) 829-5864</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/wakefield">Wakefield Library</a></h3>
+<div class="location-address">4100 Lowerre Place (at E. 229th St.), Bronx, NY 10466<br />
+(718) 652-4663</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/west-farms">West Farms Library</a></h3>
+<div class="location-address">2085 Honeywell Avenue (between E. 179th & 180th Sts.), Bronx, NY 10460<br />
+(718) 367-5376</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/westchester-square">Westchester Square Library</a></h3>
+<div class="location-address">2521 Glebe Avenue, Bronx, NY 10461<br />
+(718) 863-0436</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/woodlawn-heights">Woodlawn Heights Library</a></h3>
+<div class="location-address">4355 Katonah Avenue (at E. 239th St.), Bronx, NY 10470<br />
+(718) 519-9627</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/woodstock">Woodstock Library</a></h3>
+<div class="location-address">761 East 160th Street (west of Prospect Ave.), Bronx, NY 10456<br />
+(718) 665-6255</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-none">
+Not accessible to wheelchairs</div>
+</div>
+</div>
+</div>
+<div id="statenisland" class="locations-list hidden">
+<h2 id="statenisland-list">Libraries on Staten Island <a href="/sites/default/files/statenhours.pdf" class="pdf-link" title="Download PDF"><span class="replaced-text">Download PDF</span></a></h2>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/dongan-hills">Dongan Hills Library</a></h3>
+<div class="location-address">1617 Richmond Road (between Seaview & Liberty Aves.), Staten Island, NY 10304<br />
+(718) 351-1444</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 7:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/great-kills">Great Kills Library</a></h3>
+<div class="location-address">56 Giffords Lane (at Margaret St.), Staten Island, NY 10308<br />
+(718) 984-6670</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/huguenot-park">Huguenot Park Library</a></h3>
+<div class="location-address">830 Huguenot Avenue (at Drumgoole Rd., East), Staten Island, NY 10312<br />
+(718) 984-4636</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/new-dorp">New Dorp Library</a></h3>
+<div class="location-address">309 New Dorp Lane, Staten Island, NY 10306<br />
+(718) 351-2977</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/port-richmond">Port Richmond Library</a></h3>
+<div class="location-address">75 Bennett Street (at Heberton Ave.), Staten Island, NY 10302<br />
+(718) 442-0158</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-partial">Partially accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/richmondtown">Richmondtown Library</a></h3>
+<div class="location-address">200 Clarke Avenue (at Amber St.), Staten Island, NY 10306<br />
+(718) 668-0413</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/south-beach">South Beach Library</a></h3>
+<div class="location-address">21-25 Robin Road (at Ocean Ave. & Father Capodanno Blvd.), Staten Island, NY 10305<br />
+(718) 816-5834</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/st-george-library-center">St. George Library Center</a></h3>
+<div class="location-address">5 Central Avenue (near Borough Hall), Staten Island, NY 10301<br />
+(718) 442-8560</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 8:00 AM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/stapleton">Stapleton Library</a></h3>
+<div class="location-address">132 Canal St. (at Wright St.), Staten Island, NY 10304<br />
+(718) 727-0427</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/todt-hill-westerleigh">Todt Hill-Westerleigh Library</a></h3>
+<div class="location-address">2550 Victory Boulevard (past Willowbrook Rd.), Staten Island, NY 10314<br />
+(718) 494-1642</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 10:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/tottenville">Tottenville Library</a></h3>
+<div class="location-address">7430 Amboy Road, Staten Island, NY 10307<br />
+(718) 984-0945</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 12:00 PM to 8:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+<div class='location-listing'>
+<div class='location-name-address'>
+<h3><a href="/locations/west-new-brighton">West New Brighton Library</a></h3>
+<div class="location-address">976 Castleton Avenue (at N. Burgher Ave.), Staten Island, NY 10310<br />
+(718) 442-1416</div>
+</div>
+<div class='location-hours-access'>
+<div class="location-hours">Open today from 11:00 AM to 6:00 PM</div>
+<div class="wheelchair-access wheelchair-access-full">Fully accessible</div>
+</div>
+</div>
+</div>
+</div>
+	
+		</div><!-- END LOCATIONS INDEX -->
+		<div class="stuck">
+		<div id="map" class="map-noscript">
+			<div id="main-content-body">
+			
+<div id="block-locations-1" class="clear-block block block-locations">
+
+
+  <div class="content"><div style="width: 500px; height: 500px;" id="gmap-all_locations-gmap0" class="gmap-control gmap-gmap gmap gmap-map gmap-all_locations-gmap">Javascript is required to view this map.</div></div>
+</div>			</div>
+		</div>
+
+		<!-- <div class="clearboth"></div> -->
+		
+
+				<div id="locations-main-bottom">
+		<div id="closings-block">
+<h3><a href="/locations/closings">Upcoming Closings</a></h3>
+<ul>
+<li>October 14 (Columbus Day)</li>
+<li>November 11 (Veterans Day)</li>
+<li>November 28 (Thanksgiving Day)</li>
+<li>December 25 (Christmas Day)</li>
+</ul>
+<a href="/locations/closings">See all &rsaquo;</a>
+<div id="block-block-97" class="block block-block">
+
+<h3>What about Brooklyn and Queens?</h3>
+<div class="content">The boroughs of Brooklyn and Queens are each served by their own library systems:
+<div id="queens-brooklyn-logos">
+<div id="queens-system"><a href="http://www.queenslibrary.org/"><span>Queens Library</span></a></div>
+<div id="brooklyn-system"><a href="http://www.brooklynpubliclibrary.org/"><span>Queens Library</span></a></div>
+</div></div>
+</div></div>		</div>
+		</div>
+				
+		
+	
+
+	<!-- END CONTENT -->
+
+
+
+	</div><!-- ** END MAIN COLUMN ** -->
+		
+	
+	
+
+</div>
+<!-- ** END CONTENT CONTAINER ** -->
+
+
+
+
+		<!-- ** BEGIN BOTTOM BANNER ** -->
+				<!-- ** END BOTTOM BANNER ** -->
+
+
+
+
+<!-- ** BEGIN FOOTER ** -->
+<!-- NOTE: This file needs to be updated with real links that load from Drupal lists -->
+
+<div id="footer"> 
+  
+  
+  <div id="footer1" class="column">
+  <h2><span class="replaced-text">Discover</span></h2>
+    <div class="footer-content">
+      
+      
+      <h3>Picture of the Day</h3><a href="http://digitalgallery.nypl.org/nypldigital/id?den_1387v" onclick="javascript:_gaq.push([&#039;_trackEvent&#039;, &#039;footer&#039;, &#039;Click&#039;, &#039;goal/footer/dg_image&#039;]);"><img src="/sites/default/files/tmp/dg_dailypick_den_1387v.jpg" alt="Ruth St. Denis at Yosemite Valley (1919-1920). NYPL Dance Division." title="Digital Gallery Pick of the Day" /></a><p class="dg-title">Ruth St. Denis at Yosemite Valley (1919-1920). NYPL Dance Division.</p><p>One of 700,000 pictures in the <a href="http://digitalgallery.nypl.org/" onclick="javascript:_gaq.push([&#039;_trackEvent&#039;, &#039;footer&#039;, &#039;Click&#039;, &#039;goal/footer/dg_home&#039;]);">NYPL Digital Gallery</a></p>    
+      
+<div id="block-block-42" class="block block-block">
+
+<h3>Explore NYPL</h3>
+<div class="content"><form class="automenu" id="iamamenu" action="">
+<select name="iamaselector">
+<option value="" selected="selected">Choose your path...</option>
+<option value="/support">NYPL Donor</option>
+<option value="/node/29643">Teacher</option>
+<option value="/node/54754">Job Seeker</option>
+<option value="/node/29646">Child</option>
+<option value="/node/29647">Teen</option>
+<option value="/node/87">Person with a Disability</option>
+<option value="http://smallbiz.nypl.org/">Small Business Owner</option>
+<option value="/node/29870">Recent Immigrant</option>
+
+</select></form></div>
+</div>    
+    </div>
+  </div>
+  
+  
+  <div id="footer2" class="column">
+    <div class="footer-content">
+      <h2><span class="replaced-text">Get Inspired</span></h2>
+      <div id="block-views-media_center-block_3" class="block block-views">
+
+<h3>News</h3>
+<div class="content"><div class="view view-media-center view-id-media_center view-display-id-block_3 view-dom-id-2 ">
+    
+  
+    
+
+    
+
+  
+
+        
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+<div class="title"><a href="/press/press-release/2013/09/26/helen-gurley-brown-trust-gives-15-million-magic-grant-create-nypl-bri">Helen Gurley Brown Trust Gives $15 Million &quot;Magic Grant&quot; To Create The &quot;NYPL BridgeUp&quot; Program at Library Branches For At-Risk Youth</a></div>
+<div class="teaser-text">
+<p><strong>September 26, 2013</strong>&nbsp;&mdash; The Helen Gurley Brown Trust today announced that it has given $15 million to The New York Public Library to establish NYPL BridgeUp, an innovative, new educational and anti-poverty program that will provide academic and social support to New York&nbsp;</p><a href="/press/press-release/2013/09/26/helen-gurley-brown-trust-gives-15-million-magic-grant-create-nypl-bri" class="readmore">Read More › </a></div>
+</div>
+  
+
+
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+
+<div id="block-nypl_grouper-5" class="block block-nypl_grouper block-nypl_grouper-5">
+
+
+<h3>Latest Blog Post</h3><div class="content"><div class="blog-post-preview blog-post-single">
+<div class="content-no-image">
+<div class="title"><a href="/blog/2013/09/27/sensory-sensation">A Sensory Sensation!</a></div><div class="teaser-text">
+<p>We just finished the 67th Street Library's first programs specifically focusing on sensory development and made to be encouraging to children of all abilities. The quest-themed program is called &quot;Mysterious Matter Adventures&quot; and includes sequencing practice, art, and scientific&nbsp;</p><a href="/blog/2013/09/27/sensory-sensation" class="readmore">Read More › </a></div>
+</div>
+</div>
+</div>
+</div>    </div>
+  </div>
+  
+  
+  <div id="footer3" class="column">
+    <div class="footer-content">
+      <h2><span class="replaced-text">Connect</span></h2>
+      
+<div id="block-block-43" class="block block-block">
+
+<h3>Follow NYPL on the Web</h3>
+<div class="content"><ul id="third-party-links">
+    <li id="rss"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/rss/deep-footer/image']);" href="/node/62500"><span class="replaced-text">Subcribe via RSS</span></a></li>
+    <li id="facebook"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/facebook/deep-footer/image']);" href="http://facebook.com/nypl"><span class="replaced-text">Facebook</span></a></li>
+    <li id="twitter"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/twitter/deep-footer/image']);" href="http://twitter.com/nypl"><span class="replaced-text">Twitter</span></a></li>
+    <li id="googleplus"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/googleplus/deep-footer/image']);" href="https://plus.google.com/109540108294407047300/"><span class="replaced-text">Google Plus</span></a></li>
+    <li id="youtube"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/youtube/deep-footer/image']);" href="http://www.youtube.com/profile?user=NewYorkPublicLibrary"><span class="replaced-text">YouTube</span></a></li>
+    <li id="tumblr"><a onClick="javascript:_gaq.push(['_trackPageview', '/goal/tumblr/deep-footer/image']);" href="http://nypl.tumblr.com/"><span class="replaced-text">Tumblr</span></a></li>
+    <li id="foursquare"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/foursquare/deep-footer/image']);" href="http://foursquare.com/nypl"><span class="replaced-text">Foursquare</span></a></li>
+    <li id="flickr"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/flickr/deep-footer/image']);" href="http://www.flickr.com/photos/nypl/"><span class="replaced-text">Flickr</span></a></li>
+    <li id="itunes"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/iTunes/deep-footer/image']);" href="http://deimos.apple.com/WebObjects/Core.woa/Browse/nypl.org"><span class="replaced-text">iTunes</span></a></li>
+    <li id="pinterest" ><a href="http://pinterest.com/nypl" onclick="javascript:_gaq.push(['_trackPageview', '/goal/pinterest/deep-footer/image']);" class="ext"><span class="replaced-text">Pinterest</span></a></li>
+</ul>
+<p><a onClick="javascript:_gaq.push(['_trackPageview', '/goal/voicethread/deep-footer/text']);" href="http://nypl.voicethread.com/">Visit NYPL on VoiceThread</a></p></div>
+</div>
+<div id="block-block-76" class="block block-block">
+
+<h3>Get NYPL News via Email</h3>
+<div class="content"><form id="news_signup" action="http://cl.exct.net/subscribe.aspx" name="subscribeForm" method="post">
+<input type="hidden" name="thx" value="http://www.nypl.org/node/153301" />
+<input type="hidden" name="err" value="http://www.nypl.org" />
+<input type="hidden" name="SubAction" value="sub_add_update" />
+<input type="hidden" name="MID" value="7000413" />
+<input type="hidden" name="Email Type" value="HTML" />
+<input type="hidden" name="lid" value="1061" />
+
+  <div><a href="/help/about-nypl/legal-notices/privacy-policy" style="float:right; margin-top: 10px;">Privacy Policy</a></div>
+
+  <input type="text" name="Email Address" value="E-mail address" onfocus="if (value='E-mail address') {value=''}" onblur="if (value=='') {value='E-mail address'}" />
+  <input type="submit" value="Sign Up" class="Button" />
+
+
+<input type="hidden" name="Source Code" value="Deep footer" />
+</form></div>
+</div>
+<div id="block-block-44" class="block block-block">
+
+<div class="content">To learn more about how the library uses information you provide, please read our <a href="http://www.nypl.org/privacy">privacy policy</a>.</div>
+</div>    </div>
+  </div>
+  
+  <div class="clearboth"></div>
+
+</div>
+
+<div id="footer-bottom">
+
+
+<div id="block-block-90" class="block block-block">
+
+<div class="content"><ul>
+<li><a href="http://shop.nypl.org/">The Library Shop</a></li>
+</ul>
+<ul>
+<li><a href="/help/about-nypl">About NYPL</a></li>
+<li><a href="/help/about-nypl/president-and-leadership">President and Leadership</a></li>
+<li><a href="/help/about-nypl/capital-projects/42nd-st-renovation">42nd St. Library Renovation</a></li>
+<li><a href="/spacerental">Space Rental</a></li>
+<li><a href="/help/about-nypl/careers-nypl">Careers at NYPL</a></li>
+<li><a href="/help/getting-oriented/resources-teachers">Resources for Teachers</a></li>
+</ul>
+<ul>
+<li><a href="http://www.nypl.org/eNews">E-Newsletters</a></li>
+<li><a href="/help/about-nypl/media-center">Media Center</a></li>
+<li><a href="/voices/connect-nypl">Connect with NYPL</a></li>
+<li><a href="/mobile-help">Mobile Apps</a></li>
+<li><a href="/help/computers-internet-and-wireless-access/reserving-computer">Reserve a PC</a></li>
+</ul>
+<ul>
+<li><a href="/help/about-nypl/legal-notices/privacy-policy">Privacy Policy</a></li>
+<li><a href="/help/about-nypl/legal-notices/rules-and-regulations">Rules and Regulations</a></li>
+<li><a href="/help/computers-internet-and-wireless-access/a-safety-net-for-the-internet">Using the Internet</a></li>
+<li><a href="/help/about-nypl/legal-notices/website-terms-and-conditions">Website Terms and Conditions</a></li>
+<li><a href="/help/about-nypl/legal-notices/policy-gifts-materials">Gifts of Materials to NYPL</a></li>
+</ul>
+<ul>
+<li><a href="/node/57438">Español</a></li>
+<li><a href="/node/107747">中文</a></li>
+<li><a href="/node/107749">русский</a></li>
+</ul>
+</div>
+</div>
+<ul id="legal-links"><li class="0 first last"><span title="Copyright" class="copyright">&copy; The New York Public Library, 2013</span></li>
+</ul>
+
+</div><!-- ** END FOOTER ** -->
+
+
+
+
+
+
+
+</div><!-- ** END MAIN ** -->
+
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","f8d2b656b5","2293520","YlQAYUJUX0EABUANC1seN0dZGlhcBQNMShRdQQ==",0,35,new Date().getTime(),"","","","",""]);</script><script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=33';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Ask a Librarian (Library of Congress)</title>
+<meta name="description" content="Ask a Librarian: an online reference service from the Library of Congress that allows researchers to submit reference questions to Library of Congress reading rooms and receive expert research assistance (within 5 business days)." />
+<link rel="alternate" type="image/jpg" href="http://www.loc.gov/search/static/images/recommended/_85s/00_LOC_logo_85.jpg" />
+<meta name="dc.subject" content="Ask a Librarian" />
+<meta name="dc.subject" content="Reference Services" />
+<meta name="dc.subject" content="Research" />
+<meta name="dc.subject" content="Reading Rooms" />
+<meta name="dc.coverage.spatial" content="Washington, DC" />
+<meta name="dc.type" content="webpage" />
+<meta name="dc.identifier" content="http://www.loc.gov/rr/askalib/" />
+
+<meta http-equiv="Content-Language" content="en-us" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="library congress ask a librarian online reference virtual reference digital reference question answer reading room service" />
+
+<link rel="stylesheet" media="print" type="text/css" href="/css/loc_print2col_ss.css" />
+<style type="text/css">
+@import url(/css/loc_standard_ss.css);
+@import url(/rr/askalib/css/askalib_ss.css);
+</style>
+<link href='/share/sites/spe5RA7u/share-min.css' rel='stylesheet' type='text/css' media='screen, all' />
+<script type='text/javascript' src='/share/sites/spe5RA7u/share-jquery-min.js'></script>
+
+<script type="text/javascript" src="http://cdn.loc.gov/js/global/foresee/foresee-trigger.js"></script></head>
+<body>
+<a id="skip" href="#skip_menu">skip navigation</a>
+<div id="container">
+  	<div id="topnav">
+    <ul id="menu">
+      <li id="logo_lc"><a title="The Library of Congress" href="http://www.loc.gov" accesskey="1"></a></li>
+      <li id="global_nav"><a href="http://www.loc.gov/rr/askalib/" accesskey="2"><img src="http://www.loc.gov/images/ask_librarian.gif" alt="Ask a Librarian" width="101" height="40" /></a><a href="http://www.loc.gov/library/libarch-digital.html" accesskey="3"><img src="http://www.loc.gov/images/digital_collections.gif" alt="Digital Collections" width="119" height="40" /></a><a href="http://catalog.loc.gov/" accesskey="4"><img src="http://www.loc.gov/images/library_catalog.gif" alt="Library Catalogs" width="111" height="40" /></a></li>
+      <li id="searchmenu">
+        <form action="http://www.loc.gov/search" method="get">
+          &nbsp;<label for="search" class="lcsearch_label">Search</label>
+          <input type='hidden' name='new' value='true'/>
+          <input id="search" type="text" name="q" maxlength="250" accesskey="/" title="Search the Library of Congress website" class="locsuggest" />
+          <input class="button" id="search_button" name="search_button" type="submit" value="GO" />
+        </form>
+      </li>
+    </ul>
+  </div><!-- end id:topnav -->
+  <script src="http://cdn.loc.gov/suggest/bootstrap-1.1.0.min.js" type="text/javascript"></script>
+  <div id="crumb_nav">
+    <div id="crumb"><a href="/">The Library of Congress</a>&nbsp;>&nbsp;Ask a Librarian</div>
+  </div>
+  <div id="content">
+    	<div id="left_nav">
+      <div id="left_nav_top"><a href="/rr/askalib/"><img src="/rr/askalib/images/lc_askalib.gif" alt="Ask a Librarian" width="197" height="50" /></a></div>
+      <div id="left_nav_mid">
+        <ul id="navigate">
+          <li><a href="/rr/askalib/">Ask a Librarian Home</a></li>
+          <li><a href="/rr/askalib/faq.html">Frequently Asked Questions</a></li>
+          <!-- <li><a href="chat.html">Live Chat</a></li> -->
+          <li><a href="/rr/askalib/virtualref.html">Virtual Reference Shelf</a></li>
+          <li><a href="/rr/askalib/reference_policy.html">Reference Correspondence Policy</a></li>
+        </ul>
+        <h2>More Resources</h2>
+        <ul id="res_links">
+          <li><a href="http://www.copyright.gov/help/">Copyright Help</a></li>
+          <li><a href="http://www.loc.gov/acq/donatex.html">Donations of Library Materials</a></li>
+          <li><a href="http://www.loc.gov/duplicationservices/">Duplication Services</a></li>
+          <li><a href="http://www.loc.gov/rr/program/bib/bibhome.html">Guides and Bibliographies</a></li>
+          <li><a href="http://www.loc.gov/rr/">Research and Reference Services</a></li>
+
+          <!-- <li><a href="http://www.loc.gov/rr/international/portals.html">Portals to the World</a></li> -->
+
+        </ul>
+      </div>
+      <!-- closing left_nav div tag -->
+    </div>
+    <div id="page_head"><span style="width: 100%;"><a name="skip_menu"></a></span>
+      <h1 class="oneline">Ask a Librarian</h1>
+    </div>
+    <div class="locshare-this" id='instance_id1001'></div>
+    <div id="main_menu">
+      <div id="main_body">
+      	<p class="gray">Select a link below, based on the subject of your question.  
+		Some Reading Rooms have an online chat capability, indicated by the <img src="images/icon_chat.gif" alt="chat" /> icon.</p>
+		
+	  <div id="categories"><div id="categories_left">
+        <h2>General Collections</h2>
+		<ul>
+            <li><a href="ask-business.html">Business</a></li>
+            <li><a href="ask-main.html">Humanities/Social Sciences</a></li>
+           	<li><a href="ask-law.html">Law (US &amp; Int'l)</a></li>
+            <li><a href="ask-genealogy.html">Local History/Genealogy</a></li>
+            <li><a href="ask-news.html">Newspapers/Periodicals</a> <a href="chat-news.php"><img src="images/icon_chat.gif" alt="chat" /></a></li>
+            <li><a href="ask-scitech.html">Science/Technology</a></li>
+        </ul>
+        <h2>International Collections</h2>
+        <ul>
+          	<li><a href="ask-amed.html">African/Middle Eastern</a></li>
+           	<li><a href="ask-asian.html">Asian</a></li>
+           	<li><a href="ask-european.html">European</a></li>
+           	<li>Hispanic
+           	<ul>
+               	<li><a href="ask-hispanic-eng.html">English</a></li>
+               	<li><a href="ask-hispanic-spa.html">Espa&ntilde;ol</a></li>
+               	<li><a href="ask-hispanic-port.html">Portugu&ecirc;s</a></li>
+            </ul>
+            </li>
+        </ul>
+        <h2>Digital Collections</h2>
+        <ul>
+            <li><a href="ask-memory.html">American Memory Historical Collections</a> <a href="chat-memory.php"><img src="images/icon_chat.gif" alt="chat" /></a></li>
+            <li><a href="ask-digital.html">Digital Reference Section</a> <a href="chat-digital.php"><img src="images/icon_chat.gif" alt="chat" /></a></li>
+            <li><a href="ask-learning.html">Resources for Teachers</a></li>
+        </ul>
+        </div>
+      <div id="categories_right">
+        <h2>Special Formats and Genre</h2>
+        <ul>
+            <li><a href="ask-folklife.html">American Folklife Center</a></li>
+            <li><a href="ask-geogmap.html">Geography &amp; Map</a></li>
+            <li><a href="ask-mss.html">Manuscript</a></li>
+            <li><a href="ask-main.html">Microform</a></li>
+            <li><a href="ask-mopic.html">Motion Picture &amp; Television</a></li>
+            <li><a href="ask-perform.html">Music &amp; Performing Arts</a></li>
+            <li><a href="ask-print.html">Prints &amp; Photographs</a></li>
+            <li><a href="ask-rarebook.html">Rare Book &amp; Special Collections</a></li>
+            <li><a href="ask-record.html">Recorded Sound</a></li>
+            <li><a href="ask-vets.html">Veterans History Project</a></li>
+        </ul>
+        <h2>Other Programs and Services</h2>
+        <ul>
+            <li><a href="ask-cmd.html">Access to Collections</a></li>
+            <li><a href="ask-cmd.html">Borrowing Accounts</a></li>
+			<li><a href="ask-cmd.html">Interlibrary Loan</a></li>
+            <li><a href="http://www.loc.gov/nls/">National Library Service for Blind/Physically Handicapped</a></li>
+			<li><a href="ask-poetry.html">Poetry Office</a></li>
+			<li><a href="ask-preserv.html">Preservation</a></li>   
+           	<li><a href="ask-law.html">THOMAS (Legislation)</a></li>
+        </ul>
+      </div>
+      <div class="dots"></div>
+      </div>
+
+		<p class="gray">Still don't know where to send your question?<br />
+        <a href="ask-contactus.html">Use the General Inquiries Form &raquo;</a></p>
+        <p class="gray">Want to report an error or send a comment to Library staff?<br />
+        <a href="/help/ask-contactus.php">Use the Web Site Comments Form &raquo;</a></p>
+      </div>
+	  <!-- Do not remove --> <div class="clear"></div> <!-- Do not remove -->	  
+    </div>
+  </div>
+  <div id="footer">
+<h3>Stay Connected with the Library <a href="http://www.loc.gov/homepage/connect.html">All ways to connect</a> <a class="nounderline" href="http://www.loc.gov/homepage/connect.html">&raquo;</a></h3>
+<div id="find_us">
+<h4>Find us on</h4>
+<a href="http://www.facebook.com/libraryofcongress"><img src="http://www.loc.gov/include/images/facebook.gif" alt="Facebook" width="16" height="16" /></a><a href="http://twitter.com/librarycongress"><img src="http://www.loc.gov/include/images/twitter.gif" alt="Twitter" width="16" height="16" /></a><a href="http://www.youtube.com/libraryofcongress"><img src="http://www.loc.gov/include/images/youtube.gif" alt="YouTube" width="16" height="16" /></a><a href="http://www.flickr.com/photos/library_of_congress/"><img src="http://www.loc.gov/include/images/flickr.gif" alt="Flickr" width="16" height="16" /></a></div>
+<div id="subscribe">
+<h4>Subscribe &amp; Comment</h4>
+<ul>
+<li id="rssandemail"><a href="http://www.loc.gov/rss/">RSS &amp; E-Mail</a></li>
+<li id="blogs"><a href="http://blogs.loc.gov/">Blogs</a></li>
+</ul>
+</div>
+<div id="download">
+<h4>Download &amp; Play</h4>
+<ul>
+<li id="podcasts"><a href="http://www.loc.gov/podcasts/">Podcasts</a></li>
+<li id="webcasts"><a href="http://www.loc.gov/webcasts/">Webcasts</a></li>
+<li id="itunes"><a class="external" href="http://deimos3.apple.com/WebObjects/Core.woa/Browse/loc.gov"><span class="underline">iTunes U</span><span class="external2" title="external link" style="padding-right:8px;">&nbsp;</span></a></li>
+</ul>
+</div>
+
+<div id="site_links" style="font-size:.95em !important;">
+<a href="http://www.loc.gov/about/">About</a> | 
+<a href="http://www.loc.gov/pressroom/login">Press</a> | 
+<a href="http://www.loc.gov/hr/employment/index.php">Jobs</a> | 
+<a href="http://www.loc.gov/philanthropy/index.php">Donate</a> | 
+<a href="http://www.loc.gov/about/oig/">Inspector General</a> | 
+<a href="http://www.loc.gov/homepage/legal.html" accesskey="9">Legal</a> | 
+<a href="http://www.loc.gov/access/" accesskey="0">Accessibility</a> | 
+<a href="http://www.loc.gov/global/disclaim.html">External Link Disclaimer</a> |  
+<a href="http://www.usa.gov/">USA.gov</a> | 
+<a href="http://www.loc.gov/access/web.html">Speech Enabled</a>&nbsp;<a href="http://www.loc.gov/access/web.html"><img src="http://www.loc.gov/include/images/speech.gif" alt="Download BrowseAloud Plugin" width="15" height="12" /></a>
+</div>
+</div>
+
+</div>
+<script type='text/javascript' src='http://cdn.loc.gov/js/global/metrics/sc/v25.2/2.0/s_code.js'></script></body>
+</html>

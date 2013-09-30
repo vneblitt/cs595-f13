@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8" />
+<title>Guide to Law Online: U.S. Constitution | Law Library of Congress</title>
+<meta name="description" content="This Guide to Law Online includes a selection of sources accessible through the Internet on the U.S. Constitution. | Links provide access to primary documents, legal commentary, and general government information about the U.S. Constitution and constitutional law. " />
+<meta name="dc.subject" content="U.S. Constitution" />
+<meta name="dc.subject" content="Constitution Day" />
+<meta name="dc.subject" content="Historical texts" />
+<meta name="dc.subject" content="U.S. Supreme Court decisions" />
+<meta name="dc.subject" content="U.S. Supreme Court" />
+<meta name="dc.subject" content="Case Law" />
+<link rel="dc.relation.isPartOf" href="http://www.loc.gov/law" title="Law-Library-of-Congress" />
+<meta name="dc.identifier" content="http://www.loc.gov/law/help/guide/federal/usconst.php" />
+<meta rel="canonical" href="http://www.loc.gov/law/help/guide/federal/usconst.php" />
+<meta name="dc.coverage.spatial" content="United States--Federal" />
+<meta name="dc.type" content="web page" />
+<meta name="dc.rights" content="Text is U.S. Government Work" />
+<link rel="dc.rights" title="Rights Restriction" href="http://www.loc.gov/text-us-government-work" />
+<meta name="dc.language" content="eng" />
+<link media="screen" rel="stylesheet" href="/law/css/styles.css" />
+<link media="print" rel="stylesheet" href="/css/loc_print_v2.css" />
+<!--[if lte IE 7]><link media="screen" rel="stylesheet" href="/css/loc_lte_ie6.css" /><![endif]-->
+<!-- Toolbar -->
+<script type='text/javascript' src='/cdn/sites/law-library-of-congress.js'></script>
+<script src="http://cdn.loc.gov/js/lib/modernizr-1.5.min.js"></script>
+
+
+</head>
+<body>
+<a id="skip" href="#skip_menu">skip navigation</a>
+<div id="container"> 
+	<div id="branding">
+  <h2>Library of Congress</h2>
+  <h3>Law Library of Congress</h3>
+</div>
+<!-- end id:branding -->
+	<div id="h-wrapper" class="fix-float">
+  <div id="header" class="fix-float">
+    <div class="logo">
+      <a href="http://www.loc.gov" accesskey="1"><img src="http://cdn.loc.gov/images/img-head/logo-loc.png" width="141" height="32" alt="Library of Congress" /></a>
+    </div>
+    <div class="nav">
+        <ul>
+          <li><a class="btn-loc" href="http://www.loc.gov/rr/askalib/" accesskey="2">Ask a Librarian</a></li>
+          <li><a class="btn-loc" href="http://www.loc.gov/library/libarch-digital.html" accesskey="3">Digital Collections</a></li>
+          <li><a class="btn-loc" href="http://catalog.loc.gov/" accesskey="4">Library Catalogs</a></li>
+        </ul>
+    </div>
+    <div class="search">
+      <form action="http://www.loc.gov/search" method="get">
+        <label class="search_label" for="search">Search</label>
+        <div class="search_wrap">
+        <input type='hidden' name='new' value='true'/>
+        <input id="search" type="search" name="q" maxlength="200" accesskey="/" title="Search the Library of Congress website" placeholder="Search Loc.gov" class="locsuggest" /><button class="button" id="search_button" type="submit">GO</button>
+        </div>
+      </form>
+    </div>
+  </div>
+  <script src="http://cdn.loc.gov/suggest/library-of-congress.js" type="text/javascript"></script>
+</div>
+	<div id="crumb_nav"><a href="http://www.loc.gov">The Library of Congress</a> <span>&gt;</span> <a href="/law/">Law Library</a> <span>&gt;</span> <a href="/law/help/index.php">Research &amp; Reports</a> <span>></span> <a href="/law/help/guide.php">Guide to Law Online</a></div>
+	<div id="content">
+		
+<!-- new left nav-->
+
+<div id="left_nav">
+  <div class="box leftnavtitle"><a href="/law/"><img src="/law/images/left-img-head.gif" alt="Law Library of Congress" width="219" height="50" /></a></div>
+  <div class="box leftnavimg">Law Library of Congress Logo</div>
+  <div class="box">
+    <form action="http://www.loc.gov/search/" accept-charset="utf-8" id="site_search" name="seek1" method="get">
+      <input type='hidden' name='in' value='PartOf:law library of congress'/>
+      <!--<input type="hidden" name="qp" value="url:http://www.loc.gov/law" />-->
+      <input id="searchtext" name="q" type="text" placeholder="Search this site" title="Search this site" onfocus="this.value=''" />
+      <input class="button" type="submit" value="GO" />
+    </form>
+  </div>
+  <div class="box">
+    <ul class="arrow_o bold">
+      <li><a href="/law/">Law Library Home</a></li>
+      <li><a href="/law/about/">About the Law Library</a></li>
+      <li><a href="/law/help/">Research &amp; Reports</a></li>
+      <li><a href="/law/find/">Find Legal Resources</a></li>
+      <li><a href="/law/opportunities/">Educational &amp; Research Opportunities</a></li>
+      <li><a href="/law/visit/">Visiting the Law Library</a></li>
+      <li><a href="/law/news/">News &amp; Events</a></li>
+      <li><a href="/law/contact/">Contact</a></li>
+    </ul>
+  </div>
+  <div class="box blog">
+    <h2><a href="http://blogs.loc.gov/law/">In Custodia Legis</a></h2>
+    <p>Official blog from the Law Library of Congress</p>
+  </div>
+  <div class="box">
+    <h2>Find the Law Library on:</h2>
+    <ul class="social">
+      <li class="facebook"><a class="external" href="http://www.facebook.com/lawlibraryofcongress" target="_blank">Facebook<span> (external link)</span></a></li>
+      <li class="twitter"><a class="external" href="http://twitter.com/LawLibCongress" target="_blank">Twitter (Law Library)<span> (external link)</span></a></li>
+      <li class="twitter"><a class="external" href="http://www.twitter.com/thomasdotgov" target="_blank">Twitter (THOMAS)<span> (external link)</span></a></li>
+      <li class="youtube"><a class="external" href="http://www.youtube.com/playlist?list=PL96401BE3402149B9" target="_blank">YouTube<span> (external link)</span></a></li>
+      <li class="itunes"><a class="external" href="http://deimos3.apple.com/WebObjects/Core.woa/Browse/loc.gov.3061529668" target="_blank">iTunes U<span> (external link)</span></a></li>
+    </ul>
+  </div>
+</div>		<div id="main_body" role="main"> 
+			<!-- Toolbar -->
+			<div class="locshare-this" id='instance_access1001'></div>
+			<div class="clear-share"> 
+				<!-- --> 
+			</div>
+			<div id="page_head"><span style="width: 100%;"><a id="skip_menu"></a></span>
+				<h1>United States Constitution<br /><span>Texts, Commentaries, Historical Texts and Judicial   Decisions</span></h1>
+			</div>
+			<div class="box_img"><img src="/law/images/header_help.jpg" alt="Law Library Stacks" /></div>
+	  
+	  	<div id="main_nav" class="w_tert"><a href="/law/help/">Research &amp; Reports</a> | <a href="/law/help/guide.php"><strong>Guide to Law Online</strong></a>&nbsp;|&nbsp;<a href="/law/help/how-find.php">How Do I Find... ?</a> | <a href="/law/help/current-topics.php">Current Legal Topics</a>&nbsp;|&nbsp;<a href="/law/help/ourcollections.php">Guides to Our Collections </a></div>
+		<div id="tert_nav"><a href="/law/help/guide/international.php">International</a>&nbsp;|&nbsp;<a href="/law/help/guide/nations.php">Nations</a> | <a href="/law/help/guide/federal.php"><strong>U.S. Federal</strong></a>&nbsp;|&nbsp;<a href="/law/help/guide/states.php">U.S. States &amp; Territories</a>&nbsp;|&nbsp;<a href="/law/help/guide/about-guide.php">About the Guide</a>&nbsp;|&nbsp;<a href="/law/help/guide/lawonline-index.php">Guide Index</a></div>
+          <div class="box-anchor fix-float">
+			  <div class="leftanchor">
+				<ul class="anchor">
+				  <li><a href="#text">Text/Commentaries</a></li>
+				  <li><a href="#constitution">Constitution Day</a></li>
+				  <li><a href="#historical">Historical Texts</a></li>
+				</ul>
+			  </div>
+			  <div class="rightanchor">
+				<ul class="anchor">
+				  <li><a href="#influences">Influences</a></li>
+				  <li><a href="#judicial">Judicial Decisions</a></li>
+				  <li><a href="#guides">Legal Guides</a></li>
+				</ul>
+			  </div>
+			  <div class="clear"><!-- --></div>
+			</div>
+          <a id="text"></a>
+          <h2>Text and Commentaries </h2>
+          <ul class="std">
+                <li><a href="http://www.gpo.gov/fdsys/search/pagedetails.action?granuleId=CDOC-110hdoc50&packageId=CDOC-110hdoc50">Constitution of the United States of America as Amended: Unratified Amendments, Analytical Index</a> <em>(U.S. Government Printing Office) </em>July 25, 2007; H.Doc. 110-50 in both <a href="http://www.gpo.gov/fdsys/pkg/CDOC-110hdoc50/html/CDOC-110hdoc50.htm">text</a> and <a href="http://www.gpo.gov/fdsys/pkg/CDOC-110hdoc50/pdf/CDOC-110hdoc50.pdf">PDF</a></li>
+		  	<li><a href="http://www.gpo.gov/fdsys/search/pagedetails.action?granuleId=&packageId=GPO-CONAN-2002">Constitution   of the United States, Analysis and Interpretation: Annotations of Cases Decided   by the Supreme Court of the United States</a> <em>(Library of Congress.   Congressional Research Service, via GPO FDsys) </em>2002 edition (S.Doc.   108-17) PDF with <a href="http://www.gpo.gov/fdsys/pkg/GPO-CONAN-2010/content-detail.html">June 29, 2010</a> supplement (S.Doc. 111-39) PDF </li>
+		  	<li><a href="http://memory.loc.gov/ammem/amlaw/ac001/lawpres.html">U.S.   Constitution</a> <em>(Library of Congress. National Digital Library   Program)</em> from Annals of Congress, volume 1 </li>
+		  	<li><a href="http://www.archives.gov/exhibits/charters/constitution.html">U.S.   Constitution</a> <em>(National Archives and Records Administration)</em> links   to amendments which amend the Constitution; provides images of the original   document </li>
+		  	<li><a href="http://www.house.gov/house/Constitution/Constitution.html">U.S.   Constitution</a> <em>(U.S. House of Representatives)</em> 1787 full text;    with footnotes and links to documents </li>
+		  	<li><a href="http://www.law.cornell.edu/constitution" class="external" target="_blank">U.S. Constitution<span> (external link)</span></a> <em>(Cornell Law School. Legal Information Institute)</em>  with links to annotations </li>
+		  	<li><a href="http://www.servat.unibe.ch/icl/us__indx.html" class="external" target="_blank">United States   Index<span> (external link)</span></a><em> (University of Wuerzburg, International Constitutional Law   project)</em>  with Background Note, and a key number system to located   parts; links to other editions </li>
+		  	<li><a href="http://archiv.jura.uni-saarland.de/france/Law-France/const_us.htm" class="external" target="_blank">Constitution du   17 septembre 1787<span> (external link)</span></a> <em>(Juristisches Internetprojeket Saarbruken) </em>in   French </li>
+		  	<li><a href="http://pdba.georgetown.edu/constitutions/usa/usa.html" class="external" target="_blank">United States of   America: Constitutions / Constituciones<span> (external link)</span></a> <em>(Georgetown University Political   Database of the Americas)</em> in English and Spanish </li>
+	  	    <li><a href="http://constitutioncenter.org/ncc_edu_Other_Languages.aspx" class="external" target="_blank">National Constitution Center: Other Languages<span> (external link)</span></a> includes PDF copies of the Constitution in Arabic, French, German, Italian, Japanese, Korean, Portuguese, Russian, Spanish, and Simplified Chinese</li>
+        </ul>
+		  <p class="backtotop"><a href="#skip_menu">Back to Top</a></p>
+		  <a id="constitution"></a>
+		  <h2>Constitution Day  </h2>
+          <ul class="std">
+                <li><a href="http://www.loc.gov/law/help/commemorative-observations/constitution-day.php"><strong>Constitution Day and Citizenship Day</strong></a> <em>(Law Library of Congress) </em> </li>
+		  	  <li><a href="http://thomas.loc.gov/teachers/constitution.html"><strong>Constitution Day   Resources</strong></a><em> (Library of Congress. THOMAS)</em> especially its <a href="http://thomas.loc.gov/teachers/constitution.html#resource">Resources for Teachers</a> </li>
+		  	  <li><a href="http://www.uscourts.gov/EducationalResources/ConstitutionResources/ConstitutionDay.aspx">Constitution Day</a> <em>(U.S. Administrative Office of the U.S. Courts)</em> </li>
+		  	  <li><a href="http://www.free.ed.gov/subjects.cfm?subject_id=19">Constitution Day</a> <em>(U.S. Dept. of Education) </em> </li>
+		  	  <li><a href="http://www.archives.gov/education/lessons/constitution-day/">Constitution Day: Teaching With Documents: Observing Constitution Day</a> <em>(U.S. National Archives and Records Administration)</em></li>
+  	          <li><a href="http://www.archives.gov/education/lessons/constitution-workshop/index.html">Constitution Day: Teaching With Documents: U.S. Constitution Workshop</a> <em>(U.S. National Archives and Records Administration)</em></li>
+  	          <li><a href="http://www.opm.gov/constitution_initiative/index.asp">Constitution Day   Initiative</a> <em>(U.S. Office of Personnel Management)</em> </li>
+  	          <li><a href="http://www.senate.gov/artandhistory/history/common/generic/ConstitutionDay.htm">Constitution   Day</a> <em>(U.S. Senate) </em> </li>
+		  	  <li><a href="http://new.civiced.org/resources/curriculum/constitution-day-and-citizenship-day" class="external" target="_blank">Constitution Day: Lessons September   17<span> (external link)</span></a> <em>(Center for Civic Education)</em> </li>
+		  	  <li><a href="http://edsitement.neh.gov/constitution-day">Constitution   Day</a><em> (National Endowment for the Humanities)</em> </li>
+		  	  <li><a href="http://constitutioncenter.org/constitution-day/" class="external" target="_blank">Constitution Day<span> (external link)</span></a> <em>(National Constitution Center)</em> </li>
+		  	  <li><a href="http://www.sunnylandsclassroom.org/ShowPage.aspx?PageId=6" class="external" target="_blank">Constitution   Day<span> (external link)</span></a> <em>(Annenberg Foundation)</em> </li>
+	  	    <li><a href="http://www.gpo.gov/fdsys/pkg/PLAW-108publ447/content-detail.html">Consolidated   Appropriations Act, 2005</a>, Pub.L. 108-447, 118 Stat. 2809 (Dec. 8, 2004; <a href="http://hdl.loc.gov/loc.uscongress/legislation.108hr4818">H.R. 4818</a>); <em>see </em><a href="108-477cd.pdf">Section 111(c) of Division J, pages 3344-45</a></li>
+  	    </ul>
+		  <p class="backtotop"><a href="#skip_menu">Back to Top</a></p>
+		  <a id="historical"></a>
+		  <h2>Historical Texts </h2>
+          <p>
+		  	<em>The Federalist</em> (1788),   and various other historical documents such as <em>Magna Carta</em> (1215), are   sometimes credited with having influenced the content of the Constitution of the   United States or its initial Amendments (the Bill or Rights), or, in the case of   the Constitution of the Confederate States of America, with having been   influenced by the U.S. Constitution although it radically attempted to change   its effect. </p>
+            <p><a href="http://avalon.law.yale.edu/18th_century/artconf.asp" class="external" target="_blank">Articles of Confederation   (1781)<span> (external link)</span></a> <em>(The Avalon Project at the Yale Law School: Documents in Law,   History and Diplomacy) </em> </p>
+            <p><a href="http://memory.loc.gov/ammem/amlaw/lawhome.html">Century of Lawmaking</a> <em>(Library of Congress, National Digital Law   Library Program)</em> includes:  <a href="http://memory.loc.gov/ammem/amlaw/lwjc.html">Journals of the Continental   Congress</a>; Eliot's <a href="http://memory.loc.gov/ammem/amlaw/lwed.html">The   Debates in the Several State Conventions on the Adoption of  the Federal   Constitution</a>; and Farrand's <a href="http://memory.loc.gov/ammem/amlaw/lwfr.html">The Records of the Federal   Convention of 1787</a></p>
+            <p><a href="http://memory.loc.gov/ammem/collections/continental/">Continental Congress   and the Constitutional Convention</a> <em>(Library of Congress. Rare Book   and Special Collections Division, Library of Congress)</em> </p>
+			<p><a href="http://www.loc.gov/exhibits/treasures/tr00.html#decl">Declaration of   Independence, including Jefferson's draft</a>  <em>(Library of Congress)</em> Provides the text of the Declaration of   Independence of 1776 along with a scanned images of the original document as   well as of the four pages of a Thomas Jefferson's draft of the document. </p>
+            <p><a href="http://www.archives.gov/exhibits/charters/declaration.html">Declaration of Independence in text and images images</a> <em>(National Archives and Records   Administration)</em> Includes the text and scanned images of the original and   the initial stone engraving of the documents as well as useful commentaries. <em>See also </em><a href="http://www.loc.gov/exhibits/jefferson/jeffdec.html">Declaration of   Independence: Right to Institute New Government</a> <em>(Library of   Congress) </em> </p>
+             <p><a href="http://avalon.law.yale.edu/subject_menus/csapage.asp" class="external" target="_blank">Documents of the   Confederate States of America (1861)<span> (external link)</span></a>  <em>(The Avalon Project at the Yale   Law School: Documents in Law, History and Diplomacy)</em> Includes the   Constitution of Confederate States of America, and other Confederate legal   documents. </p>
+			 <p><a href="http://thomas.loc.gov/home/histdox/fedpapers.html">THOMAS: Federalist Papers</a> via <a href="http://www.loc.gov/rr/program/bib/ourdocs/federalist.html">Primary Documents in American History: The Federalist Papers</a> <em>(Library of Congress) The Federalist</em> (also known as &quot;<em>The Federalist Papers</em>&quot;) issued as a series of highly   influential essays in support of the proposed United States Constitution, most   of which appeared initially in New York newspapers under the pen name &quot;Publius&quot;   during 1787 and 1788. The actual authors were Alexander Hamilton, John Jay and   James Madison. <em>See also</em> copies via  <a href="http://www.law.ou.edu/hist/federalist/" class="external" target="_blank">University of Oklahoma Law   Center's The Federalist Papers<span> (external link)</span></a> and <a href="http://avalon.law.yale.edu/subject_menus/fed.asp" class="external" target="_blank">Yale's Avalon   Project<span> (external link)</span></a> </p>
+            <p><a href="http://www.archives.gov/exhibits/charters/virginia_declaration_of_rights.html">Virginia   Declaration of Rights of 1776</a><em> (National Archives and Records   Administration)</em> The immensely influential Virginia Declaration of Rights,   written by George Mason, was adopted by the colonial convention June 12, 1776.   The opening of the Declaration of Independence (adopted a few weeks) borrowed   from this document, and the U.S. Bill of Rights was adopted directly from this   version of the natural rights of man as previously proclaimed in the English   Bill of Rights of 1689 (see below) and philosophers such as John Locke. <em>See   also</em> the <a href="http://avalon.law.yale.edu/18th_century/virginia.asp" class="external" target="_blank">Virginia Declaration of Rights of 1776<span> (external link)</span></a> (Avalon Project)</p>
+          <p class="backtotop"><a href="#skip_menu">Back to Top</a></p>
+		  <a id="influences"></a>
+          <h2>Influences </h2>
+          <p>
+            FRANCE: <a href="http://avalon.law.yale.edu/18th_century/rightsof.asp" class="external" target="_blank">Declaration of the Rights   of Man, 1789<span> (external link)</span></a> in English <em>(The Avalon Project at the Yale Law School:   Documents in Law, History and Diplomacy) </em>French counterpart to the American   &quot;Bill of Rights&quot; drafted by Lafayette with the assistance of  Thomas Jefferson,   and approved by the National Assembly of France August 26, 1789.  <em>See also </em><a href="http://www.assemblee-nationale.fr/histoire/dudh/1789.asp" class="external" target="_blank">Déclaration des   droits de l'homme et du citoyen de 1789</a><em> (Assemblée Nationale) </em>- in   French</p>
+            <p>ENGLAND: <a href="http://avalon.law.yale.edu/17th_century/england.asp" class="external" target="_blank">English Bill of Rights of   1689: An Act Declaring the Rights and Liberties of the Subject and Settling the   Succession of the Crown<span> (external link)</span></a> <em>(The Avalon Project at the Yale Law School:   Documents in Law, History and Diplomacy)</em> Provided specific inspiration for   American &quot;Bill of Rights&quot; made into law almost a century later.  </p>
+            <p>ENGLAND: <a href="http://www.archives.gov/exhibits/featured_documents/magna_carta/">Exhibit:   Magna Carta</a>  <em>(National Archives and Records Administration) </em>The   &quot;Great Charter&quot; version of 1297, which despite its original limited application   has long been regarded as a foundation for the development of English liberties   and political rights. Although King John of England was pressured into signing   the first version, in 1215, (see below), and he violated its terms almost   immediately, later kings repeatedly were compelled to confirm the limits Magna   Carta set on royal powers, and the document proved immensely important hundreds   of years after it was initially ignored. Portions are even reflected closely in   the U.S. Bill of Rights. A translation of the text of the version of 1297, used   to confirm its continuing effect at the coronation of Edward I, is offered at   this site along with images of this original document, and commentaries.  </p>
+            <p>ENGLAND: <a href="http://avalon.law.yale.edu/medieval/magframe.asp" class="external" target="_blank">Magna Carta,   1215<span> (external link)</span></a> <em>(The Avalon Project at the Yale Law School: Documents in Law,   History and Diplomacy)</em> Translated from Latin to English of what is believed   to be the first version (from 1215) of the &quot;Great Charter.&quot; Includes   glossary. </p>
+            <p>GREECE: <a href="http://avalon.law.yale.edu/subject_menus/athemain.asp" class="external" target="_blank">Athenian   Constitution by Aristotle<span> (external link)</span></a> <em>(The Avalon Project at the Yale Law School: Documents in Law,   History and Diplomacy) </em>in English; Sir Frederic G. Kenyon's translation  of Aristotle on the political structure (or constitution) of the ancient   city-state of Athens, which is usually considered a prime inspiration for the   form of government chosen for the United States. </p>
+            <p>IROQUOIS: <a href="http://www.indigenouspeople.net/iroqcon.htm" class="external" target="_blank">Iroquois Constitution / The   Great Binding Law Gayanshagowa<span> (external link)</span></a> <em>(Indigenous Peoples Literature)</em> The   English version of the historic Great Binding Law (&quot;Gayanshagowa&quot;) of the   Iroqouis' Five Nations Confederacy, which is as much a social document as a   legal document.</p>
+          <p class="backtotop"><a href="#skip_menu">Back to Top</a></p>
+		  <a id="judicial"></a>
+          <h2>Judicial Decisions  </h2>
+          <p>RECENT DECISIONS: <a href="http://www.law.cornell.edu/supct/search/search.html" class="external" target="_blank">Supreme   Court Syllabi Search<span> (external link)</span></a> <em>(Cornell LII, Supreme Court Collection) </em>Elsewhere, topics are listed by amendment topic and number; i.e. First   Amendment; <em>see </em><a href="http://www.law.cornell.edu/supct/topiclist.html" class="external" target="_blank">Decisions by Topic,   1990 to Present<span> (external link)</span></a></p>
+                  <p>SUPREME COURT DECISIONS: <a href="usjudic.php">Guide to Law Online: U.S. Federal Courts and Decisions</a> <em>(Law Library of Congress)</em> Includes other links to Supreme Court   cases. </p>
+
+          <p class="backtotop"><a href="#skip_menu">Back to Top</a></p>
+		  <a id="guides"></a>
+          <h2>Legal Guides  </h2>
+          <ul class="std">
+                <li><a href="http://www.loc.gov/law/help/citizenship/fourteenth_amendment_citizenship.php"><strong>Fourteenth Amendment and Citizenship</strong></a> <em>(Law Library of Congress)</em></li>
+			<li><a href="http://www.loc.gov/law/help/second-amendment.php"><strong>United States: Gun Ownership and the Supreme Court</strong></a> <em>(Law Library of Congress)</em> </li>
+             <li><a href="http://www.loc.gov/law/help/usconlaw/constitutional_law.php"><strong>United States: The Constitution</strong></a> <em>(Law Library of Congress)</em> </li>
+             <li><a href="http://lcweb2.loc.gov/ammem/amlaw/lwtl.html"><strong>A Century of Lawmaking:   Timeline</strong></a> <em>(Library of Congress)</em> </li>
+ 			<li><a href="http://www.loc.gov/rr/program/bib/ourdocs/Constitution.html"><strong>Primary Documents in American History: United States Constitution</strong></a><em> (Library of Congress)</em></li>
+			<li><a href="http://avalon.law.yale.edu/subject_menus/constpap.asp" class="external" target="_blank">The American Constitution   - A Documentary Record</a> <em>(The Avalon Project at the Yale Law School)</em> </li>
+              <li><a href="http://topics.law.cornell.edu/wex/constitutional_law" class="external" target="_blank">Cornell Legal   Information Institute: Constitutional Law<span> (external link)</span></a> </li>
+              <li><a href="http://supreme.lp.findlaw.com/constitution/" class="external" target="_blank">FindLaw: Supreme Court Center: Constitutional Law<span> (external link)</span></a></li>
+              <li><a href="http://www.law.ou.edu/hist/" class="external" target="_blank">University of Oklahoma Law Center: A   Chronology of Historical Documents<span> (external link)</span></a> <em>(University of Oklahoma Law   Center)</em> </li>
+              <li><a href="http://dir.yahoo.com/Government/law/Constitutional/Constitutions/United_States/Constitution_of_the_United_States/" class="external" target="_blank">Yahoo   - U.S. Constitution<span> (external link)</span></a></li>
+        </ul>
+          <p class="backtotop"><a href="#skip_menu">Back to Top</a></p>
+			  
+      <p class="last_updated">Last Updated: 08/16/2013</p>
+      </div>
+		<!-- end id:main_body --> 
+	</div>
+	<!-- end id:content --> 
+		<!-- begin: global footer -->
+  <div id="f-wrapper" class="fix-float">
+  <div id="footer" class="fix-float">
+      <div class="cols heading">
+        <h2>Connect with the Library</h2>
+        <p><a class="ar-more foot" href="http://www.loc.gov/homepage/connect.html">All ways to connect</a></p>
+      </div>
+      <div class="cols">
+        <h3>Find Us On</h3>
+        <a href="http://www.facebook.com/libraryofcongress"><img src="http://cdn.loc.gov/images/img-foot/facebook.gif" alt="Facebook" width="16" height="16" /></a> &nbsp; <a href="http://twitter.com/#!/librarycongress"><img src="http://cdn.loc.gov/images/img-foot/twitter.gif" alt="Twitter" width="16" height="16" /></a> &nbsp; <a href="http://www.youtube.com/libraryofcongress"><img src="http://cdn.loc.gov/images/img-foot/youtube.gif" alt="YouTube" width="16" height="16" /></a> &nbsp; <a href="http://www.flickr.com/photos/library_of_congress/"><img src="http://cdn.loc.gov/images/img-foot/flickr.gif" alt="Flickr" width="16" height="16" /></a>
+      </div>
+      <div class="cols">
+        <h3>Subscribe &amp; Comment</h3>
+        <ul class="plain">
+          <li><a href="http://www.loc.gov/rss/">RSS &amp; E-Mail</a></li>
+          <li><a href="http://blogs.loc.gov/">Blogs</a></li>
+        </ul>
+      </div>
+      <div class="cols">
+        <h3>Download &amp; Play</h3>
+        <ul class="plain">
+          <li><a href="http://www.loc.gov/apps/">Apps</a></li>
+          <li><a href="http://www.loc.gov/podcasts/">Podcasts</a></li>
+          <li><a href="http://www.loc.gov/today/cyberlc/index.php">Webcasts</a></li>
+          <li><a href="http://itunes.apple.com/us/institution/library-of-congress/id386017159" class="external foot mod">iTunesU<span> (external link)</span></a></li>
+        </ul>
+      </div>
+      <div class="cols">
+        <h3>Questions</h3>
+        <ul class="plain">
+          <li><a href="http://www.loc.gov/rr/askalib/">Ask a Librarian</a></li>
+          <li><a href="http://www.loc.gov/help/contact-general.html" accesskey="8">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="clear"><!-- --></div>
+      <p class="links">
+      <a href="http://www.loc.gov/about/">About</a> |
+      <a href="http://www.loc.gov/pressroom/login">Press</a> |
+      <a href="http://www.loc.gov/hr/employment/index.php">Jobs</a> |
+      <a href="http://www.loc.gov/philanthropy/index.php">Donate</a>
+      <br />
+      <a href="http://www.loc.gov/about/oig/">Inspector General</a> |
+      <a href="http://www.loc.gov/homepage/legal.html" accesskey="9">Legal</a> |
+      <a href="http://www.loc.gov/access/" accesskey="0">Accessibility</a> |
+      <a href="http://www.loc.gov/global/disclaim.html">External Link Disclaimer</a> |
+      <a href="http://www.usa.gov/">USA.gov</a>
+      </p>
+      <span class="speech"><a href="http://www.loc.gov/access/web.html">Speech Enabled</a></span>
+  </div><!-- end id:footer -->
+  </div><!-- end id:f-wrapper -->
+	<!-- end: global footer --> 
+	<script type='text/javascript' src='http://www.loc.gov/global/s_code.js'></script></div>
+<!-- end id:container -->
+</body>
+</html>

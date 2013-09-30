@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
+	<head>
+		<script type="text/javascript" src="/wcm/jsp/jahia/javascript/jahia.js"></script>
+		<!--[if lte IE 6]>
+			<style type="text/css">
+			img {
+			behavior: url("/wcm/jsp/jahia/css/pngbehavior.jsp")}
+			</style>
+			<![endif]-->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>United Nations Visitors Centre - Address</title>
+		<meta name="dc.date.created" lang="en" content="19 September 2013 16:13"/>
+		<meta name="dc.author" lang="en" content="Enrica Baessato"/>
+		<meta name="dc.language" content="en" />
+		<link rel="stylesheet" href="/wcm/jsp/jahia/templates/visitors/un_templates_v2/css/default_styles.css" type="text/css" />
+		<link rel="stylesheet" href="/wcm/jsp/jahia/templates/visitors/un_templates_v2/css/default_print.css" type="text/css" media="print" />
+		<link href="/wcm/content/site/visitors/home/to_see_and_do/inquiries/fact_sheets/headquarters/address/template/news_feed.rss" title="Site news feed" type="application/rss+xml" rel="alternate" />
+		<script type="text/javascript" src="/wcm/jsp/jahia/javascript/SearchTools.js" ></script>
+		<script type="text/javascript" src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/javascript/cptv2.js" ></script>
+		<!-- versioning -->
+		<script type="text/javascript" src="/wcm/jsp/jahia/javascript/zimbra/versioning/ContainerVersionCompare.js" ></script>
+		<script type="text/javascript">
+			<!--
+			  function submitSimpleSearchForm(){
+			    document.searchForm.searchRefineAttribute.value='reset';
+			    return;
+			  }
+			
+			  function hideUserShell(){
+			    try {
+			      Dwt.setVisibility(document.getElementById("userShell"),false);
+			    } catch (ex){
+			      return;
+			    }
+			  }
+			  function showUserShell(){
+			    try {
+			      Dwt.setVisibility(document.getElementById("userShell"),true);
+			    } catch (ex){
+			      return;
+			    }
+			  }
+			
+			    function readCookie(name)
+			    {
+			        var nameEQ = name + "=";
+			        var ca = document.cookie.split(';');
+			        for(var i=0;i < ca.length;i++)
+			        {
+			            var c = ca[i];
+			            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+			        }
+			        //alert('A cookie was not set. '+name+'. Please ensure that your browser accepts cookies.');
+			        return "Username";
+			    }
+			//-->
+		</script>
+		<link rel="stylesheet" href="/wcm/jsp/jahia/javascript/zimbra/searchHighlighting/SearchHighlighting.css" type="text/css" />
+		<!-- UN THEME CSS -->
+		<link rel="SHORTCUT ICON" href="http://www.un.org/favicon.ico"/>
+		<link rel="stylesheet" href="http://www.un.org/css/global_en.css" type="text/css" />
+		<!-- SUBSITE CSS FILE -->
+		<link rel="stylesheet" href="/wcm/webdav/site/visitors/shared/css/visitorscentre.css" type="text/css"/>
+		<link rel="stylesheet" href="/wcm/jsp/jahia/templates/visitors/un_templates_v2/css/slideshow/slideshow.css" type="text/css"/>
+		<script type="text/javascript" src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/js/mootools.v1.11.js"></script>
+		<script type="text/javascript" src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/javascript/gallery.js"></script>
+		<script type="text/javascript" src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/js/jd.gallery.transitions.js"></script>
+		<noscript>
+			<style type="text/css">
+				#main #content .SlideshowSize {height:auto;}
+			</style>
+		</noscript>
+		<script type="text/javascript" src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/javascript/jquery-1.3.2.min.js" ></script>
+		<script type="text/javascript" src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/js/ui.core.js"></script>
+		<link rel="stylesheet" href="/wcm/jsp/jahia/templates/visitors/un_templates_v2/un_theme/common/css/font-controller.css" type="text/css"  />
+		<script type="text/javascript" src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/un_theme/common/js/font-controller.js" ></script>
+		<script type="text/javascript" src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/un_theme/common/js/jquery.cookie.js" ></script>
+		<script type="text/javascript">
+			jQuery.noConflict();
+			(function($) {
+					$('document').ready(function(){
+						$("fontSizeChanger").fontSize("#fontSizeChanger", "#main", 9, 12, 20);
+					});
+			})(jQuery);
+		</script>
+		<!-- JQuery for tabs WSS -->
+		<script type="text/javascript" src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/js/ui.core.js"></script>
+		<script type="text/javascript" src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/js/ui.tabs.js"></script>
+		<script type="text/javascript" src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/js/jquery.ui.widget.js"></script>
+		<!-- END JQuery for tabs WSS -->
+		<script type="text/javascript"  src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/un_theme/common/js/matching_columns.js" ></script>
+		<!-- Empty List ID = 17475 -->
+	</head>
+	<body id="simplewithpromobox" >
+		<div id="skiplink">
+			<ul>
+				<li>
+					<a href="#mainnav">
+					Skip to main navigation</a>
+				</li>
+				<li>
+					<a href="#content">
+					Skip to content</a>
+				</li>
+			</ul>
+		</div>
+		<div id="main">
+			<div id="brandbar">
+				<img src="/wcm/jsp/jahia/templates/visitors/un_templates_v2/un_theme/en/images/unicon.gif" alt=" " class="unicon" align="left"/>
+				<span class="welcome"><a href="http://www.un.org/en/">Welcome to the United Nations. It's your world.</a></span>
+				<div id="search_un_web">
+					<form id="searchfrm" name="gs" method="get" action="http://search.un.org/search" >
+						<input type="hidden" name="ie" value="utf8" />
+						<input type="hidden" name="site" value="un_org" />
+						<input type="hidden" name="output" value="xml_no_dtd" />
+						<input type="hidden" name="client" value="UN_Website_English" />
+						<input type="hidden" name="num" value="10" />
+						<input name="lr" type="hidden" value="lang_en" />
+						<input type="hidden" name="proxystylesheet" id="proxystylesheet" value="UN_Website_en" />
+						<input type="hidden" name="oe" value="utf8" />
+						<label for="search">UN Search</label>
+						<input class="textbox" type="text" name="q" id="search" size="22" onfocus="this.value='';" value="Search UN Website" />
+						<input class="button" type="submit" name="Submit" value="Go" />
+					</form>
+				</div>
+				<div id="fontSizeChanger"></div>
+			</div>
+			<div id="languages">
+				<ul>
+					<li id="fr" lang="fr" xml:lang="fr"><a href="/wcm/content/site/visitors/lang/fr/home/to_see_and_do/inquiries/fact_sheets/headquarters/address">Français</a></li>
+				</ul>
+			</div>
+			<div id="topbanner">
+				<h1 id="hiddentitle"><span style="background-image: url(/wcm/webdav/site/visitors/shared/images/VC_header_20130926.gif);"></span>
+					<span class="bannerText">United Nations Visitors Centre</span>
+					</h1>
+				
+			</div>
+			<div id="mainnav" class="column">
+				<ul>
+					<li><a href="/wcm/content/site/visitors/home">Home</a></li>
+					<li><a href="/wcm/content/site/visitors/home/to_see_and_do">What to see and do</a></li>
+					<ul>
+						<li class="sub2"><a href="/wcm/content/site/visitors/home/to_see_and_do/guided">Guided tours</a></li>
+						<li class="sub2"><a href="/wcm/content/site/visitors/home/to_see_and_do/inquiries">Inquiries</a></li>
+						<ul>
+							<li class="sub3"><a href="/wcm/content/site/visitors/home/to_see_and_do/inquiries/fact_sheets">Fact sheets</a></li>
+							<ul>	</ul>
+							<li class="sub3"><a href="/wcm/content/site/visitors/home/to_see_and_do/inquiries/faq">FAQs</a></li>
+							<li class="sub3"><a href="/wcm/content/site/visitors/home/to_see_and_do/inquiries/teaching_and_learning">Teacher's corner</a></li>
+						</ul>
+						<li class="sub2"><a href="/wcm/content/site/visitors/home/to_see_and_do/exhibits">Exhibits</a></li>
+						<li class="sub2"><a href="/wcm/content/site/visitors/home/to_see_and_do/lectures">UN Speakers Bureau</a></li>
+						<li class="sub2"><a href="/wcm/content/site/visitors/home/to_see_and_do/shops">Shops</a></li>
+						<li class="sub2"><a href="/wcm/content/site/visitors/home/to_see_and_do/stamps">Stamps and Post Office</a></li>
+					</ul>
+					<li><a href="/wcm/content/site/visitors/home/plan">Plan your visit</a></li>
+					<li><a href="/wcm/content/site/visitors/home/about_us">About The United Nations</a></li>
+				</ul>
+				<!-- Empty List ID = 17477 -->
+				<!-- Empty List ID = 17307 -->
+				<div id="banner">
+					<div id="vbanner">
+						<a href="#" title=""><img src="/wcm/webdav/site/visitors/shared/images/left_camerabox.jpg" alt="Become a fan of UN Visitors Centre on Facebook" border="0" /></a> <a href="http://www.museumtix.com/venue/venueinfo.aspx?vid=859&tab=E&evw=2" title="Purchase tickets online"><img src="/wcm/webdav/site/visitors/shared/images/left_online_ticketing_rev.gif" alt="Purchase tickets online" border="0" /></a> <a href="/wcm/content/site/visitors/home/to_see_and_do/shops" title="Come and shop at UN Headquarters"><img src="/wcm/webdav/site/visitors/shared/images/left_books_rev.gif" alt="Come and shop at UN Headquarters" border="0" /></a> <a href="http://www.facebook.com/UNVisitorsCentre" title="Find us on Facebook and become a fan of UN Visitors Centre"><img src="/wcm/webdav/site/visitors/shared/images/left_fb_rev.gif" alt="Find us on Facebook and become a fan of UN Visitors Centre" border="0" /></a> <a href="http://twitter.com/un" title="Follow us on Twitter"><img src="/wcm/webdav/site/visitors/shared/images/left_twtr_rev.gif" alt="Follow United Nations on Twitter" border="0" /></a> <a href="http://www.youtube.com/unitednations" title="Watch us on YouTube"><img src="/wcm/webdav/site/visitors/shared/images/left_yt_rev.gif" alt="Watch UN Channel on YouTube" border="0" /></a> 
+					</div>
+				</div>
+			</div>
+			<div id="content" class="column full2">
+				<div id="breadcrumb"  > <span class="brdtitle"><a title="Home" href="/wcm/content/site/visitors/home">Home</a></span><span class="brdsep">&raquo;</span><span class="brdtitle"><a title="What to see and do" href="/wcm/content/site/visitors/home/to_see_and_do">What to see and do</a></span><span class="brdsep">&raquo;</span><span class="brdtitle"><a title="Inquiries" href="/wcm/content/site/visitors/home/to_see_and_do/inquiries">Inquiries</a></span><span class="brdsep">&raquo;</span><span class="brdtitle"><a title="Fact sheets" href="/wcm/content/site/visitors/home/to_see_and_do/inquiries/fact_sheets">Fact sheets</a></span><span class="brdsep">&raquo;</span><span class="brdtitle"><a title="United Nations Headquarters" href="/wcm/content/site/visitors/home/to_see_and_do/inquiries/fact_sheets/headquarters">United Nations Headquarters</a></span><span class="brdsep">&raquo;</span><span class="brdtitle">Address</span></div>
+				<!-- Empty List ID = 17478 -->
+				<div class="maincontent">
+            <h2>Fact Sheet: United Nations Headquarters</h2>
+            <p>&nbsp;</p>
+
+ <h3>Location</h3>
+
+ <ul>
+ <li>
+<a href="#territory">International Territory</a>
+</li>
+
+ <li>
+<a href="#new_york">Selecting New York</a>
+</li>
+
+ <li>
+<a href="/wcm/webdav/site/visitors/shared/documents/pdfs/FS_UN%20Headquarters_History_English_Feb%202013.pdf" target="_blank" title="History of United Nations Headquarters" type="History of United Nations Headquarters">Download Fact Sheet</a>
+</li>
+ </ul>
+
+ <p>&nbsp;</p>
+ </div>
+           
+				<div class="maincontent">
+                  <p>Standing on the eastern shore of Manhattan island, on the banks of New York City's East River, the 18-acre United Nations Headquarters remains both a symbol of peace and a beacon of hope.</p>      <p>&nbsp;</p>     </div>
+           
+				<div class="maincontent">
+                  <h3> <a id="territory" name="territory"></a>International Territory</h3>      <p>The site of UN Headquarters is owned by the United Nations. It is an international territory. No federal, state or local officer or official of the United States, whether administrative, judicial, military or police, may enter UN Headquarters, except with the consent of and under conditions agreed to by the Secretary-General of the Organization.</p>      <p>However, the United Nations is bound by an agreement with the United States, its host country, to prevent its Headquarters from being used as a refuge for persons attempting to avoid arrest under the Federal, State or local laws of the United States. People being extradited by the United States Government are also denied use of United Nations Headquarters in attempts to avoid arrest. The UN has its own fire fighting and security forces, and its own post office branch.</p>      <p>United Nations Headquarters was designed to serve four major groups: delegations, who represent 192 Member States and send more than 5,000 persons to New York each year for the annual sessions of the General Assembly; the Secretariat, numbering about 4,900 persons in New York out of a total of about 7,500 throughout the world; visitors, who average 1 million yearly; and journalists, of whom approximately 2,000 are permanently accredited, while over 6,000 attend major meetings.</p>      <p>&nbsp;</p>     </div>
+           
+				<div class="maincontent">
+                  <h3> <a id="new_york" name="new_york"></a>Selecting New York</h3>      <p>On 10 December 1945, the Congress of the United States unanimously resolved to invite the United Nations to establish its permanent home in that country. Thereafter, the decision to locate the United Nations near New York City was made by the General Assembly at its first session, held in London on 14 February 1946.</p>      <p>During the latter half of 1946, following selection of the United States as host country, a special United Nations site committee studied possible locations in such places as Philadelphia, Boston and San Francisco. While consideration was given at first to areas north of New York City, crowded Manhattan had not been seriously investigated. A last-minute offer of $8.5 million by John D. Rockefeller, Jr., for the purchase of the present site was accepted by a large majority of the General Assembly on 14 December 1946. New York City completed the site parcel by additional gifts of property.</p>      <p>The site chosen by the United Nations was a run-down area of slaughterhouses, light industry and a railroad barge landing.</p>      <p>&nbsp;</p>     </div>
+           
+				<!-- Empty List ID = 17480 -->
+			</div>
+			<!--        </div>-->
+			<!--    </div>-->
+			<div id="footer">
+				<ul>
+					<li><a href="http://www.un.org/en/aboutun/copyright/">Copyright </a> | </li>
+					<li><a href="http://www.un.org/en/aboutun/terms/">Terms of Use </a> | </li>
+					<li><a href="http://www.un.org/en/aboutun/privacy/">Privacy Notice </a> | </li>
+					<li><a href="http://www.un.org/en/aboutun/fraudalert/">Fraud Alert </a> | </li>
+					<li><a href="http://www.un.org/en/aboutun/help/">Help </a>  </li>
+				</ul>
+			</div>
+		</div>
+		<!-- closing main div -->
+		<!-- Empty List ID = 17475 -->
+		<!--  Google Analytics  -->
+     	<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+
+		<script type="text/javascript">
+		try{
+			var pageTracker = _gat._getTracker("UA-4803886-1");
+			pageTracker._trackPageview();
+		} catch(err) {}
+		</script>
+    
+	</body>
+</html>

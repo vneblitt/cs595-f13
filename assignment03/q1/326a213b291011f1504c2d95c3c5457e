@@ -1,0 +1,279 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- start header0 -->
+<meta name="title" content="Coldest Brown Dwarfs Blur Lines between Stars and Planets" />
+<meta name="description" content="Astronomers are constantly on the hunt for ever-colder star-like bodies, and two years ago a new class of objects was discovered by researchers using NASA's WISE space telescope.  However, until now no one has known exactly how cool their surfaces really are - some evidence suggested they could be r" />
+<meta name="date" content="Thursday, September 05, 2013 02:00:00 PM " />
+<meta name="keywords" content="astrophysics" />
+<meta property="og:title" content="Coldest Brown Dwarfs Blur Lines between Stars and Planets" />
+<meta property="og:description" content="Astronomers are constantly on the hunt for ever-colder star-like bodies, and two years ago a new class of objects was discovered by researchers using NASA's WISE space telescope.  However, until now no one has known exactly how cool their surfaces really are - some evidence suggested they could be r" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Center for Astrophysics" />
+<meta property="og:url" content="http://www.cfa.harvard.edu/news/2013/pr201323.html" />
+<meta property="og:image" content="http://www.cfa.harvard.edu/image_archive/2013/92/lores.jpg" />
+<!-- end header0 -->
+<!-- start header -->
+<title>Coldest Brown Dwarfs Blur Lines between Stars and Planets</title>
+
+<!-- end header -->
+<link href="/common/styles/cfastyles.css" rel="stylesheet" type="text/css">
+</head><body>
+<table class="page_table" cellspacing="0" cellpadding="0" summary="Banner table" align="left" bgcolor="#FFFFFF">
+<tr><td colspan="2"><!-- start code for resources menu -->
+<script language="JavaScript" type="text/javascript">
+ <!--
+ function formHandler(form){
+  var URL = document.form.site.options[document.form.site.selectedIndex].value;
+  window.location.href = URL;
+ }
+ //-->
+</script>
+<!-- end code for resources menu -->
+<!-- start banner table -->
+<table class="banner_table" border="0" cellspacing="0" cellpadding="0">
+<tr><td align="center" valign="middle" class="banner_date">
+ <span class="datetext"> 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var now = new Date();
+ var months = new Array('JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER');
+ var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();
+ function fourdigits(number) {
+ return (number < 1000) ? number + 1900 : number;} today = months[now.getMonth()] + " " + date + ", " + (fourdigits(now.getYear()));
+ document.write(today);
+ //-->
+ </script>
+ </span> 
+</td><td class="banner_search">
+ <!-- SiteSearch Google --> 
+ <form action="http://www.google.com/cse" id="cse-search-box">
+ <input type="hidden" name="cx" value="007824057196517177806:83rjfdqssky" />
+ <input type="hidden" name="ie" value="UTF-8" />
+ <table border="0" align="right" cellpadding="2" cellspacing="0" bgcolor="#FFFFFF"><tr>
+ <td class="navheader" valign="middle">
+ <a href="/about/contact.html" class="navheader">Contacts</a> &nbsp;|&nbsp; <a href="/do/" class="navheader">Director's Office</a> &nbsp;|&nbsp;
+ <a href="/" class="navheader">CfA Home</a> &nbsp;|&nbsp;
+ <a href="/hco/" class="navheader">HCO Home</a> &nbsp;|&nbsp;
+ <a href="/sao/" class="navheader">SAO Home</a> &nbsp;|&nbsp;
+ <a href="/internal/" class="navheader">Intranet</a> &nbsp;&nbsp;
+ </td>
+ <td valign="middle"><!--a href="http://www.google.com/"><img src="/common/headers/google.gif" border="0" alt="Google"></a --></td>
+ <td valign="middle"><input type="text" name="q" size="25" maxlength="255" value="" alt="Google text" style="font-family: arial, sans-serif; font-size: 11px; font-style: normal; background: #FFFFFF; color: #000000;"></td>
+ <td valign="middle"><input type="submit" name="sa" value="Search CfA" style="font-family: arial, sans-serif; font-size: 11px; font-style: normal; background: #A6BF2E; color: #FFFFFF;"></td>
+ </tr></table>
+ </form>
+ <script type="text/javascript" src="http://www.cfa.harvard.edu/common/google/google_custom_search_watermark.js"></script>
+ <!-- SiteSearch Google -->
+</td>
+</tr><tr>
+ <td rowspan="2" align="left" valign="top" class="banner_logo"><a href="/"><img src="/common/headers/cfa-banner1o.gif" alt="CfA logo" border="0"></a></td>
+ <td align="left" valign="top" class="banner_image"><img src="/common/headers/cfa-banner2o.gif" alt="Harvard-Smithsonian Center for Astrophysics" border="0"></td>
+</tr><tr>
+<td align="left" valign="top" class="banner_navbar">
+ <form name="form" method="post" action="">
+ <table border="0" align="left" cellpadding="0" cellspacing="0" width="100%"><tr><td align="left" valign="middle" class="navbar">
+ <a href="/about/" class="navbar">About</a> &nbsp;|&nbsp;
+ <a href="/research/" class="navbar">Research</a> &nbsp;|&nbsp;
+ <a href="/education/" class="navbar">Education &amp; Outreach</a> &nbsp;|&nbsp;
+ <a href="/facilities/" class="navbar">Facilities</a> &nbsp;|&nbsp;
+ <a href="/opportunities/" class="navbar">Opportunities</a> &nbsp;|&nbsp;
+ <a href="/events/" class="navbar">Events</a> &nbsp;|&nbsp;
+ <a href="/news/press.html" class="navbar">Press Room</a> &nbsp;&nbsp;
+ </td><td align="right" valign="middle"  class="navbar">
+ <select name="site" size=1 onChange="javascript:formHandler()" class="bodycopy" style="font-family: arial, sans-serif; font-size: 11px; font-style: normal; background: #FFFFFF; color: #000000; width: 130px;">
+ <option value="/resources/" selected>Resources for . . . </option>
+ <option value="/resources/scientists.html">Scientists</option>
+ <option value="/resources/software.html">Software Users</option>
+ <option value="/resources/public.html">The Public</option>
+ <option value="/resources/educators.html">Educators &amp; Students</option>
+ <option value="/resources/astronomer.html">Amateur Astronomers</option>
+ <option value="/internal/">CfA Staff (Intranet)</option>
+ </select>
+ </td></tr></table>
+ </form>
+</td></tr></table>
+<!-- end banner table -->
+</td></tr>
+<tr align="left" valign="top">
+ <td class="page_left1"><!-- start navagation: press -->
+<p class="navigation">&nbsp;</p>
+<ul id="mainnav">
+<li class="mainnav"><a href="/news/press.html" class="leftnav">Press Room</a></li>
+<ul class="secondnav">
+
+<li id="secondnav"><A href="/news/2013/press.html" class="leftnav">2013</a></li>
+<li id="secondnav"><A href="/news/2012/press.html" class="leftnav">2012</a></li>
+<li id="secondnav"><A href="/news/2011/press.html" class="leftnav">2011</a></li>
+<li id="secondnav"><A href="/news/2010/press.html" class="leftnav">2010</a></li>
+<li id="secondnav"><a href="/news/2009/press.html" class="leftnav">2009</a> </li>
+<li id="secondnav"><a href="/news/2008/press.html" class="leftnav">2008</a> </li>
+<li id="secondnav"><a href="/news/2007/press.html" class="leftnav">2007</a> </li>
+<li id="secondnav"><a href="/news/2006/press.html" class="leftnav">2006</a> </li>
+<li id="secondnav"><a href="/news/2005/press.html" class="leftnav">2005</a> </li>
+<li id="secondnav"><a href="/news/press_archive.html" class="leftnav">Archive</a> </li>
+</ul>
+<!--
+<li class="mainnav"><a href="/news/updates.html" class="leftnav">Weekly Science Updates</a></li>
+<li class="mainnav"><a href="/news/features.html"class="leftnav">Other News Features</a></li>
+-->
+<li class="mainnav"><a href="/news/news.html" class="leftnav">All News</a></li>
+<br>
+
+<li class="mainnav"><a href="/news/news_conferences.html" class="leftnav">News Conferences</a></li><br>
+
+<li class="mainnav"><a href="/pao/" class="leftnav">Public Affairs Office</a></li>
+</ul>
+<span class="leftnav_contact">
+David Aguilar 
+<br>
+(617) 495-7462
+<br>
+<br>
+Christine Pulliam 
+<br>
+(617) 495-7463
+<br>
+<br>
+<a href="mailto:pubaffairs@cfa.harvard.edu">pubaffairs@cfa</a>
+</span>
+<br>
+<br>
+
+</td>
+ <td class="page_right2" rowspan="2">
+<!-- open content table -->
+<table class="feature_table" border="0" cellspacing="0" cellpadding="0"><tr><td class="feature_cell">
+<!-- start feature heading -->
+<!-- end feature heading -->
+<!-- start feature -->
+<table cellpadding='10' align='center'><tr><td align='center' style='border: 1px solid #A6BF2E;'>
+<a href="/news/2013/pr201323_images.html"><img itemprop='image' src='/image_archive/2013/92/display.jpg' align='center' width='169' alt='Free-floating brown dwarf' border='0'></a>
+<span class="featuretext"><a href="/news/2013/pr201323_images.html"  class="press_more">Click here to download image(s) for this release</a></span>
+</td></tr></table>
+
+<!-- end feature -->
+</td></tr></table>
+
+<!-- start content heading -->
+<span class="content_heading">Press Release</span>
+<!-- end content heading -->
+<p>
+<!-- start content -->
+<span class="press_date">Release No.: 2013-23</span><span class="press_date">For Release: Thursday, September 05, 2013 02:00:00 PM </span><br><span class="press_title">Coldest Brown Dwarfs Blur Lines between Stars and Planets</span><br><span class="press_line">Cambridge, MA - </span><span class="press_text2">Astronomers are constantly on the hunt for ever-colder star-like bodies, and two years ago a new class of objects was discovered by researchers using NASA's WISE space telescope.  However, until now no one has known exactly how cool their surfaces really are - some evidence suggested they could be room temperature.  
+<p>
+A new study shows that while these brown dwarfs, sometimes called failed stars, are indeed the coldest known free-floating celestial bodies, they are warmer than previously thought with temperatures about 250-350 degrees Fahrenheit.  
+<p>
+To reach such low surface temperatures after cooling for billions of years means that these objects can only have about 5 to 20 times the mass of Jupiter.  Unlike the Sun, these objects' only source of energy is from their gravitational contraction, which depends directly on their mass.
+<p>
+"If one of these objects were found orbiting a star, there is a good chance that it would be called a planet," says Trent Dupuy, a Hubble Fellow at the Harvard-Smithsonian Center for Astrophysics.  But because they probably formed on their own and not in a proto-planetary disk, astronomers still call these objects brown dwarfs even if they are "planetary mass."
+<p>
+Characterizing these cold brown dwarfs is challenging because they emit most of their light at infrared wavelengths, and they are very faint due to their small size and low temperature.
+<p>
+To get accurate temperatures, astronomers need to know the distances to these objects. "We wanted to find out if they were colder, fainter, and nearby or if they were warmer, brighter, and more distant," explains Dupuy.
+
+Using NASA's Spitzer Space Telescope, the team determined that the brown dwarfs in question are located at distances 20 to 50 light-years away. 
+<p>
+To determine the distances to these objects the team measured their parallax - the apparent change in position against background stars over time. As the Spitzer Space Telescope orbits the Sun its perspective changes and nearby objects appear to shift back and forth slightly. The same effect occurs if you hold up a finger in front of your face and close one eye and then the other. The position of your finger seems to shift when viewed against the distant background.
+<p>
+But even for these relatively nearby brown dwarfs, the parallax motion is small.  "To be able to determine accurate distances, our measurements had to be the same precision as knowing the position of a firefly to within 1 inch from 200 miles away," explains Adam Kraus, professor at the University of Texas at Austin and the other author of the study.
+<p>
+The new data also present new puzzles to astronomers that study cool, planet-like atmospheres.  Unlike warmer brown dwarfs and stars, the observable properties of these objects don't seem to correlate as strongly with temperature.  This suggests increased roles for other factors, such as convective mixing, in driving the chemistry at the surface.  They also find evidence for disappearing alkali elements that are likely getting incorporated into noxious clouds.
+<p>
+This study examined the initial sample of the coldest brown dwarfs discovered in the WISE survey data. Additional objects discovered in the past two years remain to be studied and will hopefully shed light on some of these outstanding issues.
+<p>
+A <a href = "http://www.sciencemag.org/content/early/2013/09/04/science.1241917.abstract">paper</a> describing these results, authored by Dupuy and Kraus, appears in the Sept. 5, 2013 issue of Science Express online.
+<p></span><span class="press_text2">Headquartered in Cambridge, Mass., the Harvard-Smithsonian Center for Astrophysics (CfA) is a joint collaboration between the Smithsonian Astrophysical Observatory and the Harvard College Observatory. CfA scientists, organized into six research divisions, study the origin, evolution and ultimate fate of the universe.</span><p><span class="press_text2">For more information, contact:</span><p><span class="press_contact">David A. Aguilar<br>
+Director of Public Affairs<br>
+Harvard-Smithsonian Center for Astrophysics<br>
+617-495-7462<br>
+<a href="mailto:daguilar@cfa.harvard.edu">daguilar@cfa.harvard.edu</a>
+<p>
+Christine Pulliam<br>Public Affairs Specialist<br>
+Harvard-Smithsonian Center for Astrophysics<br>
+617-495-7463<br>
+<a href="mailto:cpulliam@cfa.harvard.edu">cpulliam@cfa.harvard.edu</a><br></span>
+<!-- end content -->
+
+<!-- close content table -->
+ </td>
+</tr>
+<tr><td class="page_left2"><!-- SectionPhoto -->
+<a href = "/iminfo/press.html"><img src="/common/images/sections/events.jpg" alt="Section Photo" width="156" height="214" border = "0" ></a>
+</td></tr>
+<tr><td colspan="3"><!-- open footer table -->
+<table class="footer" width="940" border="0" cellspacing="0" cellpadding="0">
+<tr align="left" valign="middle">
+ <td class="footer_left" rowspan="2">
+ </td><td class="footer_right">
+<span class="navfooter">
+<a href="/about/" class="navfooter">About</a>&nbsp;|&nbsp;
+<a href="/research/" class="navfooter">Research</a>&nbsp;|&nbsp;
+<a href="/education/" class="navfooter">Education &amp; Outreach</a>&nbsp;|&nbsp;
+<a href="/facilities/" class="navfooter">Facilities</a>&nbsp;|&nbsp;
+<a href="/opportunities/" class="navfooter">Opportunities</a>&nbsp;|&nbsp;
+<a href="/events/" class="navfooter">Events</a>&nbsp;|&nbsp;
+<a href="/press/" class="navfooter">Press Room</a>&nbsp;|&nbsp;
+<a href="/about/contact.html" class="navfooter">Contacts</a>&nbsp;|&nbsp;
+<a href="/support/donatecfa.html" class="navfooter">Contribute to CfA</a>&nbsp;|&nbsp;
+<a href="/policies/privacy.html" class="navfooter">Privacy</a> 
+</span>
+ </td>
+</tr><tr align="left" valign="top">
+ <td class="footer_right">
+<img src=" /common/headers/footer-harvard_si.gif" alt="Harvard &amp; Smithsonian Logos" width="56" height="28" align="middle"> 
+<span class="navfooter">
+&nbsp;&nbsp;HARVARD-SMITHSONIAN CENTER FOR ASTROPHYSICS&nbsp;&nbsp;|&nbsp;&nbsp;
+60 GARDEN STREET&nbsp;&nbsp;|&nbsp;&nbsp;
+CAMBRIDGE, MA 02138
+</span>
+ </td>
+</tr>
+</table>
+<!-- close footer table -->
+<!-- open google an -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ?
+"https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost +
+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6998066-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- close google an -->
+<!-- open SI webtrends -->
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2012 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 4.1  -->
+<!-- Created: 11/21/2012 5:00:32 PM -->
+<script src="/common/webtrends/webtrends.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//logs1.smithsonian.museum/dcsxkx59ubdzpxfcvjqxshx06_5r8l/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.cfa.harvard.edu"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+<!-- close SI webtrends -->
+</td></tr>
+</table></body></html>

@@ -1,0 +1,528 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="http://www.consumer.ftc.gov/articles/0373-getting-mortgage-after-short-sale" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="en" http-equiv="Content-Language" />
+<meta content="Getting a Mortgage after a Short Sale" about="http://www.consumer.ftc.gov/articles/0373-getting-mortgage-after-short-sale" property="dc:title" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.consumer.ftc.gov/articles/0373-getting-mortgage-after-short-sale" />
+<link rel="shortlink" href="http://www.consumer.ftc.gov/node/1761" />
+  <title>Getting a Mortgage after a Short Sale | Consumer Information</title>
+  <link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_gArAUcbPOGS20Rj3CC1Ph_2J692LtLqNviaNUAmk_Wg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_zokOb9raN9Cg8akkQGi5P5zPbMO6qe5fNyYruMiDsyU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_1otP6__I-MvxKywLnrvhM1XKDj81enq0GcEun6UsiUI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_9hvQ4uwLBFYBgnc5c9u9QryUS4ukOQvUNC2V7EFD948.css" media="print" />
+  <script type="text/javascript" src="http://www.consumer.ftc.gov/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/drupal.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/sites/all/libraries/chosen/chosen/chosen.jquery.min.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/chosen/chosen.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/consumer_node_edit/consumer_taxonomy_hierarchy.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/consumer_node_edit/consumer_parent_menu_item.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/ftc_exit_script/js/exit_script.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/panels/js/panels.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.ftc.gov/foresee/foresee-trigger.js"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/swfobject.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.qtip-1.0.0-rc3.min.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/fancybox/jquery.fancybox-1.3.4.pack.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.corner.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.cycle.all.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/global.js?mtsrpk"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"consumer_platform","theme_token":"KE2S56YwM3DS00_F1iP9rKrVnriTwnJAWyQBQQpE0xw","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.jquery.min.js":1,"profiles\/consumer\/modules\/contrib\/chosen\/chosen.js":1,"profiles\/consumer\/modules\/custom\/consumer_node_edit\/consumer_taxonomy_hierarchy.js":1,"profiles\/consumer\/modules\/custom\/consumer_node_edit\/consumer_parent_menu_item.js":1,"profiles\/consumer\/modules\/custom\/ftc_exit_script\/js\/exit_script.js":1,"profiles\/consumer\/modules\/contrib\/panels\/js\/panels.js":1,"http:\/\/www.ftc.gov\/foresee\/foresee-trigger.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/swfobject.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.corner.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.cycle.all.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/global.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/consumer\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.css":1,"profiles\/consumer\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/consumer\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/consumer\/modules\/contrib\/tagclouds\/tagclouds.css":1,"modules\/locale\/locale.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/hp-footer\/hp-footer.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/onecol\/onecol.css":1,"profiles\/consumer\/themes\/consumer_platform\/PlutoSansWebFonts.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/default.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/layout.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/style.css":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/responsive.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/print.css":1}},"chosen":{"selector":".field-type-taxonomy-term-reference select:visible, .field-name-field-crc-ed-code select:visible","minimum":"15"},"ftc_exit_script":{"timeout":"6000","token_replace":1,"internalURLs":["^http\\:\\\/\\\/.*\\.gov.*$","^https\\:\\\/\\\/.*\\.gov.*$"],"external_class":"external_link"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1761 node-type-article i18n-en" >
+  <div id="skip">
+    <a href="#main-menu">Jump to Navigation</a>
+  </div>
+    
+  <!-- ______________________ HEADER _______________________ -->
+
+<div id="header">
+  <div class="header-inner">
+      <div id="site-name-and-slogan">
+      <img src = "/profiles/consumer/themes/consumer_platform/images/logo-ftcseal.jpg" alt = "Federal Trade Commission" class = "print-logo" />
+          <h2 id="site-slogan">Federal Trade Commission</h2>
+              <h1 id="logo"><a href="http://www.consumer.ftc.gov/" title="Home" rel="home">
+              Consumer Information            </a></h1>
+    
+    </div>
+         <div id="search">
+        <div class="region region-search">
+    <div id="block-ftc_language_block-ftc_language_block" class="block block-ftc-language-block block-odd clearfix">
+
+                		
+		  <p><a href="http://www.consumidor.ftc.gov">español</a></p>
+</div> <!-- /block -->
+<div id="block-search-form" class="block block-search block-even clearfix">
+
+                		
+		  <form action="/articles/0373-getting-mortgage-after-short-sale" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Jd0F_GivGKXd-F1MpNxgTDXe_tqLhieKaysUht0iBZU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div> <!-- /block -->
+  </div>
+    </div>
+    </div>
+</div> <!-- /header -->
+
+<div id="page" class="page with-navigation no-language">
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="main-inner" class="clearfix">
+      <div id="content" class="one-col">
+
+                  <div id="top-right">  <div class="region region-top-right">
+    <div id="block-consumer_emailprintshare-email_print_share" class="block block-consumer-emailprintshare block-odd clearfix">
+
+                		
+		  <ul class="email-print-share"><li id="emailThis" class="email"><a class="addthis_button_email" href="#">Email</a></li><li class="printer-friendly">
+        <a href="#" class="addthis_button_print">Print</a> 
+        </li><li class="addthis">
+        <script type="text/javascript">
+          var addthis_config = {
+            ui_language: "en"
+          }
+        </script>
+        <!-- AddThis Button BEGIN -->
+        <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4e34dc8d56e636d1"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"/></a>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e34dc8d56e636d1"></script>
+        <!-- AddThis Button END -->
+        </li>
+      </ul>
+</div> <!-- /block -->
+<div id="block-locale-language" class="block block-locale block-even clearfix">
+
+                		
+		  <ul class="language-switcher-locale-url"><li class="es first last"><a href="http://www.consumidor.ftc.gov/articulos/s0373-como-conseguir-una-hipoteca-despues-de-una-venta-corta" class="language-link" lang="es" title="Cómo conseguir una hipoteca después de una venta corta">Vea esta página en español</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+</div>
+        
+                  <div id="content-header">
+
+                        
+            <div class="title-wrapper">
+            
+                          <h1 class="title">Getting a Mortgage after a Short Sale</h1>
+                        
+                        </div>
+
+                          <div class="tabs"></div>
+            
+            
+                        
+          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-even clearfix">
+
+                		
+		  
+<div id="node-1761" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+		    
+	<div class="content">
+	  
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+  
+                <div id = 'sidebar-article' class = 'sidebar'><div id="block-panels_mini-related_items_sidebar" class="block block-panels-mini block-odd clearfix">
+
+                <h2 class="block-title">Related Items</h2>
+          		
+		  <div class="panel-display panel-1col clearfix" id="mini-panel-related_items_sidebar-1">
+  <div class="panel-panel panel-col">
+    <div>
+
+<div class="panel-pane pane-block pane-views-92f96d1442c33ddcb8a1b32f5f4054c0 even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-article_related_media view-rotating-promos no-rotate small-media-rotator views-rotating-promos view-dom-id-1acb14e3827f7285149f4c32ed4d9e92">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0054-how-file-complaint" title="[field_media_type]: How to File a Complaint" class="ajax [field_media_type]" rel="955"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/videos/thumbnails/file-a-complaint.jpeg?itok=hstVU-zV" width="155" height="87" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0054-how-file-complaint">How to File a Complaint</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0060-your-source-truly-free-credit-report-annualcreditreportcom" title="[field_media_type]: Your Source for a Truly Free Credit Report? AnnualCreditReport.com " class="ajax [field_media_type]" rel="1268"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/videos/thumbnails/video-0060_check-your-credit-report_thumb.png?itok=YukcyT3R" width="155" height="85" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0060-your-source-truly-free-credit-report-annualcreditreportcom" title="Your Source for a Truly Free Credit Report? AnnualCreditReport.com ">Your Source for a Truly Free Credit Repo...</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-views pane-article-sidebar odd" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-block_2 view-dom-id-fbd56397411c7b62db813c9909e867c4">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0155-free-credit-reports">Free Credit Reports</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0151-disputing-errors-credit-reports">Disputing Errors on Credit Reports</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0187-when-paying-mortgage-struggle">When Paying the Mortgage is a Struggle</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-4 views-row-even views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0152-how-credit-scores-affect-price-credit-and-insurance">How Credit Scores Affect the Price of Credit and Insurance</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+</div> <!-- /block -->
+</div><div class = "content-inner"><div class="article-intro"><p>If you are struggling to make your mortgage payments — or you’ve missed making some payments — you may be thinking about negotiating a short sale of your home with your lender. After all, a short sale may not hurt your credit rating as much as a foreclosure. What’s more, while borrowers who go through a foreclosure may have to wait seven years before they’re eligible for a new mortgage, short sellers may qualify in two years.</p><p>But according to recent news reports, some mortgage loan underwriting systems are unable to distinguish short sales from foreclosures on consumer reports. And that may keep or delay you from getting a new mortgage.</p></div><div class="article-anchor-list"><ul><li><h3><a href="#difference"><strong>The Difference Between a Short Sale and a Foreclosure</strong></a></h3></li><li><h3><a href="#action"><strong>Take Action</strong></a></h3></li></ul></div><p>The Federal Trade Commission (FTC), the nation’s consumer protection agency, has some tips to help short sellers avoid a potentially costly mistake: being kept out of the housing market because of difficulties interpreting short sale and foreclosure information on consumer reports.</p><h2><strong><a name="difference" id="difference"></a>The Difference Between a Short Sale and a Foreclosure</strong></h2><p>A <strong>short sale</strong> occurs when you sell your home for less than the balance you owe on the mortgage loan, and the lender agrees to accept the proceeds of the sale instead of pursuing foreclosure. Your lender works with you and your real estate agent to set the sale price and review the offers, and then works with the buyer’s real estate agent and mortgage lender to finalize the sale.</p><p>A <strong>foreclosure</strong> takes place when you don’t make the mortgage payments and the lender takes legal action to repossess your home.</p><h2><strong><a name="action" id="action"></a>Take Action</strong></h2><p>If you negotiated a short sale of your home:</p><ul><li>Get a letter from your lender confirming that your loan closed in a short sale, not a foreclosure. Send a copy of the letter to each of the nationwide credit reporting companies: <a href="http://www.equifax.com/home/en_us">Equifax</a>, <a href="http://www.experian.com/">Experian</a>, and <a href="http://www.transunion.com/">TransUnion</a>. You also can use the letter if questions arise when you try to buy another home.</li><li>Order a copy of your <a href="http://www.consumer.ftc.gov/articles/0155-free-credit-reports">credit report</a>. Make sure the information is accurate. The nationwide consumer reporting companies are required to provide you with a free copy of your credit report, at your request, once every 12 months. Visit <a href="http://www.annualcreditreport.com">AnnualCreditReport.com</a> or call toll-free: 1-877-322-8228. If you <a href="http://www.consumer.ftc.gov/articles/0151-disputing-errors-credit-reports">find a mistake</a>, contact the credit reporting company and business providing the information to correct the error.</li><li>When you’re ready to buy another home, get pre-approved. A pre-approval letter from a lender shows that you are able to go through with a purchase. Pre-approval is not a final loan commitment; it means you met with a loan officer, your credit report was reviewed, and the lender believes you can qualify for a specific loan amount. This pre-approval process allows your lender to identify issues and errors in your credit report that may keep you from qualifying for a loan. That, in turn, allows you to correct inaccuracies before they can prevent you from buying another home.</li></ul></div>            
+  </div>
+	</div>
+	
+  	
+	<div class = "terms">Tagged with: <a href="http://www.consumer.ftc.gov/taxonomy/term/897" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">bad credit</a>, <a href="http://www.consumer.ftc.gov/taxonomy/term/935" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">credit report</a>, <a href="http://www.consumer.ftc.gov/search-terms/foreclosure" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">foreclosure</a>, <a href="http://www.consumer.ftc.gov/taxonomy/term/1307" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">loan</a>, <a href="http://www.consumer.ftc.gov/taxonomy/term/1308" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">mortgage</a>, <a href="http://www.consumer.ftc.gov/taxonomy/term/1057" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">settlement</a></div>					<div class="article-date"><span>July 2013</span></div>
+			
+			<div class="also-like">
+			<h4>You Might Also Like</h4><ul><li><a href="http://www.consumer.ftc.gov/articles/0189-shopping-mortgage">Shopping for a Mortgage</a></li><li><a href="http://www.consumer.ftc.gov/articles/0228-solving-consumer-problems">Solving Consumer Problems </a></li><li><a href="http://www.consumer.ftc.gov/articles/0150-coping-debt">Coping with Debt</a></li></ul> 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+
+</div> <!-- /block -->
+  </div>
+                   </div>
+
+        
+      </div> <!-- /content -->
+
+              <div id="sidebar-first" class="column sidebar first">
+          <div id="nav-control"><a href="#">menu</a></div>  <div class="region region-sidebar-first">
+    <div id="block-system-main-menu" class="block block-system block-menu block-odd clearfix">
+
+                		
+		  <ul class="menu level-3"><li class="first collapsed money-credit mid-1858"><a href="http://www.consumer.ftc.gov/topics/money-credit" title=""><span>Money &amp;<br />  Credit</span></a></li>
+<li class="expanded active-trail homes-mortgages mid-1859"><a href="http://www.consumer.ftc.gov/topics/homes-mortgages" title="" class="active-trail"><span>Homes &amp;<br />  Mortgages</span></a><ul class="menu level-2"><li class="first expanded active-trail home-loans mid-2590"><a href="http://www.consumer.ftc.gov/topics/home-loans" title="" class="active-trail"><span>Home Loans</span></a><ul class="menu level-1"><li class="first leaf deceptive-mortgage-ads mid-2850"><a href="http://www.consumer.ftc.gov/articles/0087-deceptive-mortgage-ads"><span>Deceptive Mortgage Ads</span></a></li>
+<li class="leaf facing-foreclosure- mid-2844"><a href="http://www.consumer.ftc.gov/articles/0193-facing-foreclosure"><span>Facing Foreclosure?</span></a></li>
+<li class="leaf facing-foreclosure-bookmark mid-3573"><a href="http://www.consumer.ftc.gov/articles/0360-facing-foreclosure-bookmark"><span>Facing Foreclosure? Bookmark</span></a></li>
+<li class="leaf forensic-loan-audits mid-2845"><a href="http://www.consumer.ftc.gov/articles/0130-forensic-loan-audits"><span>Forensic Loan Audits</span></a></li>
+<li class="leaf getting-mortgage-offers- mid-2851"><a href="http://www.consumer.ftc.gov/articles/0127-getting-mortgage-offers"><span>Getting Mortgage Offers?</span></a></li>
+<li class="leaf active-trail getting-a-mortgage-after-a-short-sale mid-3629"><a href="http://www.consumer.ftc.gov/articles/0373-getting-mortgage-after-short-sale" class="active-trail active-trail active"><span>Getting a Mortgage after a Short Sale</span></a></li>
+<li class="leaf high-rate-high-fee-home-loans mid-2837"><a href="http://www.consumer.ftc.gov/articles/0246-high-rate-high-fee-home-loans"><span>High-Rate, High-Fee Home Loans</span></a></li>
+<li class="leaf home-equity-loans-and-credit-lines mid-2836"><a href="http://www.consumer.ftc.gov/articles/0227-home-equity-loans-and-credit-lines"><span>Home Equity Loans and Credit Lines</span></a></li>
+<li class="leaf if-your-mortgage-lender-is-closing-or-in-bankruptcy mid-2849"><a href="http://www.consumer.ftc.gov/articles/0191-if-your-mortgage-lender-or-servicer-closing-or-bankruptcy"><span>If Your Mortgage Lender is Closing or in Bankruptcy</span></a></li>
+<li class="leaf making-payments-to-your-mortgage-servicer mid-2843"><a href="http://www.consumer.ftc.gov/articles/0190-making-payments-your-mortgage-servicer"><span>Making Payments to Your Mortgage Servicer</span></a></li>
+<li class="leaf mass-joinder-lawsuit mid-2840"><a href="http://www.consumer.ftc.gov/articles/0256-mass-joinder-lawsuits"><span>Mass Joinder Lawsuit</span></a></li>
+<li class="leaf mortgage-discrimination mid-2847"><a href="http://www.consumer.ftc.gov/articles/0188-mortgage-discrimination"><span>Mortgage Discrimination</span></a></li>
+<li class="leaf mortgage-relief-scams mid-2839"><a href="http://www.consumer.ftc.gov/articles/0100-mortgage-relief-scams"><span>Mortgage Relief Scams</span></a></li>
+<li class="leaf reverse-mortgages mid-2841"><a href="http://www.consumer.ftc.gov/articles/0192-reverse-mortgages"><span>Reverse Mortgages</span></a></li>
+<li class="leaf shopping-for-a-mortgage mid-2848"><a href="http://www.consumer.ftc.gov/articles/0189-shopping-mortgage"><span>Shopping for a Mortgage</span></a></li>
+<li class="leaf trouble-paying-your-mortgage- mid-2842"><a href="http://www.consumer.ftc.gov/articles/0194-trouble-paying-your-mortgage"><span>Trouble Paying Your Mortgage?</span></a></li>
+<li class="leaf using-your-home-as-collateral mid-2835"><a href="http://www.consumer.ftc.gov/articles/0245-using-your-home-collateral"><span>Using Your Home as Collateral</span></a></li>
+<li class="last leaf when-paying-the-mortgage-is-a-struggle mid-2846"><a href="http://www.consumer.ftc.gov/articles/0187-when-paying-mortgage-struggle"><span>When Paying the Mortgage is a Struggle</span></a></li>
+</ul></li>
+<li class="collapsed home-improvement mid-2592"><a href="http://www.consumer.ftc.gov/topics/home-improvement" title=""><span>Home Improvement</span></a></li>
+<li class="collapsed saving-energy-at-home mid-2591"><a href="http://www.consumer.ftc.gov/topics/saving-energy-home" title=""><span>Saving Energy at Home</span></a></li>
+<li class="last collapsed renting-timeshares mid-2593"><a href="http://www.consumer.ftc.gov/topics/renting-timeshares" title=""><span>Renting & Timeshares</span></a></li>
+</ul></li>
+<li class="collapsed health-fitness mid-1860"><a href="http://www.consumer.ftc.gov/topics/health-fitness" title=""><span>Health &amp;<br />  Fitness</span></a></li>
+<li class="collapsed jobs-making-money mid-1861"><a href="http://www.consumer.ftc.gov/topics/jobs-making-money" title=""><span>Jobs &amp;<br />  Making Money</span></a></li>
+<li class="last collapsed privacy-identity mid-1862"><a href="http://www.consumer.ftc.gov/topics/privacy-identity" title=""><span>Privacy &amp;<br />  Identity</span></a></li>
+</ul>
+</div> <!-- /block -->
+<div id="block-menu-menu-main-sub" class="block block-menu block-even clearfix">
+
+                		
+		  <ul class="menu"><li class="first leaf blog mid-2559"><a href="http://www.consumer.ftc.gov/blog" title=""><span>Blog</span></a></li>
+<li class="last leaf video-media mid-2560"><a href="http://www.consumer.ftc.gov/media" title=""><span>Video &amp;<br />  Media</span></a></li>
+</ul>
+</div> <!-- /block -->
+<div id="block-menu-menu-nav-promo" class="block block-menu block-odd clearfix">
+
+                		
+		  <ul class="menu"><li class="first last leaf scam-alerts mid-2650"><a href="http://www.consumer.ftc.gov/scam-alerts" title="">Scam Alerts</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+        </div>
+       <!-- /sidebar-first -->
+    </div> <!-- /main-inner -->
+  </div> <!-- /main -->
+
+    <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer">
+        <div class="region region-footer">
+    <div id="block-panels_mini-footer" class="block block-panels-mini block-even clearfix">
+
+                		
+		  <div class="panel-display panel-footer clearfix" id="mini-panel-footer">
+ <div class = "panel-top">
+     <div class="panel-panel panel-col-top-l">
+      
+
+<div class="panel-pane pane-views pane-topic-landing-page even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_5 view-dom-id-759fbbb0db2515a3c36898df07e14c3a">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_6 view-dom-id-f4edc1d1856c05e38636fc4c9e452b3c">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-sidebar-modules view-id-sidebar_modules view-display-id-block_3 view-dom-id-6f7bbdd2e20f50f6b14e04fb8f5a6d9c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-gdelivery">        <div class="field-content"><a href="https://public.govdelivery.com/accounts/USFTC/subscriber/new?topic_id=USFTC_25">Get homes and mortgages updates by email</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+  
+ 
+    <div class="panel-panel panel-col-top-c">
+     
+
+<div class="panel-pane pane-views pane-topic-landing-page even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_7 view-dom-id-9da5e697d35bc5ea4b5b8152f3ef0f4e">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_8 view-dom-id-b25c15a548202a2d1e490da377086851">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-sidebar-modules view-id-sidebar_modules view-display-id-block_4 view-dom-id-e4b6793bfb7558d97ac809d57aa18463">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-guidance-link">        <div class="field-content"><a href="http://business.ftc.gov/selected-industries/real-estate-and-mortgages">Looking for business guidance on real estate and mortgages?</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+
+  
+      <div class="panel-panel panel-col-top-r">
+      
+
+<div class="panel-pane pane-block pane-ftc-social-media-ftc-social-media even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class = 'social-media'><li class='newsletter'><a href='https://public.govdelivery.com/accounts/USFTC/subscriber/new?category_id=USFTC_C7' target = 'blank'>Get Email Updates</a></li><li class='rss'><a href='/blog/rss' target = 'blank'>Blog Feed</a></li><li class='facebook'><a href='https://www.facebook.com/federaltradecommission' target = 'blank'>Facebook</a></li><li class='youtube'><a href='http://www.youtube.com/user/FTCvideos' target = 'blank'>YouTube</a></li><li class='twitter'><a href='https://twitter.com/FTC' target = 'blank'>Twitter</a></li></ul>  </div>
+
+  
+  </div>
+    </div>
+    
+  </div>
+<div class = "panel-bottom">
+
+  	     <div class="panel-panel panel-col-bottom-l">
+      
+
+<div class="panel-pane pane-block pane-block-14 even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="http://ftc.gov/"><img src="/profiles/consumer/themes/consumer_platform/images/icon-ftc-seal.gif" style="border: none; margin-right: 10px; margin-bottom:20px; float: left;" /></a><a href="http://ftc.gov/">The Federal Trade Commission</a> (FTC) is the nation’s consumer protection agency. The FTC works to prevent fraudulent, deceptive and unfair business practices in the marketplace.</p>  </div>
+
+  
+  </div>
+    </div>
+   
+
+     <div class="panel-panel panel-col-bottom-c">
+      
+
+<div class="panel-pane pane-block pane-menu-menu-footer even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf privacy-policy mid-2563"><a href="http://www.consumer.ftc.gov/privacy-policy">Privacy Policy</a></li>
+<li class="leaf about-us mid-2564"><a href="http://www.consumer.ftc.gov/about-us">About Us</a></li>
+<li class="last leaf contact-us mid-2565"><a href="http://www.consumer.ftc.gov/contact-us">Contact Us</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  
+      <div class="panel-panel panel-col-bottom-r">
+      
+
+<div class="panel-pane pane-block pane-block-1 share-resources even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="/share-our-resources">Share Our Resources. Here's How &gt;</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-block pane-block-12 file-a-complaint odd" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="/articles/0341-file-complaint-ftc">File a Complaint with the FTC &gt;</a></p>
+  </div>
+
+  
+  </div>
+    </div>
+  
+
+  </div>
+</div>
+
+</div> <!-- /block -->
+  </div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+  </body>
+</html>

@@ -1,0 +1,370 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+<head prefix="og:http://ogp.me/ns# fb:http://ogp.me/ns/fb#  video:http://ogp.me/ns/video#">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+<meta http-equiv="X-UA-Compatible" content="IE=9">
+    
+    <!-- RA:1112628794 -->
+    <title>This live event has concluded - Video on NBCNews.com</title>
+    <meta name="title" content="This live event has concluded" />
+    <meta name="description" content="Video on NBCNews.com: Please select another video." />
+    <link rel="canonical" href="http://www.nbcnews.com/video/nbcnews.com/53022971" />
+    <meta property="fb:app_id" content="10150138890205613" />
+    <meta property="og:site_name" content="NBCNews.com" />
+    <meta property="og:description" name="description" content="Video on msnbc.com: Please select another video." />
+    <meta property="og:video" content="http://www.nbcnews.com/id/32545640/?launch=53022971%26autoplay=true%26omid=facebook" />
+    <link rel="video_src" href="http://www.nbcnews.com/id/32545640/?launch=53022971%26autoplay=true%26omid=facebook"/>
+ 
+    
+    <meta property="og:title" name="title"  content="This live event has concluded" />
+    <meta property="og:url" content="http://www.nbcnews.com/video/nbcnews.com/53022971" />
+    <meta property="og:type" content="video.other" />
+
+    <meta property="og:image" content="http://media3.s-nbcnews.com/j/MSNBC/Components/Video/Live/JPEGs/live_unavailable.standard.jpg" />
+    <link rel="image_src" href="http://media3.s-nbcnews.com/j/MSNBC/Components/Video/Live/JPEGs/live_unavailable.standard.jpg" /> 
+    <meta name="video_height" content="250" />
+    <meta name="video_width" content="425" />
+    <meta name="video_type" content="application/x-shockwave-flash" />
+    <meta property="og:video:height" content="250" />
+    <meta property="og:video:width" content="425" />
+    <meta property="og:video:type" content="application/x-shockwave-flash" />
+
+
+<link rel="stylesheet" type="text/css" href="http://assets3z.msnbc.msn.com/Rendering/msnbc/html40/assets/Css/VideoCanonical.css?h=A1CB8BB888E4481CB9A4EB5C4036C3F1"/>
+
+<script type="text/javascript" src="http://assets2z.msnbc.msn.com/Rendering/msnbc/html40/assets/Js/Analytics.js?h=ACC6BF6D99C63A51D19FF537A21BD40F"></script>
+
+     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://www.polls.newsvine.com/_elliott/jenga"></script>
+
+    <script type="text/javascript">
+
+        var currentVideoId;
+        var currentSource;
+
+        var videoPlayerParameters =
+    {
+        workbenchId: "53022971",
+        settings: "21438819",
+        flashRenderDiv: "VPFlash",
+        domain: "www.nbcnews.com",
+        noFlashRenderDiv: "VPNoFlash",
+        showMSNLogo: true,
+        showMSNBCLogo: true,
+        isLive: false
+    };
+
+    $j.session.ready(function(user) {
+
+	    $('.demo_activity').fb_activity({
+		    edition: 'video',
+		    title : 'What my friends are viewing',
+		    activity_feed : {
+			    // actions : 'watch' // actions defaults to like, recommend but i'm wondering if we want this to be a video-specific action e.g. "watch" if it even exists...?
+			    width: 300,
+			    toggle : true
+		    },
+		    sharing_message : 'You\'re sharing this video on Facebook',
+		    confirm_message : 'This video has been removed from your Facebook profile.',
+		    share_prompt_message : 'Share what you\'re watching & see what your friends are viewing',
+		    onAllow : function(user) { // or set a url instead of using onAllow
+			    updateOpenGraph(currentVideoId, currentSource);
+		    }
+	    });
+
+    });
+
+    </script>  
+    
+
+
+<script src="//www.nbcnews.com/id/51832828" type="text/javascript"></script>
+ 
+</head>
+<body class="default">
+    
+   
+<script src="//www.nbcnews.com/id/51738311" type="text/javascript"></script>
+
+    <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+    <div id="fb-root"></div>
+    <script type="text/javascript">
+     (function(d, s, id) {
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) return;
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=10150138890205613";
+         fjs.parentNode.insertBefore(js, fjs);
+     } (document, 'script', 'facebook-jssdk'));
+     </script>
+    <script type="text/javascript">
+         FB.init({
+             appId: '10150138890205613', 
+             cookie:true,
+             status: true,
+             xfbml: true, 
+             oauth:true
+         });
+     </script>
+     
+    
+    <div id="flash_container">
+        <div id="VpFlash">
+            <div id="VPFlash">
+                <object width="996" height="600" id="flashPlayer" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+                    codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0">
+                    <param name="movie" value="http://www.nbcnews.com/id/32213513" />
+                    <param name="FlashVars" value="launch=53022971&amp;domain=www.nbcnews.com&amp;EID=oVPEFC&amp;playerid=21134540&amp;settings=21438819&amp;sh=1600&amp;showMSNLogo=true&amp;showMSNBCLogo=true&amp;sw=2560&amp;useProxy=true&amp;wbDomain=www.nbcnews.com" />
+                    <param name="allowScriptAccess" value="always" />
+                    <param name="allowFullScreen" value="true" />
+                    <param name="wmode" value="transparent" />
+                    <embed name="flashPlayer" src="http://www.nbcnews.com/id/32213513" width="996" height="600" 
+                        flashvars="launch=53022971&amp;domain=www.nbcnews.com&amp;EID=oVPEFC&amp;playerid=21134540&amp;settings=21438819&amp;sh=1600&amp;showMSNLogo=true&amp;showMSNBCLogo=true&amp;sw=2560&amp;useProxy=true&amp;wbDomain=www.nbcnews.com"
+                        allowscriptaccess="always" allowfullscreen="true" wmode="transparent" type="application/x-shockwave-flash"
+                        pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+                </object>
+            </div>
+        </div>
+        <div id="reportDiv" style="display: none;">
+        </div>
+        <div id="surveyDiv" style="display: none;">
+        </div>
+    </div>
+
+<div class="container">
+    <div class="row rowtop35">
+       
+
+     <div class="cell1">
+        
+<div class="art standard hmedia default" >
+	<div class="img thumbnail" rel="media:image">
+	    <img alt="" src="http://media1.s-nbcnews.com/j/MSNBC/Components/Video/Live/JPEGs/live_unavailable.video-260x195.jpg" >
+	</div>
+	<span class="credit contributor">
+		
+	</span>
+</div>
+     </div>
+     <div class="cell2">
+         <p>
+              <span class="videosource">NBCNews.com</span>
+                &nbsp;&nbsp;|&nbsp;&nbsp;<strong>September 30, 2013</strong>
+         </p>
+        <h1>This live event has concluded</h1>
+        <h2 class="description">Please select another video.</h2>
+         
+<div class="tags-share">
+    <div>
+        <p>Share This:</p>
+        <a class="social-link social-link-facebook" data-name="facebook" data-width="550" data-height="400" href="http://www.facebook.com/share.php?u=http://www.nbcnews.com/video/nbcnews.com/53022971">
+            <img src="http://assets1z.msnbc.msn.com/rendering/msnbc/html40/assets/Video/img/facebook.png" alt="facebook"/>
+        </a>
+        <a class="social-link social-link-twitter" data-name="twitter" data-width="550" data-height="420" href="https://twitter.com/share?original_referer=http://www.nbcnews.com/video/nbcnews.com/53022971&source=custom_tweetbutton&text=This live event has concluded&url=http://www.nbcnews.com/video/nbcnews.com/53022971&via=NBCNews.com">
+                   <img src="http://assets1z.msnbc.msn.com/rendering/msnbc/html40/assets/Video/img/twitter.png" alt="twitter"/>
+        </a>
+        <a class="social-link social-link-googleplus" data-name="googleplus" data-width="450" data-height="500" href="https://plusone.google.com/_/+1/confirm?hl=en&url=http://www.nbcnews.com/video/nbcnews.com/53022971">
+            <img src="http://assets1z.msnbc.msn.com/rendering/msnbc/html40/assets/Video/img/googleplus.png" alt="googleplus"/>
+        </a>
+    </div>
+ </div>
+
+
+    </div>
+
+    </div>
+    <div class="row rowtop50">
+        <div class="span12">
+             <ul class="nav nav-tabs">
+              <li class="active"><a href="#related-videos" data-toggle="tab"><strong>Related Videos</strong></a></li>
+              <li><a href="#transcript" data-toggle="tab"><strong>Transcript of this video</strong></a></li>
+            </ul>
+            <div class="tab-content">
+              <!--// first tab for associated playlist showing 12 videos by default //-->
+              <div class="tab-pane active" id="related-videos">
+                  
+
+    <h4>Top videos</h4>
+    <ul class="thumbnails">
+        
+    <li class="span3">
+        <a href="http://www.today.com/video/today/53144666/" class="thumbnail" rel="popover" title="Storms slam Pacific Northwest with record rainfall" data-content="Harsh winds and rain thrashed across the Pacific Northwest this weekend, shutting down roads, flooding streets, and downing power lines. NBC’s Miguel Almaguer reports from Seattle.">
+            <img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/tdy_mor_nw_storms_130930.video-260x195.jpg" >
+        </a>
+        <div class="caption">
+            <h5>Storms slam Pacific Northwest with record rainfall</h5>
+            <p>TODAY
+            
+            <br>September 30, 2013</p>
+        </div>
+    </li>
+
+    <li class="span3">
+        <a href="http://www.today.com/video/today/53144668/" class="thumbnail" rel="popover" title="What a government shutdown could look like" data-content="NBC’s Tom Costello reports on the repercussions of the looming government shutdown and the impact on court reserve funds, postal services, and national parks. According to researchers, the aftermath of the shutdown could force the military to pay its members in IOUs instead of paychecks.">
+            <img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/tdy_mor_shutdown_130930.video-260x195.jpg" >
+        </a>
+        <div class="caption">
+            <h5>What a government shutdown could look like</h5>
+            <p>TODAY
+            
+            <br>September 30, 2013</p>
+        </div>
+    </li>
+
+    <li class="span3">
+        <a href="http://www.today.com/video/today/53144369/" class="thumbnail" rel="popover" title="Anna Chapman won’t discuss proposing to Edward Snowden" data-content="Russian ex-spy Anna Chapman was deported from the United States in 2010 and now she has her own television show called “Mysteries of the World.” She told NBC’s Richard Engel even though she publicly tweeted a marriage proposal to Edward Snowden, she wouldn’t discuss the details.">
+            <img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/tdy_engel_spy_130930.video-260x195.jpg" >
+        </a>
+        <div class="caption">
+            <h5>Anna Chapman won’t discuss proposing to Edward Snowden</h5>
+            <p>TODAY
+            
+            <br>September 30, 2013</p>
+        </div>
+    </li>
+
+    <li class="span3">
+        <a href="http://www.today.com/video/today/53144411/" class="thumbnail" rel="popover" title="Raffaele Sollecito: Murder retrial ‘destroying my life’" data-content="Amanda Knox’s former boyfriend Raffaele Sollecito tells TODAY’ Savannah Guthrie that his life is on hold while he goes on trial a third time for allegedly murdering exchange student Meredith Kercher. He describes the past six years as a “never-ending” nightmare. ">
+            <img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Photo/_new/tdy-130930-raffaele-sollecito-01.video-260x195.jpg" >
+        </a>
+        <div class="caption">
+            <h5>Raffaele Sollecito: Murder retrial ‘destroying my life’</h5>
+            <p>TODAY
+            
+            <br>September 30, 2013</p>
+        </div>
+    </li>
+
+    <li class="span3">
+        <a href="http://www.today.com/video/today/53144257/" class="thumbnail" rel="popover" title="American daredevil pulls off scariest stunt of his life" data-content="Jeb Corbliss narrowly lands a record-breaking helicopter jump on Saturday in China, diving from the copter and soaring the length of three football fields through a mountain pass of 25 feet wide. ">
+            <img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/tdy_mor_corbliss_130930.video-260x195.jpg" >
+        </a>
+        <div class="caption">
+            <h5>American daredevil pulls off scariest stunt of his life</h5>
+            <p>TODAY
+            
+            <br>September 30, 2013</p>
+        </div>
+    </li>
+
+    <li class="span3">
+        <a href="http://www.today.com/video/today/53144256/" class="thumbnail" rel="popover" title="NTSB investigates ‘unsurvivable’ Calif. jet crash" data-content="A small plane slammed into a hangar at the Santa Monica Airport on Sunday evening, sparking an explosion and likely killing the passengers. Officials do not know yet how many were aboard the eight-seater plane, NBC’s Mike Taibbi reports.">
+            <img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/tdy_mor_ca_plane_130930.video-260x195.jpg" >
+        </a>
+        <div class="caption">
+            <h5>NTSB investigates ‘unsurvivable’ Calif. jet crash</h5>
+            <p>TODAY
+            
+            <br>September 30, 2013</p>
+        </div>
+    </li>
+
+    <li class="span3">
+        <a href="http://www.nbcnews.com/video/nightly-news/53141943/" class="thumbnail" rel="popover" title="Exclusive photos show depth of devastation in Kenyan mall attack " data-content="A mother and young children played dead during the terrorist attack at a Kenyan mall. NBC’s Ron Allen reports. ">
+            <img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/nn_06ra_kenya_130929.video-260x195.jpg" >
+        </a>
+        <div class="caption">
+            <h5>Exclusive photos show depth of devastation in Kenyan mall attack </h5>
+            <p>Nightly News
+            
+            <br>September 29, 2013</p>
+        </div>
+    </li>
+
+    <li class="span3">
+        <a href="http://www.nbcnews.com/video/nightly-news/53141887/" class="thumbnail" rel="popover" title="NSA has been exploiting American’s social connections" data-content="The NSA can identify associates, locations at certain times and other personal information --  all through your social connections. The security agency has been exploiting those links since 2010. NBC’s Michael Isikoff  reports. ">
+            <img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/nn_04mi_nsa_130929.video-260x195.jpg" >
+        </a>
+        <div class="caption">
+            <h5>NSA has been exploiting American’s social connections</h5>
+            <p>Nightly News
+            
+            <br>September 29, 2013</p>
+        </div>
+    </li>
+
+    <li class="span3">
+        <a href="http://video.msnbc.msn.com/alex-witt/53139634/" class="thumbnail" rel="popover" title="The ripple effects of a government shutdown" data-content="NBC’s Michelle Franzen talks to MSNBC’s Alex Witt about the effects the possible government shutdown will have on the country. She reports that all of the national parks and national monuments would close, hurting the economy of the surrounding areas.">
+            <img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_witt_frparks_130929.video-260x195.jpg" >
+        </a>
+        <div class="caption">
+            <h5>The ripple effects of a government shutdown</h5>
+            <p>Alex Witt
+            
+            <br>September 29, 2013</p>
+        </div>
+    </li>
+
+    <li class="span3">
+        <a href="http://www.nbcnews.com/video/nbc-news/53139354/" class="thumbnail" rel="popover" title="American daredevil pulls off spectacular flight" data-content="Wearing a wingsuit, Jeb Corliss jumps from a helicopter in China, passing through a small crack in Langshan Mountain at over 100 mph.">
+            <img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/f_dc_wingman_130929.video-260x195.jpg" >
+        </a>
+        <div class="caption">
+            <h5>American daredevil pulls off spectacular flight</h5>
+            <p>NBC News
+            
+            <br>September 29, 2013</p>
+        </div>
+    </li>
+
+    <li class="span3">
+        <a href="http://www.nbcnews.com/video/meet-the-press/53138128/" class="thumbnail" rel="popover" title="Cruz: Defund different from repeal" data-content="Sen. Ted Cruz of Texas argues about the difference between delaying and defunding the Affordable Care Act.">
+            <img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/mtp_03tcruz_repeal_130929.video-260x195.jpg" >
+        </a>
+        <div class="caption">
+            <h5>Cruz: Defund different from repeal</h5>
+            <p>Meet the Press
+            
+            <br>September 29, 2013</p>
+        </div>
+    </li>
+
+    <li class="span3">
+        <a href="http://www.nbcnews.com/video/meet-the-press/53138105/" class="thumbnail" rel="popover" title="Cruz: 'The Senate needs to act'" data-content="Sen. Ted Cruz of Texas advocates for defunding the Affordable Care Act in the battle over government funding.">
+            <img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/mtp_02tcruz_act_130929.video-260x195.jpg" >
+        </a>
+        <div class="caption">
+            <h5>Cruz: 'The Senate needs to act'</h5>
+            <p>Meet the Press
+            
+            <br>September 29, 2013</p>
+        </div>
+    </li>
+
+    </ul>
+
+              </div>
+              <!--// second tab for transcript //-->
+              <div class="tab-pane" id="transcript">
+                <h4>Sorry, we do not have a transcript available for this video at this time.</h4>
+                <div class="transcript">
+                    
+                </div>
+              </div>
+             </div>
+        </div>
+     </div>
+ </div>
+
+
+
+
+<script type="text/javascript" src="http://assets2z.msnbc.msn.com/Rendering/msnbc/html40/assets/Js/VideoCanonical.js?h=B93FECF45AB3A9CFA1ECF0FB9E84B121"></script>
+
+    <script type="text/javascript">
+      ijv.model = {"headline":"This live event has concluded","siteName":"msnbc","section":"","subSection":"","sourceName":"","sitePageId":"53022971"} ;
+    </script>
+    <script type="text/javascript">
+      videoLandingPageAnalytics().trackInitialPageView();
+    </script>
+
+
+<script src="//www.nbcnews.com/id/51579771" type="text/javascript"></script> 
+</body>
+</html>

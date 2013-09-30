@@ -1,0 +1,1826 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=90496f22ffd4b193ff4f3aa39d43d2af"></script>
+<!DOCTYPE html>
+
+<!-- 
+ _ _ _ _    _ _   _ _ _   _ _   _ _  _ _ _   _ _ _ _    _ _       _ _ _ _
+|   _   |  |   | |     | |   |/   / |     | |   _   |  |   |     |   _   |
+|  |_|  |  |   | |    _| |   |   /  |   _ | |  |_|  |  |   |     |  |_|  |
+|      -   |   | |  | _  |      -   |   _|  |      -   |   | _   |      -
+|   |   \  |   | |     | |   |   \  |     | |   |   \  |       | |   |   \
+|_ _|\_ _\ |_ _| |_ _ _| |_ _|\_ _\ |_ _ _| |_ _|\_ _\ |_ _ _ _| |_ _|\_ _\
+    
+    
+********************************
+Theme by: rickerlr.tumblr.com
+On: www.themecloud.co
+Name: LIGHTGLASS 2
+Version: 2.1
+Year: 2012 (update version: May, 2013)
+Other themes: rickerlrthemes.tumblr.com
+Twitter: @rickerlr
+********************************
+-->
+
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        
+        <meta name="color:Background" content="#000000"/>
+        <meta name="color:Icons" content="#bbbbbb"/>
+        <meta name="color:Icons Photo" content="#ffffff"/>
+        
+        <meta name="color:Text Header Description" content="#999999"/>
+        
+        <meta name="color:Icons Photo Background" content="#000000"/>
+        <meta name="color:Link" content="#ffffff"/>
+        <meta name="color:Link Hover" content="#ffffff"/>
+        <meta name="color:Link Menu" content="#999999"/>
+        
+        <meta name="color:Opacity Color Photo Effect" content="#000000"/>
+        <meta name="color:Post Background" content="#222121"/>
+        <meta name="color:Social Icons Header Background" content="#fdfdfd"/>
+        <meta name="color:Social Icons Header Color" content="#5f5f5f"/>
+        <meta name="color:Text" content="#cccccc"/>
+        <meta name="color:Title" content="#999999"/>
+        <meta name="color:Title Header" content="#f8f7f7"/>
+        
+        <meta name="image:Background image" content="" />
+        <meta name="image:Header Image" content="" />
+        
+        <meta name="font:Body" content="Helvetica Neue, 'Open sans', Arial, sans-serif"/>
+        
+        <!-- columns number -->
+        <meta name="if:2 Columns" content="0"/>
+        <meta name="if:3 Columns" content="1"/>
+        <meta name="if:4 Columns" content="0"/>
+        <meta name="if:5 Columns" content="0"/>
+        
+        <meta name="if:Border Rounded" content="0"/>
+        <meta name="if:Box Shadow" content="1"/>
+        <meta name="if:Content Full Screen" content="0"/>
+        
+        <!-- fonts -->
+        <meta name="if:Font Francois One" content="0"/>
+        <meta name="if:Font Gochi Hand" content="0"/>
+        <meta name="if:Font Indie Flower" content="0"/>
+        <meta name="if:Font Leckerli One" content="0"/>
+        <meta name="if:Font Lilita One" content="0"/>
+        <meta name="if:Font Lobster" content="0"/>
+        <meta name="if:Font Mrs Sheppards" content="0"/>
+        <meta name="if:Font Oleo Script" content="0"/>
+        <meta name="if:Font Open Sans Condensed" content="0"/>
+        <meta name="if:Font Oswald" content="0"/>
+        
+        <meta name="if:Hide Description" content="0"/>
+        <meta name="if:Infinite Scroll" content="1"/>
+        <meta name="if:Paper Effect" content="1"/>
+        <meta name="if:Show Archive Link" content="1"/>
+        <meta name="if:Show Captions" content="0"/>
+        <meta name="if:Show Menu Fixed Top" content="1"/>
+        <meta name="if:Show Random Link" content="0"/>
+        <meta name="if:Show Rss Link" content="0"/>
+        <meta name="if:Show Social Share Buttons" content="1"/>
+        <meta name="if:Tumblr Follow Button Fixed" content="0"/>
+        
+        <meta name="text:Back Top" content="Back to top" />
+        <meta name="text:Disqus Shortname" content="" />
+        <meta name="text:Footer Text" content="" />
+        <meta name="text:Google Analytics ID" content="" />
+        <meta name="text:Twitter Username" content="" />
+        <meta name="text:Twitter Widget ID" content="" />
+        
+    	<meta name="text:URL Facebook" content=""/>
+	<!--	<meta name="text:URL Flickr" content=""/>
+    	<meta name="text:URL Google Plus" content=""/>
+		<meta name="text:URL Instagram" content=""/>
+		<meta name="text:URL Pinterest" content=""/>-->
+		<meta name="text:URL Twitter" content=""/>
+        <meta name="text:URL YouTube" content=""/>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        
+        <title>Weinstein Co. | Here’s a sneak peek at Zhang Ziyi on NPR’s TELL ME...</title>
+        
+            <meta name="description" content="Here&rsquo;s a sneak peek at Zhang Ziyi on NPR&rsquo;s TELL ME MORE today, talking up her role as the proud and lethal Gong Er in #TheGrandmaster out August 30th. Zhang&rsquo;s interview airs tomorrow!" />
+        
+        <link rel="shortcut icon" href="http://25.media.tumblr.com/avatar_b979ebdd748a_128.png" />
+        <link rel="apple-touch-icon" href="http://25.media.tumblr.com/avatar_b979ebdd748a_128.png"/>
+        <link rel="alternate" type="application/rss+xml" href="http://weinsteinco.tumblr.com/rss" />
+        
+        <!--[if lt IE 9]>
+            <script src="http://static.tumblr.com/dbek3sy/A8Hmj11p2/html5shiv.js"></script>
+        <![endif]-->
+        
+        <script type="text/javascript" src="http://static.tumblr.com/dbek3sy/8Aqmgryi7/jquery_18.js"></script>
+        
+        <script src="http://static.tumblr.com/mcreuad/GJWmkxweb/modernizr-2.5.3.min.js"></script>
+        
+        <!-- css normalize -->
+        <link rel="stylesheet" src="http://static.tumblr.com/dbek3sy/B5Fmjhygj/normalize.css" />
+        
+        <!-- fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Lilita+One|Oleo+Script|Lobster|Gochi+Hand|Mrs+Sheppards|Open+Sans+Condensed:700|Leckerli+One|Francois+One|Indie+Flower' rel='stylesheet' type='text/css'>
+		<link href='http://static.tumblr.com/dbek3sy/hfwmn926m/fontello.css' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="http://static.tumblr.com/dbek3sy/oT8mjv1mr/lightglass-font.css">
+        
+        <!-- fancybox style 
+        <link rel='stylesheet' type='text/css' href="http://static.tumblr.com/dbek3sy/RJPmizo61/jquery.fancybox-1.3.4.css">-->
+        <link rel='stylesheet' type='text/css' href="http://static.tumblr.com/yl5wxhb/G8Gmq6k1k/jquery.fancybox.css">
+            
+        <!-- photoset css -->
+        <link rel="stylesheet" type="text/css" href="http://static.tumblr.com/dbek3sy/KXpmjrjgj/style.css">
+        
+        <!-- Lightglass css core -->
+        <style type="text/css">
+            
+            *{
+                -moz-box-sizing: border-box;
+                -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+                
+                -webkit-font-smoothing: antialiased;
+            }
+            
+            #fancybox-wrap{
+                box-sizing: content-box !important;
+            }
+
+                       
+            a, img{border: 0;}
+            
+            .right{float: right;}
+            .left{float: left;}
+            .clear{clear: both;}
+            
+            ul li, ol li{list-style-type: none;}
+    	
+			h1,h2,h3,h4,h5,h6{
+				color: #999999;
+				line-height: 1.1em;
+				font-weight: normal;
+                padding: 15px 15px 0px;
+                margin: 0px;
+				text-align: left;
+                font-family:Helvetica, Arial, sans-serif;
+                font-size:1.2em;
+			}
+            
+            h1 a{color: #999999;}
+
+			/*h1{font-size: 1.7em;}*/
+			h2{font-size: 1.5em;}
+			h3{font-size: 1.3em;}
+			h4{font-size: 1.2em; padding:10px 0 0 0;}
+			h5{font-size: 1.1em;}
+			h6{font-size: 1em;}
+			
+            a{
+                -webkit-transition: all 0.2s ease;
+                -moz-transition: all 0.2s ease;
+                -o-transition: all 0.2s ease;
+                transition: all 0.2s ease;
+            }
+            
+			a{
+				color:#ffffff;
+				text-decoration:none;
+			}
+            
+            a:hover{
+                color:#ffffff;
+            }
+                        
+            
+            
+            #head_description, header nav ul li,
+            #menuShow, .caption, article.posts .chat .label,
+            article.paddingPosts,
+            #backToTopButton, ul#pagination, section#footerDetails{
+                font-size: 0.8em;
+                
+            }
+            
+            body{
+                padding: 0; margin: 0;
+				font-size: 100%;
+				color: #cccccc;
+				font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+				text-align: center;
+				word-wrap: break-word;
+				background-color: #000000;
+				background-image: url(http://assets.tumblr.com/images/x.gif);
+				background-repeat: repeat;
+				background-attachment: fixed;
+				background-position: top left;
+                overflow-x: hidden;
+			}
+            
+            header#header{
+                margin: 0 auto;
+                position: relative;
+                width: -webkit-calc(100% - (20px * 2));
+                width: -moz-calc(100% - (20px * 2));
+                width: calc(100% - (20px *2));
+                text-align: center;
+            }
+            
+            header#header h1{
+                text-align: center;
+                font-size: 2.2em;
+                margin-top: 25px;
+                
+                
+                
+                
+                	
+                	
+                		
+                
+                
+                
+                
+                
+                font-weight: normal !important;
+                
+            }
+            
+            .clearing { clear:both; }
+            
+            header#header h1 a{color: #f8f7f7;}
+            
+            .nameBlog{
+                cursor: pointer;
+            }
+            
+            header#header h4{
+                text-align: center;
+                margin-bottom: 20px;
+            }
+            
+            header#header img#bannerLogo{
+                margin-top: 40px;
+                max-width: 100%;
+                height: auto;
+            }
+            
+            #subheader {
+                width:100%;
+                position:relative;
+                height:auto;
+                max-width:960px;
+                margin:50px auto;
+            }
+            
+            #head_description{
+                line-height: 1.5em;
+                border:2px solid #999;
+                padding:40px 40px 55px 40px;
+                text-align: left;
+                font-size: 0.8em;
+                line-height: 20px;
+                position:relative;
+                color: #999999;
+                
+                
+                    margin-right:340px;
+                
+            }
+            
+            #head_description #weinstein_logo {
+                width:105px;
+                height:52px;
+                position:absolute;
+                bottom: -2px;
+                left: -2px;
+                background:url('http://static.tumblr.com/yl5wxhb/S3jmq6gmq/panel_icon.jpg') no-repeat;
+            }
+                        
+            #head_description a{color:#999999;}
+            
+            #twitter_feed {
+                width:300px;
+                height:100%;
+                position:absolute;
+                top:0;
+                right:0;
+            }
+            
+            header#header #twitter_feed h1 {
+                color:#999;
+                width:100%;
+                font-family:Helvetica, Arial, sans-serif;
+                font-size:1.2em;
+                border-bottom:2px solid #999;
+                display:block;
+                text-align:left;
+                padding:0;
+                margin:0;
+                text-transform:uppercase;
+                padding-bottom:10px;
+            }
+            
+            #twitter_feed #tweets {
+                width:100%;
+                height:75%;
+                text-align:left;
+                overflow:hidden;
+                position:relative;
+            }
+            
+            #twitter_feed #tweets ul {
+                padding:0;
+                margin:0;
+                position:absolute;
+            }
+            
+            #twitter_feed #tweets ul li {
+                padding-left: 30px;
+                background:url('http://static.tumblr.com/yl5wxhb/Szymq4xi1/feed_twitter_icon.png') no-repeat 0 5px;
+            }
+            
+            #twitter_feed #tweets ul li p {
+                font-size:0.8em;
+                line-height:1.5em;
+                color:#999;
+                padding-right:10px;
+            }
+            
+            #twitter_feed a.join {
+                position:absolute;
+                bottom:0;
+                right:5px;
+                padding:0 15px;
+                font-size:0.7em;
+                background:url('http://static.tumblr.com/yl5wxhb/byTmq4xux/join_conversation.png') no-repeat left center;
+                color:#ccc;
+                font-weight:bold;
+            }
+            
+            #twitter_feed a.join:hover {
+                color:#fff;
+            }
+            
+            #header nav#socialLinks {
+                margin-top: 20px;
+                clear:both;
+            }
+            
+            #header nav#socialLinks ul{
+                margin-top: 20px;
+                padding: 0;
+            }
+            
+            #header nav#socialLinks li{
+				display:inline;
+                margin: 0px 0px;
+                padding-right:5px;
+			}
+			
+			#header nav#socialLinks li a{
+                display: inline-block;
+                width: 34px;
+                height: 33px;
+                /*line-height: 36px;
+				background-color: #fdfdfd;
+				font-size: 19px;*/
+                /*color: #5f5f5f;*/
+                
+                /*-webkit-border-radius: 20px;
+				-moz-border-radius: 20px;
+				border-radius: 20px;*/
+                background:url('http://static.tumblr.com/yl5wxhb/WS4mq50m3/social_icons.png') no-repeat center;
+                text-indent:-9999px;
+                overflow:hidden;
+                
+                
+			}
+            
+            #header nav#socialLinks li a.icon_youtube {
+                background-position: -85px 0;
+            }
+            
+            #header nav#socialLinks li a.icon_youtube:hover {
+                background-position: -85px -33px;
+            }
+            
+            #header nav#socialLinks li a.icon_facebook {
+                background-position: -43px 0;
+            }
+            
+            #header nav#socialLinks li a.icon_facebook:hover {
+                background-position: -43px -33px;
+            }
+            
+            #header nav#socialLinks li a.icon_twitter {
+                background-position: 0px 0;
+            }
+            
+            #header nav#socialLinks li a.icon_twitter:hover {
+                background-position: 0px -33px;
+            }
+			
+			#header nav#socialLinks li:first-child{margin-left:0px;}
+            
+            /*#header nav#socialLinks li a:hover{color:white !important;}
+ 			.icon-twitter:hover{background-color:#00aced !important;}
+			.icon-facebook:hover{background-color:#3b5999 !important;}
+			.icon-gplus:hover{background-color:#d84937 !important;}
+			.icon-linkedin:hover{background-color:#006699 !important;}
+			.icon-flickr:hover{background-color:#fe0084 !important;}
+			.icon-dribbble:hover{background-color:#ea4c89 !important;}
+			.icon-pinterest:hover{background-color:#c11a22 !important;}
+			.icon-instagram:hover{background-color:#1c5380 !important;}
+			.icon-behance:hover{background-color:#1769ff !important;}*/
+            
+            #menu-mobile{display:none;}
+            
+            #header nav#menu ul{margin-top: 20px;padding: 0;}
+            
+            #header nav#menu ul li{
+                display: inline;
+                margin: 0px 10px;
+            }
+            
+            #header nav#menu ul li a{
+                letter-spacing: 1px;
+                color: #999999;
+            }
+            
+            #header nav#menu ul li a:hover{
+                color: #ffffff;
+            }
+            
+            
+                .menuTop{
+                    display: none;
+                    margin-top:0px !important;
+                    width: 100%;
+                    left: 0px;
+                    position: fixed !important;
+                    top:-50px;
+                    background: rgba(34,33,33,0.93);
+                    z-index:10;
+                     
+                    
+                    
+                }
+            
+            
+            #search_bg{
+                display: none;
+                position: fixed;
+                top: 0px;
+                left: 0px;
+                width: 100%;
+                height: 100%;
+                background: rgba(0,0,0,0.7);
+                z-index: 9999;
+            }
+            
+            #search_container{
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                margin-left: -200px;
+                margin-top: -40px;
+                width: 370px;
+                height: 80px;
+                padding: 20px;
+                background: #222121;
+                
+            }
+            
+            #search_form input[type="text"]{
+                height: 40px;
+                width: 250px;
+                border: 1px solid rgba(153,153,153,0.4);
+                color: #555555;
+                margin: 0;
+                padding: 0px 8px;
+                margin-right: -5px;
+                outline: none;
+                font-size: 1em;
+                
+            }
+            
+            #search_form input[type="submit"]{
+                cursor: pointer;
+                height: 40px !important;
+                width: 80px;
+                margin: 0;
+                padding: 0px 12px;
+                background: #ffffff;
+                color: #fff;
+                border: 0;
+                font-size: 1em;
+                
+            }
+            
+            #search_form input[type="submit"]:active{
+                background: #ffffff;
+            }
+        
+            section#wrap{
+                
+                    
+                
+                
+                    width: 730px;
+                
+                margin: 0 auto;
+                overflow: visible !important;
+            }
+            
+            section#wrap{
+                position: relative;
+                text-align: left;
+            }
+            
+            /******** posts ********/
+            
+            article.posts, article.posts img.photo, article.posts .photosetPost, .audioimage, .videoPost iframe{
+                
+                
+                    width: 700px;
+                
+            }
+            
+            .tumblr_video_iframe, .tumblr_video_container{
+                height: auto !important;
+            }
+            
+            
+            
+            
+            article.posts{
+                
+                margin: 15px;
+                background-color: #222121;
+                position: relative;
+                z-index: 1;
+                
+                
+                    margin-top: 30px;
+                    padding-bottom: 15px;
+                
+            }
+
+            
+            
+             .photo-data {
+                width:100%;
+              }
+            
+            .caption{
+                padding: 00px 15px;
+                margin-top: 10px;
+				line-height: 1.5em;
+				color: #cccccc;
+			}
+            
+            .caption h1, .caption h2,
+            .caption h3, .caption h4,
+            .caption h5, .caption h6{
+                padding-left: 0px;
+                margin-bottom: 10px;
+            }
+			
+            .caption p:first-child{padding-top: 0px;}
+			.caption p{margin:5px 0 0;}
+			
+			.caption strong, .caption b{font-weight:bold;}
+			.caption i, .caption em{font-style:italic;}
+			
+			.caption blockquote, ol.notes blockquote{
+				padding-left:10px;
+                margin-right: 0;
+				border-left: 3px solid rgba(204,204,204, 0.3);
+				margin: 10px 0px;
+			}
+
+			ol.notes blockquote{
+				margin-left: 25px;
+                margin-right: 0;
+			}
+			
+			.caption ul{
+				padding-left: 25px;
+			}
+			
+			.caption ul li{
+                margin-top: 2px;
+				list-style-type: disc;
+			}
+			
+			.caption img{
+				display: block;
+				max-width: 100%;
+				height: auto;
+				margin: 10px 0px;
+                
+                
+                    display: block;
+                    margin: 15px auto;
+                
+			}
+			
+            .caption blockquote img{
+                display: inline !important;
+            }
+            
+            article.posts .photosetPost, article.posts img.photo, .videoPost{
+                position: relative;
+            }
+            
+            article.posts img.photo{
+                margin-bottom: -5px;
+                
+                    margin-bottom: -20px;
+                
+            }
+            
+            
+            
+            article.posts .photosetPost{
+               /* margin-bottom: -10px;*/
+            }
+            
+            article.posts .chat{padding: 15px 15px 0; margin: 0;}
+            
+            article.posts .chat .caption{padding: 0;}
+            
+            article.posts .chat .label{
+                font-weight:bold;
+            }
+			
+			article.posts .chat li.odd, 
+			article.posts .chat li.even{
+				-webkit-border-radius: 3px;
+				-moz-border-radius: 3px;
+				border-radius: 3px;
+                padding: 10px;
+			}
+            
+            article.posts .chat li.odd{
+                background: rgba(255,255,255,0.08);
+                color:#ffffff;
+            }
+            
+            article.posts section.answerSection{
+                    padding: 15px 15px 0;
+            }
+            
+            article.posts section.answerSection img.answerImage{
+                width: 30px;
+                margin-right: 15px;
+            }
+            
+            .asker{
+                color:#ffffff;
+                font-weight:bold;
+                text-decoration:none;
+            }
+            
+            .quest{
+                
+                    width: 625px;
+                
+                
+            }
+            
+            .quest, .quest p{margin:0px !important;}
+            
+            article.posts section.answerSection .caption{
+                padding:0;
+            }
+            
+            /* +++++ permalink page section +++++ */
+            
+            article.paddingPosts{
+                padding: 15px;
+                line-height: 1.5em;
+                position: relative;
+            }
+            
+            article.permalinkPost h2{
+                padding: 0;
+                margin-bottom: 15px;
+            }
+            
+            #paginationPost{
+                position: absolute;
+                top: 15px;
+                right: 15px;
+            }
+            
+            ol.notes{padding: 0;margin:0;}
+			
+			ol.notes .note{margin-top:7px;}
+			
+			ol.notes .avatar{
+				vertical-align: middle;
+				margin-right: 5px;
+			}
+			
+			.note.more_notes_link_container{margin-top:40px !important;}
+            
+            /* tags */
+            
+            ul#tags{
+                padding-left: 12px;
+                margin: 0px;
+            }
+            
+            ul#tags li, ul#tags li a{
+				display:inline-block;
+				height:24px;
+				line-height:24px;
+				position:relative;
+				font-size: 11px;
+				margin-top: 15px;
+			}
+			
+			ul#tags a{
+				margin-right: 30px;
+				padding:0 10px 0 12px;
+				background: #ffffff;
+				color: #222121;
+				text-decoration:none;
+                
+                -webkit-transition: all 0s ease;
+                -moz-transition: all 0s ease;
+                -o-transition: all 0s ease;
+                transition: all 0s ease;
+				
+				-webkit-border-top-right-radius: 3px;
+				-webkit-border-bottom-right-radius: 3px;
+				-moz-border-radius-topright: 3px;
+				-moz-border-radius-bottomright: 3px;
+				border-top-right-radius: 3px;
+				border-bottom-right-radius: 3px;
+			}
+			
+			ul#tags li a:before{
+				content:"";
+				float:left;
+				position:absolute;
+				top:0;
+				left:-12px;
+				width:0;
+				height:0;
+				border-color:transparent #ffffff transparent transparent;
+				border-style:solid;
+				border-width: 12px 12px 12px 0;	
+			}
+			
+			ul#tags li a:after{
+				content:"";
+				position:absolute;
+				top:10px;
+				left:0;
+				float:left;
+				width:4px;
+				height:4px;
+				-moz-border-radius:2px;
+				-webkit-border-radius:2px;
+				border-radius:2px;
+				background: rgba(0,0,0,0.2);
+			}
+			
+			ul#tags a:hover{
+				background: #ffffff;
+			}
+			
+			ul#tags a:hover:before{border-color:transparent #ffffff transparent transparent;}
+            
+            
+            /* Other tags */
+            
+            ul.tags {
+                margin-right:20px;
+                text-align:left;
+                padding:0;
+                margin:0;
+            }
+            
+            ul.tags li {
+                float:left;
+                padding-right:10px;
+            }
+            
+            footer.postControls ul.tags li a, ul.tags li a {
+                font-family:Helvetica, Arial, sans-serif;
+                font-size:0.55em;
+                color:#fff;
+                font-weight:bold;
+                text-transform:uppercase;
+                line-height:0.8em;
+                margin-left:0;
+            }
+            
+            
+            /* +++++ footer section +++++ */
+            
+            footer.postControls{
+                text-align: right;
+                font-weight:normal;
+                font-size: 1.1em;
+                padding: 15px;
+                position:relative;
+            }
+            
+            footer.postControls h4 {
+                font-size:0.7em;
+                padding:0;
+                margin:0;
+                color:#cccccc;
+            }
+            
+            footer.postControls .controlIcons {
+                position: absolute;
+                width: 15px;
+                bottom: 5px;
+                right: 10px;
+            }
+            
+            footer.postControls .controlIcons a {
+                display:block;
+                height:16px;
+            }
+            
+            footer.postControls a{
+                color: #bbbbbb;
+                margin-left: 3px;
+                font-family: 'lightglassregular';
+                font-size:0.8em;
+            }
+            
+            footer.postControls a:hover{
+                color: #ffffff;
+            }
+            
+            footer#footer{
+                margin: 50px auto;
+                width: 100%;
+            }
+            
+            #backToTopButton{
+                position: fixed;
+                text-align: center;
+                bottom: -70px;
+                right: 20px;
+                padding: 10px 20px;
+                background: #222121;
+                cursor: pointer;
+                z-index: 10;
+                
+            }
+            
+            ul#pagination {
+                padding:0;
+                margin:20px auto;
+                
+                    display: none;
+                
+            }
+            
+            ul#pagination li{
+                display: inline-block;
+                margin: 0px 10px;
+                background-color: #222121;
+                margin-left:10px;
+                
+            }
+            
+            ul#pagination li a{
+                display:block;
+                text-decoration:none;
+                color: #cccccc;
+                padding: 8px 12px;
+            }
+            .current_page span{
+                color: #222121;
+                display:block;
+                padding: 8px 12px;
+            }
+            
+            .current_page{
+                background: #ffffff !important;
+            }
+            
+            section#footerDetails{
+                margin-top: 20px;
+                line-height: 1.5em;
+            }
+            
+            #infscr-loading{
+                bottom: -35px;
+                position: absolute;
+                left: 50%;
+                margin-left:-8px;
+                width:16px;
+                height:20px;
+            }
+            
+            #infscr-loading div{
+                display: none;
+             }
+             
+             .photoPostContainer{position: relative;}
+             
+             .hd-mobile{
+                display: none;
+                position: absolute;
+                width: 60px;
+                height: 60px;
+                background: rgba(0,0,0,0.5);
+                color: #fff;
+                text-align: center;
+                line-height: 60px;
+                font-size: 0.8em;
+                top: 20px;
+                right: 20px;
+                z-index: 9999;
+                
+                
+             }
+            
+            
+            
+/************************************** MOBILE **************************************/
+
+            /* tablet landscape */
+            @media only screen
+            and (max-device-width : 1024px)
+            and (orientation : landscape) {
+                
+                html, body,  section#wrap{
+                    overflow-x: hidden !important;
+                }
+                
+                footer#footer{
+                    width: 100%;
+                }
+                
+                .postControls{
+                    font-size: 1.4em !important;
+                }
+                
+                .caption{
+                    padding-bottom: 5px;
+                }
+                
+                .chat .caption{
+                    display: inline;
+                    padding-bottom: 0px;
+                }
+                
+                .postControls, .caption{
+                    display: block !important;
+                }
+                
+                .zoomFancyTab{
+                    display: inline;
+                }
+                
+                header #showMenuMobile{
+                    display: none;
+                }
+            }
+
+            /* mobile device (phone+tablet) */
+            @media only screen and (max-width: 768px) {
+                
+                .heart_icon{display: none !important;}
+
+                section#wrap, header#header #head_description, footer#footer{
+                    width: 92% !important;
+                    width: -webkit-calc(100% - (15px * 2)) !important;
+                    width: -moz-calc(100% - (15px * 2)) !important;
+                    width: calc(100% - (15px *2)) !important;
+                    margin: 0 auto;
+                }
+                header#header{
+                    width: 100%;
+                }
+                
+                header#header img#bannerLogo{
+                    margin-top: 130px;
+                }
+                
+                header #twitter_feed {
+                    padding:20px;
+                    width:auto;
+                    height:200px;
+                    position:relative;
+                }
+                
+                 header #twitter_feed li {
+                    padding-bottom:2px;
+                }
+                
+                header#header h1{padding: 15px 0;}
+              
+                article.posts, article.posts .videoPost,
+                article.posts img.photo, article.posts .photosetPost,
+                .audioimage, .quest, .tumblr_video_container, .videoPost iframe{
+                    width: 100% !important;
+                }
+                
+                article.posts {
+                    max-width: 100% !important;
+                    margin: 15px 0px;
+                }
+
+                .videoPost iframe{
+                    height: auto;
+                }
+                
+                article.posts{
+                    float: none;
+                    margin-top: 30px;
+                }
+              
+                footer.postControls{
+                    font-size: 1.65em;
+                }
+                
+                footer.postControls .controlIcons a {
+                    height:23px;
+                }
+                
+                .caption{
+                    display: block !important;
+                    padding-bottom: 5px;
+                }
+                
+               
+                
+                .chat .caption{
+                    display: inline !important;
+                    padding-bottom: 0;
+                }
+                
+                .description_icons, .opacityColorPhotoEffect{
+                    display: none !important;
+                }
+                
+                .postControls{
+                    display: block !important;
+                }
+                
+                article.deletePaperEffect.posts:after{
+                    width: 98%;
+                    height: 3px;
+                    bottom: -3px;
+                }
+                
+                article.posts section.answerSection img.answerImage{
+                    display: none;
+                }
+                
+                #tumblr_controls, #installtheme{
+                    display: none !important;
+                }
+                
+                .zoomFancyTab{
+                  /*  display: none;*/
+                }
+                
+                /* fix header & wrap */
+                
+                #header, #wrap{
+                    position:relative;
+                    top:-60px;
+                }
+                
+                /* responsive menu */
+                
+                #search_form{display: none;}
+                
+                #menu-mobile{
+                    display:block;
+                    cursor: pointer;
+                    position: fixed !important;
+                    z-index: 9999;
+                    top: 0px;
+                    left: 0px;
+                    //display: none;
+                    width: 100%;
+                    background-color: rgba(255,255,255, 0.9);
+                }
+                
+                #menuShow{
+                    display: block;
+                    text-align: left;
+                    font-weight: bold;
+                    color: #222121;
+                    padding: 20px;
+                    background-color: #ffffff;
+                }
+                
+                #menu-mobile ul{
+                    margin:0 !important;
+                    padding: 0;
+                    display: none;
+                    
+                    -webkit-transition: all 0.3s ease;
+                    -moz-transition: all 0.3s ease;
+                    transition: all 0.3s ease;
+                    -o-transition: all 0.3s ease;
+                }
+                
+                #menu-mobile li{
+                    text-align: center;
+                    float: left;
+                    width: 50%;
+                    margin: 0 !important;
+                    font-weight: normal !important;
+                }
+                
+                menu-mobile li b, menu-mobile li strong{
+                    font-weight: normal !important;
+                }
+                
+                #search{display: none !important;}
+                
+                #menu-mobile a {
+                    color: #222121 !important;
+                    display: block;
+                    padding: 20px 0;
+                    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+                    text-decoration: none;
+                    white-space: nowrap;
+                    text-overflow: ellipsis;
+                    overflow: hidden;
+                }
+                
+                #menu-mobile li:nth-of-type(2n-1) a { border-right: 1px solid rgba(255, 255, 255, 0.1); }
+                
+                #menu{display:none !important;}
+                
+                #header nav#socialLinks ul{margin-top: 30px;}
+                
+                #header nav#socialLinks li{
+                    display:inline-block;
+                    margin-top: 10px;
+                }
+                
+                #header nav#socialLinks li a{
+                    /*width: 38px;
+                    height: 38px;
+                    line-height: 38px;
+                    font-size: 20px;
+                    
+                    -webkit-border-radius: 19px;
+                    -moz-border-radius: 19px;
+                    border-radius: 19px;*/
+                }
+                
+                .hd-mobile{display: block;}
+            }
+
+             #tumblr_controls{
+                position: absolute !important;
+                
+            }
+            
+        </style>
+        
+    
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:site_name" content="Weinstein Co." />
+<meta property="og:title" content="" />
+<meta property="og:url" content="http://weinsteinco.tumblr.com/post/58949756740/heres-a-sneak-peek-at-zhang-ziyi-on-nprs-tell-me" />
+<meta property="og:description" content="Here&rsquo;s a sneak peek at Zhang Ziyi on NPR&rsquo;s TELL ME MORE today, talking up her role as the proud and lethal Gong Er in #TheGrandmaster out August 30th.
+Zhang&rsquo;s interview airs tomorrow!" />
+<meta property="og:determiner" content="a" />
+<meta property="og:type" content="tumblr-feed:photo" />
+<meta property="og:image" content="http://31.media.tumblr.com/c1dbeadffcc588c98a848fffa94273ce/tumblr_mrwimkYNvA1rpjuixo1_1280.jpg" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+            <meta name="twitter:card" content="photo" />
+            <meta name="twitter:description" content="Here&rsquo;s a sneak peek at Zhang Ziyi on NPR&rsquo;s TELL ME MORE today, talking up her role as the proud and lethal Gong Er in #TheGrandmaster out August 30th. Zhang&rsquo;s interview airs tomorrow!" />
+            <meta name="twitter:image" content="http://31.media.tumblr.com/c1dbeadffcc588c98a848fffa94273ce/tumblr_mrwimkYNvA1rpjuixo1_500.jpg" />
+            <meta name="twitter:url" content="http://weinsteinco.tumblr.com/post/58949756740/heres-a-sneak-peek-at-zhang-ziyi-on-nprs-tell-me" />
+            <meta name="twitter:site" content="tumblr" />
+            <meta name="twitter:creator" content="WeinsteinFilms" />
+            <meta name="twitter:app:name:iphone" content="Tumblr" />
+            <meta name="twitter:app:name:ipad" content="Tumblr" />
+            <meta name="twitter:app:name:googleplay" content="Tumblr" />
+            <meta name="twitter:app:id:iphone" content="305343404" />
+            <meta name="twitter:app:id:ipad" content="305343404" />
+            <meta name="twitter:app:id:googleplay" content="com.tumblr" />
+            <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=weinsteinco&amp;postID=58949756740&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=weinsteinco&amp;postID=58949756740&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=weinsteinco&amp;postID=58949756740&amp;referrer=twitter-cards" />
+    
+
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=cf7aeb03e820314a6cb2890dfa192802"></script>
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<meta name="keywords" content="coming soon,The Weinstein Company,Zhang Ziyi,The Grandmaster" />
+
+</head>
+    
+    <body>
+        
+        
+        
+        <nav id="menu-mobile">
+                <div id="menuShow">Menu</div>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    
+                        <li><a href="/ask" >Ask us questions!</a></li>
+                    
+                    
+                    
+                        <li><a href="/archive" >Archive</a></li>
+                    
+                    
+                    
+                     
+                         
+                            <li><a href="/officalwebsite" >Official Site</a></li>
+                        
+                    
+                </ul>
+                
+            </nav>
+        
+        <header id="header">
+
+            
+                <img class="nameBlog" id="bannerLogo" src="http://static.tumblr.com/7a04a6e1d077e6c9e42f794b5e0d7f39/7nhy6eb/c0smq72zk/tumblr_static_logo.jpg">
+            
+            
+            
+            
+            <div id="subheader">
+                <div id="head_description">
+                    Welcome to The Weinstein Company, home of Fruitvale Station, The Grandmaster, Salinger, Frank Miller's Sin City: A Dame to Kill For, August: Osage County and more!<br />
+<br />
+The Weinstein Company (TWC) is a multimedia production and distribution company launched in October 2005 by Bob and Harvey Weinstein, the brothers who founded Miramax Films in 1979.
+                    <div id="weinstein_logo"></div>
+                </div>
+                
+                    <div id="twitter_feed">
+                        <h1>Tweets</h1>
+                        <div id="tweets"></div>
+                        <a href="http://www.twitter.com/WeinsteinFilms" class="join">Join Conversation</a>
+                    </div>
+                
+                <div class="clearing"></div>
+            </div>
+                <nav id="socialLinks">
+                    <ul>
+                        
+                            <li><a href="https://twitter.com/WeinsteinFilms"  class="icon_twitter"></a></li>
+                        
+                        
+                        	
+                            <li><a href="https://www.facebook.com/weinsteinco"  class="icon_facebook"></a></li>
+                        
+                        
+                        
+                        	
+                        
+                        
+                        
+                            
+                            <li><a href="http://www.youtube.com/user/TheWeinsteinCompany"  class="icon_youtube"></a></li>
+                        
+                    </ul>
+                </nav>
+            
+            
+            
+            
+            <nav id="menu">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    
+                        <li><a href="/ask" >Ask us questions!</a></li>
+                    
+                    
+                     <li><a id="search" href="javascript:void(0);">Search</a></li>
+                    
+                        <li><a href="/archive" >Archive</a></li>
+                    
+                    
+                    
+                     
+                         
+                            <li><a href="/officalwebsite" >Official Site</a></li>
+                        
+                    
+                </ul>
+                
+            </nav>
+            
+            
+                <nav id="menu-2" class="menuTop"></nav>
+            
+            
+        </header>
+        
+        <div id="search_bg">
+            <div id="search_container">
+                <a class="fancybox-close close-search" style="display: inline;top:-25px"></a>
+                <form id="search_form" action="/search" method="get">
+                    <input type="text" name="q" placeholder="Search here" value=""/>
+                    <input type="submit" value="Go"/>
+                </form>
+                <div class="clear"></div>
+            </div>
+        </div>
+
+            <section id="wrap">
+                
+                    <article id="58949756740" class="posts The Grandmaster Zhang Ziyi The Weinstein Company coming soon doneBig ">
+        
+                        
+                        
+                        
+                        
+                        
+                            <header class="photoPostContainer The Grandmaster Zhang Ziyi The Weinstein Company coming soon doneBig">
+                                <!-- <a href="http://weinsteinco.com"> -->
+                                
+                                
+                                    <img class="photo" src="http://31.media.tumblr.com/c1dbeadffcc588c98a848fffa94273ce/tumblr_mrwimkYNvA1rpjuixo1_1280.jpg" alt="Here&amp;#8217;s a sneak peek at Zhang Ziyi&nbsp;on NPR&amp;#8217;s TELL ME MORE today,&nbsp;talking up her role as the proud and lethal Gong Er in #TheGrandmaster out August 30th.&nbsp;
+Zhang&amp;#8217;s interview airs tomorrow!" style="margin-bottom: -3px;"/>
+                                
+                                <!-- </a> -->
+                            </header>
+                            
+                            
+                            
+                                <section class="caption" ><p><span class="Apple-style-span">Here&#8217;s a sneak peek at Zhang Ziyi on NPR&#8217;s TELL ME MORE today, talking up her role as the proud and lethal Gong Er in #TheGrandmaster out August 30th. </span></p>
+<p>Zhang&#8217;s interview airs tomorrow!</p></section>
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        
+                        <div class="clear"></div>
+                    </article>
+                    
+                    
+                        
+                            <article class="posts paddingPosts">
+                                
+                                    <div id="paginationPost">
+                                        <a id="paginationPost_prev" href="http://weinsteinco.tumblr.com/post/59003728113">« Prev post </a>
+                                         
+                                        <a id="paginationPost_next" href="http://weinsteinco.tumblr.com/post/58939682691"> Next post »</a>
+                                    </div>
+                                
+                                
+                                    <div id="socialButtons" style="margin-bottom: 15px;">
+                                        <div style="display:inline-block;"><g:plusone annotation="none" size="medium" href="http://weinsteinco.tumblr.com/post/58949756740/heres-a-sneak-peek-at-zhang-ziyi-on-nprs-tell-me"></g:plusone></div>
+                                        <span style="margin-left: 5px;"><a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-via="WeinsteinFilms" data-related="rickerlr" data-hashtags="tumblr">Tweet</a>
+                                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></span>
+                                        <span style="margin-left: 5px;"><iframe id="facebookiframe" src="http://www.facebook.com/plugins/like.php?locale=en_US&href=http://weinsteinco.tumblr.com/post/58949756740/heres-a-sneak-peek-at-zhang-ziyi-on-nprs-tell-me&width=48&colorscheme=light&layout=button_count" scrolling="no" frameborder='0' style="border:none; overflow:hidden; width:48px; height:20px;"></iframe></span>
+                                    </div>
+                                
+                                
+                                    Posted on <a href="/day/2013/08/21" >August 21, 2013</a><br>
+                                    
+                                    
+                                
+                                
+                                
+                                    <div class="tagContainer tagContainer_58949756740">
+                                        <h4>Tags</h4>
+                                        <ul class="tags">
+                                            
+                                                <li>
+                                                    <a href="http://weinsteinco.tumblr.com/tagged/The-Grandmaster">The Grandmaster</a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="http://weinsteinco.tumblr.com/tagged/Zhang-Ziyi">Zhang Ziyi</a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="http://weinsteinco.tumblr.com/tagged/The-Weinstein-Company">The Weinstein Company</a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="http://weinsteinco.tumblr.com/tagged/coming-soon">coming soon</a>
+                                                </li>
+                                            
+                                        </ul>
+                                        <div class="clear"></div>
+                                    </div>
+                                
+                            </article>
+                            
+                            
+                            
+                            
+                                <article class="posts permalinkPost paddingPosts">
+                                    <div id="postnotes">
+                                        
+                                            <h2>3 notes</h2>
+                                        
+                                        
+
+<ol class="notes">
+
+    <!-- START NOTES -->
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_anemptyspace without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://anemptyspace.tumblr.com/" title="An Empty Space " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_e43fa3da5250_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://anemptyspace.tumblr.com/" title="An Empty Space" rel="nofollow">anemptyspace</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_mechapilotmax without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://mechapilotmax.tumblr.com/" title="The Architect Of My Own Design " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_ac183e8e7a76_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://mechapilotmax.tumblr.com/" title="The Architect Of My Own Design" rel="nofollow">mechapilotmax</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_airbornesubmarines without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://airbornesubmarines.tumblr.com/" title="airborne submarines " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_7637ea4b8b27_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://airbornesubmarines.tumblr.com/" title="airborne submarines" rel="nofollow">airbornesubmarines</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_weinsteinco original_post without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://weinsteinco.tumblr.com/" title="Weinstein Co."><img src="http://24.media.tumblr.com/avatar_b979ebdd748a_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://weinsteinco.tumblr.com/post/58949756740">
+                                                    
+                                                            <a rel="nofollow" href="http://weinsteinco.tumblr.com/" class="tumblelog" title="Weinstein Co.">weinsteinco</a> posted this                                                                        </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+    
+    
+    <!-- END NOTES -->
+</ol>
+
+                                    </div>
+        
+                                </article>
+                            
+                        
+                    
+                
+                <div class="clear"></div>
+            </section> <!-- #wrap -->
+        
+        <div id="backToTopButton">
+            <a href="javascript:void(0);">Back to top</a>
+        </div>
+        
+        <footer id="footer" class="left">
+            
+            
+            <section id="footerDetails">
+                
+                	
+                    
+            </section>
+        </footer>
+        <div id="guid" style="display:none;">45e1d44587-djke882-665999shyya0-dopwnn1</div>
+        
+        <!-- JS functions -->
+        
+        <script type="text/javascript" src="http://static.tumblr.com/mcreuad/A7kmpqama/script.min.js"></script>
+        <!--
+            <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+            <script src="http://static.tumblr.com/dbek3sy/Riumjr4mk/jquery.migrate.min.js"></script>
+        -->
+        
+         <script src="http://static.tumblr.com/yl5wxhb/cb3mq6grn/jquery.easing.1.3.js"></script>
+        <script src="http://static.tumblr.com/yl5wxhb/c2xmq6grv/jquery.mousewheel.js"></script>
+         <script src="http://static.tumblr.com/yl5wxhb/VDpmq6kie/jquery.btscroll.js"></script>
+        
+        
+        
+        <script src="http://static.tumblr.com/yl5wxhb/C4tmq6edo/jquery.fancybox.pack.js"></script>
+        <script src="http://static.tumblr.com/dbek3sy/Rg0mjrie8/imagesloaded.min.js"></script>
+        <script src="http://static.tumblr.com/dbek3sy/OTMmjrig1/pxuphotoset.min.js"></script>
+        <script src="http://static.tumblr.com/yl5wxhb/Ouvmq4wu5/twitterfetcher_v9_min.js"></script>
+
+        <script type="text/javascript">
+            var $content = $('#wrap');
+            
+            if (Modernizr.touch){
+                
+                $('#backToTopButton').remove();
+                $(window).resize(function(){
+                    removePhotoEffectTablet();
+                    $content.masonry();
+                });
+                
+                // hide browser bar on iphone
+                addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+                function hideURLbar(){
+                    window.scrollTo(0,1);
+                }
+                
+                //load HD image on mobile..
+                $('.hd-mobile').live('click', function(){
+                    var HD_image = $(this).parent().find('.photo').attr("data-highRes");
+                    $(this).parent().find('.photo').attr('src',HD_image);
+                    $(this).fadeOut(300);
+                });
+                
+            }
+
+            $(function(){
+                
+                var $a = $('body').children('a')
+                $a.each(function(i, v) {
+                   if($(v).attr('href') == 'http://themecloud.co/themes/lightglass-2/') $(v).css({'display': 'none'}); 
+                });
+                
+                $('.like_button').live('click', function(){
+                    $(this).parent().css('color', '#cd1828');
+                });
+                
+                $("#menuShow").live("click", function(){
+                    $("#menu-mobile ul").toggle();
+                });
+                
+                $('#search').live('click', function(){
+                    $('#search_bg').fadeToggle();
+                });
+                
+                $('.close-search').live('click', function(){
+                    $('#search_bg').fadeOut();
+                });
+                
+                
+
+               /* $('.photo-slideshow').pxuPhotoset({
+                    "lightbox" : true,
+                    
+                    "rounded" : false
+                });*/
+                
+                /* ZOOM EFFECT - FANCYBOX */
+                $content.on("focusin", function(){
+                    $("a.zoomFancy, a.zoomFancyTab").fancybox({
+                        /*'transitionIn'	:	'elastic',
+                        'transitionOut'	:	'elastic',
+                        'speedIn'		:	300, 
+                        'speedOut'		:	200,
+                        'hideOnContentClick': true,
+                        'overlayShow'	:	true,*/
+                        'padding'       :   [40,0,0,0]
+                    });
+                });
+                
+                /* if internet explorer 6-7 */	
+                jQuery.each(jQuery.browser, function(i, val) {
+                    if((val=="7.0")||(val=="6.0")||(val=="8.0")){
+                        alert("You are using Internet Explorer " + val + ", please upgrade your browser.");
+                        
+                        $(window).resize(function() {
+                            $("#header").css("width", "100%").css("width", "-=40px");
+                        });
+                    }
+                });
+                
+                
+                /* return top */
+                if (!Modernizr.touch){
+                    $("#backToTopButton").click(function(){
+                        var target = $("html");  
+                        $('html, body').animate({
+                            scrollTop: target.offset().top  
+                        }, 1000);
+                    });
+                   
+                    var menu2 = $("#menu-2");
+                    menu2.html($("#menu").clone());
+                    var topDiv = $("#backToTopButton");
+                    var topDivTop = "1000";
+                    var view = $( window );
+                    view.bind("scroll resize", function(){
+                        var viewTop = view.scrollTop();
+                        
+                        if (viewTop > topDivTop){
+                            topDiv.animate({"bottom": "0px"}, {queue: false, duration: 200});
+                            
+                                menu2.show().animate({top: "0px",opacity:0.95},{queue: false, duration: 200}).fade;
+                            
+                        }
+                        else if (viewTop < topDivTop){
+                            topDiv.animate({"bottom": "-70px"}, {queue: false, duration: 200});
+                            
+                                menu2.animate({top: "-50px",opacity:0},{queue: false, duration: 150});
+                            
+                        }
+                
+                    });
+                }
+                
+                
+                /* Twitter feed */
+                
+                var scrollApi;
+                
+                twitterFetcher.fetch('350002996547051520', '', 20, true, false, false, '', false, handleTweets);
+                
+                function handleTweets(tweets){
+    	          var x = tweets.length;
+		          var n = 0;
+		          var element = document.getElementById('tweets');
+		          var html = '<ul>';
+		          while(n < x) {
+		            html += '<li>' + tweets[n] + '</li>';
+		            n++;
+		          }
+		          html += '</ul>';
+		          element.innerHTML = html;
+                  
+                  $('#tweets').BTScroll({
+                		hScroll:false,
+            			vScroll:true,
+            			vScrollbar:true,
+            			hScrollbar:false,
+                        bounce: true,
+                        bounceLock:true,
+                        topOffset:0
+            	  });
+                  
+                  scrollApi = $('#tweets').data('BTScroll');
+
+                  
+		      }
+              
+              $(window).bind('resize', function(e) {
+                  if(scrollApi) scrollApi.refresh();
+              });
+
+            });
+            
+        </script>
+        
+        
+        
+        <script type="text/javascript">
+			(function() {
+				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+				po.src = 'https://apis.google.com/js/plusone.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			})();
+		</script>
+        
+        <!-- google analytics code -->
+        
+        <script type="text/javascript">
+        
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-42569028-1']);
+          _gaq.push(['_trackPageview']);
+        
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        
+        </script>
+        
+        
+        
+    <!-- BEGIN TUMBLR CODE -->
+        
+    
+        <iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="http://assets.tumblr.com/assets/html/iframe/o.html?_v=03e46de2c31f616e91612be5ae062acd#src=http%3A%2F%2Fweinsteinco.tumblr.com%2Fpost%2F58949756740%2Fheres-a-sneak-peek-at-zhang-ziyi-on-nprs-tell-me&amp;pid=58949756740&amp;rk=6wR6DPZ6&amp;lang=en_US&amp;name=weinsteinco&amp;avatar=http%3A%2F%2F25.media.tumblr.com%2Favatar_b979ebdd748a_64.png&amp;title=Weinstein+Co.&amp;url=http%3A%2F%2Fweinsteinco.tumblr.com%2F&amp;page_slide=slide"></iframe>    <div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://www.tumblr.com/assets/html/iframe/teaser.html#src=http%3A%2F%2Fweinsteinco.tumblr.com%2Fpost%2F58949756740%2Fheres-a-sneak-peek-at-zhang-ziyi-on-nprs-tell-me&amp;pid=58949756740&amp;rk=6wR6DPZ6&amp;lang=en_US&amp;name=weinsteinco&amp;avatar=http%3A%2F%2F25.media.tumblr.com%2Favatar_b979ebdd748a_64.png&amp;title=Weinstein+Co.&amp;url=http%3A%2F%2Fweinsteinco.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div>
+
+<script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls('http://assets.tumblr.com/assets/html/iframe/follow.html?_v=1c38ddb221b64d02021cc5cc3fb77b98');
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script>
+    
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    
+        
+<iframe src="http://assets.tumblr.com/analytics.html?63fae489732da54993e4a941e42dcf5e" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380547710&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvd2VpbnN0ZWluY28udHVtYmxyLmNvbVwvcG9zdFwvNTg5NDk3NTY3NDBcL2hlcmVzLWEtc25lYWstcGVlay1hdC16aGFuZy16aXlpLW9uLW5wcnMtdGVsbC1tZSIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5In0=&U=HJOJAGHJGO&K=67097cbf9720a2b95ab1474d6743bb9af803aa222fca7bcf2adf4fd4179ea5d3&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380547710&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvd2VpbnN0ZWluY28udHVtYmxyLmNvbVwvcG9zdFwvNTg5NDk3NTY3NDBcL2hlcmVzLWEtc25lYWstcGVlay1hdC16aGFuZy16aXlpLW9uLW5wcnMtdGVsbC1tZSIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5Iiwibm9zY3JpcHQiOjF9&U=HJOJAGHJGO&K=fc470d358c91824145e68d2cca51b3fc85e57d31f6a8f81d3f9d3d8d26f53be0&R="></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380547710&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3dlaW5zdGVpbmNvLnR1bWJsci5jb21cL3Bvc3RcLzU4OTQ5NzU2NzQwXC9oZXJlcy1hLXNuZWFrLXBlZWstYXQtemhhbmcteml5aS1vbi1ucHJzLXRlbGwtbWUiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiI1ODk0OTc1Njc0MCIsImJsb2dpZCI6IjQ0OTgwMzUyIiwic291cmNlIjozM31dfQ==&U=GCAJGOKALE&K=be49f3f1ec09b1d36ffe9ba6b3fa2141996b20e77451dee571b46692f5ba2f0a&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380547710&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3dlaW5zdGVpbmNvLnR1bWJsci5jb21cL3Bvc3RcLzU4OTQ5NzU2NzQwXC9oZXJlcy1hLXNuZWFrLXBlZWstYXQtemhhbmcteml5aS1vbi1ucHJzLXRlbGwtbWUiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiI1ODk0OTc1Njc0MCIsImJsb2dpZCI6IjQ0OTgwMzUyIiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=GCAJGOKALE&K=bf9b0fe8e8344d560303ef7400aedec31ee33f3509c19707cd4e37f62949bab0&R="></noscript><!-- END TUMBLR CODE -->
+</body>
+</html>

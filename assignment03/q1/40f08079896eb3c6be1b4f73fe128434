@@ -1,0 +1,552 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Algorithm seeks meaningful relationships | Broad Institute of MIT and Harvard</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/biblio/biblio.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ckeditor/ckeditor.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/libraries/colorbox/example3/colorbox.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/google_cse/google_cse.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/broad3/tabs.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/broad3/messages.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/broad3/system-menus.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/broad3/broad3.css?6" />
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?6" />
+<![endif]-->
+  <style type="text/css" media="print">@import "/sites/all/themes/broad3/css/print.css";</style>
+  <script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.min.js?6"></script>
+<script type="text/javascript" src="/misc/drupal.js?6"></script>
+<script type="text/javascript" src="/sites/all/libraries/colorbox/colorbox/jquery.colorbox-min.js?6"></script>
+<script type="text/javascript" src="/sites/all/modules/colorbox/js/colorbox.js?6"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?6"></script>
+<script type="text/javascript" src="/sites/all/modules/broad_tag/broad_tag.js?6"></script>
+<script type="text/javascript" src="/sites/all/modules/inline_messages/js/inline_messages.js?6"></script>
+<script type="text/javascript" src="/modules/comment/comment.js?6"></script>
+<script type="text/javascript" src="/sites/all/themes/broad3/js/jquery.corner.js?6"></script>
+<script type="text/javascript" src="/sites/all/themes/broad3/js/header_noclick.js?6"></script>
+<script type="text/javascript" src="/sites/all/themes/broad3/script.js?6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "colorbox": { "transition": "elastic", "speed": 350, "opacity": "0.85", "slideshow": false, "slideshowauto": false, "slideshowspeed": 2500, "slideshowstart": "", "slideshowstop": "", "current": "{current} of {total}", "previous": "« Prev", "next": "Next »", "close": "Close", "overlayclose": true, "maxwidth": "100%", "maxheight": "100%" }, "glossary_taxonomy": [  ] });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var RecaptchaOptions = { "theme": "custom", "lang": "en", "custom_theme_widget": "recaptcha_custom_theme_widget" };
+//--><!]]>
+</script>
+  <script language="javascript">
+  	DATA_SERVER = "/";
+	
+  </script>
+  <!--[if lt IE 7]>
+  <script type="text/javascript" src="/sites/all/themes/broad3/js/belatedpng.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix(".masked-sibling");
+  </script>									 
+  <![endif]-->
+</head>
+<body class="not-front not-logged-in node-type-blog one-sidebar sidebar-left page-blog-algorithm-seeks-meaningful-relationships section-blog">
+
+  <div id="page"><div id="page-inner">
+
+    <div id="header"><div id="header-inner" class="clear-block">
+        <div id="header-inner-content">
+
+              <div id="logo-title">
+
+                      <div id="logo"><a href="/" title="Home" rel="home"><img src="/sites/all/themes/broad3/img/logo.gif" alt="Home" id="logo-image" /></a></div>
+          
+          
+          
+        </div> <!-- /#logo-title -->
+      
+    <div id="search-box">
+        <form action="/search/google"  accept-charset="UTF-8" method="get" id="google-cse-searchbox-form">
+<div><input type="hidden" name="cx" id="edit-cx" value="013899922613200862044:u9-jdl9yvg8"  />
+<input type="hidden" name="cof" id="edit-cof" value="FORID:11"  />
+<div class="form-item" id="edit-query-wrapper">
+ <input type="text" maxlength="128" name="query" id="edit-query" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-sa" value=" "  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-a31d0d4008d566d16dadf8a1281ab0da" value="form-a31d0d4008d566d16dadf8a1281ab0da"  />
+<input type="hidden" name="form_id" id="edit-google-cse-searchbox-form" value="google_cse_searchbox_form"  />
+
+</div></form>
+    </div> <!-- /#search-box -->
+      <div id="primary">
+        <ul class="links"><li class="menu-15050 first"><a href="/partnerships/partnerships" title="Academic, Industrial, Educational Partnerships">Partnerships</a></li>
+<li class="menu-625"><a href="/contribute" title="">Contribute</a></li>
+<li class="menu-626"><a href="/careers/careers" title="">Careers</a></li>
+<li class="menu-627 last"><a href="/contact" title="">Contact Us</a></li>
+</ul>      </div>
+
+      <div id="secondary">
+        <ul class="menu"><li class="expanded first set-expanded"><a href="/what-broad/our-approach/our-approach" title="">What is Broad</a><ul class="menu"><li class="leaf first"><a href="/what-broad/our-approach/our-approach" title="">Our Approach</a></li>
+<li class="leaf"><a href="/what-broad/areas-focus/areas-focus" title="">Areas of Focus</a></li>
+<li class="leaf"><a href="/history-leadership/history-leadership" title="">History &amp; Leadership</a></li>
+<li class="leaf"><a href="/what-broad/who-broad/who-broad" title="">Who is Broad</a></li>
+<li class="leaf"><a href="/what-broad/collaboration/partner-institutions-and-community" title="Partner Institutions and Community">Partner Institutions</a></li>
+<li class="leaf last"><a href="/what-broad/artist-residence-program" title="Artist-in-Residence Program ">Artist-in-Residence</a></li>
+</ul></li>
+<li class="expanded set-expanded active-trail"><a href="/news" title="">News and Publications</a><ul class="menu"><li class="leaf first"><a href="/news" title="">News &amp; Multimedia</a></li>
+<li class="leaf"><a href="/publications-search" title="">Scientific Publications</a></li>
+<li class="leaf"><a href="/news-and-publications/for-journalists" title="">For Journalists</a></li>
+<li class="leaf"><a href="/news-and-publications/journalists/annual-reports-and-brochures" title="">Annual Reports and Brochures</a></li>
+<li class="leaf active-trail"><a href="/blog_roll" title="" class="active">BroadMinded Blog</a></li>
+<li class="leaf last"><a href="/videos" title="">Video Library</a></li>
+</ul></li>
+<li class="expanded last set-expanded"><a href="/scientific-community/science" title="">For the Scientific Community</a><ul class="menu"><li class="leaf first"><a href="/scientific-community/science" title="">Science</a></li>
+<li class="leaf"><a href="/scientific-community/data" title="">Data</a></li>
+<li class="leaf last"><a href="/scientific-community/software" title="">Software</a></li>
+</ul></li>
+</ul>      </div>
+
+      
+    </div><!-- /#header-inner-content -->
+      <div id="secondary-tabs" class="clear-block">
+          <ul class="links"><li class="menu-644 first"><a href="/news" title="">News &amp; Multimedia</a></li>
+<li class="menu-645"><a href="/publications-search" title="">Scientific Publications</a></li>
+<li class="menu-646"><a href="/news-and-publications/for-journalists" title="">For Journalists</a></li>
+<li class="menu-16189"><a href="/news-and-publications/journalists/annual-reports-and-brochures" title="">Annual Reports and Brochures</a></li>
+<li class="menu-643 active-trail active"><a href="/blog_roll" title="" class="active">BroadMinded Blog</a></li>
+<li class="menu-16140 last"><a href="/videos" title="">Video Library</a></li>
+</ul> 
+      </div>
+    </div></div> <!-- /#header-inner, /#header -->
+    <div id="main"><div id="main-inner" class="clear-block">
+	      <div class="breadcrumb-outer">
+          <div class="breadcrumb"><a href="/">Home</a><span class="separator">&gt;</span><a href="/blog_roll">News & Publications:Blog</a><span class="separator">&gt;</span>Algorithm seeks meaningful relationships</div>      </div>
+              <div id="sidebar-left"><div id="sidebar-left-inner" class="region region-left">
+          <div id="block-broad_tag-4" class="block block-broad_tag region-odd odd region-count-1 count-1"><div class="block-inner">
+
+  
+  <div class="content">
+    <div class="about-blog"><img src="/files/section-blurb-images/what_is_blog.png" alt="" title="" /><h2 class="title">About this blog.</h2><div>This blog is a forum for disseminating the science, culture, and life of the Broad Institute. Reflecting the unique, collaborative community that is the Broad, you have the opportunity to hear from – and respond to – a variety of contributors. Click <a href="/node/2408">here</a> to read our Community Guidelines.
+</div></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-68" class="block block-block region-even even region-count-2 count-2"><div class="block-inner">
+
+  
+  <div class="content">
+    <div class="block-inner">
+	<h2 class="title">
+		Contributors</h2>
+	<div class="content">
+		<div class="item-list">
+			<ul class="tag-top-bloggers">
+				<li class="first">
+					<a href="/blog_roll/hbridger"> </a>
+					<div class="blogger-image-container">
+						<div class="blogger-image-mask">
+							&nbsp;</div>
+						<a href="/blog_roll/hbridger"><img alt="" class="imagecache imagecache-blogger-profile-small" height="40" src="https://www.broadinstitute.org/files/imagecache/blogger-profile-small/user-pictures/picture-15.jpg" title="" width="40" /> </a></div>
+					<a href="/blog_roll/hbridger">Haley Bridger </a> Broad Communications</li>
+				<li>
+					<a href="/blog_roll/ndavis"> </a>
+					<div class="blogger-image-container">
+						<div class="blogger-image-mask">
+							&nbsp;</div>
+						<a href="/blog_roll/ndavis"><img alt="" class="imagecache imagecache-blogger-profile-small" height="40" src="https://www.broadinstitute.org/files/imagecache/blogger-profile-small/user-pictures/picture-16.png" title="" width="40" /> </a></div>
+					<a href="/blog_roll/ndavis">Nicole Davis </a> Broad Communications</li>
+				<li>
+					<a href="/blog_roll/leah"> </a>
+					<div class="blogger-image-container">
+						<div class="blogger-image-mask">
+							&nbsp;</div>
+						<a href="/blog_roll/leah"><img alt="" class="imagecache imagecache-blogger-profile-small" height="40" src="https://www.broadinstitute.org/files/imagecache/blogger-profile-small/user-pictures/picture-13.jpg" title="" width="40" /> </a></div>
+					<a href="/blog_roll/leah">Leah Eisenstadt </a> Broad Communications</li>
+				<li>
+					<a href="/blog_roll/paulg"> </a>
+					<div class="blogger-image-container">
+						<div class="blogger-image-mask">
+							&nbsp;</div>
+						<a href="/blog_roll/paulg"><img alt="" class="imagecache imagecache-blogger-profile-small" height="40" src="https://www.broadinstitute.org/files/imagecache/blogger-profile-small/user-pictures/picture-148.jpg" title="" width="40" /> </a></div>
+					<a href="/blog_roll/paulg">Paul Goldsmith </a> Broad Communications</li>
+				<li>
+					<a href="/blog_roll/veronica"> </a>
+					<div class="blogger-image-container">
+						<div class="blogger-image-mask">
+							&nbsp;</div>
+						<a href="/blog_roll/veronica"><img alt="" class="imagecache imagecache-blogger-profile-small" height="40" src="https://www.broadinstitute.org/files/imagecache/blogger-profile-small/user-pictures/picture-142.jpg" title="" width="40" /> </a></div>
+					<a href="/blog_roll/veronica">Veronica Meade-Kelly </a> Broad Communications</li>
+			</ul>
+		</div>
+	</div>
+</div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-broad_tag-3" class="block block-broad_tag region-odd odd region-count-3 count-3"><div class="block-inner">
+
+      <h2 class="title">Recent Posts</h2>
+  
+  <div class="content">
+    <div class="view view-blog-roll view-id-blog_roll view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/blog/levi-garraway-awarded-paul-marks-prize-cancer-research">Levi Garraway awarded Paul Marks Prize for Cancer Research</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/blog/five-questions-feng-zhang">Five Questions for Feng Zhang</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/blog/editing-epigenome">Editing the epigenome</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/blog/better-living-through-proteomics">Better living through proteomics</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/blog/new-regulatory-terrain">New regulatory terrain</a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-broad_tag-1" class="block block-broad_tag region-even even region-count-4 count-4"><div class="block-inner">
+
+      <h2 class="title">Archives</h2>
+  
+  <div class="content">
+    <div class="form-item" id="tag-blog-archives-wrapper">
+ <select name="" class="form-select" id="tag-blog-archives" ><option value="">Select a month</option><option value="/blog_roll/all/2013/09">September 2013</option><option value="/blog_roll/all/2013/08">August 2013</option><option value="/blog_roll/all/2013/07">July 2013</option><option value="/blog_roll/all/2013/06">June 2013</option><option value="/blog_roll/all/2013/05">May 2013</option><option value="/blog_roll/all/2013/04">April 2013</option></select>
+</div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-broad_tag-2" class="block block-broad_tag region-odd odd region-count-5 count-5"><div class="block-inner">
+
+      <h2 class="title">Categories</h2>
+  
+  <div class="content">
+    <div class="form-item" id="tag-blog-categories-wrapper">
+ <select name="" class="form-select" id="tag-blog-categories" ><option value="" selected="selected">Select a category</option><option value="241">Events</option><option value="286">Five questions</option><option value="305">Proteomics</option><option value="317">RNAi</option><option value="336">InfoPhoto</option><option value="339">Visual</option><option value="340">Broad research</option><option value="341">Creature feature</option><option value="342">Science history</option><option value="343">Conference news</option><option value="349">Word of the day</option><option value="350">Broad researcher profile</option><option value="351">Fast facts</option><option value="352">Book reviews</option><option value="501">Artist in residence</option><option value="502">Guhapriya Ranganathan</option><option value="503">Gupi</option><option value="505">Cancer</option><option value="509">BroadE workshops</option><option value="517">Slim Initiative for Genomic Medicine</option><option value="539">Chemical Biology</option><option value="540">Population genetics</option><option value="541">admixture mapping</option></select>
+</div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-49" class="block block-block region-even even region-count-6 count-6"><div class="block-inner">
+
+  
+  <div class="content">
+    <p>
+	<a href="/blog/rss.xml"><img alt="Blog RSS feed" src="/sites/all/themes/broad3/img/icon-rss.png" style="width: 32px; height: 32px; float: left; padding-right:5px;" /></a> Subscribe to the <b>BroadMinded</b> <a href="/blog/rss.xml">RSS feed</a>
+</p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div></div> <!-- /#sidebar-left-inner, /#sidebar-left -->
+      
+            <div id="content"><div id="content-inner">
+        
+        	  
+
+
+                  <div id="content-header">
+			                          <h1 class="title">Algorithm seeks meaningful relationships</h1>
+                                                          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+			
+          <div id="node-5190" class="node node-type-blog has-images">
+    <div class="node-inner">
+                        <div class="node-info">
+            <a
+                href="http://www.broadinstitute.org/blog_roll/veronica"
+            >Veronica Meade-Kelly</a>,
+            <span>August 2nd, 2013</span> 
+                    </div>
+        <div class="blog-entry-data clear-block">
+               										<div class='images node-image-container'>
+				    	<ul class="image-container">
+				    									<li>
+																		<a href="http://www.broadinstitute.org/files/blog/images/2013/soundwaves_v4.jpg" title="Network deconvolution" class="colorbox imagefield imagefield-imagelink imagefield-field_image" rel="gallery-5190"><img src="http://www.broadinstitute.org/files/imagecache/large/blog/images/2013/soundwaves_v4.jpg" alt="" title="Network deconvolution"  class="imagecache imagecache-large" width="325" height="229" /></a>									<p>A new algorithm filters out the noise caused by spurious, indirect <br/>connections among network nodes, making it possible to pick out the <br/>most meaningful relationships within the network.<br/><i>Image by Susanna M. Hamilton, Broad Communications</i></p>								</li>
+												   	</ul>
+				    </div>
+												
+            <div><p>
+	Networks are ubiquitous these days: we use the internet to surf through a seemingly endless network of linked sites; we rely on social media to network with friends and acquaintances across the globe; and we&rsquo;ve come to look at the human body as an interconnected system of biological processes.</p>
+<p>
+	This explosion of connectivity has been both a boon and a challenge for network scientists &ndash; the brave souls who are attempting to make sense of the data being mined from these systems. They are working in the biological, social, and information sciences (and beyond), searching networks for meaningful connections that might reveal, for instance, how genes, proteins, and drugs interact inside the body, or how people influence and work with each other.</p>
+<p>
+	In the August issue of <em>Nature Biotechnology</em>, a team led by Broad associate member Manolis Kellis <a href="http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2635.html" target="_blank">introduced a new algorithm</a> that may make this work easier for network researchers in a variety of fields. The team developed a method called &ldquo;network deconvolution&rdquo; that helps researchers identify the most direct connections within complex networks by filtering out the background noise caused by indirect or incidental connections. The algorithm was designed to address a persistent challenge in network science: how to distinguish between meaningful relationships among interacting variables (or &ldquo;nodes&rdquo;) in a network, and more spurious, potentially misleading connections.</p>
+<p>
+	&ldquo;In complex systems where you may have tens of thousands of variables, you&rsquo;ll see many connections, but some of those connections are the result of indirect relationships &ndash; they only exist because the variables share a common connection with another, separate variable,&rdquo; explains Soheil Feizi, a graduate student in Kellis&rsquo;s lab and first author of the paper. &ldquo;Those indirect connections are not informative and they obscure the true network of direct relationships that researchers want to observe.&rdquo;</p>
+<p>
+	It&rsquo;s a complication that may be best understood in terms of Kevin Bacon, arguably the world&rsquo;s most popular network node. In the complex, IMDB-fueled, &ldquo;Six Degrees of Kevin Bacon&rdquo; network, Bacon would be directly connected to John Belushi and Ryan Gosling because he worked with each of the actors. But, looking objectively at the network, it might also appear that Belushi and Gosling are connected because they both worked with Bacon. In reality, the two surely never met and probably share no direct connection. Network deconvolution filters out such meaningless, indirect relationships so that researchers can focus on the important and informative connections at the heart of the network.</p>
+<p>
+	&ldquo;Indirect relationships can cause echoes that reverberate infinitely in the data,&rdquo; explains Kellis, who is also an associate professor in the Computer Science and Electrical Engineering Department at MIT. &ldquo;These create feedback within the network, make spurious connections seem substantial, and sometimes make direct connections seem disproportionately significant.&rdquo;</p>
+<p>
+	The team saw that, by transforming the network matrix, they could use a mathematical shortcut to contain the amplifying effects of those echoes. From there, they could reverse the process, getting rid of the echoes and revealing an underlying network consisting of only the most direct, informative relationships.</p>
+<p>
+	Feizi and Kellis liken the process to cleaning up a dozen audio tracks from a dozen conversations at a crowded cocktail party. Each conversation may spill into the others, but the ability to single out the voices makes it possible to strip out the ambient sound so that one clear voice can be heard.</p>
+<p>
+	&ldquo;Network deconvolution is a powerful new operation for matrices and we hope it will be widely adopted,&rdquo; Feizi says. &ldquo;It&rsquo;s intuitive and simple to program, and it allows us to essentially eliminate the noise in the network.&rdquo;</p>
+<p>
+	For their <em>Nature Biotechnology</em> paper, the scientists applied their algorithm to three distinct types of networks. They looked at gene regulatory networks to determine which genes interacted with each other within a cell. They looked at protein structures to see which amino acids from those proteins truly interacted with each other (as opposed to being related because they&rsquo;re, for instance, simply folded next to each other). The team also examined co-authorship of papers within social networks of scientists to distinguish strong collaborations from weak ones. In all three cases, the network deconvolution algorithm enabled them to identify the meaningful, direct ties in the network more effectively than previous methods.</p>
+<p>
+	The success of the method with these three disparate networks suggests that the new algorithm can be applied to an even wider range of real-world networks, as a fundamental network science tool to study a variety of complex systems.</p>
+<p>
+	Kellis says that versatility is something his lab values greatly. &ldquo;Sitting in a computer science department, working on biology, we are constantly asking, how can we think of this specific biological problem in more general terms? Can we uncover the fundamental principles hiding behind the specific problems that we set out to solve and, if we can, what are the broader implications across fields?&rdquo;</p>
+<p>
+	He says that his lab will continue to search for foundational computational methods that can be added to the toolkit scientists use to analyze networks. As more systems-level information becomes available to the researchers investigating such fields as gene regulation, social networks, or the interaction between drugs, genes, and disease, there will be a growing need for methods like network deconvolution that bring order to the complex worlds within and around us.<br />
+	&nbsp;</p>
+<p>
+	<strong><span style="line-height: 1.5;">Paper cited: </span></strong></p>
+<p>
+	<span style="line-height: 1.5;">Feizi S, <em>et al</em>. &ldquo;<a href="http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2635.html" target="_blank">Network deconvolution as a general method to distinguish direct dependencies in networks</a>.&rdquo; <em>Nature Biotechnology</em>. Online July 14, 2013. DOI: 10.1038/nbt.2635</span></p>
+</div>
+        </div>
+        <div class="node-info clear-block">
+            <div class="comment-share">
+                                	<div class="share-this-container">
+    <a class="share-this-link" href="#">Share This</a>
+    <div class="share-this-outer">
+        <div class="share-this-inner">
+            <input
+                class="close-share-this"
+                type="image"
+                width="14"
+                height="14"
+                src="/sites/all/themes/broad3/img/popup-close.png"
+            />
+            <ul class="share-this-list">
+                <li><a href="mailto:?subject=Algorithm%20seeks%20meaningful%20relationships&body=http://www.broadinstitute.org%2Fblog%2Falgorithm-seeks-meaningful-relationships" target="_blank"><img src="/sites/all/themes/broad3/img/icon-email.png"/></a></li>
+
+
+<li>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+	   var js, fjs = d.getElementsByTagName(s)[0];
+	   if (d.getElementById(id)) return;
+	   js = d.createElement(s); js.id = id;
+	   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	   fjs.parentNode.insertBefore(js, fjs);
+	 }(document, 'script', 'facebook-jssdk'));</script>
+	 <div class="fb-like" data-send="false" data-href="http://www.broadinstitute.org/blog/algorithm-seeks-meaningful-relationships"  data-layout="button_count" data-width="100" data-show-faces="false" data-font="verdana" style="padding-bottom:3px;"></div>
+
+
+
+</li>
+<li><a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://www.broadinstitute.org/blog/algorithm-seeks-meaningful-relationships">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</li
+
+<li>
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right" data-url="http://www.broadinstitute.org/blog/algorithm-seeks-meaningful-relationships"></script>
+</li>
+<li>
+<!-- Place this tag where you want the +1 button to render -->
+
+<div class="g-plusone" data-size="medium" data-href="http://www.broadinstitute.org/blog/algorithm-seeks-meaningful-relationships"></div>
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+</script>
+</li>
+            </ul>
+        </div>
+    </div>
+</div>
+                                <a
+                    class="comments-link right"
+                    href="/blog/algorithm-seeks-meaningful-relationships#comments"
+                >0 Comments</a>
+            </div>
+                            <span>&nbsp;</span>
+                    </div>
+    </div>
+</div>
+<form action="/comment/reply/5190"  accept-charset="UTF-8" method="post" id="comment-form" class="clear-block">
+<div><div class="clear-block"><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Name: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="47" value="Anonymous" class="form-text required" />
+</div>
+<div class="form-item" id="edit-mail-wrapper">
+ <label for="edit-mail">Your email: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="64" name="mail" id="edit-mail" size="47" value="" class="form-text required" />
+ <div class="description">(will not be shown on this site)</div>
+</div>
+<input type="hidden" name="form_build_id" id="form-b8dd0abeac2925590421eae65d5089ce" value="form-b8dd0abeac2925590421eae65d5089ce"  />
+<input type="hidden" name="form_id" id="edit-comment-form" value="comment_form"  />
+<fieldset class="captcha"><legend>CAPTCHA</legend><div class="description">&nbsp;</div><input type="hidden" name="captcha_sid" id="edit-captcha-sid" value="2430858"  />
+<input type="hidden" name="captcha_response" id="edit-captcha-response" value="reCAPTCHA"  />
+<div class="form-item">
+ <div id="recaptcha_custom_theme_widget"><label for="recaptcha_response_field">Re-type the two words in the box below</label>
+<input type="text" id="recaptcha_response_field" name="recaptcha_response_field" />
+<div id="recaptcha_image"></div>
+<a id="refresh-captcha" href="#">Refresh</a>
+<a class="recaptcha_only_if_image" id="switch-to-audio-captcha" href="#">Listen</a>
+<a class="recaptcha_only_if_audio" id="switch-to-image-captcha" href="#">Use Image</a>
+<span class="using-recaptcha">ReCAPTCHA &copy;</span></div><script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LdJaLoSAAAAAC1V3jsyv7keJPjQsN-FMQwU1KwW"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LdJaLoSAAAAAC1V3jsyv7keJPjQsN-FMQwU1KwW" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>
+</div>
+</fieldset>
+<div class="form-item" id="edit-comment-wrapper">
+ <label for="edit-comment">Leave a Comment: <span class="form-required" title="This field is required.">*</span></label>
+ <textarea cols="35" rows="14" name="comment" id="edit-comment"  class="form-textarea required"></textarea>
+</div>
+</div><div id="submit-wrapper" class="clear-block"><input type="submit" name="op" id="edit-submit-1" value="Submit"  class="form-submit" />
+<span id="comment-agree-terms">
+Please note: comments are held for moderation before posting. <br/>Read more in our <a href="/node/2408">Community Guidelines</a>.
+</span></div>
+</div></form>
+        </div>
+<!--
+        -->
+
+        
+      </div></div> <!-- /#content-inner, /#content -->
+
+      
+
+    </div></div> <!-- /#main-inner, /#main -->
+      <div id="footer"><div id="footer-inner" class="region region-footer">
+        <div id="footer-nav-menu" class="clear-block">
+            <ul class="menu"><li class="expanded first set-expanded"><a href="/what-broad/our-approach/our-approach" title="">What is Broad</a><ul class="menu"><li class="leaf first"><a href="/what-broad/our-approach/our-approach" title="">Our Approach</a></li>
+<li class="leaf"><a href="/what-broad/areas-focus/areas-focus" title="">Areas of Focus</a></li>
+<li class="leaf"><a href="/history-leadership/history-leadership" title="">History &amp; Leadership</a></li>
+<li class="leaf"><a href="/what-broad/who-broad/who-broad" title="">Who is Broad</a></li>
+<li class="leaf"><a href="/what-broad/collaboration/partner-institutions-and-community" title="Partner Institutions and Community">Partner Institutions</a></li>
+<li class="leaf last"><a href="/what-broad/artist-residence-program" title="Artist-in-Residence Program ">Artist-in-Residence</a></li>
+</ul></li>
+<li class="expanded set-expanded"><a href="/news" title="">News and Publications</a><ul class="menu"><li class="leaf first"><a href="/news" title="">News &amp; Multimedia</a></li>
+<li class="leaf"><a href="/publications-search" title="">Scientific Publications</a></li>
+<li class="leaf"><a href="/news-and-publications/for-journalists" title="">For Journalists</a></li>
+<li class="leaf"><a href="/news-and-publications/journalists/annual-reports-and-brochures" title="">Annual Reports and Brochures</a></li>
+<li class="leaf"><a href="/blog_roll" title="" class="active">BroadMinded Blog</a></li>
+<li class="leaf last"><a href="/videos" title="">Video Library</a></li>
+</ul></li>
+<li class="expanded set-expanded"><a href="/scientific-community/science" title="">For the Scientific Community</a><ul class="menu"><li class="leaf first"><a href="/scientific-community/science" title="">Science</a></li>
+<li class="leaf"><a href="/scientific-community/data" title="">Data</a></li>
+<li class="leaf last"><a href="/scientific-community/software" title="">Software</a></li>
+</ul></li>
+<li class="expanded"><a href="/partnerships/partnerships" title="Academic, Industrial, Educational Partnerships">Partnerships</a><ul class="menu"><li class="leaf first"><a href="/what-broad/administration/academic-affairs/academic-affairs-office" title="">Academic</a></li>
+<li class="leaf"><a href="/partnerships/education/education" title="">Educational</a></li>
+<li class="leaf last"><a href="/osap" title="">Industrial</a></li>
+</ul></li>
+<li class="leaf"><a href="/contribute" title="">Contribute</a></li>
+<li class="collapsed"><a href="/careers/careers" title="">Careers</a></li>
+<li class="leaf last"><a href="/contact" title="">Contact Us</a></li>
+</ul>    
+        </div>
+
+        
+        <div id="block-block-4" class="block block-block region-odd odd region-count-1 count-7"><div class="block-inner">
+
+  
+  <div class="content">
+    <p>
+	Copyright &copy; 2013 Broad Institute. All Rights Reserved. &nbsp;&nbsp; <a href="/privacy-policy" title="">Privacy Policy</a> &nbsp; <a href="/terms-conditions" title="">Terms &amp; Conditions</a> &nbsp; <a href="http://iwww.broadinstitute.org" title="Broad Intranet, Broad ID is required to login">Intranet</a></p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-59" class="block block-block region-even even region-count-2 count-8"><div class="block-inner">
+
+  
+  <div class="content">
+    <p>
+	&nbsp;<a href="http://www.facebook.com/broadinstitute" target="_blank"><img alt="Facebook" src="/sites/all/themes/broad3/img/facebook-16.png" style="width: 16px; height: 16px; " /></a>&nbsp;&nbsp;<a href="http://twitter.com/broadinstitute" target="_blank"><img alt="Twitter" src="/sites/all/themes/broad3/img/twitter-16.png" style="width: 16px; height: 16px; " /></a>&nbsp;&nbsp;<a href="http://www.youtube.com/broadinstitute" target="_blank"><img alt="YouTube" src="/sites/all/themes/broad3/img/youtube-16.png" style="width: 16px; height: 16px; " /></a>&nbsp;&nbsp;<a href="https://plus.google.com/u/0/106671900218501362419" target="_blank"><img alt="Google+" src="/sites/all/themes/broad3/img/gplus-16.png" style="width: 16px; height: 16px; " /></a></p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        
+      </div></div> <!-- /#footer-inner, /#footer -->
+
+  </div></div> <!-- /#page-inner, /#page -->
+
+  
+  <script type="text/javascript" src="/sites/all/modules/google_cse/google_cse.js?6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "googleCSE": { "language": "en" } });
+//--><!]]>
+</script>
+	<div style="position: absolute; display: none;" id="autocomplete-results"></div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17042794-1']);
+  _gaq.push(['_setDomainName', '.broadinstitute.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+    setTimeout(function(){
+		 var a=document.createElement("script");
+		 var b=document.getElementsByTagName("script")[0];
+		 a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0009/5289.js?"+Math.floor(new Date().getTime()/3600000);
+		 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta content="width=1080" name="viewport">
+    <meta name="ROBOTS" content="NOODP" />
+    <title>How Trello Showcased Their Mobile App with Video</title>
+    <link href="/blog/assets/application-f95f277b8a13b8b7f7201de43b99933e.css" media="all" rel="stylesheet" type="text/css" />
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="qoZTae6K1C2CO3gLKeg25xQA0PDXIkJ4Uap218x02zc=" name="csrf-token" />
+  </head>
+  <body>
+    <script src="/blog/assets/application-555376638c61faa40a7211688e07f8c4.js" type="text/javascript"></script>
+
+
+
+
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <style type='text/css'>
+
+#wistiacom_header {
+  background: white;
+  -webkit-font-smoothing: antialiased;
+  border-top: 6px solid #eceef1;
+  z-index: 100;
+  position: relative; }
+  #wistiacom_header .headcontainer {
+    z-index: 100;
+    height: 253px;
+    margin: 0 auto;
+    width: 1080px;
+    position: relative; }
+  #wistiacom_header .headcontainer #wistia-details {
+    padding-top: 115px;
+    width: 360px;
+    padding-left: 70px;
+    margin-right: 129px;
+    float: left; }
+  #wistiacom_header .headcontainer #wistia-details #title {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 34px; }
+  #wistiacom_header .headcontainer #wistia-details #title a {
+    color: #363945;
+    font-weight: 700;
+    text-decoration: none; }
+  #wistiacom_header .headcontainer #wistia-details #description {
+    font-size: 18px;
+    margin-top: 8px;
+    font-weight: 200;
+    line-height: 34px; }
+  #wistiacom_header .headcontainer #wistia-actions {
+    padding-top: 115px;
+    font-size: 15px;
+    font-weight: 500; }
+  #wistiacom_header .headcontainer #wistia-actions a {
+    text-decoration: none;
+    color: #363945; }
+  #wistiacom_header .headcontainer #wistia-actions ol {
+    padding-top: 10px;
+    padding-bottom: 10px; }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element {
+    border-top: 1px solid #cbd0d6;
+    border-bottom: 1px solid #cbd0d6;
+    padding-top: 18px;
+    padding-bottom: 11px;
+    padding-left: 17px;
+    padding-right: 95px;
+    font-weight: 700;
+    color: #363945;
+    float: left; }
+  #wistiacom_header .headcontainer #wistia-actions ol li.like {
+    padding-left: 25px;
+    padding-right: 90px; }
+  #wistiacom_header .headcontainer #wistia-actions ol li.follow {
+    padding-right: 79px; }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element .icon {
+    padding-right: 10px;
+    margin-top: -3px;
+    float: left; }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-prime {
+    border-bottom: 1px solid #cbd0d6;
+    padding-top: 17px;
+    padding-bottom: 11px;
+    padding-left: 16px;
+    font-weight: 700;
+    padding-right: 33px;
+    float: left; }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-prime .icon {
+    padding-right: 4px;
+    margin-top: -2px;
+    float: left; }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-subscribe.highlighted {
+  }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-subscribe.highlighted input{
+    border: 0px solid #eceef1;
+    left: 6px;
+    transition: left 300ms, opacity 300ms;
+    transition-timing-function: ease-in;
+    opacity: 0.3;
+    outline: 0px;
+  }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-subscribe.highlighted form{
+    border: 1px solid #cbd0d6;
+    outline: 0px;
+  }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-subscribe.active form{
+    border: 1px solid #3ea9f5;
+    outline: 0px;
+  }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-subscribe input{
+    color: #363945;
+    width: 240px;
+    font-size: 15px;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    padding: 5px 3px;
+    font-family: 'Avenir', 'Futura', sans-serif;
+    outline: 0px;
+    position: relative;
+    left: 0px;
+    opacity: 1;
+    border: 0px solid white;
+    transition: left 300ms, opacity 300ms;
+    transition-timing-function: ease-in;
+  }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-subscribe form{
+    border: 1px solid white;
+    outline: 0px;
+  }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-subscribe.active input{
+    opacity: 1;
+  }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-subscribe.highlighted #enterbutton{
+    display: inline;
+    opacity: 1;
+    transition: opacity 300ms;
+    transition-timing-function: ease-in;
+    cursor: pointer;
+  }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-subscribe #enterbutton{
+    display: none;
+    border: 0px;
+    width: 20px;
+    height: 24px;
+    padding-top: 10px;
+    right: -20px;
+    position: relative;
+    left: 23px;
+    top: 3px;
+    opacity: 0;
+    transition: opacity 300ms;
+    transition-timing-function: ease-in;
+  }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-subscribe {
+    position: relative;
+    border-bottom: 1px solid #cbd0d6;
+    padding-top: 17px;
+    padding-bottom: 11px;
+    padding-left: 20px;
+    font-weight: 700;
+    width: 349px;
+    cursor: pointer;
+    color: #cbd0d6;
+    float: left; }
+  #wistiacom_header .headcontainer #wistia-actions ol li.element-subscribe .icon {
+    padding-right: 9px;
+    margin-top: -2px;
+    float: left; }
+  #wistiacom_header #logo a {
+    position: absolute;
+    background: url("http://wistia.com/images/elements/skeletor/logo.png") no-repeat;
+    width: 220px;
+    height: 40px;
+    top: 36px;
+    left: 0; }
+  #wistiacom_header #logo a:hover {
+    background-position: 0px -40px; }
+  #wistiacom_header #nav {
+    position: absolute;
+    left: 338px; }
+    #wistiacom_header #nav ul {
+      display: inline-block;
+      *display: inline;
+      vertical-align: top;
+      zoom: 1;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      font-size: 0px; }
+      #wistiacom_header #nav ul li {
+        display: inline-block;
+        *display: inline;
+        vertical-align: top;
+        zoom: 1;
+        margin-top: -6px;
+        position: relative;
+        z-index: 0;
+        width: 130px;
+        -webkit-font-smoothing: subpixel-antialiased;
+        text-align: center;
+        border-top: 6px solid #eceef1; }
+        #wistiacom_header #nav ul li.features {
+          text-transform: uppercase; }
+          #wistiacom_header #nav ul li.features:hover {
+            border-top: 6px solid #faa928; }
+            #wistiacom_header #nav ul li.features:hover a {
+              color: #faa928; }
+        #wistiacom_header #nav ul li.pricing {
+          text-transform: uppercase; }
+          #wistiacom_header #nav ul li.pricing:hover {
+            border-top: 6px solid #f27398; }
+            #wistiacom_header #nav ul li.pricing:hover a {
+              color: #f27398; }
+        #wistiacom_header #nav ul li.learning {
+          margin-right: 92px;
+          text-transform: uppercase; }
+          #wistiacom_header #nav ul li.learning:hover {
+            border-top: 6px solid #56be8e; }
+            #wistiacom_header #nav ul li.learning:hover a {
+              color: #56be8e; }
+        #wistiacom_header #nav ul li.signup a {
+          letter-spacing: 1px; }
+          #wistiacom_header #nav ul li.signup a:hover {
+            color: #40aaef; }
+        #wistiacom_header #nav ul li.signup:hover {
+          border-top: 6px solid #40aaef; }
+        #wistiacom_header #nav ul li.login a {
+          letter-spacing: 1px; }
+          #wistiacom_header #nav ul li.login a:hover {
+            color: #0e7ac4; }
+        #wistiacom_header #nav ul li.login:hover {
+          border-top: 6px solid #0e7ac4; }
+      #wistiacom_header #nav ul a {
+        display: block;
+        padding: 46px 0px;
+        text-decoration: none;
+        font-family: "Avenir", "Futura", sans-serif;
+        font-size: 17px;
+        font-weight: 500;
+        color: #555555;
+        letter-spacing: 2px;
+        outline: none;
+        margin: 0 auto; }
+        #wistiacom_header #nav ul a img {
+          overflow: hidden;
+          width: 70px;
+          height: 50px;
+          background-position: 0px 0px; }
+</style>
+<div id='wistiacom_header' data-no-turbolink>
+  <div class='headcontainer'>
+    <div id='logo'>
+      <a href='http://wistia.com'></a>
+    </div>
+    <div id='nav'>
+      <ul>
+        <li class='features'><a href='http://wistia.com/product'>Features</a></li>
+        <li class='pricing'><a href='http://wistia.com/pricing'>Pricing</a></li>
+        <li class='learning'><a href='http://wistia.com/learning'>Learning</a></li>
+        <li class='signup'><a href='http://wistia.com/free/new'>Sign Up</a></li>
+        <li class='login'><a href='https://secure.wistia.com/login' style='padding-right: 0px'>Login</a></li>
+      </ul>
+    </div>
+    <div id='wistia-details'>
+      <div id='title'><a href="/blog">Our Blog</a></div>
+      <div id='description'>Wistia is a video marketing platform built specifically for business.</div>
+    </div>
+    <div id='wistia-actions'>
+      <ol>
+        <li class='element'>
+          <div class='icon'><a href="http://feeds.feedburner.com/wistia_blog" target="_blank"><img alt="Rss" src="/blog/assets/rss-db88b85334db55586375bcaada98e155.png" /></a></div>
+          <a href="http://feeds.feedburner.com/wistia_blog" target="_blank">RSS</a>
+        </li>
+        <li class='element like'>
+          <div class='icon'><a href="https://www.facebook.com/wistia" target="_blank"><img alt="Like" src="/blog/assets/like-d4ee27c5c6f45aedd59827d62c3bbe71.png" /></a></div>
+          <a href="https://www.facebook.com/wistia" target="_blank">Like</a>
+        </li>
+        <li class='element follow'>
+          <div class='icon'><a href="https://twitter.com/wistia" target="_blank"><img alt="Tweet" src="/blog/assets/tweet-121fcc0ff9e186770173a0deb60b401e.png" /></a></div>
+          <a href="https://twitter.com/wistia" target="_blank">Follow</a>
+        </li>
+      </ol>
+      <ol>
+        <li class='element-prime'>
+          <div class='icon'><a href="/blog/pages/submit"><img alt="Plus" src="/blog/assets/plus-97fcb93f4bb95711d0cb12e5e2747294.png" /></a></div>
+          <a href="/blog/pages/submit">Submit a Post</a>
+        </li>
+        <li class='element-subscribe'>
+          <div class='icon'><img alt="Email" src="/blog/assets/email-2b1417576ca396e3d5ea8121b13f9e0d.png" /></div>
+          <div class='icon-text'>
+            <form id='subscribe' action="http://pages.wistia.com/l/9972/2013-06-20/f5byp" method="post" style="position:absolute; top: 7px; left: 49px;">
+              <input type="text" name="email" value="Subscribe" onblur="if(this.value==''){this.value='Subscribe'};"/>
+              <button id="enterbutton" value="Enter" type="submit"></button>
+            </form>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+
+  $('.element-subscribe').mouseover(function () {
+    $(this).addClass("highlighted");
+  });
+  $('.element-subscribe').mouseout(function () {
+    if (!$("#subscribe input").is(":focus")) {
+      $('.element-subscribe').removeClass("highlighted");
+    }
+  });
+  $("#subscribe input").focus(function() {
+    $(".element-subscribe").addClass("highlighted");
+    $(".element-subscribe").addClass("active");
+    $(this).val("");
+  });
+
+  $("#subscribe input").blur(function() {
+    $(".element-subscribe").removeClass("highlighted");
+    $(".element-subscribe").removeClass("active");
+    $(this).val("Subscribe");
+  });
+
+//]]>
+</script>
+    <div id='flash'>
+    </div>
+      
+
+  <div id='tile_image'></div>
+  <div class='container'>
+  <section class='post'>
+
+  <aside>
+  <div class='author'>
+  <div id='gravatar'>
+      <img alt="0e1fa52160994696fba858bcc3a122ce.png?s=100&amp;d=http%3a%2f%2fwistia.com%2fpublic%2fguest" src="http://gravatar.com/avatar/0e1fa52160994696fba858bcc3a122ce.png?s=100&amp;d=http%3A%2F%2Fwistia.com%2Fpublic%2Fguest.png" />
+  </div>
+  <a href="/blog/authors/alyce">Alyce</a>
+</div>
+<div class='excerpt'>Alyce is Content Strategist at Wistia. She likes music, sociology, and biking, and her ultimate career goal is to become an emoji. Find her on Twitter <a href="http://www.twitter.com/notalyce" target="_blank">@notalyce</a>.</div>
+
+  <div class='share'>Share</div>
+<div class='shareButtons'>
+  <div class='icon' id='like'>
+    <img alt="Like" src="/blog/assets/like-d4ee27c5c6f45aedd59827d62c3bbe71.png" />
+    <div class='form'>
+      <div class='fb-like'data-href=http://wistia.com/blog/showcasing-your-mobile-app-video data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>
+    </div>
+  </div>
+
+  <div class='icon' id='tweet'>
+    <img alt="Tweet" src="/blog/assets/tweet-121fcc0ff9e186770173a0deb60b401e.png" />
+    <div class='form'>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-text="How Trello Showcased Their Mobile App with Video" data-via="wistia">Tweet</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+  $('aside .icon').each(function() {
+    $(this).hover(function () {
+      $(this).children('.form').stop().animate({queue: false, width: 'toggle'},250);
+    });
+  });
+
+//]]>
+</script>
+  <div class='subscribe'>Subscribe</div>
+
+<form action="http://pages.wistia.com/l/9972/2013-06-21/f5ftp" method="post" style="" class="sidebar-subscribe">
+  <input type="text" name="email" value="Your Email" />
+  <button id="enterbutton" value="Enter" type="submit"></button>
+</form>
+
+<script type="text/javascript">
+//<![CDATA[
+
+  $(".sidebar-subscribe input").focus(function() {
+    if($(this).val()=="Your Email"){
+      $(this).val("");
+      $(".sidebar-subscribe").addClass("active");
+    }
+  });
+
+  $(".sidebar-subscribe input").blur(function() {
+    if($(this).val()==""){
+      $(this).val("Your Email");
+      $(".sidebar-subscribe").removeClass("active");
+    }
+  });
+
+//]]>
+</script>
+  </aside>
+
+  <article>
+    <h4>September  4, 2013</h4>
+
+
+<h2>How Trello Showcased Their Mobile App with Video</h2>
+
+
+<div class='post-body'>
+  <table width="100%">
+<tbody>
+<tr>
+<td><img src="http://embed.wistia.com/deliveries/660bae727b17e2261d663cb08b677cd80b197064.jpg" alt="" align="left" hspace="5" vspace="5" style="padding-right: 10px;" title="Ben McCormack" class="guest" /><em><strong>Ben McCormack</strong> serves customers and makes videos for <strong><a href="http://www.trello.com" target="_blank">Trello</a></strong> at <strong><a href="http://fogcreek.com/" target="_blank">Fog Creek Software</a></strong>. Trello is an intuitive collaboration tool that organizes your projects into boards, lists, and cards. You can reach Ben at <a href="mailto:ben@benmccormack.com">ben@benmccormack.com</a>.</em></td>
+</tr>
+</tbody>
+</table>
+
+<p></p>
+
+<div id="wistia_wro14vmv77" class="wistia_embed" style="width:620px;height:377px;"><div itemprop="video" itemscope itemtype="http://schema.org/VideoObject"><meta itemprop="name" content="Fog Creek: Shooting Video of Mobile Devices" /><meta itemprop="duration" content="PT5M51S" /><meta itemprop="thumbnailUrl" content="http://embed.wistia.com/deliveries/946eb07d85c03baf9158e7556a93f884311fd5d6.bin" /><meta itemprop="contentURL" content="http://embed.wistia.com/deliveries/19cb2ecefc6f607903e97e683a6476fc0d4cd1c1.bin" /><meta itemprop="embedURL" content="http://embed.wistia.com/flash/embed_player_v2.0.swf?2013-07-03&autoPlay=false&banner=false&controlsVisibleOnLoad=false&customColor=81b7db&endVideoBehavior=reset&fullscreenDisabled=true&hdUrl%5Bext%5D=flv&hdUrl%5Bheight%5D=720&hdUrl%5Btype%5D=hdflv&hdUrl%5Burl%5D=http%3A%2F%2Fembed.wistia.com%2Fdeliveries%2Ff7e4b3878187078ef8802745c244b09a6d53771d.bin&hdUrl%5Bwidth%5D=1280&mediaDuration=351.0&playButtonVisible=true&showPlayButton=true&showPlaybar=true&showVolume=true&stillUrl=http%3A%2F%2Fembed.wistia.com%2Fdeliveries%2F946eb07d85c03baf9158e7556a93f884311fd5d6.jpg%3Fimage_crop_resized%3D620x349&unbufferedSeek=false&videoUrl=http%3A%2F%2Fembed.wistia.com%2Fdeliveries%2F19cb2ecefc6f607903e97e683a6476fc0d4cd1c1.bin" /><meta itemprop="uploadDate" content="2013-09-03T17:30:58Z" /><object id="wistia_wro14vmv77_seo" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" style="display:block;height:349px;position:relative;width:620px;"><param name="movie" value="http://embed.wistia.com/flash/embed_player_v2.0.swf?2013-07-03"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="bgcolor" value="#000000"></param><param name="wmode" value="opaque"></param><param name="flashvars" value="autoPlay=false&banner=false&controlsVisibleOnLoad=false&customColor=81b7db&endVideoBehavior=reset&fullscreenDisabled=true&hdUrl%5Bext%5D=flv&hdUrl%5Bheight%5D=720&hdUrl%5Btype%5D=hdflv&hdUrl%5Burl%5D=http%3A%2F%2Fembed.wistia.com%2Fdeliveries%2Ff7e4b3878187078ef8802745c244b09a6d53771d.bin&hdUrl%5Bwidth%5D=1280&mediaDuration=351.0&playButtonVisible=true&showPlayButton=true&showPlaybar=true&showVolume=true&stillUrl=http%3A%2F%2Fembed.wistia.com%2Fdeliveries%2F946eb07d85c03baf9158e7556a93f884311fd5d6.jpg%3Fimage_crop_resized%3D620x349&unbufferedSeek=false&videoUrl=http%3A%2F%2Fembed.wistia.com%2Fdeliveries%2F19cb2ecefc6f607903e97e683a6476fc0d4cd1c1.bin"></param><embed src="http://embed.wistia.com/flash/embed_player_v2.0.swf?2013-07-03" allowfullscreen="true" allowscriptaccess="always" bgcolor=#000000 flashvars="autoPlay=false&banner=false&controlsVisibleOnLoad=false&customColor=81b7db&endVideoBehavior=reset&fullscreenDisabled=true&hdUrl%5Bext%5D=flv&hdUrl%5Bheight%5D=720&hdUrl%5Btype%5D=hdflv&hdUrl%5Burl%5D=http%3A%2F%2Fembed.wistia.com%2Fdeliveries%2Ff7e4b3878187078ef8802745c244b09a6d53771d.bin&hdUrl%5Bwidth%5D=1280&mediaDuration=351.0&playButtonVisible=true&showPlayButton=true&showPlaybar=true&showVolume=true&stillUrl=http%3A%2F%2Fembed.wistia.com%2Fdeliveries%2F946eb07d85c03baf9158e7556a93f884311fd5d6.jpg%3Fimage_crop_resized%3D620x349&unbufferedSeek=false&videoUrl=http%3A%2F%2Fembed.wistia.com%2Fdeliveries%2F19cb2ecefc6f607903e97e683a6476fc0d4cd1c1.bin" name="wistia_wro14vmv77_html" style="display:block;height:100%;position:relative;width:100%;" type="application/x-shockwave-flash" wmode="opaque"></embed></object><noscript itemprop="description">Fog Creek: Shooting Video of Mobile Devices</noscript></div></div>
+
+<script charset="ISO-8859-1" src="http://fast.wistia.com/assets/external/E-v1.js"></script>
+
+<script>
+wistiaEmbed = Wistia.embed("wro14vmv77");
+</script>
+
+<script charset="ISO-8859-1" src="http://fast.wistia.com/embed/medias/wro14vmv77/metadata.js"></script>
+
+<p></p>
+
+<p>We've made two videos to showcase our mobile apps for Trello, and wanted to share our experience with the process. The video above shares some production techniques that we learned while setting up a camera and lighting to shoot video of a mobile device. The post below is going to cover some of the thought process that went on behind the scenes.</p>
+
+<h3>Trello for iPad</h3>
+
+<p></p>
+
+<iframe src="http://fast.wistia.net/embed/iframe/267l5f6hqj" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" width="620" height="349"></iframe>
+
+<p></p>
+
+<p>Our decision to produce a video for the launch of the Trello iPad app came after we watched the <a href="http://vimeo.com/54553882" target="_blank">Mailbox app video</a>. We learned from the Mailbox team that they produced the video in-house. Their video was amazingly successful, and was likely a major factor leading up to their <a href="http://www.businessinsider.com/qa-with-mailbox-founder-gentry-underwood-2013-5" target="_blank">eventual acquisition by Dropxbox</a>. Our aspirations weren't so ambitious, but we were encouraged to try our hand at video.</p>
+
+<p>We did the requisite Googling for "how to shoot video of mobile," but didn't find a lot of helpful information (this is surprisingly difficult. You really have to play with your search query to get results that show making video of an iPad, and not with an iPad). This meant we had to learn a lot as we went along.</p>
+
+<p>Making a video for the first time was quite challenging, but I was surprised at how quickly we were able to overcome a lot of the technical challenges and come up with a final product (I finished the editing within <a href="http://www.adobe.com/products/premiere.html" target="_blank">Premiere Pro</a>'s free trial period). There is a wealth of information available online to learn how to work with video.</p>
+
+<p><img src="http://embed.wistia.com/deliveries/887b21080bec94ab4a8ffe00ee0762b2f1f9852f.jpg" alt="" title="Behind the scenes" width="580" height="414" class="alignnone size-full wp-image-126509121" /></p>
+
+<p>Apple decided to feature the Trello iPhone app while we were still finishing up the iPad app—an amazing opportunity, but this also meant that we had to hurry to finish the video so we could release the iPad app. Given more time, we might have touched up the video some more (for example, we might have made it shorter), but it made more sense to ship what we had while we were still being featured in the App Store.</p>
+
+<h4>Additional resources from the Trello for iPad video:</h4>
+
+<ul>
+<li><a href="https://itunes.apple.com/us/app/trello/id461504587?mt=8" target="_blank">Trello App Store listing</a></li>
+<li>The <a href="https://trello.com/b/N2bztckc/trello-ipad-promo-video-public-copy" target="_blank">Trello board</a> we used to track shots and stay organized</li>
+<li>Camera we used: <a href="http://www.amazon.com/Canon-CMOS-Digital-Camera-3-Inch/dp/B002NEGTTW/" target="_blank">Canon 7D</a></li>
+<li>Camera we could have used: Canon Rebel (T2i and up) with <a href="http://www.amazon.com/Canon-50mm-1-8-Camera-Lens/dp/B00007E7JU/" target="_blank">50mm lens</a></li>
+</ul>
+
+<h3>Trello for Android</h3>
+
+<p></p>
+
+<iframe width="620" height="349" src="//www.youtube.com/embed/_b5ad_ED72w?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<p></p>
+
+<p>The first thing you'll notice about the Trello for Android video, compared to the Trello for iPad video, is that it's much more direct. The phone and app are front and center. There are no actors, and the only narrative is what you pick up from the user interface. If you're shooting your first video of a mobile device, I'd recommend leaning in the direction of how we shot the Android video. Point the camera at the device and show what it does.</p>
+
+<p>Even though the approach to this video was more simple, I still ended up having to make two videos in order to come up with something we felt we could ship. I'll admit that I was pretty proud of the <a href="http://fast.wistia.net/embed/iframe/mrg7z8gkfs?popover=true" class="wistia-popover[height=360,playerColor=81b7db,width=640]">first version of the video.</a>
+<script charset="ISO-8859-1" src="http://fast.wistia.com/static/popover-v1.js"></script> Although I learned a ton in the process, I quickly latched on to a few of the techniques that I wanted to use and had trouble distancing myself from them when I was finished.</p>
+
+<p>When you're close to your work, it's easy to get married to it and become blind to its flaws. It took some honest, hard-to-swallow criticism from colleagues to convince me to edit the video.</p>
+
+<p><img src="http://embed.wistia.com/deliveries/07a7b38adfe0e3566b970e5dc21c3ae8c905f69c.jpg" alt="" title="Editing" width="580" height="354" class="alignnone size-full wp-image-126509122" /></p>
+
+<p>The second version of the video (the version embedded above) ended up being much better, and I was glad to have made the edits. When working with video&mdash;especially when getting started&mdash;try to emotionally distance yourself from your work so that you can look at it with fresh eyes. This might mean taking a few days away from your video editor and coming back to it with a list of your original goals in hand.</p>
+
+<p>Throw away the cruft that interrupts the flow of the video, even if that means removing a scene that took you a day and a half to edit. Most importantly, be prepared to receive criticism, and try not to take it personally. Remember, the reason your friends and colleagues are giving you their honest feedback is that they, like you, ultimately want the video to succeed!</p>
+
+<h4>Additional resources from the Trello for Android video:</h4>
+
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.trello&hl=en" target="_blank">Trello for Android Google Play store listing</a></li>
+<li>Camera: Canon T4i with 50mm f1.4 lens</li>
+<li>Tripod we used: <a href="http://www.bhphotovideo.com/c/product/504845-REG/Manfrotto_055XPROB_055XPROB_Aluminum_Tripod_Legs.html" target="_blank">Manfrotto 055XPROB Legs</a> with <a href="http://www.bhphotovideo.com/c/product/944774-REG/manfrotto_mvh500ah_pro_fluid_head.html" target="_blank">Manfrotto MVH500AH Head</a></li>
+<li>Any tripod with a center column that swivels 90° would likely work (<a href="http://www.bhphotovideo.com/c/product/828712-REG/Vanguard_ALTA_PRO_263AGH_Alta_Pro_263AGH_3_Section.html" target="_blank">like this</a>)</li>
+<li>We used a <a href="http://www.amazon.com/ePhoto-Photography-Lighting-lighting-H9004S/dp/B005HFB88G/" target="_blank">cheap lighting kit from ePhoto</a>, but could've used the <a href="http://wistia.com/learning/down-dirty-lighting-kit" target="_blank">Down & Dirty Lighting Kit</a></li>
+<li><a href="http://www.amazon.com/Sargent-Art-22-4000-1-Pound-Modeling/dp/B003FGVNPM/" target="_blank">Modeling clay</a> to keep the phone in place</li>
+<li><a href="http://placeit.breezi.com/" target="_blank">PlaceIt by Breezi</a> for quick mobile screenshot mock-ups</li>
+</ul>
+
+<p>One of the benefits of creating the Trello for iPad video in-house was the experience we gained producing and editing video. We could certainly have hired someone to make the video for us, but then we would have missed out on the knowledge that eventually informed the Trello for Android video. With each video we produce, we learn something that makes the next one better.</p>
+
+<p>P.S.: Music for the Trello for Android video and top how-to video is by <a href="http://briancervino.com/" target="_blank">Brian Cervino</a>. He works at Fog Creek and also composes music.</p>
+
+<p><strong>What techniques have you used to shoot device screens effectively? How do you showcase your app with video? What companies have you seen doing a great job with this?</strong></p>
+
+</div>
+
+  <div class='tags'>
+  <b>Tags: </b>
+      <a href="/blog/tag/guest-post">guest post, </a>
+      <a href="/blog/tag/mobile-devices">mobile devices, </a>
+      <a href="/blog/tag/mobile-video">mobile video, </a>
+      <a href="/blog/tag/video-marketing">video marketing, </a>
+      <a href="/blog/tag/video-production">video production, </a>
+      <a href="/blog/tag/video-tools">video tools</a>
+</div>
+
+  </article>
+  </section>
+
+  <section class = 'footer'>
+    <div class='previous-post' style="cursor:pointer;" onclick="location.href='/blog/top-hat-tuesday-mic-placement'">
+      <img alt="Left-submit" src="/blog/assets/left-submit-aea7df7d8e70b26cd0f7209599857f56.png" />
+      <p class="previous">Previous Post</p>
+      <p class="title">Get Your Microphone as Close as Possible</p>
+    </div>
+
+    <div class='next-post' style="cursor:pointer;" onclick="location.href='/blog/non-sequitur-fridays-baldurs-gate-part-2'">
+      <img alt="Submit" src="/blog/assets/submit-5b45cc8c4b1e104ae389be9ed864fe0c.png" />
+      <p class="next">Next Post</p>
+      <p class="title">How Baldur&#x27;s Gate Shaped My Life, Part 2</p>
+    </div>
+
+  <div id="comments"></div>
+  <div id="disqus_thread"></div>
+    <div class='next-from-category'>
+  <h4><a href="/blog/categories/making-video">More from Making Video</a></h4>
+  <div class='image'>
+      <a href="/blog/top-hat-tuesday-teleprompter"><img alt="89b6e0ef776bd0037e8008fae28a309ca44237a0" src="http://embed.wistia.com/deliveries/89b6e0ef776bd0037e8008fae28a309ca44237a0.jpg" /></a>
+  </div>
+  <div class='content'>
+      <div class='series'><a href="/blog/top-hat-tuesday-teleprompter">Top Hat Tuesday</a></div>
+
+    <h2><a href="/blog/top-hat-tuesday-teleprompter">Use a Laptop and Chair as a Teleprompter</a></h2>
+
+
+    <p><a href="/blog/top-hat-tuesday-teleprompter">Speaking into a traditional teleprompter can make you sound like a robot. One way to sound more human: grab your laptop, borrow a chair, and set the two up in front of your camera. Sure, it may not look like a work of art. But...</a></p>
+  </div>
+</div>
+
+
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'wistiablog'; // required: replace example with your forum shortname
+        var disqus_url = "http://wistia.com/blog/showcasing-your-mobile-app-video/";
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </section>
+</div>
+
+    <script src="/javascripts/simplex.js" type="text/javascript"></script><script type="text/javascript">var simplex = new Simplex();</script>
+<script src="http://static.getclicky.com/66576.js" type="text/javascript"></script><noscript><p><img alt="Clicky" width="1" height="1" src="http://static.getclicky.com/66576-db9.gif" /></p></noscript>
+<script type="text/javascript">adroll_adv_id = "ESFVIUHQHJHG7IFG5ABRXN";adroll_pix_id = "6AHUGEQZ2BCRHDLBFDUA4J";(function(){var oldonload = window.onload;window.onload = function(){__adroll_loaded=true;var scr = document.createElement("script");var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");scr.setAttribute('async', 'true');scr.type = "text/javascript";scr.src = host + "/j/roundtrip.js";document.documentElement.firstChild.appendChild(scr);if(oldonload){oldonload()}};}());</script>
+<script src="//d1nu2rn22elx8m.cloudfront.net/performable/pax/6fK5hD.js" type="text/javascript"></script> 
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-535854-7']);
+  _gaq.push(['_setDomainName', 'wistia.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script type="text/javascript">
+piAId = '10972';
+piCId = '3781';
+
+(function() {
+  function async_load(){
+    var s = document.createElement('script'); s.type = 'text/javascript';
+    s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+    var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+  }
+  if(window.attachEvent) { window.attachEvent('onload', async_load); }
+  else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+
+    <script type="text/javascript">
+piAId = '10972';
+piCId = '45024';
+
+(function() {
+  function async_load(){
+    var s = document.createElement('script'); s.type = 'text/javascript';
+    s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+    var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+  }
+  if(window.attachEvent) { window.attachEvent('onload', async_load); }
+  else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+
+  </body>
+</html>

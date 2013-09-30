@@ -1,0 +1,951 @@
+
+<!DOCTYPE html>
+<html id="ctl00_Html1" lang="en-us" dir="ltr">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><meta http-equiv="X-UA-Compatible" content="IE=8" />
+	
+	<!-- robots -->
+	
+	
+	<!-- page title - overridden by asp:content on pages or page layouts -->
+	<title>
+	
+	UNCCD
+	
+		 - &#160;
+	
+
+</title>
+	
+	<!-- favicon -->
+	<link rel="shortcut icon" href="/Style Library/UNCCD/Styles/favicon.ico" type="image/vnd.microsoft.icon" />
+	
+	<!-- all OOTB css -->
+	<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Themable/Core%20Styles/controls.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/UNCCD/styles/highlightsDisplay.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/corev4.css?rev=3TRomkG1g2gMGz4rekMIQg%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/UNCCD/Styles/style.css"/>
+
+	
+	<!-- page manager interacts with script and the sharepoint object model -->
+	
+	
+	<!-- unified logging service -->
+	
+	
+	<!-- identifies to scripting elements that this is a v4 master page. required for scrolling? -->
+	<script type="text/javascript">
+		var _fV4UI = true;
+	</script>
+	
+	<!-- load SharePoint javascript -->
+	<script type="text/javascript">
+// <![CDATA[
+document.write('<script type="text/javascript" src="/_layouts/1033/init.js?rev=7rurhilS20pNrVcviE3PbA%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/ScriptResource.axd?d=wvZV09cDOsCZ6uPitdi5qiEXi9rS77rFwnlnAN9cbgdDHJuPDm4jZr6-tz719uKF-TEWNRzbzxwHz9tocKl2eNCSb31gfytP6-fysGiFiQqDXMaM9mePPWZVokPgbL4AzPEHuePRxNnBaHgqTw4voaMhe4k1&amp;t=ffffffffb868b5f4"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D"></' + 'script>');
+// ]]>
+</script>
+
+	
+    <script src="../../../_layouts/UNCCD/Carousel/Scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
+		
+	<!-- link to our custom css  -->
+	
+	
+	<script type="text/javascript">
+		function ProcessImn(){}
+		function ProcessImnMarkers(){}	
+	</script>
+	
+	<!-- additional header delegate control -->
+	<span></span>
+	
+	<!-- additional header placeholder - overridden by asp:content on pages or page layouts -->
+	
+	
+    
+	
+
+	<!-- microsoft says these should always be inside the head tag. -->
+   	<style type="text/css">
+	.s4-skipribbonshortcut { display:none; }
+
+</style></head>
+
+<body onload="javascript:_spBodyOnLoadWrapper();">
+
+<form name="aspnetForm" method="post" action="Land-DegradationNeutralWorld.aspx" id="aspnetForm">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x90D8468204B98459AB7EDCB5B1632519A99D81F0965212E7CE188BC58B7C39998D1321499CA918CE1AF97712A5B2F456C5A7E1709ECDA9632C7F0FF80F786148,30 Sep 2013 13:28:06 -0000" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="_maintainWorkspaceScrollPosition" id="_maintainWorkspaceScrollPosition" value="0" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4MjM3NDc5NjIPZBYCZg9kFgICAQ9kFgQCAQ9kFgICBg9kFgJmD2QWAgIBD2QWAgIBDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTE0LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAIDD2QWGAIDD2QWDAUmZ180YWRjMGRkOV80M2U5XzQ0ZWJfOGZlYl9jOTY1NmIxMzUwMmEPZBYEZg8WAh4HVmlzaWJsZWhkAgEPFgIfAWhkBSZnXzVjNDUxNTIyX2U3ZTVfNDhjZl9iYTQxX2UzMzI3NmU5OGU5NA9kFgRmDxYCHwFoZAIBDxYCHwFoZAUmZ180NTk1ZmUyZF9jZmFiXzQ2NjZfODVmY19lZWFhMjViZDRkZmMPZBYCZg9kFgYCAQ8WAh4EVGV4dAUKV2hhdCdzIE5ld2QCAw8UKwACDxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AgpkZBYCZg9kFgYCAQ9kFgRmDxUDAzIzNERSZXBvcnQgb2YgQ09QIDExOiBEaWFsb2d1ZSBzZXNzaW9uIHdpdGggQ1NPcyBhbmQgQ1NUIHJlY29tbWVuZGF0aW9uc/kB4oCLRGVsZWdhdGVzIGNvbnZlbmVkIGluIHBsZW5hcnkgZm9yIGFuIG9wZW4gc2Vzc2lvbiB3aXRoIGNpdmlsIHNvY2lldHkgb3JnYW5pemF0aW9ucy4gQ1NUIG1ldCBpbiBhbiBldmVuaW5nIHNlc3Npb24gYW5kIGFkb3B0ZWQgaXRzIHJlY29tbWVuZGF0aW9ucyBhbmQgcmVwb3J0LCBhZnRlciB3aGljaCBDT1AgbWV0IHRvIGNvbnNpZGVyIHRoZSByZWNvbW1lbmRhdGlvbnMgYW5kIGFkb3B0IGRlY2lzaW9ucyByZWxhdGluZyB0byBDU1QuZAIBDxUBAzIzNGQCAg9kFgRmDxUDAzIyNktSZXBvcnQgb2YgdGhlIGRheTogc25hcHNob3Qgb2YgdGhlIENPVywgQ09QICYgQ1NUIGZyb20gVHVlc2RheSAxNyBTZXB0ZW1iZXKkAU9uIFR1ZXNkYXkgMTcgU2VwdGVtYmVyLCB0aGUgQ2hhaXIgb2YgdGhlIENvbW1pdHRlZSBmb3IgdGhlIFdob2xlIChDT1cpLCBDaGVuY2h1IE5PUkJVIG9mIEJodXRhbiBvcGVuZWQgdGhlIHBsZW5hcnkgc2Vzc2lvbiB3aXRoIHRoZSBhZG9wdGlvbiBvZiB0aGUgbW9ybmluZyBhZ2VuZGEuZAIBDxUBAzIyNmQCAw9kFgRmDxUDAzIxNlPigItVTkNDRCBFeHBlcnQgTWVldGluZyBDYWxscyBmb3IgVGFyZ2V0cyBvbiBMYW5kIHRvIFN0aW11bGF0ZSBBY3Rpb24gb24gdGhlIEdyb3VuZP0BMjcvMDYvMjAxMywgU2VvdWwsIFJlcHVibGljIG9mIEtvcmVhIOKAkyBMYW5kIGFuZCBzb2lsIGV4cGVydHMgZnJvbSBhcm91bmQgdGhlIHdvcmxkIHRvZGF5IGNhbGxlZCBvbiB0aGUgaW50ZXJuYXRpb25hbCBjb21tdW5pdHkgdG8gc2V0IG5hdGlvbmFsLCByZWdpb25hbCBhbmQgaW50ZXJuYXRpb25hbCB0YXJnZXRzIHRvIGFkZHJlc3MgZGVzZXJ0aWZpY2F0aW9uLCBsYW5kIGRlZ3JhZGF0aW9uIGFuZCBkcm91Z2h0IGF0IGFsbCBsZXZlbHMuIGQCAQ8VAQMyMTZkAgUPDxYCHwFnZBYEAgEPFCsAAmRkZAIDDxBkZBYBZmQFJmdfMWZmMjI3NWFfZjMwMV80NGQxXzg3MTNfYzM0NTgwNzUzYzRhD2QWBGYPFgIfAWhkAgEPFgIfAWhkBSZnXzE0M2M0NmU0X2M5OGFfNDdlNl9iYjY4XzM2ZTFhNzkzM2I3ZQ9kFgJmD2QWBAIBDxYCHwIFDUZvbGxvdyB1cyBvbjpkAgMPFgQeDERhdGFTb3VyY2VJRGQfBAIEFggCAQ9kFgICAQ8PFgQeC05hdmlnYXRlVXJsBR8vZW4vbWVkaWEtY2VudGVyL1BhZ2VzL1JTUy5hc3B4HgdUb29sVGlwBQNSU1NkFgJmDxUBajxpbWcgYWx0PSJyc3MiIHNyYz0iL1B1Ymxpc2hpbmdJbWFnZXMvV2VicGFydHMvc29jaWFsbmV0d29ya3MvYnV0dG9uX3Jzcy5wbmciIHN0eWxlPSJCT1JERVI6IDBweCBzb2xpZDsgIj5kAgIPZBYCAgEPDxYEHwYFJGh0dHA6Ly93d3cueW91dHViZS5jb20vdXNlci90aGVVTkNDRB8HBQhZb3UgdHViZWQWAmYPFQFzPGltZyBhbHQ9InlvdSB0dWJlIiBzcmM9Ii9QdWJsaXNoaW5nSW1hZ2VzL1dlYnBhcnRzL3NvY2lhbG5ldHdvcmtzL2J1dHRvbl95b3V0dWJlLnBuZyIgc3R5bGU9IkJPUkRFUjogMHB4IHNvbGlkOyAiPmQCAw9kFgICAQ8PFgQfBgUbaHR0cDovL3R3aXR0ZXIuY29tLyMhL1VOQ0NEHwcFB1R3aXR0ZXJkFgJmDxUBcjxpbWcgYWx0PSJ0d2l0dGVyIiBzcmM9Ii9QdWJsaXNoaW5nSW1hZ2VzL1dlYnBhcnRzL3NvY2lhbG5ldHdvcmtzL2J1dHRvbl90d2l0dGVyLnBuZyIgc3R5bGU9IkJPUkRFUjogMHB4IHNvbGlkOyAiPmQCBA9kFgICAQ8PFgQfBgVeaHR0cDovL3d3dy5mYWNlYm9vay5jb20vcGFnZXMvVW5pdGVkLU5hdGlvbnMtQ29udmVudGlvbi10by1Db21iYXQtRGVzZXJ0aWZpY2F0aW9uLzE0Nzg4ODM1OTA4NB8HBQhGYWNlYm9va2QWAmYPFQF0PGltZyBhbHQ9ImZhY2Vib29rIiBzcmM9Ii9QdWJsaXNoaW5nSW1hZ2VzL1dlYnBhcnRzL3NvY2lhbG5ldHdvcmtzL2J1dHRvbl9mYWNlYm9vay5wbmciIHN0eWxlPSJCT1JERVI6IDBweCBzb2xpZDsgIj5kBSZnXzY1OTgyNGQ5Xzg4NTdfNGI5Ml84ZTFhXzE2M2ZiNTE1MmM0MA8PZGRkAgcPZBYCAgIPFgQfBWQfBAL/////D2QCCQ9kFgICAQ9kFgICAQ9kFgICAw8PZBYEHgdvbmZvY3VzBUJpZiAodGhpcy52YWx1ZSA9PSAnRW50ZXIgeW91ciBzZWFyY2ggY3JpdGVyaWEnKSB7dGhpcy52YWx1ZSA9ICcnO30eBm9uYmx1cgVCaWYgKHRoaXMudmFsdWUgPT0gJycpIHt0aGlzLnZhbHVlID0gJ0VudGVyIHlvdXIgc2VhcmNoIGNyaXRlcmlhJzt9ZAITD2QWBGYPZBYEAgEPFgIfAWgWAmYPZBYEAgIPZBYGAgEPFgIfAWhkAgMPFggeE0NsaWVudE9uQ2xpY2tTY3JpcHQFowFqYXZhU2NyaXB0OkNvcmVJbnZva2UoJ1Rha2VPZmZsaW5lVG9DbGllbnRSZWFsJywxLCA1MywgJ2h0dHA6XHUwMDJmXHUwMDJmd3d3LnVuY2NkLmludFx1MDAyZmVuXHUwMDJmcHJvZ3JhbW1lc1x1MDAyZlJpb0NvbnZlbnRpb25zXHUwMDJmUmlvUGx1czIwJywgLTEsIC0xLCAnJywgJycpHhhDbGllbnRPbkNsaWNrTmF2aWdhdGVVcmxkHihDbGllbnRPbkNsaWNrU2NyaXB0Q29udGFpbmluZ1ByZWZpeGVkVXJsZB4MSGlkZGVuU2NyaXB0BSJUYWtlT2ZmbGluZURpc2FibGVkKDEsIDUzLCAtMSwgLTEpZAIFDxYCHwFoZAIDDw8WCh4JQWNjZXNzS2V5BQEvHg9BcnJvd0ltYWdlV2lkdGgCBR4QQXJyb3dJbWFnZUhlaWdodAIDHhFBcnJvd0ltYWdlT2Zmc2V0WGYeEUFycm93SW1hZ2VPZmZzZXRZAusDZGQCAw9kFgICAQ9kFgICAw9kFgICAQ88KwAFAQAPFgIeD1NpdGVNYXBQcm92aWRlcgURU1BTaXRlTWFwUHJvdmlkZXJkZAIBD2QWBgIFD2QWAgIBDxAWAh8BaGQUKwEAZAIHD2QWAmYPZBYCZg8UKwADZGRkZAIJDw8WAh8BaGRkAhkPZBYIAgIPZBYCAgEPZBYKAgEPZBYCAgEPDxYCHwYFFi9lbi9QYWdlcy9Db250YWN0LmFzcHhkZAIDD2QWAgIBDw8WBB8CBQpLZXkgdG9waWNzHwYFHi9lbi9wcm9ncmFtbWVzL1BhZ2VzL2hvbWUuYXNweGRkAgUPZBYCAgEPDxYEHwIFI1N5bmVyZ2llcyBhbW9uZyB0aGUgUklPIENvbnZlbnRpb25zHwYFMC9lbi9wcm9ncmFtbWVzL1Jpb0NvbnZlbnRpb25zL1BhZ2VzL2RlZmF1bHQuYXNweGRkAgcPZBYCAgEPDxYEHwIFG1VOQ0NEIGluIHRoZSBSaW8rMjAgUHJvY2Vzcx8GBTovZW4vcHJvZ3JhbW1lcy9SaW9Db252ZW50aW9ucy9SaW9QbHVzMjAvUGFnZXMvZGVmYXVsdC5hc3B4ZGQCCQ9kFgICAQ8WAh8CBR5MYW5kLURlZ3JhZGF0aW9uIE5ldXRyYWwgV29ybGRkAg4PZBYKAgcPFgIfAAsrBAFkAgkPFgIfAAsrBAFkAgsPFgIfAAsrBAFkAg0PFgIfAAsrBAFkAg8PFgIfAAsrBAFkAhAPZBYCZg8WAh8CBQxRdWljayBhY2Nlc3NkAhIPZBYCAgIPFgQfBWQfBAIHFg4CAQ9kFgICAQ8PFgQfBgUcaHR0cDovL2dsb2JhbC1tZWNoYW5pc20ub3JnLx8HBRBHbG9iYWwgTWVjaGFuaXNtZBYCZg8VAZYBPGEgaHJlZj0iaHR0cDovL2dsb2JhbC1tZWNoYW5pc20ub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgYWx0PSIiIHNyYz0iL1B1Ymxpc2hpbmdJbWFnZXMvVU5DQ0QvTG9nb3MvR00lMjBrbGVpbi5wbmciIHN0eWxlPSJCT1JERVI6IDBweCBzb2xpZDsgIj48L2E+ZAICD2QWAgIBDw8WBB8GBRtodHRwOi8vd3d3LnVuY2NkLXByYWlzLmNvbS8fBwUFUHJhaXNkFgJmDxUBWDxpbWcgYWx0PSJQcmFpcyIgc3JjPSIvUHVibGlzaGluZ0ltYWdlcy9VTkNDRC9wcmFpczEwMC5qcGciIHN0eWxlPSJCT1JERVI6IDBweCBzb2xpZDsgIj5kAgMPZBYCAgEPDxYEHwYFF2h0dHA6Ly91bmRkZC51bmNjZC5pbnQvHwcFBVVOREREZBYCZg8VAVw8aW1nIGFsdD0iVU5EREQiIHNyYz0iL1B1Ymxpc2hpbmdJbWFnZXMvVU5DQ0QvVU5ERERsb2dvMTAwLmpwZyIgc3R5bGU9IkJPUkRFUjogMHB4IHNvbGlkOyAiPmQCBA9kFgICAQ8PFgQfBgVDL2VuL3Byb2dyYW1tZXMvRXZlbnQtYW5kLWNhbXBhaWducy9XRENEL1dEQ0QyMDEzL1BhZ2VzL2RlZmF1bHQuYXNweB8HBSNXb3JsZCBEYXkgdG8gQ29tYmF0IERlc2VydGlmaWNhdGlvbmQWAmYPFQFlPGltZyBhbHQ9IldvcmxkIERheSIgc3JjPSIvUHVibGlzaGluZ0ltYWdlcy9VTkNDRC91bmNjZF93b3JsZGRheTEwMC5qcGciIHN0eWxlPSJCT1JERVI6IDBweCBzb2xpZDsgIj5kAgUPZBYCAgEPDxYEHwYFGmh0dHA6Ly9lbGQtaW5pdGlhdGl2ZS5vcmcvHwcFIVRoZSBFY29ub21pY3Mgb2YgTGFuZCBEZWdyYWRhdGlvbmQWAmYPFQFqPGltZyBhbHQ9IiIgc3JjPSIvUHVibGlzaGluZ0ltYWdlcy9tYXN0ZXJwYWdlL3F1aWNrYWNjZXNzL2VsZF9zdGFydF9sb2dvLnBuZyIgc3R5bGU9IkJPUkRFUjogMHB4IHNvbGlkOyAiPmQCBg9kFgICAQ8PFgQfBgU3L2VuL3Byb2dyYW1tZXMvQ2FwYWNpdHktYnVpbGRpbmcvQ0JXL1BhZ2VzL2RlZmF1bHQuYXNweB8HBR1DYXBhY2l0eSBCdWlsZGluZyBNYXJrZXRwbGFjZWQWAmYPFQGIATxpbWcgYWx0PSIiIHNyYz0iL1B1Ymxpc2hpbmdJbWFnZXMvVU5DQ0QvQ2FwYWNpdHklMjBCdWlsZGluZyUyME1hcmtldHBsYWNlL0NhcGFjaXR5QnVpbGRpbmdNYXJrZXRwbGFjZS5qcGciIHN0eWxlPSJCT1JERVI6IDBweCBzb2xpZDsgIj5kAgcPZBYCAgEPDxYEHwYFRy9lbi9hYm91dC10aGUtY29udmVudGlvbi9UaGUtU2VjcmV0YXJpYXQvUGFnZXMvQ2hhbmd3b24tSW5pdGlhdGl2ZS5hc3B4HwcFFENoYW5nd29uZy1Jbml0aWF0aXZlZBYCZg8VAVM8aW1nIGFsdD0iIiBzcmM9Ii9QdWJsaXNoaW5nSW1hZ2VzL1VOQ0NEL0xvZ29zL0NJLnBuZyIgc3R5bGU9IkJPUkRFUjogMHB4IHNvbGlkOyAiPmQCHQ9kFgICAQ9kFgJmD2QWAgIDD2QWAgIFDw8WBB4GSGVpZ2h0GwAAAAAAAHlAAQAAAB4EXyFTQgKAAWQWAgIBDzwrAAkBAA8WBB4NUGF0aFNlcGFyYXRvcgQIHg1OZXZlckV4cGFuZGVkZ2RkAh8PZBYCAgIPFgQfBWQfBAIEFggCAQ9kFgICAQ8PFgQfBgUfaHR0cDovL3d3dy5ncmVlbmluZ3RoZWJsdWUub3JnLx8HBQ9ncmVlbmluZ3RoZWJsdWVkFgJmDxUBejxpbWcgYWx0PSJncmVlbmluZyB0aGUgYmx1ZSIgc3JjPSIvUHVibGlzaGluZ0ltYWdlcy9tYXN0ZXJwYWdlL3dlc3VwcG9ydC9ncmVlbmluZ3RoZWJsdWUuZ2lmIiBzdHlsZT0iQk9SREVSOiAwcHggc29saWQ7ICI+ZAICD2QWAgIBDw8WBB8GBSVodHRwOi8vd3d3LnVuLm9yZy9lbi9ldmVudHMvaXlvZjIwMTEvHwcFIkludGVybmF0aW9uYWwgeWVhciBvZiBmb3Jlc3RzIDIwMTFkFgJmDxUBmgE8aW1nIGFsdD0iSW50ZXJuYXRpb25hbCB5ZWFyIG9mIGZvcmVzdHMgMjAxMSIgc3JjPSIvUHVibGlzaGluZ0ltYWdlcy9tYXN0ZXJwYWdlL3dlc3VwcG9ydC9JbnRlcm5hdGlvbmFsWWVhck9mRm9yZXN0czIwMTEuZ2lmIiBzdHlsZT0iQk9SREVSOiAwcHggc29saWQ7ICI+ZAIDD2QWAgIBDw8WBB8GBSJodHRwOi8vd3d3LnVuLm9yZy9taWxsZW5uaXVtZ29hbHMvHwcFE01pbGxlbm5pdW0gQ2FtcGFpZ25kFgJmDxUBbzxpbWcgYWx0PSJFbmQgUG92ZXJ0eSIgc3JjPSIvUHVibGlzaGluZ0ltYWdlcy9tYXN0ZXJwYWdlL3dlc3VwcG9ydC9lbmRwb3ZlcnR5LmpwZyIgc3R5bGU9IkJPUkRFUjogMHB4IHNvbGlkOyAiPmQCBA9kFgICAQ8PFgQfBgUfaHR0cDovL3d3dy51bmNzZDIwMTIub3JnL3JpbzIwLx8HBTRVbml0ZWQgTmF0aW9ucyBDb25mZXJlbmNlIG9uIFN1c3RhaW5hYmxlIERldmVsb3BtZW50ZBYCZg8VAZkBPGltZyBhbHQ9IlVuaXRlZCBOYXRpb25zIENvbmZlcmVuY2Ugb24gU3VzdGFpbmFibGUgRGV2ZWxvcG1lbnQiIHNyYz0iL1B1Ymxpc2hpbmdJbWFnZXMvbWFzdGVycGFnZS93ZXN1cHBvcnQvUmlvMjBMb2dvNjkuanBnIiBzdHlsZT0iQk9SREVSOiAwcHggc29saWQ7ICI+ZAIhD2QWAmYPFgIfAgUHQ29udGFjdGQCIw9kFgJmDxYCHwIFDFRlcm1zIG9mIFVzZWQCJQ9kFgJmDxYCHwIFB1NpdGVtYXBkAicPZBYCZg8WAh8CBQNGQVFkAikPZBYCZg8WAh8CBQpXZSBzdXBwb3J0ZBgFBTtjdGwwMCRjdGwxOSRnXzQ1OTVmZTJkX2NmYWJfNDY2Nl84NWZjX2VlYWEyNWJkNGRmYyRjdGwwMCRkcA8UKwAEZGQCAwIKZAU/Y3RsMDAkY3RsMTkkZ180NTk1ZmUyZF9jZmFiXzQ2NjZfODVmY19lZWFhMjViZDRkZmMkY3RsMDAkbHZOZXdzDzwrAAoCBxQrAANkZGQIAgpkBRljdGwwMCRUb3BOYXZpZ2F0aW9uTWVudVY0Dw9kBQpLZXkgdG9waWNzZAUmY3RsMDAkUGxhY2VIb2xkZXJMZWZ0TmF2QmFyJEN1cnJlbnROYXYPD2QFI1N5bmVyZ2llcyBhbW9uZyB0aGUgUklPIENvbnZlbnRpb25zZAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFMmN0bDAwJFBsYWNlSG9sZGVyU2VhcmNoQXJlYSRzZWFyY2hib3gkc2VhcmNoU3VibWl0YsJHLy5RjfKCNh4bVHW0dmlu2AQ=" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+function CallServer_20673360(arg, context) {WebForm_DoCallback('ctl00$ctl15',arg,SP.UI.MyLinksRibbon.MyLinksRibbonPageComponent.ribbonActionCallback,context,null,false); }function _myLinksRibbonLoad2()
+{
+    var fnd = function () {
+        try {
+            mylinks_init.MyLinksInit('CallServer_20673360'); 
+        } 
+        catch (Ex)
+        { }
+    };
+    RegisterSod('mylinks_init', '/_layouts/SP.UI.MyLinksRibbon.js');
+    LoadSodByKey('mylinks_init', fnd);
+}
+
+function _myLinksRibbonLoad1()
+{
+    ExecuteOrDelayUntilScriptLoaded(_myLinksRibbonLoad2, 'SP.Ribbon.js');
+}
+
+_spBodyOnLoadFunctionNames.push('_myLinksRibbonLoad1');
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#2';
+var g_wsaListTemplateId = 850;
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fprogrammes\u002fRioConventions\u002fRioPlus20", webLanguage: 1033, currentLanguage: 1033, webUIVersion:4,pageListId:"{08eecceb-9a8e-4d48-b635-da4f40132266}",pageItemId:32, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};
+                            function DoCallBack(filterText)
+                            {WebForm_DoCallback('ctl00$ctl19$g_659824d9_8857_4b92_8e1a_163fb5152c40',filterText,UpdateFilterCallback,0,CallBackError,true)
+                            }
+                            function CallBackError(result, clientsideString)
+                            {                
+                            }
+                        document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/programmes\/RioConventions\/RioPlus20"};//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
+    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fen\u002fprogrammes\u002fRioConventions\u002fRioPlus20\u002fPages\u002fLand-DegradationNeutralWorld.aspx");
+
+}
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKxm6XhAwLgiPC0DAKOtt3oBAKF4byMDgLWnJbMDAK7s/i2AgLlyNqhCALK37yMDuqyiDJw51/tx0AtUuisxopNFhlV" />
+
+<!-- handles SharePoint scripts -->
+
+
+<!-- controls the web parts and zones -->
+
+
+<!-- this control is more navigation for mysites, otherwise it is empty -->
+
+
+<!-- ================ Begin centered area ================================-->
+<!-- centers the page in the middle -->
+<div id='container'>
+<div class='center'>
+
+<!-- ================= Begin page top ==============================-->
+
+<div id='header' class="s4-notdlg">
+	<!-- this displays the flags to choose the language -->
+    <div id='toolbar'>
+        <h2 class='hidden'><a name='tool'>Toolbar</a></h2>
+        
+<div class="">
+    <div class="">
+      
+
+       
+    </div>
+</div>
+
+    </div>    
+	       
+	<!-- search box loads from template control, style with CSS -->
+		
+        <div class="searcharea">
+        
+                <div id="ctl00_PlaceHolderSearchArea_searchbox_SearchPanel">
+	                                                
+                        <label for="ctl00_PlaceHolderSearchArea_searchbox_searchInputbox" id="ctl00_PlaceHolderSearchArea_searchbox_lbSearchFor"></label>
+                        <input name="ctl00$PlaceHolderSearchArea$searchbox$searchInputbox" type="text" value="Enter your search criteria" id="ctl00_PlaceHolderSearchArea_searchbox_searchInputbox" class="searchField" onfocus="if (this.value == 'Enter your search criteria') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter your search criteria';}" />                       
+                        <input type="image" name="ctl00$PlaceHolderSearchArea$searchbox$searchSubmit" id="ctl00_PlaceHolderSearchArea_searchbox_searchSubmit" class="searchButton" src="/Style%20Library/UNCCD/Images/suche_button.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$PlaceHolderSearchArea$searchbox$searchSubmit&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" />                    
+                
+</div>
+           
+        </div>                  
+						
+
+	<div><!-- NOTE: any time you see s4-notdlg, this element will be hidden from SharePoint dialog windows  -->
+		<a href="/en">
+			<img title="UNCCD Homepage" class="logolink" src="/Style%20Library/UNCCD/Images/null.gif" alt="UNCCD in the Rio+20 Process" border="0" />
+		</a>	
+	</div>
+
+</div>		
+
+<!-- ================= End page top ==============================-->
+
+
+<!-- ================= Begin top navigation ==============================-->
+	<!-- top navigation area -->
+	<div class="s4-notdlg" id="topnavi">
+		<!-- top navigation publishing data source -->
+		
+
+		<!-- top navigation menu (set to use the new Simple Rendering) -->
+		<div id="zz1_TopNavigationMenuV4" class="s4-tn">
+	<div class="menu horizontal menu-horizontal">
+		<ul class="root static">
+			<li class="static"><a class="static menu-item" href="/" accesskey="1"><span class="additional-background"><span class="menu-item-text">Home</span></span></a></li><li class="static"><a class="static menu-item" href="/en/about-the-convention/Pages/About-the-Convention.aspx"><span class="additional-background"><span class="menu-item-text">About the Convention</span></span></a></li><li class="static selected"><a class="static selected menu-item" href="/en/programmes/Pages/home.aspx"><span class="additional-background"><span class="menu-item-text">Key topics</span><span class="ms-hidden">Currently selected</span></span></a></li><li class="static"><a class="static menu-item" href="/en/regional-access/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Regions</span></span></a></li><li class="static"><a class="static menu-item" href="/en/resources/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Publications</span></span></a></li><li class="static"><a class="static menu-item" href="/en/Stakeholders/Pages/home.aspx"><span class="additional-background"><span class="menu-item-text">Stakeholders</span></span></a></li><li class="static"><a class="static menu-item" href="/en/media-center/Pages/mediahome.aspx"><span class="additional-background"><span class="menu-item-text">Events & media</span></span></a></li><li class="static"><a class="static menu-item" href="/en/about-the-convention/official-documents/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Official documents</span></span></a></li>
+		</ul>
+	</div>
+</div>	
+	</div>
+<!-- ================= End top navigation ==============================-->
+
+<!-- =====  Begin Ribbon ============================================================ -->
+
+<!-- hides the Ribbon for anonymous users -->
+
+		<style type="text/css">
+			body #s4-ribbonrow, .nowptitle .ms-WPHeader {
+				display:none;
+			}
+		</style>
+	
+
+
+<div id="s4-ribbonrow" class="s4-pr s4-ribbonrowhidetitle">
+	<div id="s4-ribboncont">
+	
+		<!-- ribbon starts here -->
+		<div class='ms-cui-ribbonTopBars'><div class='ms-cui-topBar1'></div><div class='ms-cui-topBar2'><div id='RibbonContainer-TabRowLeft' class='ms-cui-TabRowLeft ms-siteactionscontainer s4-notdlg'>
+					
+					<!-- site actions -->
+					<span class="ms-siteactionsmenu" id="siteactiontd">
+					</span>
+			
+			  <!-- global navigation dhtml popout menu -->
+			  
+					<span class="s4-breadcrumb-anchor"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust"><a id="GlobalBreadCrumbNavPopout-anchor" onclick="CoreInvoke('callOpenBreadcrumbMenu', event, 'GlobalBreadCrumbNavPopout-anchor', 'GlobalBreadCrumbNavPopout-menu', 'GlobalBreadCrumbNavPopout-img', 's4-breadcrumb-anchor-open', 'ltr', '', false); return false;" onmouseover="" onmouseout="" title="Navigate Up" href="javascript:;" style="display:inline-block;height:16px;width:16px;"><img src="/_layouts/images/fgimg.png" alt="Navigate Up" style="border:0;position:absolute;left:-0px !important;top:-112px !important;" /></a></span></span><div class="ms-popoutMenu s4-breadcrumb-menu" id="GlobalBreadCrumbNavPopout-menu" style="display:none;">
+						<div class="s4-breadcrumb-top">
+							<span class="s4-breadcrumb-header">This page location is:</span>
+						</div>
+						
+							<ul class="s4-breadcrumb">
+	<li class="s4-breadcrumbRootNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/images/fgimg.png" alt="" style="border-width:0px;position:absolute;left:-0px !important;top:-353px !important;" /></span></span><a class="s4-breadcrumbRootNode" href="/">UNCCD</a><ul class="s4-breadcrumbRootNode"><li class="s4-breadcrumbNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/images/fgimg.png" alt="" style="border-width:0px;position:absolute;left:-0px !important;top:-353px !important;" /></span></span><a class="s4-breadcrumbNode" href="/en">en</a><ul class="s4-breadcrumbNode"><li class="s4-breadcrumbNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/images/fgimg.png" alt="" style="border-width:0px;position:absolute;left:-0px !important;top:-353px !important;" /></span></span><a class="s4-breadcrumbNode" href="/en/programmes">Key topics</a><ul class="s4-breadcrumbNode"><li class="s4-breadcrumbNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/images/fgimg.png" alt="" style="border-width:0px;position:absolute;left:-0px !important;top:-353px !important;" /></span></span><a class="s4-breadcrumbNode" href="/en/programmes/RioConventions">Synergies among the RIO Conventions</a><ul class="s4-breadcrumbNode"><li class="s4-breadcrumbNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/images/fgimg.png" alt="" style="border-width:0px;position:absolute;left:-0px !important;top:-353px !important;" /></span></span><a class="s4-breadcrumbNode" href="/en/programmes/RioConventions/RioPlus20">UNCCD in the Rio+20 Process</a><ul class="s4-breadcrumbNode"><li class="s4-breadcrumbNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/images/fgimg.png" alt="" style="border-width:0px;position:absolute;left:-0px !important;top:-353px !important;" /></span></span><a class="s4-breadcrumbNode" href="http://www.unccd.int/en/programmes/RioConventions/RioPlus20/_layouts/listform.aspx?ListId=%7B08EECCEB%2D9A8E%2D4D48%2DB635%2DDA4F40132266%7D&amp;PageType=0">Pages</a><ul class="s4-breadcrumbNode"><li class="s4-breadcrumbCurrentNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/images/fgimg.png" alt="" style="border-width:0px;position:absolute;left:-0px !important;top:-353px !important;" /></span></span><span class="s4-breadcrumbCurrentNode">Land-DegradationNeutralWorld</span></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li>
+</ul>
+						
+					</div>
+				
+				
+			<!-- save button at top of ribbon -->
+			</div><div id='RibbonContainer-TabRowRight' class='ms-cui-TabRowRight s4-trc-container s4-notdlg'>
+				
+				<!-- GlobalSiteLink0 delegate - the variation selector / shows nothing by default otherwise -->
+				
+
+				
+				<!-- Welcome / Login control -->
+				<div class="s4-trc-container-menu">
+					 <div>
+						
+<a id="ctl00_IdWelcome_ExplicitLogin" class="s4-signInLink" href="http://www.unccd.int/en/programmes/RioConventions/RioPlus20/_layouts/Authenticate.aspx?Source=%2Fen%2Fprogrammes%2FRioConventions%2FRioPlus20%2FPages%2FLand%2DDegradationNeutralWorld%2Easpx" style="display:inline;">Sign In</a>
+
+						<!-- MultiLingual User Interface menu -->
+						
+<script type ="text/javascript">
+// <![CDATA[
+function OnSelectionChange(value)
+{
+	var today = new Date();
+	var oneYear = new Date(today.getTime() + 365 * 24 * 60 * 60 * 1000);
+	var url = window.location.href;
+	document.cookie = "lcid=" + value + ";path=/;expires=" + oneYear.toGMTString();
+	window.location.href = url;
+}
+// ]]>
+</script>
+
+						
+					</div>
+				</div>
+			
+				<!-- GlobalSiteLink2 delegate default shows nothing -->
+				
+				
+				<!-- link to launch developer dashboard if its activated by admin -->
+				<span>
+					<span class="s4-devdashboard">
+					
+					</span>
+				</span>
+			</div></div></div>
+<script type="text/javascript">
+//<![CDATA[
+var g_commandUIHandlers = {"name":"CommandHandlers","attrs":{},"children":[]};
+//]]>
+</script>	  
+	  <!-- end main ribbon control hidden from users who are not logged in.-->
+	</div>
+
+    <!-- dynamic notification area -->
+	<div id="notificationArea" class="s4-noti"></div>
+
+    <!-- old navigation delegate? -->
+	
+			
+<span id="ctl00_SPNavigation_ctl00_publishingConsoleV4_publishingRibbon"></span>
+
+
+
+	
+	
+	<!-- top web part panel -->
+	<div id="WebPartAdderUpdatePanelContainer">
+		<div id="ctl00_WebPartAdderUpdatePanel">
+	
+				<span id="ctl00_WebPartAdder"></span>
+			
+</div>
+	</div>
+</div>
+
+<!-- =====  End Ribbon and other Top Content ============================================================ -->
+
+<!-- =====  Start Scrolling Body Area ============================================================ -->
+
+<!-- these two div id's are used to setup the main scrolling page area, they should stay if you are sticking the ribbon to the top -->
+<div  class="s4-nosetwidth">  <!-- (id="s4-workspace") NOTE: s4-nosetwidth is used when you are setting a fixed page width in css, remove for 100% -->
+  <div id="s4-bodyContainer">
+  
+  <!-- id="mso_contentdiv" required, helps SharePoint put the web part editing pane in the main body on the right, you can move the ID if needed -->
+  <div id="ctl00_MSO_ContentDiv">
+		
+	<!-- page editing status bar -->
+	<div class="s4-notdlg">
+		<div id="s4-statusbarcontainer" class="s4-notdlg">
+			<div id="pageStatusBar" class="s4-status-s1"></div>
+		</div>
+	</div>
+	
+	<!-- this can be used to place a title above the left navigation -->
+		
+		<div class="s4-notdlg">
+			<!-- page title -->
+            <div class="pageTitle">
+              <div class="custom-breadcrumb"> 
+              
+                            <div id="breadcrumbs">
+                        
+                            <a id="ctl00_PlaceHolderSlideShow_ctl01_Hyperlink1" href="/en/Pages/Contact.aspx">Home</a>
+                         > 
+                            <a id="ctl00_PlaceHolderSlideShow_ctl03_Hyperlink2" href="/en/programmes/Pages/home.aspx">Key topics</a>
+                         > 
+                            <a id="ctl00_PlaceHolderSlideShow_ctl05_Hyperlink2" href="/en/programmes/RioConventions/Pages/default.aspx">Synergies among the RIO Conventions</a>
+                         > 
+                            <a id="ctl00_PlaceHolderSlideShow_ctl07_Hyperlink2" href="/en/programmes/RioConventions/RioPlus20/Pages/default.aspx">UNCCD in the Rio+20 Process</a>
+                         > 
+                            Land-Degradation Neutral World
+                        
+                            </div>
+                        
+                 </div>
+			    <h3></h3>
+            </div>
+             
+                 
+                  
+                 
+                 
+		</div>
+ 
+		
+	
+    <!-- styles needed to have left nav to the left of the main area -->
+	<div id="s4-leftpanel" class="s4-notdlg">
+		<!-- The quick launch bar / left navigation -->
+        <div id="navi">
+		    
+			    			
+			    <div id="zz2_CurrentNav" class="s4-ql">
+	<div class="menu vertical menu-vertical">
+		<ul class="root static">
+			<li class="static"><a class="static menu-item" href="/en/programmes/Science/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Science</span></span></a></li><li class="static"><a class="static menu-item" href="/en/programmes/Reporting-review-and-assessment/Pages/defaultnew.aspx"><span class="additional-background"><span class="menu-item-text">Reporting review and assessment</span></span></a></li><li class="static"><a class="static menu-item" href="/en/programmes/Event-and-campaigns/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Awareness raising</span></span></a></li><li class="static"><a class="static menu-item" href="/en/programmes/Thematic-Priorities/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Thematic Priorities</span></span></a></li><li class="static selected"><a class="static selected menu-item" href="/en/programmes/RioConventions/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Synergies among the RIO Conventions</span><span class="ms-hidden">Currently selected</span></span></a></li><li class="static"><a class="static menu-item" href="/en/programmes/Capacity-building/CBW/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Capacity building marketplace</span></span></a></li>
+		</ul>
+	</div>
+</div>			
+		    		
+        </div>
+		<!-- The small menu attached Quick Launch bar. Used only on very specific pages -->
+		
+        <!-- To add content underneath the left navigation -->
+        
+	<div class="styledMainBody">
+        <div class="content-1 nowptitle notBoxStyled">
+		    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartctl00_ctl19_g_4595fe2d_cfab_4666_85fc_eeaa25bd4dfc" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><div WebPartID="4595fe2d-cfab-4666-85fc-eeaa25bd4dfc" HasPers="false" id="WebPartctl00_ctl19_g_4595fe2d_cfab_4666_85fc_eeaa25bd4dfc" width="100%" class="ms-WPBody" allowMinimize="false" allowRemove="false" allowDelete="false" allowExport="false" style="" ><div id="ctl00_ctl19_g_4595fe2d_cfab_4666_85fc_eeaa25bd4dfc">
+					
+
+<div class="teaser">
+    <div class="teaser-innen">
+        <h1>
+            What's New
+        </h1>
+        <div class="overview">
+            
+                    
+                    <div class="teasertitle">
+                        <h3>
+                            <a href='/en/media-center/MediaNews/Pages/highlightdetail.aspx?HighlightID=234' class="mehr">
+                                Report of COP 11: Dialogue session with CSOs and CST recommendations
+                            </a>
+                        </h3>
+                    </div>
+                    <div class="teasertext">
+                        ​Delegates convened in plenary for an open session with civil society organizations. CST met in an evening session and adopted its recommendations and report, after which COP met to consider the recommendations and adopt decisions relating to CST.
+                    </div>
+                    <a class="mehr" href='/en/media-center/MediaNews/Pages/highlightdetail.aspx?HighlightID=234'>
+                        > more
+                    </a><br /><br />
+                    <hr class="therowstyle"/>
+                    <div style="clear: both">
+                    </div>
+                
+                    <div class="teasertitle">
+                        <h3>
+                            <a href='/en/media-center/MediaNews/Pages/highlightdetail.aspx?HighlightID=226' class="mehr">
+                                Report of the day: snapshot of the COW, COP & CST from Tuesday 17 September
+                            </a>
+                        </h3>
+                    </div>
+                    <div class="teasertext">
+                        On Tuesday 17 September, the Chair of the Committee for the Whole (COW), Chenchu NORBU of Bhutan opened the plenary session with the adoption of the morning agenda.
+                    </div>
+                    <a class="mehr" href='/en/media-center/MediaNews/Pages/highlightdetail.aspx?HighlightID=226'>
+                        > more
+                    </a><br /><br />
+                    <hr class="therowstyle"/>
+                    <div style="clear: both">
+                    </div>
+                
+                    <div class="teasertitle">
+                        <h3>
+                            <a href='/en/media-center/MediaNews/Pages/highlightdetail.aspx?HighlightID=216' class="mehr">
+                                ​UNCCD Expert Meeting Calls for Targets on Land to Stimulate Action on the Ground
+                            </a>
+                        </h3>
+                    </div>
+                    <div class="teasertext">
+                        27/06/2013, Seoul, Republic of Korea – Land and soil experts from around the world today called on the international community to set national, regional and international targets to address desertification, land degradation and drought at all levels. 
+                    </div>
+                    <a class="mehr" href='/en/media-center/MediaNews/Pages/highlightdetail.aspx?HighlightID=216'>
+                        > more
+                    </a><br /><br />
+                    <hr class="therowstyle"/>
+                    <div style="clear: both">
+                    </div>
+                
+                
+            <div id="ctl00_ctl19_g_4595fe2d_cfab_4666_85fc_eeaa25bd4dfc_ctl00_pnlPager">
+						
+                <div class="teaser">
+                <div class="teaserpager">
+                    <span id="ctl00_ctl19_g_4595fe2d_cfab_4666_85fc_eeaa25bd4dfc_ctl00_dp"><a disabled="disabled" class="pagerButton"><<</a><a disabled="disabled" class="pagerButton">Previous</a><span class="pagerButtonCurrentPage">1</span><a class="pagerButton" href="javascript:__doPostBack('ctl00$ctl19$g_4595fe2d_cfab_4666_85fc_eeaa25bd4dfc$ctl00$dp$ctl01$ctl01','')">2</a><a class="pagerButton" href="javascript:__doPostBack('ctl00$ctl19$g_4595fe2d_cfab_4666_85fc_eeaa25bd4dfc$ctl00$dp$ctl01$ctl02','')">3</a><a class="pagerButton" href="javascript:__doPostBack('ctl00$ctl19$g_4595fe2d_cfab_4666_85fc_eeaa25bd4dfc$ctl00$dp$ctl01$ctl03','')">4</a><a class="pagerButton" href="javascript:__doPostBack('ctl00$ctl19$g_4595fe2d_cfab_4666_85fc_eeaa25bd4dfc$ctl00$dp$ctl02$ctl00','')">Next</a><a class="pagerButton" href="javascript:__doPostBack('ctl00$ctl19$g_4595fe2d_cfab_4666_85fc_eeaa25bd4dfc$ctl00$dp$ctl02$ctl01','')">>></a></span>
+                    <span class="content-right ">
+                        
+                    </span>
+                </div>
+            </div>
+            
+					</div>
+        </div>
+    </div>
+</div>
+
+
+
+				</div></div></td>
+			</tr>
+		</table></td>
+	</tr>
+</table>					
+	    </div>
+	</div>
+
+	</div>
+
+
+	<!-- s4-ca is the main body div -->
+	<div class="s4-ca">
+
+		<div class="s4-notdlg">
+			<!-- links for I like it and Tags and Notes -->
+			<!-- use ControlID="GlobalSiteLink3" for larger icons or remove this line entirely for no icons -->
+			
+		</div>
+				
+		<!-- place a table around this to handle funky markup in _Layouts/areacachesettings.aspx (if you want) -->
+		
+		
+		<div>
+			<!-- page content loads from the pages and pages layout -->
+			
+		
+<div class="styledMainBody">
+	
+
+	<div class="content-1 content-right nowptitle notBoxStyled">	
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartWPQ4" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="1" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr class="ms-WPHeader">
+						<td align="left" class="ms-wpTdSpace">&#160;</td><td title="Summary Links - Allows authors to create links that can be grouped and styled." id="WebPartTitleWPQ4" class="ms-WPHeaderTd"><h3 style="text-align:justify;" class="ms-standardheader ms-WPTitle">&nbsp;<span>Summary Links</span><span id="WebPartCaptionWPQ4"></span></h3></td><td align="left" class="ms-wpTdSpace">&#160;</td>
+					</tr>
+				</table></td>
+			</tr><tr>
+				<td class="" valign="top"><div WebPartID="659824d9-8857-4b92-8e1a-163fb5152c40" HasPers="false" id="WebPartWPQ4" width="100%" class="ms-WPBody ms-wpContentDivSpace" allowDelete="false" style="" ><div class="teaser"><div class="teaser-innen summaryLinks"><div id="slwp_ctl00_ctl19_g_659824d9_8857_4b92_8e1a_163fb5152c40" class="slm-layout-main slwpmarker"><div class="dfwp-column" style="width:100%" ><div class="slm-layout-main groupmarker"><div class="groupheader item medium">Rio +20</div><ul class="dfwp-list"><li><div class="item"><div class="link-item"><a href="/en/programmes/RioConventions/RioPlus20/Pages/default.aspx" title="">UNCCD in the Rio+20 process</a><div class="description"></div></div></div></li ></ul><div class="footermarker"><!--empty--></div></div></div></div></div></div></div></td>
+			</tr>
+		</table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartWPQ3" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="1" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr class="ms-WPHeader">
+						<td align="left" class="ms-wpTdSpace">&#160;</td><td title="Content Editor [3] - Allows authors to enter rich text content." id="WebPartTitleWPQ3" class="ms-WPHeaderTd"><h3 style="text-align:justify;" class="ms-standardheader ms-WPTitle">&nbsp;<span>Content Editor ‭[3]‬</span><span id="WebPartCaptionWPQ3"></span></h3></td><td align="left" class="ms-wpTdSpace">&#160;</td>
+					</tr>
+				</table></td>
+			</tr><tr>
+				<td class="ms-WPBorder" valign="top"><div WebPartID="1ff2275a-f301-44d1-8713-c34580753c4a" HasPers="false" id="WebPartWPQ3" width="100%" class="ms-WPBody ms-wpContentDivSpace" allowDelete="false" style="" ><strong>​Highlights</strong><div><strong><br/></strong></div>
+<div><a href="/en/programmes/RioConventions/RioPlus20/Pages/LDNW-Expert-Meeting.aspx">- UNCCD&#160;Expert&#160;Meeting on Land-Degradation Neutral World in the Republic of Korea​</a>,&#160;<a href="/en/programmes/RioConventions/RioPlus20/Pages/LDNW-Expert-Meeting.aspx">26-27.06.2013&#160;</a></div>
+<div>- <a href="/en/media-center/MediaNews/Pages/highlightdetail.aspx?HighlightID=190">UNCCD&#160;11th&#160;Conference of Parties in Namibia&#160;​</a><br/></div></div></td>
+			</tr>
+		</table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartWPQ2" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="1" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr class="ms-WPHeader">
+						<td align="left" class="ms-wpTdSpace">&#160;</td><td title="Content Editor [2] - Allows authors to enter rich text content." id="WebPartTitleWPQ2" class="ms-WPHeaderTd"><h3 style="text-align:justify;" class="ms-standardheader ms-WPTitle">&nbsp;<span>Content Editor ‭[2]‬</span><span id="WebPartCaptionWPQ2"></span></h3></td><td align="left" class="ms-wpTdSpace">&#160;</td>
+					</tr>
+				</table></td>
+			</tr><tr>
+				<td class="ms-WPBorder" valign="top"><div WebPartID="5c451522-e7e5-48cf-ba41-e33276e98e94" HasPers="false" id="WebPartWPQ2" width="100%" class="ms-WPBody ms-wpContentDivSpace" allowDelete="false" style="" ><p><strong>​Land-degradation neutral world (LDNW) resources</strong></p>
+<div><strong class="ms-rteForeColor-2">NEW</strong>: <a href="/Lists/SiteDocumentLibrary/Rio+20/issue%20brief%2004_09_13%20web.pdf">A Stronger UNCCD for a Land-Degradation Neutral World, Secretariat of the UNCCD Issue Brief, September 2013</a></div>
+<div>&#160;</div>
+<div><strong><font color="#ff0000">NEW</font></strong> <a href="/Lists/SiteDocumentLibrary/Rio+20/issue%20brief%2011_9_13_spa%20WEB.pdf">Una CLD fortalecida para un mundo neutro frente a la degradación de la tierra, Secretaría de la CLD Resumen Temático,Septiembre de 2013</a></div>
+<div>&#160;</div>
+<div><strong>-</strong><a href="/Lists/SiteDocumentLibrary/Rio+20/Chair%27s%20Summary%20June%2027_FINAL.pdf">Consultative Meeting on a Sustainable Development Goal (SDG) on Land Degradation Neutral World(LDNW) and on the associated target for a Zero Net Land Degradation (ZNLD)26‐27 June 2013 ‐ Seoul, Korea&#160; Chair’s Summary</a></div>
+<div>&#160;</div>
+<div>&#160;- <a href="/Lists/SiteDocumentLibrary/Rio+20/205_209_DLDD.pdf">LDNW in the Rio+20 document</a></div>
+<div>&#160;</div>
+<div>- <a href="/Lists/SiteDocumentLibrary/Rio+20/DLDD_SedeBoquer_ZNLD_outcome.pdf">Operationalizing target on land/Sede Boquer DLDD Conference&#160;</a></div>
+<div>&#160;</div>
+<div>- <a href="https://www.conftool.pro/2sc-unccd/index.php?page=browseSessions&amp;form_session=57&amp;CTSID_2SCUNCCD2012=Os0JS7vVJL5Z927DC05kTACz3l9">Towards LDNW: from science to policy (Part 1)</a></div>
+<div>&#160;</div>
+<div>-&#160;<a href="https://www.conftool.pro/2sc-unccd/index.php?page=browseSessions&amp;form_session=59&amp;CTSID_2SCUNCCD2012=Os0JS7vVJL5Z927DC05kTACz3l9">Towards LDNW: from science to policy (Part 2)</a></div>
+<div>&#160;</div>
+<div>- <a href="http://africa-regreening.blogspot.de/">Africa Regreening Initiatives​</a></div>
+<div>&#160;</div>
+&#160; <p>&#160;</p></div></td>
+			</tr>
+		</table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartWPQ1" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="1" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr class="ms-WPHeader">
+						<td align="left" class="ms-wpTdSpace">&#160;</td><td title="Content Editor [1] - Allows authors to enter rich text content." id="WebPartTitleWPQ1" class="ms-WPHeaderTd"><h3 style="text-align:justify;" class="ms-standardheader ms-WPTitle">&nbsp;<span>Content Editor ‭[1]‬</span><span id="WebPartCaptionWPQ1"></span></h3></td><td align="left" class="ms-wpTdSpace">&#160;</td>
+					</tr>
+				</table></td>
+			</tr><tr>
+				<td class="ms-WPBorder" valign="top"><div WebPartID="4adc0dd9-43e9-44eb-8feb-c9656b13502a" HasPers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody ms-wpContentDivSpace" allowDelete="false" style="" ><div style="text-align: left"><img width="93" height="81" src="/PublishingImages/UNCCD/ZNLD-highlight.png" alt="" style="margin: 5px; width: 113px; height: 68px"/><strong>Zero Net Land Degradation - </strong></div>
+<div class="ms-rteFontSize-2" style="text-align: left">Sustainable Development Goal for Rio+20&#160;</div>
+<div class="ms-rteFontSize-2" style="text-align: left"><span><a href="/Lists/SiteDocumentLibrary/Rio+20/UNCCD_PolicyBrief_ZeroNetLandDegradation.pdf">Policy brief</a></span></div>
+<div class="ms-rteFontSize-2" style="text-align: left"><a href="/Lists/SiteDocumentLibrary/Rio+20/ZNLD%20Summary%20final.pdf">Executive Summary </a></div>
+<div class="ms-rteFontSize-2" style="text-align: left"><div style="text-align: left"><div class="ms-rteFontSize-2" style="text-align: left"><a href="/Lists/SiteDocumentLibrary/Rio+20/2%20PAGES%20RIO.pdf"></a><a href="/Lists/SiteDocumentLibrary/secretariat/2012/2%20PAGES%20RIO.pdf"><span>Information flyer</span>&#160;eng</a>/ <a href="/Lists/SiteDocumentLibrary/secretariat/2012/2%20PAGES%20RIO%20FRE.pdf">fre</a>/ <a href="/Lists/SiteDocumentLibrary/secretariat/2012/2%20PAGES%20RIO%20RUSS.pdf">rus</a></div>
+<div class="ms-rteFontSize-2" style="text-align: left"><a href="/Lists/SiteDocumentLibrary/secretariat/2012/Zero%20Net%20Land%20Degradation%20Report%20UNCCD%20May%202012%20background.pdf">Background study</a></div></div></div></div></td>
+			</tr>
+		</table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartctl00_ctl19_g_143c46e4_c98a_47e6_bb68_36e1a7933b7e" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><div WebPartID="143c46e4-c98a-47e6-bb68-36e1a7933b7e" HasPers="false" id="WebPartctl00_ctl19_g_143c46e4_c98a_47e6_bb68_36e1a7933b7e" width="100%" class="ms-WPBody" allowMinimize="false" allowRemove="false" allowDelete="false" allowExport="false" style="" ><div id="ctl00_ctl19_g_143c46e4_c98a_47e6_bb68_36e1a7933b7e">
+					
+<div class="">
+    <div class="socialbar">
+  <span class="followus">Follow us on:</span>  
+      
+                <ul>
+            
+                <li>
+                    <a id="ctl00_ctl19_g_143c46e4_c98a_47e6_bb68_36e1a7933b7e_ctl00_rptDisplay_ctl01_HyperLink1" title="RSS" href="/en/media-center/Pages/RSS.aspx"><img alt="rss" src="/PublishingImages/Webparts/socialnetworks/button_rss.png" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                <li>
+                    <a id="ctl00_ctl19_g_143c46e4_c98a_47e6_bb68_36e1a7933b7e_ctl00_rptDisplay_ctl02_HyperLink1" title="You tube" href="http://www.youtube.com/user/theUNCCD"><img alt="you tube" src="/PublishingImages/Webparts/socialnetworks/button_youtube.png" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                <li>
+                    <a id="ctl00_ctl19_g_143c46e4_c98a_47e6_bb68_36e1a7933b7e_ctl00_rptDisplay_ctl03_HyperLink1" title="Twitter" href="http://twitter.com/#!/UNCCD"><img alt="twitter" src="/PublishingImages/Webparts/socialnetworks/button_twitter.png" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                <li>
+                    <a id="ctl00_ctl19_g_143c46e4_c98a_47e6_bb68_36e1a7933b7e_ctl00_rptDisplay_ctl04_HyperLink1" title="Facebook" href="http://www.facebook.com/pages/United-Nations-Convention-to-Combat-Desertification/147888359084"><img alt="facebook" src="/PublishingImages/Webparts/socialnetworks/button_facebook.png" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                </ul>                
+            
+    </div>
+</div>
+
+				</div></div></td>
+			</tr>
+		</table></td>
+	</tr>
+</table>
+	</div>	
+
+    <div class="content-2 content-middle nowptitle notBoxStyled noFloat">
+	    <div class="teaser">
+		    <div class="teaser-innen">
+                <div class="display">
+                    <h1>Land-Degradation Neutral World</h1>
+                    <div id="ctl00_PlaceHolderMain_ctl01_label" style='display:none'>Top Image</div><div id="ctl00_PlaceHolderMain_ctl01__ControlWrapper_RichImageField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_label"><div class="ms-rtestate-field"><img alt="" src="/PublishingImages/UNCCD/430x150_unccd/111-4-Cultivation_430.jpg" style="border:0px solid" /></div></div>		
+                    <div id="ctl00_PlaceHolderMain_ctl02_label" style='display:none'>Main Html</div><div id="ctl00_PlaceHolderMain_ctl02__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl02_label"><div><strong>Land-degradation neutral world</strong> is an aspirational goal, which was agreed at the UN Conference on Sustainable Development (Rio+20) in June 2012. To achieve this goal, land degradation should be avoided and for every hectare of degraded land a hectare of land should be restored preferably in the same ecosystem and landscape. A land-degradation neutral world is a prerequisite for assuring water, food and energy security, alleviating poverty and mitigating climate change. </div>
+​​ <div>At the Rio+20 Conference, world leaders recognized land degradation, desertification and drought as serious global challenges,  impeding sustainable development globally and committed to “strive to achieve a land-degradation neutral world”. They also reaffirmed their resolve under the UNCCD to take coordinated action nationally, regionally and internationally, to monitor land degradation globally and further develop and implement scientifically based and socially inclusive indicators for monitoring and assessing the extent of desertification, land degradation and drought.</div>
+<div><br /></div>
+<div><div><img src="/PublishingImages/UNCCD/LG%20bio%20picture.png" alt="" style="margin:5px;float:left" /><em>Over past decades land degradation accelerated over 36 times its historical rate, leading to poverty and hunger, climate change related shocks and loss of biodiversity. Due to the prevailing paradigm of &quot;Degrade - Abandon - Migrate&quot; today millions of square kilometers in the world bear the legacy of man-made barren lands. </em><br /></div>
+<em></em><div><em>At the Rio+20 last June, world leaders recognized the need for urgent action to reverse land degradation and agreed to &quot;strive to achieve a land-degradation neutral world in the context of sustainable development&quot;. It is a call for a paradigm shift at all levels. Avoiding land degradation and restoring degraded land is a prerequisite for achieving food, water and energy security. </em></div>
+<em></em><div><em>We have to make sure that this aspirational goal does not stay on the paper, but is operationalized into attainable targets. We need to learn from the MDG lessons and make sure that land preservation and restoration takes its deserved place in the post2015 global development agenda. I encourage governments, scientists, civil society and every single individual to join our call for a land-degradation neutral world. </em><strong>Luc Gnacadja, </strong><strong>UNCCD Executive Secretary.</strong> </div></div>
+<div><br /></div>
+<div><div><em><img src="/PublishingImages/UNCCD/Land-degradation-neutrality/Jonathan%20DAVIES_highlight.jpg" alt="" style="margin:5px;float:right" />&quot;The growing global population is increasing demand for food at a time when land availability and fertility is declining. Yet, there is little attention to land degradation and no global consensus on how to reverse this problem. To achieve global sustainable development, we must ensure that restoration of land equals or exceeds degradation: in other words we need &quot;land degradation neutrality&quot;. Knowledge is not a barrier - abundant examples of community sustainable land management and land restoration are already out there. To go to scale we need governments to acknowledge the urgency of land degradation and place greater emphasis on ecologically-sensitive land management strategies.&quot;  </em><strong>Jonathan Davies, Global Drylands Initiative Coordinator, IUCN. </strong><br /></div></div>
+<div><br /></div>
+<div><div><img src="/PublishingImages/UNCCD/Land-degradation-neutrality/safriel_for%20web.jpg" alt="" style="margin:5px;width:148px;float:left;height:203px" /><em>The aspired land degradation neutrality at the global scale will be attained by a concerted effort to attain zero net land degradation at the local, national and regional scales. The pre-requisite for this is awareness of land users that their practices are degrading land productivity and awareness of land owners, whose land already lost its productivity and requires restoration investments. </em><br /></div>
+<em></em><div><em>Once awareness is there and practices for arresting ongoing degradation are used and measures of restoration of already degraded land are taken, it will be necessary to monitor and evaluate the effect of these practices. These are challenges for the scientific community and for land users, which should and can be met, thus leading the way for making the required decisions, policies, investments and actions that would make a land-degradation neutral world a tangible reality. </em><strong>Prof. Uriel Safriel, Ben-Gurion University, Israel</strong>​.</div></div></div>
+                    <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Content Image</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichImageField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><div class="ms-rtestate-field"></div></div>
+                    &#160;
+			    </div>
+
+			    		        
+									
+			    			   
+													
+			    			   
+			
+			    <div style="float:right">
+				    
+				   
+			    </div>
+			    			   
+			    <div class="articlePageBottom"></div>
+		    </div>
+	    </div>
+    </div>
+</div>
+
+		</div>
+	</div>
+	
+	<!-- Logobar at the bottom of the content area -->
+    <div style="clear:both">
+    <h3>Quick access
+</h3>
+	<div class='logobar s4-notdlg' id="logobar-bottom">       
+         
+<div class="">
+    <div class="">
+      
+                <ul>
+            
+                <li>
+                    <a id="ctl00_usercontrolLogoBar_rptDisplay_ctl01_HyperLink1" title="Global Mechanism" href="http://global-mechanism.org/"><a href="http://global-mechanism.org/" target="_blank"><img alt="" src="/PublishingImages/UNCCD/Logos/GM%20klein.png" style="BORDER: 0px solid; "></a></a>
+                </li>
+            
+                <li>
+                    <a id="ctl00_usercontrolLogoBar_rptDisplay_ctl02_HyperLink1" title="Prais" href="http://www.unccd-prais.com/"><img alt="Prais" src="/PublishingImages/UNCCD/prais100.jpg" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                <li>
+                    <a id="ctl00_usercontrolLogoBar_rptDisplay_ctl03_HyperLink1" title="UNDDD" href="http://unddd.unccd.int/"><img alt="UNDDD" src="/PublishingImages/UNCCD/UNDDDlogo100.jpg" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                <li>
+                    <a id="ctl00_usercontrolLogoBar_rptDisplay_ctl04_HyperLink1" title="World Day to Combat Desertification" href="/en/programmes/Event-and-campaigns/WDCD/WDCD2013/Pages/default.aspx"><img alt="World Day" src="/PublishingImages/UNCCD/unccd_worldday100.jpg" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                <li>
+                    <a id="ctl00_usercontrolLogoBar_rptDisplay_ctl05_HyperLink1" title="The Economics of Land Degradation" href="http://eld-initiative.org/"><img alt="" src="/PublishingImages/masterpage/quickaccess/eld_start_logo.png" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                <li>
+                    <a id="ctl00_usercontrolLogoBar_rptDisplay_ctl06_HyperLink1" title="Capacity Building Marketplace" href="/en/programmes/Capacity-building/CBW/Pages/default.aspx"><img alt="" src="/PublishingImages/UNCCD/Capacity%20Building%20Marketplace/CapacityBuildingMarketplace.jpg" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                <li>
+                    <a id="ctl00_usercontrolLogoBar_rptDisplay_ctl07_HyperLink1" title="Changwong-Initiative" href="/en/about-the-convention/The-Secretariat/Pages/Changwon-Initiative.aspx"><img alt="" src="/PublishingImages/UNCCD/Logos/CI.png" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                </ul>                
+            
+    </div>
+</div>
+
+    </div>
+    </div>
+
+	<!-- the developer dashboard can be turned on by administrators and shows debuging and performance info for the page -->
+	<div id="DeveloperDashboard" class="ms-developerdashboard">
+		
+	</div>
+
+  </div>
+  </div>
+</div>
+
+<!-- =====  End scrolling body area with these two previous div's ============================================================ -->
+
+<!-- The form digest security control used to for security validation on forms -->
+
+	
+
+
+<!-- =====  Hidden Placeholders ============================================================ -->
+
+
+<!-- Handle Search "enter" key and back button -->
+<input type="text" name="__spDummyText1" style="display:none;" size="1"/>
+<input type="text" name="__spDummyText2" style="display:none;" size="1"/>
+</div>
+<div id='stretch'></div>
+</div>
+
+<!-- ================ End centered area ================================-->
+
+<!-- ======== Begin Footer =========================== -->
+<div id='footer' class="s4-notdlg">
+    <div id='footer-content'>
+        
+<div class="">
+    <div class="supportbar">
+      
+                <ul>
+            
+                <li>
+                    <a id="ctl00_usercontrolWeSupportList_rptDisplay_ctl01_HyperLink1" title="greeningtheblue" href="http://www.greeningtheblue.org/"><img alt="greening the blue" src="/PublishingImages/masterpage/wesupport/greeningtheblue.gif" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                <li>
+                    <a id="ctl00_usercontrolWeSupportList_rptDisplay_ctl02_HyperLink1" title="International year of forests 2011" href="http://www.un.org/en/events/iyof2011/"><img alt="International year of forests 2011" src="/PublishingImages/masterpage/wesupport/InternationalYearOfForests2011.gif" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                <li>
+                    <a id="ctl00_usercontrolWeSupportList_rptDisplay_ctl03_HyperLink1" title="Millennium Campaign" href="http://www.un.org/millenniumgoals/"><img alt="End Poverty" src="/PublishingImages/masterpage/wesupport/endpoverty.jpg" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                <li>
+                    <a id="ctl00_usercontrolWeSupportList_rptDisplay_ctl04_HyperLink1" title="United Nations Conference on Sustainable Development" href="http://www.uncsd2012.org/rio20/"><img alt="United Nations Conference on Sustainable Development" src="/PublishingImages/masterpage/wesupport/Rio20Logo69.jpg" style="BORDER: 0px solid; "></a>
+                </li>
+            
+                </ul>                
+            
+    </div>
+</div>
+
+
+        
+
+        &copy; UNCCD 2012
+        <a href='/en/Pages/Contact.aspx'>Contact
+ UNCCD</a>
+        <a href='/en/Pages/terms-of-use.aspx'>Terms of Use
+</a>
+        <a href='/en/Pages/Sitemap.aspx'>Sitemap
+</a>
+        <a href='/en/resources/Library/Pages/FAQ.aspx'>FAQ
+</a>
+        <a href='/_layouts/settings.aspx'>Login</a>
+        <span>We support
+:</span>
+    
+        <!-- Printer Button -->
+        <div class="noprint" style="clear:both"><img title="print page" class="btnPrinter" alt="print" src="/Style Library/UNCCD/Images/printer.jpg" onclick="javasrcipt:window.print();" /></div>
+    </div>
+</div>
+<!-- ======== End Footer =========================== -->
+<div id="ctl00_panelZone">
+	<div style='display:none' id='hidZone'><menu class="ms-SrvMenuUI">
+		<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+		</ie:menuitem>
+	</menu></div>
+</div><input type='hidden' id='_wpcmWpid' name='_wpcmWpid' value='' /><input type='hidden' id='wpcmVal' name='wpcmVal' value=''/>
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null); }
+function loadMDN1() { ExecuteOrDelayUntilScriptLoaded(loadMDN2, 'sp.ribbon.js'); }
+_spBodyOnLoadFunctionNames.push('loadMDN1');
+function _spNavigateHierarchyEx(nodeDiv, dataSourceId, dataPath, url, listInContext, type, additionalQString) {
+    SetAdditionalNavigateHierarchyQString(additionalQString);
+    g_originalSPNavigateFunc(nodeDiv, dataSourceId, dataPath, url, listInContext, type);
+}
+
+g_originalSPNavigateFunc = _spNavigateHierarchy;
+_spNavigateHierarchy = _spNavigateHierarchyEx;
+
+function EnsureScripts(scriptInfoList, finalFunction)
+{
+if (scriptInfoList.length == 0)
+{
+finalFunction();
+}
+else
+{
+var scriptInfo = scriptInfoList.shift();
+var rest = function () { EnsureScripts(scriptInfoList, finalFunction); };
+var defd;
+try
+{
+eval('defd = typeof(' + scriptInfo[1] + ');');
+}
+catch (e)
+{
+defd = 'undefined';
+}
+if (scriptInfo[2])
+{
+EnsureScript(scriptInfo[0], defd, null);
+ExecuteOrDelayUntilScriptLoaded(rest, scriptInfo[0]);
+}
+else
+{
+EnsureScript(scriptInfo[0], defd, rest);
+}
+}
+}
+function PublishingRibbonUpdateRibbon()
+{
+var pageManager = SP.Ribbon.PageManager.get_instance();
+if (pageManager)
+{
+pageManager.get_commandDispatcher().executeCommand('appstatechanged', null);
+}
+}var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{08eecceb-9a8e-4d48-b635-da4f40132266}",itemId: 32,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: true,forceCheckout: true,rootFolderUrl: "\u002fen\u002fprogrammes\u002fRioConventions\u002fRioPlus20\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+}
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js"); var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';
+ExecuteOrDelayUntilScriptLoaded(
+function()
+{
+var initInfo = 
+{
+itemPermMasks: {High:16,Low:196673},
+listPermMasks: {High:16,Low:196673},
+listId: "08eecceb-9a8e-4d48-b635-da4f40132266",
+itemId: 32,
+workflowsAssociated: true,
+editable: false,
+doNotShowProperties: false,
+enableVersioning: true
+};
+SP.Ribbon.DocLibAspxPageComponent.registerWithPageManager(initInfo);
+},
+"sp.ribbon.js");
+var g_disableCheckoutInEditMode = false;
+var _spWebPermMasks = {High:16,Low:196673};//]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+// ]]>
+</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002fsp.core.js?rev=7ByNlH\u00252BvcgRJg\u00252BRCctdC0w\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=b6\u00252FcRx1a6orhAQ\u00252FcF\u00252B0ytQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002fsp.runtime.js?rev=9sKdsC9N6p2BiRk3313M7Q\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.core.js");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002fsp.ui.dialog.js?rev=IuXtJ2CrScK6oX4zOTTy\u00252BA\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.core.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002fsp.js?rev=\u00252FLlKIPQWhhq9mRi404xe\u00252FA\u00253D\u00253D");RegisterSodDep("sp.js", "sp.core.js");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002fcui.js?rev=k\u00252B4HtUzT9\u00252B3mSycgD7gPaQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f1033\u002fcore.js?rev=dKZW2ZgjdjcUPQdWicBSCg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002finplview.js?rev=w4iP7lFIpTavLXlEmM2S0A\u00253D\u00253D");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
+<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002fsp.ribbon.js?rev=F\u00252BUEJ66rbXzSvpf7nN69wQ\u00253D\u00253D");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "sp.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "sp.res.resx");RegisterSodDep("ribbon", "sp.runtime.js");RegisterSodDep("ribbon", "inplview");</script>
+<script type="text/javascript">RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=YhBHGmUAGyJ3lAgSdE4V\u00252Fw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mdn.js", "\u002f_layouts\u002fmdn.js?rev=gwmFFJ2\u00252FfFacqXWAqG\u00252FqKg\u00253D\u00253D");RegisterSodDep("mdn.js", "sp.core.js");RegisterSodDep("mdn.js", "sp.runtime.js");RegisterSodDep("mdn.js", "sp.js");RegisterSodDep("mdn.js", "cui.js");RegisterSodDep("mdn.js", "ribbon");RegisterSodDep("mdn.js", "sp.ui.policy.resources.resx");</script>
+<script type="text/javascript">RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=q6nxzZIVVXE5X1SPZIMD3A\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.pub.ribbon.js", "\u002f_layouts\u002fsp.ui.pub.ribbon.js?rev=RGQSBI9Dm0E345iq\u00252FxUpHg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("msstring.js", "\u002f_layouts\u002f1033\u002fmsstring.js?rev=QtiIcPH3HV7LgVSO7vONFg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f1033\u002fnon_ie.js?rev=EVTj1bu32\u00252FMla6SDN\u00252FsNTA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("WPAdderClass", "\u002f_layouts\u002fwpadder.js?rev=hnGJJEMcU5XH\u00252BCq7PlSxJw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSodDep("browserScript", "msstring.js");</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+function init_zz1_TopNavigationMenuV4() {$create(SP.UI.AspMenu, null, null, null, $get('zz1_TopNavigationMenuV4'));}ExecuteOrDelayUntilScriptLoaded(init_zz1_TopNavigationMenuV4, 'sp.js');
+function init_zz2_CurrentNav() {$create(SP.UI.AspMenu, null, null, null, $get('zz2_CurrentNav'));}ExecuteOrDelayUntilScriptLoaded(init_zz2_CurrentNav, 'sp.js');
+//]]>
+</script>
+</form>
+
+<!-- extra form for some instances -->
+
+
+<!-- warn users of old browsers that they need to upgrade -->
+
+
+</body>
+</html>

@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+  <script type="text/javascript" src="/sites/all/themes/custom/NASAOmegaHTML5/js/redirection-mobile.js"></script>
+  <script type="text/javascript">
+    if(window.location.pathname=='/'){
+      SA.redirection_mobile ({
+          mobile_url : "mobile.nasa.gov",
+      });
+    }
+  </script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="dc.date" content="2013-09-06T23:54-04:00" />
+<meta name="dc.creator" content="Tony Greicius" />
+<meta name="dc.title" content="NASA Spacecraft Embarks on Historic Journey Into Interstellar Space" />
+<meta name="dc.identifier" content="/mission_pages/voyager/voyager20130912.html" />
+<meta name="dc.language" content="und" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="dc.format" content="text/html" />
+<meta name="dc.type" content="Text" />
+<meta property="og:site_name" content="NASA" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="NASA&#039;s Voyager 1 spacecraft officially is the first human-made object to venture into interstellar space." />
+<meta property="og:title" content="NASA Spacecraft Embarks on Historic Journey Into Interstellar Space" />
+<meta name="description" content="NASA&#039;s Voyager 1 spacecraft officially is the first human-made object to venture into interstellar space." />
+<meta property="og:image" content="http://www.nasa.gov/sites/default/files/pia17462main_8k_0.jpg" />
+<meta property="og:url" content="http://www.nasa.gov/mission_pages/voyager/voyager20130912.html" />
+<link rel="canonical" href="/mission_pages/voyager/voyager20130912.html" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/mission_pages/voyager/voyager20130912.html" />
+  <title>NASA Spacecraft Embarks on Historic Journey Into Interstellar Space | NASA</title>
+  <style type="text/css" media="all">@import url("/modules/system/system.base.css?msynb2");
+@import url("/modules/system/system.menus.css?msynb2");
+@import url("/modules/system/system.messages.css?msynb2");
+@import url("/modules/system/system.theme.css?msynb2");</style>
+<style type="text/css" media="all">@import url("/modules/aggregator/aggregator.css?msynb2");
+@import url("/sites/all/modules/calendar/css/calendar_multiday.css?msynb2");
+@import url("/sites/all/modules/contributed/date/date_api/date.css?msynb2");
+@import url("/sites/all/modules/contributed/date/date_popup/themes/datepicker.1.7.css?msynb2");
+@import url("/modules/field/theme/field.css?msynb2");
+@import url("/modules/node/node.css?msynb2");
+@import url("/modules/poll/poll.css?msynb2");
+@import url("/modules/search/search.css?msynb2");
+@import url("/modules/user/user.css?msynb2");
+@import url("/sites/all/modules/contributed/views/css/views.css?msynb2");</style>
+<style type="text/css" media="all">@import url("/sites/all/modules/ckeditor/ckeditor.css?msynb2");
+@import url("/sites/all/modules/ctools/css/ctools.css?msynb2");
+@import url("/sites/all/modules/panels/css/panels.css?msynb2");
+@import url("/sites/all/modules/views_slideshow/views_slideshow.css?msynb2");
+@import url("/sites/all/modules/panels/plugins/layouts/flexible/flexible.css?msynb2");
+@import url("/sites/all/modules/field_collection/field_collection.theme.css?msynb2");
+@import url("/sites/default/files/ctools/css/25ee8f4b28170ed4c0ffc2e9db3a4738.css?msynb2");</style>
+<style type="text/css" media="all">@import url("/sites/default/themes/NASAPortal/css/jquery-ui-1.10.2.custom.min.css?msynb2");
+@import url("/sites/default/themes/NASAPortal/css/master.css?msynb2");
+@import url("/sites/default/themes/NASAPortal/css/global-d.css?msynb2");
+@import url("/sites/default/themes/NASAPortal/css/nodemgmt.css?msynb2");</style>
+<style type="text/css" media="all">@import url("/sites/all/themes/contributed/omega/alpha/css/alpha-reset.css?msynb2");
+@import url("/sites/all/themes/contributed/omega/alpha/css/alpha-mobile.css?msynb2");
+@import url("/sites/all/themes/contributed/omega/alpha/css/alpha-alpha.css?msynb2");
+@import url("/sites/all/themes/contributed/omega/omega/css/formalize.css?msynb2");
+@import url("/sites/all/themes/contributed/omega/omega/css/omega-text.css?msynb2");
+@import url("/sites/all/themes/contributed/omega/omega/css/omega-branding.css?msynb2");
+@import url("/sites/all/themes/contributed/omega/omega/css/omega-menu.css?msynb2");
+@import url("/sites/all/themes/contributed/omega/omega/css/omega-forms.css?msynb2");
+@import url("/sites/all/themes/contributed/omega/omega/css/omega-visuals.css?msynb2");
+@import url("/sites/default/themes/NASAPortal/css/global.css?msynb2");
+@import url("/sites/default/themes/NASAPortal/css/overrides.css?msynb2");</style>
+<style type="text/css" media="all">@import url("/sites/all/themes/custom/NASAOmegaHTML5/css/NASAOmegaHTML5-alpha-default.css?msynb2");
+@import url("/sites/all/themes/custom/NASAOmegaHTML5/css/NASAOmegaHTML5-alpha-default-normal.css?msynb2");
+@import url("/sites/all/themes/contributed/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?msynb2");</style>
+  <script type="text/javascript" src="/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="/misc/drupal.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/jquery-ui-1.10.2/ui/minified/jquery-ui.min.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/jquery-ical.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/jquery.bxslider.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/jquery.cycle.all.min.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/jquery.countdown.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/jquery.tipTip.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/jMonthCalendar.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/jQuery.pagination.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/app.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/jquery.md5.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/global-d.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/nodemgmt.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/angular.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/ui-bootstrap-tpls-0.3.0.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/angular-resource-1.0.0rc4.min.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/swfobject.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/textsize.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/nasawidgets/js/snippets.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/gov_nasa/gov_nasa.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/libraries/webtoolkit.base64.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/views_slideshow.js?msynb2"></script>
+<script type="text/javascript" src="/sites/default/themes/NASAPortal/js/theme.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/themes/contributed/omega/omega/js/jquery.formalize.js?msynb2"></script>
+<script type="text/javascript" src="/sites/all/themes/contributed/omega/omega/js/omega-mediaqueries.js?msynb2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"NASAPortal","theme_token":"d84WTWYwsO4bpOVo3wrHvx_sjZrBVybbZwRcfLZ8pmg","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/jquery-ui-1.10.2\/ui\/minified\/jquery-ui.min.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/jquery-ical.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/jquery.bxslider.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/jquery.cycle.all.min.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/jquery.countdown.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/jquery.tipTip.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/jMonthCalendar.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/jQuery.pagination.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/app.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/jquery.md5.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/global-d.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/nodemgmt.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/angular.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/ui-bootstrap-tpls-0.3.0.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/angular-resource-1.0.0rc4.min.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/swfobject.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/textsize.js":1,"sites\/all\/modules\/custom\/nasawidgets\/js\/snippets.js":1,"sites\/all\/modules\/custom\/gov_nasa\/gov_nasa.js":1,"sites\/all\/libraries\/webtoolkit.base64.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/default\/themes\/NASAPortal\/js\/theme.js":1,"sites\/all\/themes\/contributed\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/contributed\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contributed\/date\/date_api\/date.css":1,"sites\/all\/modules\/contributed\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contributed\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"sites\/all\/modules\/field_collection\/field_collection.theme.css":1,"public:\/\/ctools\/css\/25ee8f4b28170ed4c0ffc2e9db3a4738.css":1,"sites\/default\/themes\/NASAPortal\/css\/jquery-ui-1.10.2.custom.min.css":1,"sites\/default\/themes\/NASAPortal\/css\/master.css":1,"sites\/default\/themes\/NASAPortal\/css\/global-d.css":1,"sites\/default\/themes\/NASAPortal\/css\/nodemgmt.css":1,"sites\/all\/themes\/contributed\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/contributed\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/contributed\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/contributed\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/contributed\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/contributed\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/contributed\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/contributed\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/contributed\/omega\/omega\/css\/omega-visuals.css":1,"sites\/default\/themes\/NASAPortal\/css\/global.css":1,"sites\/default\/themes\/NASAPortal\/css\/overrides.css":1,"normal::sites\/all\/themes\/custom\/NASAOmegaHTML5\/css\/NASAOmegaHTML5-alpha-default.css":1,"normal::sites\/all\/themes\/custom\/NASAOmegaHTML5\/css\/NASAOmegaHTML5-alpha-default-normal.css":1,"sites\/all\/themes\/contributed\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+//--><!]]>
+</script>
+  <script type="text/javascript" src="/scripts/federated-analytics.all.min.js?agency=NASA&yt=true"></script>
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-213181 node-type-feature context-mission-pages">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+          </div>
+</div>  </div>
+</div><div id="section-header-menu-container">LOADING...</div>  </header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-12 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="panel-flexible panels-flexible-12 clearfix" id="two-column">
+<div class="panel-flexible-inside panels-flexible-12-inside">
+<div class="panels-flexible-row panels-flexible-row-12-firstcol panels-flexible-row-first panels-flexible-row-last clearfix">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-12-firstcol-inside panels-flexible-row-inside-first panels-flexible-row-inside-last clearfix">
+<div class="panels-flexible-row-12-main-row-left"><div class="panels-flexible-region panels-flexible-region-12-firstcol panels-flexible-region-first ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-12-firstcol-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-1col-sidemenu pane-container" >
+  
+      
+  
+  <div class="pane-content">
+    <div  id="menu_widget_1" class="embedTag" data-blocktype="SideMenu" data-menu-html="menu-voyager" data-enabled="1"><div class="loader">Loading ...</div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div><div class="panels-flexible-row-12-main-row-middle"><div class="panels-flexible-region panels-flexible-region-12-center panels-flexible-region-last pane-container">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-12-center-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-custom pane-1" >
+  
+      
+  
+  <div class="pane-content">
+    <a name="backtoTop"></a>   </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-48 with-border" >
+  
+      
+  
+  <div class="pane-content">
+    <!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style join-txt">
+<span>Text Size</span>
+<a class="increaseFont" data-role="button"></a> 
+<a class="decreaseFont" data-role="button"></a>
+
+<!-- This is the code for the Facebook Share button with a counter that pulls from the Graph API -->
+<a class="addthis_counter_facebook"></a>
+
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_google_plusone_share"></a>
+<a class="addthis_button_pinterest_share"></a>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_print"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript">
+var addthis_config = addthis_config||{};
+addthis_config.services_exclude = 'facebook'; // Needed so that the preferred buttons don't show a duplicate Facebook share option
+</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=addthisforshare"></script>
+<!-- AddThis Button END -->  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-node-title small-title resize-txt" >
+  
+      
+  
+  <div class="pane-content">
+    NASA Spacecraft Embarks on Historic Journey Into Interstellar Space  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-promotional-date resize-txt  join-txt promodate" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-promotional-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2013-09-12T00:00:00-04:00">September 12, 2013</span></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-content detail-body  resize-txt"  id="feature-content">
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>[image-36][image-51][image-80][image-110][image-94]</p>
+<p>PASADENA, Calif. -- NASA's Voyager 1 spacecraft officially is the first human-made object to venture into interstellar space. The 36-year-old probe is about 12 billion miles (19 billion kilometers) from our sun.</p>
+<p>New and unexpected data indicate Voyager 1 has been traveling for about one year through plasma, or ionized gas, present in the space between stars. Voyager is in a transitional region immediately outside the solar bubble, where some effects from our sun are still evident. A report on the analysis of this new data, an effort led by Don Gurnett and the plasma wave science team at the University of Iowa, Iowa City, is published in Thursday's edition of the journal Science.</p>
+<p>"Now that we have new, key data, we believe this is mankind's historic leap into interstellar space," said Ed Stone, Voyager project scientist based at the California Institute of Technology, Pasadena. "The Voyager team needed time to analyze those observations and make sense of them. But we can now answer the question we've all been asking -- 'Are we there yet?' Yes, we are."</p>
+<p>Voyager 1 first detected the increased pressure of interstellar space on the heliosphere, the bubble of charged particles surrounding the sun that reaches far beyond the outer planets, in 2004. Scientists then ramped up their search for evidence of the spacecraft's interstellar arrival, knowing the data analysis and interpretation could take months or years.</p>
+<p>Voyager 1 does not have a working plasma sensor, so scientists needed a different way to measure the spacecraft's plasma environment to make a definitive determination of its location. A coronal mass ejection, or a massive burst of solar wind and magnetic fields, that erupted from the sun in March 2012 provided scientists the data they needed. When this unexpected gift from the sun eventually arrived at Voyager 1's location 13 months later, in April 2013, the plasma around the spacecraft began to vibrate like a violin string. On April 9, Voyager 1's plasma wave instrument detected the movement. The pitch of the oscillations helped scientists determine the density of the plasma. The particular oscillations meant the spacecraft was bathed in plasma more than 40 times denser than what they had encountered in the outer layer of the heliosphere. Density of this sort is to be expected in interstellar space.</p>
+<p>The plasma wave science team reviewed its data and found an earlier, fainter set of oscillations in October and November 2012. Through extrapolation of measured plasma densities from both events, the team determined Voyager 1 first entered interstellar space in August 2012.</p>
+<p>"We literally jumped out of our seats when we saw these oscillations in our data -- they showed us the spacecraft was in an entirely new region, comparable to what was expected in interstellar space, and totally different than in the solar bubble," Gurnett said. "Clearly we had passed through the heliopause, which is the long-hypothesized boundary between the solar plasma and the interstellar plasma."</p>
+<p>The new plasma data suggested a timeframe consistent with abrupt, durable changes in the density of energetic particles that were first detected on Aug. 25, 2012. The Voyager team generally accepts this date as the date of interstellar arrival. The charged particle and plasma changes were what would have been expected during a crossing of the heliopause.</p>
+<p> "The team’s hard work to build durable spacecraft and carefully manage the Voyager spacecraft's limited resources paid off in another first for NASA and humanity," said Suzanne Dodd, Voyager project manager, based at NASA's Jet Propulsion Laboratory, Pasadena, Calif. "We expect the fields and particles science instruments on Voyager will continue to send back data through at least 2020. We can't wait to see what the Voyager instruments show us next about deep space."</p>
+<p>Voyager 1 and its twin, Voyager 2, were launched 16 days apart in 1977. Both spacecraft flew by Jupiter and Saturn. Voyager 2 also flew by Uranus and Neptune. Voyager 2, launched before Voyager 1, is the longest continuously operated spacecraft. It is about 9.5 billion miles (15 billion kilometers) away from our sun.</p>
+<p>Voyager mission controllers still talk to or receive data from Voyager 1 and Voyager 2 every day, though the emitted signals are currently very dim, at about 23 watts -- the power of a refrigerator light bulb. By the time the signals get to Earth, they are a fraction of a billion-billionth of a watt. Data from Voyager 1's instruments are transmitted to Earth typically at 160 bits per second, and captured by 34- and 70-meter NASA Deep Space Network stations. Traveling at the speed of light, a signal from Voyager 1 takes about 17 hours to travel to Earth. After the data are transmitted to JPL and processed by the science teams, Voyager data are made publicly available.</p>
+<p>“Voyager has boldly gone where no probe has gone before, marking one of the most significant technological achievements in the annals of the history of science, and adding a new chapter in human scientific dreams and endeavors,” said John Grunsfeld, NASA’s associate administrator for science in Washington. “Perhaps some future deep space explorers will catch up with Voyager, our first interstellar envoy, and reflect on how this intrepid spacecraft helped enable their journey.”</p>
+<p>Scientists do not know when Voyager 1 will reach the undisturbed part of interstellar space where there is no influence from our sun. They also are not certain when Voyager 2 is expected to cross into interstellar space, but they believe it is not very far behind.</p>
+<p>JPL built and operates the twin Voyager spacecraft. The Voyagers Interstellar Mission is a part of NASA's Heliophysics System Observatory, sponsored by the Heliophysics Division of NASA's Science Mission Directorate in Washington. NASA's Deep Space Network, managed by JPL, is an international network of antennas that supports interplanetary spacecraft missions and radio and radar astronomy observations for the exploration of the solar system and the universe. The network also supports selected Earth-orbiting missions.</p>
+<p>The cost of the Voyager 1 and Voyager 2 missions -- including launch, mission operations and the spacecraft’s nuclear batteries, which were provided by the Department of Energy -- is about $988 million through September.</p>
+<p>For a sound file of the oscillations detected by Voyager in interstellar space, animations and other information, visit: <strong><a href="http://www.nasa.gov/voyager">http://www.nasa.gov/voyager</a> .</strong></p>
+<p>For an image of the radio signal from Voyager 1 on Feb. 21 by the National Radio Astronomy Observatory's Very Long Baseline Array, which links telescopes from Hawaii to St. Croix, visit:</p>
+<p><strong><a href="http://www.nrao.edu">http://www.nrao.edu</a> </strong>.</p>
+</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-credits" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-credits field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Jia-Rui C. Cook/D.C. Agle 818-354-0850/818-393-9011<br />
+	Jet Propulsion Laboratory, Pasadena, Calif.<br /><a href="mailto:jccook@jpl.nasa.gov">jccook@jpl.nasa.gov</a></p>
+<p>Dwayne Brown 202-358-1726<br />
+	Headquarters, Washington<br /><a href="mailto:dwayne.c.brown@nasa.gov">dwayne.c.brown@nasa.gov</a></p>
+<p>2013-277        </p>
+</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-2" >
+  
+      
+  
+  <div class="pane-content">
+    <p><div class="back_to_top"><a href="#backtoTop">›&nbsp;Back To Top</a></div></p>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-top-images embedded-images"  id="top-images">
+  
+      
+  
+  <div class="pane-content">
+    <div class="field-collection-container clearfix"><div class="field field-name-field-top-images field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-top-images clearfix" about="/field-collection/field-top-images/50824" typeof="" class="entity entity-field-collection-item field-collection-item-field-top-images">
+  <div class="content">
+    <div class="field field-name-field-featuresideimages field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="/sites/default/files/styles/673xvariable_height/public/pia17462main_8k_1.jpg?itok=LU1IwFdj" width="673" height="379" alt="Artist&#039;s concept depicts NASA&#039;s Voyager 1 spacecraft entering interstellar space" /></div></div></div><div class="field field-name-field-feature-sidecaption field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">The Space Between: This artist&#039;s concept shows the Voyager 1 spacecraft entering the space between stars. Interstellar space is dominated by plasma, ionized gas (illustrated here as brownish haze), that was thrown off by giant stars millions of years ago.</div></div></div><div class="field field-name-field-image-token field-type-text field-label-above"><div class="field-label">Image Token:&nbsp;</div><div class="field-items"><div class="field-item even">[image-36]</div></div></div><div class="field field-name-field-feature-link field-type-link-field field-label-above"><div class="field-label">Feature Link:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://www.nasa.gov/mission_pages/voyager/multimedia/pia17462.html">Full image and caption</a></div></div></div>  </div>
+</div>
+</div></div></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-side-images embedded-images"  id="side-images">
+  
+      
+  
+  <div class="pane-content">
+    <div class="field-collection-container clearfix"><div class="field field-name-field-side-images field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-side-images clearfix" about="/field-collection/field-side-images/50821" typeof="" class="entity entity-field-collection-item field-collection-item-field-side-images">
+  <div class="content">
+    <div class="field field-name-field-featuresideimages field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="/sites/default/files/styles/226xvariable_height/public/pia17048twovs_1.jpg?itok=0a-F7p0Y" width="226" height="127" alt="Artist&#039;s concept of Voyager 1 and 2" /></div></div></div><div class="field field-name-field-feature-sidecaption field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Beyond the Bubble: The general locations of Voyager 1 and 2 are shown in this illustration at the edge of the heliosphere, the bubble created by solar wind.</div></div></div><div class="field field-name-field-image-credits field-type-text field-label-above"><div class="field-label">Image Credit:&nbsp;</div><div class="field-items"><div class="field-item even">NASA/JPL-Caltech</div></div></div><div class="field field-name-field-image-token field-type-text field-label-above"><div class="field-label">Image Token:&nbsp;</div><div class="field-items"><div class="field-item even">[image-51]</div></div></div><div class="field field-name-field-feature-link field-type-link-field field-label-above"><div class="field-label">Feature Link:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://www.nasa.gov/mission_pages/voyager/multimedia/pia17048.html">Full image and caption</a></div></div></div>  </div>
+</div>
+</div></div><div class="field-item odd"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-side-images clearfix" about="/field-collection/field-side-images/50822" typeof="" class="entity entity-field-collection-item field-collection-item-field-side-images">
+  <div class="content">
+    <div class="field field-name-field-youtube-embed field-type-text field-label-above"><div class="field-label">Youtube Override:&nbsp;</div><div class="field-items"><div class="field-item even">L4hf8HyP0LI</div></div></div><div class="field field-name-field-feature-sidecaption field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">After decades of exploration, Voyager 1 reaches a historic milestone for mankind--interstellar space.  Learn how the team discovered the craft had reached the space between the stars.</div></div></div><div class="field field-name-field-image-token field-type-text field-label-above"><div class="field-label">Image Token:&nbsp;</div><div class="field-items"><div class="field-item even">[image-80]</div></div></div>  </div>
+</div>
+</div></div><div class="field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-side-images clearfix" about="/field-collection/field-side-images/50823" typeof="" class="entity entity-field-collection-item field-collection-item-field-side-images">
+  <div class="content">
+    <div class="field field-name-field-featuresideimages field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="/sites/default/files/styles/226xvariable_height/public/pia17047vlba_1.jpg?itok=wCsefor_" width="226" height="226" alt="" /></div></div></div><div class="field field-name-field-feature-sidecaption field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Pale Blue, Take Two: In 1990, Voyager 1 took the famous &quot;Pale Blue Dot&quot; picture looking back at Earth. In 2013, the Very Long Baseline Array got the reverse-angle shot — this radio telescope image showing the signal of the spacecraft as a similar point of light.</div></div></div><div class="field field-name-field-image-credits field-type-text field-label-above"><div class="field-label">Image Credit:&nbsp;</div><div class="field-items"><div class="field-item even">NRAO/AUI/NSF.</div></div></div><div class="field field-name-field-image-token field-type-text field-label-above"><div class="field-label">Image Token:&nbsp;</div><div class="field-items"><div class="field-item even">[image-94]</div></div></div><div class="field field-name-field-feature-link field-type-link-field field-label-above"><div class="field-label">Feature Link:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://www.nasa.gov/mission_pages/voyager/multimedia/pia17047.html">Full image and caption</a></div></div></div>  </div>
+</div>
+</div></div><div class="field-item odd"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-side-images clearfix" about="/field-collection/field-side-images/51139" typeof="" class="entity entity-field-collection-item field-collection-item-field-side-images">
+  <div class="content">
+    <div class="field field-name-field-youtube-embed field-type-text field-label-above"><div class="field-label">Youtube Override:&nbsp;</div><div class="field-items"><div class="field-item even">lwW3ZNdaeU0</div></div></div><div class="field field-name-field-feature-sidecaption field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Neil deGrasse Tyson, Wil Wheaton, Carl Sagan&#039;s son and others share messages to the Voyager 1 spacecraft.</div></div></div><div class="field field-name-field-image-token field-type-text field-label-above"><div class="field-label">Image Token:&nbsp;</div><div class="field-items"><div class="field-item even">[image-110]</div></div></div>  </div>
+</div>
+</div></div></div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>  </div>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+</div>      </div>
+</div>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="section-footer-inner">LOADING...</div> </footer>  </div>    <div id="page-updated-info">
+          Page Last Updated: September 12th, 2013<br />
+      Page Editor: Tony Greicius<br />
+      </div>
+</body>
+</html>

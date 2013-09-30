@@ -1,0 +1,568 @@
+
+<html><!-- InstanceBegin template="/Templates/exhibitions2.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+<title>Smithsonian Institution Traveling Exhibition Service - About the Smithsonian Institution Traveling Exhibition Service's exhibitions.</title>
+<meta name="keywords" content="Smithsonian Institution Traveling Exhibition Service, Traveling Exhibits, Smithsonian Exhibits, Smithsonian Institution, Washington DC" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../../sites.css" type="text/css">
+<style type="text/css">
+<!--
+a:link {
+	color: #003366;
+}
+a:visited {
+	color: #333333;
+}
+a:hover {
+	color: #333366;
+}
+.style1 {color: #FFFFFF}
+.style2 {font-size: 60%; font-family: Verdana, Arial, Helvetica, sans-serif;}
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+.style29 {font-size: 10px; color: #365C96; }
+.style31 {font-size: 10px; color: #999999; }
+.style32 {color: #999999}
+.style33 {
+	font-size: 12px;
+	color: #003333;
+}
+.style35 {font-size: 12px; color: #003366; }
+.style36 {color: #003366}
+.style37 {color: #003333}
+body {
+	background-color: #EAEAEA;
+}
+.style58 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #666666; }
+.style59 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #666666; font-weight: bold; }
+.style60 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF; font-weight: bold; }
+-->
+</style>
+<script language="JavaScript">
+<!--
+
+function mmLoadMenus() {
+  if (window.mm_menu_0517141330_0) return;
+  window.mm_menu_0517141330_0 = new Menu("root",81,16,"Verdana, Arial, Helvetica, sans-serif",10,"#666666","#ffffff","#e5e5e5","#999999","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_0517141330_0.addMenuItem("How to Apply","location='http://www.sites.si.edu/interns/internships.htm#how'");
+  mm_menu_0517141330_0.addMenuItem("About SITES","location='http://www.sites.si.edu/about/index2.htm'");
+  mm_menu_0517141330_0.addMenuItem("FAQS","location='http://www.sites.si.edu/about/internships.htm#faqs'");
+  mm_menu_0517141330_0.addMenuItem("Contact Us","location='http://www.sites.si.edu/about/internships.htm#contact'");
+   mm_menu_0517141330_0.hideOnMouseOut=true;
+   mm_menu_0517141330_0.menuBorder=1;
+   mm_menu_0517141330_0.menuLiteBgColor='#ffffff';
+   mm_menu_0517141330_0.menuBorderBgColor='#ffffff';
+   mm_menu_0517141330_0.bgColor='#ffffff';
+  window.mm_menu_0517141027_1 = new Menu("root",157,16,"Verdana, Arial, Helvetica, sans-serif",10,"#666666","#ffffff","#e5e5e5","#999999","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_0517141027_1.addMenuItem("Corporate Sponsorship","location='http://www.sites.si.edu/funding/corp_sponsorship2.htm'");
+  mm_menu_0517141027_1.addMenuItem("Foundation Giving","location='http://www.sites.si.edu/funding/foundation_giving2.htm'");
+  mm_menu_0517141027_1.addMenuItem("Individual Support","location='http://www.sites.si.edu/funding/makeagift2.htm'");
+  mm_menu_0517141027_1.addMenuItem("Sponsorship Opportunities","location='http://www.sites.si.edu/funding/upcoming2.htm'");
+  mm_menu_0517141027_1.addMenuItem("Our Corporate Partners","location='http://www.sites.si.edu/funding/our_sponsors2.htm'");
+   mm_menu_0517141027_1.hideOnMouseOut=true;
+   mm_menu_0517141027_1.menuBorder=1;
+   mm_menu_0517141027_1.menuLiteBgColor='#ffffff';
+   mm_menu_0517141027_1.menuBorderBgColor='#ffffff';
+   mm_menu_0517141027_1.bgColor='#ffffff';
+  window.mm_menu_0517140828_2 = new Menu("root",101,16,"Verdana, Arial, Helvetica, sans-serif",10,"#666666","#ffffff","#e5e5e5","#999999","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_0517140828_2.addMenuItem("Press Releases","location='http://www.sites.si.edu/press/press_releases.htm'");
+  mm_menu_0517140828_2.addMenuItem("Special Features","location='http://www.sites.si.edu/press/features2.htm'");
+  mm_menu_0517140828_2.addMenuItem("FAQS","location='http://www.sites.si.edu/press/faqs2.htm'");
+  mm_menu_0517140828_2.addMenuItem("In the News","location='http://www.sites.si.edu/press/in_the_news2.htm'");
+   mm_menu_0517140828_2.hideOnMouseOut=true;
+   mm_menu_0517140828_2.menuBorder=1;
+   mm_menu_0517140828_2.menuLiteBgColor='#ffffff';
+   mm_menu_0517140828_2.menuBorderBgColor='#ffffff';
+   mm_menu_0517140828_2.bgColor='#ffffff';
+  window.mm_menu_0517140636_3 = new Menu("root",110,16,"Verdana, Arial, Helvetica, sans-serif",10,"#666666","#ffffff","#e5e5e5","#999999","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_0517140636_3.addMenuItem("View by Category","location='http://www.sites.si.edu/visit/category.htm'");
+  mm_menu_0517140636_3.addMenuItem("View by Title","location='http://www.sites.si.edu/visit/title.htm'");
+  mm_menu_0517140636_3.addMenuItem("Online Exhibitions","location='http://www.sites.si.edu/host/online_exhibitions.htm'");mm_menu_0517140636_3.addMenuItem("Podcasts&nbsp;| Videos","location='http://www.sites.si.edu/visit/podcasts.html'");
+   mm_menu_0517140636_3.hideOnMouseOut=true;
+   mm_menu_0517140636_3.menuBorder=1;
+   mm_menu_0517140636_3.menuLiteBgColor='#ffffff';
+   mm_menu_0517140636_3.menuBorderBgColor='#ffffff';
+   mm_menu_0517140636_3.bgColor='#ffffff';
+  window.mm_menu_0517140213_4 = new Menu("root",135,16,"Verdana, Arial, Helvetica, sans-serif",10,"#666666","#ffffff","#e5e5e5","#999999","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+    mm_menu_0517140213_4.addMenuItem("New&nbsp;Exhibitions","location='http://www.sites.si.edu/about/whatsnew.htm'");
+
+  mm_menu_0517140213_4.addMenuItem("Guidelines for Hosting","location='http://www.sites.si.edu/host/guidelines2a.htm'");
+  mm_menu_0517140213_4.addMenuItem("Immediate Availability","location='http://www.sites.si.edu/host/available.htm'");
+  mm_menu_0517140213_4.addMenuItem("Search for Exhibitions","location='http://www.sites.si.edu/host/search.htm'");
+  mm_menu_0517140213_4.addMenuItem("SI Community Grants","location='http://www.sites.si.edu/funding/grant2.htm'");
+  mm_menu_0517140213_4.addMenuItem("Join the Mailing List","location='http://www.sites.si.edu/host/survey2.htm'");
+  mm_menu_0517140213_4.addMenuItem("Close-Out Survey","location='http://www.sites.si.edu/host/close_out.htm'");
+  mm_menu_0517140213_4.addMenuItem("Installation Tips","location='http://www.sites.si.edu/host/registrar_tips2.htm'");
+  mm_menu_0517140213_4.addMenuItem("Your Feedback","location='http://www.sites.si.edu/feedback/index2.htm'");
+   mm_menu_0517140213_4.hideOnMouseOut=true;
+   mm_menu_0517140213_4.menuBorder=1;
+   mm_menu_0517140213_4.menuLiteBgColor='#ffffff';
+   mm_menu_0517140213_4.menuBorderBgColor='#ffffff';
+   mm_menu_0517140213_4.bgColor='#ffffff';
+  window.mm_menu_0517135849_5 = new Menu("root",142,16,"Verdana, Arial, Helvetica, sans-serif",10,"#666666","#ffffff","#e5e5e5","#999999","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_0517135849_5.addMenuItem("What We Do","location='http://www.sites.si.edu/about/whatwedo2.htm'");
+  mm_menu_0517135849_5.addMenuItem("SITES Story","location='http://www.sites.si.edu/about/our_story1.htm'");
+  mm_menu_0517135849_5.addMenuItem("Museum on Main Street","location='http://www.museumonmainstreet.org/'");
+  mm_menu_0517135849_5.addMenuItem("FAQS","location='http://www.sites.si.edu/about/faqs2.htm'");
+  mm_menu_0517135849_5.addMenuItem("Contact Us","location='http://www.sites.si.edu/about/contactus2.htm'");
+   mm_menu_0517135849_5.hideOnMouseOut=true;
+   mm_menu_0517135849_5.menuBorder=1;
+   mm_menu_0517135849_5.menuLiteBgColor='#ffffff';
+   mm_menu_0517135849_5.menuBorderBgColor='#ffffff';
+   mm_menu_0517135849_5.bgColor='#ffffff';
+
+  mm_menu_0517135849_5.writeMenus();
+} // mmLoadMenus()
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->//-->
+</script>
+<script language="JavaScript1.2" src="../../../images/Navigation%20and%20Banners/mm_menu.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6579951-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body text="#000000" alink="#CC0033" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="766" cellpadding="0" cellspacing="0" border="0" bgcolor="#CCCCCC">
+  <tr> 
+    <td height="60" bgcolor="#ffffff"></td>
+    <Td colspan="3" valign="top" bgcolor="#FFFFFF"><p><a href="../../../index.htm"><img src="../../../images/exhibits/banner_new_diagonalICONS.gif" width="765" height="60" border="0" usemap="#Map"></a><br>
+    </p>
+    </td>
+    <td bgcolor="#999999"></td>
+  </tr>
+  <tr> 
+    <td height="24" bgcolor="#ffffff"></td>
+    <td colspan="3" bgcolor="#FFFFFF">      <div align="left">
+          <script language="JavaScript1.2">mmLoadMenus();</script>
+        <img name="navigation_top" src="../../../images/Navigation%20and%20Banners/navigation_top.gif" width="765" height="20" border="0" usemap="#m_navigation_top" alt=""><br>
+</td><td bgcolor="#999999"></td>
+  </tr>
+  <tr> 
+    <td height="127" bgcolor="#ffffff"></td>
+    <td colspan="3" valign="top" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="pageguts3" --><img src="../../../images/exhibits/suitedForSpace/shepardBanner.jpg" alt="A7-L Extra vehicular Suit, Shepard, Apollo 14. Courtesy National Air and Space Museum" width="765" height="128"><!-- InstanceEndEditable --></td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#ffffff"></td>
+    <td width="566" bgcolor="#FFFFFF" > <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+      <!-- dynamic menu goes here -->
+      </font> <table width="160"  border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+     </tr>
+      </table>      
+      <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <tr>        </tr>
+      </table>
+      <a href="http://www.sites.si.edu"></a><!-- #BeginEditable "pageguts1" --> 
+      <p>&nbsp;</p>
+      <div align="left">
+        <p align="center"><img src="../../../images/exhibits/titles/suitedForSpace.gif" alt="Suited for Space" width="540" height="19"></p>
+        <table width="93%"  border="0" align="center" cellpadding="2" cellspacing="2">
+          <tr>
+            <td height="806" valign="top"><p><img src="../../../images/exhibits/suitedForSpace/Hamilton Standard .jpg" alt="MH-5: First MOL Training Configuration; Hamilton Standard, 1967." width="178" height="350" style="margin: 0px 15px 14px 0px;" align="left">The history  of this country is one of perilous voyages and unchartered territory, but few  journeys have captured the imagination and hearts of the public as the race into  space. It was seemingly unattainable, but American ingenuity, innovation, and  determination made the impossible possible. And it is that ingenuity and  innovation that is explored and celebrated in the SITES exhibit <em>Suited for Space.</em> </p>
+              <p>Through rare  and original photography, including unique, new&nbsp;x-ray images of the interiors of the spacesuits, the exhibit reveals how the modern technological marvel that is the spacesuit  enables astronauts to live and work in space. This exhibit reveals the  remarkable creativity and determination of the extraordinary few who ventured  into space, but it highlights and showcases the brilliant ingenuity of the  hundreds more who worked tirelessly&mdash;and often anonymously&mdash;to get them  there.&nbsp; </p>
+              <p><br>
+              In May 1961,  when President Kennedy made the promise that America would put a man on the  moon within a decade, the ability to fulfill that promise existed only in  theory. The spacesuit was a critical piece of  engineering that allowed Neil Armstrong to step onto another world and survive  in the hostile environment of outer space. The Apollo spacesuit he wore evolved  from the groundbreaking advances of the Gemini and Mercury mission suits,  facilitating movement and dexterity in small spaces, remaining pressurized in  zero gravity, and providing essential oxygen, heating, and cooling in as  efficient a manner as possible.</p>
+              <p>The national exhibition tour is  generously supported by <span class="basicbold">DuPont</span>.</p>
+              <p>
+                         
+              <p><a href="http://www.facebook.com/suitedforspace" target="_blank"><img src="../../../images/exhibits/suitedForSpace/facebook.fw.png" title="Suited for Space is on Facebook" style="margin-right:20px"></a><a href="http://www.youtube.com/playlist?list=PL1B854263CE76EC34" target="_blank"><img src="../../../images/exhibits/suitedForSpace/youtube.fw.png" width="139" height="167" title="Suited for Space is on YouTube"></a></p>
+			         <p>&nbsp;</p>
+             </td>
+          </tr>
+        </table>
+        <p><span class="basictextb"><span style="font-weight: bold"><a name="specifications"></a></span></span></p>
+        <div align="center"><span class="basictextb"><b><img src="../../../images/exhibits/ex_specs.gif" alt="Exhibition specifications" width="540" height="17"></b></span></div>
+        <p class="basictextb" style="font-size: 10pt">
+        <table width="95%"  border="0" align="center" cellpadding="2" cellspacing="2">
+            <tr bgcolor="d7d7f2">
+              <td width="27%" bgcolor="#EEEFF2"><span style="font-size: 10pt; font-weight: bold">Contents</span></td>
+              <td width="73%" bgcolor="#EEEFF2">Text and graphic panels, banners with life-size photographs and x-rays of suits, framed photographs, objects, replica Apollo spacesuit,  photo-op spacesuit </td>
+            </tr>
+            <tr bgcolor="d7d7f2">
+              <td height="27" bgcolor="#EEEFF2"><span style="font-weight: bold; font-size: 10pt">Supplemental</span></td>
+              <td bgcolor="#EEEFF2"><p>Educational and promotional resources </p></td>
+            </tr>
+            <tr bgcolor="d7d7f2">
+              <td bgcolor="#EEEFF2"><span style="font-size: 10pt; font-weight: bold">Participation Fee </span></td>
+              <td bgcolor="#EEEFF2">$15,000</td>
+            </tr>
+            <tr bgcolor="d7d7f2">
+              <td bgcolor="#EEEFF2"><span style="font-size: 10pt; font-weight: bold">Size</span></td>
+              <td valign="top" bgcolor="#EEEFF2">Approximately 2,000 square feet </td>
+            </tr>
+            <tr bgcolor="d7d7f2">
+              <td bgcolor="#EEEFF2"><span style="font-size: 10pt; font-weight: bold">Crates</span></td>
+              <td bgcolor="#EEEFF2">11 + Pallet Jack </td>
+            </tr>
+            <tr bgcolor="d7d7f2">
+              <td bgcolor="#EEEFF2"><span style="font-size: 10pt; font-weight: bold">Weight</span></td>
+              <td bgcolor="#EEEFF2">5,415 lbs </td>
+            </tr>
+            <tr bgcolor="d7d7f2">
+              <td bgcolor="#EEEFF2"><span style="font-size: 10pt; font-weight: bold">Category</span></td>
+              <td bgcolor="#EEEFF2">Science </td>
+            </tr>
+            <tr bgcolor="d7d7f2">
+              <td bgcolor="#EEEFF2"><span style="font-weight: bold; font-size: 10pt">Security</span></td>
+              <td bgcolor="#EEEFF2">Moderate</td>
+            </tr>
+            <tr bgcolor="d7d7f2">
+              <td bgcolor="#EEEFF2"><span style="font-size: 10pt; font-weight: bold">Shipping</span></td>
+              <td bgcolor="#EEEFF2"><p align="left">  $5,783, Prorated</p></td>
+            </tr>
+            <tr bgcolor="d7d7f2">
+              <td height="36" bgcolor="#EEEFF2"><span style="font-size: 10pt; font-weight: bold">SITES Contacts</span></td>
+              <td valign="top" bgcolor="#EEEFF2"><p><a href="mailto:drakes@si.edu">Saul Drake</a>, 202.633.3115 (Content | Design)<br>
+                  <a href="mailto:russellm@si.edu">Minnie Russell</a>, 202.633.3160  (Scheduling) </p>              </td>
+            </tr>
+            <tr bgcolor="d7d7f2">
+              <td bgcolor="#EEEFF2"><span style="font-size: 10pt; font-weight: bold">Tour Through </span></td>
+              <td bgcolor="#EEEFF2"><p align="left">2015</p></td>
+            </tr>
+            <tr bgcolor="#FFFFFF">
+              <td colspan="2"><div align="right">
+                <p>&nbsp;</p>
+                <p><img src="../../../images/exhibits/suitedForSpace/quote.gif" alt="The popularity and interest in spacesuits reflects the extraordinary cultural status of spaceflight. Allan Needell, National Air and Space Museum" width="354" height="90"></p>
+              </div></td>
+            </tr>
+        </table>
+        
+        <p><span class="basictextb"><a name="itinerary"></a></span></p>
+        <div align="center">
+          <p class="basictextb"><img src="../../../images/exhibits/ex_tour.gif" alt="Tour itinerary" width="540" height="17"></p>
+        </div>
+      <table width="95%"  border="0" align="center" cellpadding="2" cellspacing="2">
+            <tr bgcolor="#D7D7F2">
+              <td width="16%" bgcolor="#EEEFF2"><span style="font-size: 10pt; font-weight: bold">Opening</span></td>
+              <td width="18%" bgcolor="#EEEFF2"><span style="font-weight: bold">Closing</span></td>
+              <td width="41%" bgcolor="#EEEFF2"><span style="font-size: 10pt; font-weight: bold">Host Institution </span></td>
+              <td width="25%" bgcolor="#EEEFF2"><span style="font-weight: bold; font-size: 10pt">Status</span></td>
+            </tr>
+            <tr bgcolor="#D7D7F2">
+              <td bgcolor="#EEEFF2">04/06/2011-</td>
+              <td bgcolor="#EEEFF2">09/25/2011</td>
+              <td bgcolor="#EEEFF2">Museum  of Science and Industry, Chicago, IL </td>
+              <td bgcolor="#EEEFF2">Booked</td>
+            </tr>
+            <tr bgcolor="#D7D7F2">
+              <td bgcolor="#EEEFF2">10/15/2011-</td>
+              <td bgcolor="#EEEFF2">01/08/2012</td>
+              <td bgcolor="#EEEFF2">Science Museum of Virginia, Richmond, VA </td>
+              <td bgcolor="#EEEFF2">Booked</td>
+            </tr>
+            <TR bgColor="#d7d7f2">
+              <TD bgColor="#eeeff2">01/28/2012-</TD>
+              <TD bgColor="#eeeff2">04/22/2012</TD>
+              <TD bgColor="#eeeff2">Columbia Space Center, Downey, CA </TD>
+              <TD bgColor="#eeeff2">Booked</TD>
+            </TR>
+            <TR bgColor="#d7d7f2">
+              <TD bgColor="#eeeff2">05/12/2012-</TD>
+              <TD bgColor="#eeeff2">08/05/2012</TD>
+              <TD bgColor="#eeeff2">Strategic Air and Space Museum,<BR>
+                Ashland, NE </TD>
+              <TD bgColor="#eeeff2">Booked</TD>
+            </TR>
+            <TR bgColor="#d7d7f2">
+              <TD bgColor="#eeeff2">08/25/2012-</TD>
+              <TD bgColor="#eeeff2">11/18/2012</TD>
+              <TD bgColor="#eeeff2">Center for Earth and Space Science,<BR>
+                Tyler, TX </TD>
+              <TD bgColor="#eeeff2">Booked</TD>
+            </TR>
+            <TR bgColor="#d7d7f2">
+              <TD bgColor="#eeeff2">12/08/2012-</TD>
+              <TD bgColor="#eeeff2">03/03/2013</TD>
+              <TD bgColor="#eeeff2">American Textile History Museum, Lowell, MA </TD>
+              <TD bgColor="#eeeff2">Booked</TD>
+            </TR>
+            <TR bgColor="#d7d7f2">
+              <TD bgColor="#eeeff2">03/23/2013-</TD>
+              <TD bgColor="#eeeff2">06/16/2013</TD>
+              <TD bgColor="#eeeff2">Lowell Observatory, Flagstaff, AZ</TD>
+              <TD bgColor="#eeeff2">Booked</TD>
+            </TR>
+            <TR bgColor="#d7d7f2">
+              <TD bgColor="#eeeff2">07/26/2013-</TD>
+              <TD bgColor="#eeeff2">01/21/2014</TD>
+              <TD bgColor="#eeeff2">Smithsonian National Air and Space Museum, Washington, DC </TD>
+              <TD bgColor="#eeeff2">Booked</TD>
+            </TR>
+            <TR bgColor="#d7d7f2">
+              <TD bgColor="#eeeff2">02/01/2014-</TD>
+              <TD bgColor="#eeeff2">04/27/2014</TD>
+              <TD bgColor="#eeeff2">Tampa Bay History Center, Tampa, FL </TD>
+              <TD bgColor="#eeeff2">Booked</TD>
+            </TR>
+            <TR bgColor="#d7d7f2">
+              <TD bgColor="#eeeff2">05/17/2014-</TD>
+              <TD bgColor="#eeeff2">11/23/2014</TD>
+              <TD bgColor="#eeeff2">Chemical Heritage Foundation, Philadelphia, PA </TD>
+              <TD bgColor="#eeeff2">Booked</TD>
+            </TR>
+            <TR bgColor="#d7d7f2">
+              <TD bgColor="#eeeff2">12/13/2014-</TD>
+              <TD bgColor="#eeeff2">03/08/2015</TD>
+              <TD bgColor="#eeeff2">The Museum of Flight, Seattle, WA </TD>
+              <TD bgColor="#eeeff2">Booked</TD>
+            </TR>
+            <TR bgColor="#d7d7f2">
+              <TD bgColor="#eeeff2">03/28/2015-</TD>
+              <TD bgColor="#eeeff2">06/21/2015</TD>
+              <TD bgColor="#eeeff2">&nbsp;</TD>
+              <TD bgColor="#eeeff2">Call for Availability</TD>
+            </TR>
+            <TR bgColor="#d7d7f2">
+              <TD bgColor="#eeeff2">7/11/2015-</TD>
+              <TD bgColor="#eeeff2">10/4/2015</TD>
+              <TD bgColor="#eeeff2">&nbsp;</TD>
+              <TD bgColor="#eeeff2">Call for Availability</TD>
+            </TR>
+            
+            <tr bgcolor="#FFFFFF">
+              <td colspan="4">&nbsp;</td>
+            </tr>
+        </table>
+      
+          <p class="basictextb"><span style="font-weight: bold"><a name="publications"></a></span></p>
+        <p align="center" class="basictextb"><img src="../../../images/exhibits/ex_pubs.gif" alt="Related publications" width="540" height="17"></p>
+        <table width="95%"  border="0" align="center" cellpadding="2" cellspacing="2">
+          <tr>
+            <td width="71%" valign="top"><p><span style="font-style: italic">Spacesuits: The Smithsonian National Air and Space Museum Collection</span> by Amanda Young. Brooklyn: powerHouse Books, 2009. Hard cover. </p>
+              <p>&nbsp;</p>            </td>
+            <td width="29%" valign="top"><p align="center"><img src="../../../images/pubs_images/spacesuits.jpg" alt="Spacesuits book cover" width="70" height="138" align="left"></p>            </td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+        </table>
+        <p class="basictextb"><span style="font-weight: bold"><a name="press"></a></span>
+        <p class="basictextb">
+        <div align="center">
+          <p class="basictextb"><b><img src="../../../images/exhibits/ex_press.gif" alt="Press release" width="540" height="17"><br>
+          </b></p>
+        </div>
+        <table width="95%"  border="0" align="center" cellpadding="2" cellspacing="2">
+          <tr>
+            <td colspan="2" valign="top"><p><span class="basicbold">Media only:</span>		Christin Chism	202.633.3159<br>
+                <span class="basicbold">Media web site:</span>	http://newsdesk.si.edu</p>            
+              <p class="basicbold"> Spacesuits That Helped Launch the American Space Program Explored <br>
+              in New Smithsonian Exhibition </p>
+              <p> In 1961, President John F. Kennedy stated the United States would land a man on the moon and return him safely to Earth before the end of the decade. To achieve this ambitious goal, astronauts would need not only a spacecraft to launch them safely into space, but a spacesuit that would protect them as well. Without the proper clothing to keep them alive while traveling, living and working beyond the bonds of Earth, space exploration was not possible. </p>
+              <p><span class="basicitals">Suited for Space</span>, a new exhibition from the Smithsonian Institution Traveling Exhibition (SITES) and the Smithsonian&rsquo;s National Air and Space Museum, explores the evolution of spacesuit development from the first quarter of the 20th century until the dawn of the shuttle era.</p>
+              <p><span style="font-style: italic">Suited for Space</span> will premiere at the Museum of Science and Industry in Chicago April 6. It will remain on view through Sept. 25 and will continue on an 11-city national tour through 2015.	 The national exhibition tour of <span class="basicitals">Suited for Space</span> is supported by DuPont.</p>
+              <p>The exhibition features large-scale photographs of suits worn by astronauts from Project Mercury through the Skylab program as well as suits used in testing and training. The photographs featured in <span class="basicitals">Suited for Space</span> were taken by Smithsonian photographer Mark Avino. In addition, Avino, in collaboration with Ronald Cunningham produced new X-ray images that provide a unique view of the interiors of the spacesuits. While the fragility of these spacesuits prevents them from traveling, the exhibition will feature a replica Apollo spacesuit on loan from NASA and 10 objects from the National Air and Space Museum&rsquo;s collection, including a glove, a boot and helmets. Avino&rsquo;s photographs provide a visual timeline of the spacesuits&rsquo; development over the years.<br>
+                <br>
+                <span class="basicitals">Suited for Spac</span>e includes suits that made history&mdash;like the one Buzz Aldrin wore on the Moon&mdash;and those that never left the ground such as the Mark V spacesuit designed for Project Mercury. The design of the Mark V suit included an over-sized shoulder joint that provided an expanded level of mobility. However, with three astronauts sitting side-by-side in a capsule the size of the front seat of a small car, the suit was not feasible for the Apollo mission. A visitor to the exhibition can see an exciting visual timeline of the spacesuits&rsquo; evolution over the years. In addition, the exhibition has its own Facebook page for space trivia, curatorial insight, and general fun. Visit <a href="http://www.facebook.com/suitedforspace" target="_blank">www.facebook.com/suitedforspace</a>. </p>
+              <p><span class="basicitals">Suited for Space</span> is accompanied by a richly illustrated book, titled Spacesuits: The Smithsonian&rsquo;s National Air and Space Museum Collection available through powerHouse Books. DuPont&rsquo;s sponsorship reflects the company&rsquo;s commitment to protecting people though innovative protective apparel. DuPont is a science-based products and services company. Founded in 1802, DuPont puts science to work by creating sustainable solutions essential to a better, safer, healthier life for people everywhere.</p>
+              <p>The National Air and Space Museum building on the National Mall in Washington, D.C., is located at Sixth Street and Independence Avenue S.W. The museum&rsquo;s Steven F. Udvar-Hazy Center is located in Chantilly, Va., near Washington Dulles International Airport. Both facilities are open daily from 10 a.m. until 5:30 p.m. (closed Dec. 25). Admission is free, but there is a $15 fee for parking at the Udvar-Hazy Center. </p>
+              <p>SITES has been sharing the wealth of Smithsonian collections and research programs with millions of people outside Washington, D.C., for more than 60 years. SITES connects Americans to their shared cultural heritage through a wide range of exhibitions about art, science and history, which are shown wherever people live, work and play. Exhibition descriptions and tour schedules are available at <a href="http://www.sites.si.edu">www.sites.si.edu</a>.<br>
+              </p></td>
+          </tr>
+          <tr>
+            <td width="86%">&nbsp;</td>
+            <td width="14%"><div align="right"><span class="basictextb"><a href="#top"><img src="../../../images/Navigation%20and%20Banners/up.gif" alt="Up button" width="28" height="26" border="0"></a></span></div></td>
+          </tr>
+        </table>
+        <p class="basictextb"><br>
+      </div>
+    <!-- #EndEditable -->      
+      <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
+        <!-- end of dynamic menu -->
+      </font></p>
+    </td>
+    <td width="16" bgcolor="#FFFFFF"><p align="left"><img src="../../../images/exhibits/ex_line3.gif" width="1" height="391"><Br>
+      </p>
+    </td>
+    <td width="183" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="pageguts2" --><br>
+      <table width="93%"  border="0" cellpadding="12" cellspacing="0" bordercolor="d1d6de">
+              <tr>
+                <td bgcolor="d1d6de"><span class="style59 style32" style="font-size: 10px; font-weight: bold">EXPLORE and LEARN </span></td>
+              </tr>
+              <tr>
+                <td><p><span class="style58" style="font-size: 10px"><a href="#specifications">Exhibition Specifications</a> <br>
+                    <br>
+                        <a href="#itinerary">Tour Itinerary                        </a><a href="/images/exhibits/ancestry_innovation/slideshow/index.htm"></a></span><span class="style58" style="font-size: 10px"><br>
+                        <br>
+                        <a href="#publications">Related Publications</a><br>
+                        <br>
+                        <a href="/exhibitions/exhibits/suitedForSpace/suitedForSpaceExhibitionProspectus.pdf" target="_blank">Exhibition Prospectus</a>                        <br>
+                        <br>
+                        <a href="#press">Press Release<br>
+                        <br>
+                        </a>
+						<a href="http://www.facebook.com/suitedforspace?sk=app_10442206389" target="_blank">For Kids</a>                        <br>
+                        <br></span></p>                  </td>
+              </tr>
+      </table>
+            <br>
+            <table width="162" border="0" cellpadding="1">
+              <tr>
+                <td width="81"><a href="../../../images/exhibits/suitedForSpace/ApolloBootFull.jpg" target="_blank"><img src="../../../images/exhibits/suitedForSpace/ApolloBootThumbnail.jpg" alt="Click to enlarge. Boot from Apollo mission." width="81" height="106" border="0" onClick="MM_openBrWindow('../../../images/exhibits/suitedForSpace/ApolloBootFull.jpg','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=469,height=351')"></a></td>
+                <td width="71"><a href="../../../images/exhibits/suitedForSpace/greenSuitFull.jpg" target="_blank"><img src="../../../images/exhibits/suitedForSpace/greenSuitFullThumbnail.jpg" alt="Click to enlarge. Mark V--Modified. B.F. Goodrich, 1968." width="81" height="106" border="0" onClick="MM_openBrWindow('../../../images/exhibits/suitedForSpace/greenSuitFull.jpg','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=290,height=451')"></a></td>
+              </tr>
+              <tr>
+                <td><a href="../../../images/exhibits/suitedForSpace/oldSuitFull.jpg" target="_blank"><img src="../../../images/exhibits/suitedForSpace/oldSuitThumbnail.jpg" alt="Click to enlarge. EX1-A--Apollo Applications Project. AiResearch Corporation, 1968." width="81" height="106" border="0" onClick="MM_openBrWindow('../../../images/exhibits/suitedForSpace/oldSuitFull.jpg','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=224,height=504')"></a></td>
+                <td><a href="../../../images/exhibits/suitedForSpace/RightArmFull.jpg" target="_blank"><img src="../../../images/exhibits/suitedForSpace/RightArmThumbnail.jpg" alt="Click to enlarge. RX-1--Radiograph of arm unit. Litton Industries, 1962." width="81" height="106" border="0" onClick="MM_openBrWindow('../../../images/exhibits/suitedForSpace/RightArmFull.jpg','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=500,height=220')"></a></td>
+              </tr>
+              <tr>
+                <td><a href="../../../images/exhibits/suitedForSpace/XraysuitFull.jpg" target="_blank"><img src="../../../images/exhibits/suitedForSpace/XraysuitThumbnail.jpg" alt="Click to enlarge. EX1-A--Radiograph Image. AiResearch Corporation, 1968." width="81" height="106" border="0" onClick="MM_openBrWindow('../../../images/exhibits/suitedForSpace/Shepardx-rayFull.jpg','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=270,height=515')"></a></td>
+                <td><a href="../../../images/exhibits/suitedForSpace/shepardFull.jpg" target="_blank"><img src="../../../images/exhibits/suitedForSpace/shepardThumbnail.jpg" alt="Click to enlarge. A7-L Extra-vehicular suit, Shepard, Apollo 14." width="81" height="106" border="0" onClick="MM_openBrWindow('../../../images/exhibits/suitedForSpace/shepardFull.jpg','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=258,height=496')"></a></td>
+              </tr>
+            </table>
+            <br>
+            <br>
+            <table width="93%" border="0" cellspacing="0" cellpadding="12">
+              <tr>
+                <td bgcolor="d1d6de"><p class="style29" style="font-weight: bold">If you like this exhibition, you may also like:</p>
+                    <p class="style29"><a href="../../../blackWings/index.html">Black Wings: American Dreams of Flight</a></p>
+                  <p class="style29"><a href="../beyond/main.htm">Beyond: Visions of Planetary Landscapes </a>(Archived Exhibition)</p>
+                  <p><span class="style29"><a href="../evolvingUniverse/index.htm">The Evolving Universe</a><a href="../earth/main.htm"></a></span> </p>
+                <p><span class="style29"><a href="../nasa_art/main.htm">NASA | ART: 50 Years of Exploration (Archived Exhibtion)</a></span></p>
+                <p><a href="../sidTheScienceKid/index.html" class="style29"></a> <br>  
+                  <br>
+                </p></td>
+              </tr>
+      </table>
+      <!-- InstanceEndEditable -->
+      <p class="style29"><a href="../../../host/list.htm"><img src="../../../images/Navigation%20and%20Banners/Info.gif" alt="More Exhibitions from SITES" width="116" height="20" border="0"></a></p>
+   <span class="st_sharethis" displayText="ShareThis"></span>&nbsp;</p></td>
+  </td>
+  </tr>
+  <tr> 
+    <td bgcolor="#ffffff"></td>
+    <Td colspan="3"> 
+  <tr> 
+    <td bgcolor="#ffffff" width="1"></td>
+    <Td colspan="3"><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#CCCCCC">
+        <!--DWLayoutTable-->
+        <tbody>
+          <tr valign="middle" bgcolor="#E1E1E1" style="text-align: right;"> 
+            <td width="119" height="32"><div align="center"><span class="style1"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.si.edu/privacy/" target="_blank">Privacy 
+              Policy</a> </font></span></div></td>
+            <td width="11" align="left"><span class="style36">|</span></td>
+            <td width="117"> 
+              <div align="center" class="style1"><a href="../../../about/contactus2.htm" target="_parent" class="style2"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Contact 
+            Us</font></a></div></td>
+            <td width="9" align="center"><span class="style36">|</span></td>
+            <td width="119" align="center"> 
+              <div align="center" class="style1">
+                <div align="center"><a href="http://www.si.edu/Termsofuse" target="_blank" class="style2"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Terms of Use</font></a></div>
+            </div></td>
+            <td width="9" align="center"><span class="style36">|</span></td>
+            <td width="117"> 
+            <div align="center" class="style1"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.si.edu/copyright/" target="_blank">&copy;Copyright</a></font></div></td>
+            <td width="12" align="center"><span class="style37">|</span></td>
+            <td width="180"> 
+              <div align="center" class="style1">
+                <div align="center"><a href="http://www.si.edu" target="_blank" class="style2"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Smithsonian 
+                Institution</font></a></div>
+            </div></td>
+          </tr>
+        </tbody>
+      </table></td>
+    <td bgcolor="#999999" width="3"></td>
+  </tr>
+  <tr> 
+    <td colspan="5" bgcolor="#ffffff"></td>
+  </tr>
+  <tr bgcolor="#99CC00"> 
+    <td height="135" colspan="5" bgcolor="#333333" class="sidemenu"> <blockquote>
+      <table width="47%"  border="0" align="right" cellpadding="0" cellspacing="0">
+        <tr valign="top" bgcolor="#669900">
+          <td width="59%" bgcolor="#333333"><p class="style31"><span class="style32">Mailing Address</span><br>
+                <span class="style1">PO Box 37012 <br>
+        MRC 941<br>
+        Washington, DC 20013-7012 <br>
+        202.633.3168 (tel.) <br>
+        202.633.5347 (fax)</span></p></td>
+          <td width="41%" bgcolor="#333333"><p class="style29"><span class="style32"><span class="style32">Delivery Address</span><br>
+              </span><span class="style1">470 L'Enfant Plaza, SW<br>
+        Suite 7103<br>
+        Washington, DC 20024 </span></p></td>
+        </tr>
+      </table>
+    </blockquote>      <p></p></td>
+  </tr>
+</table>
+<p><map name="m_navigation_top">
+        <area shape="rect" coords="678,3,738,16" href="http://www.sites.si.edu/interns/internships.htm" alt="" onMouseOut="MM_startTimeout();"  onMouseOver="MM_showMenu(window.mm_menu_0517141330_0,658,20,null,'navigation_top');"  >
+        <area shape="rect" coords="555,3,638,16" href="http://www.sites.si.edu/funding/index2.htm" alt="" onMouseOut="MM_startTimeout();"  onMouseOver="MM_showMenu(window.mm_menu_0517141027_1,555,20,null,'navigation_top');"  >
+        <area shape="rect" coords="446,4,510,15" href="http://www.sites.si.edu/press/index2.htm" alt="" onMouseOut="MM_startTimeout();"  onMouseOver="MM_showMenu(window.mm_menu_0517140828_2,445,20,null,'navigation_top');"  >
+        <area shape="rect" coords="292,4,396,15" href="http://www.sites.si.edu/visit/index2.htm" alt="" onMouseOut="MM_startTimeout();"  onMouseOver="MM_showMenu(window.mm_menu_0517140636_3,292,20,null,'navigation_top');"  >
+        <area shape="rect" coords="141,4,245,15" href="http://www.sites.si.edu/host/index2.htm" alt="" onMouseOut="MM_startTimeout();"  onMouseOver="MM_showMenu(window.mm_menu_0517140213_4,140,20,null,'navigation_top');"  >
+        <area shape="rect" coords="27,5,98,16" href="http://www.sites.si.edu/about/index2.htm" alt="" onMouseOut="MM_startTimeout();"  onMouseOver="MM_showMenu(window.mm_menu_0517135849_5,27,20,null,'navigation_top');"  >
+      </map>
+&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<map name="Map"><area shape="rect" coords="39,14,221,48" href="../../../index.htm" alt="SITES Home">
+<area shape="rect" coords="401,19,430,46" href="http://www.shows2go.si.edu" target="_blank" alt="SITES blog">
+<area shape="rect" coords="483,18,514,45" href="http://www.facebook.com/sitesExhibitions" target="_blank" alt="SITES on Facebook">
+<area shape="rect" coords="561,18,587,46" href="http://www.youtube.com/sitesExhibitions" target="_blank" alt="SITES on YouTube">
+<area shape="rect" coords="644,18,671,43" href="http://www.twitter.com/sitesExhibits" target="_blank" alt="SITES on Twitter">
+<area shape="rect" coords="719,17,748,46" href="../../../podcasts.xml" target="_blank" alt="SITES RSS">
+</map>
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2013 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 4.1  -->
+<!-- Created: 5/30/2013 2:45:30 PM -->
+<script src="../../../js/webtrends.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//logs1.smithsonian.museum/dcsioowqsadzpxbx4qgqlkuap_3b3v/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.sites.si.edu"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+</body>
+<!-- InstanceEnd --></html>

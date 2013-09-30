@@ -1,0 +1,358 @@
+
+
+
+
+
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"><link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet"><script src="/bootstrap/jquery/jquery-1.7.2.min.js"></script><script>jQuery.noConflict();</script><!--[if lt IE 9]><script src="/bootstrap/polyfill/html5.js"></script><![endif]--><meta name="description" content="WASHINGTON (Reuters) - One of the most precise and dramatic details cited by the Obama administration as proof that Syrian forces used chemical weapons in an August 21 attack was the death toll," /><meta name="keywords" content=",POL,INSURG,DIP,GEN,SECUR,UN1,NEWS,US,GB,RU,IL,SY,FR,CN,, POL, INSURG, DIP, GEN, SECUR, UN1, NEWS, US, GB, RU, IL, SY, FR, CN" /><meta property="fb:admins" content="100001837105818" /><meta property="og:title" content="Exclusive: U.S. total of Syrian gas deaths could include bomb casualties - sources" /><meta property="og:type" content="article" /><meta property="og:url" content="http://articles.chicagotribune.com/2013-09-12/news/sns-rt-us-syria-crisis-intelligence-20130912_1_death-toll-administration-officials-bomb-casualties" /><meta property="og:image" content="http://snsimages.tribune.com/media/photo/2013-09/77383420.jpg" /><meta property="og:description" content="WASHINGTON (Reuters) - One of the most precise and dramatic details cited by the Obama administration as proof that Syrian forces used chemical weapons in an August 21 attack was the death toll,..." />
+        <script type="text/javascript">
+        function pm_fixIEImg(img) {
+            if (navigator.userAgent.indexOf('MSIE 8') == -1 && navigator.userAgent.indexOf('MSIE 7') == -1 && navigator.userAgent.indexOf('MSIE 6') == -1) return img;
+            var parent = img.parentNode;
+            img.onerror = function() { this.parentNode.removeChild(this); }
+            img.src = 'broken';
+            return parent;
+        }
+
+        function pm_imageFailed(div) {
+            pm_fixIEImg(div);
+            while (div.parentNode != null && div.className.indexOf('mod-articleimage') == -1) div = div.parentNode;
+            if (div != null) { div.parentNode.removeChild(div); pm_removeTextMargin(); }
+        }
+
+        function pm_imageFailedGallery(div) {
+            pm_fixIEImg(div);
+            while (div.parentNode != null && div.nodeName != 'LI') div = div.parentNode;
+            if (div != null) { div.parentNode.removeChild(div); pm_updateGallery(); }
+        }
+
+        function pm_updateGallery() {
+            if (typeof updateGallery == 'function') updateGallery();
+            else setTimeout('pm_updateGallery();', 100);
+        }
+
+        function pm_imageFailedFeatured(div) {
+            var logo = '/images/footer.96.png'
+            if (logo != '') {
+                div.parentNode.parentNode.className = 'photowrapper photowrapper-logo';
+                div.className = 'featured-logo';
+                div.src = logo;
+                return;
+            }
+            div = pm_fixIEImg(div);
+            while (div.parentNode != null && div.className.indexOf('mod-homepageimage') == -1) div = div.parentNode;
+            if (div != null) div.parentNode.removeChild(div);
+        }
+
+        function pm_imageFailedRelatedLink(div) {
+            div = pm_fixIEImg(div);
+            while (div.parentNode != null && div.className.indexOf('image') == -1) div = div.parentNode;
+            if (div != null) {
+                var pN = div.parentNode;
+                pN.removeChild(div);
+                while (pN.parentNode != null && pN.className.indexOf('image-body') == -1) pN = pN.parentNode;
+                if (pN != null) pN.className = 'text-body';
+            }
+        }
+
+        function pm_imageFailedRelatedPhoto(div) {
+            div = pm_fixIEImg(div);
+            while (div.parentNode != null && div.className.indexOf('photos') == -1) div = div.parentNode;
+            if (div != null) div.parentNode.removeChild(div);
+        }
+
+        function pm_removeTextMargin() {
+            var by = document.getElementById('mod-article-byline');
+            var tx = document.getElementById('mod-a-body-first-para');
+            if (by != null) by.style.marginRight = '0px';
+            if (tx != null) tx.style.marginRight = '0px';
+        }
+        </script>
+        <title>Exclusive: U.S. total of Syrian gas deaths could include bomb casualties - sources - Chicago Tribune</title><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /><link rel="canonical" href="http://articles.chicagotribune.com/2013-09-12/news/sns-rt-us-syria-crisis-intelligence-20130912_1_death-toll-administration-officials-bomb-casualties" /><link rel="next" href="http://articles.chicagotribune.com/2013-09-12/news/sns-rt-us-syria-crisis-intelligence-20130912_1_death-toll-administration-officials-bomb-casualties/2"><script src="/tracker.js.php?139eae6a72f6b1e6d38432d96d4cf2c11dc46126" type="text/javascript"></script>
+        <script type="text/javascript">
+                    setCookie("pmk_tn", "ap-CT11-G02", 3600);
+                    var sessId = getCookie("sessid");
+                    if (!sessId) {
+                        sessId = guid();
+                        setCookie("sessid", sessId, (30*60));
+                    }
+                    var uuId = getCookie("uuid");
+                    if (!uuId) {
+                        uuId = sessId;
+                        setCookie("uuid", uuId, (60*60*24*30*12*24));
+                    }
+                    var traffic_provider = getParamFromPMCookie("s");
+                    if(!traffic_provider) {
+                        traffic_provider = derive_traffic_provider();
+                        putParamIntoPMCookie("s", traffic_provider);
+                    }
+                    var traffic_type = getParamFromPMCookie("n");
+                    if(!traffic_type) {
+                        traffic_type = derive_traffic_type();
+                        putParamIntoPMCookie("n", traffic_type);
+                    }
+                    referring_domain = get_referring_domain();
+
+                    var tracSessParams = "sessid="+sessId+"&uuid="+uuId+"&s="+traffic_provider+"&n="+traffic_type+"&rd="+referring_domain;
+
+                    var query = get_query();
+                    if(query) {
+                        tracSessParams = tracSessParams + "&q=" + query;
+                    }
+                    var referring_url = get_referring_url();
+                    if(referring_url) {
+                        tracSessParams = tracSessParams + "&ru=" + encode(referring_url);
+                    }
+                    var user_agent = navigator.userAgent;
+                    if(user_agent) {
+                        tracSessParams = tracSessParams + "&ua=" + encode(user_agent);
+                    }
+                </script>
+                <link rel="stylesheet" type="text/css" href="/css/ap-CT11-G02.css?139eae6a72f6b1e6d38432d96d4cf2c11dc46126" media="all" /><meta property="og:site_name" content="Chicago Tribune" /><script>if (typeof jQuery == "undefined") {var head = document.getElementsByTagName("head")[0]; script = document.createElement("script"); script.id = "jQuery"; script.type = "text/javascript";script.src = "http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"; head.appendChild(script);}jQuery.noConflict();</script><script type="text/javascript">var switchTo5x=false;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({onhover:false, publisher:"b4d91b28-33ea-48d4-a388-dca4a729b7a1"});</script><script type="text/javascript">function downloadJSAtOnload(){var element, js;element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/sn.php?out=js&t=Exclusive%3A+U.S.+total+of+Syrian+gas+deaths+could+include+bomb+casualties+-+sources&u=http%3A%2F%2Farticles.chicagotribune.com%2F2013-09-12%2Fnews%2Fsns-rt-us-syria-crisis-intelligence-20130912_1_death-toll-administration-officials-bomb-casualties&l=ShareThis_EmailIcon-ShareThis_PrintIcon&i=mod-sm-badge-1-defer&p=ChiTrib&y=ap-CT11-G02&f=&c=false&z=false&v=139eae6a72f6b1e6d38432d96d4cf2c11dc46126");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/sn.php?out=js&t=Exclusive%3A+U.S.+total+of+Syrian+gas+deaths+could+include+bomb+casualties+-+sources&u=http%3A%2F%2Farticles.chicagotribune.com%2F2013-09-12%2Fnews%2Fsns-rt-us-syria-crisis-intelligence-20130912_1_death-toll-administration-officials-bomb-casualties&l=Facebook_Connect-Facebook_RecommendCompact-Twitter_Compact&i=mod-sm-badge-2-defer&p=ChiTrib&y=ap-CT11-G02&f=&c=false&z=false&v=139eae6a72f6b1e6d38432d96d4cf2c11dc46126");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/sn.php?out=js&t=Exclusive%3A+U.S.+total+of+Syrian+gas+deaths+could+include+bomb+casualties+-+sources&u=http%3A%2F%2Farticles.chicagotribune.com%2F2013-09-12%2Fnews%2Fsns-rt-us-syria-crisis-intelligence-20130912_1_death-toll-administration-officials-bomb-casualties&l=ShareThis_ShareThisCompact-Google_PlusOneMediumCount&i=mod-sm-badge-3-defer&p=ChiTrib&y=ap-CT11-G02&f=&c=false&z=false&v=139eae6a72f6b1e6d38432d96d4cf2c11dc46126");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/modal/modal.js.php?i=mod-article-image&g=false&c=42018388&j=10&p=ChiTrib&139eae6a72f6b1e6d38432d96d4cf2c11dc46126");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/article-image-resize-compressed.js.php?i=mod-article-image");document.body.appendChild(element);}if (window.addEventListener){window.addEventListener("load", downloadJSAtOnload, false);}else if (window.attachEvent){window.attachEvent("onload", downloadJSAtOnload);}else window.onload = downloadJSAtOnload;</script><script type="text/javascript">window.google_analytics_uacct = "UA-10467274-7";</script></head><body><div class=container><!-- Layout starts --><div id="layout"><div id="row-top" class="row-fluid"><div class="span12"><div id="mod-top-hdr" class="mod-chitribtrbad mod-trbad hidden-phone hidden-tablet mod-tribuneadwithdatecheckimpl"><center><script type="text/javascript">
+
+(function () {
+
+    var widths = {
+        phone:   320,
+        tablet:  768,
+        desktop: 980
+    };
+    
+         
+        if (jQuery(window).width() < widths.tablet) {
+            return;
+        }
+    
+     
+        if ((jQuery(window).width() >= widths.tablet) && (jQuery(window).width() < widths.desktop)) {
+            return;
+        }
+    
+    
+        
+                    document.write('<scri'+'pt src="http://ad.doubleclick.net/adj/trb.chicagotribune/news/archives;rs=10094;ref=chicagotribunecom;ptype=s;slug=sns-rt-us-syria-crisis-intelligence-20130912;rg=ur;pos=T;sz=728x90;tile=1;ord=67816271"></scri' + 'pt>');
+        
+    
+})();
+
+</script>
+
+</center></div><div id="mod-top-hdr-half" class="mod-chitribtrbad mod-trbad hidden-tablet hidden-desktop"><center><script type="text/javascript">
+
+(function () {
+
+    var widths = {
+        phone:   320,
+        tablet:  768,
+        desktop: 980
+    };
+    
+        
+     
+        if ((jQuery(window).width() >= widths.tablet) && (jQuery(window).width() < widths.desktop)) {
+            return;
+        }
+    
+     
+        if (jQuery(window).width() >= widths.desktop) {
+            return;
+        }
+    
+                document.write('<iframe width="320" height="50" src="http://pubads.g.doubleclick.net/gampad/adx?iu=7184%2Ftrb.touch.chicagotribune.com%2Fnews/archives&sz=320x50&mob=js&t=ptype%3Dsf&t=ss%3Ds&t=tile%3D1&t=pos%3D1&c=67816271" scrolling="no"></iframe>');
+    
+})();
+
+</script>
+
+</center></div><nav id="mod-logo" class="mod-chitribnav"><a href="http://www.chicagotribune.com" alt="Chicago Tribune" class="logo"></a><div class="section-header"><span>news</span></div><div class="wrap-full"><ul class="unstyled full"><li><div class=side-border></div><a href="http://www.chicagotribune.com">Front Page</a></li><li class="active"><div class=side-border></div><a href="http://www.chicagotribune.com/news">News</a></li><li><div class=side-border></div><a href="http://www.chicagotribune.com/sports">Sports</a></li><li><div class=side-border></div><a href="http://www.chicagotribune.com/business">Business</a></li><li><div class=side-border></div><a href="http://www.chicagotribune.com/features">Lifestyles</a></li><li><div class=side-border></div><a href="http://www.chicagotribune.com/news/opinion">Opinion</a></li><li><div class=side-border></div><a href="http://www.chicagotribune.com/entertainment">A&E</a></li></ul></div><div class="wrap-compact"><ul class="compact"><li class="dropdown" id="allsections"><a class="dropdown-toggle" data-toggle="dropdown" onclick="jQuery(document).ready(function() { var node = jQuery('#mod-logo #allsections a.dropdown-toggle'), text = node.text(), dropdown = jQuery('#mod-logo #allsections .dropdown-menu'); if (text == ' All Sections') { node.html('<i class=\'icon-chevron-up pull-right\'></i> Hide Sections'); dropdown.css('display', 'block').css('margin-top', '-1px'); } else { node.html('<i class=\'icon-chevron-down pull-right\'></i> All Sections'); dropdown.css('display', 'none'); } });"><i class='icon-chevron-down pull-right'></i> All Sections</a><ul class="dropdown-menu"><li><a href="http://www.chicagotribune.com">Front Page</a></li><li class="active"><a href="http://www.chicagotribune.com/news">News</a></li><li><a href="http://www.chicagotribune.com/sports">Sports</a></li><li><a href="http://www.chicagotribune.com/business">Business</a></li><li><a href="http://www.chicagotribune.com/features">Lifestyles</a></li><li><a href="http://www.chicagotribune.com/news/opinion">Opinion</a></li><li><a href="http://www.chicagotribune.com/entertainment">A&E</a></li></ul></li></ul></div></nav><div id="mod-breadcrumb" class="mod-chitribarticlepagebreadcrumb mod-articlepagebreadcrumb mod-breadcrumb"> <span class="home-link"><a  href="http://www.chicagotribune.com">Home</a></span><span class="bread-crumb-separator">></span><span class="archive-link"><a  href="/">Featured Articles</a></span><span class="bread-crumb-separator">></span><span class="keyword"><a  href="/keyword/attack"><strong>Attack</strong></a></span></div></div></div><div id="row-middle" class="row-fluid"><div id="span-main-column" class="span8"><div id="mod-article-header" class="mod-chitribarticleheader mod-articleheader"><h1>Exclusive: U.S. total of Syrian gas deaths could include bomb casualties - sources</h1></div><div id="area-article-first-block" class="area"><div id="mod-article-byline" class="mod-chitribarticlebyline mod-articlebyline"><span class="pubdate">September 12, 2013</span><span class="separator">|</span><span>Mark Hosenball</span> | <span>Reuters</span></div><div id="row-socials" class="row-fluid"><div id="span-sm-span-left" class="span2"><div id="mod-sm-badge-1" class="mod-chitribsocialmedia mod-socialmedia"><div id="mod-sm-badge-1-defer"><script type="text/javascript">/* Javascript deferred */</script></div></div></div><div id="span-sm-span-right" class="span10"><div id="row-socials-list" class="row-fluid"><div id="span-sm-span-right-1" class="span6"><div id="mod-sm-badge-2" class="mod-chitribsocialmedia mod-socialmedia"><div id="mod-sm-badge-2-defer"><script type="text/javascript">/* Javascript deferred */</script></div><div id="fb-root"></div></div></div><div id="span-sm-span-right-2" class="span6"><div id="mod-sm-badge-3" class="mod-chitribsocialmedia mod-socialmedia"><div id="mod-sm-badge-3-defer"><script type="text/javascript">/* Javascript deferred */</script></div></div></div></div></div></div><div id="area-article-image" class="area pull-right"><div id="mod-article-image" class="mod-chitribarticlepageimage mod-articlepageimage mod-articleimage"><div id="mod-article-image-box"><ul class="main-image thumbnails"><li ><a id="mod-article-image-link" class="thickbox thumbnail" onclick="return false;" target="_blank" href="http://snsimages.tribune.com/media/photo/2013-09/77383420.jpg" title=" (Stringer .  Reuters, )"><img src="http://snsimages.tribune.com/media/photo/2013-09/77383420.jpg" title="" alt="" style="" onerror="pm_imageFailed(this);"/></a></li></ul></div><div class="main-image-info"> (Stringer .  Reuters, )</div><script src="/modal/js/lazyload-min.js" type="text/javascript"></script></div></div><div id="mod-a-body-first-para" class="mod-chitribarticletext mod-articletext"><p><BR> WASHINGTON (Reuters) - One of the most precise and dramatic details cited by the Obama administration as proof that Syrian forces used chemical weapons in an August 21 attack was the death toll, which an official U.S. government assessment put at 1,429 people, including 426 children.</p><p> The number, first released by the White House on August 30, was underscored by Secretary of State John Kerry in a fiery indictment of Syrian President Bashar al-Assad, describing videos of what he said were victims of the attack, which Syria denies.</p></div></div><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-ctr-lt-in-top" class="mod-adcpc"><script type="text/javascript"> var adSkipCounter = 0; </script><iframe id="mod-ctr-lt-in-top-frame" src="about:blank" frameborder="0" scrolling="no" width="300" height="160"></iframe>
+<script type="text/javascript">
+        var iframe = document.getElementById("mod-ctr-lt-in-top-frame");
+        var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        iframeDoc.open();
+        iframeDoc.write("<html><style>body{margin:0px;}</style></head>");
+        iframeDoc.write('<script type="text/javascript">google_ad_client="pub-8065581269528142";google_ad_slot="4915470682";google_ad_width="300";google_ad_height="160";google_ad_channel="8393569340,4644497202,0000000032,0000000031";google_adtest="off";google_safe="high";google_hints="second source administration policy united states government";google_max_num_ads="2";google_override_format=true;google_page_url=document.URL;');
+        iframeDoc.write("</scr"+"ipt>");
+        iframeDoc.write("<scr"+"ipt type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\"></scr"+"ipt>");
+        iframeDoc.close();
+</script>
+        </div><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-a-body-after-first-para" class="mod-chitribarticletextwithadcpc mod-chitribarticletext mod-articletext"><p> "Instead of being tucked safely in their beds at home, we saw rows of children lying side by side sprawled on a hospital floor, all of them dead from Assad's gas and surrounded by parents and grandparents who had suffered the same fate. The United States Government now knows that at least 1,429 Syrians were killed in this attack, including at least 426 children," he said.</p><p> Some U.S. congressional sources are now casting doubt on those figures.</p><p> Three congressional sources told Reuters that administration officials had indicated in private that some deaths might have been caused by the conventional bombing that followed the release of sarin gas in suburban Damascus neighborhoods. This disclosure undermined support for President Barack Obama's plan to strike Syria, they said.</p><p> A White House spokeswoman referred all questions about the death toll numbers - including a request for comment on whether controversy about the numbers was undermining support on Capitol Hill for administration policy - to intelligence agency spokespeople.</p><p> "The Intelligence Community has a high bar for its assessments but it is virtually impossible to achieve 100 percent certitude," said Shawn Turner, chief spokesman for the Office of the Director of National Intelligence. "That's not the way intelligence works.</p><p> "We are extremely rigorous in our methodology and we are constantly challenging ourselves to be more exacting," said Turner. "We have been thorough in our discussions with Congress about our methodology and I'm not aware of any concerns."</p><p> One of the congressional sources said that administration officials in closed door briefings said they could not rule out that some victims included in the U.S. death toll were killed either by conventional explosive parts of rockets which carried poison gas or in the artillery barrage the United States says followed the gas attack.</p><p> A second source, who is sympathetic to White House policy, said caveats administration officials attached to the 1,429 death total were of sufficient magnitude to cause the source to avoid citing the figure.</p><p> A third source said that administration officials confronted pointed questions from members of Congress about the accuracy of the numbers and acknowledged that they "couldn't be sure" about the cause of death for some people counted as victims of chemical poisoning.</p><p> An administration official familiar with the briefings denied that there had been any doubts as to how the 1,429 bodies were counted; a second official asserted that Capitol Hill officials had heard what they wanted to hear because so many legislators were opposed to Obama's plan.</p><p> Administration sources told Reuters that they relied on a valid intelligence methodology to make the death estimate. An official said that it involved analyzing video pictures of victims, then eliminating from the fatality total any live person, any dead body with visible injuries and shrouded bodies showing blood spots.</p></div><div id="mod-a-body-after-first-para-ad-cpc" class="mod-adcpc"><iframe id="mod-a-body-after-first-para-ad-cpc-frame" src="about:blank" frameborder="0" scrolling="no" width="300" height="110"></iframe>
+<script type="text/javascript">
+        var iframe = document.getElementById("mod-a-body-after-first-para-ad-cpc-frame");
+        var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        iframeDoc.open();
+        iframeDoc.write("<html><style>body{margin:0px;}</style></head>");
+        iframeDoc.write('<script type="text/javascript">google_ad_client="pub-8065581269528142";google_ad_slot="4915470682";google_ad_width="300";google_ad_height="110";google_ad_channel="8393569340,4644497202,0000000033,0000000031";google_adtest="off";google_safe="high";google_hints="second source administration policy united states government";google_max_num_ads="2";google_override_format=true;google_page_url=document.URL;');
+        iframeDoc.write("</scr"+"ipt>");
+        iframeDoc.write("<scr"+"ipt type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\"></scr"+"ipt>");
+        iframeDoc.close();
+</script>
+        </div><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-a-body-after-second-para" class="mod-chitribarticletextwithadcpc mod-chitribarticletext mod-articletext"><p> Classified intelligence tools then were used to confirm the provenance of the videos and to ensure that bodies were not counted twice, the official said. The official noted that U.S. intelligence had more resources to gather information than human rights or other non-governmental groups, which had smaller death tolls.</p><p> "Nobody who has looked at the intelligence thinks this number is way off," a senior U.S. official said.</p><p> "That's what the number was that day. We know 1,400 people were killed. As we get new information, the number could change," the senior U.S. official added.</p><p> French intelligence says deaths from the gas attacks could be as high as 1,500, but it reported confirmed deaths from video evidence of 281. Estimates of gas attack deaths by British intelligence, the London-based Syrian Observatory for Human Rights and non-governmental group Doctors without Borders fall within a range of 322 to 355.</p><p> The congressional sources said that some members of Congress asked to see raw intelligence gathered by U.S. agencies. But thus far, the administration has provided only reports summarizing intelligence from human informants, electronic eavesdropping and satellite images.</p><p> The Syrian government has denied launching any gas attack, although it has acknowledged it has such weapons and is in talks to give them up.</p><p> PRELIMINARY ASSESSMENT</p></div><div id="mod-a-body-after-second-para-ad-cpc" class="mod-adcpc"><iframe id="mod-a-body-after-second-para-ad-cpc-frame" src="about:blank" frameborder="0" scrolling="no" width="300" height="110"></iframe>
+<script type="text/javascript">
+        var iframe = document.getElementById("mod-a-body-after-second-para-ad-cpc-frame");
+        var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        iframeDoc.open();
+        iframeDoc.write("<html><style>body{margin:0px;}</style></head>");
+        iframeDoc.write('<script type="text/javascript">google_ad_client="pub-8065581269528142";google_ad_slot="4915470682";google_ad_width="300";google_ad_height="110";google_ad_channel="8393569340,4644497202,0000000034,0000000031";google_adtest="off";google_safe="high";google_hints="second source administration policy united states government";google_max_num_ads="2";google_override_format=true;google_page_url=document.URL;');
+        iframeDoc.write("</scr"+"ipt>");
+        iframeDoc.write("<scr"+"ipt type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\"></scr"+"ipt>");
+        iframeDoc.close();
+</script>
+        </div><div id="mod-pagination" class="mod-pagination"><div class="pagination"><center><span class="next_url" >1</span><span class="pagination_sep" > | </span><span class="next_url" ><a href="/2013-09-12/news/sns-rt-us-syria-crisis-intelligence-20130912_1_death-toll-administration-officials-bomb-casualties/2">2</a></span><span class="pagination_sep" > | </span><span class="next_url" ><a href="/2013-09-12/news/sns-rt-us-syria-crisis-intelligence-20130912_1_death-toll-administration-officials-bomb-casualties/2"> Next</a></span></center></div></div><script>jQuery(document).ready(function() {if(jQuery('#area-featured-bound').size() == 0) { jQuery('#mod-featured-title').remove(); }});</script><div id="mod-featured-title" class="mod-collapsebutton"><script>jQuery(document).ready(function() {
+jQuery("#mod-featured-title a").click(function () {
+  jQuery("#mod-featured-title a i").toggleClass("icon-chevron-down");
+  jQuery("#mod-featured-title a i").toggleClass("icon-chevron-up");
+});});</script><a data-toggle="collapse" data-target="#area-featured-bound"><i class="icon-chevron-up pull-right"></i>Featured Articles</a></div><div id="area-featured-bound" class="area collapse in"><div id="row-featured" class="row-fluid"><div class="span4"><div id="mod-article-image-lt" class="mod-featuredimage tplmodulefeaturedimage mod-homepageimage mod-articleimage"><div class="photowrapper"><a  href="/2013-04-27/sports/sns-rt-bkn-bobcats-bulls-newssx5b6d3a1-20130427_1_juanita-vanoy-girlfriend-yvette-marriage-license"><img src="http://www.trbimg.com/img-517d5ac0/turbine/sns-rt-bkn-bobcats-bulls-newssx5b6d3a1-2013042-001/600/600x478" onerror="pm_imageFailedFeatured(this);" ></a></div><div class="text-area"><div class="title"><a  href="/2013-04-27/sports/sns-rt-bkn-bobcats-bulls-newssx5b6d3a1-20130427_1_juanita-vanoy-girlfriend-yvette-marriage-license">Michael Jordan marries longtime girlfriend</a></div></div></div></div><div class="span4"><div id="mod-article-image-ct" class="mod-featuredimage tplmodulefeaturedimage mod-homepageimage mod-articleimage"><div class="photowrapper"><a  href="/2013-09-19/news/chi-prosecutors-woman-shot-to-death-following-facebook-dispute-20130919_1_gas-station-facebook-dispute-handgun"><img src="http://www.trbimg.com/img-523b4f06/turbine/chi-prosecutors-woman-shot-to-death-following--001/600/600x350" onerror="pm_imageFailedFeatured(this);" ></a></div><div class="text-area"><div class="title"><a  href="/2013-09-19/news/chi-prosecutors-woman-shot-to-death-following-facebook-dispute-20130919_1_gas-station-facebook-dispute-handgun">Woman killed after Facebook dispute</a></div></div></div></div><div class="span4"><div id="mod-article-image-rt" class="mod-featuredimage tplmodulefeaturedimage mod-homepageimage mod-articleimage"><div class="photowrapper"><a  href="/2013-09-16/news/chi-father-of-girl-8-grandmother-charged-in-girls-july-murder-in-austin-20130916_1_girl-south-austin-cook-county-jail"><img src="http://www.trbimg.com/img-5237565f/turbine/chi-father-of-girl-8-grandmother-charged-in-gi-001/600/600x313" onerror="pm_imageFailedFeatured(this);" ></a></div><div class="text-area"><div class="title"><a  href="/2013-09-16/news/chi-father-of-girl-8-grandmother-charged-in-girls-july-murder-in-austin-20130916_1_girl-south-austin-cook-county-jail">Father of girl, 8, grandmother charged in girl's July murder in Austin</a></div></div></div></div></div><div id="mod-featured-more" class="mod-text">MORE:</div><div id="row-featured-more" class="row-fluid"><div class="span6"><div id="mod-hp-article-list-2" class="mod-chitribarticles mod-articles"><div class="article"><div class="title"><a title="Steps can be taken to relieve or prevent night leg cramps" href="/2012-04-13/lifestyle/sns-201204131600--tms--mayoclnctnmc-a20120413apr13_1_leg-cramps-restless-legs-syndrome-calf-muscles">Steps can be taken to relieve or prevent night leg cramps</a></div></div><div class="article"><div class="title"><a title="Supreme Court rules for employer in text-messaging case" href="/2010-06-17/business/sc-biz-0618-texts--20100617_1_text-messaging-work-related-purpose-jeff-quon">Supreme Court rules for employer in text-messaging case</a></div></div><div class="article"><div class="title"><a title="Alarms should sound on deal" href="/2012-05-11/site/sc-cons-0510-karpspend-20120511_1_burglar-alarms-home-security-carbon-monoxide-alarms">Alarms should sound on deal</a></div></div></div>
+             <script type="text/javascript">
+             if(jQuery('.mod-chitribhomepageimage').size() == 0) jQuery('#row-middle-images').remove();
+             </script>
+         </div><div class="span6"><div id="mod-hp-article-list-1" class="mod-chitribarticles mod-articles"><div class="article"><div class="title"><a title="New O'Hare area mall can check your bags" href="/2013-08-15/travel/ct-travel-0818-ohare-airport-mall-20130815_1_kiosk-outlet-mall-bags-inc">New O'Hare area mall can check your bags</a></div></div><div class="article"><div class="title"><a title="Illinois insurance exchange rates to be lower than U.S. average" href="/2013-09-24/business/ct-biz-0925-health-rates-20130925_1_health-care-law-health-insurance-federal-tax-credits">Illinois insurance exchange rates to be lower than U.S. average</a></div></div><div class="article"><div class="title"><a title="New inclusive approach helps schools fight bullying" href="/2013-09-09/news/ct-met-anti-bully-tokens-20130909_1_fight-bullying-students-stratford-middle-school">New inclusive approach helps schools fight bullying</a></div></div></div>
+             <script type="text/javascript">
+             if(jQuery('.mod-chitribhomepageimage').size() == 0) jQuery('#row-middle-images').remove();
+             </script>
+         </div></div></div></div><div id="span-side-column" class="span4"><div id="mod-left-sky" class="mod-adcpc"><iframe id="mod-left-sky-frame" src="about:blank" frameborder="0" scrolling="no" width="300" height="250"></iframe>
+<script type="text/javascript">
+        var iframe = document.getElementById("mod-left-sky-frame");
+        var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        iframeDoc.open();
+        iframeDoc.write("<html><style>body{margin:0px;}</style></head>");
+        iframeDoc.write('<script type="text/javascript">google_ad_client="pub-8065581269528142";google_ad_slot="6392203881";google_ad_width="300";google_ad_height="250";google_ad_channel="8393569340,4644497202,0000000035,0000000031";google_adtest="off";google_safe="high";google_hints="second source administration policy united states government";google_max_num_ads="1";google_override_format=true;google_page_url=document.URL;');
+        iframeDoc.write("</scr"+"ipt>");
+        iframeDoc.write("<scr"+"ipt type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\"></scr"+"ipt>");
+        iframeDoc.close();
+</script>
+        </div><div id="mod-ctr-lt" class="mod-chitribtrbad mod-trbad mod-tribuneadwithdatecheckimpl"><center><script type="text/javascript" src="http://ad.doubleclick.net/adj/trb.chicagotribune/news/archives;rs=10094;ref=chicagotribunecom;ptype=s;slug=sns-rt-us-syria-crisis-intelligence-20130912;rg=ur;pos=1;sz=300x250;tile=2;ord=67816271" language="JavaScript"/></script></center></div><script>jQuery(document).ready(function() {if(jQuery('#mod-related-links').size() == 0) { jQuery('#mod-related-links-header').remove(); }});</script><div id="mod-related-links-header" class="mod-collapsebutton"><script>jQuery(document).ready(function() {
+jQuery("#mod-related-links-header a").click(function () {
+  jQuery("#mod-related-links-header a i").toggleClass("icon-chevron-down");
+  jQuery("#mod-related-links-header a i").toggleClass("icon-chevron-up");
+});});</script><a data-toggle="collapse" data-target="#mod-related-links"><i class="icon-chevron-up pull-right"></i>Related Links</a></div><script>jQuery(document).ready(function() {if(jQuery('#mod-related-articles').size() == 0) { jQuery('#mod-related-articles-header').remove(); }});</script><div id="mod-related-articles-header" class="mod-collapsebutton"><script>jQuery(document).ready(function() {
+jQuery("#mod-related-articles-header a").click(function () {
+  jQuery("#mod-related-articles-header a i").toggleClass("icon-chevron-down");
+  jQuery("#mod-related-articles-header a i").toggleClass("icon-chevron-up");
+});});</script><a data-toggle="collapse" data-target="#mod-related-articles"><i class="icon-chevron-up pull-right"></i>Related Articles</a></div><div id="mod-related-articles" class="mod-relatedarticlessimplelist mod-relatedarticles collapse in"><div class="header"></div><ul><li><a  title="Death Toll Threatens Un Missions" href="/1993-10-10/news/9310110004_1_somalia-peacekeeping-cambodia"><span class="title">Death Toll Threatens Un Missions</span></a><br /><span class="date">October 10, 1993</span></li><div class="delimiter"></div><li><a  title="Roadside bomb kills soldier" href="/2004-01-13/news/0401130271_1_election-process-interim-iraqi-government-grand-ayatollah-ali"><span class="title">Roadside bomb kills soldier</span></a><br /><span class="date">January 13, 2004</span></li><div class="delimiter"></div><li><a  title="6 U.s. Sailors Die In Attack" href="/2000-10-13/news/0010130204_1_destroyer-yemen-ship"><span class="title">6 U.s. Sailors Die In Attack</span></a><br /><span class="date">October 13, 2000</span></li><div class="delimiter"></div><li><a  title="Israel, Hezbollah Ok Deal To Limit Attacks" href="/1996-04-27/news/9604270077_1_hezbollah-rockets-into-northern-israel-syrian-foreign-ministry-statement"><span class="title">Israel, Hezbollah Ok Deal To Limit Attacks</span></a><br /><span class="date">April 27, 1996</span></li><div class="delimiter"></div><li><a  title="U.s., Israel Rail At Iran Over Bombings" href="/1994-07-29/news/9407290192_1_attack-in-southern-lebanon-israeli-embassy-israel-and-hezbollah"><span class="title">U.s., Israel Rail At Iran Over Bombings</span></a><br /><span class="date">July 29, 1994</span></li></ul></div><script>jQuery(document).ready(function() {if(jQuery('#mod-related-keywords').size() == 0) { jQuery('#mod-related-keywords-header').remove(); }});</script><div id="mod-related-keywords-header" class="mod-collapsebutton"><script>jQuery(document).ready(function() {
+jQuery("#mod-related-keywords-header a").click(function () {
+  jQuery("#mod-related-keywords-header a i").toggleClass("icon-chevron-down");
+  jQuery("#mod-related-keywords-header a i").toggleClass("icon-chevron-up");
+});});</script><a data-toggle="collapse" data-target="#mod-related-keywords"><i class="icon-chevron-up pull-right"></i>Find More Stories About</a></div><div id="mod-related-keywords" class="mod-relatedkeywordssimplelist mod-relatedkeywords collapse in"><div class="header"></div><ul><li><a  href="/keyword/attack">Attack</a></li><li><a  href="/keyword/death-toll">Death Toll</a></li></ul></div></div></div><div id="row-bottom" class="row-fluid"><div class="span12"><div id="mod-ln-bt" class="mod-line"><div style="border-top:1px solid black; height:1px; width:100%;"></div></center></div><div id="row-bottom-in" class="row-fluid"><div id="span-bottom-links" class="span4"><div id="row-bottom-links-in" class="row-fluid"><div class="span12"><div id="mod-tos" class="mod-text"><a  href="http://www.chicagotribune.com/tos/" target="_new"  rel="nofollow" >Terms of Service</a></div><div id="mod-privacy" class="mod-text"><a  href="http://www.chicagotribune.com/privacy/" target="_new"  rel="nofollow" >Privacy Policy</a></div><div id="mod-date-index" class="mod-indexbydate mod-text"><a  href="/2013/sep/12" target="_new" >Index by Date</a></div><div id="mod-kw-index" class="mod-text"><a  href="/keywords" target="_new" >Index by Keyword</a></div><div id="mod-brand-homepage" class="mod-text"><a  href="http://www.chicagotribune.com" target="_new"  rel="nofollow" >www.chicagotribune.com</a></div></div></div></div><div id="span-bottom-connect" class="span4"><div id="mod-connect-bt" class="mod-chitribconnect"><header>Connect</header><ul class="unstyled"><li class="facebook"><a href="https://www.facebook.com/chicagotribune" target="_new" rel="nofollow">Like us on Facebook</a></li><li class="twitter"><a href="http://twitter.com/#!/chicagotribune" target="_new" rel="nofollow">Follow us on Twitter</a></li></ul></div></div><div id="span-bottom-logo" class="span4"><div id="mod-logo-bt-1" class="mod-image"><img src="/images/footer.96.png" alt=""/></div></div></div></div></div>
+<script language="JavaScript" type="text/javascript">
+    var s_account = "tribarchivechicagotribuneprod";
+</script>
+
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script type="text/javascript" src="http://www.chicagotribune.com/hive/javascripts/metrics/s_code_trb.js"></script>
+<script language="JavaScript" type="text/javascript">
+s.pageName="Chicago Tribune / news / archives - |PM| exclusive u s total of syrian gas deaths could inc - story.";
+s.prop38="story";
+s.eVar21="story";
+s.server="www.chicagotribune.com";
+s.channel="Chicago Tribune:news:archives";
+s.prop3="";
+s.prop21="";
+s.prop28="";
+s.prop32="";
+s.prop36="";
+s.prop37="";
+s.events="";
+s.eVar20="Chicago Tribune:news";
+s.hier1="Chicago Tribune:news:archives";
+s.hier2="news:archives";
+s.hier4="news:archives";
+s.eVar42="reuters";
+s.prop44="sns-rt-us-syria-crisis-intelligence-20130912";
+
+//AD Block Detection
+//Description:     Check if any IMG, IFRAME, or SCRIPT elements are ad blocked (set to not display).
+//        Also check for the occurance of any Norton installed code to block popups or ads ( ie.)SymError ).
+//        Only need to find 1 occurrance of any of the above to confirm ad blocking is used.
+//        No need to continue searching through other portions of the page.
+
+var imgArray = document.images;
+var iframeArray = document.getElementsByTagName("iframe");
+var scriptArray = document.getElementsByTagName("script");
+var isAdBlocked = 0;
+
+
+if(window.SymError || window.SymWinOpen || window.SymRealWinOpen) {
+    isAdBlocked=1;
+}
+if (!isAdBlocked) {
+    for (var i=0; i<imgArray.length; i++) {
+        if(imgArray[i].style.display == "none") {
+            isAdBlocked=1;
+            break;
+        }
+    }
+}
+
+if (!isAdBlocked) {
+    for (var j=0; j<iframeArray.length; j++) {
+        if (iframeArray[j].style.display == "none") {
+            isAdBlocked=1;
+            break;
+        }
+    }
+}
+
+if (!isAdBlocked) {
+    for (var j=0; j<scriptArray.length; j++) {
+        if (scriptArray[j].style.display == "none") {
+            isAdBlocked=1;
+            break;
+        }
+    }
+}
+
+if(isAdBlocked) {
+    s.prop50="ad blocking";
+}
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)
+-->
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf("MSIE")>=0)document.write(unescape("%3C")+"\!-"+"-")
+//--></script><!--/DO NOT REMOVE/-->
+
+<!-- End SiteCatalyst code version: H.1. -->
+
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  try {
+    var pageTracker = _gat._getTracker("UA-10467274-7");
+    pageTracker._setVar('Template-ap-CT11-G02');
+    pageTracker._setCustomVar(1, 'Template', 'Template-ap-CT11-G02', 3);
+    pageTracker._trackPageview();
+  } catch(err) {}
+</script>
+        
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+(function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+    d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-400338h&cg=0&cc=1&si=", escape(window.location.href), "&rp=",
+    escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join(""); 
+    })();
+</script>
+<noscript>
+    <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-400338h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+    </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+
+                <!-- start Vibrant Media IntelliTXT script section -->
+            <script type="text/javascript" src="http://chicagotribune.us.intellitxt.com/intellitxt/front.asp?ipid=34015"></script>
+            <!-- end Vibrant Media IntelliTXT script section --></div><!-- Layout ends --><script type="text/javascript">
+                      //<![CDATA[
+                      document.write("<iframe onload=\"params='"+window.tracSessParams+"&pgtp=article&kwInURL=true&pi=45&ci=42018388&cat=law+%26+government&pe_id=42018388&is_automotive=false&is_feature_tribu=false&is_news_sports=true&tv=ap-CT11-G02&rna=pub-8065581269528142&rn=g&rnrci=8393569340&rnrcn=g3-300_ctxt&rncci=4644497202&rnccn=g3-Law+%26+Government&rnpci=&rnpcn=&rntci=&rntcn=&rnlci=0000000031&rnlcn=0000000031&rnp=c&rt=cpc&pageLoad=1';tracker();params='';\" frameborder=\"0\" width=\"0\" height=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"position:absolute;display:none;overflow-x:hidden;overflow-y:scroll;\"></iframe>");
+                      //]]>
+                    </script></div><script src="/bootstrap/js/bootstrap.min.js"></script></body></html>

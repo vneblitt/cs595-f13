@@ -1,0 +1,521 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Social Media Registry | HowTo.gov</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="social media registry" />
+<meta name="description" content="Learn how federal agencies can use the Social Media Registry to register official social media accounts." />
+<link rel="shortcut icon" href="/sites/default/files/howto_favicon_1.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_7e7cf09e2e46dc2f541645d6fcbb3652.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_a6da805d46a510cb67b8e003a233b96b.css" />
+<link type="text/css" rel="stylesheet" media="all" href="//search.usa.gov/stylesheets/compiled/sayt.css" />
+  <script type="text/javascript" src="/sites/default/files/js/js_16d95aa8f8963c9294409f4653496644.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "nice_menus_options": { "delay": 800, "speed": 1 }, "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Rate this page: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var usagov_sayt_url = '//search.usa.gov/sayt?aid=464&';var aid = 'howto.gov';
+//--><!]]>
+</script>
+  
+  <script type="text/javascript" defer="defer" src="//search.usa.gov/javascripts/jquery/jquery.autocomplete.min.js"></script>
+<script type="text/javascript" defer="defer" src="//search.usa.gov/javascripts/sayt.js"></script>
+<script type="text/javascript" defer="defer" src="//search.usa.gov/javascripts/stats.js"></script>
+
+
+<!--<script type="text/javascript" src="/sites/default/themes/howto/foresee/foresee-trigger.js"></script>-->
+
+<!--[if lte IE 8]>
+<script type="text/javascript" src="/sites/default/themes/howto/js/jquery.corner.js"></script>
+<script type="text/javascript" src="/sites/default/themes/howto/js/application_ie.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<link href="/sites/default/themes/howto/css/ie9.css" media="all" rel="stylesheet" type="text/css">
+<![endif]-->
+<!--[if IE 8]>
+<link href="/sites/default/themes/howto/css/ie8.css" media="all" rel="stylesheet" type="text/css">
+<![endif]-->
+<!--[if IE 7]>
+<link href="/sites/default/themes/howto/css/ie7.css" media="all" rel="stylesheet" type="text/css">
+<![endif]-->
+<!--[if IE 6]>
+<link href="/sites/default/themes/howto/css/ie6.css" media="all" rel="stylesheet" type="text/css">
+<![endif]-->
+<script type="text/javascript" src="/sites/default/themes/howto/js/application.js"></script>
+
+</head>
+
+
+<body class="not-front not-logged-in page-node node-type-page one-sidebar sidebar-right">
+<a name="pagetop"></a>
+  <div id="page">
+  <div id="page-inner">
+
+    <div id="header">
+    <div id="header-inner" class="clearfix">
+	<div id="skip-to-content-link-home">
+		<a href="#main">Skip to main content</a>
+	</div>
+              <div id="logo-title" role="banner">
+
+                                    <div id="site-name">
+                <a href="/" title="Home" rel="home">
+				<span class="hidden-offscreen">
+                HowTo.gov				</span>
+                </a>
+              </div>
+                      
+        </div> <!-- close logo-title -->
+            
+              <div id="header-blocks" class="region region-header">  <div id="block-menu_block-3" class="block block-menu_block">
+
+
+  <div class="content"><div class="menu-block-3 menu-name-secondary-links parent-mlid-0 menu-level-1">
+  <ul class="menu level-1" role="navigation"><li class="leaf first menu-mlid-7812 menu-mlid-7812"><a href="/contact-us/email-subscriptions" title="Get Email Updates" class=" menu-mlid-7812 level-depth-1">Get Email Updates</a></li>
+<li class="leaf menu-mlid-7832 menu-mlid-7832"><a href="/site-policies/change-text" title="Change Text Size" class=" menu-mlid-7832 level-depth-1">Change Text Size</a></li>
+<li class="leaf menu-mlid-656 menu-mlid-656"><a href="/a-z-index" title="A - Z Index" class=" menu-mlid-656 level-depth-1">A - Z Index</a></li>
+<li class="leaf menu-mlid-655 menu-mlid-655"><a href="/contact-us" title="Contact Us" class=" menu-mlid-655 level-depth-1">Contact Us</a></li>
+<li class="leaf menu-mlid-654 has-children menu-mlid-654"><a href="/about-us" title="About Us" class=" menu-mlid-654 level-depth-1">About Us</a></li>
+<li class="leaf menu-mlid-1198 menu-mlid-1198"><a href="/site-policies" title="Site Policies" class=" menu-mlid-1198 level-depth-1">Site Policies</a></li>
+<li class="leaf menu-mlid-2141 menu-mlid-2141"><a href="/suggest" title="Suggest Content" class=" menu-mlid-2141 level-depth-1">Suggest Content</a></li>
+<li class="leaf last menu-mlid-658 menu-mlid-658"><a href="http://twitter.com/govnewmedia" title="Twitter" class=" menu-mlid-658 level-depth-1">Twitter</a></li>
+</ul></div>
+</div>
+</div></div> <!-- close header-blocks -->
+                  
+      <!-- Search Form provided by usa.gov -->
+
+	  
+      <div id="search-box">
+	  
+	  <form action="//search.usa.gov/search"  accept-charset="UTF-8" method="get" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search using USASearch: </label>
+ <input type="text" maxlength="128" name="query" id="edit-search-theme-form-1" size="15" value="" class="form-text usagov-search-autocomplete ui-autocomplete-input ui-corner-all" autocomplete="off" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Search"  class="form-submit" />
+<input type="hidden" name="affiliate" id="edit-affiliate-1" value="howto.gov"  />
+</div>
+
+</div></form>
+	  
+	  <!--
+	  
+      <script src="https://search.usa.gov/javascripts/jquery/jquery.bgiframe.min.js" type="text/javascript"></script>
+      <script src="https://search.usa.gov/javascripts/jquery/jquery.autocomplete.min.js" type="text/javascript"></script>
+      <script type="text/javascript">
+        //<![CDATA[
+          var usagov_sayt_url = "https://search.usa.gov/sayt?aid= 464&amp;";;
+        //]]>
+      </script>
+      <script src="https://search.usa.gov/javascripts/sayt.js" type="text/javascript"></script>
+      <link href="https://search.usa.gov/stylesheets/compiled/sayt.css" type="text/css" rel="stylesheet">
+
+      <form method="get" action="http://search.howto.gov/search" id="search-block-form">
+      <div class="container-inline">
+        <input type="hidden" name="affiliate" value="HowTo.gov">
+        <label for="edit-search-block-form-1"></label>
+        <input class="usagov-search-autocomplete form-text" maxlength="128" id="edit-search-block-form-1" size="15" value="" role="search" type="text" name="query" autocomplete="off"/>
+        <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+      </div>
+      </form>
+	  -->
+	  
+      </div>
+	  
+      </div>
+
+      <!-- End Search Form -->
+           
+           <div id="header-middle">
+                      </div><!-- /header-middle -->
+      
+          <div id="header-last">
+                          <div id="block-block-582" class="block block-block">
+
+
+  <div class="content"><style type="text/css">
+.level-depth-2.active {
+  background: none repeat scroll 0 0 transparent !important;color:#6C050A !important; font-weight:bold !important;
+}</style></div>
+</div>  <div id="block-nice_menus-1" class="block block-nice_menus">
+
+
+  <div class="content"><ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-647 menuparent menu-path-node-1 first  odd "><a href="/web-content" title="Web Content" class=" menu-mlid-647 level-depth-1">Web Content</a><ul><li class="menu-3271 menu-path-node-2191 first  odd "><a href="/web-content/requirements-and-best-practices" title="Requirements and Best Practices" class=" menu-mlid-3271 level-depth-2">Requirements and Best Practices</a></li>
+<li class="menu-2411 menu-path-node-1271 even "><a href="/web-content/manage" title="Managing Content" class=" menu-mlid-2411 level-depth-2">Managing Content</a></li>
+<li class="menu-1901 menu-path-node-731 odd "><a href="/web-content/usability" title="Usability &amp; Design" class=" menu-mlid-1901 level-depth-2">Usability &amp; Design</a></li>
+<li class="menu-3531 menu-path-node-2451 even "><a href="/web-content/governance" title="Management and Governance" class=" menu-mlid-3531 level-depth-2">Management and Governance</a></li>
+<li class="menu-6081 menu-path-node-4771 odd "><a href="/web-content/search" title="Site Search" class=" menu-mlid-6081 level-depth-2">Search &amp; SEO</a></li>
+<li class="menu-3421 menu-path-node-2341 even "><a href="/web-content/digital-metrics" title="Digital Analytics" class=" menu-mlid-3421 level-depth-2">Digital Metrics</a></li>
+<li class="menu-1741 menu-path-node-551 odd "><a href="/web-content/accessibility" title="Accessibility" class=" menu-mlid-1741 level-depth-2">Accessibility</a></li>
+<li class="menu-2741 menu-path-node-1611 even "><a href="/web-content/multilingual" title="Multilingual Websites" class=" menu-mlid-2741 level-depth-2">Multilingual Websites</a></li>
+<li class="menu-7662 menu-path-node-6642 odd  last "><a href="/web-content/technology" title="Technology" class=" menu-mlid-7662 level-depth-2">Technology</a></li>
+</ul>
+</li>
+<li class="menu-648 menuparent menu-path-node-2 active-trail even "><a href="/social-media" title="Social Media" class=" menu-mlid-648 level-depth-1">Social Media</a><ul><li class="menu-1244 menu-path-node-147 first  odd "><a href="/social-media/social-media-types" title="Types of Social Media" class=" menu-mlid-1244 level-depth-2">Types of Social Media</a></li>
+<li class="menu-1242 menu-path-node-148 active-trail even "><a href="/social-media/using-social-media-in-government" title="Using Social Media in Government" class=" menu-mlid-1242 level-depth-2">Using Social Media in Government</a></li>
+<li class="menu-965 menu-path-node-2661 odd  last "><a href="/social-media/terms-of-service-agreements" title="Terms of Service Agreements" class=" menu-mlid-965 level-depth-2">Federal-Compatible Terms of Service Agreements</a></li>
+</ul>
+</li>
+<li class="menu-7602 menuparent menu-path-node-6572 odd "><a href="/mobile" title="Mobile" class=" menu-mlid-7602 level-depth-1">Mobile</a><ul><li class="menu-9562 menu-path-node-8122 first  odd "><a href="/mobile/apis-in-government" title="APIs in Government" class=" menu-mlid-9562 level-depth-2">APIs in Government</a></li>
+<li class="menu-7642 menu-path-node-6612 even "><a href="/mobile/making-government-mobile" title="Making Government Mobile" class=" menu-mlid-7642 level-depth-2">Making Government Mobile</a></li>
+<li class="menu-7652 menu-path-node-6622 odd  last "><a href="/mobile/mobile-training-resources" title="Mobile Training Resources" class=" menu-mlid-7652 level-depth-2">Mobile Training Resources</a></li>
+</ul>
+</li>
+<li class="menu-8152 menuparent menu-path-node-6582 even "><a href="/challenges" title="Challenges &amp; Contests" class=" menu-mlid-8152 level-depth-1">Challenges &amp; Contests</a><ul><li class="menu-7402 menu-path-node-6352 first  odd "><a href="/challenges/definition" title="Federal Government Challenges and Contests" class=" menu-mlid-7402 level-depth-2">About Federal Challenges and Contests</a></li>
+<li class="menu-7412 menu-path-node-6362 even "><a href="/challenges/plan" title="Planning Your Challenge and Contest Innovation Program" class=" menu-mlid-7412 level-depth-2">Planning Your Challenge and Contest</a></li>
+<li class="menu-7432 menu-path-node-6372 odd "><a href="/challenges/implement" title="Implementing Your Challenge and Contest Innovation Program" class=" menu-mlid-7432 level-depth-2">Implementing Your Challenge and Contest</a></li>
+<li class="menu-7582 menu-path-node-6532 even "><a href="/challenges/improve" title="Improving Your Challenge and Contest Innovation Program" class=" menu-mlid-7582 level-depth-2">Improving Your Challenge and Contest</a></li>
+<li class="menu-3301 menu-path-node-2221 odd  last "><a href="/challenges/run" title="How to Run a Successful Apps or Mobile Apps Contest on Challenge.gov" class=" menu-mlid-3301 level-depth-2">Running Your Apps or Mobile Apps Contest</a></li>
+</ul>
+</li>
+<li class="menu-649 menuparent menu-path-node-3 odd "><a href="/contact-centers" title="Contact Centers" class=" menu-mlid-649 level-depth-1">Contact Centers</a><ul><li class="menu-1481 menu-path-node-301 first  odd "><a href="/contact-centers/requirements-and-best-practices" title="Requirements and Best Practices" class=" menu-mlid-1481 level-depth-2">Requirements and Best Practices</a></li>
+<li class="menu-1491 menu-path-node-311 even "><a href="/contact-centers/getting-started" title="Getting Started" class=" menu-mlid-1491 level-depth-2">Getting Started</a></li>
+<li class="menu-1551 menu-path-node-371 odd "><a href="/contact-centers/technologies" title="Technologies" class=" menu-mlid-1551 level-depth-2">Technologies</a></li>
+<li class="menu-1641 menu-path-node-461 even  last "><a href="/contact-centers/management" title="Operation and Management" class=" menu-mlid-1641 level-depth-2">Operation and Management</a></li>
+</ul>
+</li>
+<li class="menu-852 menuparent menu-path-node-79 even  last "><a href="/customer-experience" title="Customer Experience" class=" menu-mlid-852 level-depth-1">Customer Experience</a><ul><li class="menu-5411 menu-path-node-4331 first  odd "><a href="/customer-experience/customer-service-government" title="Overview - Customer Service in Government" class=" menu-mlid-5411 level-depth-2">Overview</a></li>
+<li class="menu-1291 menu-path-node-168 even "><a href="/customer-experience/collecting-feedback" title="Collecting Customer Feedback" class=" menu-mlid-1291 level-depth-2">Collecting Customer Feedback</a></li>
+<li class="menu-5421 menu-path-node-4341 odd "><a href="/customer-experience/strategic-planning" title="Strategic Planning" class=" menu-mlid-5421 level-depth-2">Strategic Planning</a></li>
+<li class="menu-756 menu-path-node-51 even "><a href="/customer-experience/principles" title="Principles" class=" menu-mlid-756 level-depth-2">Principles</a></li>
+<li class="menu-1199 menu-path-node-106 odd "><a href="/customer-experience/models" title="Models" class=" menu-mlid-1199 level-depth-2">Models</a></li>
+<li class="menu-9362 menu-path-node-7922 even  last "><a href="/customer-experience/improve-digital-services" title="Improve Digital Services and Customer Experience" class=" menu-mlid-9362 level-depth-2">Improve Digital Services and Customer Experience</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>  <div id="block-nice_menus-2" class="block block-nice_menus">
+
+
+  <div class="content"><ul class="nice-menu nice-menu-down" id="nice-menu-2"><li class="menu-7872 menuparent menu-path-node-3841 first  odd "><a href="/training" title="Training" class=" menu-mlid-7872 level-depth-1">Training</a><ul><li class="menu-8022 menu-path-node-3101 first  odd "><a href="/training/about" title="About DigitalGov University" class=" menu-mlid-8022 level-depth-2">About DigitalGov University</a></li>
+<li class="menu-7922 menu-path-node-3711 even "><a href="/training/schedule" title="Upcoming Classes" class=" menu-mlid-7922 level-depth-2">Upcoming Classes</a></li>
+<li class="menu-7902 menu-path-node-3701 odd "><a href="/training/registration" title="Registration &amp; Payment" class=" menu-mlid-7902 level-depth-2">Registration &amp; Payment</a></li>
+<li class="menu-7982 menu-path-node-3981 even "><a href="/training/classes" title="Course Catalog" class=" menu-mlid-7982 level-depth-2">Course Catalog</a></li>
+<li class="menu-8042 menu-path-node-3191 odd "><a href="/training/workshops" title="Workshops" class=" menu-mlid-8042 level-depth-2">Workshops</a></li>
+<li class="menu-7992 menu-path-node-4091 even "><a href="/training/on-demand" title="On-Demand Training" class=" menu-mlid-7992 level-depth-2">On-Demand Training</a></li>
+<li class="menu-7942 menu-path-node-3201 odd  last "><a href="/training/contact-us" title="Contact DigitalGov University" class=" menu-mlid-7942 level-depth-2">Contact DigitalGov University</a></li>
+</ul>
+</li>
+<li class="menu-7862 menuparent menu-path-node-5 even "><a href="/communities" title="Communities" class=" menu-mlid-7862 level-depth-1">Communities</a><ul><li class="menu-7892 menu-path-node-4421 first  odd "><a href="/communities/web-content" title="" class=" menu-mlid-7892 level-depth-2">Web Content Groups</a></li>
+<li class="menu-7912 menu-path-node-4431 even "><a href="/communities/social-media" title="" class=" menu-mlid-7912 level-depth-2">Social Media Groups</a></li>
+<li class="menu-7952 menu-path-node-4461 odd "><a href="/communities/contact-centers" title="" class=" menu-mlid-7952 level-depth-2">Contact Centers Groups</a></li>
+<li class="menu-7962 menu-path-node-4441 even "><a href="/communities/information-technology" title="" class=" menu-mlid-7962 level-depth-2">Information Technology Groups</a></li>
+<li class="menu-8002 menu-path-node-220 odd "><a href="/communities/mobilegov" title="" class=" menu-mlid-8002 level-depth-2">Mobile Gov Community of Practice</a></li>
+<li class="menu-7932 menu-path-node-4581 even "><a href="/communities/research" title="Research Groups" class=" menu-mlid-7932 level-depth-2">Research Groups</a></li>
+<li class="menu-10622 menu-path-node-8572 odd  last "><a href="/communities/communicators" title="Federal Communicators Network" class=" menu-mlid-10622 level-depth-2">Federal Communicators Network</a></li>
+</ul>
+</li>
+<li class="menu-7842 menu-path-bloghowtogov odd "><a href="http://blog.howto.gov" title="DigitalGov Blog" class=" menu-mlid-7842 level-depth-1">DigitalGov Blog</a></li>
+<li class="menu-8102 menuparent menu-path-node-6602 active-trail even  last "><a href="/services-tools" title="Services &amp; Tools" class=" menu-mlid-8102 level-depth-1">Services &amp; Tools</a><ul><li class="menu-10782 menu-path-node-157 first  odd "><a href="/web-content/usability/first-fridays" title="First Fridays Usability Testing Program" class=" menu-mlid-10782 level-depth-2">First Fridays Usability Testing Program</a></li>
+<li class="menu-10222 menu-path-node-2611 even "><a href="/web-content/governance/roles-and-responsibilities/position-descriptions" title="Job Descriptions for Web Staff" class=" menu-mlid-10222 level-depth-2">Job Descriptions for Web Staff</a></li>
+<li class="menu-3691 menu-path-node-2641 odd "><a href="/services-tools/style-guides" title="Web Style Guides and Standards" class=" menu-mlid-3691 level-depth-2">Web Style Guides and Standards</a></li>
+<li class="menu-3481 menu-path-node-2401 even "><a href="/services-tools/checklist" title="Checklists" class=" menu-mlid-3481 level-depth-2">Checklists</a></li>
+<li class="menu-10132 menu-path-node-631 odd "><a href="/web-content/usability/design-templates" title="Templates" class=" menu-mlid-10132 level-depth-2">Templates</a></li>
+<li class="menu-8062 menu-path-node-2671 even "><a href="/services-tools/tools-government-agencies" title="Tools for Government Agencies" class=" menu-mlid-8062 level-depth-2">Tools for Government Agencies</a></li>
+<li class="menu-10962 menu-path-node-2661 odd "><a href="/social-media/terms-of-service-agreements" title="Federal-Compatible Terms of Service Agreements" class=" menu-mlid-10962 level-depth-2">Federal-Compatible Terms of Service Agreements</a></li>
+<li class="menu-11282 menu-path-node-5332 active-trail even "><a href="/social-media/using-social-media-in-government/social-media-registry" title="Social Media Registry" class=" menu-mlid-11282 level-depth-2 active">Social Media Registry</a></li>
+<li class="menu-11242 menu-path-node-6352 odd "><a href="/challenges/definition" title="Challenge Platform Tool" class=" menu-mlid-11242 level-depth-2">Challenge Platform Tool</a></li>
+<li class="menu-11292 menu-path-node-7542 even "><a href="/web-content/digital-metrics/digital-analytics-program" title="Digital Analytics Program Tool" class=" menu-mlid-11292 level-depth-2">Digital Analytics Program Tool</a></li>
+<li class="menu-11302 menu-path-node-3841 odd "><a href="/training" title="DigitalGov University" class=" menu-mlid-11302 level-depth-2">DigitalGov University</a></li>
+<li class="menu-3441 menu-path-node-2361 even  last "><a href="/services-tools/apply-for-web-awards" title="Apply for Awards (listed by application deadline)" class=" menu-mlid-3441 level-depth-2">Apply for Web Awards</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>                      </div><!-- /header-last -->
+
+    	<!-- Logo must be visible on printed page -->
+        <div class="logo-print"><img src="/sites/default/themes/howto/images/logo.png"></div>
+
+    </div><!-- close header-inner -->
+    </div><!-- close header -->
+<div id="mainContentArea">
+
+<a name="skipNav"></a>
+
+
+
+<div id="main" class="node-5332">
+<div id="main-inner" class="clearfix">
+<div class="breadcrumb"><a href="/">Home</a> &raquo; <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><a href="/social-media" title="Social Media">Social Media</a></body></html>
+ &raquo; <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><a href="/social-media/using-social-media-in-government" title="Using Social Media in Government">Using Social Media in Government</a></body></html>
+ &raquo; Social Media Registry</div>
+<div id="main-left-wrapper" class="clearfix">
+
+
+
+  <div id="content">
+    <div id="content-inner" class="clearfix">
+
+      
+
+      
+      
+            <div id="content-header">
+                                  <h1 class="title">Social Media Registry</h1>                                  
+      </div> <!-- close content-header -->
+      
+
+      <div id="content-area">
+
+
+                <div id="node-5332" class="node">
+
+
+  <div class="meta">
+    </div>
+
+  <div class="content">
+    <!--PAGEWATCH CODE="USHOWTO_68"--><h2>
+	What It Is</h2>
+<p>The Social Media Registry is a tool to keep track of social media accounts managed by federal agencies. It helps the public identify official agency social media accounts and helps federal agencies manage their social media efforts. The public-facing side is hosted on <a href="http://www.usa.gov/Contact/verify-social-media.shtml">USA.gov</a> and <a href="http://www.usa.gov/gobiernousa/contactos/verificacion-redes-sociales.shtml">GobiernoUSA.gov</a>, and the agency-facing side is hosted here on HowTo.gov.</p>
+<p>The Social Media Registry also offers <a href="http://www.usa.gov/About/developer-resources/social-media-registry.shtml">a series of APIs</a> to allow developers to build applications with the data stored on the registry. Full documentation of the APIs is hosted on USA.gov.</p>
+<p>Using the API, GSA has also built <a href="/social-media/twitter-widgets-gallery">embeddable Twitter Widgets</a>, a suite of dynamic widgets that aggregate tweets from across federal agencies and by topic. These widgets demonstrate the power of the Registry and the API&mdash;so anyone can access content from across thousands of federal social media accounts, updated in real-time.</p>
+<h2>
+	Why It&#39;s Important</h2>
+<p>Agencies can use this tool to register their social media accounts and verify which social media accounts are &quot;official&quot; (similar to how Twitter &quot;verifies&quot; high-profile accounts). This will help the public to know and trust information shared via these official accounts.</p>
+<h2>
+	Specific Requirements</h2>
+<p>The Social Media Registry only includes accounts that represent official U.S. government agencies, organizations, or programs. You can register accounts managed by federal agencies, elected officials (not campaign accounts), heads of agencies&nbsp;or members of the President&rsquo;s Cabinet. Do not enter personal, employee, or other types of accounts. If you have any questions or comments, contact <a href="mailto:socialmediaregistry@gsa.gov">socialmediaregistry@gsa.gov</a>.</p>
+<h2>
+	How to Implement</h2>
+<p><a href="/social-media/social-media-registry/register-accounts">Register a new account or edit an existing account</a>.</p>
+<p>&nbsp;</p>
+<!--/PAGEWATCH-->  </div>
+
+
+    </div>
+                        <div class="node"><div class="content">
+          <p class="signature">
+                        <a href="/suggest">Content Lead</a>:
+                          <a href="mailto:justin.herman@gsa.gov">Justin Herman</a>
+                                      <br>
+                                    Page Reviewed/Updated: February 19, 2013                      </p>
+        </div></div>
+        
+      </div>
+
+      
+
+      
+
+
+    </div><!-- close content-inner -->
+  </div><!-- close content -->
+
+
+
+
+
+  
+</div><!-- close main-left-wrapper -->
+
+
+
+
+
+<div id="sidebar-right" role="complimentary">
+  <div id="sidebar-right-inner" class="region region-right">
+
+    
+    
+    
+    <!--<div id="block-block-23" class="mp blocky block block-block">
+                   <h3>Toolbox</h3>
+                   <div class="content clearfix">-->
+
+        <!--<div class="imgIcons">
+				<img src="/images/Tool_Share_On.png" alt="Share">&nbsp;<a href="http://www.addthis.com/bookmark.php" title="Share This">Share</a>
+				&nbsp;&nbsp;&nbsp;<img src="/images/Tool_Print_On.png" alt="Print">&nbsp;<a href="javascript:window.print()" title="Print">Print</a>
+                    &nbsp;&nbsp;&nbsp;<img src="/images/Tool_GovDelivery_On.png" alt="Subscribe">&nbsp;<a href="contact/email-subscriptions" title="Subscribe">Subscribe</a>
+				<p style="height:1px">&nbsp;</p>
+				<img src="/images/Tool_Download_On.png" alt="Download Plug-ins">&nbsp;<a href="site-policies/download-plug-ins" title="Download Plug-ins">Download Plug-ins</a>
+				</div>
+				
+				</div>
+				</div>-->
+
+    
+    
+
+
+
+      <div id="block-boxes-custom_toolbox" class="blocky block block-boxes">
+
+
+  <div class="content"><div id='boxes-box-custom_toolbox' class='boxes-box'><div class="boxes-box-content"><h3>
+	Toolbox</h3>
+<div class="content clearfix">
+	<div class="imgIcons">
+		<p><img alt="Share" src="http://www.howto.gov/sites/default/themes/howto/images/Tool_Share_On.png" title="Share" />&nbsp;<a href="http://www.addthis.com/bookmark.php" title="Share This Page">Share</a>&nbsp;<img alt="Print" src="http://www.howto.gov/sites/default/themes/howto/images/Tool_Print_On.png" title="Print" />&nbsp;<a class="windowprint" href="#" title="Print This Page">Print</a>&nbsp;&nbsp;<img alt="Email Updates" src="http://www.howto.gov/sites/default/themes/howto/images/Tool_GovDelivery_On.png" title="Email Updates" />&nbsp;&nbsp;<a href="/contact/email-subscriptions" title="Email updates">Email Updates</a></p>
+		<p><img alt="Download Plug-ins" src="http://www.howto.gov/sites/default/themes/howto/images/Tool_Download_On.png" title="Download Plug-ins" />&nbsp;<a href="/site-policies/download-plug-ins" title="Download Plug-ins">Download Plug-ins</a></p>
+	</div>
+</div>
+<!--
+    <h3>
+      Toolbox</h3>
+    <div class="content clearfix">
+            <div class="imgIcons">
+        <img alt="Share" src="/sites/default/themes/howto/images/Tool_Share_On.png" />&nbsp;<a href="http://www.addthis.com/bookmark.php" title="Share This Page">Share</a> &nbsp;&nbsp;&nbsp;<img alt="Print" src="/sites/default/themes/howto/images/Tool_Print_On.png" />&nbsp;<a href="javascript:window.print()" title="Print This Page">Print</a> &nbsp;&nbsp;&nbsp;<img alt="Subscribe" src="/sites/default/themes/howto/images/Tool_GovDelivery_On.png" /> <a href="/contact/email-subscriptions" title="Subscribe">Email Updates</a>
+        <p style="height:1px">&nbsp;</p>
+        <p><img alt="Download Plug-ins" src="/sites/default/themes/howto/images/Tool_Download_On.png" />&nbsp;<a href="/site-policies/download-plug-ins" title="Download Plug-ins">Download Plug-ins</a> <img alt="Share" src="/sites/default/themes/howto/images/Tool_Share_On.png" />&nbsp;<a href="http://www.addthis.com/bookmark.php" title="Share This Page">Share</a></p>
+        <p>&nbsp;&nbsp;&nbsp;<img alt="Print" src="/sites/default/themes/howto/images/Tool_Print_On.png" />&nbsp;<a href="javascript:window.print()" title="Print This Page">Print</a> &nbsp;&nbsp;&nbsp;<img alt="Subscribe" src="/sites/default/themes/howto/images/Tool_GovDelivery_On.png" />&nbsp;<a href="/contact/email-subscriptions" title="Subscribe">Subscribe</a></p>
+        <p style="height:1px">&nbsp;</p>
+        <img alt="Download Plug-ins" src="/sites/default/themes/howto/images/Tool_Download_On.png" />&nbsp;<a href="/site-policies/download-plug-ins" title="Download Plug-ins">Download Plug-ins</a></div>
+    </div>
+    
+--></div></div></div>
+</div>  <div id="block-boxes-subscribe_social_media_registry" class="blocky block block-boxes">
+
+  <h3>Get Email Updates</h3>
+
+  <div class="content"><div id='boxes-box-subscribe_social_media_registry' class='boxes-box'><div class="boxes-box-content"><p><img alt="" src="/sites/default/files/media_icon-govdelivery-bubble-16x16.png" />&nbsp;<a href="https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_68">Subscribe for email updates on Social Media Registry</a>. View all subscriptions at Subscriber Preferences.</p>
+</div></div></div>
+</div>
+
+  </div><!-- close sidebar-right-inner -->
+</div><!-- close sidebar-right -->
+
+  
+
+
+</div><!-- close main-inner -->
+</div><!-- close main -->
+
+<script type="text/javascript" src="/sites/default/themes/howto/js/federated-analytics.js?e"></script>
+    
+     
+    
+    
+	      <div id="footer">
+      <div id="footer-inner" class="region region-footer clearfix">
+
+        <a href="#pagetop" class="offscreen">Go to the top of this page</a>
+		<div id="footer-menu">  <div id="block-boxes-testfooter" class="block block-boxes">
+
+  <h2>replacement for Footer Menu</h2>
+
+  <div class="content"><div id='boxes-box-testfooter' class='boxes-box'><div class="boxes-box-content"><ul class="menu">
+<li class="leaf first"><a title="Web Content" href="/web-content">Web Content</a></li>
+<li class="leaf"><a title="Social Media" href="/social-media">Social Media</a></li>
+<li class="leaf"><a title="Mobile" href="/mobile">Mobile</a></li>
+<li class="leaf"><a title="Challenges &amp; Contests" href="/challenges">Challenges &amp; Contests</a></li>
+<li class="leaf"><a title="Contact Centers" href="/contact-centers">Contact Centers</a></li>
+<li class="leaf last"><a title="Customer Experience" href="/customer-service">Customer Experience</a></li>
+</ul>
+</div></div></div>
+</div></div>		<div id="footer-menu-top">  <div id="block-boxes-footer_top_one" class="block block-boxes">
+
+
+  <div class="content"><div id='boxes-box-footer_top_one' class='boxes-box'><div class="boxes-box-content"><ul class="menu">
+<li class="leaf">
+		<a href="/training" title="Training">Training</a></li>
+<li class="leaf">
+		<a href="/communities" title="Communities">Communities</a></li>
+<li class="leaf">
+		<a href="http://blog.howto.gov" title="DigitalGov Blog">DigitalGov Blog</a></li>
+<li class="leaf last">
+		<a href="/services-tools" title="Services and Tools">Services &amp; Tools</a></li>
+</ul>
+</div></div></div>
+</div>  <div id="block-boxes-footer_top_two" class="block block-boxes">
+
+
+  <div class="content"><div id='boxes-box-footer_top_two' class='boxes-box'><div class="boxes-box-content"><ul class="menu">
+<li class="leaf first"><a title="Get Email Updates" href="http://www.howto.gov/contact/email-subscriptions">Get Email Updates</a></li>
+<li class="leaf"><a title="Change Text Size" href="http://www.howto.gov/site-policies/change-text">Change Text Size</a></li>
+<li class="leaf"><a title="A - Z Index" href="/a-z-index">A - Z Index</a></li>
+<li class="leaf"><a title="Contact Us" href="/contact-us">Contact Us</a></li>
+<li class="leaf"><a title="About Us" href="/about-us">About Us</a></li>
+<li class="leaf"><a title="Site Policies" href="/site-policies">Site Policies</a></li>
+<li class="leaf"><a title="Suggest Content" href="/suggest">Suggest Content</a></li>
+</ul>
+</div></div></div>
+</div></div>		<div id="footer-copyright" role="contentinfo">  <div id="block-boxes-copyright_box" class="block block-boxes">
+
+
+  <div class="content"><div id='boxes-box-copyright_box' class='boxes-box'><div class="boxes-box-content"><table align="center" width="100%">
+<tbody>
+<tr>
+<td width="20%">
+<div class="footerGSAGOV">
+					<a href="http://www.gsa.gov" target="_blank"><img alt="GSA.gov logo" border="0" class="footerLogo" height="45" src="/sites/default/themes/howto/images/logo_footer_gsa.png" width="44" /></a></div>
+</td>
+<td>
+<p class="rtecenter" style="">An Official Website of the U.S. Government<br />
+					Sponsored by <a href="http://www.gsa.gov/portal/category/25729">GSA&#39;s Office of Citizen Services &amp; Innovative Technologies</a><br />
+					Managed by the <a href="/communities/federal-web-managers-council">Federal Web Managers Council</a></p>
+</td>
+<td width="20%">
+<div class="footerUSAGOV rteright" style="">
+					<a href="http://www.usa.gov" target="_blank"><img alt="USA.gov logo" border="0" class="footerLogo" height="32" src="/sites/default/themes/howto/images/logo_footer_usaGov.png" width="98" /></a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</div></div></div>
+</div></div>        		
+      </div><!-- close footer-inner -->
+      </div><!-- close footer -->
+    
+
+
+  </div><!-- close page-inner -->
+  </div> <!-- close page -->
+
+	<div id="dialog-confirm" title="Notification">
+		<div id="modalContent">
+			<p>You are now leaving the HowTo.gov website.</p><br />
+			<p><a href="" id="cancelExitURL" class="cancelExitURL">Cancel</a><a href="" id="exitURL">View Link</a></p>
+		</div><!-- close modalContent -->
+	</div><!-- close dialog-confirm -->
+
+
+  
+
+
+  
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2010 WebTrends Inc.  All rights reserved. -->
+<!-- Version: 9.3.0 -->
+<!-- Tag Builder Version: 3.1  -->
+<!-- Created: 12/8/2010 8:51:05 PM -->
+<script src="/sites/default/themes/howto/js/webtrends.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsvttmj310000ou3678qyrr6_8p2t/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.3.0&amp;WT.dcssip=www.howto.gov"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+<!-- Begin: www.iperceptions.com --><script src="http://ips-invite.iperceptions.com/webValidator.aspx?sdfc=c7d57907-106298-a5ad3a60-4af3-4277-b34a-5b258523c54d&lID=1&loc=STUDY&cD=90&rF=False&iType=1&domainname=0" type="text/javascript" defer="defer" ></script><!-- End: www.iperceptions.com -->
+
+</body>
+</html>

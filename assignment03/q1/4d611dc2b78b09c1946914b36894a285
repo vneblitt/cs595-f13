@@ -1,0 +1,725 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="government science, U.S. government science , science portal, science gateway, federal government, technology, government technology, biology, medicine, agriculture, energy, environment, defense, astronomy, chemistry, physics">
+<meta name="description" content="Science.gov is a gateway to government science information provided by U.S. Government science agencies, including research and development results.">
+<link rel="shortcut icon" href="http://www.science.gov/images/scigovfavicon.ico">
+<title>Science.gov: Trivia</title>
+<!--
+Clear default form value script- By Ada Shimar (ada@chalktv.com)
+Featured on JavaScript Kit (http://javascriptkit.com)
+-->
+
+<script type="text/javascript"><!--
+function clearText(thefield){
+    if (thefield.value.indexOf("Enter Search Terms") == 0) {
+        thefield.value = "";
+    }
+    return true;
+}
+
+function doFeaturedSearch()
+{
+    var ele = document.getElementById("featuredSearch");
+    searchForm.expression.value = ele.innerHTML;
+    searchForm.submit();
+}
+
+function checkwords(form) {
+	var word = document.getElementById('expression') ;
+    if (!word) {
+        word = form.expression.value
+    } else {
+        word = word.value;
+    }
+    var emptyString = /^\s*$/
+    if (emptyString.test(word))  {
+        alert("The Search Field may not be empty.");
+        return false;
+    }
+    var thestring = word;
+    if (thestring.indexOf('Enter Search Terms') != -1) {
+        return false;
+
+    }
+    return true;
+    /*
+    thestring += " " ;
+	var pointer1 = 0 ;
+	var pointer2 = 0 ;
+	var i ;
+	var test ;
+	var wordcount = 0;
+
+	for(i = 0 ; i < thestring.length; i++) {
+	   if(thestring.charAt(i) == " ") {
+	      test = thestring.substring(pointer1, pointer2);
+	      if(test == "and" || test == "AND" || test == "or" || test == "OR" || test == "") {
+		   pointer1 = pointer2 ;
+		   pointer1++ ;
+	      }
+	      else {
+		   wordcount++ ;
+		   pointer1 = pointer2 ;
+		   pointer1++ ;
+	      }
+	      pointer2++ ;
+	   }
+	   else	{
+	      pointer2++ ;
+	   }
+	}
+	if(wordcount > 4) {
+	   if (confirm("Your query may be too long for most databases that we search. Select 'OK' to continue your search (you may experience a time out or delay); or select 'Cancel' to revise your search.") ){
+		return true;
+	    }
+	   else	{
+		return false;
+	    }
+	}
+	*/
+}
+// so the links don't work - and they don't throw errors.
+function doNothing(){}
+--></script>
+
+ <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+
+
+ <link href="includes/css/1stgov_2012.css" rel="stylesheet" type="text/css" media="screen" />
+<style>
+.trivia {
+	font-size: 0.85em;
+}
+.trivia a:link, a:visited, a:hover {color:#6699ff;}
+
+.trivia h2  {
+	font-family: "Arial", Helvetica, sans-serif;
+	font-size: 1.25em;
+	font-weight: bold;
+	color: #185597;
+}
+</style>
+</head>
+
+<body class="twoColLiqRtHdr" id="trivia">
+
+<div id="container">
+ 
+<div id="header"> <img src="/includes/images/SciGov_ban_2012.jpg" alt="Science.gov" width="978" height="158" usemap="#share" border="none">
+   <div id="spanish_button"><a href="http://ciencia.science.gov/"><img src="/images/btn_espanol.jpg" width="99" height="26" alt="ESPANOL" border="0"/></a></div>
+ 
+  <div id="share_buttons"><a href="/widget.html"><img src="/images/btn_widget.jpg" width="125" height="17" alt="science.gov widget" border="0"/></a> <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" alt="Bookmark and Share" valign="top" width="125" height="16" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" /></a>  </div>
+    <map name="share" id="share">
+      <area shape="rect" coords="99,4,477,97" href="/index.html" alt="Science.gov" />
+    </map>
+
+
+<div class="navlayer">
+  <div class="navcontainer">
+    <ul >
+      <li ><a href="/index.html" id="menu-home">Home</a></li>
+       <li ><a href="http://m.science.gov/" id="menu-mobile">Mobile</a></li>
+      <li><a href="/sitemap.html" id="menu-sitemap">Site Map</a></li>
+      <li><a href="/browse/topiclist.htm" id="menu-index">Index</a></li>
+      <li><a href="/scigov/login.html " id="menu-alerts">Alerts</a></li>
+      <li><a href="/helpNew.html" id="menu-help">Help</a></li>
+      <li><a href="/sciencegovfeedback.html" id="menu-contact">Contact Us</a></li>
+      <li><a href="/about.html" id="menu-about">About </a></li>
+      <li><a href="/communications/index.html" id="menu-communications">Communications</a></li>
+      <li><a href="/members/index.html" id="menu-alliance">Alliance Only</a></li>
+    </ul>
+  </div>
+</div>  <!-- end #header --></div>
+
+
+<div id="maintext">
+<br><h1>Science.gov Trivia Answers</h1>
+
+<p><em><strong>To continually challenge yourself, and learn more about science, follow Science.gov on <a href="https://twitter.com/Sciencegov" style="color:#6699ff;">Twitter</a> @sciencegov</strong></em></p>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: September 26, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.fs.fed.us/"><img src="AgencySeals/USFS_small.jpg" alt="U.S. Department of Agriculture, U.S. Forest Service"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em> USDA's U.S. Forest Service scientists found that fewer spring snow packs are reducing the population of which burrowing mammal?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;The wolverine<br>
+
+<p>The <a href="http://www.usda.gov/">U.S. Department of Agriculture</a> (USDA)'s <a href="http://www.fs.fed.us/">U.S.  Forest Service</a> (USFS) has been studying the range of the <a href="http://en.wikipedia.org/wiki/File:Gulo_gulo_2.jpg">wolverine</a>, the largest member  of the weasel family. Little is known about them because these nocturnal  mammals are rarely seen by humans. Some groups have petitioned for the  wolverine to be listed as an endangered species, yet lack of knowledge about  their habitat range has hindered attempts to protect them. USFS scientists  compiled hundreds of verifiable and documented records dating back to 1827 of  wolverine occurrence (specimens, DNA detections, photos and accounts of  wolverines being killed or captured) in the contiguous United States from  museums, literature and institutional archives. This helped them determine that  climate change and human development have reduced the amount of spring snow  packs&#8211;where wolverines build dens in which they bear and raise their young&#8211;and  as a result, have shrunk the wolverine's habitat range and the animal's numbers  in the northern United States.</p>
+<p>For more information, go to: <br>
+<a href="http://www.fs.fed.us/rm/pubs_other/rmrs_2007_aubry_k001.pdf">http://www.fs.fed.us/rm/pubs_other/rmrs_2007_aubry_k001.pdf</a></p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: September 24, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.nsf.gov"><img src="AgencySeals/NSF_small.jpg" alt="National Science Foundation"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em> Developed with funding from the National Science Foundation, what item is being used as a microelectronic health monitor?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;A tattoo<br>
+
+<p>With  support from the <a href="http://www.nsf.gov">National Science Foundation</a> (NSF), engineers  John Rogers at the University of Illinois at Urbana-Champaign and Yonggang  Huang at Northwestern University have been developing "electronic tattoos,"  microelectronic health monitors so thin, light and portable that they can  attach right to the surface of skin and go wherever a person goes. The tattoos  incorporate "elastic electronics," a technology where the tiny monitors are  fashioned from tiny, wavy silicon structures containing circuits that are  thinner than a human hair. The devices are applied directly to the surface of  the skin in the same way as a child's temporary stick-on tattoo. As the skin  moves and deforms, the circuit can follow those deformations in a completely  noninvasive way. This innovation has the potential to revolutionize the field  of healthcare technology, yielding miniature monitors for muscle movement,  heart function, brain waves and other body activities.</p>
+<p>For more information, go to: <br>
+<a href="http://www.nsf.gov/news/special_reports/innovation/electronictattoo.jsp">http://www.nsf.gov/news/special_reports/innovation/electronictattoo.jsp</a><br>
+<a href="http://www.nsf.gov/news/special_reports/science_nation/skinmountedelectronics.jsp">http://www.nsf.gov/news/special_reports/science_nation/skinmountedelectronics.jsp</a></p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: September 19, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.nasa.gov"><img src="AgencySeals/NASA_small.jpg" alt="National Aeronautics and Space Administration"   class="leftimage" border="none"></a><a href="http://www.dot.gov/"></a><a href="http://www.noaa.gov"></a><a href="http://www.energy.gov"></a><a href="http://www.nist.gov"></a><a href="http://www.usgs.gov"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em> In 1996, where did President Bill Clinton urge NASA to search for signs of extraterrestrial life?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;Mars<br>
+
+<p>On Aug. 7, 1996, the <a href="http://www.nasa.gov">National  Aeronautics and Space Administration (NASA)</a> <a href="http://www2.jpl.nasa.gov/snc/nasa1.html">announced</a> that it had found possible microscopic fossils  of primitive, bacteria-like organisms inside of an ancient Martian rock that  fell to Earth as a meteorite. That afternoon, President Bill Clinton delivered  an televised statement about the announcement in which he said, "I am  determined that the American space program will put its full intellectual power  and technological prowess behind the search for further evidence of life on  Mars." The meteorite behind all of the excitement, designated <a href="http://www2.jpl.nasa.gov/snc/alh3.gif">ALH 84001</a>, was discovered in in the Allan Hills region of  Antarctica in 1984. It is a 1.93 kilogram (4.3 pound) mass believed to be about  4.5 billion years old that was blasted from the Martian surface some 16 million  years ago and struck the Earth about 13,000 years ago. Of the 24,000 or so  meteorites that have been discovered on Earth, only 34 have been identified as <a href="http://www2.jpl.nasa.gov/snc/index.html">originating from the planet Mars</a>. While the evidence of fossilized bacteria in  ALH84001 <a href="http://www.amnh.org/explore/resource-collections/cosmic-horizons/case-study-fossil-microbes-on-mars">remains controversial</a>, it stimulated a concerted effort by NASA to  search for life or the remnants of life on Mars.</p>
+<p>For more information, go to: <br>
+<a href="http://www2.jpl.nasa.gov/snc/alh.html">http://www2.jpl.nasa.gov/snc/alh.html</a><br>
+<a href="http://www2.jpl.nasa.gov/snc/clinton.html">http://www2.jpl.nasa.gov/snc/clinton.html</a></p></td>
+</tr></table>
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: September 17, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.dot.gov/"><img src="AgencySeals/DOT_small.jpg" alt="Department of Transportation"   class="leftimage" border="none"></a><a href="http://www.noaa.gov"></a><a href="http://www.energy.gov"></a><a href="http://www.nist.gov"></a><a href="http://www.usgs.gov"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em> Which U.S. president signed the legislation that created the U.S. Department of Transportation: Herbert Hoover, Dwight Eisenhower, Lyndon Johnson or Richard Nixon?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;Lyndon Johnson<br>
+
+<p>On Oct. 15, 1966,  President Lyndon Johnson signed into law Public Law 89-670, establishing the <a href="http://www.dot.gov/">U.S.  Department of Transportation</a> (DOT). On Nov. 8, 1966, Johnson nominated Under Secretary of Commerce  for Transportation Alan S. Boyd to become the nation's first <a href="http://ntl.bts.gov/historian/bios.htm">Secretary of  Transportation</a>. He took office on  Jan. 16, 1967, a little under four months before his department officially  opened for business on Apr. 1, 1967. Boyd served as Secretary until Jan. 20,  1969, when President Richard Nixon was inaugurated.</p>
+<p>For more information, go to:  <a href="http://ntl.bts.gov/historian/chronology.htm">http://ntl.bts.gov/historian/chronology.htm</a></p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: September 12, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.noaa.gov"><img src="AgencySeals/NOAA_small.jpg" alt="National Oceanic and Atmospheric Administration"   class="leftimage" border="none"></a><a href="http://www.energy.gov"></a><a href="http://www.nist.gov"></a><a href="http://www.usgs.gov"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em> According to the National Oceanic and Atmospheric Administration's Office of National Marine Sanctuaries, the August full moon brings about an "underwater snowstorm." What is it really?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;The spawning of a coral reef<br>
+
+<p>Seven-to-10  days after the full moon each August, the reef-building corals of the <a href="http://flowergarden.noaa.gov/">Flower Garden Banks National Marine Sanctuary</a>, managed by the <a href="http://www.noaa.gov">National  Oceanic and Atmospheric Administration</a> (NOAA)'s <a href="http://sanctuaries.noaa.gov/">Office of National Marine Sanctuaries</a> (ONMS), put on a  fantastic spawning display that resembles <a href="http://flowergarden.noaa.gov/image_library/expedition/coralspawn07/090507coralspawngh.jpg">an underwater  snowstorm</a>.  Each coral species in the sanctuary&#8211;located in the Gulf of Mexico <a href="http://flowergarden.noaa.gov/image_library/maps/gulfmap.jpg">some 160 kilometers  (100 miles) off the coast of Louisiana</a>&#8211;time their gamete (egg and sperm) release for  maximum benefit by avoiding the simultaneous spawning of other species. Most  scientists agree that these mass spawning events are designed to allow genetic  mixing and dispersal of offspring over large distances. The sheer volume of the  gametes spawned allows for the fertilization and survival of a significant  number of larvae despite the best efforts of predators.</p>
+<p>For more information, go to:  <a href="http://flowergarden.noaa.gov/science/fgbcoralspawning.html">http://flowergarden.noaa.gov/science/fgbcoralspawning.html</a></p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: September 10, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.dhs.gov"><img src="AgencySeals/DHS_small.jpg" alt="U.S. Department of Homeland Security"   class="leftimage" border="none"></a><a href="http://www.energy.gov"></a><a href="http://www.nist.gov"></a><a href="http://www.usgs.gov"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;For what purpose did DHS S&amp;T develop an inflatable cylinder, 32 feet long by 16 feet wide, which fills with 35,000 gallons of air or water?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;To plug tunnels <br>
+
+<p>The <a href="http://www.dhs.gov/st-directorate">Department of Homeland Security's Science and  Technology Directorate</a> (DHS S&amp;T)'s Resilient Tunnel Project (RTP) recently  designed and tested an enormous (32 feet long by 16 feet wide), pill-shaped  inflatable cylinder that can be filled with 35,000 gallons of water or air  (about the same capacity of a medium-sized swimming pool) in minutes to contain  flooding or dangerous gases in a mass transit tunnel. The giant plug was  developed in partnership with the <a href="http://www.pnnl.gov/">Pacific Northwest  National Laboratory</a> (PNNL), <a href="http://www.wvu.edu/">West Virginia University</a> (WVU) and <a href="http://www.ilcdover.com/">ILC  Dover</a>&#8212;the  longtime maker of space suits for NASA astronauts. When not in use, the plug  stores within a small space in a tunnel, ready to respond in an emergency by  being remotely inflated from the tunnel system's command center.&nbsp; </p>
+<p>For more information, go to:  <a href="http://www.dhs.gov/35000-gallons-prevention">http://www.dhs.gov/35000-gallons-prevention</a></p></td>
+</tr></table>
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: September 5, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.energy.gov"><img src="AgencySeals/DOE_small.jpg" alt="U.S. Department of Energy"   class="leftimage" border="none"></a><a href="http://www.nist.gov"></a><a href="http://www.usgs.gov"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;Which Department of Energy laboratory was the birthplace of #video games?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;Brookhaven National Laboratory <br>
+
+<p><a href="http://www.bnl.gov/bnlweb/history/higinbotham3.asp">William Higinbotham</a>, head of the <a href="http://www.inst.bnl.gov">Instrumentation  Division</a> at what is now the <a href="http://www.energy.gov">Department of Energy</a> (DOE) <a href="http://www.bnl.gov/world">Brookhaven  National Laboratory</a> (BNL), created an interactive game called <a href="http://www.bnl.gov/about/history/firstvideo.php">"Tennis for Two"</a> for the annual  visitor day in 1958. The game was run by an analog computer hooked up to an  oscilloscope. Simulated on a screen was a vertical side view of a tennis court.  Each player had a knob and a button. Rotating the knob changed the angle of the  ball and a press of the button sent the ball toward the opposite side of the  court. If the ball hit the net, it rebounded at an unexpected angle. If the  ball went over the net, but was not hit back, it would hit the floor and bounce  again at a natural angle. If it disappeared off the screen, a reset button  could be pressed, causing the ball to reappear and remain stationary until a  hit button was pressed.</p>
+<p>For more information, go to:  <a href="http://www.osti.gov/accomplishments/videogame.html">http://www.osti.gov/accomplishments/videogame.html</a></p></td>
+</tr></table>
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: September 3, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.nist.gov"><img src="AgencySeals/NIST_black_small.jpg" alt="National Institute of Standards and Technology (NIST)"   class="leftimage" border="none"></a><a href="http://www.usgs.gov"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;An isolated, freestanding wall at the National Institute of Standards and Technology's Gaithersburg, Md., campus tests the long-term effects of weather exposure on what?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;Stones from nearly all 50 states and 16 foreign nations<br>
+
+<p>In  1880, the <a href="http://www.census.gov/history/www/census_then_now/">Census Office</a> and the National  Museum (now the <a href="http://www.mnh.si.edu">National Museum of Natural History</a> at the <a href="http://www.si.edu">Smithsonian  Institution</a>)  conducted a study of building stones of the United States and collected a set  of reference specimens from working quarries. Sixty-two years later, a federal  committee decided that it would be valuable to study the actual weathering of  such a great variety of stone. In 1948, a test wall was constructed at the  National Bureau of Standards (NBS, now known as the <a href="http://www.nist.gov">National  Institute of Standards and Technology</a> or NIST) headquarters in Washington, D.C. It  was moved to <a href="http://www.gaithersburgmd.gov/">Gaithersburg, Md.</a>, in 1977, where the  agency had relocated 11 years earlier. The <a href="http://www.nist.gov/el/building_materials/stonewall.cfm">NIST Stone Wall</a> contains 2352  individual samples of stone, of which 2032 are domestic stone from 47 states,  and 320 are stones from 16 foreign countries. Over 30 distinct types of stones  are represented, including marble, limestone, sandstone, and granite.</p>
+<p>For more information, go to: <br>
+  <a href="http://stonewall.nist.gov/">http://stonewall.nist.gov/</a></p></td>
+</tr></table>
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: August 29, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.usgs.gov"><img src="AgencySeals/USGS_small.jpg" alt="United States Geological Survey"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;Which January 17<sup>th</sup> earthquake was more catastrophic, the 1995 one in Kobe, Japan, or the 1994 one in Northridge, Calif.? <br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;The Kobe, Japan, earthquake <br>
+
+<p>According  to the <a href="http://www.usgs.gov">United  States Geological Survey</a> (USGS), the Great Hanshin earthquake, more commonly called the <a href="http://earthquake.usgs.gov/earthquakes/world/events/1995_01_16.php">Kobe earthquake</a>, occurred on Jan. 17, 1995, in the  southern part of Hy&#333;go Prefecture, Japan. It had a magnitude of 6.8 on the <a href="http://earthquake.usgs.gov/learn/topics/richter.php">Richter scale</a> and was responsible for 5,530 deaths;  37,000 injuries; and over $100 billion in economic loss. By comparison, the  Jan. 17, 1994, <a href="http://earthquake.usgs.gov/earthquakes/states/events/1994_01_17.php">Northridge, Calif., earthquake</a> (magnitude 6.7) was responsible for  approximately 60 deaths; 9,000 injuries; and over $40 billion in damage.</p>
+<p>For more information, go to:  <a href="http://earthquake.usgs.gov/">http://earthquake.usgs.gov/</a></p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: August 27, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.loc.gov"><img src="AgencySeals/LOClogo3_c_small.jpg" alt="Library of Congress"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;True or false? The Library of Congress has a copy of every book published in the United States. <br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;False<br>
+
+<p>Contrary to popular belief, the <a href="http://www.loc.gov/">Library of Congress</a> (LOC) does not contain a copy of every book published in the United States. It does, however, house more than 155 million items on approximately 838 miles of bookshelves. The collections include more than 35 million books and other print materials, 3.4 million recordings, 13.6 million photographs, 5.4 million maps, 6.5 million pieces of sheet music and 68 million manuscripts. The misconception that the LOC "has every book published" may have started during the tenure (1864-1897) of Librarian of Congress Ainsworth Rand Spofford, the man who opened the LOC to the public and greatly expanded its collections. Spofford successfully advocated a change in the U.S. copyright law so that the LOC would receive two free copies of every book, map, chart, dramatic or musical composition, engraving, cut, print or photograph <em>submitted for copyright</em>. Copyrighted items, of course, do not include every book published, but isn't hard to see how the confusion might have arisen.</p>
+<p>For more information, go to: <br>
+  <a href="http://www.loc.gov/about/faqs.html#every_book">http://www.loc.gov/about/faqs.html#every_book</a><br>
+
+  <a href="http://www.loc.gov/about/librarianoffice/spofford.html">http://www.loc.gov/about/librarianoffice/spofford.html</a> </p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: August 22, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.nlm.nih.gov"><img src="AgencySeals/NLM_small.jpg" alt="National Library of Medicine"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;Which is older, the National Library of Medicine, or its parent federal agency, the National Institutes of Health? <br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;The National Library of Medicine is 51 years older than the National Institutes of Health<br>
+
+<p>Now the world's largest medical library, the <a href="http://www.nlm.nih.gov/">National Library of Medicine</a> (NLM) originated in 1836 as the Library of the Surgeon General of the Army. Congress would officially designate it as the National Library of Medicine in 1956 under Public Law 84-941. The predecessor of the <a href="http://www.nih.gov/">National Institutes of Health</a> (NIH), the Laboratory of Hygiene, was founded in 1887. The two would not become connected until NLM moved into its current facility on the NIH campus in Bethesda, Md., in 1962. Interestingly, the collections of NLM's History of Medicine Division had to be reunited with the rest of the library once the building was completed. The collections were transported from Cleveland under the watch of Pinkerton guards and with insurance coverage by Lloyd's of London.</p>
+<p>For more information, go to:  <a href="http://www.nlm.nih.gov/175">http://www.nlm.nih.gov/175</a></p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: August 20, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.nasa.gov"><img src="AgencySeals/NASA_small.jpg" alt="National Aeronautics and Space Administration"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;According to NASA, what is the largest living organism visible from Earth orbit? <br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;Australia's Great Barrier Reef<br>
+
+<p>The Great Barrier  Reef extends for 2,000 kilometers (1,240 miles) along the northeastern coast of  Australia. It is not a single reef, but a vast maze of reefs, passages and  coral cays (islands that are part of the reef). The white calcium carbonate  that coats the living coral reflects light, making the water above the reef  appear bright blue from space. This phenomenon allows the reef to be the  largest living organism visible in <a href="http://www.nasa.gov">National  Aeronautics and Space Administration</a> (NASA) satellite photos and videos. Imagery from NASA satellites is being used to  track the extent of coral bleaching in the Great Barrier Reef. Coral bleaching is the whitening of living coral  due to a disruption of the symbiosis (two organisms whose living together  benefits both) with its zooxanthellae, tiny photosynthesizing algae.</p>
+<p>For more information, go to: <br>
+<a href="http://www.jpl.nasa.gov/spaceimages/details.php?id=PIA03401">http://www.jpl.nasa.gov/spaceimages/details.php?id=PIA03401</a> <br>
+<a href="http://www.greatbarrierreef.org/">http://www.greatbarrierreef.org/</a></p></td>
+</tr></table>
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: August 15, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.archives.gov"><img src="AgencySeals/NARA_small.jpg" alt="National Archives and Records Administration"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;Who held the patent, viewable on the National Archives and Records Administration website, for "anti-gravity illusion" shoes? <br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;Michael Jackson<br>
+
+<p>U.S. Patent  5,255,452&#8212;viewable on the <a href="http://www.archives.gov/">National Archives and Records  Administration</a> (NARA)  website&#8212;was issued on Oct. 26, 1993, to the "King of Pop," singer <a href="http://www.michaeljackson.com/us/home">Michael  Jackson</a>, for a "method  and means for creating anti-gravity illusion." The application abstract  describes the patent as<em>: "A system for allowing the shoe wearer to lean  forwardly beyond his center of gravity by virtue of wearing a specially  designed pair of shoes which will engage with a hitch member movably  projectable through a stage surface. The shoes have a specially designed heel  slot which can be detachably engaged with the hitch member by simply sliding  the shoe wearer's foot forward, thereby engaging with the hitch member."</em> The shoes enabled Jackson to lean forward to an exaggerated angle while dancing  backward on stage, a move that became known as the "moonwalk." The patent for  Jackson's invention expired on Oct. 26, 2005.</p>
+<p>For more information, go to: <a href="http://research.archives.gov/description/5742940"><br>
+  http://research.archives.gov/description/5742940</a> <br>
+  <a href="http://blogs.archives.gov/aotus/?p=2574">http://blogs.archives.gov/aotus/?p=2574</a></p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: August 13, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.nsf.gov"><img src="AgencySeals/NSF_small.jpg" alt="National Science Foundation"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;What Web technology used by millions today&#8212;and funded in its early development stages by the National Science Foundation&#8212;was called BackRub in the 1990s?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;Google<br>
+
+<p>In  1994, the <a href="http://www.nsf.gov">National Science Foundation</a> (NSF) made its first  six awards under the multi-agency Digital Library Initiative (DLI). One of  those awards supported a <a href="http://www.stanford.edu">Stanford University</a> project, which in  turn, funded the development of a novel Web search engine by graduate students  Larry Page and Sergey Brin (Brin was supported by an <a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201">NSF Graduate Research  Fellowship</a>).  While search engines at the time ranked results by counting how many times the  search terms appeared on the page, the two theorized about a better system that  analyzed the relationships between websites. Their prototype search engine used  well-established technology to crawl from page to page by following links.  However, in addition to compiling a standard text index, the prototype also  mapped out a vast family tree that reflected the Web links among pages. Page  and Brin originally nicknamed their new system "BackRub," because it  checked backlinks to estimate the importance of a site. Eventually, they  changed the name to <a href="http://www.google.com">Google</a>, originating from a  misspelling of the word "googol," the number one followed by one  hundred zeros, which was picked to signify that the search engine was intended  to provide large quantities of information. </p>
+<p>For more information, go to: <a href="http://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=100660">http://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=100660</a></p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: August 8, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.ntis.gov"><img src="AgencySeals/NTIS_small.jpg" alt="National Technical Information Service (NTIS)"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;The National Oceanic and Atmospheric Administration diving manual, available through the National Technical Information Service, says what type of chamber is used to treat injured divers: decompression or recompression?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;A recompression chamber<br>
+
+<p>According to the <a href="http://www.noaa.gov"><em>National  Oceanic and Atmospheric Administration</em></a><em> (NOAA) Diving Manual 4th Edition</em>&#8211;available in print or CD-ROM from the <a href="http://www.ntis.gov">National  Technical Information Service</a> (NTIS)&#8211;"recompression chamber is the term used to denote a chamber that  is used to treat injured divers." On the other hand, the manual states that a  "decompression chamber generally denotes a chamber that is deployed for the  primary purpose of conducting surface decompression." In other words, a  decompression chamber <em>prevents</em> diving-related maladies such as  decompression sickness (also known as "the bends") and carbon monoxide  poisoning, and a recompression chamber is used to take care of divers <em>already  suffering from</em> <em>these problems</em>.</p>
+<p>For more information, go to: <a href="https://www.ntis.gov/products/noaadive.aspx">https://www.ntis.gov/products/noaadive.aspx</a></p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: August 6, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.dot.gov"><img src="AgencySeals/DOT_small.jpg" alt="U.S. Department of Transportation"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;The U.S. Department of Transportation's National Highway Transportation Safety Administration says what type of vehicle can have two or three wheels?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;A motorcycle<br>
+
+<p>The <a href="http://www.nhtsa.gov/FARS">Fatality Analysis Reporting System</a> (FARS), a nationwide  census providing annual data regarding fatal injuries suffered in motor vehicle  traffic crashes, defines a motorcycle as "A two- or three-wheeled motor vehicle  designed to transport one or two people, including motorscooters, minibikes and  mopeds." FARS, operated by the <a href="http://www.dot.gov/">U.S. Department of  Transportation</a> (DOT)'s <a href="http://www.nhtsa.gov/">National Highway Transportation Safety  Administration</a> (NHTSA) since 1975, contains data on a census of fatal traffic crashes within  the 50 states, the District of Columbia and Puerto Rico. To be included in  FARS, a crash "must involve a motor vehicle traveling on a trafficway  customarily open to the public and result in the death of a person (occupant of  a vehicle or a non-occupant) within 30 days of the crash."</p>
+<p>For more information, go to: <a href="http://www-fars.nhtsa.dot.gov/Help/Terms.aspx">http://www-fars.nhtsa.dot.gov/Help/Terms.aspx</a></p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: August 1, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.dhs.gov"><img src="AgencySeals/DHS_small.jpg" alt="U.S. Department of Homeland Security"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;DHS S&amp;T researchers worked with private and public experts on dams to develop a software tool that can simulate what type of disaster?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;Flooding<br>
+
+<p>A software tool that  can virtually simulate catastrophic flooding&#8212;whether from a breached levee,  failed dam, surging tide, landslide or tsunami&#8212;was recently developed through a  collaborative effort between researchers at the <a href="http://www.dhs.gov/st-directorate">Department of Homeland Security&rsquo;s Science and  Technology Directorate</a> (DHS S&amp;T) and dam experts at DHS's <a href="http://www.dhs.gov/office-infrastructure-protection">Office of  Infrastructure Protection</a> (within the <a href="http://www.dhs.gov/about-national-protection-and-programs-directorate">National Protection  and Programs Directorate</a>) and the <a href="http://www.olemiss.edu/">University of  Mississippi's</a> <a href="http://www.ncche.olemiss.edu/">National Center for Computational Hydroscience and  Engineering</a> (UM-NCCHE). The  flood simulation tool allows users to forecast consequences, develop counter  measures and even train emergency responders. It's so fast that a flood taking  24 hours to inundate downstream areas can be modeled in less than 24 minutes.</p>
+<p>For more information, go to: <a href="http://www.dhs.gov/katrina-changed-everything-new-software-flooding-protection">http://www.dhs.gov/katrina-changed-everything-new-software-flooding-protection</a></p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: July 30, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.energy.gov"><img src="AgencySeals/DOE_small.jpg" alt="U.S. Department of Energy"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;Which radioactive element, discovered in 1944 at what is now a Department of Energy laboratory, makes it possible for ionization smoke detectors to work?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;Americium, Element 95 on the periodic table<br>
+
+<p><a href="http://www.scs.illinois.edu/~mainzv/HIST/bulletin_open_access/v33-2/v33-2%20p89-93.pdf">Americium</a> was discovered in  1944 by a research team led by <a href="https://isswprod.lbl.gov/Seaborg/bio.htm">Glenn T. Seaborg</a>. The scientists  bombarded plutonium-239, an isotope of plutonium, with high-energy neutrons.  This formed plutonium-240, which they also bombarded with neutrons. The  plutonium-240 changed into plutonium-241, which then decayed into  americium-241. This work was carried out at the <a href="http://www.uchicago.edu">University  of Chicago's</a>  Metallurgical Laboratory, now known as the <a href="http://www.energy.gov">Department  of Energy</a> (DOE)'s <a href="http://www.anl.gov">Argonne National Laboratory</a>.</p>
+<p>The  most common use of americium is in ionization smoke detectors. When  americium-241 decays, it gives off alpha particles that ionize the air between  two electrodes. This generates a very small electric current flow across the  gap. When smoke enters, the alpha radiation is absorbed by the soot particles  and the current is interrupted, sounding the alarm.</p>
+<p>For more information on Americium see DOE Jefferson  Laboratory's science education site "<a href="http://education.jlab.org/itselemental/ele095.html">It's Elemental: The  Element Americium</a>."</p></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: July 25, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.nist.gov"><img src="AgencySeals/NIST_black_small.jpg" alt="National Institute of Standards and Technology (NIST)"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp;In 2007, the National  Institute of Standards and Technology celebrated the 50<sup>th</sup> anniversary of  what computing achievement involving a baby?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;A photo that was the world's first digitally scanned image<br>
+
+<p>In  1957, computer pioneer <a href="http://museum.nist.gov/panels/seac/KIRSCH.HTM">Russell Kirsch</a> and his colleagues  at the National Bureau of Standards (NBS) now known as the <a href="http://www.nist.gov">National  Institute of Standards and Technology</a> or NIST, created a <a href="http://patapsco.nist.gov/ImageGallery/retrieve.cfm?imageid=341&dpi=300&fileformat=jpg">rotating drum scanner</a> and programming that  allowed images to be fed into the nation's first programmable computer, the <a href="http://museum.nist.gov/panels/seac/seacover.htm">Standards Eastern Automatic Computer  (SEAC)</a>&#8212;also  developed at NBS. The <a href="http://patapsco.nist.gov/ImageGallery/retrieve.cfm?imageid=342&dpi=300&fileformat=jpg">first image scanned</a> was a  head-and-shoulders shot of Kirsch's 3-month-old son Walden. The ghostlike  black-and-white photo only measured 176 pixels on a side&#8212;a far cry from today's  megapixel digital snapshots&#8212;but it would become the Adam and Eve for all  computer imaging to follow. In 2003, the editors of <a href="http://en.wikipedia.org/wiki/Life_%28magazine%29"><em>Life</em></a> magazine honored  Kirsch's image by naming it one of "the 100 photographs that changed the  world."</p> 
+For more information, go to:<a href="http://www.nist.gov/public_affairs/releases/image_052407.cfm"> http://www.nist.gov/public_affairs/releases/image_052407.cfm</a></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: July 23, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.usgs.gov"><img src="AgencySeals/USGS_small.jpg" alt="United States Geological Survey (USGS)"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp; What is the largest volcano on Earth?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;Mauna Loa in Hawaii<br>
+
+<p>According to the <a href="http://www.usgs.gov">United  States Geological Survey</a> (USGS), the <a href="http://hvo.wr.usgs.gov/maunaloa/">Mauna Loa volcano</a> in Hawaii has the largest volume of any volcano  on Earth. Mauna Loa consists of about 80,000 cubic kilometers (19,000 cubic  miles) of lava and rises more than 17,000 meters (56,000 feet) above its base  on the Pacific Ocean floor. Because of its massive size, the volcano has  depressed the Pacific tectonic plate upon which it sits by about 8 kilometers  (5 miles). More than half of the area of the island of Hawaii, some 5,000  square kilometers (2,000 square miles) is attributed to Mauna Loa.</p> 
+For more information, go to: <a href="http://volcanoes.usgs.gov/">http://volcanoes.usgs.gov/</a></td>
+</tr></table>
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: July 18, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.loc.gov"><img src="AgencySeals/LOClogo3_c_small.jpg" alt="Library of Congress"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp; What is the age of the oldest written material held by the Library of Congress: 250 years old, 900 years old or 4,000 years old?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;4,000 years old<br>
+
+<p>The  oldest written material in the <a href="http://www.loc.gov">Library of Congress</a> (LOC) is about 4,000  years old, a cuneiform tablet from the reign of the Sumerian king Gudea of  Lagash (2144-2124 B.C.E.). Cuneiform was developed by the Sumerians, who  influenced culture and development beyond their original borders in Mesopotamia  (present-day southern Iraq), site of the world's earliest civilization.  Originally, cuneiform signs were pictograms, later, it also became syllabic.  Reeds were used as writing implements. The tip of a reed stylus was impressed  into a wet clay surface to draw the strokes of the sign&#8212;thus acquiring a  "wedge-shaped" appearance. The clay was then either baked in a kiln or dried by  the sun. The word cuneiform is derived from Latin&#8212;<em>cuneus</em> for wedge and <em>forma</em>,  meaning shape. The LOC acquired its collection of cuneiform materials in 1929  from Kirkor Minassian, an art dealer.</p> 
+For more information, go to: 
+<a href="http://memory.loc.gov/intldl/cuneihtml/cuneihome.html">http://memory.loc.gov/intldl/cuneihtml/cuneihome.html</a></td>
+</tr></table>
+
+
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: July 16, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.nlm.nih.gov"><img src="AgencySeals/NLM_small.jpg" alt="National Library of Medicine"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp; What's the subject of the oldest book in the National Library of Medicine's &quot;Turning the Pages&quot; online collection of digitized rare and historic manuscripts?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;Surgery<br>
+
+<p>The <a href="http://archive.nlm.nih.gov/proj/ttp/flash/smith/smith.html">Edwin Smith Papyrus</a>, the  world's oldest surviving surgical text, was written in Egyptian hieratic script  around the 17th century BCE, but probably based on material from a thousand  years earlier. The papyrus is a textbook on trauma surgery, and describes  anatomical observations and the examination, diagnosis, treatment and prognosis  of numerous injuries in exquisite detail. American archaeologist Edwin Smith  discovered the papyrus in Egypt in the 1860s, and his daughter donated the  papyrus to the New York Historical Society after his death. The papyrus is one  of 11 rare and historic manuscripts available online and via an Apple iPad app  on the <a href="http://www.nlm.nih.gov/">National Library of Medicine</a> (NLM)'s popular <a href="http://archive.nlm.nih.gov/proj/ttp/">"Turning the Pages"</a> website. Among the  other virtual volumes offered are: Elizabeth Blackwell's tome on medicinal  plants, <a href="http://archive.nlm.nih.gov/proj/ttp/flash/blackwell/blackwell.html"><em>A Curious Herbal</em></a> (1737); Robert Hooke's  observations of the microbial world, <a href="http://archive.nlm.nih.gov/proj/ttp/flash/hooke/hooke.html"><em>Micrographia</em></a> (1665); and the book  considered the world's first modern zoological treatise, <a href="http://archive.nlm.nih.gov/proj/ttp/flash/gesner/gesner.html"><em>Historia Animalium</em></a> (Latin for "Studies  on Animals" and published in 1551) by Conrad Gessner.</p> 
+For more information, go to: <a href="http://archive.nlm.nih.gov/proj/ttp/intro.htm">http://archive.nlm.nih.gov/proj/ttp/intro.htm</a></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: July 11, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.nasa.gov"><img src="AgencySeals/NASA_small.jpg" alt="National Aeronautics and Space Administration"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp; Which of NASA's Mercury 7 astronauts later became an aquanaut who explored the ocean floor: Scott Carpenter, Gordon Cooper or John Glenn?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp;Scott Carpenter<br>
+
+<p>One of the <a href="http://www.nasa.gov">National  Aeronautics and Space Administration</a> (NASA) original <a href="http://www.nasa.gov/centers/kennedy/about/history/mercury7.html">Mercury 7 astronauts</a>, Scott Carpenter, also lived and worked on the  ocean floor as an aquanaut on board the U.S. Navy's SEALAB-II in the summer of  1965. Carpenter spent 30 days in the underwater habitat stationed at a depth of  62 meters (205 feet) off the coast of La Jolla, Calif. He commanded two of the  three teams that conducted deep-sea diving activities on what became known as  the "Tilton Hilton" because of the tilted angle at which the SEALAB module  rested. Along with testing the psychological rigors of living beneath the  waves, the SEALAB teams tried out new tools, experimented with novel salvage  methods and evaluated an electronically heated diving suit. A bottlenose dolphin  named Tuffy from the <a href="http://www.public.navy.mil/spawar/Pacific/71500/Pages/default.aspx">U.S. Navy Marine  Mammal Program</a> ferried supplies to  the lab from the surface. Carpenter's only trip into space was a three-orbit  journey on May 24, 1962, aboard the <a href="http://www-pao.ksc.nasa.gov/history/mercury/ma-7/ma-7.htm"><em>Aurora 7</em></a> Mercury spacecraft.</p> 
+For more information, go to: 
+<a href="http://www.jsc.nasa.gov/Bios/htmlbios/carpenter-ms.html"><br>
+http://www.jsc.nasa.gov/Bios/htmlbios/carpenter-ms.html</a> <br>
+  <a href="http://www.scottcarpenter.com/sealab.htm">http://www.scottcarpenter.com/sealab.htm</a></td>
+</tr></table>
+
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: July 9, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.archives.gov"><img src="AgencySeals/NARA_small.jpg" alt="National Archives and Records Administration"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp; In the film "National Treasure," the heroes uncover invisible clues to a treasure, including a cipher, on the back of the Declaration of Independence. What's actually on the back of the real document housed at the National Archives and Records Administration?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp; The words "Original Declaration of Independence dated 4th July 1776"<br>
+
+<p>There is  writing on the back of the original signed <a href="http://www.archives.gov/exhibits/charters/declaration.html">Declaration of Independence</a> housed at the <a href="http://www.archives.gov/">National  Archives and Records Administration</a> in Washington, D.C. However, it is not invisible, it does not provide clues to  a treasure, and it does not include an Ottendorf cipher (which is used to  decode a message hidden in another document) as the feature film, &quot;<a href="http://www.imdb.com/title/tt0368891/?ref_=ttgf_gf_tt">National Treasure</a>," suggests. The writing on the back  simply reads "Original Declaration of Independence dated 4th July  1776." It appears upside down on the bottom of the page. In its early  life, the large parchment&#8212;75.57 centimeters (29.75 inches) by 62.23 centimeters  (24.50 inches)&#8212;was rolled up for storage, so it's likely that the notation was  added simply as a label. The identity of the inscriber is unknown.</p> For more information, go to:<br><a href="http://www.archives.gov/exhibits/charters/treasure/back_of_declaration.html">http://www.archives.gov/exhibits/charters/treasure/back_of_declaration.html</a> <br>
+  <a href="http://www.archives.gov/exhibits/charters/treasure/flip_side_of_history.html">http://www.archives.gov/exhibits/charters/treasure/flip_side_of_history.html</a></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: July 2, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.nsf.gov"><img src="AgencySeals/NSF_small.jpg" alt="National Science Foundation"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp; Researchers funded by the National Science Foundation blindfold snakes to study what ability?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp; Thermal imaging, also known as "seeing heat"<br>
+
+<p>With  funding from the <a href="http://www.nsf.gov">National Science Foundation</a> (NSF)'s <a href="http://www.nsf.gov/dir/index.jsp?org=BIO">Directorate for Biological Sciences</a>, <a href="http://www.fit.edu/faculty/profiles/profile.php?value=156">biologist Michael  Grace</a> and his team at the <a href="http://www.fit.edu">Florida Institute of Technology (FIT)</a> study infrared  (thermal) sensors in snakes. Pit vipers, pythons and boas possess special  organs that form images in the brain of the thermal environment, much like  vision occurs in the human brain. Thus, these snakes "see" heat, and  this amazing system is the most sensitive infrared detector on Earth, natural  or artificial. Research  in this area will advance the development of artificial sensor technologies for  industrial, defense and biomedical applications. </p> 
+For more information, go to:<a href="http://www.nsf.gov/news/special_reports/science_nation/infraredsnakes.jsp"> http://www.nsf.gov/news/special_reports/science_nation/infraredsnakes.jsp</a></td>
+</tr></table>
+
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: June 27, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.ntis.gov"><img src="AgencySeals/NTIS_small.jpg" alt="National Technical Information Service"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp; The National Technical Information Service was created as a result of which war: World War II, the Korean War or the Vietnam War?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp; World War II<br>
+
+<p>In late 1945, President Harry Truman set up a program to distribute the results of government and government supported-research which had been kept secret during World War II. Early in the following year, the Office of the Publication Board (OPB) was organized to distribute reports and The Bibliography of Scientific and Industrial Reports (BSIR) was issued to announce the materials available. Among the earliest items included in the OPB collection were captured German and Japanese industrial and military technology secrets. They were microfilmed and sold at the cost of reproduction to American entrepreneurs hoping to capitalize on advanced production methods for medicines, chemicals, textiles, etc. The current federal technical reports system and the <a href="http://www.ntis.gov">National Technical Information Service</a> (NTIS) arose from the OPB effort. In 1950, the OPB became the <a href="http://www.commerce.gov/">Commerce Department's</a> Office of Technical Services (OTS). The agency was charged with making "the results of technological research and development readily available to industry and business, and to the general public." In 1965, OTS became the Clearinghouse for Federal Scientific and Technical Information (CFSTI) and then, in 1970, was renamed NTIS.</p> 
+For more information, go to:
+<a href="http://unllib.unl.edu/Bolin_resources/bsir-xml/What_is_BSIR.html">http://unllib.unl.edu/Bolin_resources/bsir-xml/What_is_BSIR.html</a>
+</td>
+</tr></table>
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: June 25, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.dot.gov/"><img src="AgencySeals/DOT_small.jpg" alt="Department of Transportation"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp; According to the U.S. Department of Transportation, the longest road in the United States stretches between which two states?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp; Massachusetts and Oregon<br>
+
+<p>According  to the <a href="http://www.dot.gov/">U.S. Department of Transportation</a> (DOT), the longest  road in the United States is US 20 which stretches 5.415 kilometers (3,365  miles) from Boston, Mass., to Newport, Ore. US 20 passes through the following  states: Massachusetts, New York, Pennsylvania, Ohio, Indiana, Illinois, Iowa,  Nebraska, Wyoming, Idaho and Oregon. From 1937 until 1963, US 20 was actually  the second longest road behind U.S. 6, which began in Provincetown, Mass and  ended in Long Beach, Calif., 5,877 kilometers (3,652 miles) away. However, in  1963, California requested that U.S. 6 be terminated at Bishop, Calif.,  shortening the route to 5,193 kilometers (3,227 miles) and making U.S. 20 the  longest road in the country.</p> For more information, go to:
+<a href="http://www.fhwa.dot.gov/infrastructure/longest.cfm">http://www.fhwa.dot.gov/infrastructure/longest.cfm</a></td>
+</tr></table>
+
+
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: June 20, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.dhs.gov/"><img src="AgencySeals/DHS_small.jpg" alt="Department of Homeland Security"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp; In which city's subway system did DHS S&amp;T test biological agent detection sensors in 2012?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp; Boston, Mass.<br>
+
+<p>The <a href="http://www.dhs.gov/st-directorate">Department of Homeland Security's Science and  Technology Directorate</a> (DHS S&amp;T) conducted a series of tests in the Boston  subways in August 2012 to measure the real-world performance of new sensors  developed to detect biological agents. The tests,&nbsp; part of DHS S&amp;T's  "Detect-to-Protect" (D2P) Bio Detection project, involved releasing small  amounts of a harmless, food-grade bacteria, <em>Bacillus subtilis</em>, into the  air after the subway stations had closed. Then, sensors from different  manufacturers were evaluated on their respective abilities to identify and  confirm the presence of the released bacteria within minutes.</p> For more information, go to:
+<a href="http://www.dhs.gov/st-snapshot-detect-protect">http://www.dhs.gov/st-snapshot-detect-protect</a></td>
+</tr></table>
+
+
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: June 18, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="119" valign="top"><a href="http://www.energy.gov/"><img src="AgencySeals/DOE_small.jpg" alt="Department of Energy"   class="leftimage" border="none"></a></td>
+  
+  <td width="811"><strong><em>Question</em></strong><em>:</em>&nbsp; What was discovered in 1998 by Department of Energy and NASA scientists that completely changed how we view the universe?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp; Dark energy<br>
+
+<p><a href="http://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy/">Dark energy</a> was discovered in  1998 by scientists funded by the <a href="http://www.energy.gov">Department of Energy</a> (DOE) and <a href="http://www.nasa.gov">NASA</a> who worked at DOE&rsquo;s <a href="http://www.lbl.gov">Lawrence  Berkeley National Laboratory</a> (LBNL) and other institutions. Dark energy  is the name given to the cause of the accelerating expansion of our universe  and comprises more than 70 percent of its total mass and energy. It was named  by <a href="http://www.sciencemag.org"><em>Science</em></a> magazine as the scientific  breakthrough of the year because it was previously believed that the expansion  of the universe was slowing, not accelerating. <a href="http://www.energy.gov/articles/national-lab-scientists-win-nobel-recognition">LBNL physicist Saul  Perlmutter</a> shared the <a href="http://www.nobelprize.org/nobel_prizes/physics/laureates/2011">2011 Nobel Physics  Prize</a> for the finding. DOE and NASA are now developing the <a href="http://jdem.lbl.gov/">Joint Dark Energy  Mission</a> to explore the properties of dark energy and measure how cosmic expansion has  changed over time using a <a href="http://wfirst.gsfc.nasa.gov">large-aperture  optical/near-infrared wide-field telescope</a> operating in space. LBNL has lead  responsibility for the DOE work. The mission, scheduled to begin in 2016, will  be managed by NASA's <a href="http://www.nasa.gov/centers/goddard/home/index.html">Goddard Space Flight  Center</a>.</p>
+ For more information, go to:<a href="http://jdem.lbl.gov">http://jdem.lbl.gov</a></td>
+</tr></table>
+
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: June 13, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td valign="top"><a href="http://www.nist.gov/"><img src="AgencySeals/NIST_black_small.jpg" alt="National Institute of Standards and Technology"   class="leftimage" border="none"></a></td>
+  
+  <td><strong><em>Question</em></strong><em>:</em>&nbsp; In the 2002 Winter Olympics held in Salt Lake City, Utah, the National Institute of Standards and Technology calibrated the timers for what competition?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp; Bobsledding<br>
+<br>
+Racers in the  bobsled, luge and skeleton events reach some of the highest speeds of any  Olympic Winter Games competitors&#8212;up to 130-145 kilometers per hour (80-90 miles  per hour). Since winners are often decided by mere milliseconds, the timing  system for these events must be highly accurate and consistent. That wasn&rsquo;t a  problem at the <a href="http://www.olympic.org/salt-lake-city-2002-winter-olympics">2002 Olympic Winter  Games</a> in Salt Lake City,  Utah, thanks to experts from <a href="http://www.nist.gov">National  Institute of Standards and Technology</a> (NIST). The timing system for the runs at Utah  Olympic Park was calibrated against the national time standard provided by the <a href="http://www.nist.gov/pml/div688/grp50/primary-frequency-standards.cfm">NIST-F1 atomic clock</a> in Boulder, Colo.<br>
+<br>
+For more information, go to: <a href="http://www.nist.gov/public_affairs/techbeat/tb2002_0102.htm">http://www.nist.gov/public_affairs/techbeat/tb2002_0102.htm</a></td>
+</tr></table>
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: June 11, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="120" valign="top"><a href="http://www.loc.gov/"><img src="AgencySeals/LOClogo3_c_small.jpg" alt="Library of Congress"   class="leftimage" border="none"></a></td>
+  
+  <td width="810"><strong><em>Question</em></strong><em>:</em>&nbsp; How much did the U.S. Congress pay for Thomas Jefferson's personal library to restock the Library of Congress collection destroyed in 1814:&nbsp;&nbsp; $5,998; $23,950; or $75,236?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp; $23,950<br>
+<br>
+On April 24, 1800, President John Adams approved legislation that appropriated $5,000 to purchase "such books as may be necessary for the use of Congress." The first books, ordered from London, arrived in 1801 and were stored in the U.S. Capitol, the <a href="http://www.loc.gov/">Library of Congress</a> (LOC)'s first home. The collection consisted of 740 volumes and three maps. In 1814, the British army invaded the city of Washington, D.,C., and burned the Capitol, including the now 3,000-volume LOC. Former U.S. president Thomas Jefferson, in retirement at his Virginia mansion, Monticello, offered to sell his personal library to Congress to "recommence" the library. The purchase of Jefferson's 6,487 volumes for $23,950 was approved in 1815. Not only was the collection more than twice the number of volumes that had been lost, it also expanded the scope of the LOC far beyond the bounds of a legislative library.<br>
+<br>
+For more information, go to: <a href="http://www.loc.gov/loc/legacy/loc.html">http://www.loc.gov/loc/legacy/loc.html</a>
+</td>
+</tr></table>
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: June 6, 2013</em></h2></td>
+      </tr>
+    <tr>
+  <td width="120" valign="top"><a href="http://www.usgs.gov"><img src="AgencySeals/USGS_small.jpg" alt="United States Geological Survey"   class="leftimage" border="none"></a></td>
+  
+  <td width="810"><strong><em>Question</em></strong><em>:</em>&nbsp; Where and when did the deadliest recorded earthquake occur?<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp; China, 1556<br>
+<br>
+The <a href="http://en.wikipedia.org/wiki/1556_Shaanxi_earthquake">world's deadliest recorded earthquake</a> occurred in 1556 in the <a href="http://en.wikipedia.org/wiki/Shaanxi">Shaanxi Province</a>, central China. It struck a region where most people lived in caves carved from soft rock. These dwellings collapsed during the earthquake, killing an estimated 830,000 people. In 1976, another deadly earthquake struck in <a href="http://en.wikipedia.org/wiki/1976_Tangshan_earthquake">Tangshan, China</a>, where more than 250,000 people were killed. Worldwide earthquake activity is monitored by the <a href="http://www.usgs.gov/">United States Geological Survey</a> (USGS).<br>
+<br>
+For more information, go to: <a href="http://earthquake.usgs.gov/">http://earthquake.usgs.gov/</a>
+</td>
+</tr></table>
+<table class="trivia">
+  <tr>
+      <td colspan="2" valign="top"><h2><em>Science.gov Trivia Question of the Day: June 4, 2013</em></h2></td>
+      </tr>  
+ <tr><td width="121" valign="top">
+
+  <a href="http://www.nlm.nih.gov/"><img src="AgencySeals/NLM_small.jpg" alt="National Library of Medicine" width="80" height="82"  class="leftimage" border="none"></a></td>
+<td width="809">
+    
+<strong><em>Question</em></strong><em>:</em>&nbsp; The National Library of Medicine main building was designed and constructed in the late 1950s to protect its collection from what type of disaster?
+<br>
+<br>
+<strong><em>Answer</em></strong><em>:</em>&nbsp; A nuclear attack
+<br>
+<br>
+The <a href="http://www.nlm.nih.gov/">National Library of Medicine</a> (NLM), on the campus of the <a href="http://www.nih.gov/">National Institutes of Health</a> (NIH) in Bethesda, Md., is the world's largest biomedical library housing more than 19 million books, journals, artworks, manuscripts, audiovisual productions and other materials. Because the NLM main library facility was built in the late 1950s during the height of the Cold War between the United States and the USSR, the building incorporated many design characteristics that, at the time, were considered state-of-the-art means for protecting the collection from a nearby (but not direct) nuclear strike. These included a collapsible roof, floors and walls that would equalize the pressure of an explosion, and over 50 miles of bookshelves stored on three football field-sized underground levels. <br>
+<br>
+For more information, go to <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC200608/pdf/mlab00197-0165.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC200608/pdf/mlab00197-0165.pdf</a></p>
+</td></tr></table>  <p><strong>&nbsp;</strong><br>
+    <br>
+    <br>
+  </p>
+  <!--<h2><em>Science.gov Trivia Question of the Day: February 12, 2013</em></h2>
+  <a href="http://www.usgs.gov/"><img src="AgencySeals/USGS_small.jpg" alt="United States Geological Survey" width="100" height="96" class="leftimage" border="none"></a>
+  <p><strong><em>Question</em></strong>:&nbsp; Where and when did the deadliest  recorded earthquake occur?</p>
+  <p><strong><em>Answer:</em></strong>&nbsp; The <a href="http://en.wikipedia.org/wiki/1556_Shaanxi_earthquake">world's deadliest  recorded earthquake</a> occurred in 1556 in the <a href="http://en.wikipedia.org/wiki/Shaanxi">Shaanxi Province</a>, central  China. It struck a region where most people lived in caves carved from soft  rock. These dwellings collapsed during the earthquake, killing an estimated  830,000 people. In 1976 another deadly earthquake struck in <a href="http://en.wikipedia.org/wiki/1976_Tangshan_earthquake">Tangshan, China</a>,  where more than 250,000 people were killed. Worldwide earthquake activity is  monitored by the United States Geological Survey (<a href="http://www.usgs.gov/">USGS</a>).
+    <br>
+    <br>
+    For more information on earthquakes, go to: <a href="http://earthquake.usgs.gov/">http://earthquake.usgs.gov/</a></p>
+
+-->
+</div>
+
+
+
+    <!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat">
+  
+<div id="push"></div> 
+<div id="footer">
+<table width="83%" border="0" align="center" >
+  <tr>
+    <td width="230">&nbsp;</td>
+    <td width="453"><div align="center">
+  Search capabilities provided by<a href="http://www.osti.gov"> DOE/OSTI</a><br />
+Websites by Topic maintained by <a href="http://www.cendi.gov/">CENDI</a><br />
+<span style="font-size:9px; color:#333; line-height:14px">Some links on this page may take you to non-federal websites. <br>
+Their policies may differ from this site.</span><br />
+
+<a href="/disclaimer.html">Privacy &amp; Security</a><br />
+    <table width="178" height="14" align="center" cellpadding="2" cellspacing="0">
+      <tr>
+        <td width="124"><a href="http://www.usa.gov"><img src="/includes/images/USAgov.jpg" alt="USA.gov" width="42" height="14" border="0" /></a></td>
+
+        <td width="129"><a href="http://worldwidescience.org"><img src="/includes/images/wws.jpg" alt="WorldWideScience.org" width="108" height="14" border="0" /></a></td>
+      </tr>
+    </table>
+   <a href="http://www.usajobs.gov/">USAJOBS</a> :: <a href="http://www.grants.gov/">Grants</a> :: <a href="http://www.regulations.gov/search/Regs/home.html#home">Regulations.gov</a><br />
+      
+  </div></td>
+    <td width="215"><div align="right"><img src="/includes/images/SciGov_10th_logo.png" width="180" height="65" alt="Science.gov 10th Anniversary" /></div></td>
+  </tr>
+</table>
+</div><!-- end #footer --><br />
+
+
+
+<center><script type="text/javascript">
+
+<!-- hide
+
+document.write('<font size=-2 face=Arial>Last update: ' + document.lastModified + ' </font><p>');
+
+// -->
+
+</script></center><br>
+  <!-- end #mainContent --></div>
+
+<!-- end #container -->
+</body>
+</html>

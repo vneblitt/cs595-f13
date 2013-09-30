@@ -1,0 +1,1503 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="http://www.consumer.ftc.gov/features/feature-0022-financial-educators" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="en" http-equiv="Content-Language" />
+<meta content="Financial Educators" about="http://www.consumer.ftc.gov/features/feature-0022-financial-educators" property="dc:title" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.consumer.ftc.gov/features/feature-0022-financial-educators" />
+<link rel="shortlink" href="http://www.consumer.ftc.gov/node/1710" />
+  <title>Financial Educators | Consumer Information</title>
+  <link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_gArAUcbPOGS20Rj3CC1Ph_2J692LtLqNviaNUAmk_Wg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_59EhNmfA4Sf8xeXHFzbePA_vuHtELoPynOAa6nvPgoA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_1otP6__I-MvxKywLnrvhM1XKDj81enq0GcEun6UsiUI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_9hvQ4uwLBFYBgnc5c9u9QryUS4ukOQvUNC2V7EFD948.css" media="print" />
+  <script type="text/javascript" src="http://www.consumer.ftc.gov/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/drupal.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/sites/all/libraries/chosen/chosen/chosen.jquery.min.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/chosen/chosen.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/consumer_node_edit/consumer_taxonomy_hierarchy.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/consumer_node_edit/consumer_parent_menu_item.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/ftc_exit_script/js/exit_script.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/panels/js/panels.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.ftc.gov/foresee/foresee-trigger.js"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/form.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/field_group/field_group.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/collapse.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/swfobject.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.qtip-1.0.0-rc3.min.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/fancybox/jquery.fancybox-1.3.4.pack.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.corner.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.cycle.all.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/global.js?mtsrpk"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"consumer_platform","theme_token":"3G5fwvQqq47sD0brY_4K6YGTm4Dmx6vxUMLPgenVjwU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.jquery.min.js":1,"profiles\/consumer\/modules\/contrib\/chosen\/chosen.js":1,"profiles\/consumer\/modules\/custom\/consumer_node_edit\/consumer_taxonomy_hierarchy.js":1,"profiles\/consumer\/modules\/custom\/consumer_node_edit\/consumer_parent_menu_item.js":1,"profiles\/consumer\/modules\/custom\/ftc_exit_script\/js\/exit_script.js":1,"profiles\/consumer\/modules\/contrib\/panels\/js\/panels.js":1,"http:\/\/www.ftc.gov\/foresee\/foresee-trigger.js":1,"misc\/form.js":1,"profiles\/consumer\/modules\/contrib\/field_group\/field_group.js":1,"misc\/collapse.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/swfobject.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.corner.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.cycle.all.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/global.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/consumer\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.css":1,"profiles\/consumer\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/consumer\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/consumer\/modules\/contrib\/tagclouds\/tagclouds.css":1,"modules\/locale\/locale.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/hp-footer\/hp-footer.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/onecol\/onecol.css":1,"profiles\/consumer\/modules\/contrib\/field_group\/field_group.css":1,"profiles\/consumer\/themes\/consumer_platform\/PlutoSansWebFonts.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/default.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/layout.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/style.css":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/responsive.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/print.css":1}},"chosen":{"selector":".field-type-taxonomy-term-reference select:visible, .field-name-field-crc-ed-code select:visible","minimum":"15"},"ftc_exit_script":{"timeout":"6000","token_replace":1,"internalURLs":["^http\\:\\\/\\\/.*\\.gov.*$","^https\\:\\\/\\\/.*\\.gov.*$"],"external_class":"external_link"},"field_group":{"div":"full"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-1710 node-type-one-stop i18n-en" >
+  <div id="skip">
+    <a href="#main-menu">Jump to Navigation</a>
+  </div>
+      <!-- ______________________ HEADER _______________________ -->
+
+<div id="header">
+  <div class="header-inner">
+      <div id="site-name-and-slogan">
+      <img src = "/profiles/consumer/themes/consumer_platform/images/logo-ftcseal.jpg" alt = "Federal Trade Commission" class = "print-logo" />
+          <h2 id="site-slogan">Federal Trade Commission</h2>
+              <h1 id="logo"><a href="http://www.consumer.ftc.gov/" title="Home" rel="home">
+              Consumer Information            </a></h1>
+    
+    </div>
+         <div id="search">
+        <div class="region region-search">
+    <div id="block-ftc_language_block-ftc_language_block" class="block block-ftc-language-block block-odd clearfix">
+
+                		
+		  <p><a href="http://www.consumidor.ftc.gov">español</a></p>
+</div> <!-- /block -->
+<div id="block-search-form" class="block block-search block-even clearfix">
+
+                		
+		  <form action="/features/feature-0022-financial-educators" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-L14LjDVvkQjqrdpOnevuF77G9Ii7qQgT8TrK9192-wc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div> <!-- /block -->
+  </div>
+    </div>
+    </div>
+</div> <!-- /header -->
+
+<div id="page" class="page with-navigation no-language">
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="main-inner" class="clearfix">
+      <div id="content">
+
+                  <div id="top-right">  <div class="region region-top-right">
+    <div id="block-consumer_emailprintshare-email_print_share" class="block block-consumer-emailprintshare block-odd clearfix">
+
+                		
+		  <ul class="email-print-share"><li id="emailThis" class="email"><a class="addthis_button_email" href="#">Email</a></li><li class="printer-friendly">
+        <a href="#" class="addthis_button_print">Print</a> 
+        </li><li class="addthis">
+        <script type="text/javascript">
+          var addthis_config = {
+            ui_language: "en"
+          }
+        </script>
+        <!-- AddThis Button BEGIN -->
+        <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4e34dc8d56e636d1"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"/></a>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e34dc8d56e636d1"></script>
+        <!-- AddThis Button END -->
+        </li>
+      </ul>
+</div> <!-- /block -->
+<div id="block-locale-language" class="block block-locale block-even clearfix">
+
+                		
+		  <ul class="language-switcher-locale-url"><li class="es first last"><a href="http://www.consumidor.ftc.gov/destacado/destacado-s0022-educadores-financieros" class="language-link" lang="es" title="Educadores financieros">Vea esta página en español</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+</div>
+        
+        <div class="content-col">
+
+                  <div id="content-header">
+                        
+                        <div class = "title-wrapper">
+              <h1 class="title">Financial Educators</h1>
+            </div>
+            
+                          <div class="tabs"></div>
+            
+                          <div id="highlight">  <div class="region region-highlight">
+    <div id="block-views-one_stops-one_stop_banner" class="block block-views block-odd clearfix">
+
+                		
+		  <div class="view view-one-stops view-id-one_stops view-display-id-one_stop_banner view-dom-id-77397279c2f775bdb61b5780e2b62ed3">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-os-banner">        <div class="field-content"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/one-stop-header/public/one-stops/banner/feature-0022-financial-educators.png?itok=tAXWVdsD" width="680" height="121" alt="" /></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Money Matters! Do you teach people about everyday financial issues? <a href="http://www.consumer.ftc.gov">Consumer information from the FTC</a> is free and in the public domain. That means you can print it, copy it, post it, or link to it freely – and for free.</p><p>Share our resources with students, friends, family, coworkers, and neighbors.</p><p>Share tips, use your social networking skills, or, <a href="https://bulkorder.ftc.gov/">order free materials</a> to hand out at events or conferences — or just to give out in your community.</p><p>Link to <a href="http://www.consumer.ftc.gov">consumer.ftc.gov</a> or any of our individual publications. Visitors to your website will appreciate having a direct link to important information from the nation's consumer protection agency.</p><ul><li><a href="http://www.ftc.gov/subscribe">Subscribe</a> to our blog for consumer news and scam alerts.</li><li>Like our Federal Trade Commission <a href="https://www.facebook.com/federaltradecommission">Facebook page</a>.</li><li>Post our videos on your blog or site. You’ll find embed code in our <a href="http://www.consumer.ftc.gov/media">media center</a>.</li><li>Follow <a href="https://twitter.com/FTC">@FTC</a> for the latest tweets from the FTC.</li></ul></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div> <!-- /block -->
+  </div>
+</div>
+            
+                        
+          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-even clearfix">
+
+                		
+		  <div id="node-1710" class="node node-one-stop node-odd">
+	<div class="node-inner">
+
+        <style type="text/css">
+      #content-area .node-one-stop h2{
+        color: #49834e      }
+      </style>
+          
+  	<div class="content">
+  	  
+<div class="field field-name-field-os-collection field-type-field-collection field-label-hidden">
+  
+      <div class="field-items">
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection clearfix" about="http://www.consumer.ftc.gov/field-collection/field-os-collection/573" typeof="">
+  <div class="content">
+    <h2 id="saving-amp-shopping">Saving &amp; Shopping</h2>
+<div class="field field-name-field-os-collection-desc field-type-text-long field-label-hidden">
+  
+                <p>You know it’s important to save money, but it’s not always easy to stash any spare cash. Spending money wisely usually takes skill, time, and experience. This information can help you shop smart, save money, and learn how to spot, stop and avoid scams.</p>
+            
+  </div>
+
+<div class="field field-name-field-os-collection-items field-type-field-collection field-label-hidden">
+  
+      <div class="field-items">
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/579" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-847" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0331-setting-out-your-own">Setting Out on Your Own</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Here’s how to create a basic budget.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/583" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-602" class="node node-article node-even">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0106-shopping-tips">Shopping Tips</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>There’s no shortage of ads from merchants who want your business; here’s how to decide if the deal is for real.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/580" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-462" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0101-free-trial-offers">&quot;Free&quot; Trial Offers?</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Some companies use “free” trial offers as a lure, but don’t make their cancellation policies obvious. The result? You could end up paying for a product every month, whether you like it or not.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/581" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-526" class="node node-article node-even">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0090-using-money-transfer-services">Using Money Transfer Services</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>When and how to use a money transfer service safely.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/582" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                <div id="node-823" class="node node-one-stop node-sticky node-odd">
+	<div class="node-inner">
+
+                    <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/scam-alerts">Scam Alerts</a></h3>
+        
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                Stay a step ahead with the latest info and practical tips from the nation’s consume protection agency. Browse FTC scam alerts by topic or by most recent.            
+  </div>
+
+                  	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+            
+  </div>
+</div></div>
+          </div>
+  </div>
+  </div>
+</div>
+</div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection clearfix" about="http://www.consumer.ftc.gov/field-collection/field-os-collection/574" typeof="">
+  <div class="content">
+    <h2 id="credit-amp-debt">Credit &amp; Debt</h2>
+<div class="field field-name-field-os-collection-desc field-type-text-long field-label-hidden">
+  
+                <p>Your credit report says a lot about you, and businesses use the information to evaluate your applications for credit, insurance, employment, or renting a place to live. Learn how to order copies of your free annual credit report, your rights and responsibilities when using credit, and options for dealing with debt.</p>
+            
+  </div>
+
+<div class="field field-name-field-os-collection-items field-type-field-collection field-label-hidden">
+  
+      <div class="field-items">
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/611" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-669" class="node node-article node-even">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0155-free-credit-reports">Free Credit Reports</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>How, why, and when to order copies of your free annual credit report.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/612" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-880" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0205-using-credit-card">Using a Credit Card</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>It helps to know your rights and responsibilities when you use a credit card.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/613" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-661" class="node node-article node-even">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0150-coping-debt">Coping with Debt</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>When it comes to dealing with debt, you have options. Find out what you can do, and get tips for avoiding scams.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/614" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-697" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0078-advance-fee-loans">Advance-Fee Loans</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Some advance-fee loan and credit card offers have tell-tale signs that can help you avoid getting ripped off.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/615" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-958" class="node node-article node-even">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0058-credit-repair-how-help-yourself">Credit Repair: How to Help Yourself</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Find out how you can improve your credit and get free or low-cost help.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+          </div>
+  </div>
+  </div>
+</div>
+</div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection clearfix" about="http://www.consumer.ftc.gov/field-collection/field-os-collection/575" typeof="">
+  <div class="content">
+    <h2 id="housing">Housing</h2>
+<div class="field field-name-field-os-collection-desc field-type-text-long field-label-hidden">
+  
+                <p>Your home is one of the most expensive purchases you’ll ever make, and may be one of your most valuable assets. Learn how to comparison shop for a mortgage, what to do if you can’t make your payments, and what to consider if you’re thinking about tapping into your home equity.</p>
+            
+  </div>
+
+<div class="field field-name-field-os-collection-items field-type-field-collection field-label-hidden">
+  
+      <div class="field-items">
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/616" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-812" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0189-shopping-mortgage">Shopping for a Mortgage</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Shopping and negotiating for a home loan or mortgage — as you do for other major purchases — may save you thousands of dollars.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/617" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-808" class="node node-article node-even">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0187-when-paying-mortgage-struggle">When Paying the Mortgage is a Struggle</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>If you’re having trouble paying your mortgage, all is not lost. There is legitimate help to help you save your home.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/618" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-904" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0227-home-equity-loans-and-credit-lines">Home Equity Loans and Credit Lines</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Is a home equity loan or line of credit right for you? Read about abusive lending practices, how to avoid them, and how to save your home.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/619" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-746" class="node node-article node-even">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0192-reverse-mortgages">Reverse Mortgages</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Reverse mortgages let you cash in on the equity in your home: these mortgages can have serious implications.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+          </div>
+  </div>
+  </div>
+</div>
+</div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection clearfix" about="http://www.consumer.ftc.gov/field-collection/field-os-collection/576" typeof="">
+  <div class="content">
+    <h2 id="work-amp-school">Work &amp; School</h2>
+<div class="field field-name-field-os-collection-desc field-type-text-long field-label-hidden">
+  
+                <p>Whether you’re looking for a job, a business to run, or continuing your education, this information can help you save time and money, and avoid potential rip-offs.</p>
+            
+  </div>
+
+<div class="field field-name-field-os-collection-items field-type-field-collection field-label-hidden">
+  
+      <div class="field-items">
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/620" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-1089" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0243-finding-job">Finding a Job</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Not all job placement services are legitimate. Here are tips to help you recognize those that aren’t.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/621" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-737" class="node node-article node-even">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0157-employment-background-checks">Employment Background Checks</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Your application for a job means an employer can check your credit report. Here are some things to know.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/622" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-797" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0175-work-home-businesses">Work-at-Home Businesses</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Many work-at-home opportunities are promoted by scam artists. If you pay in, it’s likely that you will spend more than you can earn.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/623" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                <div id="node-1280" class="node node-one-stop node-even">
+	<div class="node-inner">
+
+                    <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/features/feature-0019-business-opportunity-scams">Business Opportunity Scams</a></h3>
+        
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                Looking to earn extra income? Before you spend money on a new opportunity, learn about your rights under the FTC’s Business Opportunity Rule, and questions to ask that can help you avoid a rip-off.             
+  </div>
+
+                  	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+            
+  </div>
+</div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/624" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-748" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0160-student-loans">Student Loans</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Some companies use deceptive claims or business practices to get your student loan business.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+          </div>
+  </div>
+  </div>
+</div>
+</div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection clearfix" about="http://www.consumer.ftc.gov/field-collection/field-os-collection/577" typeof="">
+  <div class="content">
+    <h2 id="automobiles">Automobiles</h2>
+<div class="field field-name-field-os-collection-desc field-type-text-long field-label-hidden">
+  
+                <p>Owning a car can be an expensive proposition. Learn how to comparison shop, negotiate the best deal, what to do if you can’t make your payments, and how to avoid auto repair rip-offs.</p>
+            
+  </div>
+
+<div class="field field-name-field-os-collection-items field-type-field-collection field-label-hidden">
+  
+      <div class="field-items">
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/625" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-1271" class="node node-article node-even">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0209-buying-new-car">Buying a New Car</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Get tips about pricing terms, financing options, trade-ins, and service contracts.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/626" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-512" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0055-buying-used-car">Buying a Used Car</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>The Buyers Guide is required on all used cars sold by dealers. Read about payment options, private sales, warranties, service contracts and spoken promises.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/627" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-1272" class="node node-article node-even">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0056-understanding-vehicle-financing">Understanding Vehicle Financing</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Before you lease or financing a new or used vehicle, learn more about your options and what to expect at the dealership.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/628" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-651" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0144-vehicle-repossession">Vehicle Repossession</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Here’s “must know” information about when and how your car can be repossessed.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/629" typeof="">
+<div class="field field-name-field-os-on-site-item field-type-node-reference field-label-hidden">
+  
+                
+<div id="node-876" class="node node-article node-even">
+	<div class="node-inner">
+
+
+  <h3 property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/articles/0211-auto-repair-basics">Auto Repair Basics</a></h3>
+		    
+	<div class="content">
+	  
+<div class="field field-name-field-article-short-description field-type-text-long field-label-hidden">
+  
+                <p>Take the scare out of auto repair with these tips about how your vehicle works, how to identify common problems, and how to select a good mechanic.</p>
+            
+  </div>
+	</div>
+	
+  
+			<div class="also-like">
+			 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+            
+  </div>
+</div></div>
+          </div>
+  </div>
+  </div>
+</div>
+</div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection clearfix" about="http://www.consumer.ftc.gov/field-collection/field-os-collection/578" typeof="">
+  <div class="content">
+    <h2 id="resources-for-more-information">Resources for More Information</h2>
+<div class="field field-name-field-os-collection-items field-type-field-collection field-label-hidden">
+  
+      <div class="field-items">
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/630" typeof=""><div class="field-group-format group_right_column field-group-div group-right-column  speed-fast effect-none"><h3><a href="http://www.consumer.gov/">Consumer.gov</a></h3>
+<div class="field field-name-field-os-collection-items-desc field-type-text-long field-label-hidden">
+  
+                <p>Consumer protection basics in a clear, direct style.</p>
+            
+  </div>
+</div></div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/631" typeof=""><div class="field-group-format group_right_column field-group-div group-right-column  speed-fast effect-none"><h3><a href="http://www.mymoney.gov/Pages/default.aspx">MyMoney.gov</a></h3>
+<div class="field field-name-field-os-collection-items-desc field-type-text-long field-label-hidden">
+  
+                <p>Federal Financial Literacy and Education Commission</p>
+            
+  </div>
+</div></div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/632" typeof=""><div class="field-group-format group_right_column field-group-div group-right-column  speed-fast effect-none"><h3><a href="http://www.federalreserve.gov/creditcard/">Consumer’s Guide to Credit Cards</a></h3>
+<div class="field field-name-field-os-collection-items-desc field-type-text-long field-label-hidden">
+  
+                <p>Federal Reserve Board</p>
+            
+  </div>
+</div></div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/633" typeof=""><div class="field-group-format group_right_column field-group-div group-right-column  speed-fast effect-none"><h3><a href="http://www.makinghomeaffordable.gov/pages/default.aspx">Making Home Affordable Program</a></h3>
+<div class="field field-name-field-os-collection-items-desc field-type-text-long field-label-hidden">
+  
+                <p>The President’s Plan to Help Homeowners</p>
+            
+  </div>
+</div></div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/811" typeof=""><div class="field-group-format group_right_column field-group-div group-right-column  speed-fast effect-none"><h3><a href="http://www.usa.gov/shopping/realestate/mortgages/mortgages.shtml">Mortgages for Home Buyers and Homeowners</a></h3></div></div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/634" typeof=""><div class="field-group-format group_right_column field-group-div group-right-column  speed-fast effect-none"><h3><a href="http://www.extension.org/personal_finance">Personal Finance</a></h3>
+<div class="field field-name-field-os-collection-items-desc field-type-text-long field-label-hidden">
+  
+                <p>U.S. Department of Agriculture, Cooperative Extension System</p>
+            
+  </div>
+</div></div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/635" typeof=""><div class="field-group-format group_right_column field-group-div group-right-column  speed-fast effect-none"><h3><a href="http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm">HUD Approved Housing Counseling Agencies</a></h3>
+<div class="field field-name-field-os-collection-items-desc field-type-text-long field-label-hidden">
+  
+                <p>U.S. Housing and Urban Development</p>
+            
+  </div>
+</div></div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/636" typeof=""><div class="field-group-format group_right_column field-group-div group-right-column  speed-fast effect-none"><h3><a href="http://www.naag.org/">National Association of Attorneys General</a></h3>
+<div class="field field-name-field-os-collection-items-desc field-type-text-long field-label-hidden">
+  
+                <p>Your State Attorney General</p>
+            
+  </div>
+</div></div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/637" typeof=""><div class="field-group-format group_right_column field-group-div group-right-column  speed-fast effect-none"><h3><a href="http://www.usa.gov/directory/stateconsumer/index.shtml">Index of State and Local Consumer Agencies</a></h3>
+<div class="field field-name-field-os-collection-items-desc field-type-text-long field-label-hidden">
+  
+                <p>Your Local Consumer Protection Agency</p>
+            
+  </div>
+</div></div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/638" typeof=""><div class="field-group-format group_right_column field-group-div group-right-column  speed-fast effect-none"><h3><a href="http://www.choosetosave.org/asec/">Choose to Save</a></h3>
+<div class="field field-name-field-os-collection-items-desc field-type-text-long field-label-hidden">
+  
+                <p>American Savings Education Council</p>
+            
+  </div>
+</div></div></div>
+              <div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/639" typeof=""><div class="field-group-format group_right_column field-group-div group-right-column  speed-fast effect-none"><h3><a href="http://www.americasaves.org/">America Saves</a></h3>
+<div class="field field-name-field-os-collection-items-desc field-type-text-long field-label-hidden">
+  
+                <p>Consumer Federation of America</p>
+            
+  </div>
+</div></div></div>
+              <div class="field-item odd"><div class="entity entity-field-collection-item field-collection-item-field-os-collection-items" about="http://www.consumer.ftc.gov/field-collection/field-os-collection-items/666" typeof=""><div class="field-group-format group_right_column field-group-div group-right-column  speed-fast effect-none"><h3><a href="http://www.jumpstart.org/">Jump$tart Clearinghouse</a></h3>
+<div class="field field-name-field-os-collection-items-desc field-type-text-long field-label-hidden">
+  
+                <p>Jump$tart Coalition for Personal Financial Literacy</p>
+            
+  </div>
+</div></div></div>
+          </div>
+  </div>
+  </div>
+</div>
+</div>
+          </div>
+  </div>
+              <div class="accordions spread-word">
+          <h2>Spread the Word</h2>
+          <div class="field field-name-field-os-shareable field-type-text-long field-label-above"><h3 class="field-label">Shareable Tips</h3><div class="field-items"><div class="field-item even"><p>Learn how to shop smart, save money, and spot, stop and avoid scams: <a href="http://go.usa.gov/jTZ4">http://go.usa.gov/jTZ4</a></p>
+<p>Learn how to get your free annual credit report, your rights when using credit, and options for dealing with debt: <a href="http://go.usa.gov/jTZz">http://go.usa.gov/jTZz</a></p>
+<p>Learn how to comparison shop for a mortgage, what to do if you can’t make your payments: <a href="http://go.usa.gov/jTBC">http://go.usa.gov/jTBC</a></p>
+<p>Owning a car can be expensive. Learn how to comparison shop, negotiate the best deal, and avoid auto repair rip-offs: <a href="http://go.usa.gov/jTBR">http://go.usa.gov/jTBR</a></p>
+</div></div></div><div class="field field-name-field-os-psa field-type-node-reference field-label-above"><h3 class="field-label">Audio Tips</h3><div class="field-items"><div class="field-item even"><div id="node-1286" class="node node-audio node-even">
+	<div class="node-inner">
+
+        
+                  <h3 class = "os-title" property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/media/audio-0030-advance-fee-loans">Advance-Fee Loans</a> <span class='duration'>(1:00)</span></h3>
+        <p class = "audio-more"><a href="http://www.consumer.ftc.gov/media/audio-0030-advance-fee-loans">View transcript, download and more</a></p>
+            
+    
+         <div id="altContent-nid-1286" style="border:1px solid #CCC; padding:20px; margin-top:20px;">
+        <h3>Please update or install Adobe Flash</h3>
+        <p>Sorry this content requires the latest version of flash. You will need to install or upgrade in order to view this content.</p>
+        <p><a href="http://www.adobe.com/go/getflashplayer"><img 
+          src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" 
+          alt="Get Adobe Flash player" /></a> </p>
+      </div>
+    
+    
+  	<div class="content">
+  	  <script type="text/javascript">var flashvars = { audioPath:"http://www.consumer.ftc.gov/sites/default/files/audio/downloads/audio-0030_advance-fee-loans.mp3",};
+var params = {
+      menu: "false",
+      scale: "noScale",
+      allowFullscreen: "true",
+      allowScriptAccess: "always",
+      bgcolor: "#ffffff",
+      width: "398",
+      height: "46",
+      wmode: "opaque"
+    };
+var attributes = {
+      id:"FTCAudioPlayer-nid-1286",
+      class:"FTCAudioPlayer"
+    };
+swfobject.embedSWF("http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/media-players/audio-player_395x46.swf", "altContent-nid-1286", "398", "46", "10.0.0", "expressInstall.swf", flashvars, params, attributes);</script>
+  	</div>
+  	
+            
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+</div><div class="field-item odd"><div id="node-1305" class="node node-audio node-odd">
+	<div class="node-inner">
+
+        
+                  <h3 class = "os-title" property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/media/audio-0049-work-home-scams">Work at Home Scams</a> <span class='duration'>(1:00)</span></h3>
+        <p class = "audio-more"><a href="http://www.consumer.ftc.gov/media/audio-0049-work-home-scams">View transcript, download and more</a></p>
+            
+    
+         <div id="altContent-nid-1305" style="border:1px solid #CCC; padding:20px; margin-top:20px;">
+        <h3>Please update or install Adobe Flash</h3>
+        <p>Sorry this content requires the latest version of flash. You will need to install or upgrade in order to view this content.</p>
+        <p><a href="http://www.adobe.com/go/getflashplayer"><img 
+          src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" 
+          alt="Get Adobe Flash player" /></a> </p>
+      </div>
+    
+    
+  	<div class="content">
+  	  <script type="text/javascript">var flashvars = { audioPath:"http://www.consumer.ftc.gov/sites/default/files/audio/downloads/audio-0049_work-at-home-scams_0.mp3",};
+var params = {
+      menu: "false",
+      scale: "noScale",
+      allowFullscreen: "true",
+      allowScriptAccess: "always",
+      bgcolor: "#ffffff",
+      width: "398",
+      height: "46",
+      wmode: "opaque"
+    };
+var attributes = {
+      id:"FTCAudioPlayer-nid-1305",
+      class:"FTCAudioPlayer"
+    };
+swfobject.embedSWF("http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/media-players/audio-player_395x46.swf", "altContent-nid-1305", "398", "46", "10.0.0", "expressInstall.swf", flashvars, params, attributes);</script>
+  	</div>
+  	
+            
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+</div><div class="field-item even"><div id="node-1303" class="node node-audio node-even">
+	<div class="node-inner">
+
+        
+                  <h3 class = "os-title" property="dc:title" datatype=""><a href="http://www.consumer.ftc.gov/media/audio-0055-business-opportunities-ask-some-questions">Business Opportunities: Ask Some Questions</a> <span class='duration'>(1:00)</span></h3>
+        <p class = "audio-more"><a href="http://www.consumer.ftc.gov/media/audio-0055-business-opportunities-ask-some-questions">View transcript, download and more</a></p>
+            
+    
+         <div id="altContent-nid-1303" style="border:1px solid #CCC; padding:20px; margin-top:20px;">
+        <h3>Please update or install Adobe Flash</h3>
+        <p>Sorry this content requires the latest version of flash. You will need to install or upgrade in order to view this content.</p>
+        <p><a href="http://www.adobe.com/go/getflashplayer"><img 
+          src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" 
+          alt="Get Adobe Flash player" /></a> </p>
+      </div>
+    
+    
+  	<div class="content">
+  	  <script type="text/javascript">var flashvars = { audioPath:"http://www.consumer.ftc.gov/sites/default/files/audio/downloads/audio-0055_biz-opp-ask-questions.mp3",};
+var params = {
+      menu: "false",
+      scale: "noScale",
+      allowFullscreen: "true",
+      allowScriptAccess: "always",
+      bgcolor: "#ffffff",
+      width: "398",
+      height: "46",
+      wmode: "opaque"
+    };
+var attributes = {
+      id:"FTCAudioPlayer-nid-1303",
+      class:"FTCAudioPlayer"
+    };
+swfobject.embedSWF("http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/media-players/audio-player_395x46.swf", "altContent-nid-1303", "398", "46", "10.0.0", "expressInstall.swf", flashvars, params, attributes);</script>
+  	</div>
+  	
+            
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+</div></div></div>        </div>
+              	</div>
+  	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+</div> <!-- /block -->
+  </div>
+                  </div>
+        </div>
+
+              <div id="sidebar-second" class="column sidebar second">
+          <div id="sidebar-second-inner" class="inner">
+              <div class="region region-sidebar-second">
+    <div id="block-panels_mini-one_stop_sidebar" class="block block-panels-mini block-odd clearfix">
+
+                <h2 class="block-title">Related Items</h2>
+          		
+		  <div class="panel-display panel-1col clearfix" id="mini-panel-one_stop_sidebar">
+  <div class="panel-panel panel-col">
+    <div>
+
+<div class="panel-pane pane-views pane-one-stops even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-one-stops view-id-one_stops view-display-id-os_related_media view-rotating-promos no-rotate small-media-rotator view-dom-id-8b45eb532f7cc480f1a50811f430c8cc">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0060-your-source-truly-free-credit-report-annualcreditreportcom" title="[type]: Your Source for a Truly Free Credit Report? AnnualCreditReport.com " class="ajax [field_media_type]" rel="1268"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/videos/thumbnails/video-0060_check-your-credit-report_thumb.png?itok=YukcyT3R" width="155" height="85" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0060-your-source-truly-free-credit-report-annualcreditreportcom" title="Your Source for a Truly Free Credit Report? AnnualCreditReport.com ">Your Source for a Truly Free Credit...</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0048-dealing-debt-collectors" title="[type]: Dealing with Debt Collectors" class="ajax [field_media_type]" rel="944"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/videos/thumbnails/video-0048_debt-collection_thumb.png?itok=uBWjNHlN" width="155" height="85" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0048-dealing-debt-collectors">Dealing with Debt Collectors</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0026-employee-background-checks" title="[type]: Employee Background Checks" class="ajax [field_media_type]" rel="957"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/videos/thumbnails/video-0026_job-search_laura_thumb.png?itok=lG20Q8Ec" width="155" height="85" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0026-employee-background-checks">Employee Background Checks</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-views pane-one-stops even" >
+
+  
+        <h2 class="pane-title">Related Blog Posts</h2>
+  
+  
+  <div class="pane-content">
+    <div class="view view-one-stops view-id-one_stops view-display-id-block_4 view-dom-id-92fe0333fe9063415d0a7b541495c5b7">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/blog/do-you-know-how-prepare-weather-emergency-let-ftc-help-show-you-way">Do you know how to prepare for a weather emergency? Let the FTC help show you the way</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">September 26, 2013</span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/blog/taking-health-care-scams-market">Taking Health Care Scams Off the Market</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">September 26, 2013</span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/blog/text-twist-debt-collection">A Text Twist on Debt Collection</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">September 25, 2013</span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+</div> <!-- /block -->
+  </div>
+          </div>
+        </div>
+       <!-- /sidebar-second -->
+
+        
+      </div> <!-- /content -->
+
+              <div id="sidebar-first" class="column sidebar first">
+          <div id="nav-control"><a href="#">menu</a></div>  <div class="region region-sidebar-first">
+    <div id="block-system-main-menu" class="block block-system block-menu block-even clearfix">
+
+                		
+		  <ul class="menu level-1"><li class="first collapsed money-credit mid-1858"><a href="http://www.consumer.ftc.gov/topics/money-credit" title=""><span>Money &amp;<br />  Credit</span></a></li>
+<li class="collapsed homes-mortgages mid-1859"><a href="http://www.consumer.ftc.gov/topics/homes-mortgages" title=""><span>Homes &amp;<br />  Mortgages</span></a></li>
+<li class="collapsed health-fitness mid-1860"><a href="http://www.consumer.ftc.gov/topics/health-fitness" title=""><span>Health &amp;<br />  Fitness</span></a></li>
+<li class="collapsed jobs-making-money mid-1861"><a href="http://www.consumer.ftc.gov/topics/jobs-making-money" title=""><span>Jobs &amp;<br />  Making Money</span></a></li>
+<li class="last collapsed privacy-identity mid-1862"><a href="http://www.consumer.ftc.gov/topics/privacy-identity" title=""><span>Privacy &amp;<br />  Identity</span></a></li>
+</ul>
+</div> <!-- /block -->
+<div id="block-menu-menu-main-sub" class="block block-menu block-odd clearfix">
+
+                		
+		  <ul class="menu"><li class="first leaf blog mid-2559"><a href="http://www.consumer.ftc.gov/blog" title=""><span>Blog</span></a></li>
+<li class="last leaf video-media mid-2560"><a href="http://www.consumer.ftc.gov/media" title=""><span>Video &amp;<br />  Media</span></a></li>
+</ul>
+</div> <!-- /block -->
+<div id="block-menu-menu-nav-promo" class="block block-menu block-even clearfix">
+
+                		
+		  <ul class="menu"><li class="first last leaf scam-alerts mid-2650"><a href="http://www.consumer.ftc.gov/scam-alerts" title="">Scam Alerts</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+        </div>
+       <!-- /sidebar-first -->
+    </div> <!-- /main-inner -->
+  </div> <!-- /main -->
+
+    <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer">
+        <div class="region region-footer">
+    <div id="block-panels_mini-footer" class="block block-panels-mini block-odd clearfix">
+
+                		
+		  <div class="panel-display panel-footer clearfix" id="mini-panel-footer">
+ <div class = "panel-top">
+     <div class="panel-panel panel-col-top-l">
+      
+
+<div class="panel-pane pane-views pane-topic-landing-page even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_5 view-dom-id-7ecbc245e3529c41d432cd3956743ec7">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_6 view-dom-id-5d5ccf38393769a8b052c3fef7b37509">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-sidebar-modules view-id-sidebar_modules view-display-id-block_3 view-dom-id-842cb0bd86dc01c4a40465e7e215ab1a">
+        
+  
+  
+      <div class="view-empty">
+      <a href="https://public.govdelivery.com/accounts/USFTC/subscriber/new?category_id=USFTC_C7" target="_blank">Get Updates by Email &gt;</a>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+  
+ 
+    <div class="panel-panel panel-col-top-c">
+     
+
+<div class="panel-pane pane-views pane-topic-landing-page even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_7 view-dom-id-5794c4224ec6f9436e75583cc5caf3fd">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_8 view-dom-id-2a4c2de368fdde4c27bb5a03610b38b3">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-sidebar-modules view-id-sidebar_modules view-display-id-block_4 view-dom-id-9ec2a8416c5463c269dbac91e6ab2ff6">
+        
+  
+  
+      <div class="view-empty">
+      <p><a href="http://business.ftc.gov/" target="_blank">Looking for Business Guidance?</a></p>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+
+  
+      <div class="panel-panel panel-col-top-r">
+      
+
+<div class="panel-pane pane-block pane-ftc-social-media-ftc-social-media even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class = 'social-media'><li class='newsletter'><a href='https://public.govdelivery.com/accounts/USFTC/subscriber/new?category_id=USFTC_C7' target = 'blank'>Get Email Updates</a></li><li class='rss'><a href='/blog/rss' target = 'blank'>Blog Feed</a></li><li class='facebook'><a href='https://www.facebook.com/federaltradecommission' target = 'blank'>Facebook</a></li><li class='youtube'><a href='http://www.youtube.com/user/FTCvideos' target = 'blank'>YouTube</a></li><li class='twitter'><a href='https://twitter.com/FTC' target = 'blank'>Twitter</a></li></ul>  </div>
+
+  
+  </div>
+    </div>
+    
+  </div>
+<div class = "panel-bottom">
+
+  	     <div class="panel-panel panel-col-bottom-l">
+      
+
+<div class="panel-pane pane-block pane-block-14 even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="http://ftc.gov/"><img src="/profiles/consumer/themes/consumer_platform/images/icon-ftc-seal.gif" style="border: none; margin-right: 10px; margin-bottom:20px; float: left;" /></a><a href="http://ftc.gov/">The Federal Trade Commission</a> (FTC) is the nation’s consumer protection agency. The FTC works to prevent fraudulent, deceptive and unfair business practices in the marketplace.</p>  </div>
+
+  
+  </div>
+    </div>
+   
+
+     <div class="panel-panel panel-col-bottom-c">
+      
+
+<div class="panel-pane pane-block pane-menu-menu-footer even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf privacy-policy mid-2563"><a href="http://www.consumer.ftc.gov/privacy-policy">Privacy Policy</a></li>
+<li class="leaf about-us mid-2564"><a href="http://www.consumer.ftc.gov/about-us">About Us</a></li>
+<li class="last leaf contact-us mid-2565"><a href="http://www.consumer.ftc.gov/contact-us">Contact Us</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  
+      <div class="panel-panel panel-col-bottom-r">
+      
+
+<div class="panel-pane pane-block pane-block-1 share-resources even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="/share-our-resources">Share Our Resources. Here's How &gt;</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-block pane-block-12 file-a-complaint odd" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="/articles/0341-file-complaint-ftc">File a Complaint with the FTC &gt;</a></p>
+  </div>
+
+  
+  </div>
+    </div>
+  
+
+  </div>
+</div>
+
+</div> <!-- /block -->
+  </div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+  </body>
+</html>

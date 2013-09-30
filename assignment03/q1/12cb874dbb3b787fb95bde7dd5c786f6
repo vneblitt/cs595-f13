@@ -1,0 +1,613 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" id="NYTD">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="ClearType" content="true">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="robots" content="noarchive">
+<meta name="CG" content="Sports">
+<meta name="SCG" content="Tennis">
+<meta name="PT" content="Multimedia">
+<meta name="PST" content="Interactive">
+<meta name="keywords" content="">
+<meta name="description" content="Updates on Syria">
+<meta name="byline" content="Updates on Syria">
+<meta property="og:title" content="Updates on Syria">
+<meta property="og:site_name" content="The New York Times">
+<meta property="og:description" content="Updates on Syria">
+<meta property="og:image" content="http://i1.nyt.com/projects/assets/live_dashboard/images/nyt.png">
+<meta property="fb:admins" content="5281959998">
+<meta property="og:type" content="article">
+<meta name="hdl" content="Updates on Syria">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:title" content="Updates on Syria">
+<meta property="twitter:site" content="nytimes">
+<meta property="twitter:url" content="http://projects.nytimes.com/live-dashboard/syria">
+<meta property="twitter:description" content="Updates on Syria">
+<meta name="WT.z_dash" content="1">
+<meta name="pc:time" content="2013-09-30 13:32:31 +0000">
+<meta name="TimesPeople" content="disallow" />    
+    <title>Updates on Syria - NYTimes.com</title>
+    
+      <script type="text/javascript">
+      //  CONFIGURE HOST BASED ON ENVIRONMENT
+      var NYTD    = NYTD || {};
+      NYTD.env = 'production';
+      NYTD.Hosts  = {
+        imageHost:  'http://i1.nyt.com',
+        jsHost:     'http://js.nyt.com',
+        cssHost:    'http://css.nyt.com',
+        wwwHost:    'http://www.nytimes.com'
+      };
+      </script>
+      
+    <link rel="stylesheet" href="http://css.nyt.com/projects/assets/nytpage_assets/assets/interactive.css?version=3" type="text/css" media="screen,print" charset="utf-8">
+    
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"></meta>
+
+    <!--[if (!IE)|(gte IE 8)]><!-->
+<link href="http://graphics8.nytimes.com/projects/assets/live_dashboard/assets/base-datauri.css" media="screen" rel="stylesheet" type="text/css" />
+<!--<![endif]-->
+<!--[if lte IE 7]>
+<link href="http://graphics8.nytimes.com/projects/assets/live_dashboard/assets/base.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+  <!--[if (!IE)|(gte IE 8)]><!-->
+<link href="http://graphics8.nytimes.com/projects/assets/live_dashboard/assets/syria-strikes-datauri.css" media="screen" rel="stylesheet" type="text/css" />
+<!--<![endif]-->
+<!--[if lte IE 7]>
+<link href="http://graphics8.nytimes.com/projects/assets/live_dashboard/assets/syria-strikes.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="http://platform.twitter.com/embed/embed.db2c829c654880a40587573127775568.css">
+
+  <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+  <script src="http://platform.twitter.com/js/vendor/twt/dist/twt.min.js" type="text/javascript"></script>
+
+  <script type="text/javascript" src="http://typeface.nytimes.com/ucf6rje.js"></script>
+  <script type="text/javascript">Typekit.load()</script>
+
+  <script src="http://connect.facebook.net/en_US/all.js"></script>
+
+    <!-- nytpage:nyt_head_addons /start -->          
+    
+    <script src="http://js.nyt.com/js/mtr.js" type="text/javascript" charset="utf-8"></script>
+    
+    
+    <!-- nytpage:nyt_head_addons /end -->          
+  </head>
+  
+      <!--[if IE 6]>
+      <body class="nytint-ie6">
+      <![endif]-->
+      <!--[if IE 7]>
+      <body class="nytint-ie7">
+      <![endif]-->
+      <!--[if IE 8]>
+      <body class="nytint-ie8">
+      <![endif]-->
+      <!--[if IE 9]>
+      <body class="nytint-ie9">
+      <![endif]-->  
+      <![if !IE]><body><![endif]>
+    <div id="shell">
+      <ul id="memberTools">
+    <li>
+      <iframe height="15" width="480" scrolling="no" frameborder="0"  src="http://www.nytimes.com/export_html/common/new_login_iframe.html"></iframe>
+    </li>
+</ul>    
+    
+      <div class="tabsContainer">
+  <ul id="mainTabs" class="tabs">
+    <li class="first"><a href="http://www.nytimes.com">Home Page</a></li>
+    <li><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+    <li><a href="http://www.nytimes.com/video">Video</a></li>
+    <li><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+    <li><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+  </ul>
+</div>
+      <div id="page" class="tabContent active">  
+        <div id="masthead" class="clearfix">
+          
+          <div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select">
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery">
+<input type="hidden" id="searchAll" name="type" value="nyt">
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://i1.nyt.com/images/global/buttons/go.gif">
+</form>
+</div>
+</div>      
+
+          
+          <div id="branding">
+  <a href="http://www.nytimes.com">
+    <img id="NYTLogo" alt="New York Times" title="New York Times" src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" width="152" height="23" />
+  </a>
+</div>            
+          <h2><a href="" class="h2-masthead"></a></h2>
+        </div>
+        
+        
+        <div id="main" class="clearfix">
+          
+          
+<h1 class="nytint-developing"><strong>Latest</strong> Crisis in Syria</h1>
+
+<div id="acol">
+    <div id="dashboard-intro">
+        <p>Tracking the Syrian crisis and the international response.</p>
+    </div>
+
+<script type="text/javascript">
+</script>
+
+  <script src="http://graphics8.nytimes.com/projects/assets/live_dashboard/assets/base_base.js" type="text/javascript"></script>
+<script src="http://graphics8.nytimes.com/projects/assets/live_dashboard/assets/syria-strikes_base.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/common/modules/dialogbox.css">
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/common/forms.css">
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/community/comments/2.0/commentsModule.css">
+<script type="text/javascript" language="Javascript" src="http://graphics8.nytimes.com/js/EmbeddedComments/jquery.tmpl.js"></script>
+<script type="text/javascript" language="Javascript" src="http://graphics8.nytimes.com/js/EmbeddedComments/commentsConfig.js"></script>
+<script type="text/javascript" language="Javascript" src="http://graphics8.nytimes.com/js/EmbeddedComments/embeddedComments.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/projects/elections/js/handlebars.1.0.0.beta.3.js"></script>
+
+<script type="text/javascript">
+    if(typeof NYTD == "undefined") {
+      window.NYTD = {};
+    }
+    if(typeof NYTD.NYTINT == "undefined") {
+      window.NYTD.NYTINT = {};
+    }
+    if(typeof console == "undefined") {
+      window.console = {
+        log: function() {},
+        warn: function() {},
+        error: function() {}
+      };
+    }
+    if(NYTD.jQuery) {
+      window.jQuery = NYTD.jQuery;
+    }
+    if(window.jQuery && !NYTD.jQuery) {
+      NYTD.jQuery = jQuery;
+    }
+    if(typeof NYTD.NYTINT.Dashboard == 'undefined') NYTD.NYTINT.Dashboard = {page_data:{}};
+    NYTD.NYTINT.Dashboard.page_data.base_url = "http://projects.nytimes.com/live-dashboard/syria";
+    NYTD.NYTINT.Dashboard.page_data.stream_settings_url = "http://d3iwqfew33lf4i.cloudfront.net/live_dashboard/syria/settings.js";
+    NYTD.NYTINT.Dashboard.page_data.reporters = {"image_index":{"adam nagourney":"adam-nagourney","adamnagourney":"adam-nagourney","ashley parker":"ashley-parker","ashleyrparker":"ashley-parker","carl hulse":"carl-hulse","hillhulse":"carl-hulse","david leonhardt":"david-leonhardt","dleonhardt":"david-leonhardt","helene cooper":"helene-cooper","jackie calmes":"jackie-calmes","calmesnyt":"jackie-calmes","jim roberts":"jim-roberts","nytjim":"jim-roberts","jim rutenberg":"jim-rutenberg","jimrutenberg":"jim-rutenberg","jeff zeleny":"jeff-zeleny","jeffzeleny":"jeff-zeleny","matt bai":"matt-bai","michael cooper":"michael-cooper","coopnytimes":"michael-cooper","michael d. shear":"michael-d-shear","shearm":"michael-d-shear","nicholas confessore":"nicholas-confessore","nickconfessore":"nicholas-confessore","paul volpe":"paul-volpe","pvolpe":"paul-volpe","richard w. stevenson":"richard-w-stevenson","dickstevenson":"richard-w-stevenson","trip gabriel":"trip-gabriel","tripgabriel":"trip-gabriel","john m. broder":"john-m-broder","emily ramshaw":"emily-ramshaw","eramshaw":"emily-ramshaw","jay root":"jay-root","byjayroot":"jay-root","derek willis":"derek-willis","derekwillis":"derek-willis","lisa tozzi":"lisa-tozzi","lisatozzi":"lisa-tozzi","nate silver":"fivethirtyeight","fivethirtyeight":"fivethirtyeight","john harwood":"john-harwood","johnjharwood":"john-harwood","catherine rampell":"catherine-rampell","crampell":"catherine-rampell","mark landler":"mark-landler","marklandler":"mark-landler","michael barbaro":"michael-barbaro","mikiebarb":"michael-barbaro","christopher rowland":"chris-rowland","globerowland":"chris-rowland","binyamin appelbaum":"binyamin-appelbaum","bcappelbaum":"binyamin-appelbaum","edward wyatt":"edward-wyatt","wyattnyt":"edward-wyatt","julia preston":"julia-preston","shaila dewan":"shaila-dewan","shailadewan":"shaila-dewan","elisabeth bumiller":"elisabeth-bumiller","bumillernyt":"elisabeth-bumiller","susan saulny":"susan-saulny","ssaulny":"susan-saulny","richard l. berke":"rick-berke","@rickberke":"rick-berke","katharine q. seelye":"kit-seelye","kseelye":"kit-seelye","jeremy w. peters":"jeremy-w-peters","jwpetersnyt":"jeremy-w-peters","mark leibovich":"mark-leibovich","markleibovich":"mark-leibovich","marjorie connelly":"marjorie-connelly","kate phillips":"kate-phillips","katephillips":"kate-phillips","a.g. sulzberger":"arthur-g-sulzberger","agsnyt":"arthur-g-sulzberger","allison kopicki":"nytpolls","dalia sussman":"nytpolls","micah cohen":"fivethirtyeight","micahcohen":"fivethirtyeight","brian stelter":"brian-stelter-50","brianstelter":"brian-stelter","abby goodnough":"abby-goodnough","abbygoodnough":"abby-goodnough","david e. sanger":"sanger-thumb-thumbStandard","sangernyt":"sanger-thumb-thumbStandard","robert pear":"robert-pear","kim severson":"kim-severson","kimseverson":"kim-severson","adam liptak":"adam-liptak","adamliptak":"adam-liptak","annie lowrey":"annie-lowrey","annielowrey":"annie-lowrey","jonathan weisman":"jonathan-weisman","jonathanweisman":"jonathan-weisman","jennifer steinhauer":"jennifer-steinhauer","jestei":"jennifer-steinhauer","michael wines":"michael-wines","monika mcdermott":"nytpolls","kirk johnson":"kirk-johnson","kljohnso":"kirk-johnson","david r. jones":"nytpolls","peter baker":"peter-baker","peterbakernyt":"peter-baker","ethan bronner":"ethanbronner","ethanbronner":"ethanbronner","sabrina tavernise":"sabrinatavernise","stavernise":"sabrinatavernise","katie thomas":"katiethomas","katie_thomas":"katiethomas","steven yaccino":"stevenyaccino","syaccino":"stevenyaccino","robbie brown":"robbiebrown","robbiebrown07":"robbiebrown","jennifer preston":"jenpreston","nyt_jenpreston":"jenpreston","jodi kantor":"jodi-kantor","jodikantor":"jodi-kantor","michael luo":"michael-luo","michaelluo":"michael-luo","charlie savage":"charlie-savage","charlie_savage":"charlie-savage","richard perez-pena":"richard-perez-pena","perezpena":"richard-perez-pena","eric schmitt":"eric-schmitt","thom shanker":"thom-shanker","michael r. gordon":"michael_gordon","nelson d. schwartz":"nelson_schwartz","nelsonschwartz":"nelson_schwartz","eduardo porter":"eduardo_porter","portereduardo":"eduardo_porter","david kocieniewski":"david_kocieniewski","nathaniel popper":"nathaniel_popper","nathanielpopper":"nathaniel_popper","john h. cushman jr.":"john_cushman","ron nixon":"ron-nixon","nixonron":"ron-nixon","sheryl gay stolberg":"sheryl-gay-stolberg","sherylstolberg":"sheryl-gay-stolberg","eric wilson":"eric-wilson-50","ericwilsonnyt":"eric-wilson","amy chozick":"amy-chozick-50","brooks barnes":"brooks-barnes-50","david carr":"david-carr-50","david itzkoff":"david-itzkoff-50","jon caramanica":"jon-caramanica-50","larry rohter":"larry-rohter-50","michael cieply":"michael-cieply-50","simone s. oliver":"simone-bridges-50","melena ryzik":"melena-ryzik-50","michael roston":"michael-roston","michaelroston":"michael-roston","alexis mainland":"lexi-mainland","lexinyt":"lexi-mainland","erik piepenburg":"erik-piepenburg-50","charles isherwood":"charles-isherwood-50","steven mcelroy":"steven-mcelroy-50","dave itzkoff":"david-itzkoff-50","patrick healy":"patrick-healy-50","anne barnard":"anne-barnard","abarnardnyt":"anne-barnard","david d. kirkpatrick":"david-kirkpatrick","ddknyt":"david-kirkpatrick","thomas erdbrink":"thomas-erdbrink","thomaserdbrink":"thomas-erdbrink","michael slackman":"michael-slackman","meslackman":"michael-slackman","jodi rudoren":"jodi-rudoren","rudoren":"jodi-rudoren","rick gladstone":"rick-gladstone","rickgladstone":"rick-gladstone","ben hubbard":"ben-hubbard","nytben":"ben-hubbard","c.j. chivers":"cj-chivers","cjchivers":"cj-chivers","robert mackey":"thelede","robertmackey":"thelede","liam stack":"liam-stack","liamstack":"liam-stack","andrea kannapell":"andrea-kannapell","akannapell":"andrea-kannapell","shreeya sinha":"shreeya-sinha","shreeyasinha":"shreeya-sinha","sarah wheaton":"sarah-wheaton","swheaton":"sarah-wheaton","christine hauser":"thelede","scott sayare":"scott-sayare","scottsayare":"scott-sayare","stephen castle":"stephen-castle","_stephencastle":"stephen-castle","gerry mullany":"gerry-mullany","gerrymullany":"gerry-mullany","ravi somaiya":"thelede","david m. halbfinger":"halbfinger50","halbfinger":"halbfinger50","david w. chen":"chen50","davidwchen":"chen50","carolyn ryan":"carolyn50","carolynryan":"carolyn50","andy newman":"andy50","andylocal":"andy50","javier c. hern\u00e1ndez":"javier50","hernandezjavier":"javier50","kate taylor":"kate50","katetaylornyt":"kate50","marc santora":"santora50","marcsantoranyt":"santora50","michael m. grynbaum":"grynbaum50","grynbaum":"grynbaum50","michael paulson":"paulson50","michaelpaulson":"paulson50","stephen farrell":"farrell50","farrelltimes":"farrell50","vivian yee":"vivian50","vivianhyee":"vivian50","thomas kaplan":"kaplan50","thomaskaplan":"kaplan50","liz robbins":"liz50","nytlizrobbins":"liz50","sarah maslin nir":"nir50","sarahmaslinnir":"nir50"},"handle_index":{"adamnagourney":"Adam Nagourney","ashleyrparker":"Ashley Parker","hillhulse":"Carl Hulse","dleonhardt":"David Leonhardt","calmesnyt":"Jackie Calmes","nytjim":"Jim Roberts","jimrutenberg":"Jim Rutenberg","jeffzeleny":"Jeff Zeleny","coopnytimes":"Michael Cooper","shearm":"Michael D. Shear","nickconfessore":"Nicholas Confessore","pvolpe":"Paul Volpe","dickstevenson":"Richard W. Stevenson","tripgabriel":"Trip Gabriel","eramshaw":"Emily Ramshaw","byjayroot":"Jay Root","derekwillis":"Derek Willis","lisatozzi":"Lisa Tozzi","fivethirtyeight":"Nate Silver","johnjharwood":"John Harwood","crampell":"Catherine Rampell","marklandler":"Mark Landler","mikiebarb":"Michael Barbaro","globerowland":"Christopher Rowland","bcappelbaum":"Binyamin Appelbaum","wyattnyt":"Edward Wyatt","shailadewan":"Shaila Dewan","bumillernyt":"Elisabeth Bumiller","ssaulny":"Susan Saulny","@rickberke":"Richard L. Berke","kseelye":"Katharine Q. Seelye","jwpetersnyt":"Jeremy W. Peters","markleibovich":"Mark Leibovich","katephillips":"Kate Phillips","agsnyt":"A.G. Sulzberger","micahcohen":"Micah Cohen","brianstelter":"Brian Stelter","abbygoodnough":"Abby Goodnough","sangernyt":"David E. Sanger","kimseverson":"Kim Severson","adamliptak":"Adam Liptak","annielowrey":"Annie Lowrey","jonathanweisman":"Jonathan Weisman","jestei":"Jennifer Steinhauer","kljohnso":"Kirk Johnson","peterbakernyt":"Peter Baker","ethanbronner":"Ethan Bronner","stavernise":"Sabrina Tavernise","katie_thomas":"Katie Thomas","syaccino":"Steven Yaccino","robbiebrown07":"Robbie Brown","nyt_jenpreston":"Jennifer Preston","jodikantor":"Jodi Kantor","michaelluo":"Michael Luo","charlie_savage":"Charlie Savage","perezpena":"Richard Perez-Pena","nelsonschwartz":"Nelson D. Schwartz","portereduardo":"Eduardo Porter","nathanielpopper":"Nathaniel Popper","nixonron":"Ron Nixon","sherylstolberg":"Sheryl Gay Stolberg","ericwilsonnyt":"Eric Wilson","michaelroston":"Michael Roston","lexinyt":"Alexis Mainland","abarnardnyt":"Anne Barnard","ddknyt":"David D. Kirkpatrick","thomaserdbrink":"Thomas Erdbrink","meslackman":"Michael Slackman","rudoren":"Jodi Rudoren","rickgladstone":"Rick Gladstone","nytben":"Ben Hubbard","cjchivers":"C.J. Chivers","robertmackey":"Robert Mackey","liamstack":"Liam Stack","akannapell":"Andrea Kannapell","shreeyasinha":"Shreeya Sinha","swheaton":"Sarah Wheaton","scottsayare":"Scott Sayare","_stephencastle":"Stephen Castle","gerrymullany":"Gerry Mullany","halbfinger":"David M. Halbfinger","davidwchen":"David W. Chen","carolynryan":"Carolyn Ryan","andylocal":"Andy Newman","hernandezjavier":"Javier C. Hern\u00e1ndez","katetaylornyt":"Kate Taylor","marcsantoranyt":"Marc Santora","grynbaum":"Michael M. Grynbaum","michaelpaulson":"Michael Paulson","farrelltimes":"Stephen Farrell","vivianhyee":"Vivian Yee","thomaskaplan":"Thomas Kaplan","nytlizrobbins":"Liz Robbins","sarahmaslinnir":"Sarah Maslin Nir"}};
+    NYTD.NYTINT.Dashboard.page_data.hover_card_entities = null;
+    NYTD.NYTINT.Dashboard.page_data.hashtag = "" // fill this in to add a hashtag for each tweet;
+    NYTD.NYTINT.Dashboard.icon = "http://i1.nyt.com/projects/assets/live_dashboard/images/nyt.png";
+</script>
+
+  <script src="http://graphics8.nytimes.com/projects/assets/live_dashboard/assets/base.js" type="text/javascript"></script>
+<script src="http://graphics8.nytimes.com/projects/assets/live_dashboard/assets/syria-strikes.js" type="text/javascript"></script>
+
+
+
+    <div id="dashboard-highlights" class="nytint-hidden dashboard-highlights-card">
+  <!--BEGIN dashboard highlights-->
+  
+  <!--dashboard highlights END-->
+</div>
+
+
+    <div id="nytint-tabs" class="debt-reckoning">
+  <ul class="nytint-nav-tabs">
+      <li class="hed">Latest</li>
+  </ul>
+</div>
+
+
+    <div id="nytint-dash-infobar">
+    <div id="nytint-dash-infobar-inner">
+        <a href="#">Back to Top</a>
+        <p>
+            <strong id="nytint-dash-updates-count">0</strong>
+            <span id="nytint-dash-updates-text">New Updates</span>
+        </p>
+    </div>
+</div>
+
+<div id="nytint-tabviews" class="dashboard">
+    <div id="nytint-dashboard"
+         class="nytint-tabview"
+         data-nytint-stream-type="PaginatedStream"
+         data-nytint-option-frequency="20000"
+                  data-nytint-option-url="http://d3iwqfew33lf4i.cloudfront.net/live_dashboard/syria/live_updates.js"
+                  data-nytint-option-static="false"
+                  data-nytint-option-callback="NYTD.NYTINT.Stream"
+                  data-nytint-option-template="dashboard"
+                  data-nytint-option-auto-refresh="false"
+                  data-nytint-option-data-key="items"
+                  data-nytint-option-timestamp-key="timestamp"
+                  data-nytint-option-process-fn="NYTD.NYTINT.Dashboard.process_data"
+                  data-nytint-option-page-data="NYTD.NYTINT.Dashboard.page_data"
+                  data-nytint-option-per-page="10"
+         >
+        
+        
+    </div>
+</div>
+
+
+
+
+
+<style>
+    #nytint-tabviews.all #nytint-dashboard { display: block; }
+
+      #nytint-tabviews.all #nytint-dashboard  li.stream-item { display: block; }
+
+</style>
+
+
+  <div id="nytint-hover-card-container" class="nytint-hover-card-container"></div>
+
+<div id="fb-root"></div>
+
+<script type="text/javascript">
+  if (!NYTD.NYTINT.Dashboard.initialized) {
+    jQuery(NYTD.NYTINT.Dashboard.init);
+  } else {
+    if(typeof console != "undefined") {
+      console.log("Dashboard already initialized");
+    }
+  }
+</script>
+</div>
+
+<div id="ccol">
+    <!-- COMMENTS ROTATOR -->
+<!-- link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/projects/2013/syria_rotator/syria_rotator.css?v=2">
+<div id="nytint-syria-comments">
+  <h3>Readers' Perspectives</h3>
+  <div class="rotator">
+    <div class="steppers">
+      <span class="prev" data-rotato-step="prev">previous</span>
+      <span class="next" data-rotato-step="next">next</span>
+    </div>
+    <ul></ul>
+  </div>
+  <script type="text/template">
+    <li class="comment-slide">
+      <p class="signer">
+        <span class="name"><%= comment.commenter_name || 'Anonymous' %></span>
+        <% if (comment.commenter_location) { %>
+        <span class="location"><%= comment.commenter_location %></span>
+        <% } %>
+      </p>
+      <q><%= comment.comment_text %></q>
+      <p class="source">Responding to <a href="<%= comment.article_url %>#commentsContainer"><%= comment.article_name %></a> on <a href="<%= comment.article_url %>#permid=<%= comment.permId %>" class="comment-datetime"><%= comment.comment_datetime %></a></p>
+    </li>
+  </script>
+</div>
+<script type="text/javascript" src="http://graphics8.nytimes.com/projects/2013/syria_rotator/syria_rotator.min.js"></script -->
+
+
+<!-- VOTE TRACKER -->
+<!-- script src="http://www.nytimes.com//newsgraphics/2013/09/04/syria-congress-count/senate.js" charset="UTF-8"></script>
+<script src="http://www.nytimes.com//newsgraphics/2013/09/04/syria-congress-count/house.js" charset="UTF-8"></script>
+-->
+<script type="text/javascript" src="http://typeface.nytimes.com/yju3kri.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<style>
+
+  table{
+    border-spacing: 0;
+
+  }
+  
+  h3.vote_headline{
+    font: normal 18px/24px 'nyt-cheltenham', Georgia, serif;
+    /*margin: 0 0 0 10px;*/
+  }
+  span.vote_intro{
+    display: block;
+    margin: 6px 0;
+    color: #666;
+    font-size: 12px;
+    /*margin-left: 15px;*/
+  }
+
+  #vote-tracker {
+    font-family: nyt-franklin, arial;
+  }
+
+  #vote-tracker tr {
+    height: 38px;
+  }
+
+  #vote-tracker .chamber {
+    border-bottom: 1px solid #ccc;
+  }
+
+  #vote-tracker th {
+    font-size: 26px;
+    font-weight: 300;
+    text-align: center;
+  }
+
+  .vote-label {
+    width: 99px;
+  }
+
+  .vote-label p {
+    font-weight: bold;
+    font-size: 15px;
+    text-align: bottom;
+    margin: auto;
+  }
+
+  .vote-label p.desc {
+    display: none;
+  }
+
+  .tally {
+    font-size: 28px;
+    font-weight: 300;
+    text-align: center;
+    width: 119px;
+  }
+
+  #support .tally {
+    color: #779e82;
+  }
+
+  #undecided .tally {
+    color: #555;
+  }
+
+  #unknown .tally {
+    color: #aaa;
+  }
+
+  #against .tally {
+    color: #cc6666;
+  }
+  .vote_full_coverage{
+    display: block;
+    font-family: georgia, "times new roman", times, serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin: 13px 0 50px 0;
+    line-height: 1.1;
+    }
+  }
+
+</style>
+
+<!--
+<div style="width: 337px;margin-left:9px">
+  <h3 class="vote_headline">Where Lawmakers Stand on Military Action</h3>
+  <span class="vote_intro">
+    A tally of each member of Congress's stance on a proposed strike against the Syrian government, based on statements made on Web sites or through the news media.
+  </span>
+  <table id="vote-tracker">
+    <tr id="heading">
+      <th></th>
+      <th class="chamber">Senate</th>
+      <th class="chamber">House</th>
+    </tr>
+
+    <tr id="support">
+      <td class="vote-label">
+        <p>Support</p>
+        <p class="desc">In favor of a military strike.</p>
+      </td>
+      <td class="tally senate"></td>
+      <td class="tally house"></td>
+    </tr>
+
+    <tr id="undecided">
+      <td class="vote-label">
+        <p>Undecided</p>
+        <p class="desc">Still weighing how he or she will vote.</p>
+      </td>
+      <td class="tally senate"></td>
+      <td class="tally house"></td>
+    </tr>
+
+    <tr id="unknown">
+      <td class="vote-label">
+        <p>Unknown</p>
+        <p class="desc">Had no public statement that could be found.</p>
+      </td>
+      <td class="tally senate"></td>
+      <td class="tally house"></td>
+    </tr>
+
+    <tr id="against">
+      <td class="vote-label">
+        <p>Against</p>
+        <p class="desc">Reject or are leaning against a strike.</p>
+      </td>
+      <td class="tally senate"></td>
+      <td class="tally house"></td>
+    </tr>
+  </table>
+
+  <a href="http://www.nytimes.com/interactive/2013/09/05/us/politics/syria-vote-tracker.html" class="vote_full_coverage">Full Coverage »</a>
+
+  <script>
+    var $ = jQuery;
+    function tallyChamberCounts(positions) {
+      var categories = _.chain(positions).map(function(member) {
+        return member.newCategory;
+      }).uniq().value();
+
+      var ordered_category= ["broad authorization","limited authorization","undecided","unknown","no action"]
+      var category_counts = _.map(ordered_category,function(category){
+       return  _.select(positions, function(inner_cat) {
+          return (inner_cat.newCategory === category);
+        }).length;
+      });
+
+      return {
+        'support': category_counts[0] + category_counts[1],
+        'undecided': category_counts[2],
+        'unknown': category_counts[3],
+        'against': category_counts[4]
+      }
+    }
+
+    function renderVotes(chamber, votes) {
+      _.each(_.pairs(votes), function(option) {
+        var selector = '#' + option[0] + ' .' + chamber;
+        $(selector).text(option[1]);
+      });
+    }
+
+    var house_votes = tallyChamberCounts(houseData);
+    var senate_votes = tallyChamberCounts(senateData);
+    renderVotes('house', house_votes);
+    renderVotes('senate', senate_votes);
+  </script>
+
+</div -->
+    <style type="text/css">
+        #MiddleRight {
+          margin: 15px 0;
+          text-align: center;
+        }
+    </style>
+  
+  <link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/projects/2013/syria_coverage/syria_coverage.css">
+<div id="ccol-refers">
+  <h3>Coverage Highlights</h3>
+  <ul class="clearfix">
+    <li class="full-coverage">
+      <a href="http://topics.nytimes.com/top/news/international/countriesandterritories/syria/index.html">
+        <span class="title">Full Coverage &raquo;</span>
+      </a>
+    </li>
+  </ul>
+  <script type="text/template">
+    <li>
+      <a href="<%= article.url %>">
+        <img src="<%= article.thumb_url %>" class="thumbnail">
+        <span class="title"><%= article.headline %></span>
+        <span class="excerpt"><%= article.summary %></span>
+      </a>
+    </li>
+  </script>
+</div>
+<script type="text/javascript" src="http://graphics8.nytimes.com/projects/2013/syria_coverage/syria_coverage.js?v=2"></script>
+
+</div>
+
+        </div>  
+        <div id="footer">
+			<ul class="first">
+	<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+		<li>
+		<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+	</li>
+		<li><a href="#top">Back to Top</a></li>
+</ul>		<ul>
+		<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2012</a> <a href="http://www.nytco.com/">The New York Times Co.</a></li>
+		<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+		<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>		
+		<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+		<li><a href="http://www.nytimes.com/corrections.html">Corrections</a></li>
+		<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+		<li><a href="http://firstlook.nytimes.com">First Look</a></li>
+		<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+		<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+		<li><a href="https://careers.nytco.com/TAM/nyt_docs/TAM/candidate.html">Work for Us</a></li>
+		<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+		<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+	</ul>
+</div>
+
+      </div>
+    </div>      
+    <!-- nytpage:nyt_foot_assets /start -->
+    <!-- nytpage:nyt_foot_assets /start -->
+
+<script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+<!-- nytpage:nyt_foot_assets /end -->
+
+    
+    <!-- nytpage:nyt_foot_assets /end -->      
+    <!-- nytpage:nyt_foot_addons /start -->
+    
+    
+
+        <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-7885722-29']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+        
+    
+    
+        
+        <script type="text/javascript">
+        (function(){
+          if((document.referrer).indexOf(document.location.hostname) == -1) {
+            var referrer = document.referrer;
+          }else{
+            var referrer = '';
+          }
+          var pxTracker = new Image(1,3);
+          pxTracker.src = "http://up.nytimes.com/?d=0//&t=4&s=1&ui=&r=' + referrer + '&u=' + document.location";          
+        })();
+        </script>      
+        
+    <!-- nytpage:nyt_foot_addons /end -->
+  </body>
+</html>

@@ -1,0 +1,533 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--[if lt IE 7]>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="lt-ie10 lt-ie9 lt-ie8 lt-ie7">
+<![endif]-->
+<!--[if IE 7]>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="lt-ie10 lt-ie9 lt-ie8">
+<![endif]-->
+<!--[if IE 8]>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="lt-ie10 lt-ie9">
+<![endif]-->
+<!--[if IE 9]>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="lt-ie10">
+<![endif]-->
+<!--[if gt IE 9]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<!--<![endif]-->
+
+<head>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link href="lib/fonts/roboto/stylesheet.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="lib/standard_print.css" rel="stylesheet" type="text/css" media="print" />
+	<link href="lib/standard.css" rel="stylesheet" type="text/css" />
+	
+	
+  <title>ENERGY STAR Most Efficient 2013 : ENERGY STAR</title>
+</head>
+
+<body>
+	
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-L8ZB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-L8ZB');</script>
+<!-- End Google Tag Manager -->
+
+	<div id="wrap" class="clearfix">
+		
+		
+		<div id="header" class="clearfix">
+			<a href="index.cfm"><img id="es_logo" src="images/home_page/es_logo.png" width="99" height="101" alt="ENERGY STAR logo" style="vertical-align:bottom;margin-right:10px;"></a>
+
+			<div id="skipMenu">
+				<a href="#page_content" title="Skip to page content">Skip directly to page content</a>
+			</div>
+			<div id="banner" class="clearfix">
+				
+				<div id="utility">
+		
+					<span class="bridgeline"></span>
+					<ul class="social" style="margin-bottom:0;">
+						<li><a href="http://www.facebook.com/energystar" title="ENERGY STAR on Facebook" class="icn_facebook ir">Facebook</a></li>
+						<li><a href="http://www.twitter.com/energystar" title="ENERGY STAR on Twitter" class="icn_twitter ir">Twitter</a></li>
+						<li><a href="http://www.youtube.com/epaenergystar" title="ENERGY STAR on YouTube" class="icn_youtube ir">YouTube</a></li>
+						<li><a href="http://blog.epa.gov/energystar" title="ENERGY STAR Blog" class="icn_blog ir">Our Blog</a></li>
+					</ul>
+					<form action="index.cfm" id="search">
+						<div>
+							<input name="fuseaction" value="search.showResults" type="hidden">
+							<input name="output" value="xml_no_dtd" type="hidden">
+							<input value="UTF-8" name="oe" type="hidden">
+							<input value="UTF-8" name="ie" type="hidden">
+							<label id="for_q" for="q" class="visuallyhidden">Search</label>
+							<input id="q" name="q" class="searchBox" maxlength="512" value="" type="text">
+							<input id="search_submit" type="image" src="images/btn_search.png" alt="Search">
+						</div>
+					</form>
+		
+				</div>
+	
+				<div id="mega">
+					<ul id="mega-menu">
+						<li id="mega-pr" class="primary first on" tabindex="-1">
+							<a href="index.cfm?fuseaction=find_a_product." class="nav">
+								Energy Efficient
+								<span>Products</span>
+							</a>
+							<div class="dropdown">
+								<div class="two_col_l mega_intro">
+									<h2>Energy Efficient<br>Products</h2>
+
+									<p>ENERGY STAR products are independently certified to save energy without sacrificing features or functionality. Saving energy helps prevent climate change. Look for the ENERGY STAR label to save money on your energy bills and help protect our environment.</p>
+
+									<ul class="no_indent">
+										<li><a href="index.cfm?fuseaction=find_a_product.">Learn about ENERGY STAR Products</a></li>
+										<li><a href="index.cfm?c=products.pr_save_energy_at_home">Save Energy at Home</a></li>
+										<li><a href="index.cfm?fuseaction=globalwarming.showPledge">Take the Pledge</a></li>
+										<li><a href="http://www.epa.gov/climatechange/">Learn about Climate Change</a></li>
+									</ul>
+								</div>
+
+								<div class="two_col_r mega_body">
+									<ul class="tab_links no_indent">
+										<li class="first"><a href="index.cfm?fuseaction=find_a_product."><img src="images/home_page/for_home_product_finder.jpg" alt=""><br>ENERGY STAR Products</a></li>
+										<li><a href="index.cfm?c=tax_credits.tx_index"><img src="images/home_page/for_home_tax_credits.png" alt=""><br>Tax Credits</a></li>
+										<li><a href="index.cfm?fuseaction=home_energy_advisor.showGetinput"><img src="images/home_page/mm_hi_assess.jpg" alt=""><br>Ask an Expert</a></li>
+										<li><a href="index.cfm?c=heat_cool.pr_hvac"><img src="images/home_page/mm_hi_tips.jpg" alt=""><br>Heat and Cool Efficiently</a></li>
+									</ul>
+
+									<hr>
+
+									<div class="help_list">
+										<h3>How can we help you?</h3>
+
+										<ul class="no_indent">
+											<li><a href="index.cfm?c=home_elec_details.fap_home_theater">How can I make my home entertainment center more energy efficient?</a></li>
+											<li><a href="index.cfm?c=lighting.pr_what_are#what_are">What should I know about LED lights?</a></li>
+											<li><a href="index.cfm?c=power_mgt.pr_power_mgt_users">I'd like to know about power management.</a></li>
+											<li><a href="index.cfm?c=heat_pump.pr_savings_benefits">How can I reduce hot water use in my home?</a></li>
+										</ul>
+									</div>
+
+									<div class="quick_links">
+										<h3>Quick Links</h3>
+
+										<ul class="no_indent">
+											<li><a href="index.cfm?c=products.pr_where_money">Where does my money go?</a></li>
+											<li><a href="index.cfm?fuseaction=vid_gallery.showGenYTVideo">Set and Save with ENERGY STAR</a></li>
+											<li><a href="index.cfm?fuseaction=product_finder.productFinder">Product Finder</a></li>
+											<li><a href="index.cfm?fuseaction=rebate.rebate_locator">Rebate Finder</a></li>
+											<li><a href="index.cfm?fuseaction=store.store_locator">Store Locator</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li id="mega-hi" class="primary" tabindex="-2">
+							<a href="index.cfm?c=home_improvement.hm_improvement_index" class="nav">
+								Energy Savings
+								<span>At Home</span>
+							</a>
+							<div class="dropdown">
+								<div class="two_col_l mega_intro">
+									<h2>Energy Savings<br>At Home</h2>
+
+									<p>Improving your home's energy efficiency with ENERGY STAR can help to reduce high energy bills, improve comfort and reduce greenhouse gas emissions. Let us help you  &mdash; whether you do-it-yourself or hire a qualified professional.</p>
+
+									<ul class="no_indent">
+										<li><a href="index.cfm?fuseaction=HOME_ENERGY_YARDSTICK.showGetStarted">Home Assessment Tools</a></li>
+										<li><a href="index.cfm?c=home_improvement.hm_improvement_index">Home Improvement Resources</a></li>
+										<li><a href="index.cfm?c=home_sealing.hm_improvement_sealing">Seal and Insulate Your Home</a></li>
+										<li><a href="index.cfm?c=products.pr_find_es_products">Learn about ENERGY STAR Products</a></li>
+										<li><a href="index.cfm?fuseaction=hpwes_profiles.showSplash">Learn about Home Performance with ENERGY STAR</a></li>
+										<li><a href="index.cfm?c=products.pr_save_energy_at_home">Save Energy At Home</a></li>
+									</ul>
+								</div>
+
+								<div class="two_col_r mega_body">
+									<ul class="tab_links no_indent">
+										<li class="first"><a href="index.cfm?fuseaction=HOME_ENERGY_YARDSTICK.showGetStarted"><img src="images/home_page/mm_hi_assess.jpg" alt=""><br>Home Assessment Tools</a></li>
+										<li><a href="index.cfm?c=home_improvement.hm_improvement_index"><img src="images/home_page/mm_hi_caulk.jpg" alt=""><br>Home Improvement Resources</a></li>
+										<li><a href="index.cfm?c=tax_credits.tx_index"><img src="images/home_page/for_home_tax_credits.png" alt=""><br>Tax Credits</a></li>
+										<li><a href="index.cfm?c=heat_cool.pr_hvac"><img src="images/home_page/mm_hi_tips.jpg" alt=""><br>Heat and Cool Efficiently</a></li>
+									</ul>
+
+									<hr>
+
+									<div class="help_list">
+										<h3>How can we help you?</h3>
+
+										<ul class="no_indent">
+											<li><a href="index.cfm?c=home_improvement.hm_improvement_index">I want to improve my home's comfort and efficiency</a></li>
+											<li><a href="index.cfm?c=heat_cool.pr_hvac">How can I heat and cool my home efficiently?</a></li>
+											<li><a href="index.cfm?c=home_sealing.hm_improvement_sealing">How can I stop drafts?</a></li>
+											<li><a href="index.cfm?c=power_mgt.pr_power_mgt_users">I'd like to know about power management for my computer.</a></li>
+											<li><a href="index.cfm?c=cfls.cfls_choose_guide">How do I choose the right lighting for my home?</a></li>
+											<li><a href="index.cfm?fuseaction=find_a_product.showProductGroup&amp;pgw_code=RF">I'm upgrading my kitchen appliances. What should I know?</a></li>
+										</ul>
+									</div>
+
+									<div class="quick_linnks">
+										<h3>Quick Links</h3>
+
+										<ul class="no_indent">
+											<li><a href="http://energystar.supportportal.com/link/portal/23002/23018/ArticleFolder/960/Home-Improvement">Home Improvement FAQs</a></li>
+											<li><a href="index.cfm?c=heat_cool.pr_hvac">HVAC Maintenance Tips</a></li>
+											<li><a href="index.cfm?c=home_contractors.hm_improvement_contractors_resources">For Home Improvement Contractors</a></li>
+											<li><a href="http://www.drmediaserver.com/CFLGuide/index.html">ENERGY STAR Choose a Light Guide</a></li>
+											<li><a href="index.cfm?fuseaction=popuptool.atHome">Energy Saving Advice for Your Home</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li id="mega-nh" class="primary" tabindex="-3">
+							<a href="index.cfm?c=new_homes.hm_index" class="nav">
+								Energy Efficient
+								<span>New Homes</span>
+							</a>
+							<div class="dropdown">
+								<div class="two_col_l mega_intro">
+									<h2>Energy Efficient<br>New Homes</h2>
+
+									<p>A new home that has earned the ENERGY STAR label has undergone a process of inspections, testing, and verification to meet strict requirements set by the US EPA. ENERGY STAR certified homes use 15-30% less energy than typical new homes while delivering better comfort, quality, and durability.</p>
+
+									<ul class="no_indent">
+										<li><a href="index.cfm?fuseaction=new_homes_partners.locator">Find Builders and Incentives</a></li>
+										<li><a href="index.cfm?c=next_generation.ng_qualified_new_homes">Home Features and Benefits</a></li>
+										<li><a href="index.cfm?fuseaction=mil_homes.showSplash">Homeowner Testimonials</a></li>
+										<li><a href="index.cfm?c=bldrs_lenders_raters.pt_bldr">Resources for Partners</a></li>
+									</ul>
+								</div>
+
+								<div class="two_col_r mega_body">
+									<ul class="tab_links no_indent">
+										<li class="first"><a href="index.cfm?fuseaction=new_homes_partners.locator"><img src="images/home_page/mm_nh_map.jpg" alt=""><br>Find ENERGY STAR Home Builders</a></li>
+										<li><a href="index.cfm?c=next_generation.ng_qualified_new_homes"><img src="images/home_page/mm_nh_home.jpg" alt=""><br>ENERGY STAR<br>Home Features<br>and Benefits</a></li>
+										<li><a href="index.cfm?fuseaction=mil_homes.showSplash"><img src="images/home_page/mm_nh_label.jpg" alt=""><br>Homeowner Testimonials</a></li>
+										<li><a href="index.cfm?c=home_improvement.hm_improvement_index"><img src="images/home_page/mm_nh_heat_cool.jpg" alt=""><br>Improve your Existing Home</a></li>
+									</ul>
+
+									<hr>
+
+									<div class="help_list" style="padding-bottom:2em;">
+										<h3>How can we help you?</h3>
+
+										<ul class="no_indent">
+											<li><a href="index.cfm?c=next_generation.ng_qualified_new_homes">How can I make sure I'm buying a better built home?</a></li>
+											<li><a href="index.cfm?fuseaction=new_homes_partners.locator">I want to buy an ENERGY STAR certified home</a></li>
+											<li><a href="index.cfm?c=bldrs_lenders_raters.pt_bldr">I want to construct an ENERGY STAR certified home</a></li>
+											<li><a href="ia/new_homes/downloads/ES_Homeowner_Manual.pdf">Tips for ENERGY STAR homeowners</a></li>
+										</ul>
+									</div>
+
+									<div class="quick_linnks">
+										<h3>Quick Links</h3>
+
+										<ul class="no_indent">
+											<li><a href="index.cfm?fuseaction=new_homes_partners.locator">Builder and Incentive Locator</a></li>
+											<li><a href="/newhomesnews">In the News</a></li>
+											<li><a href="index.cfm?c=new_homes.nh_greenbuilding">Green Homes and ENERGY STAR</a></li>
+											<li><a href="index.cfm?c=mortgages.mortgage_lending_programs">Energy Efficient Mortgage Programs</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li id="mega-bp" class="primary last" tabindex="-4">
+							<a href="/buildings" class="nav">
+								Energy Strategies for
+								<span>Buildings &amp; Plants</span>
+							</a>
+							<div class="dropdown">
+								<div class="two_col_l mega_intro">
+									<h2>Buildings<br>&amp; Plants</h2>
+
+									<p>Improve financial performance and reduce carbon emissions with EPA's strategic energy management approach.</p>
+
+									<ul class="no_indent">
+										<li><a href="/buildings/facility-owners-and-managers">Facility Owners &amp; Managers</a></li>
+										<li><a href="/buildings/service-providers">Service Providers</a></li>
+										<li><a href="/buildings/program-administrators">Energy Efficiency Program Administrators</a></li>
+										<li><a href="/buildings/tools-and-resources">Tools &amp; Resources</a></li>
+										<li><a href="/buildings/training">Training</a></li>
+									</ul>
+								</div>
+
+								<div class="two_col_r mega_body">
+									<ul class="tab_links no_indent">
+										<li class="first"><a href="/buildings/facility-owners-and-managers/existing-buildings/use-portfolio-manager"><img src="images/home_page/for_business_pm.jpg" alt=""><br>Portfolio Manager</a></li>
+										<li><a href="/buildings/about-us/find-energy-star-certified-buildings-and-plants"><img src="images/home_page/for_business_find_buildings.jpg" alt=""><br>Find Certified Buildings</a></li>
+										<li><a href="/buildings/about-us/how-can-we-help-you/communicate/energy-star-communications-toolkit/motivate-competition-0"><img src="images/home_page/for_business_building_competition.jpg" alt=""><br>National Building Competition</a></li>
+										<li><a href="/buildings/facility-owners-and-managers/existing-buildings/save-energy/expert-help"><img src="images/home_page/for_business_find_help.jpg" alt=""><br>Find Expert Help</a></li>
+									</ul>
+
+									<hr>
+
+									<div class="help_list">
+										<h3>How can we help you?</h3>
+
+										<ul class="no_indent">
+											<li><a href="/buildings/about-us/how-can-we-help-you/build-energy-program">Build an energy program</a></li>
+											<li><a href="/buildings/about-us/how-can-we-help-you/improve-building-and-plant-performance">Improve buildings &amp; plant performance</a></li>
+											<li><a href="/buildings/about-us/how-can-we-help-you/recognition">Earn the ENERGY STAR &amp; other recognition</a></li>
+											<li><a href="/buildings/about-us/how-can-we-help-you/benchmark-energy-use">Benchmark energy use</a></li>
+											<li><a href="/buildings/about-us/how-can-we-help-you/energy-star-action">ENERGY STAR in action</a></li>
+											<li><a href="/buildings/about-us/how-can-we-help-you/communicate">Communicate &amp; educate</a></li>
+										</ul>
+									</div>
+
+									<div class="quick_linnks">
+										<h3>Quick Links</h3>
+
+										<ul class="no_indent">
+											<li><a href="/buildings/facility-owners-and-managers/existing-buildings/use-portfolio-manager">Portfolio Manager</a></li>
+											<li><a href="/buildings/service-providers/design/step-step-process/evaluate-target/epa&rsquo;s-target-finder-calculator">Target Finder</a></li>
+											<li><a href="/buildings/facility-owners-and-managers/industrial-plants/measure-track-and-benchmark/energy-star-energy">Plant EPIs</a></li>
+											<li><a href="index.cfm?fuseaction=find_a_product.showProductGroup&amp;pgw_code=CKP">Commercial Food Service</a></li>
+										</ul>
+									</div>
+
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+
+				<ul id="hdr_links" class="no_indent">
+					<li><a href="index.cfm?c=about.ab_index">About ENERGY STAR</a></li>
+					<li><a href="index.cfm?c=partners.pt_index">Partner Resources</a></li>
+				</ul>
+	
+			</div>
+		</div>
+	
+		<div id="content_wrap"
+			>
+			<!-- LEFT COLUMN -->
+			
+				<div id="left_column" class="leftNav">
+					<div class="left_nav">
+					
+					<h2>Products</h2>
+					<ul>
+	<li class="sel linked"><a href="index.cfm?c=products.pr_find_es_products" title="">Find ENERGY STAR Products</a> 
+							<ul>
+						
+								<li><a href="index.cfm?fuseaction=product_finder.productFinder" title="">Product Finder</a></li>
+					
+							</ul>
+						
+						</li>
+					
+						<li><a href="index.cfm?c=products.pr_how_earn" title="">How a Product Earns the Label</a> 
+						</li>
+					
+						<li><a href="index.cfm?c=products.pr_save_energy_at_home" title="">Save Energy at Home</a> 
+						</li>
+					
+						<li><a href="index.cfm?fuseaction=globalwarming.showPledgeHome" title="">Join Our Movement</a> 
+						</li>
+					</ul>
+		
+				</div>
+				</div>
+						
+
+<!-- PAGE CONTENT -->
+			<div id="page_content">
+			
+			<!-- CRUMB -->
+			
+			<div id="crumb">
+				<p><a href="index.cfm?c=home.index" title="ENERGY STAR Home">Home</a> &gt; <a href="index.cfm?fuseaction=find_a_product.">Products</a> &gt; <a href="index.cfm?c=products.pr_find_es_products">Find ENERGY STAR Products</a> &gt; <strong>ENERGY STAR Most Efficient 2013</strong></p>
+			</div>
+			<div id="pg_hd">
+
+
+<h1>ENERGY STAR Most Efficient 2013</h1>
+
+</div>
+	
+		<div id="mid_col">
+<p><img src="ia/products/most_efficient/images/ene_mosteff_2013.png" class="flt_r" alt="ENERGY STAR Most Efficient in 2013" />The <strong><em>ENERGY STAR Most Efficient 2013</em></strong> designation recognizes the most efficient products among those that qualify for the ENERGY STAR. These exceptional products represent the leading edge in energy efficient products this year.</p>
+<p>Learn more about the current <a href="index.cfm?c=partners.most_efficient_criteria">ENERGY STAR Most Efficient 2013 criteria</a>.</p>
+<h3 style="border-top: 1px solid silver; padding: 20px 0px;">Products Recognized as ENERGY STAR Most Efficient in 2013</h3>
+
+<table width="100%">
+<tr>
+	<td style="border-right: 1px solid silver; padding: 5px; text-align: center;"><img src="ia/products/most_efficient/images/clotheswash.jpg" alt="a clothes washer" /></td>
+	<td style="border-right: 1px solid silver; padding: 5px; text-align: center;"><img src="ia/products/most_efficient/images/refrigerator.jpg" alt="a refrigerator" /></td>
+	<td style="border-right: 1px solid silver; padding: 5px; text-align: center;"><img src="ia/products/most_efficient/images/tv.jpg" alt="a television" /></td>
+	<td style="text-align: center;"><img src="ia/products/most_efficient/images/heatcool.jpg" alt="an air conditioning unit" /></td>
+</tr>
+<tr>
+	<td style="text-align: center; width:180px;"><strong>Clothes Washers</strong>
+	<p class="flt_r" style="text-align: left; padding:10px;">
+	<a href="index.cfm?c=most_efficient.me_clothes_washers_sm" class="tiny" style="text-decoration: none;"><strong>Small (2.5 cu-ft and smaller)</strong></a><br /><br />
+	<a href="index.cfm?c=most_efficient.me_clothes_washers" class="tiny" style="text-decoration: none;"><strong>Large (larger than 2.5 cu-ft)</strong></a>
+	</p>
+	</td>
+	
+	<td style="text-align: center; width:190px;"><strong>Refrigerators</strong>
+	<p class="flt_r" style="text-align: left; padding:10px;">
+	<a href="index.cfm?c=most_efficient.me_medium_fridges_freezers" class="tiny" style="text-decoration: none;"><strong>Medium (18 cu-ft and smaller)</strong></a><br /><br />
+	<a href="index.cfm?c=most_efficient.me_large_fridges_freezers" class="tiny" style="text-decoration: none;"><strong>Large (18.1 to 22.5 cu-ft)</strong></a><br /><br />
+	<a href="index.cfm?c=most_efficient.me_xlarge_fridges_freezers" class="tiny" style="text-decoration: none;"><strong>X-Large (larger than 22.5 cu-ft)</strong></a>
+	</p>
+	</td>
+	
+	<td style="text-align: center; width:200px;"><strong>Televisions</strong>
+	<p class="flt_r" style="text-align: left; padding-top:10px;">
+			<a href="index.cfm?c=most_efficient.me_tvs_under35_inches" class="tiny" style="text-decoration: none;"><strong>Under 35 inches&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></a><br /><br />
+			<a href="index.cfm?c=most_efficient.me_tvs_35to50_inches" class="tiny" style="text-decoration: none;"><strong>35 to 50 inches</strong></a><br /><br />
+			<a href="index.cfm?c=most_efficient.me_tvs_over50_inches" class="tiny" style="text-decoration: none;"><strong>50+ inches</strong></a>
+		</p>
+	</td>
+	
+	<td style="text-align: center; width:195px;"><strong>Heating &amp; Cooling</strong>
+		<p class="flt_r" style="text-align: left; padding:10px 15px 0px 10px;">
+			<a href="index.cfm?c=most_efficient.me_boilers" class="tiny" style="text-decoration: none;"><strong>Boilers</strong></a><br /><br />
+			<a href="index.cfm?c=most_efficient.me_cac_ashp" class="tiny" style="text-decoration: none;"><strong>Central Air Conditioners/Air Source Heat Pumps</strong></a><br /><br />
+			<a href="index.cfm?c=most_efficient.me_furnaces" class="tiny" style="text-decoration: none;"><strong>Furnaces</strong></a><br /><br />
+			<a href="index.cfm?c=most_efficient.me_geothermal_heat_pumps" class="tiny" style="text-decoration: none;"><strong>Geothermal Heat Pumps</strong></a><br /><br />
+		</p>
+	</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+	<td style="border-right: 1px solid silver; padding: 5px; text-align: center;"><img src="ia/products/most_efficient/images/ceiling_fan_thumb.png" alt="a clothes washer" /></td>
+	<td style="border-right: 1px solid silver; padding: 5px; text-align: center;"><img src="ia/products/most_efficient/images/vent_fan_thumb.png" alt="a refrigerator" /></td>
+	<td style="border-right: 1px solid silver; padding: 5px; text-align: center;"><img src="ia/products/most_efficient/images/comp_mon_thumb.png" alt="a television" /></td>
+	<td style="text-align: center;"><img src="ia/products/most_efficient/images/window_thumb.png" alt="an air conditioning unit" /></td>
+</tr>
+<tr>
+	<td style="text-align: center; width:180px;"><strong>Ceiling Fans</strong>
+	<p class="flt_r" style="text-align: left; padding:10px 50px 0 0;">
+	<a href="index.cfm?c=most_efficient.me_ceiling_fans_under_52_inches" class="tiny" style="text-decoration: none;"><strong>52 inches and under</strong></a><br /><br />
+	<a href="index.cfm?c=most_efficient.me_ceiling_fans_over_52_inches" class="tiny" style="text-decoration: none;"><strong>Over 52 inches</strong></a>
+	</p>
+	</td>
+	
+	<td style="text-align: center; width:190px;"><strong>Ventilating Fans</strong>
+	<p class="flt_r" style="text-align: left; padding:10px 90px 0 0;">
+	<a href="index.cfm?c=most_efficient.me_ventilating_fans_without_lighting" class="tiny" style="text-decoration: none;"><strong>Without Lighting</strong></a><br /><br />
+	<a href="index.cfm?c=most_efficient.me_ventilating_fans_with_lighting" class="tiny" style="text-decoration: none;"><strong>With Lighting</strong></a><br /><br />
+	</p>
+	</td>
+	
+	<td style="text-align: center; width:200px;"><strong>Computer Monitors</strong>
+	<p class="flt_r" style="text-align: left; padding-top:10px;">
+	<a href="index.cfm?c=most_efficient.me_comp_monitor_under_23_inches" class="tiny" style="text-decoration: none;"><strong>Under 20 inches&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></a><br /><br />
+	<a href="index.cfm?c=most_efficient.me_comp_monitor_20_to_23_inches" class="tiny" style="text-decoration: none;"><strong>20 to 23 inches</strong></a><br /><br />
+	<a href="index.cfm?c=most_efficient.me_comp_monitor_over_23_inches" class="tiny" style="text-decoration: none;"><strong>23+ inches</strong></a><br /><br />
+		</p>
+	</td>
+	
+	<td style="text-align: center; width:195px;"><strong>Windows</strong>
+		<p class="flt_r" style="text-align: left; padding:10px 15px 0px 10px;">
+			<a href="index.cfm?c=most_efficient.me_vertical" class="tiny" style="text-decoration: none;"><strong>Vertical Slider (Single- and Double-Hung)</strong></a><br /><br />
+			<a href="index.cfm?c=most_efficient.me_horizontal" class="tiny" style="text-decoration: none;"><strong>Horizontal Slider</strong></a><br /><br />
+			<a href="index.cfm?c=most_efficient.me_casement" class="tiny" style="text-decoration: none;"><strong>Casement Style (Awning, Projected, Hopper, Tilt-and-Turn, etc.)</strong></a><br /><br />
+			<a href="index.cfm?c=most_efficient.me_fixed" class="tiny" style="text-decoration: none;"><strong>Fixed or Picture</strong></a><br /><br />
+		</p>
+	</td>
+</tr>
+</table>
+
+
+</div>
+			</div>
+			
+		</div>
+	</div>
+			
+	<div id="footer" class="clearfix">
+		<div id="ftr_container" class="clearfix">
+	
+			<div id="ftr_products">
+				<h4><a href="index.cfm?fuseaction=find_a_product.">Energy Efficient <strong>Products</strong></a></h4>
+
+				<ul>
+					<li><a href="index.cfm?fuseaction=find_a_product.">Learn about ENERGY STAR Products</a></li>
+					<li><a href="index.cfm?c=products.pr_save_energy_at_home">Save Energy at Home</a></li>
+					<li><a href="index.cfm?fuseaction=globalwarming.showPledge">Take the Pledge</a></li>
+					<li><a href="http://www.epa.gov/climatechange/">Learn about Climate Change</a></li>
+				</ul>
+			</div>
+			<div id="ftr_homes">
+				<h4><a href="index.cfm?c=home_improvement.hm_improvement_index">Energy Savings <strong>At Home</strong></a></h4>
+
+				<ul>
+					<li><a href="index.cfm?fuseaction=HOME_ENERGY_YARDSTICK.showGetStarted">Home Assessment Tools</a></li>
+					<li><a href="index.cfm?c=home_improvement.hm_improvement_index">Home Improvement Resources</a></li>
+					<li><a href="index.cfm?c=home_sealing.hm_improvement_sealing">Seal and Insulate Your Home</a></li>
+					<li><a href="index.cfm?c=products.pr_find_es_products">Learn about ENERGY STAR Products</a></li>
+					<li><a href="index.cfm?fuseaction=hpwes_profiles.showSplash">Learn about Home Performance with ENERGY STAR</a></li>
+					<li><a href="index.cfm?c=products.pr_save_energy_at_home">Save Energy At Home</a></li>
+				</ul>
+			</div>
+			<div id="ftr_new_homes">
+				<h4><a href="index.cfm?c=new_homes.hm_index">Energy Efficient <strong>New Homes</strong></a></h4>
+
+				<ul>
+					<li><a href="index.cfm?fuseaction=new_homes_partners.locator">Find Builders and Incentives</a></li>
+					<li><a href="index.cfm?c=next_generation.ng_qualified_new_homes">Home Features and Benefits</a></li>
+					<li><a href="index.cfm?fuseaction=mil_homes.showSplash">Homeowner Testimonials</a></li>
+					<li><a href="index.cfm?c=bldrs_lenders_raters.pt_bldr">Resources for Partners</a></li>
+				</ul>
+			</div>
+			<div id="ftr_bp">
+				<h4><a href="index.cfm?c=business.bus_index">Energy Strategies for <strong>Buildings &amp; Plants</strong></a></h4>
+
+				<ul>
+					<li><a href="/buildings/facility-owners-and-managers">Facility Owners &amp; Managers</a></li>
+					<li><a href="/buildings/service-providers">Service Providers</a></li>
+					<li><a href="/buildings/program-administrators">Energy Efficiency Program Administrators</a></li>
+					<li><a href="/buildings/tools-and-resources">Tools &amp; Resources</a></li>
+					<li><a href="/buildings/training">Training</a>
+				</ul>
+			</div>
+			<div id="ftr_all">
+				<ul>
+					<li><a href="index.cfm?">ENERGY STAR Home</a></li>
+					<li><a href="index.cfm?c=home.resources_espanol">Recursos en Espa&ntilde;ol</a></li>
+					<li><a href="index.cfm?fuseaction=publications.showPublications">Publications</a></li>
+					<li><a href="index.cfm?c=contact.ct_index">Contact Us</a> | <a href="index.cfm?c=home.faqPassthrough">FAQs</a></li>
+					<li><a href="index.cfm?c=news.nr_news">Newsroom</a></li>
+					<li><a href="index.cfm?c=kids.kids_index">Kids</a></li>
+					<li><a href="index.cfm?c=home.privacy_policy">Privacy</a></li>
+				</ul>
+
+				<ul id="ftr_seals">
+					<li><a href="http://www.epa.gov/"><img src="images/home_page/ftr_epa_seal.png" width="68" height="68" alt=""><br>EPA Home</a></li>
+					<li><a href="http://energy.gov/"><img src="images/home_page/ftr_doe_seal.png" width="68" height="68" alt=""><br>DOE Home</a></li>
+				</ul>
+			</div>
+
+		</div>
+	</div>				
+
+		<script type="text/javascript">
+		(function(){
+			/** load jQuery if it isn't already & another library isn't using $ already **/
+			if(!window.jQuery && !window.$){document.write('<script type="text/javascript" src="lib/js/jquery/jquery.js"><\/script>');}
+		})();
+		</script>
+		
+		<script type="text/javascript" src="lib/js/jquery/plugins/noty/jquery.noty.js"></script>
+		<script type="text/javascript" src="lib/js/jquery/plugins/noty/layouts/top.js"></script>
+		<script type="text/javascript" src="lib/js/jquery/plugins/noty/themes/default.js"></script>
+		<script type="text/javascript" src="lib/js/ESTAR.js"></script>
+		
+		
+</body>
+</html> 

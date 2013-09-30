@@ -1,0 +1,803 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+ <meta name="keywords" content="HokieSpeed, supercomputer, Wu Feng, computer science, engineering" />
+ <meta name="description" content="More than a year ago, Virginia Tech announced the creation of HokieSpeed, a supercomputer so energy efficient that it was the highest-ranked commodity supercomputer in the U.S. on the Green500 List in 2011." />
+ <meta name="date" content = "Feb 12, 2013 12:00:00 AM"/>
+ <meta name="last-modified" content="Aug 7, 2013 12:10:43 PM"/>
+ <meta name="last-published" content="Sep 21, 2013 4:10:40 PM"/>
+ <meta name="prior-publish" content="Sep 14, 2013 2:30:16 PM"/>
+ <meta name="cms-ct" content="vtArticle"/>
+ <meta name="cms-id" content="333-212135-218456"/>
+ <meta name="generator" content="Ensemble: http://www.ensemble.cms.vt.edu/"/>
+ <title> Virginia Tech receives multi-million dollar award to accelerate research using supercomputers | Virginia Tech News | 
+Virginia Tech </title>
+
+ <link rel="image_src" href="http://www.vtnews.vt.edu/articles/2011/04/images/S_041811-engineering-wufeng.jpg" />
+ <link rel="thumbnail" content="http://www.vtnews.vt.edu/articles/2011/04/images/S_041811-engineering-wufeng.jpg" /> 
+ <script type="text/javascript" src="/global_assets/js/jquery-latest.min.js"></script>
+ <script type="text/javascript" src="/global_assets/js/plugins/vt_jquery_plugins.js"></script>
+ <link href="/global_assets/js/jquery-themes/theme-1/jquery-ui-theme-1.css" rel="stylesheet" type="text/css" />
+ <script type="text/javascript" src="/global_assets/js/quicklinks.js"></script>
+ <script type="text/javascript" src="/global_assets/js/vt_util_scripts.js"></script>
+ <link href="/global_assets/themes/theme1/js/jquery-themes/jquery-ui-theme-custom.css" rel="stylesheet" type="text/css" />
+ <script type="text/javascript" src="/global_assets/themes/theme1/js/vt_util_scripts.js"></script>
+ <link href="/global_assets/themes/theme1/css/vt_sp.css" rel="stylesheet" type="text/css" />
+ <!--[if IE 7]>
+    <link href="/global_assets/themes/theme1/css/ie7_vt_sp.css" rel="stylesheet" type="text/css" />
+ <![endif]-->
+ <!--[if lt IE 7]>
+    <link href="/global_assets/themes/theme1/css/ie6_vt_sp.css" rel="stylesheet" type="text/css" />
+ <![endif]-->
+ <script type="text/javascript" src="/global_assets/themes/theme1/js/theme1.js"></script>
+
+
+
+<link href="/global_assets/themes/theme1/css/vt_tp_rev.css" rel="stylesheet" type="text/css" />
+  <!--[if IE 7]>
+    <link href="/global_assets/themes/theme1/css/ie7_vt_tp_rev.css" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <!--[if lt IE 7]>
+    <link href="/global_assets/themes/theme1/css/ie6_vt_tp_rev.css" rel="stylesheet" type="text/css" />
+  <![endif]-->
+<link href="/global_assets/themes/theme1/css/vt_article.css" rel="stylesheet" type="text/css" />
+
+<link href="/global_assets/themes/theme1/css/theme1_afterPageStyles.css" rel="stylesheet" type="text/css" />
+<link href="/global_assets/themes/theme1/css/vt_sp_print.css" rel="stylesheet" type="text/css" media="print" />
+ <link rel="stylesheet" type="text/css" href="/local_assets/www.vtnews.vt.edu/modifyGlobalTemplate.css" />
+ <!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" href="/local_assets/www.vtnews.vt.edu/modifyGlobalTemplateIE7.css" />
+ <![endif]-->
+ <!--[if lt IE 7]>
+  <link rel="stylesheet" type="text/css" href="/local_assets/www.vtnews.vt.edu/modifyGlobalTemplateIE6.css" />
+ <![endif]-->
+ <script type="text/javascript" src="/local_assets/www.vtnews.vt.edu/modifyGlobalJS.js"></script>
+</head>
+<body id="vt_theme_1">
+<div id="vt-cid-218456" class="vt-fid-212135">
+<!-- main wrapper -->
+<div class="wrapper">
+  <!-- bg stuff -->
+  <div class="vt_top_bg">
+    <!-- accessbility skipnav -->
+    <div class="vt_skip">
+      <h1>Skip Menu</h1>
+      <a name="vt-skipto-menu"></a>
+      <ul>
+        <li><a href="#vt-skipto-nav">Skip to Navigation</a></li>
+        <li><a href="#vt-skipto-body">Skip to Main Content</a></li>
+      </ul>
+    </div>
+    <!-- end accessbility skipnav -->
+    <!-- drop shadow -->
+    <div class="vt_drop_shadow">
+      <!-- begin secondary page content body -->
+      <div id="vt_sp_body">
+        <!-- header area -->
+<div id="vt_header">
+    <a href="http://www.vt.edu/" title="Virginia Tech Home" id="vt_home_btn"></a>
+
+<div id="vt_header_unit">
+<div class="vt_vcenter">
+ <div class="vt_brief">
+<p><a href="/index.html">Virginia Tech News</a></p></div></div>
+</div>
+  
+  <script type="text/javascript">
+// <![CDATA[
+function assignURL()  {
+	for(i = 0; i < document.vtsearchform.url.length;i++) {
+	if (document.vtsearchform.url[ i ].checked ) document.vtsearchform.action =  document.vtsearchform.url[ i ].value;
+		document.vtsearchform.submit();
+	}
+}
+// ]]>
+</script>
+    <div id="vt_header_search" title="Search Box and Directory Links">
+		<form name="vtsearchform" method="post" action="http://search.vt.edu/query" onsubmit="assignURL()">
+		<fieldset>
+	   	<span>
+			<input class="vt_search_rb" id="search-people" name="url" value="http://search.vt.edu/people.jsp" onclick="document.vtsearchform.action=this.value" type="radio" />
+			<label for="search-people">People</label>
+			<input class="vt_search_rb" id="search-pages" name="url" value="http://search.vt.edu/query" checked="checked" onclick="document.vtsearchform.action=this.value" type="radio" /> 
+			<label for="search-pages">Pages</label>
+		</span>
+      <input id="vt_search_box" name="q" value="Search Virginia Tech" onclick="clearquery(this,'Search Virginia Tech');" maxlength="50" type="text" />
+	  <input name="sitesearch" value="vt.edu" type="hidden" />
+	  <input name="hl" value="en" type="hidden" />
+	  <input id="vt_go_button" name="sa" src="/global_assets/themes/optimized/images/go.gif" alt="Go" type="image" />
+        <span><a href="http://www.vt.edu/az_index/" id="a-to-z-index">
+				<img src="/global_assets/themes/optimized/images/bullet_white_right.gif" alt="Bullet" width="4" height="9" border="0" />A to Z Index</a> 
+				<a href="http://www.directory.unirel.vt.edu/" id="directory">
+				<img src="/global_assets/themes/optimized/images/bullet_white_right.gif" alt="Bullet" width="4" height="9" border="0" />Directory</a></span>
+     </fieldset>
+	</form>  
+	</div>  
+</div>
+        <!-- end header -->
+        <!-- begin main navigation -->
+        <div id="vt_main_nav">
+          <div class="vt_skip"> <a href="#vt-skipto-menu">Return to Skip Menu</a> <a name="vt-skipto-nav"></a>
+            <h2>Main Navigation</h2>
+          </div>
+          <!-- quicklinks -->
+          <div id="vt_quicklinks"> <a href="javascript:void(0);" id="vt_ql_link">Quicklinks</a>
+            <ul id="vt_ql_list" title="Quicklinks">
+              <li></li>
+            </ul>
+          </div>
+          <!-- quicklinks -->
+          <!-- start navigation list -->
+          <div id="horizontal_main_nav">
+
+<ul>
+  <li id="vt_nav_home">
+    <a href="/index.html" title="Virginia Tech News">Virginia Tech News</a>
+  </li>
+   <li>
+    <a class="vt_active" href="/articles/index.html" title="Articles">Articles</a>
+<div class="vt_subnav1_block">
+    <ul class="vt_subnav1">
+   <li>
+    <a href="/articles/2003/index.html" title="2003">2003</a>
+<div class="vt_subnav2_block">
+<ul class="vt_subnav2_inactive">
+   <li>
+    <a href="/articles/2003/01/index.html" title="January">January</a>
+   </li>
+   <li>
+    <a href="/articles/2003/02/index.html" title="February">February</a>
+   </li>
+   <li>
+    <a href="/articles/2003/03/index.html" title="March">March</a>
+   </li>
+   <li>
+    <a href="/articles/2003/04/index.html" title="April">April</a>
+   </li>
+   <li>
+    <a href="/articles/2003/05/index.html" title="May">May</a>
+   </li>
+   <li>
+    <a href="/articles/2003/06/index.html" title="June">June</a>
+   </li>
+   <li>
+    <a href="/articles/2003/07/index.html" title="July">July</a>
+   </li>
+   <li>
+    <a href="/articles/2003/08/index.html" title="August">August</a>
+   </li>
+   <li>
+    <a href="/articles/2003/09/index.html" title="September">September</a>
+   </li>
+   <li>
+    <a href="/articles/2003/10/index.html" title="October">October</a>
+   </li>
+   <li>
+    <a href="/articles/2003/11/index.html" title="November">November</a>
+   </li>
+   <li>
+    <a href="/articles/2003/12/index.html" title="December">December</a>
+   </li>
+    </ul>
+</div>
+   </li>
+   <li>
+    <a href="/articles/2004/index.html" title="2004">2004</a>
+<div class="vt_subnav2_block">
+<ul class="vt_subnav2_inactive">
+   <li>
+    <a href="/articles/2004/01/index.html" title="January">January</a>
+   </li>
+   <li>
+    <a href="/articles/2004/02/index.html" title="February">February</a>
+   </li>
+   <li>
+    <a href="/articles/2004/03/index.html" title="March">March</a>
+   </li>
+   <li>
+    <a href="/articles/2004/04/index.html" title="April">April</a>
+   </li>
+   <li>
+    <a href="/articles/2004/05/index.html" title="May">May</a>
+   </li>
+   <li>
+    <a href="/articles/2004/06/index.html" title="June">June</a>
+   </li>
+   <li>
+    <a href="/articles/2004/07/index.html" title="July">July</a>
+   </li>
+   <li>
+    <a href="/articles/2004/08/index.html" title="August">August</a>
+   </li>
+   <li>
+    <a href="/articles/2004/09/index.html" title="September">September</a>
+   </li>
+   <li>
+    <a href="/articles/2004/10/index.html" title="October">October</a>
+   </li>
+   <li>
+    <a href="/articles/2004/11/index.html" title="November">November</a>
+   </li>
+   <li>
+    <a href="/articles/2004/12/index.html" title="December">December</a>
+   </li>
+    </ul>
+</div>
+   </li>
+   <li>
+    <a href="/articles/2005/index.html" title="2005">2005</a>
+<div class="vt_subnav2_block">
+<ul class="vt_subnav2_inactive">
+   <li>
+    <a href="/articles/2005/01/index.html" title="January">January</a>
+   </li>
+   <li>
+    <a href="/articles/2005/02/index.html" title="February">February</a>
+   </li>
+   <li>
+    <a href="/articles/2005/03/index.html" title="March">March</a>
+   </li>
+   <li>
+    <a href="/articles/2005/04/index.html" title="April">April</a>
+   </li>
+   <li>
+    <a href="/articles/2005/05/index.html" title="May">May</a>
+   </li>
+   <li>
+    <a href="/articles/2005/06/index.html" title="June">June</a>
+   </li>
+   <li>
+    <a href="/articles/2005/07/index.html" title="July">July</a>
+   </li>
+   <li>
+    <a href="/articles/2005/08/index.html" title="August">August</a>
+   </li>
+   <li>
+    <a href="/articles/2005/09/index.html" title="September">September</a>
+   </li>
+   <li>
+    <a href="/articles/2005/10/index.html" title="October">October</a>
+   </li>
+   <li>
+    <a href="/articles/2005/11/index.html" title="November">November</a>
+   </li>
+   <li>
+    <a href="/articles/2005/12/index.html" title="December">December</a>
+   </li>
+    </ul>
+</div>
+   </li>
+   <li>
+    <a href="/articles/2006/index.html" title="2006">2006</a>
+<div class="vt_subnav2_block">
+<ul class="vt_subnav2_inactive">
+   <li>
+    <a href="/articles/2006/01/index.html" title="January">January</a>
+   </li>
+   <li>
+    <a href="/articles/2006/02/index.html" title="February">February</a>
+   </li>
+   <li>
+    <a href="/articles/2006/03/index.html" title="March">March</a>
+   </li>
+   <li>
+    <a href="/articles/2006/04/index.html" title="April">April</a>
+   </li>
+   <li>
+    <a href="/articles/2006/05/index.html" title="May">May</a>
+   </li>
+   <li>
+    <a href="/articles/2006/06/index.html" title="June">June</a>
+   </li>
+   <li>
+    <a href="/articles/2006/07/index.html" title="July">July</a>
+   </li>
+   <li>
+    <a href="/articles/2006/08/index.html" title="August">August</a>
+   </li>
+   <li>
+    <a href="/articles/2006/09/index.html" title="September">September</a>
+   </li>
+   <li>
+    <a href="/articles/2006/10/index.html" title="October">October</a>
+   </li>
+   <li>
+    <a href="/articles/2006/11/index.html" title="November">November</a>
+   </li>
+   <li>
+    <a href="/articles/2006/12/index.html" title="December">December</a>
+   </li>
+    </ul>
+</div>
+   </li>
+   <li>
+    <a href="/articles/2007/index.html" title="2007">2007</a>
+<div class="vt_subnav2_block">
+<ul class="vt_subnav2_inactive">
+   <li>
+    <a href="/articles/2007/01/index.html" title="January">January</a>
+   </li>
+   <li>
+    <a href="/articles/2007/02/index.html" title="February">February</a>
+   </li>
+   <li>
+    <a href="/articles/2007/03/index.html" title="March">March</a>
+   </li>
+   <li>
+    <a href="/articles/2007/04/index.html" title="April">April</a>
+   </li>
+   <li>
+    <a href="/articles/2007/05/index.html" title="May">May</a>
+   </li>
+   <li>
+    <a href="/articles/2007/06/index.html" title="June">June</a>
+   </li>
+   <li>
+    <a href="/articles/2007/07/index.html" title="July">July</a>
+   </li>
+   <li>
+    <a href="/articles/2007/08/index.html" title="August">August</a>
+   </li>
+   <li>
+    <a href="/articles/2007/09/index.html" title="September">September</a>
+   </li>
+   <li>
+    <a href="/articles/2007/10/index.html" title="October">October</a>
+   </li>
+   <li>
+    <a href="/articles/2007/11/index.html" title="November">November</a>
+   </li>
+   <li>
+    <a href="/articles/2007/12/index.html" title="December">December</a>
+   </li>
+    </ul>
+</div>
+   </li>
+   <li>
+    <a href="/articles/2008/index.html" title="2008">2008</a>
+<div class="vt_subnav2_block">
+<ul class="vt_subnav2_inactive">
+   <li>
+    <a href="/articles/2008/01/index.html" title="January">January</a>
+   </li>
+   <li>
+    <a href="/articles/2008/02/index.html" title="February">February</a>
+   </li>
+   <li>
+    <a href="/articles/2008/03/index.html" title="March">March</a>
+   </li>
+   <li>
+    <a href="/articles/2008/04/index.html" title="April">April</a>
+   </li>
+   <li>
+    <a href="/articles/2008/05/index.html" title="May">May</a>
+   </li>
+   <li>
+    <a href="/articles/2008/06/index.html" title="June">June</a>
+   </li>
+   <li>
+    <a href="/articles/2008/07/index.html" title="July">July</a>
+   </li>
+   <li>
+    <a href="/articles/2008/08/index.html" title="August">August</a>
+   </li>
+   <li>
+    <a href="/articles/2008/09/index.html" title="September">September</a>
+   </li>
+   <li>
+    <a href="/articles/2008/10/index.html" title="October">October</a>
+   </li>
+   <li>
+    <a href="/articles/2008/11/index.html" title="November">November</a>
+   </li>
+   <li>
+    <a href="/articles/2008/12/index.html" title="December">December</a>
+   </li>
+    </ul>
+</div>
+   </li>
+   <li>
+    <a href="/articles/2009/index.html" title="2009">2009</a>
+<div class="vt_subnav2_block">
+<ul class="vt_subnav2_inactive">
+   <li>
+    <a href="/articles/2009/01/index.html" title="January">January</a>
+   </li>
+   <li>
+    <a href="/articles/2009/02/index.html" title="February">February</a>
+   </li>
+   <li>
+    <a href="/articles/2009/03/index.html" title="March">March</a>
+   </li>
+   <li>
+    <a href="/articles/2009/04/index.html" title="April">April</a>
+   </li>
+   <li>
+    <a href="/articles/2009/05/index.html" title="May">May</a>
+   </li>
+   <li>
+    <a href="/articles/2009/06/index.html" title="June">June</a>
+   </li>
+   <li>
+    <a href="/articles/2009/07/index.html" title="July">July</a>
+   </li>
+   <li>
+    <a href="/articles/2009/08/index.html" title="August">August</a>
+   </li>
+   <li>
+    <a href="/articles/2009/09/index.html" title="September">September</a>
+   </li>
+   <li>
+    <a href="/articles/2009/10/index.html" title="October">October</a>
+   </li>
+   <li>
+    <a href="/articles/2009/11/index.html" title="November">November</a>
+   </li>
+   <li>
+    <a href="/articles/2009/12/index.html" title="December">December</a>
+   </li>
+    </ul>
+</div>
+   </li>
+   <li>
+    <a href="/articles/2010/index.html" title="2010">2010</a>
+<div class="vt_subnav2_block">
+<ul class="vt_subnav2_inactive">
+   <li>
+    <a href="/articles/2010/01/index.html" title="January">January</a>
+   </li>
+   <li>
+    <a href="/articles/2010/02/index.html" title="February">February</a>
+   </li>
+   <li>
+    <a href="/articles/2010/03/index.html" title="March">March</a>
+   </li>
+   <li>
+    <a href="/articles/2010/04/index.html" title="April">April</a>
+   </li>
+   <li>
+    <a href="/articles/2010/05/index.html" title="May">May</a>
+   </li>
+   <li>
+    <a href="/articles/2010/06/index.html" title="June">June</a>
+   </li>
+   <li>
+    <a href="/articles/2010/07/index.html" title="July">July</a>
+   </li>
+   <li>
+    <a href="/articles/2010/08/index.html" title="August">August</a>
+   </li>
+   <li>
+    <a href="/articles/2010/09/index.html" title="September">September</a>
+   </li>
+   <li>
+    <a href="/articles/2010/10/index.html" title="October">October</a>
+   </li>
+   <li>
+    <a href="/articles/2010/11/index.html" title="November">November</a>
+   </li>
+   <li>
+    <a href="/articles/2010/12/index.html" title="December">December</a>
+   </li>
+    </ul>
+</div>
+   </li>
+   <li>
+    <a href="/articles/2011/index.html" title="2011">2011</a>
+<div class="vt_subnav2_block">
+<ul class="vt_subnav2_inactive">
+   <li>
+    <a href="/articles/2011/01/index.html" title="January">January</a>
+   </li>
+   <li>
+    <a href="/articles/2011/02/index.html" title="February">February</a>
+   </li>
+   <li>
+    <a href="/articles/2011/03/index.html" title="March">March</a>
+   </li>
+   <li>
+    <a href="/articles/2011/04/index.html" title="April">April</a>
+   </li>
+   <li>
+    <a href="/articles/2011/05/index.html" title="May">May</a>
+   </li>
+   <li>
+    <a href="/articles/2011/06/index.html" title="June">June</a>
+   </li>
+   <li>
+    <a href="/articles/2011/07/index.html" title="July">July</a>
+   </li>
+   <li>
+    <a href="/articles/2011/08/index.html" title="August">August</a>
+   </li>
+   <li>
+    <a href="/articles/2011/09/index.html" title="September">September</a>
+   </li>
+   <li>
+    <a href="/articles/2011/10/index.html" title="October">October</a>
+   </li>
+   <li>
+    <a href="/articles/2011/11/index.html" title="November">November</a>
+   </li>
+   <li>
+    <a href="/articles/2011/12/index.html" title="December">December</a>
+   </li>
+    </ul>
+</div>
+   </li>
+   <li>
+    <a href="/articles/2012/index.html" title="2012">2012</a>
+<div class="vt_subnav2_block">
+<ul class="vt_subnav2_inactive">
+   <li>
+    <a href="/articles/2012/01/index.html" title="January">January</a>
+   </li>
+   <li>
+    <a href="/articles/2012/02/index.html" title="February">February</a>
+   </li>
+   <li>
+    <a href="/articles/2012/03/index.html" title="March">March</a>
+   </li>
+   <li>
+    <a href="/articles/2012/04/index.html" title="April">April</a>
+   </li>
+   <li>
+    <a href="/articles/2012/05/index.html" title="May">May</a>
+   </li>
+   <li>
+    <a href="/articles/2012/06/index.html" title="June">June</a>
+   </li>
+   <li>
+    <a href="/articles/2012/07/index.html" title="July">July</a>
+   </li>
+   <li>
+    <a href="/articles/2012/08/index.html" title="August">August</a>
+   </li>
+   <li>
+    <a href="/articles/2012/09/index.html" title="September">September</a>
+   </li>
+   <li>
+    <a href="/articles/2012/10/index.html" title="October">October</a>
+   </li>
+   <li>
+    <a href="/articles/2012/11/index.html" title="November">November</a>
+   </li>
+   <li>
+    <a href="/articles/2012/12/index.html" title="December">December</a>
+   </li>
+    </ul>
+</div>
+   </li>
+   <li>
+    <a class="vt_active1" href="/articles/2013/index.html" title="2013">2013</a>
+<div class="vt_subnav2_block">
+    <ul class="vt_subnav2">
+   <li>
+    <a href="/articles/2013/01/index.html" title="January">January</a>
+   </li>
+   <li>
+    <a class="vt_active2" href="/articles/2013/02/index.html" title="February">February</a>
+   </li>
+   <li>
+    <a href="/articles/2013/03/index.html" title="March">March</a>
+   </li>
+   <li>
+    <a href="/articles/2013/04/index.html" title="April">April</a>
+   </li>
+   <li>
+    <a href="/articles/2013/05/index.html" title="May">May</a>
+   </li>
+   <li>
+    <a href="/articles/2013/06/index.html" title="June">June</a>
+   </li>
+   <li>
+    <a href="/articles/2013/07/index.html" title="July">July</a>
+   </li>
+   <li>
+    <a href="/articles/2013/08/index.html" title="August">August</a>
+   </li>
+   <li>
+    <a href="/articles/2013/09/index.html" title="September">September</a>
+   </li>
+    </ul>
+</div>
+   </li>
+   <li>
+  <a href="/feeds/index.html" title="News Feeds">News Feeds</a>
+   </li>
+    </ul>
+</div>
+   </li>
+   <li>
+    <a href="/notices/index.html" title="Campus Notices">Campus Notices</a>
+   </li>
+   <li>
+    <a href="/photo-galleries/index.html" title="Photos">Photos</a>
+   </li>
+   <li>
+    <a href="/webcams/index.html" title="Webcams">Webcams</a>
+   </li>
+   <li>
+    <a href="/for-media/index.html" title="Media">Media</a>
+   </li>
+   <li>
+<span>
+<a href="http://www.vtnews.vt.edu/contact/vtnews-contacts.html" title="Contacts"  class="vt_link_url"  onclick="pageTracker._trackPageview('http://www.vtnews.vt.edu/contact/vtnews-contacts.html')">Contacts</a>
+</span>   </li>
+   <li>
+  <a href="http://www.unirel.vt.edu/index.html" title="University Relations">University Relations</a>
+   </li>
+</ul>
+          </div>
+          <!-- end navigation list-->
+        </div>
+        <!-- end main navigation -->
+        <!-- accessibility skip in-page anchor -->
+        <div class="vt_skip"> <a href="#vt-skipto-menu">Return to Skip Menu</a> <a name="vt-skipto-body"></a>
+          <h2>Main Content</h2>
+        </div>
+      <div id="vt_article">
+<div id="vt_with_rb">
+
+
+
+
+		<div id="vt_body_col" class="col-lg-6">
+<div id="vt_pr_top">
+  <h2 class="vt_pr_storytitle">Virginia Tech receives multi-million dollar award to accelerate research using supercomputers</h2>
+ <hr />         
+</div>
+<div id="vt_pr_content">
+	
+<div id="vt_pr_actions_row">
+        <div class="vt_share_item" id="vt_pr_share">
+        <div class="addthis_toolbox addthis_default_style"> 
+            <a href="http://addthis.com/bookmark.php?v=250&amp;pub=vtnews" class="addthis_button_compact">Share</a> 
+        </div> 
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=vtnews"></script> 
+    </div>
+    <div class="vt_print_pdf" id="vt_pr_print_pdf">
+		<a href="/global_assets/php/widgets/print-to-pdf/printme.php?url=aHR0cDovL3d3dy52dG5ld3MudnQuZWR1L2FydGljbGVzLzIwMTMvMDIvMDIxMjEzLWVuZ2luZWVyaW5nLWF3YXJkcmVzZWFyY2hzdXBlcmNvbXB1dGVycy5odG1s&ct=vtArticle&type=print">Printer-Friendly PDF</a>
+	</div>
+</div>
+
+<div id="vt_pr_content_body"><div id="vt_pr_storyimage">
+<div class="vt_img_caption_center vt_medium_img">
+    <span class="top">&nbsp;</span>
+    <span class="bottom">&nbsp;</span>
+    <p  style="width:250px">
+    	<img src="/articles/2011/04/images/M_041811-engineering-wufeng.jpg" alt="Wu Feng" height="311px" width="240px" />
+    	<span  style="width:235px">Wu Feng
+</span>    </p>
+</div>
+</div><p> <span id="vt_pr_dateline">BLACKSBURG, Va., Feb. 12, 2013 &#8211 </span> More than a year ago, Virginia Tech announced the creation of HokieSpeed, a supercomputer so energy efficient that it was the highest-ranked commodity supercomputer in the U.S. on the <a href="http://www.green500.org/" target="_blank">Green500</a> List in 2011.  </p><p>The Green500 compiles a ranking of the most energy-efficient supercomputers in the world, akin to ranking the most fuel-efficient vehicles in the auto industry.</p><p><a href="http://www.cs.vt.edu/~feng/">Wu Feng</a>, associate professor of computer science in the <a href="http://www.eng.vt.edu/">College of Engineering</a> at Virginia Tech, designed and built <a href="http://www.unirel.vt.edu/audio_video/2011/12/122011-hokiespeed.html">HokieSpeed</a>, with a National Science Foundation instrumentation grant for a modest $1.4 million in the supercomputing financial world. By contrast, Feng's price tag represented only one-tenth of a percent of the cost of the 2011 Top500's No. 1 supercomputer, the K Computer from Japan.</p><p>Feng believes he and his team can do even better. So does the Air Force's Office of Scientific Research (AFOSR).</p><p>The AFOSR has awarded Feng, formerly of Los Alamos National Laboratory where he designed Green Destiny, a highly energy-efficient, 240-node supercomputer that consumed 3.2 kilowatts of power (equivalent to two hairdryers) and occupied five square feet in 2004 -- a core award of $3.5 million over the first three years of the contract with the option for a two-year extension at another $2.5 million, or a total of $6 million over five years to pursue a large-scale interdisciplinary effort.</p><p>The goal of the Air Force contract is to achieve a substantial increase in the simulation speed of computational fluid dynamics of its micro air vehicles (MAVs), a class of unmanned aerial vehicles, using accelerator-based supercomputers like HokieSpeed.</p><p>To achieve this target, Feng said his objective is to herald a new age in multi- and many-core parallel computing that he believes will "transform supercomputing."</p><p>The key to Feng's approach is to couple innovative advances in algorithms and mathematics with engineering progress in the co-design of hardware and software in supercomputing.</p><p>He has pulled together an internationally recognized team of researchers from Virginia Tech and North Carolina State University into the effort. They represent aerospace and mechanical engineers, in addition to his home department of computer science, as well as mathematicians.</p><p>From Virginia Tech, the engineering members of the interdisciplinary team include: <a href="http://www.aoe.vt.edu/people/faculty/cjroy.html">Christopher Roy</a>, associate professor of aerospace and ocean engineering; <a href="http://www.cs.vt.edu/user/sandu">Adrian Sandu</a>, professor of computer science; and <a href="http://www.me.vt.edu/_bios/_primary/tafti_bio.html">Danesh Tafti</a>, professor of mechanical engineering. <a href="http://www.math.vt.edu/people.php?type=Faculty&amp;pid=sturler,">Eric de Sturler</a>, professor of mathematics in the <a href="http://www.science.vt.edu/">College of Science</a> at Virginia Tech, is also a member of the team.</p><p>From North Carolina State University, Hong Luo and Jack Edwards, both of mechanical and aerospace engineering, and Frank Mueller of computer science, will also be working on this research project.</p><p>In computing, Moore's Law observes that the number of transistors on integrated circuits doubles approximately every two years. This prediction made in 1965 by Intel co-founder Gordon E. Moore, has proved accurate for almost half a century and guides long-term planning in the semiconductor industry and has correlated to substantial performance gains every two years as well.</p><p>"But much of the realizable performance remains untapped" as many domain scientists and engineers are still learning how to "fully exploit parallel hardware and co-design software for performance gains," Feng explained. "Furthermore, coupling hardware-software co-design with advances in algorithmic innovation offers the promise of multiplicative speed-ups."</p><p>Feng has already achieved significant speed-up in recent supercomputing research, leveraging a co-design approach with hardware, software, and algorithms for problems in bioinformatics, biophysics, neuroscience, and seismology.</p><p>Feng's new interdisciplinary team plans to develop computational fluid dynamic (CFD) codes and a supporting hardware-software ecosystem for the simulation of micro air vehicles (MAVs). Based on his earlier work, Feng said the Virginia Tech research team should be able to "achieve substantial speed-up over current simulations and provide significantly better utilization of the underlying and co-designed hardware-software of a supercomputer."</p><p>The micro air vehicle (MAV) can be as small as about five inches with an aircraft close to insect size expected in the near future. In addition to having numerous military applications, these tiny robotic instruments are useful in hazardous conditions such as collapsed buildings or in nuclear power plants.</p><p>The team's efforts should support the aerodynamic predictions for these increasingly tiny vehicles.</p><div class="vt_brief">
+<p>Dedicated to its motto, <i>Ut Prosim</i> (That I May Serve), <a href="http://www.vt.edu" shape="rect">Virginia Tech</a> takes a hands-on, engaging approach to education, preparing scholars to be leaders in their fields and communities. As the commonwealth’s most comprehensive university and its leading research institution, Virginia Tech offers 215 undergraduate and graduate degree programs to more than 30,000 students and manages a research portfolio of $450 million. The university fulfills its land-grant mission of transforming knowledge to practice through technological leadership and by fueling economic growth and job creation locally, regionally, and across Virginia.</p></div>
+</div>
+<hr/>
+<div id="vt_pr_contact_info">
+<div>
+<ul class="vt_bio_contact_info">
+    <li class="vt_cl_name"><a href="/articles/media-contact/nystrom-lynn-a-res.html" title="Lynn A Nystrom" >Lynn A Nystrom</a></li>
+  <li class="vt_cl_biotitle">Director, News &amp; External Relations</li>
+    <li class="vt_icon_phone"><span class="vt_icon_phone"> </span>540-231-4371</li>
+ <li class="vt_cl_email"><span class="vt_icon_email"> </span><a href="mailto:tansy@vt.edu">tansy@vt.edu</a></li>
+</ul>
+</div>
+</div><div id="vt_pr_related_links"><h2 class="vt_rl_title">Related Links</h2><ul><li>
+<span><a href="/articles/2012/01/010512-engineering-hokiespeed.html" title="Virginia Tech unveils HokieSpeed, a powerful new supercomputer for the masses">Virginia Tech unveils HokieSpeed, a powerful new supercomputer for the masses</a></span>  </li><li>
+<span><a href="/articles/2011/12/120611-engineering-green500.html" title="Green500 shows continuing trend toward environmentally friendly supercomputers">Green500 shows continuing trend toward environmentally friendly supercomputers</a></span>  </li></ul></div></div>
+</div>
+<div id="vt_right_col" class="col-lg-3">
+
+<div class="vt_brief">
+<h2>Read Virginia Tech Research online</h2>
+<div class="vt_img_left vt_large_img">
+	<span class="top"> </span>
+    <span class="bottom"> </span>
+    <img src="/articles/2012/09/images/L_091012-research-summer12cover.jpg" alt="Summer 2012 Research Magazine" height="249px" width="185px" />
+</div><a href="http://www.research.vt.edu/resmag/">The summer 2012 edition of Virginia Tech Research magazine is online.</a></div>
+  <hr class="vt_rb_break" /><div id="vt_location_list"><h2>Article from</h2><ul><li>
+<span>
+<a href="/articles/location/blacksburg-va-res.html" title="Blacksburg, Va.">
+Blacksburg, Va.</a>
+</span>
+  </li></ul></div><hr class="vt_rb_break" /><div id="vt_tag_list"><h2>Tags</h2><ul><li>
+<span><a href="/feeds/engineering.html" title="College of Engineering">College of Engineering</a></span>  </li><li>
+<span><a href="/feeds/science.html" title="College of Science">College of Science</a></span>  </li><li>
+<span><a href="/feeds/research.html" title="Research">Research</a></span>  </li></ul></div></div>
+
+</div>
+</div><!-- start the right column region -->
+
+<div id="vt_nav_col" class="small_col">
+<div class="vt_brief">
+<div id="vt_promo_podcast"><h2><a href="http://www.podcasts.vt.edu/">Podcasts</a></h2><ul><li><a href="http://www.podcasts.vt.edu/">Work+Life</a></li><li><a href="http://www.podcasts.vt.edu/techtouch/">A Touch of Tech</a></li><li><a href="http://www.podcasts.vt.edu/hokiecast.xml.php">HokieCast</a></li></ul><p> </p></div><div id="vt_promo_email"><h2><a href="/email/sign-up.html">Email News</a></h2><p><a href="/email/sign-up.html">Sign up to receive daily email news from Virginia Tech</a></p></div><p><a href="http://www.vtnews.vt.edu/email/sign-up.html" id="newsletter_floater"> </a></p><div id="vt_promo_photo"><div class="vt_brief">
+<h2><a href="/photo-galleries/2012/122012-campus/campus-gallery.html" shape="rect">Photo: Around campus</a><a href="/photo-galleries/2013/091213-dsa-gobblerfest/gobblerfest-gallery.html" shape="rect"></a></h2><div class="vt_linked_image">
+
+<div class="vt_img_center vt_small_img"> 
+    <span class="top"> </span>
+    <span class="bottom"> </span>
+   	
+  <a href="/photo-galleries/2012/122012-campus/campus-gallery.html" title="Fall at the pylons" class="vt_link_url" shape="rect"><img src="/photo-galleries/2012/122012-campus/S_campus-16.jpg" alt="Fall at the pylons" height="123px" width="185px" /></a>
+
+</div>
+
+</div></div></div><div id="vt_promo_video"><div class="vt_brief">
+<h2><a href="http://www.unirel.vt.edu/audio_video/2013/08/082213-caus-designbuild.html" shape="rect">Video: Building a bridge</a></h2><div class="vt_linked_image">
+
+<div class="vt_img_center vt_small_img"> 
+    <span class="top"> </span>
+    <span class="bottom"> </span>
+   	
+  <a href="http://www.unirel.vt.edu/audio_video/2013/08/082213-caus-designbuild.html" title="bridge built by students" class="vt_link_url" shape="rect"><img src="http://www.unirel.vt.edu/audio_video/2013/08/S_082213-caus-designbuild-image.jpg" alt="bridge built by students" height="121px" width="185px" /></a>
+
+</div>
+
+</div><h2><a href="http://www.unirel.vt.edu/audio_video/2013/09/091013-cnre-biomass.html" shape="rect"></a></h2></div></div><div class="vt_brief vt_fp_promo_icons vt_linked_image vt_img_left vt_large_img"><div class="vt_linked_image">
+
+<div class="vt_img_left vt_large_img">
+	<span class="top"> </span>
+    <span class="bottom"> </span>
+    
+  <a href="http://www.alerts.vt.edu/desktop/alerts-desktop.html" title="Download VT Desktop Alerts" class="vt_link_url" shape="rect"><img src="http://www.vt.edu/icon_promos/L_2009-08-vt-desktop.jpg" alt="Download VT Desktop Alerts" height="131px" width="199px" /></a>
+
+</div>
+	
+</div></div><hr class="vt_rb_break" /><div class="vt_brief">
+	<h2 class="vt_rb_title"><a href="/webcams/burruss.html" title="Webcam: Burruss Hall" shape="rect">Webcam: Burruss Hall</a></h2>
+<div class="vt_rb_content"><div class="vt_linked_image">
+
+<div class="vt_img_left vt_large_img">
+	<span class="top"> </span>
+    <span class="bottom"> </span>
+    
+  <a href="/webcams/burruss.html" title="Burruss Hall webcam" class="vt_link_url" shape="rect"><img src="/webcams/L_burruss-teaser.jpg" alt="Burruss Hall webcam" height="128px" width="185px" /></a>
+
+</div>
+	
+</div> </div></div><hr class="vt_rb_break" /><div><div>
+<div id="widget_content80941"> </div>
+<script language="javascript" type="text/javascript" src="/global_assets/php/widgets/widget.php?did=80941&amp;appid=2&amp;type=vtcalendar&amp;title=Event Calendar&amp;cl=aHR0cDovL3d3dy5jYWxlbmRhci52dC5lZHUvbWFpbi5waHA/dmlldz1kYXkmYW1wO2NhbGVuZGFyPWRlZmF1bHQ=&amp;it=1&amp;ni=5&amp;sd=none&amp;ct=60&amp;desc=1&amp;limit_desc=45&amp;st=t2&amp;style=list&amp;displayTitle=true&amp;url=ZGVmYXVsdA==" defer="defer" xml:space="preserve"> </script>
+<noscript>
+<h2>Event Calendar</h2>
+<p>
+<a href="http://calendar.vt.edu/index.php?calendar=default" shape="rect">http://calendar.vt.edu/index.php?calendar=default</a>
+</p>
+</noscript>
+</div></div></div>
+</div>
+  <!-- end right col -->
+        <!-- bottom border fix -->
+        <div id="vt_body_bottom_border"></div>
+        <!-- end bottom border fix -->
+      </div>
+      <!-- end vt_sp_body -->
+    </div>
+    <!-- end drop shadow -->
+  </div>
+  <!-- end bg stuff -->
+</div>
+<!-- end wrapper -->
+<!-- start the footer region with a footer bg image that goes 100% width -->
+<div id="vt_footer_bg">
+
+<div id="vt_footer">
+</div>
+<div id="vt_copyright"><p>© 2013 Virginia Polytechnic Institute and State University</p></div>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-846989-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</div>
+<!-- end footer bg -->
+</div>
+</body>
+</html>

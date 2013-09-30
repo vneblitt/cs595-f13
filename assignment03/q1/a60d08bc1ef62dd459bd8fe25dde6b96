@@ -1,0 +1,1125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta name="google-site-verification" content="zeQzGNZ05D__6N0dYzXJeCdRTguWM8LOJHVaBxMUSEU" />
+	<meta http-equiv="X-UA-Compatible" content="IE=9" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="keywords" content="journalists, reporters, editors, journalism educators,crime, law, prisons, sex crimes, harvard"/>
+  
+  <meta name="author" content="Journalist&#039;s Resource" />
+  <meta name="generator" content="WordPress 3.6.1" />
+  <meta name="description" content="2013 study published in American Law and Economics Review on the effectiveness and operational mechanisms of community prosecution approaches." />  <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Do “community prosecution” strategies work? Chicago’s experience, and the quest to reduce crime and incarceration rates Journalist&#039;s Resource: Research for Reporting, from Harvard Shorenstein Center</title>
+  <link rel="alternate" type="application/rss+xml" title="Journalist&#039;s Resource RSS Feed" href="http://feeds.feedburner.com/journalistsresource" />
+  <link rel="stylesheet" href="http://journalistsresource.org/wp-content/themes/JournalistResource/css/style.css?d=121912a" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="http://journalistsresource.org/wp-content/themes/JournalistResource/css/print.css?d=122112a" type="text/css" media="print" />
+  <link rel="pingback" href="http://journalistsresource.org/xmlrpc.php" />
+  <link rel="shortcut icon" href="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/favicon.png" />
+ 	<!--[if IE 9]>
+        <link rel="stylesheet" href="http://journalistsresource.org/wp-content/themes/JournalistResource/css/ie-style.css?d=112612c" type="text/css" media="screen" />
+    <![endif]--> 
+ 	<!--[if IE 8]>
+ 		<link rel="stylesheet" type="text/css" href="http://journalistsresource.org/wp-content/themes/JournalistResource/css/ie-style.css?d=112612c"/>
+ 	<![endif]-->
+ 	<!--[if lt IE 8]>
+ 		<link rel="stylesheet" type="text/css" href="http://journalistsresource.org/wp-content/themes/JournalistResource/css/ie7-style.css?d=112612c"/>
+ 	<![endif]-->
+
+  <style type='text/css'>
+		.stpulldown-gradient
+		{
+			background: #E1E1E1;
+			background: -moz-linear-gradient(top, #E1E1E1 0%, #A7A7A7 100%); /* firefox */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#E1E1E1), color-stop(100%,#A7A7A7)); /* webkit */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E1E1E1', endColorstr='#A7A7A7',GradientType=0 ); /* ie */
+			background: -o-linear-gradient(top, #E1E1E1 0%,#A7A7A7 100%); /* opera */
+			color: #636363;
+		}
+		#stpulldown .stpulldown-logo
+		{
+			height: 40px;
+			width: 300px;
+			margin-left: 20px;
+			margin-top: 5px;
+			background:url('') no-repeat;
+		}
+</style>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.18 - http://yoast.com/wordpress/seo/ -->
+<link rel="original-source" href="" />
+<meta name="description" content="2013 study published in American Law and Economics Review on the effectiveness and operational mechanisms of community prosecution approaches."/>
+<meta name="keywords" content=",crime, law, prisons, sex crimes,Criminal Justice, Municipal"/>
+<link rel="canonical" href="http://journalistsresource.org/studies/government/criminal-justice/community-prosecution-strategy-crime-reduction-chicago" />
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Do “community prosecution” strategies work? Chicago’s experience, and the quest to reduce crime and incarceration rates"/>
+<meta property="og:description" content="2013 study published in American Law and Economics Review on the effectiveness and operational mechanisms of community prosecution approaches."/>
+<meta property="og:url" content="http://journalistsresource.org/studies/government/criminal-justice/community-prosecution-strategy-crime-reduction-chicago"/>
+<meta property="og:site_name" content="Journalist&#039;s Resource"/>
+<meta property="og:image" content="http://journalistsresource.org/wp-content/uploads/2013/09/eric-holder_Wikipedia1.jpg"/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.3 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-5985794-2']);
+				            _gaq.push(['_setCustomVar',1,'author','leighton-walter-kille',3],['_setCustomVar',2,'tags','crime law prisons sex-crimes',3],['_setCustomVar',3,'categories','criminal-justice municipal',3],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel="alternate" type="application/rss+xml" title="Journalist&#039;s Resource &raquo; Do “community prosecution” strategies work? Chicago’s experience, and the quest to reduce crime and incarceration rates Comments Feed" href="http://journalistsresource.org/studies/government/criminal-justice/community-prosecution-strategy-crime-reduction-chicago/feed" />
+<script type='text/javascript' src='http://journalistsresource.org/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://journalistsresource.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://journalistsresource.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://journalistsresource.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1, fitted with the WordPress Mobile Pack 1.2.5" />
+<link rel='shortlink' href='http://journalistsresource.org/?p=33719' />
+		<style type="text/css" media="all">
+					ol.ajs-fn {
+				list-style-type: decimal;
+				font-size: 0.7em;
+				color: #666666			}
+					div.ajs-footnote-popup {
+				padding-top:-7px;
+			}
+			div.ajs-footnote-popup div {
+				color: #000000;
+				background-color: #f8f8f8;
+				width: 20em;
+				padding: 0.5em 1em 0.5em 1em;				border: 1px #888888 solid;
+				box-shadow: 0.3em 0.3em 0.3em 0px #ebebeb;
+				border-radius: 4px 4px 4px 4px;
+			}
+			.ajs-footnote {line-height:1; display:inline-block;}
+			.ajs-footnote a {display:block; width:100%;}
+				</style>
+		<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.2b344792-53c9-41cd-9a93-dbd24f862877'});var st_type='wordpress3.5';</script><script type="text/javascript">
+   stLight.options({
+      publisher:'b8a24e9b-84db-4fe8-8950-ea6f0e28e2fa',
+      onhover: false
+   });
+</script>
+
+<meta property="og:title" content="Do “community prosecution” strategies work? Chicago’s experience, and the quest to reduce crime and incarceration rates" />
+<meta property="og:url" content="http://journalistsresource.org/studies/government/criminal-justice/community-prosecution-strategy-crime-reduction-chicago" />
+<meta property="og:site_name" content="Journalist&#039;s Resource" />
+<meta property="og:description" content="2013 study published in American Law and Economics Review on the effectiveness and operational mechanisms of community prosecution approaches." />
+<meta property="fb:app_id" content="APP ID HERE">
+<meta property="fb:admins" content="YOUR FB USER ID (OR USERNAME) HERE"/>
+<meta property="og:image" content="http://journalistsresource.org/wp-content/uploads/2013/09/eric-holder_Wikipedia1.jpg"/>
+</head>
+<body class="sub non-page studies-category">
+  <a name="PageTop" id="PageTop"></a>
+
+  <div id="top-border"></div>
+  <div id="pagewrapper">
+    <div id="header">
+      <div class="logos">
+        <a href="http://journalistsresource.org" title="Journalist&#039;s Resource" id="site-logo">
+        	<img src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/logo-jr-subtitle-new.png" alt="Journalist&#039;s Resource Logo" />
+        </a>
+        
+        <div class="funding">
+        <a href="http://shorensteincenter.org/" class="support-logo" ><img src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/hks-shorenstein-logo.jpg" alt="Shorenstein Logo" width="220" /></a>
+        <a href="http://journalistsresource.org/about/carnegie-knight-initiative" class="support-logo" ><img src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/carnegie-knight.jpg" alt="Carnegie and Knight Foundation Logos" width="96" /></a>
+        </div><!-- end funding class -->
+        
+      </div><!-- end logos class -->
+      
+      <div id="nav-menu-container">
+        <!-- Must have RIGHT Navigation manual for the megadrop -->
+        <ul id="menu-header-navigation-right" class="menu new-menu">
+     	    <li id="search" class="menu-item"><!-- Time for the MEGA DROP -->
+<div id="search-drop" class="search">
+<form role="search" id="searchform" method="get" action="/">
+	<input id="box" name="s" value="keyword" type="text" onfocus="if (this.value=='keyword') this.value='';" onblur="if (this.value=='') this.value='keyword'">    
+</form>
+</div><!-- exit .search-drop -->
+
+<!-- End of the SEARCH DROP --></li>
+			<li id="syllabi" class="menu-item"><a href="http://journalistsresource.org/syllabi/" class="plate">Syllabi</a></li>
+			<li id="reference" class="menu-item"><a href="http://journalistsresource.org/reference-highlights/" class="plate">Skills</a></li>
+			<li id="studies" class="menu-item"><a href="http://journalistsresource.org/studies/" class="plate">STUDIES DATABASE</a><!-- Time for the MEGA DROP -->
+<div id="mega-drop" class="studies">
+	<div class="signage">
+		<div class="room environment">
+			<div class="door">
+				<h4><a href="http://journalistsresource.org/studies/environment">Environment</a></h4>
+				<ul class="subcat">
+						<li class="cat-item cat-item-534"><a href="http://journalistsresource.org/studies/environment/cities" title="View all posts filed under Cities">Cities</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://journalistsresource.org/studies/environment/climate-change" title="View all posts filed under Climate Change">Climate Change</a>
+</li>
+	<li class="cat-item cat-item-535"><a href="http://journalistsresource.org/studies/environment/ecology" title="View all posts filed under Ecology">Ecology</a>
+</li>
+	<li class="cat-item cat-item-189"><a href="http://journalistsresource.org/studies/environment/energy" title="View all posts filed under Energy">Energy</a>
+</li>
+	<li class="cat-item cat-item-94"><a href="http://journalistsresource.org/studies/environment/food-agriculture" title="View all posts filed under Food, Agriculture">Food, Agriculture</a>
+</li>
+	<li class="cat-item cat-item-607"><a href="http://journalistsresource.org/studies/environment/pollution-environment" title="View all posts filed under Pollution">Pollution</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://journalistsresource.org/studies/environment/sustainability" title="View all posts filed under Sustainability">Sustainability</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://journalistsresource.org/studies/environment/transportation" title="View all posts filed under Transportation">Transportation</a>
+</li>
+				</ul>
+			</div><!-- exit .door -->
+			<div class="sill">
+				<a href="#" class="windows">
+					<img src="http://journalistsresource.org/wp-content/uploads/2010/04/china-wind-power2.jpg" alt="Environment" height="60" width="60"/>	
+				</a>
+			</div><!-- exit .sill -->
+			<div class="clear"></div>
+		</div><!-- exit .room -->
+		<div class="room international">
+			<div class="door">
+				<h4><a href="http://journalistsresource.org/studies/international">International</a></h4>
+				<ul class="subcat">
+						<li class="cat-item cat-item-513"><a href="http://journalistsresource.org/studies/international/africa" title="View all posts filed under Africa">Africa</a>
+</li>
+	<li class="cat-item cat-item-329"><a href="http://journalistsresource.org/studies/international/china" title="View all posts filed under China">China</a>
+</li>
+	<li class="cat-item cat-item-522"><a href="http://journalistsresource.org/studies/international/conflicts" title="View all posts filed under Conflicts">Conflicts</a>
+</li>
+	<li class="cat-item cat-item-292"><a href="http://journalistsresource.org/studies/international/development" title="View all posts filed under Development">Development</a>
+</li>
+	<li class="cat-item cat-item-524"><a href="http://journalistsresource.org/studies/international/global-tech" title="View all posts filed under Global Tech">Global Tech</a>
+</li>
+	<li class="cat-item cat-item-521"><a href="http://journalistsresource.org/studies/international/globalization" title="View all posts filed under Globalization">Globalization</a>
+</li>
+	<li class="cat-item cat-item-451"><a href="http://journalistsresource.org/studies/international/human-rights" title="View all posts filed under Human Rights">Human Rights</a>
+</li>
+	<li class="cat-item cat-item-523"><a href="http://journalistsresource.org/studies/international/foreign-policy" title="View all posts filed under U.S. Foreign Policy">U.S. Foreign Policy</a>
+</li>
+				</ul>
+			</div><!-- exit .door -->
+			<div class="sill">
+				<a href="#" class="windows">
+					<img src="http://journalistsresource.org/wp-content/uploads/2012/09/farmer-watering-crops.jpg" alt="Health" height="60" width="60"/>	
+				</a>
+			</div><!-- exit .sill -->
+			<div class="clear"></div>
+		</div><!-- exit .room -->
+			<div class="clear"></div>	
+	</div><!-- exit .signage -->
+	<div class="floor">
+		<div class="room government">
+			<div class="door">
+				<h4><a href="http://journalistsresource.org/studies/government">Government</a></h4>
+				<ul class="subcat">
+						<li class="cat-item cat-item-281"><a href="http://journalistsresource.org/studies/government/budget" title="View all posts filed under Budget">Budget</a>
+</li>
+	<li class="cat-item cat-item-310"><a href="http://journalistsresource.org/studies/government/congress" title="View all posts filed under Congress">Congress</a>
+</li>
+	<li class="cat-item cat-item-149"><a href="http://journalistsresource.org/studies/government/criminal-justice" title="View all posts filed under Criminal Justice">Criminal Justice</a>
+</li>
+	<li class="cat-item cat-item-484"><a href="http://journalistsresource.org/studies/government/health-care" title="View all posts filed under Health Care">Health Care</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://journalistsresource.org/studies/government/immigration" title="View all posts filed under Immigration">Immigration</a>
+</li>
+	<li class="cat-item cat-item-608"><a href="http://journalistsresource.org/studies/government/infrastructure-government" title="View all posts filed under Infrastructure">Infrastructure</a>
+</li>
+	<li class="cat-item cat-item-424"><a href="http://journalistsresource.org/studies/government/municipal" title="View all posts filed under Municipal">Municipal</a>
+</li>
+	<li class="cat-item cat-item-532"><a href="http://journalistsresource.org/studies/government/security-military" title="View all posts filed under Security, Military">Security, Military</a>
+</li>
+				</ul>
+			</div><!-- exit .door -->
+			<div class="sill">
+				<a href="http://journalistsresource.org/studies/government" class="windows">
+					<img src="http://journalistsresource.org/wp-content/uploads/2012/09/soldier-with-daughter.jpg" alt="Government" height="60" width="60"/>	
+				</a>
+			</div><!-- exit .sill -->
+			<div class="clear"></div>
+		</div><!-- exit .room -->
+		<div class="room economics">
+			<div class="door">
+				<h4><a href="http://journalistsresource.org/studies/economics">Economics</a></h4>
+				<ul class="subcat">
+						<li class="cat-item cat-item-36"><a href="http://journalistsresource.org/studies/economics/banks" title="View all posts filed under Banks">Banks</a>
+</li>
+	<li class="cat-item cat-item-273"><a href="http://journalistsresource.org/studies/economics/business" title="View all posts filed under Business">Business</a>
+</li>
+	<li class="cat-item cat-item-422"><a href="http://journalistsresource.org/studies/economics/inequality" title="View all posts filed under Inequality">Inequality</a>
+</li>
+	<li class="cat-item cat-item-156"><a href="http://journalistsresource.org/studies/economics/jobs" title="View all posts filed under Jobs">Jobs</a>
+</li>
+	<li class="cat-item cat-item-458"><a href="http://journalistsresource.org/studies/economics/personal-finance" title="View all posts filed under Personal Finance">Personal Finance</a>
+</li>
+	<li class="cat-item cat-item-127"><a href="http://journalistsresource.org/studies/economics/real-estate" title="View all posts filed under Real Estate">Real Estate</a>
+</li>
+	<li class="cat-item cat-item-385"><a href="http://journalistsresource.org/studies/economics/taxes" title="View all posts filed under Taxes">Taxes</a>
+</li>
+	<li class="cat-item cat-item-606"><a href="http://journalistsresource.org/studies/economics/workers" title="View all posts filed under Workers">Workers</a>
+</li>
+				</ul>
+			</div><!-- exit .door -->
+			<div class="sill">
+				<a href="http://journalistsresource.org/studies/economics" class="windows">
+					<img src="http://journalistsresource.org/wp-content/uploads/2012/09/brokers-shaking-hands.jpg" alt="Economics" height="60" width="60"/>	
+				</a>
+			</div><!-- exit .sill -->
+			<div class="clear"></div>
+		</div><!-- exit .room -->
+			<div class="clear"></div>	
+		<div class="room politics">
+			<div class="door">
+				<h4><a href="http://journalistsresource.org/studies/politics">Politics</a></h4>
+				<ul class="subcat">
+						<li class="cat-item cat-item-479"><a href="http://journalistsresource.org/studies/politics/ads-public-opinion" title="View all posts filed under Ads, Public Opinion">Ads, Public Opinion</a>
+</li>
+	<li class="cat-item cat-item-473"><a href="http://journalistsresource.org/studies/politics/campaign-media" title="View all posts filed under Campaign Media">Campaign Media</a>
+</li>
+	<li class="cat-item cat-item-530"><a href="http://journalistsresource.org/studies/politics/citizen-action" title="View all posts filed under Citizen Action">Citizen Action</a>
+</li>
+	<li class="cat-item cat-item-531"><a href="http://journalistsresource.org/studies/politics/digital-democracy" title="View all posts filed under Digital Democracy">Digital Democracy</a>
+</li>
+	<li class="cat-item cat-item-251"><a href="http://journalistsresource.org/studies/politics/elections" title="View all posts filed under Elections">Elections</a>
+</li>
+	<li class="cat-item cat-item-527"><a href="http://journalistsresource.org/studies/politics/finance-lobbying" title="View all posts filed under Finance, Lobbying">Finance, Lobbying</a>
+</li>
+	<li class="cat-item cat-item-609"><a href="http://journalistsresource.org/studies/politics/polarization" title="View all posts filed under Polarization">Polarization</a>
+</li>
+	<li class="cat-item cat-item-439"><a href="http://journalistsresource.org/studies/politics/primaries" title="View all posts filed under Primaries">Primaries</a>
+</li>
+				</ul>
+			</div><!-- exit .door -->
+			<div class="sill">
+				<a href="http://journalistsresource.org/studies/politics" class="windows">
+					<img src="http://journalistsresource.org/wp-content/uploads/2012/09/RyanObama_Wikipedia.jpg" alt="Politics" height="60" width="60"/>	
+				</a>
+			</div><!-- exit .sill -->
+			<div class="clear"></div>
+		</div><!-- exit .room -->
+		
+		<div class="room society">
+			<div class="door">
+				<h4><a href="http://journalistsresource.org/studies/society">Society</a></h4>
+				<ul class="subcat">
+						<li class="cat-item cat-item-383"><a href="http://journalistsresource.org/studies/society/culture" title="View all posts filed under Culture">Culture</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://journalistsresource.org/studies/society/education" title="View all posts filed under Education">Education</a>
+</li>
+	<li class="cat-item cat-item-610"><a href="http://journalistsresource.org/studies/society/gender-society" title="View all posts filed under Gender">Gender</a>
+</li>
+	<li class="cat-item cat-item-288"><a href="http://journalistsresource.org/studies/society/internet" title="View all posts filed under Internet">Internet</a>
+</li>
+	<li class="cat-item cat-item-177"><a href="http://journalistsresource.org/studies/society/medicine" title="View all posts filed under Medicine">Medicine</a>
+</li>
+	<li class="cat-item cat-item-307"><a href="http://journalistsresource.org/studies/society/news-media" title="View all posts filed under News Media">News Media</a>
+</li>
+	<li class="cat-item cat-item-256"><a href="http://journalistsresource.org/studies/society/race-society" title="View all posts filed under Race">Race</a>
+</li>
+	<li class="cat-item cat-item-495"><a href="http://journalistsresource.org/studies/society/social-media" title="View all posts filed under Social Media">Social Media</a>
+</li>
+				</ul>
+			</div><!-- exit .door -->
+			<div class="sill">
+				<a href="http://journalistsresource.org/studies/society" class="windows">
+					<img src="http://journalistsresource.org/wp-content/uploads/2012/09/smartphone-with-twitter.jpg" alt="Society" height="60" width="60"/>	
+				</a>
+			</div><!-- exit .sill -->
+			<div class="clear"></div>
+		</div><!-- exit .room -->
+		
+			<div class="clear"></div>		
+	</div><!-- exit .floor -->
+			<div class="clear"></div>
+</div><!-- exit .mega-drop -->
+
+<!-- End of the MEGA DROP --></li>
+		</ul> 
+		
+        <ul id="menu-header-navigation-left" class="menu"><li id="menu-item-5522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5522"><a href="http://journalistsresource.org/about" >About</a></li>
+<li id="menu-item-5528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5528"><a href="http://journalistsresource.org/journalists" >Journalists</a></li>
+<li id="menu-item-5529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5529"><a href="http://journalistsresource.org/instructors" >Instructors</a></li>
+</ul>        <!-- drop down navigation on hover should be added here or ideally in footer  -->
+      </div><!-- end nav-menu-container class -->
+      
+      <div class="search-bar">
+      
+        <div class="connect">
+		  <ul>
+			 <li>
+				<a href="http://feeds.feedburner.com/journalistsresource">
+					<img src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-rss-16x16.png" alt="Subscribe to our RSS feed" title="Subscribe to our RSS feed" width="18" />
+				</a>
+			 </li>
+			 <li>
+				<a class="invert" href="http://harvard.us1.list-manage.com/subscribe?u=30699762a3826bbf132818652&amp;id=12d86b1d6a">
+					<img src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-email-16x16.png" alt="Get our Email Newsletter" title="Get our Email Newsletter" width="18" />
+				</a>
+			 </li>
+			 <li>
+			 <!-- Place this tag where you want the +1 button to render -->
+			 <g:plusone size="medium" count="false"></g:plusone>
+			 <!-- Place this render call where appropriate -->
+			 <script type="text/javascript">
+ 				 (function() {
+  				  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    				po.src = 'https://apis.google.com/js/plusone.js';
+    			  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+			 </script>
+			 </li>
+			</ul>
+		</div><!-- end social media image/connect section -->
+		<div class="connect-left">
+		<ul>
+			<li>
+			 	<div class="mobile-icon"><a href='?wpmp_switcher=mobile' onclick='document.cookie="wpmp_switcher=mobile;path=/;expires=Tue, 01-01-2030 00:00:00 GMT";' title="Switch to mobile" class="rollover" /></a></div>
+			 	<!--<img src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/jr-mobile-button-hover.png" class="nodisplay" />-->
+			</li>
+			<li>
+				<a href="http://www.facebook.com/journalistsresource">
+					<img src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-facebook-16x16.png" alt="Friend us on Facebook" title="Friend us on Facebook" width="18" />
+				</a>
+			 </li>
+		  	 <li>
+				<a id="twitter" class="invert" href="http://twitter.com/journoresource">
+					<img src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/twitter-bird-white-on-blue.png" alt="Follow us on Twitter" title="Follow us on Twitter" width="19" />
+				</a>
+			 </li>
+			</ul>
+		</div><!-- end social media image/connect section -->
+
+		<!-- conditional to display search box on non-category main pages -->		
+
+		<div class="findAstudy">
+			<b class="kick">FIND A STUDY:</b>
+			<form id="brwse-form" method="get" action="/studies/">
+				<input id="box" name="s" value="keyword" type="text" onfocus="if (this.value=='keyword') this.value='';" onblur="if (this.value=='') this.value='keyword'"> <br/>
+			</form>
+		</div><!-- exit .findAstudy -->
+	</div><!-- exit .search-bar -->
+	<div class="clear"></div>	
+    <!-- Begin MailChimp Signup Form -->
+<link href="http://cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{position:absolute; top:0; left:0; width:100%; height:100%; background-color:rgba(0,0,0,.8);display:none;z-index:10000; }
+	#mc_embed_signup form{position:fixed; top:10%; left:50%; width:50%; margin-left:-25%; font:normal 100% Helvetica,Arial,sans-serif; font-size:14px; border-radius:4px; border:none; padding:10px 20px; background-color:#fff; color:#000; text-align:left;max-height:400px;overflow-y:auto;overflow-x:hidden;}
+	#mc_embed_signup a.mc_embed_close{background:transparent url(http://downloads.mailchimp.com/img/closebox.png) no-repeat; display:block; height:30px; width:30px; text-indent:-999em; position:absolute; top:-10px; right:-10px; display:none; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="http://journalistsresource.us1.list-manage1.com/subscribe/post?u=30699762a3826bbf132818652&amp;id=12d86b1d6a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	<h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group input-group">
+    <strong>Email Format </strong>
+    <ul><li><input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0"><label for="mce-EMAILTYPE-0">html</label></li>
+<li><input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"><label for="mce-EMAILTYPE-1">text</label></li>
+<li><input type="radio" value="mobile" name="EMAILTYPE" id="mce-EMAILTYPE-2"><label for="mce-EMAILTYPE-2">mobile</label></li>
+</ul>
+</div>
+<a href="#" id="mc_embed_close" class="mc_embed_close">Close</a>	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+<script type="text/javascript">
+var fnames = new Array();var ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[10]='PREFIX';ftypes[10]='text';fnames[1]='FNAME';ftypes[1]='text';fnames[11]='MNAME';ftypes[11]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[12]='SUFFIX';ftypes[12]='text';fnames[9]='TITLE';ftypes[9]='text';fnames[5]='COMPANY';ftypes[5]='text';fnames[13]='DEPARTMENT';ftypes[13]='text';fnames[26]='MMERGE26';ftypes[26]='text';fnames[4]='FUNCTION';ftypes[4]='radio';fnames[3]='ADDRESS';ftypes[3]='address';fnames[6]='STATUS';ftypes[6]='text';fnames[7]='TAGS';ftypes[7]='text';fnames[14]='MMERGE14';ftypes[14]='text';fnames[8]='MMERGE8';ftypes[8]='text';fnames[15]='MMERGE15';ftypes[15]='text';fnames[16]='MMERGE16';ftypes[16]='text';fnames[17]='MMERGE17';ftypes[17]='text';fnames[18]='MMERGE18';ftypes[18]='text';fnames[19]='MMERGE19';ftypes[19]='text';fnames[20]='MMERGE20';ftypes[20]='text';fnames[21]='MMERGE21';ftypes[21]='text';fnames[22]='MMERGE22';ftypes[22]='text';fnames[23]='MMERGE23';ftypes[23]='text';fnames[24]='MMERGE24';ftypes[24]='text';
+try {
+    var jqueryLoaded=jQuery;
+    jqueryLoaded=true;
+} catch(err) {
+    var jqueryLoaded=false;
+}
+var head= document.getElementsByTagName('head')[0];
+if (!jqueryLoaded) {
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js';
+    head.appendChild(script);
+    if (script.readyState && script.onload!==null){
+        script.onreadystatechange= function () {
+              if (this.readyState == 'complete') mce_preload_check();
+        }    
+    }
+}
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = 'http://downloads.mailchimp.com/js/jquery.form-n-validate.js';
+head.appendChild(script);
+var err_style = '';
+try{
+    err_style = mc_custom_error_style;
+} catch(e){
+    err_style = '#mc_embed_signup input.mce_inline_error{border-color:#6B0505;} #mc_embed_signup div.mce_inline_error{margin: 0 0 1em 0; padding: 5px 10px; background-color:#6B0505; font-weight: bold; z-index: 1; color:#fff;}';
+}
+var head= document.getElementsByTagName('head')[0];
+var style= document.createElement('style');
+style.type= 'text/css';
+if (style.styleSheet) {
+  style.styleSheet.cssText = err_style;
+} else {
+  style.appendChild(document.createTextNode(err_style));
+}
+head.appendChild(style);
+setTimeout('mce_preload_check();', 250);
+
+var mce_preload_checks = 0;
+function mce_preload_check(){
+    if (mce_preload_checks>40) return;
+    mce_preload_checks++;
+    try {
+        var jqueryLoaded=jQuery;
+    } catch(err) {
+        setTimeout('mce_preload_check();', 250);
+        return;
+    }
+    try {
+        var validatorLoaded=jQuery("#fake-form").validate({});
+    } catch(err) {
+        setTimeout('mce_preload_check();', 250);
+        return;
+    }
+    mce_init_form();
+}
+function mce_init_form(){
+    jQuery(document).ready( function($) {
+      var options = { errorClass: 'mce_inline_error', errorElement: 'div', onkeyup: function(){}, onfocusout:function(){}, onblur:function(){}  };
+      var mce_validator = $("#mc-embedded-subscribe-form").validate(options);
+      $("#mc-embedded-subscribe-form").unbind('submit');//remove the validator so we can get into beforeSubmit on the ajaxform, which then calls the validator
+      options = { url: 'http://journalistsresource.us1.list-manage2.com/subscribe/post-json?u=30699762a3826bbf132818652&id=12d86b1d6a&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
+                    beforeSubmit: function(){
+                        $('#mce_tmp_error_msg').remove();
+                        $('.datefield','#mc_embed_signup').each(
+                            function(){
+                                var txt = 'filled';
+                                var fields = new Array();
+                                var i = 0;
+                                $(':text', this).each(
+                                    function(){
+                                        fields[i] = this;
+                                        i++;
+                                    });
+                                $(':hidden', this).each(
+                                    function(){
+                                        var bday = false;
+                                        if (fields.length == 2){
+                                            bday = true;
+                                            fields[2] = {'value':1970};//trick birthdays into having years
+                                        }
+                                    	if ( fields[0].value=='MM' && fields[1].value=='DD' && (fields[2].value=='YYYY' || (bday && fields[2].value==1970) ) ){
+                                    		this.value = '';
+									    } else if ( fields[0].value=='' && fields[1].value=='' && (fields[2].value=='' || (bday && fields[2].value==1970) ) ){
+                                    		this.value = '';
+									    } else {
+									        if (/\[day\]/.test(fields[0].name)){
+    	                                        this.value = fields[1].value+'/'+fields[0].value+'/'+fields[2].value;									        
+									        } else {
+    	                                        this.value = fields[0].value+'/'+fields[1].value+'/'+fields[2].value;
+	                                        }
+	                                    }
+                                    });
+                            });
+                        return mce_validator.form();
+                    }, 
+                    success: mce_success_cb
+                };
+      $('#mc-embedded-subscribe-form').ajaxForm(options);
+      
+              $('#mc_embed_signup').hide();
+        cks = document.cookie.split( ';' );
+        var show=true;
+        for(i=0;i<cks.length;i++){
+            parts = cks[i].split('=');
+            if( parts[0].indexOf('MCEvilPopupClosed')!= -1 ) show = false;
+        }
+        if (show){
+            $('#mc_embed_signup a.mc_embed_close').show();
+            setTimeout( function(){ $('#mc_embed_signup').fadeIn();} , 30000);
+	        $('#mc_embed_signup a.mc_embed_close').click(function(){ mcEvilPopupClose();});
+        }
+
+        $(document).keydown(function(e){
+            if (e == null) { 
+              keycode = event.keyCode;
+            } else { 
+              keycode = e.which;
+            }
+            if(keycode == 27){
+                mcEvilPopupClose();
+            }
+        });
+
+        function mcEvilPopupClose(){
+            $('#mc_embed_signup').hide();
+            var now = new Date();
+            var expires_date = new Date( now.getTime() + 31536000000 );
+            document.cookie = 'MCEvilPopupClosed=yes;expires=' + expires_date.toGMTString()+';path=/';
+        }
+
+    });
+}
+function mce_success_cb(resp){
+    $('#mce-success-response').hide();
+    $('#mce-error-response').hide();
+    if (resp.result=="success"){
+        $('#mce-'+resp.result+'-response').show();
+        $('#mce-'+resp.result+'-response').html(resp.msg);
+        $('#mc-embedded-subscribe-form').each(function(){
+            this.reset();
+    	});
+    } else {
+        var index = -1;
+        var msg;
+        try {
+            var parts = resp.msg.split(' - ',2);
+            if (parts[1]==undefined){
+                msg = resp.msg;
+            } else {
+                i = parseInt(parts[0]);
+                if (i.toString() == parts[0]){
+                    index = parts[0];
+                    msg = parts[1];
+                } else {
+                    index = -1;
+                    msg = resp.msg;
+                }
+            }
+        } catch(e){
+            index = -1;
+            msg = resp.msg;
+        }
+        try{
+            if (index== -1){
+                $('#mce-'+resp.result+'-response').show();
+                $('#mce-'+resp.result+'-response').html(msg);            
+            } else {
+                err_id = 'mce_tmp_error_msg';
+                html = '<div id="'+err_id+'" style="'+err_style+'"> '+msg+'</div>';
+                
+                var input_id = '#mc_embed_signup';
+                var f = $(input_id);
+                if (ftypes[index]=='address'){
+                    input_id = '#mce-'+fnames[index]+'-addr1';
+                    f = $(input_id).parent().parent().get(0);
+                } else if (ftypes[index]=='date'){
+                    input_id = '#mce-'+fnames[index]+'-month';
+                    f = $(input_id).parent().parent().get(0);
+                } else {
+                    input_id = '#mce-'+fnames[index];
+                    f = $().parent(input_id).get(0);
+                }
+                if (f){
+                    $(f).append(html);
+                    $(input_id).focus();
+                } else {
+                    $('#mce-'+resp.result+'-response').show();
+                    $('#mce-'+resp.result+'-response').html(msg);
+                }
+            }
+        } catch(e){
+            $('#mce-'+resp.result+'-response').show();
+            $('#mce-'+resp.result+'-response').html(msg);
+        }
+    }
+}
+
+</script>
+<!--End mc_embed_signup-->    </div><!-- end header class -->
+<!-- Start single.php: single post content template -->
+  
+<div id="sidebar">
+
+
+<div class="related_resources">
+		<h2 class="widgettitle">
+	Full Text of Study	</h2>
+		<div class="tidbit">
+			<a class="resource_link" href="http://aler.oxfordjournals.org/content/early/2013/08/14/aler.aht012.full">
+				<p>Does the 'Community Prosecution' Strategy Reduce Crime? A Test of Chicago’s Experience</p></a>
+		<span class="resource_description"></span>
+		</div><!-- exit .tidbit -->
+				</div> <!-- exit .related_resources -->
+
+
+<div id="jres2-3" class="widget widget_jres2">
+<span class="jr-related">
+
+
+
+
+	
+	<!-- switch for title, displays on pages with and without primary category -->
+	<h2 class="widgettitle">
+	Related posts</h2>
+	<div class="related">
+		<ul>
+	<li class="clear"><a class="invert writeup" href="http://journalistsresource.org/studies/government/criminal-justice/mass-shootings-data-trends-washington-navy-yard-relevant-research">Mass shootings, data and the Washington Navy Yard</a><a class="related_thumb" href="http://journalistsresource.org/studies/government/criminal-justice/mass-shootings-data-trends-washington-navy-yard-relevant-research"><img width="52" height="49" src="http://journalistsresource.org/wp-content/uploads/2013/09/ar-15-machine-gun-52x49.jpeg" class="attachment-small-post-thumbnail wp-post-image" alt="Colt AR-15" title="Colt AR-15" /></a></li><li class="clear"><a class="invert writeup" href="http://journalistsresource.org/studies/government/criminal-justice/interrogation-lie-bluff-false-confession">False confessions and interrogation techniques</a><a class="related_thumb" href="http://journalistsresource.org/studies/government/criminal-justice/interrogation-lie-bluff-false-confession"><img width="52" height="49" src="http://journalistsresource.org/wp-content/uploads/2013/09/man-behind-bars-52x49.jpg" class="attachment-small-post-thumbnail wp-post-image" alt="man behind bars (iStockphoto)" title="man behind bars (iStockphoto)" /></a></li><li class="clear"><a class="invert writeup" href="http://journalistsresource.org/studies/government/criminal-justice/marijuana-use-legalization-cognitive-effects-research-perspectives">Marijuana use, legalization and cognitive effects</a><a class="related_thumb" href="http://journalistsresource.org/studies/government/criminal-justice/marijuana-use-legalization-cognitive-effects-research-perspectives"><img width="52" height="49" src="http://journalistsresource.org/wp-content/uploads/2013/09/Cannabis-Wikipedia-52x49.jpg" class="attachment-small-post-thumbnail wp-post-image" alt="Cannabis-(Wikipedia)" title="Cannabis-(Wikipedia)" /></a></li><li class="clear"><a class="invert writeup" href="http://journalistsresource.org/studies/government/criminal-justice/gun-dealers-pawnbrokers-illegal-weapons-sales">Profiling gun dealers, pawnbrokers and illegal weapons</a><a class="related_thumb" href="http://journalistsresource.org/studies/government/criminal-justice/gun-dealers-pawnbrokers-illegal-weapons-sales"><img width="53" height="49" src="http://journalistsresource.org/wp-content/uploads/2013/08/GunShow_Wikipedia-53x49.jpg" class="attachment-small-post-thumbnail wp-post-image" alt="GunShow_Wikipedia" title="GunShow_Wikipedia" /></a></li><li class="clear"><a class="invert writeup" href="http://journalistsresource.org/studies/government/criminal-justice/self-defense-laws-castle-doctrine-murder-rates-crime-deterrence">Does strengthening self-defense laws escalate violence?</a><a class="related_thumb" href="http://journalistsresource.org/studies/government/criminal-justice/self-defense-laws-castle-doctrine-murder-rates-crime-deterrence"><img width="52" height="49" src="http://journalistsresource.org/wp-content/uploads/2012/06/Prowler-52x49.png" class="attachment-small-post-thumbnail wp-post-image" alt="Prowler" title="Prowler" /></a></li><li class="clear"><a class="invert writeup" href="http://journalistsresource.org/studies/government/criminal-justice/postindustrial-cities-creative-class-policing-race">Postindustrial cities, the creative class and police strategies</a><a class="related_thumb" href="http://journalistsresource.org/studies/government/criminal-justice/postindustrial-cities-creative-class-policing-race"><img width="52" height="49" src="http://journalistsresource.org/wp-content/uploads/2013/07/New-York-police-officer_Wikipedia-52x49.jpg" class="attachment-small-post-thumbnail wp-post-image" alt="New York police officer (Wikipedia)" title="New York police officer (Wikipedia)" /></a></li><li class="clear"><a class="invert writeup" href="http://journalistsresource.org/studies/government/criminal-justice/violent-crime-united-states-youth-minorities-public-awareness">U.S. violent crime: Youth, minorities and public awareness</a><a class="related_thumb" href="http://journalistsresource.org/studies/government/criminal-justice/violent-crime-united-states-youth-minorities-public-awareness"><img width="53" height="49" src="http://journalistsresource.org/wp-content/uploads/2013/07/ATF-agent-Wikipedia-53x49.jpg" class="attachment-small-post-thumbnail wp-post-image" alt="ATF-agent-(Wikipedia)" title="ATF-agent-(Wikipedia)" /></a></li>        </ul>
+	</div> <!-- end .related -->
+	<!-- <h2 class="widgettitle"></h2> -->
+		
+</span>
+</div><!-- exit related/featured stories -->
+<br/>
+
+        <div class="padding"></div>
+	<div id="jres-3" class="widget widget_jres"><h2 class="widgettitle">OTHER DATABASES</h2>
+        <ul>
+        	<li><a href="http://scholar.google.com/" target="_blank">
+        		<img  class="scholar" src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-scholar-h30.png" alt="Google Scholar" /></a></li>
+        	<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/" target="_blank">
+        		<img  class="scholar" src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-pubmed-h30.jpg" alt="Pub Med" /></a></li>
+        	<li><a href="http://www.pewresearch.org/topics/" target="_blank">
+        		<img  class="pew" src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-PRC-h30.jpg" alt="Pew Research Center" /></a></li>
+        	<li><a href="http://www.nber.org/" target="_blank">
+        		<img  class="nber" src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-NBER-30x30.png" alt="National Bureau of Economic Research" />
+        		NBER</a></li>
+        	<li><a href="http://papers.ssrn.com/sol3/DisplayAbstractSearch.cfm" target="_blank">
+        		<img  class="ssrn" src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-ssrn-h30.png" alt="SSRN" /></a></li>
+        	<li><a href="http://www.plosone.org/home.action" target="_blank">
+        		<img  class="plos" src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-plos-h30.png" alt="PLoS" /></a></li>
+        	<li><a href="http://www.mendeley.com/" target="_blank">
+        		<img  class="mendeley" src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-mendeley-30x30.png" alt="Mendeley" />
+        		Mendeley</a></li>
+        	<li><a href="http://www.jstor.org/" target="_blank">
+        		<img  class="jstor" src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-jstor-30x30.png" alt="JSTOR" />
+        		JSTOR</a></li>
+        	<li><a href="http://www.gpo.gov/fdsys/" target="_blank">
+        		<img class="gpo" src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-gpo-h30.png" alt="GPO" />
+        		GPO</a></li>
+        	<li><a href="http://data.worldbank.org/" target="_blank">
+        		<img class="worldbank" src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-worldbank-30x30.png" alt="The World Bank" />
+        		The World Bank</a></li>
+        	<li><a href="http://www.nytimes.com/pages/topics/" target="_blank">
+        		<img class="timestopics" src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/icon-times-h25.png" height="25px" alt="Times Topics" /></a></li>
+        </ul>
+    </div>
+
+
+
+     <br/>
+  </div><!-- exit #sidebar-->
+
+<!-- END sidebar.php: sidebar template --><div id="content" class="container">
+  <div class="column_main">
+
+     
+         
+      <h4 class="meta">
+          <span class="categories invert-link"><a href="http://journalistsresource.org/studies/government/criminal-justice" title="View all posts in Criminal Justice" rel="category tag">Criminal Justice</a>, <a href="http://journalistsresource.org/studies/government/municipal" title="View all posts in Municipal" rel="category tag">Municipal</a> </span>
+          
+      </h4>
+      <h1>Do “community prosecution” strategies work? Chicago’s experience, and the quest to reduce crime and incarceration rates</h1>
+            <h4 class="meta">Tags:  <span class="tags invert-link"><a href="http://journalistsresource.org/tag/crime" rel="tag">crime</a>, <a href="http://journalistsresource.org/tag/law" rel="tag">law</a>, <a href="http://journalistsresource.org/tag/prisons" rel="tag">prisons</a>, <a href="http://journalistsresource.org/tag/sex-crimes" rel="tag">sex crimes</a></span>  </h4>
+            <div id="entry">
+      
+		<!-- begin social icons -->
+      	<div class="single-social">
+      		<!-- ShareThis BEGIN -->
+      		<span class='st_facebook_buttons' st_title='Do “community prosecution” strategies work? Chicago’s experience, and the quest to reduce crime and incarceration rates' st_url='http://journalistsresource.org/studies/government/criminal-justice/community-prosecution-strategy-crime-reduction-chicago' displayText='facebook'></span>
+      		<span class='st_twitter_buttons' st_title='Do “community prosecution” strategies work? Chicago’s experience, and the quest to reduce crime and incarceration rates' st_url='http://journalistsresource.org/studies/government/criminal-justice/community-prosecution-strategy-crime-reduction-chicago' displayText='twitter' st_via='journoresource'></span>
+      		<span class='st_email' st_title='Do “community prosecution” strategies work? Chicago’s experience, and the quest to reduce crime and incarceration rates' st_url='http://journalistsresource.org/studies/government/criminal-justice/community-prosecution-strategy-crime-reduction-chicago'></span>
+			<!-- ShareThis END -->
+		
+      		<a class="print-friendly" href="javascript:window.print()"><img src="http://journalistsresource.org/wp-content/themes/JournalistResource/graphics/printer.png" width="30px"></a>
+		</div>
+		<!-- end single-social-->
+		
+        <div id="content_tab_menu_container">
+          <ul id="content_tab_menu"> <!-- Menu for main content -->
+            <li class="first">
+              <a rel="tab_research_findings" class="current">
+                                                  Research Findings
+                              </a></li>
+            </li>
+                          <li><a rel="tab_teaching_notes">Media/Analysis Tips</a></li>
+                        <li class="first"><a rel="tab_feedback">Feedback</a></li>
+          </ul>
+          <div class="clear"></div>
+        </div>
+
+        <div id="content_tab_container">
+        
+        
+          <div id="tab_research_findings" class="content_tab current-tab">  
+            <img width="205" height="190" src="http://journalistsresource.org/wp-content/uploads/2013/09/eric-holder_Wikipedia1.jpg" class="attachment-single-post-thumbnail wp-post-image" alt="Attorney General Eric Holder (Wikipedia)" title="Attorney General Eric Holder (Wikipedia)" />                        <div class="print-title"><h1>Research Findings</h1></div>
+                        <p>In August 2013, U.S. Attorney General Eric Holder <a href="http://usnews.nbcnews.com/_news/2013/08/12/19978405-holder-new-approach-to-reduce-mandatory-drug-sentences" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://usnews.nbcnews.com']);">made headlines</a> when he asserted that new approaches were needed in prosecuting low-level drug-related crimes, with the goal of lowering incarceration rates and reducing the overcrowding of prisons, among other things.</p>
+<p>Whatever the effectiveness of the wave of &#8220;get tough&#8221; laws of the last several decades, one result has been staggering rates of incarceration in the United States: Research has shown that since 1973 the U.S. prison population has increased more than seven-fold; a <a href="http://www.pewtrusts.org/our_work_report_detail.aspx?id=85899358613" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.pewtrusts.org']);">full 1% </a>of the U.S. adult population has been behind bars. &#8220;Mandatory minimum&#8221; and <a href="http://journalistsresource.org/studies/government/criminal-justice/how-should-inmates-released-prison-assessment-parole-versus-fixed-sentence" >&#8220;fixed sentence&#8221;</a> laws have played a role in this increase, with considerable discretion taken out of the hands of local prosecutors and judges, even for non-violent offenses. Recent data show a <a href="http://www.nytimes.com/2013/07/26/us/us-prison-populations-decline-reflecting-new-approach-to-crime.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.nytimes.com']);">slight decrease</a> in the U.S. prison population, but nearly 1.5 million people remain incarcerated at the federal or state level in this country.</p>
+<p>Holder&#8217;s policy proposal cuts against earlier trends toward &#8220;federalizing&#8221; many offenses. Instead, local prosecutors and communities would be encouraged to work together to set priorities and find more tailored solutions to public-safety issues. Such approaches fall under the banner &#8220;community justice&#8221; or <a href="http://www.hks.harvard.edu/programs/criminaljustice/research-publications/gangs,-guns,-urban-violence/community-prosecution" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.hks.harvard.edu']);">&#8220;community prosecution.&#8221;</a> In general they refer to efforts to more closely align enforcement efforts with community interests and concerns. Rather than being judged by the number of cases they process and the length of sentences obtained, prosecutors instead work with local groups to address residents’ concerns and seek solutions to prevent crimes. The strategy shares some features with <a href="http://journalistsresource.org/studies/economics/real-estate/postindustrial-cities-creative-class-policing-race" >&#8220;order maintenance&#8221; policing</a> and also grew out of the &#8220;broken windows&#8221; strategy of crime control.</p>
+<p>Well before Holder&#8217;s call to action, a number of U.S. municipalities and regions experimented with more closely connecting prosecution efforts with citizens&#8217; concerns. As detailed in the 1998 book <i>Community Justice: An Emerging Field,</i> the city of Portland, Oregon, <a href="http://books.google.com/books?hl=en&amp;lr=&amp;id=bC-OgMXvjl4C&amp;oi=fnd&amp;pg=PA253&amp;dq=Portland+Oregon+community+prosecution&amp;ots=df2M42_ag5&amp;sig=F4H4R9jPJ2_lq0QQxSj22rBqZJ0#v=onepage&amp;q=Portland%20Oregon%20community%20prosecution&amp;f=false" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://books.google.com']);">was an early proponent</a> of the approach, starting in 1990. Holder himself <a href="http://www.hks.harvard.edu/criminaljustice-backup/publications/community_prosecution.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','http://www.hks.harvard.edu/criminaljustice-backup/publications/community_prosecution.pdf']);">applied similar strategies</a> in Washington, D.C., in the 1990s when he was in the U.S. Attorney&#8217;s Office, and the issue came up during his <a href="http://www.nytimes.com/2009/01/16/us/politics/16text-holder.html?pagewanted=68" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.nytimes.com']);">2009 confirmation hearings</a>. It has also been implemented in cities such as <a href="http://www.baltimoresun.com/news/maryland/bs-md-ci-community-prosecution-20120102,0,7567863.story" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.baltimoresun.com']);">Baltimore</a>, which reorganized its prosecutors in geographic zones last year, as well as rural areas such as <a href="http://www.mainjustice.com/2010/08/27/south-dakota-u-s-attorney-initiates-community-prosecution-strategy/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.mainjustice.com']);">South Dakota&#8217;s Indian reservations</a>.</p>
+<p>Despite a surge of interest in community prosecution practices, the question of their effectiveness remains open. To better understand this issue, Thomas J. Miles of the University of Chicago analyzed 15 years of data over a period during which the city alternately did and didn&#8217;t apply community-prosecution strategies in certain neighborhoods. &#8220;This sequence of two &#8216;off/on&#8217; policy episodes permits plausible identification of the strategy’s impact,&#8221; Miles writes, as it created a kind of natural experiment in which potentially confounding variables were filtered out.</p>
+<p>The resulting study, <a href="http://aler.oxfordjournals.org/content/early/2013/08/14/aler.aht012.full" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://aler.oxfordjournals.org']);"><i>“</i>Does the &#8216;Community Prosecution&#8217; Strategy Reduce Crime? A Test of Chicago’s Experience,”</a> was published in <i>American Law and Economics Review </i>in August 2013. Its findings include:</p>
+<ul>
+<li>When community prosecution approaches were in force, the largest decline was in violent crimes such as murder, rape and aggravated assaults. &#8220;Perhaps the most impressive is the statistically significant decline of nearly 8% in aggravated assault, the offense that, in most years, constitutes more than half of all violent crimes.&#8221;</li>
+<li>Property and quality-of-life crimes also dropped, but the declines were smaller and not statistically significant. This is a contradiction of the “broken windows” concept, which theorizes that quality-of-life crimes should decline first, leading to subsequent reductions in more serious offenses.</li>
+<li>The decreases in violent crimes and those against property were immediate and stable, also a contradiction of the &#8220;broken windows&#8221; theory: &#8220;Within the first year of introducing the strategy, the point estimates for violent and property crime are each about −0.04 [a coefficient], where they remain for the next four or five years.&#8221; At the same time, minor crimes were little affected.</li>
+<li>Looking at the implied financial value of reductions in violent and property crime &#8212; for example, a murder was estimated to impose a societal burden of approximately $8.9 million &#8212; the study found that community prosecution strategies provided net benefits. &#8220;Although this is a ballpark calculation, the benefits appear to exceed the costs by several multiples.&#8221;</li>
+</ul>
+<p>&#8220;The diversity of practices under the rubric of community prosecution makes generalization difficult, but the estimates from Chicago show that the strategy has the potential to produce cost-justified reductions in crime,&#8221; Miles writes. At the same time, &#8220;it leaves out important potential benefits, such as improvements in residents’ perceptions of public safety, and potential costs, such as longer periods of incarceration for specific neighborhood offenders.&#8221;</p>
+<p><i>Tags: crime, sex crimes, prisons, law<br />
+</i></p>
+<ol class="ajs-fn">
+</ol>
+            <br/>
+            <p class="author below">By <a href="http://journalistsresource.org/author/leighton" title="Posts by Leighton Walter Kille" rel="author">Leighton Walter Kille</a> | <span class="date">September 6, 2013</span></p>
+            
+                        		<div class="citation"><strong>Citation:</strong> Miles, Thomas, J. "Does the 'Community Prosecution' Strategy Reduce Crime? A Test of Chicago’s Experience," <em>American Law and Economics Review</em>, August 2013, doi: 10.1093/aler/aht012.</div>
+                        	
+                        
+          </div>
+                    <div id="tab_teaching_notes" class="content_tab"> 
+          	<div class="print-title"><h1>Teaching Notes</h1></div>   
+            <h3><strong>Analysis assignments</strong></h3>
+<p>Read the issue-related <em>Baltimore Sun </em>article titled <a href="http://www.baltimoresun.com/news/maryland/bs-md-ci-community-prosecution-20120102,0,7567863.story">"Baltimore to Overhaul Prosecution Strategy."</a></p>
+<ol start="1">
+<li>What key insights from the news article and the study in this lesson should reporters be aware of as they cover these issues?</li>
+</ol>
+<p>Read the full study titled <a href="http://aler.oxfordjournals.org/content/early/2013/08/14/aler.aht012.full"><i>“</i>Does the 'Community Prosecution' Strategy Reduce Crime? A Test of Chicago’s Experience.”</a></p>
+<ol start="1">
+<li>What are the study's key technical terms? Which ones need to be put into language a lay audience can understand?</li>
+<li>Do the study’s authors put the research into context and show how they are advancing the state of knowledge about the subject? If so, what did the previous research indicate?</li>
+<li>What is the study’s research method? If there are statistical results, how did the scholars arrive at them?</li>
+<li>Evaluate the study's limitations. (For example, are there weaknesses in the study's data or research design?)</li>
+<li>How could the findings be misreported or misinterpreted by a reporter? In other words, what are the difficulties in conveying the data accurately? Give an example of a faulty headline or story lead.<strong></strong></li>
+</ol>
+<p><strong>Newswriting and digital reporting assignments</strong></p>
+<ol start="1">
+<li>Write a lead, headline or nut graph based on the study.</li>
+<li>Spend 60 minutes exploring the issue by accessing sources of information other than the study. Write a lead (or headline or nut graph) based on the study but informed by the new information. Does the new information significantly change what one would write based on the study alone?</li>
+<li>Compose two Twitter messages of 140 characters or fewer accurately conveying the study’s findings to a general audience. Make sure to use appropriate hashtags.</li>
+<li>Choose several key quotations from the study and show how they would be set up and used in a brief blog post.</li>
+<li>Map out the structure for a 60-second video segment about the study. What combination of study findings and visual aids could be used?</li>
+<li>Find pictures and graphics that might run with a story about the study. If appropriate, also find two related videos to embed in an online posting. Be sure to evaluate the credibility and appropriateness of any materials you would aggregate and repurpose.</li>
+</ol>
+<p><strong>Class discussion questions</strong></p>
+<ol start="1">
+<li>What is the study’s most important finding?</li>
+<li>Would members of the public intuitively understand the study’s findings? If not, what would be the most effective way to relate them?</li>
+<li>What kinds of knowledgeable sources you would interview to report the study in context?</li>
+<li>How could the study be “localized” and shown to have community implications?</li>
+<li>How might the study be explained through the stories of representative individuals? What kinds of people might a reporter feature to make such a story about the study come alive?</li>
+<li>What sorts of stories might be generated out of secondary information or ideas discussed in the study?</li>
+</ol>
+                        
+          </div>
+                    <div id="tab_feedback" class="content_tab">
+            
+<div id="commenting" class="clear"></div>
+
+  <div class="leave_comment">
+  	    	<h3>Leave a comment</h3>
+    	<form action="http://journalistsresource.org/wp-comments-post.php" method="post" id="commentform">
+      	      	  <div>
+          	<label for="author">Name<span class="meta">*</span></label>
+          	<input type="text" name="author" id="author" value="" class="input" tabindex="1" />
+        	</div>
+        	<div>    	
+          	<label for="email">Email<span class="meta">* <span class="no-pub">(never published)</span></span></label>
+          	<input type="text" name="email" id="email" value="" class="input" tabindex="2" />
+        	</div>
+        	<div>
+          	<label for="url">Website</label>
+          	<input type="text" name="url" id="url" value="" class="input" tabindex="3" />
+        	</div>
+      	      	<label for="comment">Comment</label>
+      	<textarea name="comment" id="comment" cols="20" rows="10" class="textarea" tabindex="4"></textarea>
+      	<input name="submit" type="submit" id="submit" class="button" value="Post" tabindex="5" />
+      	<input type="hidden" name="comment_post_ID" value="33719" />
+      	<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="a53cca47c4" /></p>    	</form>
+  	  </div>
+ 
+                        
+          </div>
+        </div>
+          
+      </div><!-- END #entry -->
+      
+    
+  </div><!-- END #column_main -->
+
+</div><!-- END .container -->
+
+<div class="clear"></div>
+<!-- END single.php: single post content template -->
+
+<div class="mega-footer">
+   <h2>Browse studies by categories and popular tags</h2> 
+   <div class="footer-item">
+		<h4><a href="http://journalistsresource.org/studies/government">Government</a></h4>
+					<ul>	<li class="cat-item cat-item-281"><a href="http://journalistsresource.org/studies/government/budget" title="View all posts filed under Budget">Budget</a>
+</li>
+	<li class="cat-item cat-item-310"><a href="http://journalistsresource.org/studies/government/congress" title="View all posts filed under Congress">Congress</a>
+</li>
+	<li class="cat-item cat-item-149"><a href="http://journalistsresource.org/studies/government/criminal-justice" title="View all posts filed under Criminal Justice">Criminal Justice</a>
+</li>
+	<li class="cat-item cat-item-484"><a href="http://journalistsresource.org/studies/government/health-care" title="View all posts filed under Health Care">Health Care</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://journalistsresource.org/studies/government/immigration" title="View all posts filed under Immigration">Immigration</a>
+</li>
+	<li class="cat-item cat-item-608"><a href="http://journalistsresource.org/studies/government/infrastructure-government" title="View all posts filed under Infrastructure">Infrastructure</a>
+</li>
+	<li class="cat-item cat-item-424"><a href="http://journalistsresource.org/studies/government/municipal" title="View all posts filed under Municipal">Municipal</a>
+</li>
+	<li class="cat-item cat-item-532"><a href="http://journalistsresource.org/studies/government/security-military" title="View all posts filed under Security, Military">Security, Military</a>
+</li>
+</ul>
+   </div>
+   <div class="footer-item">
+		<h4><a href="http://journalistsresource.org/studies/economics">Economics</a></h4>
+					<ul>	<li class="cat-item cat-item-36"><a href="http://journalistsresource.org/studies/economics/banks" title="View all posts filed under Banks">Banks</a>
+</li>
+	<li class="cat-item cat-item-273"><a href="http://journalistsresource.org/studies/economics/business" title="View all posts filed under Business">Business</a>
+</li>
+	<li class="cat-item cat-item-422"><a href="http://journalistsresource.org/studies/economics/inequality" title="View all posts filed under Inequality">Inequality</a>
+</li>
+	<li class="cat-item cat-item-156"><a href="http://journalistsresource.org/studies/economics/jobs" title="View all posts filed under Jobs">Jobs</a>
+</li>
+	<li class="cat-item cat-item-458"><a href="http://journalistsresource.org/studies/economics/personal-finance" title="View all posts filed under Personal Finance">Personal Finance</a>
+</li>
+	<li class="cat-item cat-item-127"><a href="http://journalistsresource.org/studies/economics/real-estate" title="View all posts filed under Real Estate">Real Estate</a>
+</li>
+	<li class="cat-item cat-item-385"><a href="http://journalistsresource.org/studies/economics/taxes" title="View all posts filed under Taxes">Taxes</a>
+</li>
+	<li class="cat-item cat-item-606"><a href="http://journalistsresource.org/studies/economics/workers" title="View all posts filed under Workers">Workers</a>
+</li>
+</ul>
+   </div>
+   <div class="footer-item">
+		<h4><a href="http://journalistsresource.org/studies/politics">Politics</a></h4>
+					<ul>	<li class="cat-item cat-item-479"><a href="http://journalistsresource.org/studies/politics/ads-public-opinion" title="View all posts filed under Ads, Public Opinion">Ads, Public Opinion</a>
+</li>
+	<li class="cat-item cat-item-473"><a href="http://journalistsresource.org/studies/politics/campaign-media" title="View all posts filed under Campaign Media">Campaign Media</a>
+</li>
+	<li class="cat-item cat-item-530"><a href="http://journalistsresource.org/studies/politics/citizen-action" title="View all posts filed under Citizen Action">Citizen Action</a>
+</li>
+	<li class="cat-item cat-item-531"><a href="http://journalistsresource.org/studies/politics/digital-democracy" title="View all posts filed under Digital Democracy">Digital Democracy</a>
+</li>
+	<li class="cat-item cat-item-251"><a href="http://journalistsresource.org/studies/politics/elections" title="View all posts filed under Elections">Elections</a>
+</li>
+	<li class="cat-item cat-item-527"><a href="http://journalistsresource.org/studies/politics/finance-lobbying" title="View all posts filed under Finance, Lobbying">Finance, Lobbying</a>
+</li>
+	<li class="cat-item cat-item-609"><a href="http://journalistsresource.org/studies/politics/polarization" title="View all posts filed under Polarization">Polarization</a>
+</li>
+	<li class="cat-item cat-item-439"><a href="http://journalistsresource.org/studies/politics/primaries" title="View all posts filed under Primaries">Primaries</a>
+</li>
+</ul>
+   </div>
+   <div class="footer-item">
+		<h4><a href="http://journalistsresource.org/studies/society">Society</a></h4>
+					<ul>	<li class="cat-item cat-item-383"><a href="http://journalistsresource.org/studies/society/culture" title="View all posts filed under Culture">Culture</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://journalistsresource.org/studies/society/education" title="View all posts filed under Education">Education</a>
+</li>
+	<li class="cat-item cat-item-610"><a href="http://journalistsresource.org/studies/society/gender-society" title="View all posts filed under Gender">Gender</a>
+</li>
+	<li class="cat-item cat-item-288"><a href="http://journalistsresource.org/studies/society/internet" title="View all posts filed under Internet">Internet</a>
+</li>
+	<li class="cat-item cat-item-177"><a href="http://journalistsresource.org/studies/society/medicine" title="View all posts filed under Medicine">Medicine</a>
+</li>
+	<li class="cat-item cat-item-307"><a href="http://journalistsresource.org/studies/society/news-media" title="View all posts filed under News Media">News Media</a>
+</li>
+	<li class="cat-item cat-item-256"><a href="http://journalistsresource.org/studies/society/race-society" title="View all posts filed under Race">Race</a>
+</li>
+	<li class="cat-item cat-item-495"><a href="http://journalistsresource.org/studies/society/social-media" title="View all posts filed under Social Media">Social Media</a>
+</li>
+</ul>
+   </div>
+   <div class="footer-item">
+		<h4><a href="http://journalistsresource.org/studies/environment">Environment</a></h4>
+					<ul>	<li class="cat-item cat-item-534"><a href="http://journalistsresource.org/studies/environment/cities" title="View all posts filed under Cities">Cities</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://journalistsresource.org/studies/environment/climate-change" title="View all posts filed under Climate Change">Climate Change</a>
+</li>
+	<li class="cat-item cat-item-535"><a href="http://journalistsresource.org/studies/environment/ecology" title="View all posts filed under Ecology">Ecology</a>
+</li>
+	<li class="cat-item cat-item-189"><a href="http://journalistsresource.org/studies/environment/energy" title="View all posts filed under Energy">Energy</a>
+</li>
+	<li class="cat-item cat-item-94"><a href="http://journalistsresource.org/studies/environment/food-agriculture" title="View all posts filed under Food, Agriculture">Food, Agriculture</a>
+</li>
+	<li class="cat-item cat-item-607"><a href="http://journalistsresource.org/studies/environment/pollution-environment" title="View all posts filed under Pollution">Pollution</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://journalistsresource.org/studies/environment/sustainability" title="View all posts filed under Sustainability">Sustainability</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://journalistsresource.org/studies/environment/transportation" title="View all posts filed under Transportation">Transportation</a>
+</li>
+</ul>
+   </div>
+   <div class="footer-item">
+		<h4><a href="http://journalistsresource.org/studies/international">International</a></h4>
+					<ul>	<li class="cat-item cat-item-513"><a href="http://journalistsresource.org/studies/international/africa" title="View all posts filed under Africa">Africa</a>
+</li>
+	<li class="cat-item cat-item-329"><a href="http://journalistsresource.org/studies/international/china" title="View all posts filed under China">China</a>
+</li>
+	<li class="cat-item cat-item-522"><a href="http://journalistsresource.org/studies/international/conflicts" title="View all posts filed under Conflicts">Conflicts</a>
+</li>
+	<li class="cat-item cat-item-292"><a href="http://journalistsresource.org/studies/international/development" title="View all posts filed under Development">Development</a>
+</li>
+	<li class="cat-item cat-item-524"><a href="http://journalistsresource.org/studies/international/global-tech" title="View all posts filed under Global Tech">Global Tech</a>
+</li>
+	<li class="cat-item cat-item-521"><a href="http://journalistsresource.org/studies/international/globalization" title="View all posts filed under Globalization">Globalization</a>
+</li>
+	<li class="cat-item cat-item-451"><a href="http://journalistsresource.org/studies/international/human-rights" title="View all posts filed under Human Rights">Human Rights</a>
+</li>
+	<li class="cat-item cat-item-523"><a href="http://journalistsresource.org/studies/international/foreign-policy" title="View all posts filed under U.S. Foreign Policy">U.S. Foreign Policy</a>
+</li>
+</ul>
+   </div>
+   <div class="clear"></div>
+   <div class="popular-tags">
+   		<p><span class="">Popular Tags:</span> <a href="/tag/technology">technology,</a> <a href="/tag/Latino">Latino,</a> <a href="/tag/african-american">African-American,</a> <a href="/tag/global-warming">global warming,</a> <a href="/tag/financial-crisis">financial crisis,</a> <a href="/tag/parenting">parenting,</a> <a href="/tag/cognition">cognition,</a> <a href="/tag/prisons">prisons,</a> <a href="/tag/pollution">pollution,</a> <a href="/tag/civil-rights">civil rights,</a> <a href="/tag/religion">religion,</a> <a href="/tag/asia">Asia,</a> <a href="/tag/higher-education">higher education,</a> <a href="/tag/aging">aging,</a> <a href="/tag/twitter">Twitter,</a> <a href="/tag/facebook">Facebook,</a> <a href="/tag/disasters">disasters,</a> <a href="/tag/obesity">obesity</a>, <a href="/tag/transit">mass transit</a>, <a href="/tag/sports">sports</a>, <a href="/tag/guns">guns,</a> <a href="/tag/sex-crimes">sex crimes,</a> <a href="/tag/Middle-East">Middle East,</a> <a href="/tag/water">water,</a> <a href="/tag/gay-issues">gay issues,</a> <a href="/tag/social-security">Social Security,</a> <a href="/tag/entrepreneurship">entrepreneurship,</a> <a href="/tag/addiction">addiction,</a> <a href="/tag/bicycling">bicycling,</a> <a href="/tag/entertainment">entertainment,</a> <a href="/tag/ethnicity-and-community">ethnicity and community,</a> <a href="/tag/bullying">bullying,</a> <a href="/tag/veterans">veterans,</a> <a href="/tag/hiv-aids">HIV/AIDS,</a> <a href="/tag/student-loans">student loans,</a> <a href="/tag/charter-schools">charter schools,</a> <a href="/tag/PTSD">PTSD,</a> <a href="/tag/gambling">gambling,</a> <a href="/tag/telecommunications">telecommunications,</a> <a href="/tag/women-and-work">women and work</a></p>
+   		
+   </div><!-- end popular-tags -->
+   </div><!-- end mega-footer -->
+
+        <div id="footer">
+      <a href="http://journalistsresource.org" title="Journalist&#039;s Resource" id="site-logo-2"></a>
+      <div class="footer-col" id="footer-col-1">
+        <p>A project of the Harvard Kennedy School's <a href="http://www.hks.harvard.edu/presspol/index.html">Shorenstein Center</a> and the <a href="/about/carnegie-knight-initiative/">Carnegie-Knight Initiative</a>, we're an open-access site that curates scholarly studies and reports.
+        
+        <!--Part of the <a href="/about/carnegie-knight-initiative/">Carnegie-Knight Initiative on the Future of Journalism Education</a>, Journalist's Resource is a project of the Harvard Kennedy School's <a href="http://www.hks.harvard.edu/presspol/index.html">Joan Shorenstein Center on the Press, Politics and Public Policy</a></p>-->
+        <h4><a href="/about/">Learn More </a> | <a href="/about/team/">Contact Us</a></h4>
+      </div>
+      <!--
+<div class="footer-col" id="footer-col-2">
+        <h4><a href="">Call To Action Click Here &#187;</a></h4>          
+        <h4><a href="">Call To Action Click Here &#187;</a></h4>          
+        <h4><a href="">Call To Action Click Here &#187;</a></h4>          
+      </div>    
+-->
+      <div class="clear"></div>
+    </div>
+    <div class="clear" id="footer-border">
+      <div class="float-left"><a href="http://creativecommons.org/licenses/by/3.0/" rel="license"><img style="border-width: 0;" src="http://i.creativecommons.org/l/by/3.0/88x31.png" alt="Creative Commons License" /></a>
+       	</div><!-- end .float-left -->
+       	
+       	
+
+	   	<p class="creative-commons">Unless otherwise noted this site and its contents are licensed <br />under a <a href="http://creativecommons.org/choose/results-one?license_code=by&jurisdiction=&version=3.0&lang=en">Creative Commons Attribution 3.0 Unported</a> license. </p>
+		
+		    </div><!-- end #footer-border -->
+  </div><!-- end #footer -->
+
+<!-- place scripts in the footer to make page load faster -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://journalistsresource.org/wp-content/themes/JournalistResource/scripts/jquery.ticker.js"></script>
+<script type="text/javascript" src="/wp-includes/js/jquery/suggest.js"></script>
+<script type="text/javascript" src="http://journalistsresource.org/wp-content/themes/JournalistResource/scripts/jquery.autofill-1.0.min.js"></script>
+<!--[if IE]>
+<script type="text/javascript">
+  $(document).ready(function() {  
+    $('#nav-menu-container li').hover(
+      function(){
+        $(this).addClass("over");
+      },
+      function(){
+        $(this).removeClass("over");                    
+      } 
+    );
+  });
+</script>
+<![endif]-->
+
+<script type="text/javascript">
+  $(document).ready(function() {  
+    // animation for hover on browse pages (archive/search) 
+    var $jrBrowsRel="", $jrBrowsRev="";
+    $('div.post-list h4 a.invert').hover(function(){
+      $jrBrowsRel = $(this);
+      $jrBrowsRev = $('#list-images div.column').find('a[rev~='+$jrBrowsRel.attr('rel')+']');
+      $jrBrowsRev.css('background-color','#6699cc');  
+    }, function(){
+      $jrBrowsRev.css('background-color', '#ffffff');      
+    });
+    
+    
+    // browse keyword searchbox and hidden tags field
+    var $browseKeyword = $('#browse-keyword-field'),
+        $browseTag = $('#browse-tag-field');
+
+    if ($browseTag.val()) {
+      // move hidden tags field value to the keyword search field
+      var existingKeywords = $browseKeyword.val();
+      if (existingKeywords.length) existingKeywords = ' ' + existingKeywords;
+      $browseKeyword.val('tag:' + $browseTag.val() + existingKeywords);
+      $browseTag.val('');
+    }
+
+    $browseTag.parent().submit(function(){
+      // on submit, move tags identified by 'tag:' over to hidden tags field
+      var keywords = $browseKeyword.val().split(' '),
+          tags = '';
+      if ($browseKeyword.val().length > 2 && $browseKeyword.val() != 'keyword (optional)') {
+        $browseKeyword.css('background-color', '#336699').animate({opacity: 0.4}, 700);            
+      }
+      $browseKeyword.val($browseKeyword.val().replace(/tag:[^\s]*/ig, ''));
+      for (k in keywords) {
+        if (keywords[k].indexOf('tag:') >=0) {
+          tags = keywords[k].replace(/tag:/, '');
+        }
+      }
+      $browseTag.val(tags);
+    });
+
+    // autocomplete tags and make sure to prepend with 'tag:'
+    // ( /wp-content/themes/JournalistResource/ajax/tags.php does a simple query to return related tags)    
+    $browseKeyword.suggest("http://journalistsresource.org/wp-content/themes/JournalistResource/ajax/tags.php", { 
+      delay: 100, 
+      minchars: 2, 
+      timeout:10000, 
+      onSelect: function(){$(this).val('tag:' + $(this).val())}  
+    });
+
+    // autofill in absence of keyword
+    if (!$browseKeyword.val()) {
+    	$browseKeyword.autofill({
+    		value: 'keyword (optional)'
+    	});
+    	$('#browse-form').submit(function(e){
+    	  if ($browseKeyword.val() == 'keyword (optional)') {
+    	    $browseKeyword.val('');
+    	  }
+    	});      
+    }
+    
+    // tabbed content for posts
+    $('#content_tab_menu a').click(
+      function(){
+        $('#content_tab_menu a').removeClass('current');
+        $('.content_tab').removeClass('current-tab');
+        var rel = '#' + $(this).attr('rel');
+        $(rel).addClass('current-tab');
+        $(this).addClass('current');
+      } 
+    );  
+    
+	$("ul.menu li#studies").click(function(){
+		$("ul.menu li#studies div#mega-drop").hide();
+	});
+		
+  });
+</script> 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5985794-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","b4e7c178d2","2089617","bwAHMkFZW0RTBxFaXVZKJAVHUVpZHRcMXVVUAA==",0,540,new Date().getTime(),"","","","",""]);</script></body>
+</html>
+<!-- Dynamic page generated in 0.536 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2013-09-30 08:16:31 -->

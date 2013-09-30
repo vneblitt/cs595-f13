@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head><script>
+   try{var nprmobilestoryid = 209895130; var nprmobileurl = 'http://m.npr.org/story/209895130';}catch(err){}
+</script>
+<script>
+      (function(){if("object"===typeof navigator&&("userAgent"in navigator&&"string"===typeof navigator.userAgent)&&navigator.userAgent.match(/Android|BlackBerry|iPhone|iPod|IEMobile|Windows.CE/i)&&!0===("string"===typeof location.search&&location.search.match(/device=iphone/)||"string"===typeof location.pathname&&location.pathname.match(/templates\/contact/)?!1:!0))try{"undefined"!==typeof nprmobileurl&&(window.location=-1===nprmobileurl.indexOf("?")?nprmobileurl+location.search:nprmobileurl+location.search.replace("?","&"))}catch(a){}})();
+</script>
+<script type="text/javascript">
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<title>Dumpling Week : NPR</title><meta charset="UTF-8" /><meta name="robots" content="noarchive,index,follow" /><meta name="Rating" content="General" />
+<!--dontvalidate-->
+<meta name="date" content="2013-08-07" />
+<!--/dontvalidate-->
+
+<!--dontvalidate-->
+<meta property="fb:app_id" content="138837436154588" />
+<!--/dontvalidate-->
+<link rel="canonical" href="http://www.npr.org/templates/archives/archive.php?thingId=209895130" />
+<!--dontvalidate-->
+<link rel="publisher" href="https://plus.google.com/114687971156212828314" />
+<!--/dontvalidate-->
+<meta name="description" content="Dumpling Week" /><link rel="alternate" type="application/rss+xml" title="Dumpling Week" href="/rss/rss.php?id=209895130" /><meta property="og:title" content="Dumpling Week" /><meta property="og:url" content="http://www.npr.org/templates/archives/archive.php?thingId=209895130" /><meta property="og:type" content="article" /><meta property="og:description" content="Dumpling Week" /><meta property="og:image" content="http://media.npr.org/chrome/news/nprlogo_138x46.gif" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><link type="text/css" rel="stylesheet" media="screen, print" href="http://s.npr.org/templates/css/generated/fingerprint/newsAggregation-1d0a662022fa53dbc4e8788e8f90f4a34d2b10c1.css" /><script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/newsAgg-c7932ee914236b0fa8c2d8378673cfd6c63c3d80.js">
+   </script>
+<script>
+   AddNamespace('NPR.serverVars'); jQuery.extend(NPR.serverVars,{"facebookAppId":"138837436154588","closeurl":"http:\/\/www.npr.org\/templates\/socialmedia\/close.html"});
+</script>
+<script type="text/javascript">
+   document.domain="npr.org";
+</script>
+
+
+        <!--[if IE]> 
+		<style type="text/css" media="screen, print">
+		@import "/templates/css/news/ie.css";
+		</style>
+        <![endif]-->
+		
+		
+<!-- START UNDERWRITING -->
+<script type="text/javascript">
+   
+googletag.cmd.push(function(){try{if(DFP.shouldRenderForDevice('88')){googletag.defineSlot("/6735/n6735.NPR/no_topic",[88,31],'ad-88').addService(googletag.pubads());}
+if(DFP.shouldRenderForDevice('desktop')){googletag.defineSlot("/6735/n6735.NPR/no_topic",[[300,250],[300,600]],'ad-desktop').addService(googletag.pubads());}
+googletag.pubads().setTargeting('storyId','209895130');var deviceString='';var ua=navigator.userAgent.toLowerCase();if(ua.indexOf("android")>-1){googletag.pubads().setTargeting('device','android');}
+else if(ua.match(/(iPad|iPhone|iPod)/i)){googletag.pubads().setTargeting('device','ios');}
+if(typeof DFP.queryParameters.sc==='string'&&DFP.queryParameters.sc.length>0){scValue=DFP.queryParameters.sc;}
+else if(typeof document.referrer==='string'&&document.referrer.search('facebook.com')>-1){scValue='fb';}
+else if(typeof DFP.queryParameters.ft==='string'){scValue=DFP.queryParameters.ft;}
+googletag.pubads().setTargeting('sc',scValue);var utm_source=typeof DFP.queryParameters.utm_source==='string'&&DFP.queryParameters.utm_source.length>0?DFP.queryParameters.utm_source:'';var utm_medium=typeof DFP.queryParameters.utm_medium==='string'&&DFP.queryParameters.utm_medium.length>0?DFP.queryParameters.utm_medium:'';googletag.pubads().setTargeting('utm_source',utm_source);googletag.pubads().setTargeting('utm_medium',utm_medium);var orient='';if(NPR.Devices.isOnPhone()||NPR.Devices.isOnTablet()){if(window.orientation==0||window.orientation==180){orient='portrait';}else if(window.orientation==90||window.orientation==-90){orient='landscape';}}
+googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.enableServices();}catch(e){NPR.messaging.exception(e,'Define Google Publisher Tags',NPR.messaging.constants.SPONSORSHIP_ERROR);}});
+</script>
+
+<!-- END UNDERWRITING -->
+</head><body id="news" class="tmplNewsArchive type24 id209895130">        <script type="text/javascript">
+            AddNamespace('NPR.socialMedia');
+            NPR.socialMedia.twitterSource = "@nprnews";
+        </script><script>AddNamespace("NPR.pageInfo");try{(function(){var info={"sessionScope":2,"pageScope":3,"breadcrumbs":["Dumpling Week"],"orgId":"1","topics":[0],"pageTypeId":24,"internalCampaign":null,"campaignSource":null,"campaignName":null,"aggregations":[],"aggregationsText":null,"chartbeatAccount":"18888","webHost":"http:\/\/www.npr.org"}
+NPR.pageInfo=$.extend(NPR.pageInfo,info);})();}catch(e){}</script><script type="text/javascript">var pageTrackingCPTV=function(){try{AddNamespace("NPR.metrics");NPR.metrics.pageImpression();}catch(e){NPR.messaging.exception(e,'commonPageTrackView','document.ready',NPR.messaging.constants.METRICS_ERROR);}};if($('docreadybind').length){$('docreadybind').bind('click',pageTrackingCPTV);}else{$(document).ready(pageTrackingCPTV);}</script> <!--googleoff: index--><div id="sectionWrap" class="">
+      <script type="text/javascript">
+//<![CDATA[
+
+function getDateStr()
+    {
+        var today = new Date();
+        var year = today.getYear();
+        if(year<1000) year+=1900;
+        var todayStr = toFullMonth(today.getMonth()) + " " + today.getDate() + ", " + year;
+        return todayStr;
+    }
+
+//]]>
+</script>
+
+<div id="header">
+
+    <div id="login">
+		<div id="todaysdate">
+		<script type="text/javascript">
+			 //<![CDATA[
+			 document.write(getDateStr());
+			 //]]>
+		</script>
+		</div>
+		
+		<div class="loginwrap">	
+			<div class="donate"><a href="/stations/donate/index.php" data-action="Click Business Link" data-metrics='{"action":"Click Business Link","label":"/stations/donate/index.php","category":"News Navigation"}'></a></div>
+	    	<p id="loginPElm">
+				<!--<a href="/stations/donate/" class="donate">Donate</a> | -->
+				<a href="http://shop.npr.org/?utm_source=topnav&amp;utm_medium=topnav&amp;utm_campaign=topnav" class="shop" data-action="Click Business Link" data-metrics='{"action":"Click Business Link","label":"http://shop.npr.org/?utm_source=topnav&amp;utm_medium=topnav&amp;utm_campaign=topnav","category":"News Navigation"}'>NPR Shop</a> |
+				<a href="/templates/community/" class="comm" data-action="Click Business Link" data-metrics='{"action":"Click Business Link","label":"/templates/community/","category":"News Navigation"}'>NPR Social Media</a> |
+				<a href="/templates/reg/login.php" data-action="Click Business Link" data-metrics='{"action":"Click Business Link","label":"/templates/reg/login.php","category":"News Navigation"}'>Sign In</a> |
+				<a href="/templates/reg" class="reg" data-action="Click Business Link" data-metrics='{"action":"Click Business Link","label":"/templates/reg","category":"News Navigation"}'>Register</a>
+			</p>
+		</div>			
+			
+	</div>
+
+    <div class="headercontent">
+        <a href="/" data-action="Click Logo" data-metrics='{"action":"Click Logo","label":"/","category":"News Navigation"}'><img src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" width="138" height="46" alt="NPR" /></a>
+
+        <div id="stationLocalizationWrap" class="supportwrap">
+            <div class="support">
+
+                <div class="tab" id="globalstationlocation">
+                </div>
+                <script src="/templates/javascript/localize/station_include_global.js" type="text/javascript"></script>
+
+                <p><a href="/templates/stations/stations/" class="find" data-metrics='{"action":"Toggle Drawer","category":"Station Drawer"}'>Find a Station</a></p>
+            </div>
+        </div>
+
+        <!--<div class="topnavSponsor">
+            <div class="searchSponsorTxt">Support<br />provided by:</div>
+            <div class="searchSponsor"><a href=""><img src="/banners/generic_88x31.gif" width="88" height="31" alt="" /></a></div>
+        </div>-->
+		
+		<!-- DFP Search Sponsorship -->
+        <!-- COMMENTED IN - IN USE CURRENTLY -->
+        <div class="topnavSponsor" id="ad-88">
+            <div class="ad-88-text">Support<br />provided by:</div>
+
+			<script type="text/javascript">
+			<!--
+			try {
+			    googletag.cmd.push(function() { googletag.display('ad-88'); });
+			} catch(e){
+			    NPR.messaging.warning('Problem fetching/rendering ad server code: ' + e.message,'googletag.display',NPR.messaging.constants.SPONSORSHIP_ERROR);
+			}
+			// -->
+			</script>
+        </div>				
+
+        <form action="/search/index.php" method="get" name="searchForm" id="searchForm" class="search">
+			<label for="searchinput">Search</label>
+			<input type="text" name="searchinput" id="searchinput" class="textbox searchbox" />
+			<input type="button" value="Go" class="btn_go" onclick="submit();" />
+		</form>
+
+    </div>
+
+    <!-- localization dropdown -->
+    <div class="ddstn">
+
+        <!-- station info will be written here -->
+        <div id="station_info" class="station"></div>
+
+        <a href="javascript:void(0);" class="closemenu">close</a>
+
+        <div class="stationdata_arrow">&nbsp;</div>
+
+    </div>
+
+
+    <!-- global nav -->
+    <ul id="nav">
+        <li class="navhome"><a href="/" data-action="Click Home" data-metrics='{"action":"Click Home","label":"/","category":"News Navigation"}'>home</a></li>
+        <li class="navnews"><a href="/sections/news/" data-action="Click News" data-metrics='{"action":"Click News","label":"/sections/news/","category":"News Navigation"}'>news</a></li>
+        <li class="navarts"><a href="/sections/arts/" data-action="Click Arts & Life" data-metrics='{"action":"Click Arts & Life","label":"/sections/arts/","category":"News Navigation"}'>arts &amp; life</a></li>
+        <li class="navmusic"><a href="/music/" data-action="Click Music" data-metrics='{"action":"Click Music","label":"/music/","category":"News Navigation"}'>music</a></li>
+        <li class="navprograms"><a href="javascript:void(0);" data-action="Open Program Drawer" class="programs" data-metrics='{"action":"Open Program Drawer","label":"javascript:void(0);","category":"News Navigation"}'>programs</a></li>
+        <li class="navlisten"><a href="javascript:void(0);" data-action="Open Listen Drawer" class="listen" data-metrics='{"action":"Open Listen Drawer","label":"javascript:void(0);","category":"News Navigation"}'>listen</a></li>
+        <li class="navhourly"><a href="javascript:getNewsCast();" data-action="Play Hourly News" class="hourlyNews" data-metrics='{"action":"Play Hourly News","label":"navigation","category":"News Navigation"}'></a></li>
+        <li class="navpodcasts"><a href="/podcasts/" data-action="Click Podcasts" data-metrics='{"action":"Click Podcasts","label":"/podcasts/","category":"News Navigation"}'></a></li>
+    </ul>
+
+    <!-- programs dropdown -->
+    <div id="menuprograms">
+        <div class="col news">
+            <h3>news</h3>
+            <ul class="left">
+                <li><a href="/programs/morning-edition/" data-metrics='{"action":"Click Program","label":"/programs/morning-edition/","category":"News Navigation"}'>Morning Edition</a></li>
+                <li><a href="/programs/all-things-considered/" data-metrics='{"action":"Click Program","label":"/programs/all-things-considered/","category":"News Navigation"}'>All Things Considered</a></li>
+                <li><a href="/programs/fresh-air/" data-metrics='{"action":"Click Program","label":"/programs/fresh-air/","category":"News Navigation"}'>Fresh Air</a></li>
+                <li><a href="http://hereandnow.wbur.org/" data-metrics='{"action":"Click Program","label":"http://hereandnow.wbur.org/","category":"News Navigation"}'>Here &amp; Now</a></li>
+                <li><a href="http://thedianerehmshow.org" data-metrics='{"action":"Click Program","label":"http://thedianerehmshow.org","category":"News Navigation"}'>The Diane Rehm Show</a></li>
+                <li><a href="http://www.onthemedia.org" data-metrics='{"action":"Click Program","label":"http://www.onthemedia.org","category":"News Navigation"}'>On The Media</a></li>
+                <li><a href="http://www.onpointradio.org/" data-metrics='{"action":"Click Program","label":"http://www.onpointradio.org/","category":"News Navigation"}'>On Point</a></li>
+				<li><a href="/programs/talk-of-the-nation/" data-metrics='{"action":"Click Program","label":"/programs/talk-of-the-nation/","category":"News Navigation"}'>Talk of the Nation</a></li>
+            </ul>
+            <ul class="right">
+				<li><a href="http://sciencefriday.com/" data-metrics='{"action":"Click Program","label":"http://sciencefriday.com/","category":"News Navigation"}'>Science Friday</a></li>
+				<li><a href="/programs/tell-me-more/" data-metrics='{"action":"Click Program","label":"/programs/tell-me-more/","category":"News Navigation"}'>Tell Me More</a></li>
+                <li><a href="/programs/weekend-edition-saturday/" data-metrics='{"action":"Click Program","label":"/programs/weekend-edition-saturday/","category":"News Navigation"}'>Weekend Edition Saturday</a></li>
+                <li><a href="/programs/weekend-edition-sunday/" data-metrics='{"action":"Click Program","label":"/programs/weekend-edition-sunday/","category":"News Navigation"}'>Weekend Edition Sunday</a></li>
+                <li class="hdr">Also heard on NPR stations:</li>
+                <li class="other"><a href="http://marketplace.publicradio.org" data-metrics='{"action":"Click Program","label":"http://marketplace.publicradio.org","category":"News Navigation"}'>Marketplace <span>APM</span></a></li>
+            </ul>
+        </div>
+
+        <div class="col entertainment">
+            <h3>arts &amp; life</h3>
+            <ul>
+                <li><a href="/programs/ask-me-another/" data-metrics='{"action":"Click Program","label":"/programs/ask-me-another/","category":"News Navigation"}'>Ask Me Another</a></li>
+                <li><a href="http://www.cartalk.com" data-metrics='{"action":"Click Program","label":"http://www.cartalk.com","category":"News Navigation"}'>Car Talk</a></li>
+				<li><a href="http://www.radiolab.org" data-metrics='{"action":"Click Program","label":"http://www.radiolab.org","category":"News Navigation"}'>Radiolab</a></li>
+				<li><a href="http://snapjudgment.org" data-metrics='{"action":"Click Program","label":"http://snapjudgment.org","category":"News Navigation"}'>Snap Judgment</a></li>
+				<li><a href="/programs/ted-radio-hour/" data-metrics='{"action":"Click Program","label":"/programs/ted-radio-hour/","category":"News Navigation"}'>TED Radio Hour</a></li>
+                <li><a href="/programs/wait-wait-dont-tell-me/" data-metrics='{"action":"Click Program","label":"/programs/wait-wait-dont-tell-me/","category":"News Navigation"}'>Wait Wait...Don't Tell Me!</a></li>
+                <li class="hdr">Also heard on NPR stations:</li>
+                <li class="other"><a href="http://www.thisamericanlife.org" data-metrics='{"action":"Click Program","label":"http://www.thisamericanlife.org","category":"News Navigation"}'>This American Life <span>PRI</span></a></li>
+                <li class="other"><a href="http://prairiehome.publicradio.org" data-metrics='{"action":"Click Program","label":"http://prairiehome.publicradio.org","category":"News Navigation"}'>A Prairie Home Companion <span>APM</span></a></li>
+            </ul>
+        </div>
+
+        <div class="col music">
+            <h3>music</h3>
+            <ul class="left">
+                <li><a href="/programs/all-songs-considered/" data-metrics='{"action":"Click Program","label":"/programs/all-songs-considered/","category":"News Navigation"}'>All Songs Considered</a></li>
+                <li><a href="/series/alt-latino/" data-metrics='{"action":"Click Program","label":"/series/alt-latino/","category":"News Navigation"}'>Alt.Latino</a></li>
+                <li><a href="/series/98679384/first-listen" data-metrics='{"action":"Click Program","label":"/series/98679384/first-listen","category":"News Navigation"}'>First Listen</a></li>
+                <li><a href="/blogs/metropolis/"  data-metrics='{"action":"Click Program","label":"/blogs/metropolis/","category":"News Navigation"}'>Metropolis</a></li>
+                <li><a href="/blogs/microphonecheck/"  data-metrics='{"action":"Click Program","label":"/blogs/microphonecheck/","category":"News Navigation"}'>Microphone Check</a></li>
+				<li><a href="http://www.fromthetop.org/" data-metrics='{"action":"Click Program","label":"http://www.fromthetop.org/","category":"News Navigation"}'>From The Top</a></li>
+				<li><a href="http://www.npr.org/programs/jazzset/" data-metrics='{"action":"Click Program","label":"http://www.npr.org/programs/jazzset/","category":"News Navigation"}'>JazzSet</a></li>
+			</ul>
+            <ul class="right">
+                <li><a href="/programs/piano-jazz/" data-metrics='{"action":"Click Program","label":"/programs/piano-jazz/","category":"News Navigation"}'>Piano Jazz</a></li>
+                <li><a href="/series/150560513/song-travels" data-metrics='{"action":"Click Program","label":"/series/150560513/song-travels","category":"News Navigation"}'>Song Travels</a></li>
+                <li><a href="/series/103063413/the-thistle-and-shamrock" data-metrics='{"action":"Click Program","label":"/series/103063413/the-thistle-and-shamrock","category":"News Navigation"}'>The Thistle &amp; Shamrock</a></li>
+                <li><a href="/programs/world-cafe/" data-metrics='{"action":"Click Program","label":"/programs/world-cafe/","category":"News Navigation"}'>World Cafe</a></li>
+            </ul>
+        </div>
+
+        <div class="col special">
+            <h3>special series</h3>
+            <ul>
+                <li><a href="/series/4516989/storycorps" data-metrics='{"action":"Click Program","label":"/series/4516989/storycorps","category":"News Navigation"}'>StoryCorps</a></li>
+                <li><a href="/blogs/money/" data-metrics='{"action":"Click Program","label":"/blogs/money/","category":"News Navigation"}'>Planet Money</a></li>
+				<li><a href="/blogs/pictureshow/" data-metrics='{"action":"Click Program","label":"/blogs/pictureshow/","category":"News Navigation"}'>Picture Show</a></li>
+				<li><a href="/blogs/krulwich/" data-metrics='{"action":"Click Program","label":"/blogs/krulwich/","category":"News Navigation"}'>Krulwich Wonders...</a></li>
+				<li><a href="/series/153299281/cabinet-of-wonders" data-metrics='{"action":"Click Program","label":"/series/153299281/cabinet-of-wonders","category":"News Navigation"}'>Cabinet of Wonders</a></li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <a href="/programs/" data-metrics='{"action":"Click Program","label":"/programs/","category":"News Navigation"}'>PUBLIC RADIO PROGRAMS A-Z </a> <span class="pipe">|</span> <a href="#" class="closemenu">close</a>
+        </div>
+
+
+    </div>
+    <!-- end programs dropdown -->
+
+
+    <!-- listen dropdown -->
+    <div id="menulisten">
+        <div class="audiostreams">
+			<h3>hear continuous streams</h3>
+			<div class="listenblock">
+				<div class="primary">
+					<a href="javascript:getProgramStream();" class="listenicon" data-action="Play Program Stream" data-metrics='{"action":"Play Program Stream","label":"Drawer","category":"News Navigation"}'></a>
+					<div class="listencontent">
+						<h4><a href="javascript:getProgramStream();" data-action="Play Program Stream" data-metrics='{"action":"Play Program Stream","label":"Drawer","category":"News Navigation"}'>24-Hour Program Stream</a></h4>
+						<p class="info">NPR News and Shows</p>
+					</div>
+				</div>
+				<div class="tab"><span><a href="/audiohelp/progstream.html" class="trans" data-metrics='{"action":"Click Listen Link","label":"/audiohelp/progstream.html","category":"News Navigation"}'>View Schedule</a></span></div>
+				<p class="findstreams"><a href="/templates/stations/stations/" data-metrics='{"action":"Click Listen Link","label":"/templates/stations/stations/","category":"News Navigation"}'>Find Stations</a> | <a href="/templates/websites/musicstreams.php" data-metrics='{"action":"Click Listen Link","label":"/templates/websites/musicstreams.php","category":"News Navigation"}'>Music Streams</a></p> 
+			</div>
+		</div>
+
+		<script type="text/javascript" src="/include/navigation/news/listenLatestProgram.js"></script>
+
+		<div class="hourlynews">
+			<h3>hear the latest news</h3>
+			<div class="listenblock">
+				<div class="primary">
+					<a href="javascript:getNewsCast();" class="listenicon" data-action="Play Hourly News" data-metrics='{"action":"Play Hourly News","label":"Drawer","category":"News Navigation"}'></a>
+					<div class="listencontent">
+						<h4><a href="javascript:getNewsCast();" data-action="Play Hourly News" data-metrics='{"action":"Play Hourly News","label":"Drawer","category":"News Navigation"}'>Hourly News Summary</a></h4>
+						<div class="duration">[4 min 45 sec]</div>
+						<p class="info">Latest NPR Newscast</p>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div class="footer">
+            <a href="/programs/" data-metrics='{"action":"Click Listen Link","label":"/programs/","category":"News Navigation"}'>Public Radio Programs A-Z</a> <span class="pipe">|</span> <a href="#" class="closemenu">close</a>
+        </div>
+
+
+    </div>
+    <!-- listen dropdown -->
+    
+    <div class="beta"></div>
+
+</div>
+   <div id="wrapper">
+            <div id="pagespanglobal">
+               </div>
+      
+<!-- END ID="PAGESPANGLOBAL" -->
+      <div id="wrapper_main">
+                  <div id="main_content">
+                        <div id="content">
+                              <h1 class="archivehdr"> archive</h1>
+               <div class="storylist archive">
+                                    <div class="datehdr">
+                     Sunday, September 01, 2013
+                  </div>
+                  <div class="bucket img138">
+                                          <h3 class="slug"><a href="http://www.npr.org/blogs/thesalt/">The Salt</a></h3>
+                     <h4><a href="http://www.npr.org/blogs/thesalt/2013/09/01/214237586/discovering-the-small-miracle-of-the-soup-dumpling">Discovering The Small Miracle Of The Soup Dumpling</a></h4>
+                     <a href="http://www.npr.org/blogs/thesalt/2013/09/01/214237586/discovering-the-small-miracle-of-the-soup-dumpling" id="featuredStackSmallImage214237586" class="photowrap storylocation"><img src="http://media.npr.org/assets/img/2013/08/21/soup-dumpling-caba299a6a3e29c92502ea8b586dc179b48ec107-s1.jpg" class="img138" width="138" title="A xiao long bao, or soup dumpling, in a large spoon." alt="A xiao long bao, or soup dumpling, in a large spoon." /></a>                     <div class="bucketblock">
+                                                <p><span class="date">September 1, 2013</span> Soup dumplings are a miracle of transubstantiation, and the reciprocal of every other dumpling you've had. If they're made right, the dough will release the broth and fade away as you snap through the meaty filling.</p>                        <p><a class="transcript" href="http://www.npr.org/blogs/thesalt/2013/09/01/214237586/discovering-the-small-miracle-of-the-soup-dumpling">Summary</a></p>
+                     </div>
+                     
+<!-- END CLASS="BUCKETBLOCK" -->
+                  </div>
+                  
+<!-- END CLASS="BUCKET IMG138" -->
+                  <div class="datehdr">
+                     Friday, August 30, 2013
+                  </div>
+                  <div class="bucket img138">
+                                          <h3 class="slug"><a href="http://www.npr.org/blogs/thesalt/">The Salt</a></h3>
+                     <h4><a href="http://www.npr.org/blogs/thesalt/2013/08/30/216899819/dumplings-taste-better-when-filled-with-memories">Dumplings Taste Better When Filled With Memories</a></h4>
+                     <a href="http://www.npr.org/blogs/thesalt/2013/08/30/216899819/dumplings-taste-better-when-filled-with-memories" id="featuredStackSmallImage216899819" class="photowrap storylocation"><img src="http://media.npr.org/assets/img/2013/08/29/undefined-d13a2ea0ccc52d4d71f80f304b28a1fc8f4240c8-s1.jpg" class="img138" width="138" title="Just about every culture has a dumpling. For many immigrants and first-generation Americans, dumplings serve as a delicious taste of home and heritage. Pierogis are the Polish take on the form." alt="Just about every culture has a dumpling. For many immigrants and first-generation Americans, dumplings serve as a delicious taste of home and heritage. Pierogis are the Polish take on the form." /></a>                     <div class="bucketblock">
+                                                <p><span class="date">August 30, 2013</span> Just about every culture has dumplings. For the Polish, it's pierogi, and as <em>Morning Edition</em> editor Renita Jablonski writes, this little dumpling plays a big role for many Polish-Americans in preserving and celebrating their heritage.</p>                        <p><a class="transcript" href="http://www.npr.org/blogs/thesalt/2013/08/30/216899819/dumplings-taste-better-when-filled-with-memories">Transcript</a></p>                        <p id="res217099429" class="audiorow"><a class="listen" href="javascript:NPR.Player.openPlayer(216899819, 217099429, null, NPR.Player.Action.PLAY_NOW, NPR.Player.Type.STORY, '0')"  data-metrics='{"category":"Segment Audio","action":"Play audio","label":"20130830_me_04.mp3"}' >On <em>Morning Edition</em></a><a class="add" href="javascript:NPR.Player.openPlayer(216899819, 217099429, null, NPR.Player.Action.ADD_TO_PLAYLIST, NPR.Player.Type.STORY, '0')"  data-metrics='{"category":"Segment Audio","action":"Playlist","label":"20130830_me_04.mp3"}' >Playlist</a></p>
+                     </div>
+                     
+<!-- END CLASS="BUCKETBLOCK" -->
+                  </div>
+                  
+<!-- END CLASS="BUCKET IMG138" -->
+                  <div class="datehdr">
+                     Thursday, August 29, 2013
+                  </div>
+                  <div class="bucket img138">
+                                          <h3 class="slug"><a href="http://www.npr.org/blogs/thesalt/">The Salt</a></h3>
+                     <h4><a href="http://www.npr.org/blogs/thesalt/2013/08/29/216115204/move-over-potstickers-china-cooks-up-hundreds-of-dumplings">Move Over, Pot Stickers: China Cooks Up Hundreds Of Dumplings</a></h4>
+                     <a href="http://www.npr.org/blogs/thesalt/2013/08/29/216115204/move-over-potstickers-china-cooks-up-hundreds-of-dumplings" id="featuredStackSmallImage216115204" class="photowrap storylocation"><img src="http://media.npr.org/assets/img/2013/08/28/md1674004-kuhn-7-5f8542ec97d1080226b805cad8ef610dde0bd278-s1.jpg" class="img138" width="138" title="A Flock of Dumpling Ducklings: What's inside? Roasted Beijing duck, of course." alt="A Flock of Dumpling Ducklings: What's inside? Roasted Beijing duck, of course." /></a>                     <div class="bucketblock">
+                                                <p><span class="date">August 29, 2013</span> Dumplings are a huge part of Chinese culinary tradition, and restaurants there cater to the nation's obsession with a dazzlingly array of dumpling shapes and fillings, including green frogs stuffed with bullfrog meat and a flock of birds filled with roasted Beijing duck.</p>                        <p><a class="transcript" href="http://www.npr.org/blogs/thesalt/2013/08/29/216115204/move-over-potstickers-china-cooks-up-hundreds-of-dumplings">Transcript</a></p>                        <p id="res216722500" class="audiorow"><a class="listen" href="javascript:NPR.Player.openPlayer(216115204, 216722500, null, NPR.Player.Action.PLAY_NOW, NPR.Player.Type.STORY, '0')"  data-metrics='{"category":"Segment Audio","action":"Play audio","label":"20130829_me_17.mp3"}' >On <em>Morning Edition</em></a><a class="add" href="javascript:NPR.Player.openPlayer(216115204, 216722500, null, NPR.Player.Action.ADD_TO_PLAYLIST, NPR.Player.Type.STORY, '0')"  data-metrics='{"category":"Segment Audio","action":"Playlist","label":"20130829_me_17.mp3"}' >Playlist</a></p>
+                     </div>
+                     
+<!-- END CLASS="BUCKETBLOCK" -->
+                  </div>
+                  
+<!-- END CLASS="BUCKET IMG138" -->
+                  <div class="datehdr">
+                     Wednesday, August 28, 2013
+                  </div>
+                  <div class="bucket img138">
+                                          <h3 class="slug"><a href="http://www.npr.org/blogs/thesalt/">The Salt</a></h3>
+                     <h4><a href="http://www.npr.org/blogs/thesalt/2013/08/28/209894806/you-say-kubbeh-i-say-kibbeh-lets-eat-em-all-right-now">You Say 'Kubbeh,' I Say 'Kibbeh.' Let's Eat 'Em All Right Now</a></h4>
+                     <a href="http://www.npr.org/blogs/thesalt/2013/08/28/209894806/you-say-kubbeh-i-say-kibbeh-lets-eat-em-all-right-now" id="featuredStackSmallImage209894806" class="photowrap storylocation"><img src="http://media.npr.org/assets/img/2013/08/14/kubbeh_001_promo-ba6f753ec48563c0d926008366a47a2f317d7901-s1.jpg" class="img138" width="138" title="At the Te'amim — or Tastes — cooking camp in Jerusalem, kids learn how to make kubbeh hamusta, a popular regional dumpling from Kurdistan." alt="At the Te'amim — or Tastes — cooking camp in Jerusalem, kids learn how to make kubbeh hamusta, a popular regional dumpling from Kurdistan." /></a>                     <div class="bucketblock">
+                                                <p><span class="date">August 28, 2013</span> Regardless of what you call them — kibbeh, kubbe, kobeba — bulgur-and-wheat dumplings are a beloved staple across the Levant. And as with hummus, there are local varieties from Iraq to Egypt. In Jerusalem, kids at a cooking camp learn to make the lemony kubbeh hamusta from Kurdistan.</p>                        <p><a class="transcript" href="http://www.npr.org/blogs/thesalt/2013/08/28/209894806/you-say-kubbeh-i-say-kibbeh-lets-eat-em-all-right-now">Transcript</a></p>                        <p id="res216355767" class="audiorow"><a class="listen" href="javascript:NPR.Player.openPlayer(209894806, 216355767, null, NPR.Player.Action.PLAY_NOW, NPR.Player.Type.STORY, '0')"  data-metrics='{"category":"Segment Audio","action":"Play audio","label":"20130828_me_05.mp3"}' >On <em>Morning Edition</em></a><a class="add" href="javascript:NPR.Player.openPlayer(209894806, 216355767, null, NPR.Player.Action.ADD_TO_PLAYLIST, NPR.Player.Type.STORY, '0')"  data-metrics='{"category":"Segment Audio","action":"Playlist","label":"20130828_me_05.mp3"}' >Playlist</a></p>
+                     </div>
+                     
+<!-- END CLASS="BUCKETBLOCK" -->
+                  </div>
+                  
+<!-- END CLASS="BUCKET IMG138" -->
+                  <div class="datehdr">
+                     Tuesday, August 27, 2013
+                  </div>
+                  <div class="bucket img138">
+                                          <h3 class="slug"><a href="http://www.npr.org/blogs/thesalt/">The Salt</a></h3>
+                     <h4><a href="http://www.npr.org/blogs/thesalt/2013/08/23/214869226/our-quest-to-build-a-great-global-dumpling-list">Our Quest To Build A Great Global Dumpling List</a></h4>
+                     <a href="http://www.npr.org/blogs/thesalt/2013/08/23/214869226/our-quest-to-build-a-great-global-dumpling-list" id="featuredStackSmallImage214869226" class="photowrap storylocation"><img src="http://media.npr.org/assets/img/2013/08/27/khinkali-6ed74894f1817657b926fe31b06b87d4caaa3f45-s1.jpg" class="img138" width="138" title="Khinkali dumplings hail from Georgia and Azerbaijan." alt="Khinkali dumplings hail from Georgia and Azerbaijan." /></a>                     <div class="bucketblock">
+                                                <p><span class="date">August 27, 2013</span> The pot sticker and the ravioli are global superstars, but most dumplings are known only regionally. And it's the lesser-known examples, like the Cherokee grape and the Russian <em>pelmeni</em>, that show how truly universal dumplings are. Help us create a master list.</p>                        <p><a class="transcript" href="http://www.npr.org/blogs/thesalt/2013/08/23/214869226/our-quest-to-build-a-great-global-dumpling-list">Summary</a></p>
+                     </div>
+                     
+<!-- END CLASS="BUCKETBLOCK" -->
+                  </div>
+                  
+<!-- END CLASS="BUCKET IMG138" -->
+                  <div class="bucket img138">
+                                          <h3 class="slug"><a href="http://www.npr.org/blogs/thesalt/">The Salt</a></h3>
+                     <h4><a href="http://www.npr.org/blogs/thesalt/2013/08/27/210555719/tortellini-the-dumpling-inspired-by-venus-navel">Tortellini, The Dumpling Inspired By Venus' Navel</a></h4>
+                     <a href="http://www.npr.org/blogs/thesalt/2013/08/27/210555719/tortellini-the-dumpling-inspired-by-venus-navel" id="featuredStackSmallImage210555719" class="photowrap storylocation"><img src="http://media.npr.org/assets/img/2013/08/09/venus-b4b884650fac6cdd35730684c394a3b4c69c0746-s1.jpg" class="img138" width="138" title="Even in Sandro Botticelli's painting The Birth of Venus, the goddess's belly resembles a plump, firm tortellino." alt="Even in Sandro Botticelli's painting The Birth of Venus, the goddess's belly resembles a plump, firm tortellino." /></a>                     <div class="bucketblock">
+                                                <p><span class="date">August 27, 2013</span> Legend has it that an innkeeper caught a glimpse of the goddess of love in her bedroom and then rushed to his kitchen to create an egg pasta inspired by Venus' belly button. Today the art of making tortellini is endangered, but several groups are devising creative ways to preserve the tradition.</p>                        <p><a class="transcript" href="http://www.npr.org/blogs/thesalt/2013/08/27/210555719/tortellini-the-dumpling-inspired-by-venus-navel">Transcript</a></p>                        <p id="res216006342" class="audiorow"><a class="listen" href="javascript:NPR.Player.openPlayer(210555719, 216006342, null, NPR.Player.Action.PLAY_NOW, NPR.Player.Type.STORY, '0')"  data-metrics='{"category":"Segment Audio","action":"Play audio","label":"20130827_me_05.mp3"}' >On <em>Morning Edition</em></a><a class="add" href="javascript:NPR.Player.openPlayer(210555719, 216006342, null, NPR.Player.Action.ADD_TO_PLAYLIST, NPR.Player.Type.STORY, '0')"  data-metrics='{"category":"Segment Audio","action":"Playlist","label":"20130827_me_05.mp3"}' >Playlist</a></p>
+                     </div>
+                     
+<!-- END CLASS="BUCKETBLOCK" -->
+                  </div>
+                  
+<!-- END CLASS="BUCKET IMG138" -->
+                  <div class="datehdr">
+                     Monday, August 26, 2013
+                  </div>
+                  <div class="bucket img138">
+                                          <h3 class="slug"><a href="http://www.npr.org/blogs/thesalt/">The Salt</a></h3>
+                     <h4><a href="http://www.npr.org/blogs/thesalt/2013/08/26/213902316/the-great-dumpling-debate-what-makes-the-cut">The Great Dumpling Debate: What Makes The Cut?</a></h4>
+                     <a href="http://www.npr.org/blogs/thesalt/2013/08/26/213902316/the-great-dumpling-debate-what-makes-the-cut" id="featuredStackSmallImage213902316" class="photowrap storylocation"><img src="http://media.npr.org/assets/img/2013/08/26/dumplings-dd587ef9e30b9b6027998c46cf5a9657235d56bf-s1.jpg" class="img138" width="138" title="Which of these are dumplings?" alt="Which of these are dumplings?" /></a>                     <div class="bucketblock">
+                                                <p><span class="date">August 26, 2013</span> The humble dumpling seems unencumbered by controversy until you start trying to define it. We asked three experts to weigh in. Tell us what you think, too.</p>                        <p><a class="transcript" href="http://www.npr.org/blogs/thesalt/2013/08/26/213902316/the-great-dumpling-debate-what-makes-the-cut">Summary</a></p>
+                     </div>
+                     
+<!-- END CLASS="BUCKETBLOCK" -->
+                  </div>
+                  
+<!-- END CLASS="BUCKET IMG138" -->
+                  <div class="bucket img138">
+                                          <h3 class="slug"><a href="http://www.npr.org/blogs/thesalt/">The Salt</a></h3>
+                     <h4><a href="http://www.npr.org/blogs/thesalt/2013/08/26/214833891/in-the-beginning-there-were-dumplings">In the Beginning, There Were ... Dumplings?</a></h4>
+                     <a href="http://www.npr.org/blogs/thesalt/2013/08/26/214833891/in-the-beginning-there-were-dumplings" id="featuredStackSmallImage214833891" class="photowrap storylocation"><img src="http://media.npr.org/assets/img/2013/08/23/dumpling01-449771436c86489e1f0cf3b176ec4ddcc4702713-s1.jpg" class="img138" width="138" title="A potsticker prepared by Chef Scott Drewno at the Washington, D.C., restaurant The Source." alt="A potsticker prepared by Chef Scott Drewno at the Washington, D.C., restaurant The Source." /></a>                     <div class="bucketblock">
+                                                <p><span class="date">August 26, 2013</span> From Warsaw to Wuhan, people around the world love dumplings. They're tasty little packages that can be made of any grain and stuffed with whatever the locals crave. But where did they come from? Some think prehistoric people may have been cooking them up.</p>                        <p><a class="transcript" href="http://www.npr.org/blogs/thesalt/2013/08/26/214833891/in-the-beginning-there-were-dumplings">Transcript</a></p>                        <p id="res215665442" class="audiorow"><a class="listen" href="javascript:NPR.Player.openPlayer(214833891, 215665442, null, NPR.Player.Action.PLAY_NOW, NPR.Player.Type.STORY, '0')"  data-metrics='{"category":"Segment Audio","action":"Play audio","label":"20130826_me_15.mp3"}' >On <em>Morning Edition</em></a><a class="add" href="javascript:NPR.Player.openPlayer(214833891, 215665442, null, NPR.Player.Action.ADD_TO_PLAYLIST, NPR.Player.Type.STORY, '0')"  data-metrics='{"category":"Segment Audio","action":"Playlist","label":"20130826_me_15.mp3"}' >Playlist</a></p>
+                     </div>
+                     
+<!-- END CLASS="BUCKETBLOCK" -->
+                  </div>
+                  
+<!-- END CLASS="BUCKET IMG138" -->
+               </div>
+               
+<!-- END CLASS="STORYLIST ARCHIVE" -->
+            </div>
+            
+<!-- END ID="CONTENT" -->
+         </div>
+         
+<!-- END ID="MAIN_CONTENT" -->
+         <div id="main_sidebar">
+                        <div id="globalcontent">
+                           </div>
+            
+<!-- END ID="GLOBALCONTENT" -->
+            
+<!-- START UNDERWRITING -->
+            <!-- BEGIN CommonAdCall.mtpl --><div id="ad-desktop-wrap">
+    <div id="ad-desktop">
+            <script type="text/javascript">
+            if (DFP.shouldRenderForDevice('desktop')) {
+                googletag.cmd.push(function() { googletag.display('ad-desktop'); });
+            }
+            </script>
+    </div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about/place/corpsupport/">Become an NPR sponsor</a></p>
+</div><!-- END CommonAdCall.mtpl -->            
+<!-- END UNDERWRITING -->
+            <div class="feed">
+                              <h3>Podcast + RSS Feeds</h3>
+               <div class="bucket">
+                                    <h4><div class="feedhdrs">
+      <span>Podcast</span>   <span>RSS</span>
+</div>
+
+<!-- END CLASS="FEEDHDRS" -->
+</h4>
+                  <ul>
+                                          <li><span class="title">Dumpling Week</span><a href="javascript: void(0);" class="podicon"></a><a href="http://www.npr.org/rss/rss.php?id=209895130" class="rssicon"></a><div class="podbox" style="display:none;">
+      <p>Subscribe to <span>Dumpling Week</span> podcast via:</p>   <p><a href="itpc://www.npr.org/templates/rss/podlayer.php?id=209895130" class="subitunes"><img src="http://media.npr.org/images/podcasts/ui/icon_itunes.gif" width="72" height="28" alt="iTunes" /></a></p>   <p class="divider">Or use this URL:</p>   <p><a class="podurllink" href="http://www.npr.org/templates/rss/podlayer.php?id=209895130"><img src="http://media.npr.org/images/podcasts/ui/icon_pod.gif" width="21" height="21" alt="This podcast" /></a><input type="text" class="podurl" value="http://www.npr.org/templates/rss/podlayer.php?id=209895130"></input>
+</p>   <p class="closethis"><a href="#">close</a></p>   <div class="spacer">
+      &nbsp;
+   </div>
+</div>
+
+<!-- END CLASS="PODBOX" STYLE="DISPLAY:NONE;" -->
+<div class="spacer">
+   &nbsp;
+</div>
+</li>
+                  </ul>
+                  <div class="spacer">
+                     &nbsp;
+                  </div>
+               </div>
+               
+<!-- END CLASS="BUCKET" -->
+               <div class="bucketbottom">
+                                 </div>
+               
+<!-- END CLASS="BUCKETBOTTOM" -->
+            </div>
+            
+<!-- END CLASS="FEED" -->
+            <div id="globalcontentbottom">
+                              <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">AddNamespace("NPR.google");</script><script type="text/javascript">    <!--    if(NPR.google.adsEnabled == null || NPR.google.adsEnabled == false)    {	    try {	        GS_googleAddAdSenseService("ca-pub-6667715786680641");	        GS_googleEnableAllServices();	    }catch(e){	    }    }    // --></script><script type="text/javascript">    <!--     if(NPR.google.adsEnabled == null || NPR.google.adsEnabled == false)    {	    try {    	        GA_googleAddSlot("ca-pub-6667715786680641", "npr_ros_300x138_a");	        GA_googleAddSlot("ca-pub-6667715786680641", "npr_ros_300x138_b");	        GA_googleAddSlot("ca-pub-6667715786680641", "npr_ros_300x138_c");	    }catch(e){	    }    }    // --></script><script type="text/javascript">    <!--       if(NPR.google.adsEnabled == null || NPR.google.adsEnabled == false)    {	    try {    	        GA_googleFetchAds();	    }catch(e){	    }    }    // --></script><script type="text/javascript">    <!--        try {            GA_googleFillSlot("npr_ros_300x138_a");    }catch(e){    }    // --></script><script type="text/javascript">    <!--       try {            GA_googleFillSlot("npr_ros_300x138_b");    }catch(e){    }    // --></script><script type="text/javascript">NPR.google.adsEnabled = true;</script>
+            </div>
+            
+<!-- END ID="GLOBALCONTENTBOTTOM" -->
+         </div>
+         
+<!-- END ID="MAIN_SIDEBAR" -->
+         <div class="spacer">
+            &nbsp;
+         </div>
+      </div>
+      
+<!-- END ID="WRAPPER_MAIN" -->
+   </div>
+   
+<!-- END ID="WRAPPER" -->
+   <div id="footer" data-metrics-category="News Footer" data-metrics-action="Click Footer" data-metrics-all>
+
+    <div class="footerwrap">
+
+        <div class="everywhere">
+            <h3><a href="/services/">npr <span>always on</span></a></h3>
+            <ul>
+                <li><a href="/email/" class="newsletter">Newsletters</a></li>
+                <li><a href="/podcasts/" class="pod">Podcasts</a></li>
+                <li><a href="/services/mobile/" class="mobile">Mobile</a></li>
+                <li><a href="/rss/" class="rss">RSS Feeds</a></li>
+                <li><a href="/services/desktop.html" class="widget">Widgets</a></li>
+                <li><a href="/api/" class="api">API</a></li>
+                <li><a href="/services/radio.html" class="radio">Radio</a></li>
+            </ul>
+        </div>
+
+        <div class="listbg">
+
+            <div class="col first">
+                <h4><a href="/sections/news/">news</a></h4>
+                <ul>
+                    <li><a href="/sections/us/">U.S.</a></li>
+                    <li><a href="/sections/world/">World</a></li>
+                    <li><a href="/sections/opinion/">Opinion</a></li>
+                    <li><a href="/sections/politics">Politics</a></li>
+                    <li><a href="/sections/business/">Business</a></li>
+                    <li><a href="/sections/technology/">Technology</a></li>
+                    <li><a href="/sections/science/">Science</a></li>
+                    <li><a href="/sections/health/">Health</a></li>
+                    <li><a href="/sections/sports/">Sports</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="/sections/arts/">arts &amp; life</a></h4>
+                <ul>
+                    <li><a href="/books/">Books</a></li>
+                    <li><a href="/sections/movies/">Movies</a></li>
+                    <li><a href="/sections/pop-culture/">Pop Culture</a></li>
+                    <li><a href="/sections/food/">Food</a></li>
+                    <li><a href="/sections/performing-arts/">Performing Arts</a></li>
+                    <li><a href="/sections/games-humor/">Games &amp; Humor</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="/music/">music</a></h4>
+                <ul>
+                    <li><a href="/series/100920965/music-articles/">Music Articles</a></li>
+                    <li><a href="/sections/music-videos/">Music Videos</a></li>
+                    <li><a href="/templates/websites/musicstreams.php">NPR Music Radio</a></li>
+                    <li><a href="/music/">Browse Genres</a></li>
+                    <li><a href="/templates/artist/artist_index.php?filter=A">Browse Artists A-Z </a></li>
+                </ul>
+
+                <ul>
+                    <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
+                    <li><a href="/series/alt-latino/">Alt.Latino</a></li>
+                    <li><a href="/series/98679384/first-listen/">First Listen</a></li>
+                    <li><a href="/sections/concerts/">Live In Concert</a></li>
+                    <li><a href="/programs/piano-jazz/">Marian McPartland's <span>Piano Jazz</span></a></li>
+					<li><a href="/series/103063413/the-thistle-and-shamrock/">The Thistle &amp; Shamrock</a></li>
+                    <li><a href="/programs/world-cafe/">World Cafe</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="/programs/">programs a-z</a></h4>
+                <ul>
+                    <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                    <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
+               		<li><a href="/series/153299281/cabinet-of-wonders">Cabinet of Wonders</a></li>
+                    <li><a href="http://www.cartalk.com">Car Talk</a></li>
+                    <li><a href="http://thedianerehmshow.org">The Diane Rehm Show</a></li>
+                    <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                    <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                    <li><a href="http://www.onthemedia.org">On The Media</a></li>
+                    <li><a href="http://www.onpointradio.org/">On Point</a></li>
+                    <li><a href="/programs/talk-of-the-nation/">Talk of the Nation</a></li>
+                    <li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
+                    <li><a href="/programs/tell-me-more/">Tell Me More</a></li>
+                    <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                    <li><a href="/programs/weekend-edition-saturday/">Weekend Edition <span>Saturday</span></a></li>
+                    <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4>listen</h4>
+                <ul>
+                    <li><a href="javascript:getNewsCast();" data-action="Play Hourly News" data-metrics='{"action":"Play Hourly News"'>Hourly News</a></li>
+                    <li><a href="javascript:getProgramStream();" data-action="Play Program Stream" data-metrics='{"action":"Play Program Stream"'>NPR Program Stream</a></li>
+                    <li><a href="/audiohelp/progstream.html"><span>Schedule</span></a></li>
+                    <li><a href="/stations/">Find Station Streams</a></li>
+                </ul>
+            </div>
+
+            <div class="col last">
+				<h4>more</h4>
+				<ul>				
+					<li><a href="/sections/multimedia/">Multimedia</a></li>
+					<li><a href="/sections/columns/">Columns</a></li>
+					<li><a href="/blogs/">Blogs</a></li>
+					<li><a href="/sections/analysis/">Analysis</a></li>
+					<li><a href="/sections/commentary/">Commentary</a></li>
+					<li><a href="/ombudsman/">NPR Ombudsman</a></li>
+					<li><a href="http://stateimpact.npr.org/">StateImpact</a></li>
+				</ul>				
+				<h4><a href="/about/">about</a></h4>	
+				<ul>
+					<li><a href="/about/">This Is NPR</a></li>
+					<li><a href="/about/support/">Support and Sponsor</a></li>
+					<li><a href="/about/press/">Press Room</a></li>
+					<li><a href="/about/careers/">Careers</a></li>
+					<li><a href="http://shop.npr.org">NPR Shop</a></li>
+					<li><a href="/contact/">Contact Us</a></li>
+				</ul>
+            </div>
+
+        </div>
+
+    </div>
+
+    <ul class="bottomlist">
+        <li>Copyright <script type="text/javascript">
+               year = new Date();
+               document.write(year.getFullYear());
+           </script> NPR</li>
+        <li><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+        <li><a href="/about-npr/179878450/privacy-policy">Privacy Policy</a></li>
+        <li><a href="/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons">Sponsorship Choices</a></li>
+        <li><a href="/about-npr/179881519/rights-and-permissions-information">Permissions</a></li>
+        <li><a href="/corrections/">Corrections</a></li>
+        <li><a href="http://thin.npr.org">Text-Only Site</a></li>
+        <li class="help"><a href="/help/">Help</a></li>
+        <li class="contact"><a href="/contact/">Contact Us</a></li>
+        <li class="donate"><a href="/stations/donate/">Donate</a></li>
+    </ul>
+
+</div>
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+(function () {
+var d = new Image(1, 1);
+d.onerror = d.onload = function () { d.onerror = d.onload = null; };
+d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-803244h&amp;cg=0&amp;cc=1&amp;si=", escape(window.location.href), "&amp;rp=", escape(document.referrer), "&amp;ts=compact&amp;rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<noscript>
+<div>
+<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-803244h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+width="1" height="1" alt="" />
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+</div>
+
+<!-- END ID="SECTIONWRAP" CLASS="" -->
+</body></html>

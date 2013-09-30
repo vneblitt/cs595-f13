@@ -1,0 +1,560 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="http://www.consumer.ftc.gov/articles/0101-free-trial-offers" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="en" http-equiv="Content-Language" />
+<meta content="&amp;quot;Free&amp;quot; Trial Offers?" about="http://www.consumer.ftc.gov/articles/0101-free-trial-offers" property="dc:title" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.consumer.ftc.gov/articles/0101-free-trial-offers" />
+<link rel="shortlink" href="http://www.consumer.ftc.gov/node/462" />
+  <title>&quot;Free&quot; Trial Offers? | Consumer Information</title>
+  <link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_gArAUcbPOGS20Rj3CC1Ph_2J692LtLqNviaNUAmk_Wg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_zokOb9raN9Cg8akkQGi5P5zPbMO6qe5fNyYruMiDsyU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_1otP6__I-MvxKywLnrvhM1XKDj81enq0GcEun6UsiUI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_9hvQ4uwLBFYBgnc5c9u9QryUS4ukOQvUNC2V7EFD948.css" media="print" />
+  <script type="text/javascript" src="http://www.consumer.ftc.gov/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/drupal.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/sites/all/libraries/chosen/chosen/chosen.jquery.min.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/chosen/chosen.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/consumer_node_edit/consumer_taxonomy_hierarchy.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/consumer_node_edit/consumer_parent_menu_item.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/ftc_exit_script/js/exit_script.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/panels/js/panels.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.ftc.gov/foresee/foresee-trigger.js"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/swfobject.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.qtip-1.0.0-rc3.min.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/fancybox/jquery.fancybox-1.3.4.pack.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.corner.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.cycle.all.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/global.js?mtsrpk"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"consumer_platform","theme_token":"_UhZ8bNO0ekJRxLmFEF0sYWE0KiZD8zycNaftWxhg94","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.jquery.min.js":1,"profiles\/consumer\/modules\/contrib\/chosen\/chosen.js":1,"profiles\/consumer\/modules\/custom\/consumer_node_edit\/consumer_taxonomy_hierarchy.js":1,"profiles\/consumer\/modules\/custom\/consumer_node_edit\/consumer_parent_menu_item.js":1,"profiles\/consumer\/modules\/custom\/ftc_exit_script\/js\/exit_script.js":1,"profiles\/consumer\/modules\/contrib\/panels\/js\/panels.js":1,"http:\/\/www.ftc.gov\/foresee\/foresee-trigger.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/swfobject.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.corner.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.cycle.all.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/global.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/consumer\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.css":1,"profiles\/consumer\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/consumer\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/consumer\/modules\/contrib\/tagclouds\/tagclouds.css":1,"modules\/locale\/locale.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/hp-footer\/hp-footer.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/onecol\/onecol.css":1,"profiles\/consumer\/themes\/consumer_platform\/PlutoSansWebFonts.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/default.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/layout.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/style.css":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/responsive.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/print.css":1}},"chosen":{"selector":".field-type-taxonomy-term-reference select:visible, .field-name-field-crc-ed-code select:visible","minimum":"15"},"ftc_exit_script":{"timeout":"6000","token_replace":1,"internalURLs":["^http\\:\\\/\\\/.*\\.gov.*$","^https\\:\\\/\\\/.*\\.gov.*$"],"external_class":"external_link"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-462 node-type-article i18n-en" >
+  <div id="skip">
+    <a href="#main-menu">Jump to Navigation</a>
+  </div>
+    
+  <!-- ______________________ HEADER _______________________ -->
+
+<div id="header">
+  <div class="header-inner">
+      <div id="site-name-and-slogan">
+      <img src = "/profiles/consumer/themes/consumer_platform/images/logo-ftcseal.jpg" alt = "Federal Trade Commission" class = "print-logo" />
+          <h2 id="site-slogan">Federal Trade Commission</h2>
+              <h1 id="logo"><a href="http://www.consumer.ftc.gov/" title="Home" rel="home">
+              Consumer Information            </a></h1>
+    
+    </div>
+         <div id="search">
+        <div class="region region-search">
+    <div id="block-ftc_language_block-ftc_language_block" class="block block-ftc-language-block block-odd clearfix">
+
+                		
+		  <p><a href="http://www.consumidor.ftc.gov">español</a></p>
+</div> <!-- /block -->
+<div id="block-search-form" class="block block-search block-even clearfix">
+
+                		
+		  <form action="/articles/0101-free-trial-offers" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-VIjaToPkFpXkhT-5G6E3YLDalyxFxqPXysovSV_WXGs" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div> <!-- /block -->
+  </div>
+    </div>
+    </div>
+</div> <!-- /header -->
+
+<div id="page" class="page with-navigation no-language">
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="main-inner" class="clearfix">
+      <div id="content" class="one-col">
+
+                  <div id="top-right">  <div class="region region-top-right">
+    <div id="block-consumer_emailprintshare-email_print_share" class="block block-consumer-emailprintshare block-odd clearfix">
+
+                		
+		  <ul class="email-print-share"><li id="emailThis" class="email"><a class="addthis_button_email" href="#">Email</a></li><li class="printer-friendly">
+        <a href="#" class="addthis_button_print">Print</a> 
+        </li><li class="addthis">
+        <script type="text/javascript">
+          var addthis_config = {
+            ui_language: "en"
+          }
+        </script>
+        <!-- AddThis Button BEGIN -->
+        <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4e34dc8d56e636d1"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"/></a>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e34dc8d56e636d1"></script>
+        <!-- AddThis Button END -->
+        </li>
+      </ul>
+</div> <!-- /block -->
+<div id="block-locale-language" class="block block-locale block-even clearfix">
+
+                		
+		  <ul class="language-switcher-locale-url"><li class="es first last"><a href="http://www.consumidor.ftc.gov/articulos/s0101-ofrecimientos-de-pruebas-gratis" class="language-link" lang="es" title="¿Ofrecimientos de pruebas &quot;gratis&quot;?">Vea esta página en español</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+</div>
+        
+                  <div id="content-header">
+
+                        
+            <div class="title-wrapper">
+            
+                          <h1 class="title">&quot;Free&quot; Trial Offers?</h1>
+                        
+                        </div>
+
+                          <div class="tabs"></div>
+            
+            
+                        
+          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-even clearfix">
+
+                		
+		  
+<div id="node-462" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+		    
+	<div class="content">
+	  
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+  
+                <div id = 'sidebar-article' class = 'sidebar'><div id="block-panels_mini-related_items_sidebar" class="block block-panels-mini block-odd clearfix">
+
+                <h2 class="block-title">Related Items</h2>
+          		
+		  <div class="panel-display panel-1col clearfix" id="mini-panel-related_items_sidebar-1">
+  <div class="panel-panel panel-col">
+    <div>
+
+<div class="panel-pane pane-block pane-views-92f96d1442c33ddcb8a1b32f5f4054c0 even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-article_related_media view-rotating-promos no-rotate small-media-rotator views-rotating-promos view-dom-id-56bd4de43273d670642325c8583abaa3">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/audio-0038-free-trial-offers" title="[field_media_type]: Free Trial Offers" class="ajax [field_media_type]" rel="1300"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/audio/thumbnails/audio-0038_free-trial-offers_thumb.png?itok=wzQonGjp" width="155" height="85" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/audio-0038-free-trial-offers">Free Trial Offers</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0054-how-file-complaint" title="[field_media_type]: How to File a Complaint" class="ajax [field_media_type]" rel="955"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/videos/thumbnails/file-a-complaint.jpeg?itok=hstVU-zV" width="155" height="87" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0054-how-file-complaint">How to File a Complaint</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-views pane-article-sidebar odd" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-block_2 view-dom-id-e51ae552bd810eedd76c05b1d4cdd4ad">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0068-how-buying-plans-work">How Buying Plans Work</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0020-shopping-online">Shopping Online</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0027-comparing-products-online">Comparing Products Online</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+</div> <!-- /block -->
+</div><div class = "content-inner"><p>A chance to try something out for free? What have you got to lose?</p><p>If you're interested in a particular product or service, trying before you buy might seem like a no-brainer. But what starts as a free trial — or for a very low cost — might end up costing you real money.</p><p>The Federal Trade Commission, the nation's consumer protection agency, wants you to know that some companies use free trials to sign you up for more products — sometimes <strong>lots</strong> of products — which can cost you lots of money as they bill you every month until you cancel.</p><div style=""> </div><!-- Start of Brightcove Player --><div style="display:none"> </div><!--
+By use of this code snippet, I agree to the Brightcove Publisher T and C 
+found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+--><script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script><p><object class="BrightcoveExperience" id="myExperience1402334836001"><param name="bgcolor" value="#FFFFFF" /><param name="width" value="420" /><param name="height" value="236" /><param name="playerID" value="1418431386001" /><param name="playerKey" value="AQ~~,AAAA_TlHh7k~,RTmZTKuAv623OM76yHrTasm7GMBb4VAz" /><param name="isVid" value="true" /><param name="isUI" value="true" /><param name="dynamicStreaming" value="true" /><param name="@videoPlayer" value="1402334836001" /></object><!-- 
+This script tag will cause the Brightcove Players defined above it to be created as soon
+as the line is read by the browser. If you wish to have the player instantiated only after
+the rest of the HTML is processed and the page load is complete, remove the line.
+--><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+brightcove.createExperiences();
+//--><!]]>
+</script><!-- End of Brightcove Player --></p><blockquote style=" width: 325px"><strong><em>Whiter Teeth? Flatter Stomach? Shinier Hair?</em></strong></blockquote><p>Whether it's for a teeth whitener, vitamin or kitchen gadget, all free trials eventually end. And typically, if you don't want to buy what you've tried, you need to cancel or take some other action before the trial is up. If you don't, you may be agreeing to buy more products.</p><p>But some dishonest businesses make it tough to cancel, hiding the terms and conditions of their offers in teensy type, using pre-checked sign-up boxes as the default setting online, and putting conditions on returns and cancellations that are so strict it could be next to impossible to stop the deliveries and the billing.</p><p>Or, the "free trial" might come with a small shipping and handling fee. You think you're only paying a couple of dollars, but you're really giving over your credit card information, resulting in much higher charges after the trial.</p><h2>Strings Attached</h2><p>Other "free" offers enroll you in clubs or subscriptions. For example, a company might offer you an introductory package of free books, CDs, magazines or movies. If you sign up, you may be agreeing to enroll in a club that will send you more products and bill you until you cancel, or to a subscription that's automatically renewed each year.</p><h2>Here's What To Do</h2><p>So how can you avoid the costs that might be hiding in free trials?</p><ul><li><strong>Research the company online.</strong> See what other people are saying about the company's free trials — and its service. Complaints from other customers can tip you off to "catches" that might come with the trial.</li><li><strong>Find the terms and conditions for the offer.</strong> That includes offers online, on TV, in the newspaper, or on the radio. If you can't find them or can't understand exactly what you're agreeing to, don't sign up.</li><li><strong>Look for who's behind the offer.</strong> Just because you're buying something online from one company doesn't mean the offer or pop-up isn't from someone else.</li><li><strong>Watch out for pre-checked boxes.</strong> If you sign up for a free trial online, look for already-checked boxes. That checkmark may give the company the green light to continue the offer past the free trial or sign you up for more products — only this time you have to pay.</li><li><strong>Mark your calendar.</strong> Your free trial probably has a time limit. Once it passes without you telling the company to cancel your "order," you may be on the hook for more products.</li><li><strong>Look for info on how you can cancel future shipments or services.</strong> If you don't want them, do you have to pay? Do you have a limited time to respond?</li><li><strong>Read your credit and debit card statements.</strong> That way you'll know right away if you're being charged for something you didn't order.</li></ul><p>If you see charges you didn't agree to, contact the company directly to sort out the situation. If that doesn't work, call your credit card company to dispute the charge. Ask the credit card company to reverse the charge because you didn't actively order the additional merchandise.</p><h2>Where to Complain</h2><p>If you've been wrongly charged for a free trial offer, <a href="http://ftc.gov/complaint">report it to the FTC</a>. You also can contact your <a href="http://www.consumeraction.gov/">local consumer protection agency</a>, and file a complaint with the <a href="http://bbb.org">Better Business Bureau</a>.</p></div>            
+  </div>
+	</div>
+	
+  	
+	<div class = "terms">Tagged with: <a href="http://www.consumer.ftc.gov/taxonomy/term/881" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">free trial</a>, <a href="http://www.consumer.ftc.gov/taxonomy/term/882" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">monthly</a>, <a href="http://www.consumer.ftc.gov/taxonomy/term/1054" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">shopping</a>, <a href="http://www.consumer.ftc.gov/taxonomy/term/883" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">subscription</a></div>					<div class="article-date"><span>April 2011</span></div>
+			
+			<div class="also-like">
+			<h4>You Might Also Like</h4><ul><li><a href="http://www.consumer.ftc.gov/articles/0060-10-ways-avoid-fraud">10 Ways to Avoid Fraud</a></li><li><a href="http://www.consumer.ftc.gov/articles/0061-weighing-claims-diet-ads">Weighing the Claims in Diet Ads</a></li></ul> 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+
+</div> <!-- /block -->
+  </div>
+                   </div>
+
+        
+      </div> <!-- /content -->
+
+              <div id="sidebar-first" class="column sidebar first">
+          <div id="nav-control"><a href="#">menu</a></div>  <div class="region region-sidebar-first">
+    <div id="block-system-main-menu" class="block block-system block-menu block-odd clearfix">
+
+                		
+		  <ul class="menu level-3"><li class="first expanded active-trail money-credit mid-1858"><a href="http://www.consumer.ftc.gov/topics/money-credit" title="" class="active-trail"><span>Money &amp;<br />  Credit</span></a><ul class="menu level-2"><li class="first expanded active-trail shopping-saving mid-2606"><a href="http://www.consumer.ftc.gov/topics/shopping-saving" title="" class="active-trail"><span>Shopping & Saving</span></a><ul class="menu level-1"><li class="first leaf active-trail id-free-trial-offers- mid-2812"><a href="http://www.consumer.ftc.gov/articles/0101-free-trial-offers" class="active-trail active-trail active"><span>"Free" Trial Offers?</span></a></li>
+<li class="leaf id-bamboo-fabrics mid-2816"><a href="http://www.consumer.ftc.gov/articles/0122-bamboo-fabrics"><span>'Bamboo' Fabrics</span></a></li>
+<li class="leaf id10-ways-to-avoid-fraud mid-2810"><a href="http://www.consumer.ftc.gov/articles/0060-10-ways-avoid-fraud"><span>10 Ways to Avoid Fraud</span></a></li>
+<li class="leaf admongo-bookmark mid-3564"><a href="http://www.consumer.ftc.gov/articles/0353-admongo-bookmark"><span>Admongo Bookmark</span></a></li>
+<li class="leaf avoiding-scams-101 mid-2815"><a href="http://www.consumer.ftc.gov/articles/0120-avoiding-scams-101"><span>Avoiding Scams 101</span></a></li>
+<li class="leaf buying-alaska-native-art mid-2823"><a href="http://www.consumer.ftc.gov/articles/0177-buying-alaska-native-art"><span>Buying Alaska Native Art</span></a></li>
+<li class="leaf buying-american-indian-arts-and-crafts mid-2811"><a href="http://www.consumer.ftc.gov/articles/0179-buying-american-indian-arts-and-crafts"><span>Buying American Indian Arts and Crafts</span></a></li>
+<li class="leaf buying-jewelry mid-3170"><a href="http://www.consumer.ftc.gov/articles/0045-buying-jewelry"><span>Buying Jewelry</span></a></li>
+<li class="leaf buying-a-cemetery-site mid-2799"><a href="http://www.consumer.ftc.gov/articles/0304-buying-cemetery-site"><span>Buying a Cemetery Site</span></a></li>
+<li class="leaf choosing-a-funeral-provider mid-2800"><a href="http://www.consumer.ftc.gov/articles/0303-choosing-funeral-provider"><span>Choosing a Funeral Provider</span></a></li>
+<li class="leaf comparing-products-online mid-3310"><a href="http://www.consumer.ftc.gov/articles/0027-comparing-products-online"><span>Comparing Products Online</span></a></li>
+<li class="leaf extended-warranties-and-service-contracts mid-2794"><a href="http://www.consumer.ftc.gov/articles/0240-extended-warranties-and-service-contracts"><span>Extended Warranties and Service Contracts</span></a></li>
+<li class="leaf finding-a-locksmith mid-2822"><a href="http://www.consumer.ftc.gov/articles/0089-finding-locksmith"><span>Finding a Locksmith</span></a></li>
+<li class="leaf funeral-costs-and-pricing-checklist mid-2802"><a href="http://www.consumer.ftc.gov/articles/0301-funeral-costs-and-pricing-checklist"><span>Funeral Costs and Pricing Checklist</span></a></li>
+<li class="leaf funeral-terms-and-contact-information mid-2797"><a href="http://www.consumer.ftc.gov/articles/0306-funeral-terms-and-contact-information"><span>Funeral Terms and Contact Information</span></a></li>
+<li class="leaf gemstones-diamonds-pearls mid-2808"><a href="http://www.consumer.ftc.gov/articles/0295-gemstones-diamonds-pearls"><span>Gemstones, Diamonds, & Pearls</span></a></li>
+<li class="leaf gift-cards mid-2813"><a href="http://www.consumer.ftc.gov/articles/0182-gift-cards"><span>Gift Cards</span></a></li>
+<li class="leaf gold-silver-jewelry mid-2807"><a href="http://www.consumer.ftc.gov/articles/0293-gold-silver-jewelry"><span>Gold & Silver Jewelry</span></a></li>
+<li class="leaf hiring-a-lawyer mid-2825"><a href="http://www.consumer.ftc.gov/articles/0180-hiring-lawyer"><span>Hiring a Lawyer</span></a></li>
+<li class="leaf how-buying-plans-work mid-2795"><a href="http://www.consumer.ftc.gov/articles/0068-how-buying-plans-work"><span>How Buying Plans Work</span></a></li>
+<li class="leaf mystery-charges-on-your-phone-bill mid-2819"><a href="http://www.consumer.ftc.gov/articles/0183-mystery-charges-your-phone-bill"><span>Mystery Charges on Your Phone Bill</span></a></li>
+<li class="leaf online-penny-auctions mid-3311"><a href="http://www.consumer.ftc.gov/articles/0037-online-penny-auctions"><span>Online Penny Auctions</span></a></li>
+<li class="leaf planning-your-own-funeral mid-2798"><a href="http://www.consumer.ftc.gov/articles/0305-planning-your-own-funeral"><span>Planning Your Own Funeral</span></a></li>
+<li class="leaf platinum-jewelry mid-2806"><a href="http://www.consumer.ftc.gov/articles/0294-platinum-jewelry"><span>Platinum Jewelry</span></a></li>
+<li class="leaf prepaid-phone-cards mid-2814"><a href="http://www.consumer.ftc.gov/articles/0132-prepaid-phone-cards"><span>Prepaid Phone Cards</span></a></li>
+<li class="leaf rebates mid-2828"><a href="http://www.consumer.ftc.gov/articles/0096-rebates"><span>Rebates</span></a></li>
+<li class="leaf residential-treatment-programs-for-teens mid-2820"><a href="http://www.consumer.ftc.gov/articles/0185-residential-treatment-programs-teens"><span>Residential Treatment Programs for Teens</span></a></li>
+<li class="leaf shopping-green- mid-2793"><a href="http://www.consumer.ftc.gov/articles/0226-shopping-green"><span>Shopping "Green"</span></a></li>
+<li class="leaf shopping-online mid-3315"><a href="http://www.consumer.ftc.gov/articles/0020-shopping-online"><span>Shopping Online</span></a></li>
+<li class="leaf shopping-tips mid-2818"><a href="http://www.consumer.ftc.gov/articles/0106-shopping-tips"><span>Shopping Tips</span></a></li>
+<li class="leaf shopping-by-phone-or-mail mid-3525"><a href="http://www.consumer.ftc.gov/articles/0244-shopping-phone-or-mail"><span>Shopping by Phone or Mail</span></a></li>
+<li class="leaf shopping-for-antiques mid-2821"><a href="http://www.consumer.ftc.gov/articles/0092-shopping-antiques"><span>Shopping for Antiques</span></a></li>
+<li class="leaf shopping-for-funeral-services mid-2804"><a href="http://www.consumer.ftc.gov/articles/0070-shopping-funeral-services"><span>Shopping for Funeral Services</span></a></li>
+<li class="leaf shopping-for-high-speed-internet-service mid-3316"><a href="http://www.consumer.ftc.gov/articles/0022-shopping-high-speed-internet-service"><span>Shopping for High-Speed Internet Service</span></a></li>
+<li class="leaf shopping-for-used-mattresses mid-2827"><a href="http://www.consumer.ftc.gov/articles/0099-shopping-used-mattresses"><span>Shopping for Used Mattresses</span></a></li>
+<li class="leaf the-ftc-funeral-rule mid-2803"><a href="http://www.consumer.ftc.gov/articles/0300-ftc-funeral-rule"><span>The FTC Funeral Rule</span></a></li>
+<li class="leaf the-language-of-recycling mid-2792"><a href="http://www.consumer.ftc.gov/articles/0203-language-recycling"><span>The Language of Recycling</span></a></li>
+<li class="leaf travel-tips mid-2809"><a href="http://www.consumer.ftc.gov/articles/0046-travel-tips"><span>Travel Tips</span></a></li>
+<li class="leaf types-of-funerals mid-2801"><a href="http://www.consumer.ftc.gov/articles/0302-types-funerals"><span>Types of Funerals</span></a></li>
+<li class="leaf using-layaway-plans mid-2817"><a href="http://www.consumer.ftc.gov/articles/0128-using-layaway-plans"><span>Using Layaway Plans</span></a></li>
+<li class="leaf warranties mid-2826"><a href="http://www.consumer.ftc.gov/articles/0252-warranties"><span>Warranties</span></a></li>
+<li class="last leaf you-are-here-bookmark mid-3566"><a href="http://www.consumer.ftc.gov/articles/0358-you-are-here-bookmark"><span>You Are Here Bookmark</span></a></li>
+</ul></li>
+<li class="collapsed buying-owning-a-car mid-2608"><a href="http://www.consumer.ftc.gov/topics/buying-owning-car" title=""><span>Buying & Owning a Car</span></a></li>
+<li class="collapsed credit-loans mid-2607"><a href="http://www.consumer.ftc.gov/topics/credit-and-loans" title=""><span>Credit & Loans</span></a></li>
+<li class="collapsed dealing-with-debt mid-2604"><a href="http://www.consumer.ftc.gov/topics/dealing-debt" title=""><span>Dealing with Debt</span></a></li>
+<li class="last collapsed resolving-consumer-problems mid-2605"><a href="http://www.consumer.ftc.gov/topics/resolving-consumer-problems" title=""><span>Resolving Consumer Problems</span></a></li>
+</ul></li>
+<li class="collapsed homes-mortgages mid-1859"><a href="http://www.consumer.ftc.gov/topics/homes-mortgages" title=""><span>Homes &amp;<br />  Mortgages</span></a></li>
+<li class="collapsed health-fitness mid-1860"><a href="http://www.consumer.ftc.gov/topics/health-fitness" title=""><span>Health &amp;<br />  Fitness</span></a></li>
+<li class="collapsed jobs-making-money mid-1861"><a href="http://www.consumer.ftc.gov/topics/jobs-making-money" title=""><span>Jobs &amp;<br />  Making Money</span></a></li>
+<li class="last collapsed privacy-identity mid-1862"><a href="http://www.consumer.ftc.gov/topics/privacy-identity" title=""><span>Privacy &amp;<br />  Identity</span></a></li>
+</ul>
+</div> <!-- /block -->
+<div id="block-menu-menu-main-sub" class="block block-menu block-even clearfix">
+
+                		
+		  <ul class="menu"><li class="first leaf blog mid-2559"><a href="http://www.consumer.ftc.gov/blog" title=""><span>Blog</span></a></li>
+<li class="last leaf video-media mid-2560"><a href="http://www.consumer.ftc.gov/media" title=""><span>Video &amp;<br />  Media</span></a></li>
+</ul>
+</div> <!-- /block -->
+<div id="block-menu-menu-nav-promo" class="block block-menu block-odd clearfix">
+
+                		
+		  <ul class="menu"><li class="first last leaf scam-alerts mid-2650"><a href="http://www.consumer.ftc.gov/scam-alerts" title="">Scam Alerts</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+        </div>
+       <!-- /sidebar-first -->
+    </div> <!-- /main-inner -->
+  </div> <!-- /main -->
+
+    <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer">
+        <div class="region region-footer">
+    <div id="block-panels_mini-footer" class="block block-panels-mini block-even clearfix">
+
+                		
+		  <div class="panel-display panel-footer clearfix" id="mini-panel-footer">
+ <div class = "panel-top">
+     <div class="panel-panel panel-col-top-l">
+      
+
+<div class="panel-pane pane-views pane-topic-landing-page even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_5 view-dom-id-b84d376949bbbe591391e4bb7ca57c15">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_6 view-dom-id-7276ae0b7c8cf44d1259579ff3419f6f">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-sidebar-modules view-id-sidebar_modules view-display-id-block_3 view-dom-id-e51c51c65b9060f5344326a605df4a8d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-gdelivery">        <div class="field-content"><a href="https://public.govdelivery.com/accounts/USFTC/subscriber/new?topic_id=USFTC_24">Get money and credit updates by email</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+  
+ 
+    <div class="panel-panel panel-col-top-c">
+     
+
+<div class="panel-pane pane-views pane-topic-landing-page even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_7 view-dom-id-63089b970ca0d60f486b40cda78bdfe5">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_8 view-dom-id-e67a9db3895eac3f6d20d816269b4d30">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-sidebar-modules view-id-sidebar_modules view-display-id-block_4 view-dom-id-8e381063967fdb162932b7692b2b1358">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-guidance-link">        <div class="field-content"><a href="http://business.ftc.gov/credit-and-finance">Looking for business guidance on credit and finance?</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+
+  
+      <div class="panel-panel panel-col-top-r">
+      
+
+<div class="panel-pane pane-block pane-ftc-social-media-ftc-social-media even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class = 'social-media'><li class='newsletter'><a href='https://public.govdelivery.com/accounts/USFTC/subscriber/new?category_id=USFTC_C7' target = 'blank'>Get Email Updates</a></li><li class='rss'><a href='/blog/rss' target = 'blank'>Blog Feed</a></li><li class='facebook'><a href='https://www.facebook.com/federaltradecommission' target = 'blank'>Facebook</a></li><li class='youtube'><a href='http://www.youtube.com/user/FTCvideos' target = 'blank'>YouTube</a></li><li class='twitter'><a href='https://twitter.com/FTC' target = 'blank'>Twitter</a></li></ul>  </div>
+
+  
+  </div>
+    </div>
+    
+  </div>
+<div class = "panel-bottom">
+
+  	     <div class="panel-panel panel-col-bottom-l">
+      
+
+<div class="panel-pane pane-block pane-block-14 even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="http://ftc.gov/"><img src="/profiles/consumer/themes/consumer_platform/images/icon-ftc-seal.gif" style="border: none; margin-right: 10px; margin-bottom:20px; float: left;" /></a><a href="http://ftc.gov/">The Federal Trade Commission</a> (FTC) is the nation’s consumer protection agency. The FTC works to prevent fraudulent, deceptive and unfair business practices in the marketplace.</p>  </div>
+
+  
+  </div>
+    </div>
+   
+
+     <div class="panel-panel panel-col-bottom-c">
+      
+
+<div class="panel-pane pane-block pane-menu-menu-footer even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf privacy-policy mid-2563"><a href="http://www.consumer.ftc.gov/privacy-policy">Privacy Policy</a></li>
+<li class="leaf about-us mid-2564"><a href="http://www.consumer.ftc.gov/about-us">About Us</a></li>
+<li class="last leaf contact-us mid-2565"><a href="http://www.consumer.ftc.gov/contact-us">Contact Us</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  
+      <div class="panel-panel panel-col-bottom-r">
+      
+
+<div class="panel-pane pane-block pane-block-1 share-resources even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="/share-our-resources">Share Our Resources. Here's How &gt;</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-block pane-block-12 file-a-complaint odd" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="/articles/0341-file-complaint-ftc">File a Complaint with the FTC &gt;</a></p>
+  </div>
+
+  
+  </div>
+    </div>
+  
+
+  </div>
+</div>
+
+</div> <!-- /block -->
+  </div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+  </body>
+</html>

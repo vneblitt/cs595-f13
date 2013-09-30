@@ -1,0 +1,337 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" lang="en-US">
+    <head>
+        <meta charset="UTF-8" />
+        <title> 
+            Overview of this Guide | Model United Nations Workshop        </title>
+                <link rel="profile" href="http://gmpg.org/xfn/11" />
+        <link rel="pingback" href="http://outreach.un.org/mun/xmlrpc.php" />
+        <link rel="stylesheet" type="text/css" media="all" href="http://outreach.un.org/mun/wp-content/themes/andrina-lite/style.css" />       
+        <link rel='stylesheet' id='NextGEN-css'  href='http://outreach.un.org/mun/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='shutter-css'  href='http://outreach.un.org/mun/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.css?ver=1.3.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://outreach.un.org/mun/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.2.1' type='text/css' media='all' />
+
+<script type='text/javascript'>
+				function checkIfBackupNeeded() {
+					
+					var arguments = {
+						action: 'checkIfBackupNeeded'
+					} 
+					var ajaxurl2 = "http://outreach.un.org/mun/wp-admin/admin-ajax.php" ; 
+					jQuery.post(ajaxurl2, arguments, function(response) {
+						// We do nothing as the process should be as silent as possible
+					});    
+				}
+				
+				// We launch the callback
+				if (window.attachEvent) {window.attachEvent('onload', checkIfBackupNeeded);}
+				else if (window.addEventListener) {window.addEventListener('load', checkIfBackupNeeded, false);}
+				else {document.addEventListener('load', checkIfBackupNeeded, false);} 
+							
+			
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var shutterSettings = {"msgLoading":"L O A D I N G","msgClose":"Click to Close","imageCount":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://outreach.un.org/mun/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.js?ver=1.3.3'></script>
+<script type='text/javascript' src='http://outreach.un.org/mun/wp-includes/js/jquery/jquery.js?ver=1.7.2'></script>
+<script type='text/javascript' src='http://outreach.un.org/mun/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.9995'></script>
+<script type='text/javascript' src='http://outreach.un.org/mun/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.06'></script>
+<script type='text/javascript' src='http://outreach.un.org/mun/wp-content/themes/andrina-lite/js/ddsmoothmenu.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://outreach.un.org/mun/wp-content/themes/andrina-lite/js/jquery.validate.min.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://outreach.un.org/mun/wp-content/themes/andrina-lite/js/custom.js?ver=3.4.2'></script>
+<link rel='canonical' href='http://outreach.un.org/mun/guidebook/introduction/overview/' />
+<!-- <meta name="NextGEN" version="1.9.6" /> -->
+<link rel="shortcut icon" href="http://outreach.un.org/mun/files/2012/06/favicon.png"/>
+<!-- Custom Styling -->
+<style type="text/css">
+.logo img
+{width:188px;
+}
+</style>
+    <!--[if gte IE 9]>
+          <script type="text/javascript">
+          Cufon.set('engine', 'canvas');
+          </script>
+          <![endif]-->
+    	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+      
+    </head>
+    <body class="page page-id-251 page-child parent-pageid-232 page-template-default" style=" background: fixed url(http://outreach.un.org/mun/wp-content/themes/andrina-lite/images/bg.jpg); " >
+        <div class="main-container">
+            <div class="container_24">
+                <div class="grid_24">                    
+                    <div class="clear"></div>
+                    <div class="main-content">
+                        <div class="social-links">         
+<div id="brandbar">
+        
+                <img src="http://www.un.org/en/images/unicon.jpg" height="18" width="21" alt="" class="unicon" align="left"/>
+                <span class="welcome"><a href="http://www.un.org/en/index.shtml">Welcome to the United Nations. It's your world.</a></span>
+                
+                <div>
+                    <form id="searchfrm" name="gs" method="get" action="http://search.un.org/search" >
+                    <input type="hidden" name="ie" value="utf8" />
+                    <input type="hidden" name="site" value="un_org" />
+                    <input type="hidden" name="output" value="xml_no_dtd" />
+                    <input type="hidden" name="client" value="UN_Website_en" />
+                    <input type="hidden" name="num" value="10" />
+                    <input name="lr" type="hidden" value="lang_en" />
+                    <input type="hidden" name="proxystylesheet" id="proxystylesheet" value="UN_Website_en" />
+                
+                    <input type="hidden" name="oe" value="utf8" />
+                    <label for="search">UN Search</label>
+                    <input class="textbox" type="text" name="q" id="search" size="22" onfocus="this.value='';" value="Search UN Website" />
+                    <input class="button" type="submit" name="Submit" value="Go" />
+                 </form>
+                </div>
+                   
+            </div><!--end brandbar-->						
+                        </div>
+                        <div class="header">
+                            <div class="grid_8 alpha">
+                                <div class="logo"> <a href="http://outreach.un.org/mun"><img src="http://outreach.un.org/mun/files/2013/07/UN_4_MUN-01_light.png" alt="Model United Nations Workshop" /></a></div>
+                            </div>
+                            <div class="grid_16 omega">
+                                <!--Start Menu wrapper-->
+                                <div class="menu_wrapper">
+                                        <div id="menu">
+        <ul class="ddsmoothmenu">
+    <li><a href="http://outreach.un.org/mun/">Home</a></li><li class="page_item page-item-28"><a href="http://outreach.un.org/mun/applications/">New York</a>
+<ul class='children'>
+	<li class="page_item page-item-85"><a href="http://outreach.un.org/mun/applications/financial-assistance/">Financial Assistance &#8211; NY</a></li>
+	<li class="page_item page-item-2005"><a href="http://outreach.un.org/mun/applications/materials-for-workshop/">Materials for Workshop</a></li>
+	<li class="page_item page-item-10"><a href="http://outreach.un.org/mun/applications/nyc/">Visiting New York</a></li>
+</ul>
+</li>
+<li class="page_item page-item-109 current_page_ancestor"><a href="http://outreach.un.org/mun/guidebook/">MUN Guide</a>
+<ul class='children'>
+	<li class="page_item page-item-232 current_page_ancestor current_page_parent"><a href="http://outreach.un.org/mun/guidebook/introduction/">Introduction</a>
+	<ul class='children'>
+		<li class="page_item page-item-251 current_page_item"><a href="http://outreach.un.org/mun/guidebook/introduction/overview/">Overview of this Guide</a></li>
+		<li class="page_item page-item-252"><a href="http://outreach.un.org/mun/guidebook/introduction/un-at-a-glance/">UN at a glance</a>
+		<ul class='children'>
+			<li class="page_item page-item-267"><a href="http://outreach.un.org/mun/guidebook/introduction/un-at-a-glance/history/">History of the United Nations</a></li>
+			<li class="page_item page-item-277"><a href="http://outreach.un.org/mun/guidebook/introduction/un-at-a-glance/un-structure/">UN Structure</a>
+			<ul class='children'>
+				<li class="page_item page-item-366"><a href="http://outreach.un.org/mun/guidebook/introduction/un-at-a-glance/un-structure/ga/">General Assembly</a></li>
+				<li class="page_item page-item-371"><a href="http://outreach.un.org/mun/guidebook/introduction/un-at-a-glance/un-structure/sc/">Security Council</a></li>
+				<li class="page_item page-item-378"><a href="http://outreach.un.org/mun/guidebook/introduction/un-at-a-glance/un-structure/ecosoc/">Economic and Social Council</a></li>
+				<li class="page_item page-item-382"><a href="http://outreach.un.org/mun/guidebook/introduction/un-at-a-glance/un-structure/trusteeship-council/">Trusteeship Council</a></li>
+				<li class="page_item page-item-387"><a href="http://outreach.un.org/mun/guidebook/introduction/un-at-a-glance/un-structure/icj/">International Court of Justice</a></li>
+				<li class="page_item page-item-391"><a href="http://outreach.un.org/mun/guidebook/introduction/un-at-a-glance/un-structure/secretariat/">Secretariat</a></li>
+			</ul>
+</li>
+			<li class="page_item page-item-281"><a href="http://outreach.un.org/mun/guidebook/introduction/un-at-a-glance/4pillars/">The 4 pillars of the United Nations</a></li>
+			<li class="page_item page-item-549"><a href="http://outreach.un.org/mun/guidebook/introduction/un-at-a-glance/charter/">UN Charter</a></li>
+			<li class="page_item page-item-395"><a href="http://outreach.un.org/mun/guidebook/introduction/un-at-a-glance/family/">UN Family of Organizations</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="page_item page-item-909"><a href="http://outreach.un.org/mun/guidebook/getting-ready/">Getting Ready</a>
+	<ul class='children'>
+		<li class="page_item page-item-622"><a href="http://outreach.un.org/mun/guidebook/getting-ready/delegate-preparation/">Delegate Preparation</a></li>
+		<li class="page_item page-item-916"><a href="http://outreach.un.org/mun/guidebook/getting-ready/decisions-before-a-conference/">Decisions Before a Conference</a>
+		<ul class='children'>
+			<li class="page_item page-item-922"><a href="http://outreach.un.org/mun/guidebook/getting-ready/decisions-before-a-conference/choosing-leadership-roles/">Choosing Leadership Roles</a>
+			<ul class='children'>
+				<li class="page_item page-item-924"><a href="http://outreach.un.org/mun/guidebook/getting-ready/decisions-before-a-conference/choosing-leadership-roles/leadershipga/">Leadership Positions in the GA</a></li>
+				<li class="page_item page-item-927"><a href="http://outreach.un.org/mun/guidebook/getting-ready/decisions-before-a-conference/choosing-leadership-roles/leadershipsc/">Leadership Positions in the Security Council</a></li>
+				<li class="page_item page-item-929"><a href="http://outreach.un.org/mun/guidebook/getting-ready/decisions-before-a-conference/choosing-leadership-roles/leadershipsecretariat/">Leadership Positions in the Secretariat</a></li>
+				<li class="page_item page-item-934"><a href="http://outreach.un.org/mun/guidebook/getting-ready/decisions-before-a-conference/choosing-leadership-roles/selection/">Selecting Candidates for Leadership Positions</a></li>
+			</ul>
+</li>
+			<li class="page_item page-item-937"><a href="http://outreach.un.org/mun/guidebook/getting-ready/decisions-before-a-conference/roles/">Roles and Responsibilities of Elected Officials</a></li>
+			<li class="page_item page-item-939"><a href="http://outreach.un.org/mun/guidebook/getting-ready/decisions-before-a-conference/oversight/">Oversight of the Conference &#8211; Things to Consider</a></li>
+			<li class="page_item page-item-941"><a href="http://outreach.un.org/mun/guidebook/getting-ready/decisions-before-a-conference/workplan/">Agenda, Workplan, Documents and Rules of Procedure</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="page_item page-item-872"><a href="http://outreach.un.org/mun/guidebook/step-by-step-simulations/">Step-by-Step Outline for Organizing a MUN</a></li>
+	<li class="page_item page-item-867"><a href="http://outreach.un.org/mun/guidebook/procedures/">Procedures</a>
+	<ul class='children'>
+		<li class="page_item page-item-593"><a href="http://outreach.un.org/mun/guidebook/procedures/informal/">Informal Processes</a>
+		<ul class='children'>
+			<li class="page_item page-item-612"><a href="http://outreach.un.org/mun/guidebook/procedures/informal/purposes/">The Purposes of Consultation</a></li>
+			<li class="page_item page-item-607"><a href="http://outreach.un.org/mun/guidebook/procedures/informal/making-consultations/">Making Consultations Happen</a></li>
+			<li class="page_item page-item-618"><a href="http://outreach.un.org/mun/guidebook/procedures/informal/groups/">The Significance of Groups</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-687"><a href="http://outreach.un.org/mun/guidebook/procedures/formal/">Formal Proceedings</a>
+		<ul class='children'>
+			<li class="page_item page-item-674"><a href="http://outreach.un.org/mun/guidebook/procedures/formal/rules/">Rules of Procedure</a></li>
+			<li class="page_item page-item-681"><a href="http://outreach.un.org/mun/guidebook/procedures/formal/committeediscussion/">Discussion Phase &#8212; General Debate</a></li>
+			<li class="page_item page-item-677"><a href="http://outreach.un.org/mun/guidebook/procedures/formal/makingdecisions/">Action Phase: Making Decisions</a></li>
+			<li class="page_item page-item-648"><a href="http://outreach.un.org/mun/guidebook/procedures/formal/plenary_committee/">Plenary vs. Committee meetings</a></li>
+			<li class="page_item page-item-659"><a href="http://outreach.un.org/mun/guidebook/procedures/formal/adoption/">Adoption of Agenda and Work Programme</a></li>
+			<li class="page_item page-item-665"><a href="http://outreach.un.org/mun/guidebook/procedures/formal/opening/">Opening and Closing of Plenary</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="page_item page-item-892"><a href="http://outreach.un.org/mun/guidebook/skills/">Skills</a>
+	<ul class='children'>
+		<li class="page_item page-item-744"><a href="http://outreach.un.org/mun/guidebook/skills/chairing/">Chairing a Conference</a>
+		<ul class='children'>
+			<li class="page_item page-item-748"><a href="http://outreach.un.org/mun/guidebook/skills/chairing/general-considerations/">General Considerations and Denationalization</a></li>
+			<li class="page_item page-item-750"><a href="http://outreach.un.org/mun/guidebook/skills/chairing/guiding/">The Chairman&#8217;s Activities in Guiding the Work of a Committee</a></li>
+			<li class="page_item page-item-752"><a href="http://outreach.un.org/mun/guidebook/skills/chairing/stepbystep/">Procedural Roles of the Chairman:  A Step-by-Step</a></li>
+			<li class="page_item page-item-755"><a href="http://outreach.un.org/mun/guidebook/skills/chairing/substantive/">Substantive Role of the Chair</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-786"><a href="http://outreach.un.org/mun/guidebook/skills/speaking/">Speaking at a Conference</a>
+		<ul class='children'>
+			<li class="page_item page-item-793"><a href="http://outreach.un.org/mun/guidebook/skills/speaking/address/">Forms of Address</a></li>
+			<li class="page_item page-item-795"><a href="http://outreach.un.org/mun/guidebook/skills/speaking/engaging/">Engaging the Audience</a></li>
+			<li class="page_item page-item-798"><a href="http://outreach.un.org/mun/guidebook/skills/speaking/preparation/">Preparation, Purpose and Structure</a></li>
+			<li class="page_item page-item-800"><a href="http://outreach.un.org/mun/guidebook/skills/speaking/cultural-sensitivity/">Changing Audience and Cultural Sensitivity</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-917"><a href="http://outreach.un.org/mun/guidebook/skills/negotiation/">Negotiation</a>
+		<ul class='children'>
+			<li class="page_item page-item-944"><a href="http://outreach.un.org/mun/guidebook/skills/negotiation/purposepower/">Fundamentals of Negotiation</a></li>
+			<li class="page_item page-item-964"><a href="http://outreach.un.org/mun/guidebook/skills/negotiation/the-process-of-negotiation/">The Process of Negotiation</a>
+			<ul class='children'>
+				<li class="page_item page-item-1763"><a href="http://outreach.un.org/mun/guidebook/skills/negotiation/the-process-of-negotiation/1763-2/">Groups of Member States</a></li>
+			</ul>
+</li>
+			<li class="page_item page-item-930"><a href="http://outreach.un.org/mun/guidebook/skills/negotiation/strategies/">Competitive Bargaining vs. Cooperative problem solving</a></li>
+			<li class="page_item page-item-959"><a href="http://outreach.un.org/mun/guidebook/skills/negotiation/limitations/">Preparation</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-953"><a href="http://outreach.un.org/mun/guidebook/skills/drafting-resolutions/">Drafting Resolutions</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-246"><a href="http://outreach.un.org/mun/guidebook/further-information/">Further information</a></li>
+</ul>
+</li>
+<li class="page_item page-item-173"><a href="http://outreach.un.org/mun/call-for-applications-vienna-international-centre/">Vienna</a>
+<ul class='children'>
+	<li class="page_item page-item-204"><a href="http://outreach.un.org/mun/call-for-applications-vienna-international-centre/visiting-vienna/">Visiting Vienna</a></li>
+	<li class="page_item page-item-1268"><a href="http://outreach.un.org/mun/call-for-applications-vienna-international-centre/programme-vienna-workshop/">Materials for Workshop</a></li>
+</ul>
+</li>
+<li class="page_item page-item-4"><a href="http://outreach.un.org/mun/contact-us/">Contact us</a></li>
+        </ul>
+    </div>
+                                    </div>
+                                <!--End Menu-->
+                            </div>
+                        </div>
+                        <div class="clear"></div><div class="clear"></div>
+<div class="page-content">
+    <h1 class="page_title">Overview of this Guide</h1>
+    <div class="grid_16 alpha">
+        <div class="content-bar">  
+                            <p><strong>Who is the guide for?</strong></p>
+<p>The United Nations Guide for MUN is written for those who organize Model UN simulations. The aim of the guide is to provide information about the structure of the UN as well as the procedures and processes used for reaching decisions so that the leaders of MUN programmes will be able to organize simulations of meetings that accurately represent how the UN actually functions.</p>
+<p>While no one knows for sure when the first Model UN simulation took place, MUN conferences are most likely an outgrowth of simulations of the League of Nations that date back to the 1920‘s. Today, the popularity of Model UN continues to grow. It is estimated that more than 400,000 students worldwide participate every year at all educational levels from primary school to university. Many of today&#8217;s leaders in law, government, business and the arts participated in Model UN as students – including UN Secretary-General Ban Ki-moon.</p>
+<p><strong>How is the guide different from other MUN guides?</strong></p>
+<div id="attachment_405" class="wp-caption alignleft" style="width: 310px"><a href="http://outreach.un.org/mun/files/2013/06/Incheon.jpg"><img class="size-medium wp-image-405" src="http://outreach.un.org/mun/files/2013/06/Incheon-300x199.jpg" alt="Secretary-General Addresses GMUN Conference in Incheon" width="300" height="199" /></a><p class="wp-caption-text">Secretary-General Addresses GMUN Conference in Incheon</p></div>
+<p>Model UN started several years after the UN was created but was never monitored by it. The first Model UN conference co-sponsored by the UN Department of Public Information (UNDPI) took place in August 2000 at UN Headquarters in New York. Then, from 2009-2011, UNDPI organized three Global Model UN (GMUN) conferences in Geneva, Kuala Lumpur and Incheon respectively. It is in the context of these three conferences that new rules of procedure and a new approach to doing MUN simulations of the General Assembly were introduced. This guide builds on the pioneering approach that developed for these conferences.</p>
+<p>It differs from other MUN guides in three important ways. First, it introduces a leadership structure that more accurately mirrors the relationship between the General Assembly and UN Secretariat. Second, it uses Rules of Procedure that are much closer to those used at the UN. While there is some variety in the rules of procedure used by Model UN programmes around the world, they are largely based on parliamentary rules of procedure which are different than those used at the UN. The General Assembly Rules of Procedure do not have many of the points and motions used during MUN simulations such as Points of Information or Points of Inquiry. Even the terminology that has evolved over time is different than what is used at the UN. For example, the distinction between friendly and unfriendly amendments does not exist and the terms moderated and unmoderated caucuses are not used either.</p>
+<p>Meetings at the UN are not parliamentary fora and therefore do not use terms associated with this form of government. Third, most decisions adopted by the General Assembly and even by the Security Council are made by consensus. The structure and the rules of procedure should support a working environment that encourages delegates to build consensus. This guide introduces new ideas of how MUN simulations can encourage consensus building.</p>
+<p><strong>How to use this guide</strong></p>
+<p>The Official UN Guide to MUN is comprised of three main sections. It focuses on <strong>structure</strong>, <strong>procedures</strong> and <strong>processes</strong>. All three sections are interrelated.</p>
+<p>The section on Structure focuses on two main Organs of the UN, the General Assembly, and the Security Council. The information is designed to help organizers of MUN programmes decide on the appropriate leadership structure balancing the constraints of the programme with the need to mirror the power structure as it exists at the United Nations.</p>
+<div id="attachment_404" class="wp-caption alignleft" style="width: 310px"><a href="http://outreach.un.org/mun/files/2013/06/Model-UN.jpg"><img class="size-medium wp-image-404" src="http://outreach.un.org/mun/files/2013/06/Model-UN-300x198.jpg" alt="Model UN Conference Opens in General Assembly Hall" width="300" height="198" /></a><p class="wp-caption-text">Model UN Conference Opens in General Assembly Hall</p></div>
+<p>The section on Procedures focuses on how to adapt the Rules of Procedures used in actual General Assembly meetings to a Model UN simulation where the time frames for making decisions are much shorter. It also highlights the many differences between the parliamentary rules used in most MUN programmes and those used at the UN. Examples of rules in action taken from actual meetings at the UN are integrated into the content as well.</p>
+<p>The section on Processes focuses on a wide range of topics including the importance of building consensus, how to chair a committee meeting, how to write and table resolutions and amendments, writing scripts for the President of the General Assembly (PGA) and Committee Chairs, and the art of negotiation. The content aims to give an overview of the skills needed to run an engaging and successful simulation.</p>
+	
+                                        <div class="clear"></div>
+            <!--Start Comment box-->
+            <!-- You can start editing here. -->
+<div id="commentsbox">
+                <div id="comment-form">
+            <div id="respond" class="rounded">
+                <div class="cancel-comment-reply"> <small>
+                        <a rel="nofollow" id="cancel-comment-reply-link" href="/mun/guidebook/introduction/overview/#respond" style="display:none;">Click here to cancel reply.</a>                    </small> </div>
+                                    <div id="comment-form">
+                        								<div id="respond">
+				<h3 id="reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/mun/guidebook/introduction/overview/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://outreach.un.org/mun/wp-comments-post.php" method="post" id="commentform">
+																			<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name</label> <span class="required">*</span><input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email</label> <span class="required">*</span><input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Website</label><input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Post Comment" />
+							<input type='hidden' name='comment_post_ID' value='251' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="0bdf60823b" /></p>					</form>
+							</div><!-- #respond -->
+						                    </div>
+                            </div>
+        </div>
+    </div>
+            <!--End Comment box-->
+        </div>
+    </div>
+    <div class="grid_8 omega">
+        <!--Start Sidebar-->
+        				<!--img src="http://outreach.un.org/mun/wp-content/themes/andrina-lite/images/lesotho.jpg" width="276"/-->
+				
+        <!--End Sidebar-->
+    </div>
+</div>
+</div>
+<div class="clear"></div>
+<!--Start Footer-->
+<div class="footer">
+
+	<ul id="unfooter">
+        <li><a href="http://www.un.org/en/aboutun/copyright/">Copyright </a> | </li> 
+        <li><a href="http://www.un.org/en/aboutun/terms/">Terms of Use </a> | </li> 
+        <li><a href="http://www.un.org/en/aboutun/privacy/">Privacy Notice </a> | </li> 
+        <li><a href="http://www.un.org/en/siteindex/">Site Index </a> | </li> 
+        <li><a href="http://www.un.org/en/aboutun/fraudalert/">Fraud Alert </a> | </li> 
+		<li><a href="http://www.un.org/en/aboutun/help/">Help </a> | </li> 
+        <li><a href="http://www.un.org/en/contactus/">Contact Us </a></li>
+
+</ul> 
+
+    <div class="grid_6 alpha">
+    <div class="widget_inner">
+            </div>
+</div>
+<div class="grid_7">
+    <div class="widget_inner">
+            </div>
+</div>
+<div class="grid_11 omega">
+    <div class="widget_inner last">
+            </div>
+</div>
+<div class="clear"></div></div>
+<!--End Footer-->
+<div class="clear"></div>
+<!--Start Footer bottom-->
+<!--Start footer bottom inner-->
+<!--End Footer bottom inner-->
+<!--End Footer bottom-->
+</div>
+</div>
+</div>
+<script type='text/javascript'>		 		 		 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		 		 		 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		 		 </script>
+
+		 		 <script type="text/javascript">
+		 		 try{
+		 		 		 var pageTracker = _gat._getTracker("UA-4803886-1");
+		 		 		 pageTracker._trackPageview();
+		 		 } catch(err) {}
+		 		 
+</script><script type='text/javascript' src='http://outreach.un.org/mun/wp-content/plugins/contact-form-7/includes/js/jquery.form.js?ver=3.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/outreach.un.org\/mun\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://outreach.un.org/mun/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.2.1'></script>
+</body>
+</html>

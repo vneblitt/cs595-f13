@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8" />
+<title>Library of Congress Announces Second Data Challenge | News Releases - Library of Congress</title>
+<meta name="description" content="The Library of Congress, at the request of the U.S. House of Representatives, is again using the Challenge.gov platform to advance the exchange of legislative information worldwide.  " />
+<link rel="dc.relation.isPartOf" href="http://www.loc.gov/today/pr/" title="News Releases" />
+<meta name="dc.subject" content="Library of Congress, U.S. House of Representatives, challenge.gov, data challenge, data mapping " /><meta name="dc.coverage.spatial" content="Washington, D.C." /><meta name="dc.coverage.temporal" content="2013" />
+<meta name="dc.date" content="2013" />
+<meta name="dc.type" content="webpage" />
+<meta name="dc.language" content="eng" />
+<meta name="dc.identifier" content="http://www.loc.gov/today/pr/2013/13-161.html" />
+<link media="screen" rel="stylesheet" href="/today/pr/css/styles.css" />
+<link media="print" rel="stylesheet" href="/css/loc_print_v2.css" />
+<!--[if lte IE 7]><link media="screen" rel="stylesheet" href="/css/loc_lte_ie6.css" /><![endif]-->
+<!-- Toolbar -->
+<script src="http://cdn.loc.gov/sites/news-releases.js"></script>
+<script src="http://cdn.loc.gov/js/lib/modernizr-1.5.min.js"></script>
+
+<script type="text/javascript" src="http://cdn.loc.gov/js/global/foresee/foresee-trigger.js"></script></head>
+<body>
+<a id="skip" href="#skip_menu">skip navigation</a>
+<div id="container">
+	<div id="branding">
+  <h2>Library of Congress</h2>
+  <h3>News Releases</h3>
+</div>
+<!-- end id:branding -->
+
+	<div id="h-wrapper" class="fix-float">
+  <div id="header" class="fix-float">
+    <div class="logo">
+      <a href="http://www.loc.gov" accesskey="1"><img src="http://cdn.loc.gov/images/img-head/logo-loc.png" width="141" height="32" alt="Library of Congress" /></a>
+    </div>
+    <div class="nav">
+        <ul>
+          <li><a class="btn-loc" href="http://www.loc.gov/rr/askalib/" accesskey="2">Ask a Librarian</a></li>
+          <li><a class="btn-loc" href="http://www.loc.gov/library/libarch-digital.html" accesskey="3">Digital Collections</a></li>
+          <li><a class="btn-loc" href="http://catalog.loc.gov/" accesskey="4">Library Catalogs</a></li>
+        </ul>
+    </div>
+    <div class="search">
+      <form action="http://www.loc.gov/search" method="get">
+        <label class="search_label" for="search">Search</label>
+        <div class="search_wrap">
+        <input type='hidden' name='new' value='true'/>
+        <input id="search" type="search" name="q" maxlength="200" accesskey="/" title="Search the Library of Congress website" placeholder="Search Loc.gov" class="locsuggest" /><button class="button" id="search_button" type="submit">GO</button>
+        </div>
+      </form>
+    </div>
+  </div>
+  <script src="http://cdn.loc.gov/suggest/library-of-congress.js" type="text/javascript"></script>
+</div>
+
+	<div id="crumb_nav"><a href="http://www.loc.gov">The Library of Congress</a> <span>&gt;</span> <a href="/today/pr/">News Releases</a> &gt; Library of Congress Announces Second Data Challenge</div>
+	<div id="content">
+		<div id="left_nav" role="navigation">
+  <div class="box leftnavtitle"><a href="/today/pr/"><img src="/today/pr/images/left-img-head.gif" alt="News Releases" width="219" height="50" /></a></div>
+  <div class="box leftnavimg">News Releases Image</div>
+  <div class="box">
+  	<form action="http://www.loc.gov/search/" method="get" id="site_search">
+      <input id="searchtext" name="q" type="text" value=" Search this site" onfocus="this.value=''" />
+      <input name="in" value="PartOf:news from the library of congress" type="hidden" />
+      <input class="button" type="submit" value="GO" />
+    </form>
+  </div>
+  <div class="box">
+    <ul class="arrow_o bold">
+      <li><a href="/today/pr">News Releases Home</a></li>
+	  <li><a href="/loc/events/index.php">Events: Talks, Films, Concerts</a></li>
+	  <li><a href="http://blogs.loc.gov/loc">Library of Congress Blog</a></li>  
+    </ul>
+  </div>
+  <div class="box">
+	<h2>Related Resources at the Library of Congress</h2>
+	<ul class="std">
+	  <li><a href="/lcm/">Library of Congress Magazine</a></li>
+	  <li><a href="/exhibits/current/">Exhibitions at the Library of Congress</a></li>
+      <li><a href="/about/generalinfo.html">About the Library of Congress</a></li>
+      <li><a href="/wiseguide/">Wise Guide to loc.gov</a></li>
+      <li><a href="/loc/lcib/">Library of Congress Information Bulletin (1993-2011)</a></li>
+	</ul> 
+  </div>
+  <div class="box">
+  	<h2>For More information</h2>
+    <p><a href="/today/pr/">Office of Communications</a></p>
+	<p>Library of Congress<br />
+       101 Independence Ave., S.E.<br />
+       Washington, D.C. 20540-1600</p>
+    <p><strong>Voice:</strong> 202.707.2905<br />
+       <strong>Fax:</strong> 202.707.9199<br />
+       <strong>Email:</strong> <a href="mailto:pao@loc.gov">pao@loc.gov</a></p>
+  </div>
+</div>
+<!-- end id:left_nav -->
+
+		<div id="main_body" role="main">
+			<!-- Toolbar -->
+			<div class="locshare-this" id='instance_access1001'></div>
+			<div class="clear-share">
+				<!-- -->
+			</div>
+			<div id="page_head"><span style="width: 100%;"><a name="skip_menu"></a></span>
+				<h1>News from the Library of Congress</h1>
+			</div>
+			<p class='dot-bot'><strong>Press contact:</strong> Gayle Osterberg (202) 707-2905<br /><strong>Public contact:</strong> Andrew Weber (202) 707-4758; Tina Gheen (202) 707-6995</p>
+<!-- end of contact div -->
+			
+			
+			
+			 <h2>Sept. 10. 2013
+			 		 
+			 </h2>
+			 <h3>
+			 
+			 Library of Congress Announces Second Legislative Data Challenge  </h3>
+		   
+			
+		   
+		   
+		   <p>The Library of Congress, at the request of the U.S. House of Representatives, is again using the Challenge.gov platform to advance the exchange of legislative information worldwide.</p>
+<p>Akoma Ntoso (<a href="http://www.akomantoso.org" class="external" target="_blank">www.akomantoso.org<span>(external link)</span></a>) is a framework used in many other countries around the world to annotate and format electronic versions of parliamentary, legislative and judiciary documents. The challenge, "Legislative XML Data Mapping," invites competitors to map the Akoma Ntoso schema to established U.S. and United Kingdom legislative markup languages to improve Akoma Ntoso’s support of U.S. and U.K. legislative data.</p>
+<p>The mapping challenge results will complement those anticipated from a previously announced challenge, "Markup of U.S. Legislation in Akoma Ntoso", which opened in July and closes Oct. 31, 2013.</p>
+<p>"The Library works closely with the Congress and related agencies to make America’s federal legislative record more widely available through Congress.gov," said Robert Dizard Jr., Deputy Librarian of Congress. "Taken together, the information from these challenges will build on that accessibility goal by advancing the possibilities related to international frameworks. We are pleased to be cooperating with the United Kingdom on this effort."</p>
+<p>Challenge participants would attempt to map elements found in select U.S. and U.K. bill Extensible Markup Language (XML)—a flexible international format for structuring data—to the tags used to create Akoma Ntoso. Participants will be expected to identify any issues that appear when conducting the mapping, recommend solutions to resolve those issues and provide information on the tools used to process or map the bill information.</p>
+<p>The new mapping challenge, <strong>which opened today and closes Dec. 31, 2013</strong>, is extended to participants 18 years of age or older. For the official rules and more detailed information about the challenge or to enter a submission, visit <a href="http://legislative-data-mapping.challengepost.com" class="external" target="_blank">legislative-data-mapping.challengepost.com<span>(external link)</span></a>.</p>
+<p>The competition’s four judges are experts in either U.S. legislation XML standards, U.K. legislation XML standards, or the Akoma Ntoso legal schema. The Library of Congress will announce the winner of the $10,000 prize on <strong>Feb. 12, 2014</strong>.</p>
+<p>Challenge.gov is an online platform administered by the U.S. General Services Administration in partnership with ChallegePost that empowers the U.S. government and the public to bring the best ideas and top talent to bear on our nation’s most pressing challenges. Submissions can range from simple suggestions to complex proofs of concept, designs or finished products that solve the grand challenges of the 21st century. The Library’s first legislative data challenge, Markup of U.S. Legislation in Akoma Ntoso is available at <a href="http://akoma-ntoso-markup.challengepost.com" class="external" target="_blank">akoma-ntoso-markup.challengepost.com<span>(external link)</span></a>.</p>
+<p>Founded in 1800, the Library of Congress is the nation’s oldest federal cultural institution. The Library seeks to spark imagination and creativity and to further human understanding and wisdom by providing access to knowledge through its magnificent collections, programs, publications and exhibitions. Many of the Library’s rich resources can be accessed through its website at <a href="http://www.loc.gov">www.loc.gov</a></p>
+
+		   
+			<p># # #</p>
+			<!-- START PRNUM/SHORTDATE/ISSN -->
+			<p>PR 13-161<br />
+			/01/13
+			<br />
+			ISSN 0731-3527</p>
+			<p class="backtotop"><a href="#skip_menu">Back to top</a></p>
+		</div>
+		<!-- end id:main_body -->
+	</div>
+	<!-- end id:content -->
+		<!-- begin: global footer -->
+  <div id="f-wrapper" class="fix-float">
+  <div id="footer" class="fix-float">
+      <div class="cols heading">
+        <h2>Connect with the Library</h2>
+        <p><a class="ar-more foot" href="http://www.loc.gov/homepage/connect.html">All ways to connect</a></p>
+      </div>
+      <div class="cols">
+        <h3>Find Us On</h3>
+        <a href="http://www.facebook.com/libraryofcongress"><img src="http://cdn.loc.gov/images/img-foot/facebook.gif" alt="Facebook" width="16" height="16" /></a> &nbsp; <a href="http://twitter.com/#!/librarycongress"><img src="http://cdn.loc.gov/images/img-foot/twitter.gif" alt="Twitter" width="16" height="16" /></a> &nbsp; <a href="http://www.youtube.com/libraryofcongress"><img src="http://cdn.loc.gov/images/img-foot/youtube.gif" alt="YouTube" width="16" height="16" /></a> &nbsp; <a href="http://www.flickr.com/photos/library_of_congress/"><img src="http://cdn.loc.gov/images/img-foot/flickr.gif" alt="Flickr" width="16" height="16" /></a>
+      </div>
+      <div class="cols">
+        <h3>Subscribe &amp; Comment</h3>
+        <ul class="plain">
+          <li><a href="http://www.loc.gov/rss/">RSS &amp; E-Mail</a></li>
+          <li><a href="http://blogs.loc.gov/">Blogs</a></li>
+        </ul>
+      </div>
+      <div class="cols">
+        <h3>Download &amp; Play</h3>
+        <ul class="plain">
+          <li><a href="http://www.loc.gov/apps/">Apps</a></li>
+          <li><a href="http://www.loc.gov/podcasts/">Podcasts</a></li>
+          <li><a href="http://www.loc.gov/today/cyberlc/index.php">Webcasts</a></li>
+          <li><a href="http://itunes.apple.com/us/institution/library-of-congress/id386017159" class="external foot mod">iTunesU<span> (external link)</span></a></li>
+        </ul>
+      </div>
+      <div class="cols">
+        <h3>Questions</h3>
+        <ul class="plain">
+          <li><a href="http://www.loc.gov/rr/askalib/">Ask a Librarian</a></li>
+          <li><a href="http://www.loc.gov/help/contact-general.html" accesskey="8">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="clear"><!-- --></div>
+      <p class="links">
+      <a href="http://www.loc.gov/about/">About</a> |
+      <a href="http://www.loc.gov/pressroom/login">Press</a> |
+      <a href="http://www.loc.gov/hr/employment/index.php">Jobs</a> |
+      <a href="http://www.loc.gov/philanthropy/index.php">Donate</a>
+      <br />
+      <a href="http://www.loc.gov/about/oig/">Inspector General</a> |
+      <a href="http://www.loc.gov/homepage/legal.html" accesskey="9">Legal</a> |
+      <a href="http://www.loc.gov/access/" accesskey="0">Accessibility</a> |
+      <a href="http://www.loc.gov/global/disclaim.html">External Link Disclaimer</a> |
+      <a href="http://www.usa.gov/">USA.gov</a>
+      </p>
+      <span class="speech"><a href="http://www.loc.gov/access/web.html">Speech Enabled</a></span>
+  </div><!-- end id:footer -->
+  </div><!-- end id:f-wrapper -->
+	<!-- end: global footer -->
+</div>
+<!-- end id:container -->
+<script type='text/javascript' src='http://cdn.loc.gov/js/global/metrics/sc/v25.2/2.0/s_code.js'></script></body>
+</html>

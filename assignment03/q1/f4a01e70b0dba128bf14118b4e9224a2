@@ -1,0 +1,983 @@
+ 
+
+  
+   
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+<style type="text/css">
+@import url(styles/JA_dgstyle.css);
+</style>
+<link rel="stylesheet" href="styles/JD_dgprint.css" type="text/css" media="print" />
+<title>NYPL Digital Gallery | Results - Women&apos;s suffrage</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- begin scripts -->
+
+<script type="text/javascript" src="scripts/_select_topics.js"></script>
+<script language="JavaScript" type="text/javascript" src="scripts/_display_openwindow.js"></script>
+<script type="text/javascript" src="scripts/_selections_openwindow.js"></script>
+
+
+
+
+
+
+
+
+<link rel="alternate" href="http://digitalgallery.nypl.org/feeds/dev/rss2/?word=Women%27s%20suffrage&s=3&notword=&f=2&size=760&imgs=20&title_type=short" type="application/rss+xml" title="View slideshow of images" id="gallery" />
+
+
+<script type="text/javascript" src="http://lite.piclens.com/current/piclens.js"></script>
+
+<!-- /scripts -->
+</head>
+<body>
+
+<!-- HEADER -->
+		
+		
+		
+				
+				
+		
+		
+		
+			
+			
+				
+			
+		
+
+
+
+<div id="header">
+<div id="top"></div>
+
+
+<style type="text/css">
+#prefsnav .survey a {
+color: #c62829;
+font-size: 14px;
+text-decoration: underline;
+}
+</style>
+
+		<div id="prefsnav" style="padding: 10px 20px;">
+
+		
+		<span class="survey"><a href="http://digitalcollections.nypl.org">Try the new NYPL Digital Collections website (in beta)!</a></span>        
+
+		        <a href="#" onClick="newWindow('/nypldigital/dgselections.cfm?trg=1','SelectionsDisplay')">My Selections</a> | <a href="/nypldigital/preferences.cfm">Change Display</a> | <a href="/nypldigital/historyresults.cfm">Search History</a> | <a href="/nypldigital/dgadvsearch.cfm">Advanced Search</a> | <a href="/nypldigital/dghelp.cfm">Help</a>
+		</div>
+
+<!--[if IE 6]>
+<style type="text/css">
+/* JA: THIS CORRECTS ALIGNMENT OF SEARCH BOX ELEMENTS IN HEADER */
+#topheader {
+padding:3px 5px 13px 5px;
+}
+#topheader li img{
+padding: 5px 5px 0 0;
+}
+.gobutton {
+padding: 3px 0 0 0;
+}
+</style>
+<![endif]-->        
+        
+    <div id="topheader">
+        <a href="/nypldigital/index.cfm"><img class="left" src="/nypldigital/images/hdrlogo-sub.gif" alt="NYPL Digital Gallery" title="Home"></a>
+        
+        <form name="form1" action="/nypldigital/dgkeysearchresult.cfm" onsubmit="this.submit();return false;">
+            <ul class="right">
+                <li><img src="/nypldigital/images/search-sub.gif" alt="search"></li>
+                <li><input name="keyword" type="text" value="" style="width:200px"></li>
+                <li><input class="gobutton" name="submit" src="/nypldigital/images/srcharrow-sub.gif" type="image"></li>
+            </ul>
+        </form>
+        <div>&nbsp;</div>
+    </div>
+
+    <div id="topnav"><a href="/nypldigital/explore/dgexplore.cfm?topic=all">Collection Guides</a> | <a href="/nypldigital/dgcollectionbrowse.cfm">Library Divisions</a> | <a href="/nypldigital/dgsubjectbrowseresult.cfm">Subjects A-Z</a> | <a href="/nypldigital/dgnamebrowseresult.cfm">Names</a></div>
+
+</div>
+<!-- HEADER -->
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+		
+
+	
+
+
+
+<!-- debug vars:-->
+
+
+
+
+
+	
+		
+	
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+	<!--thumbsnav-->
+	<div id="thumbsnav">
+		
+		
+		<span class="items">
+			
+       1-20 of 34 Items 
+			
+		</span>
+		
+
+		<!-- right -->
+		<span class="numbernav">
+			
+			
+				
+
+				
+					
+					
+					
+						
+							
+								<span style="font-weight:bold;font-size:1.6em;">1</span>
+							
+						
+							
+								<a href="dgkeysearchresult.cfm?num=20&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum=">2</a>
+							
+							
+					
+					
+					
+					
+					<!-- /error message content-->
+				
+			
+			
+			
+		</span>
+		
+<br clear="all" />
+			
+			
+				
+				
+					
+					
+						
+						
+							
+						
+							
+							
+								
+								
+									
+									
+									
+										
+										
+											
+											
+													
+													
+														
+														
+															
+															
+															
+															
+															
+																
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+																	
+																	
+															
+															
+														
+														
+													
+													
+											
+											
+										
+										
+																
+									
+								
+								
+							
+							
+						
+						
+					
+					
+				
+				
+			
+			
+			
+	<span class="source">
+	
+			
+			
+				Searched for
+				 
+					 the phrase &quot;women&apos;s suffrage&quot; in Subject
+						
+				 
+				
+			
+			
+	
+
+<br />
+
+		
+
+			
+
+				
+
+				
+				
+
+				
+
+
+
+<!--[if lte IE 6]>
+
+		 
+
+<![endif]-->
+
+
+		</span>
+
+		
+		<span class="thprevnext">
+			<span>
+			
+
+					
+						<img src="images/prev_off.gif" alt="" hspace="8"> <a href="dgkeysearchresult.cfm?num=20&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="images/next.gif" alt="Next" hspace="4"></a>
+					
+			
+			
+			</span>
+		</span>
+
+	<!-- /thumbsnav-->
+	</div>
+	<!-- main content -->
+
+
+	
+	
+  
+    
+  
+	
+
+
+<br clear="all" />
+<!-- thumbs -->
+<div id="thumbs">
+<ul>
+			
+			
+			
+									
+
+								
+								
+									<div class="newrow">
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=1065910&imageID=1588488&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=1"><img src="http://images.nypl.org/index.php?id=1588488&t=t" border="0" alt="To a suffragette valentin" title="View Enlarged Image &amp; Details" style="padding-top:2px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=1065910&imageID=1588488&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=1">To a suffragette valentine.</a>
+										<br />ID: 1588488
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=1065910&imageID=1588488&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=2046350&imageID=3970515&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=2"><img src="http://images.nypl.org/index.php?id=3970515&t=t" border="0" alt="The largest number of per" title="View Enlarged Image &amp; Details" style="padding-top:2px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=2046350&imageID=3970515&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=2">The largest number of persons ever included in</a>
+										<br />ID: 3970515
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=2046350&imageID=3970515&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423391&imageID=733571f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=3"><img src="http://images.nypl.org/index.php?id=733571f&t=t" border="0" alt="Woman suffrage - [Women s" title="View Enlarged Image &amp; Details" style="padding-top:26px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423391&imageID=733571f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=3">Woman suffrage - [Women suffragettes leaving Gr</a>
+										<br />ID: 733571f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423391&imageID=733571f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423393&imageID=733573f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=4"><img src="http://images.nypl.org/index.php?id=733573f&t=t" border="0" alt="Woman suffrage - [Miss El" title="View Enlarged Image &amp; Details" style="padding-top:2px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423393&imageID=733573f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=4">Woman suffrage - [Miss Elizabeth Freeman speaki</a>
+										<br />ID: 733573f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423393&imageID=733573f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									<!--/newrow-->
+									</div>
+									<div class="clearrow"></div>
+								
+			
+			
+									
+
+								
+								
+									<div class="newrow">
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423401&imageID=733581f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=5"><img src="http://images.nypl.org/index.php?id=733581f&t=t" border="0" alt="Woman suffrage - [Mrs. Jo" title="View Enlarged Image &amp; Details" style="padding-top:27px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423401&imageID=733581f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=5">Woman suffrage - [Mrs. John Rodgers, Jr. addres</a>
+										<br />ID: 733581f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423401&imageID=733581f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423402&imageID=733582f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=6"><img src="http://images.nypl.org/index.php?id=733582f&t=t" border="0" alt="Woman suffrage - [Vote fo" title="View Enlarged Image &amp; Details" style="padding-top:2px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423402&imageID=733582f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=6">Woman suffrage - [Vote for woman suffrage, Nov.</a>
+										<br />ID: 733582f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423402&imageID=733582f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423404&imageID=733584f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=7"><img src="http://images.nypl.org/index.php?id=733584f&t=t" border="0" alt="Woman suffrage - [Banner " title="View Enlarged Image &amp; Details" style="padding-top:2px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423404&imageID=733584f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=7">Woman suffrage - [Banner carried by suffragette</a>
+										<br />ID: 733584f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423404&imageID=733584f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423408&imageID=733588f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=8"><img src="http://images.nypl.org/index.php?id=733588f&t=t" border="0" alt="Woman suffrage - [Room at" title="View Enlarged Image &amp; Details" style="padding-top:26px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423408&imageID=733588f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=8">Woman suffrage - [Room at N.Y. U.S.A. where suf</a>
+										<br />ID: 733588f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423408&imageID=733588f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									<!--/newrow-->
+									</div>
+									<div class="clearrow"></div>
+								
+			
+			
+									
+
+								
+								
+									<div class="newrow">
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423409&imageID=733589f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=9"><img src="http://images.nypl.org/index.php?id=733589f&t=t" border="0" alt="Women Suffrage." title="View Enlarged Image &amp; Details" style="padding-top:26px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423409&imageID=733589f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=9">Women Suffrage.</a>
+										<br />ID: 733589f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423409&imageID=733589f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423410&imageID=733590f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=10"><img src="http://images.nypl.org/index.php?id=733590f&t=t" border="0" alt="Women Suffrage." title="View Enlarged Image &amp; Details" style="padding-top:27px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423410&imageID=733590f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=10">Women Suffrage.</a>
+										<br />ID: 733590f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423410&imageID=733590f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423411&imageID=733591f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=11"><img src="http://images.nypl.org/index.php?id=733591f&t=t" border="0" alt="Woman suffrage - [Hike to" title="View Enlarged Image &amp; Details" style="padding-top:2px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423411&imageID=733591f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=11">Woman suffrage - [Hike to Washington - Mrs. Lou</a>
+										<br />ID: 733591f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423411&imageID=733591f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423413&imageID=733593f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=12"><img src="http://images.nypl.org/index.php?id=733593f&t=t" border="0" alt="Woman suffrage - [The suf" title="View Enlarged Image &amp; Details" style="padding-top:2px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423413&imageID=733593f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=12">Woman suffrage - [The suffragette cavalry.]</a>
+										<br />ID: 733593f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423413&imageID=733593f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									<!--/newrow-->
+									</div>
+									<div class="clearrow"></div>
+								
+			
+			
+									
+
+								
+								
+									<div class="newrow">
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=723475&imageID=ps_mss_cd22_336&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=13"><img src="http://images.nypl.org/index.php?id=ps_mss_cd22_336&t=t" border="0" alt="View of fair Staten Islan" title="View Enlarged Image &amp; Details" style="padding-top:28px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=723475&imageID=ps_mss_cd22_336&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=13">View of fair Staten Island, N.Y.</a>
+										<br />ID: ps_mss_cd22_336
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=723475&imageID=ps_mss_cd22_336&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=1935851&imageID=1999082&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=14"><img src="http://images.nypl.org/index.php?id=1999082&t=t" border="0" alt="An account of the proceed" title="View Enlarged Image &amp; Details" style="padding-top:2px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=1935851&imageID=1999082&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=14">An account of the proceedings on the trial of S</a>
+										<br />ID: 1999082
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=1935851&imageID=1999082&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423398&imageID=733578f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=15"><img src="http://images.nypl.org/index.php?id=733578f&t=t" border="0" alt="Woman suffrage - [Miss Fl" title="View Enlarged Image &amp; Details" style="padding-top:21px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423398&imageID=733578f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=15">Woman suffrage - [Miss Flynn speaking at Strike</a>
+										<br />ID: 733578f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423398&imageID=733578f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=421104&imageID=731284f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=16"><img src="http://images.nypl.org/index.php?id=731284f&t=t" border="0" alt="Celebrations - Parades - " title="View Enlarged Image &amp; Details" style="padding-top:26px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=421104&imageID=731284f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=16">Celebrations - Parades - Municipal events - Suf</a>
+										<br />ID: 731284f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=421104&imageID=731284f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									<!--/newrow-->
+									</div>
+									<div class="clearrow"></div>
+								
+			
+			
+									
+
+								
+								
+									<div class="newrow">
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423388&imageID=733568f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=17"><img src="http://images.nypl.org/index.php?id=733568f&t=t" border="0" alt="Woman suffrage - [Chinese" title="View Enlarged Image &amp; Details" style="padding-top:27px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423388&imageID=733568f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=17">Woman suffrage - [Chinese girl casting her firs</a>
+										<br />ID: 733568f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423388&imageID=733568f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423389&imageID=733569f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=18"><img src="http://images.nypl.org/index.php?id=733569f&t=t" border="0" alt="Woman suffrage - [Coronat" title="View Enlarged Image &amp; Details" style="padding-top:2px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423389&imageID=733569f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=18">Woman suffrage - [Coronation festivities - Show</a>
+										<br />ID: 733569f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423389&imageID=733569f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423390&imageID=733570f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=19"><img src="http://images.nypl.org/index.php?id=733570f&t=t" border="0" alt="Woman suffrage - [The lit" title="View Enlarged Image &amp; Details" style="padding-top:2px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423390&imageID=733570f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=19">Woman suffrage - [The little suffragist had the</a>
+										<br />ID: 733570f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423390&imageID=733570f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									
+								
+			
+			
+									
+
+								
+								
+									<li>
+											<div class="selectoff">
+											<a href="dgkeysearchdetail.cfm?trg=1&strucID=423392&imageID=733572f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=20"><img src="http://images.nypl.org/index.php?id=733572f&t=t" border="0" alt="Woman suffrage - [The Law" title="View Enlarged Image &amp; Details" style="padding-top:2px" /></a>
+										</div>
+										<div class="prop"></div>
+										<a href="dgkeysearchdetail.cfm?trg=1&strucID=423392&imageID=733572f&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&total=34&num=0&imgs=20&pNum=&pos=20">Woman suffrage - [The Lawyers' section - Ten th</a>
+										<br />ID: 733572f
+										<br />
+										
+											
+												
+												<a href="dgselections.cfm?trg=2&flag=2&strucID=423392&imageID=733572f&num=0&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="/nypldigital/images/select_small.gif" border="0" width="20" height="16" align="absmiddle" />Add to Selections</a>
+											
+										
+										
+										<div class="clr"></div>
+									</li>
+								
+								
+									<!--/newrow-->
+									</div>
+									<div class="clearrow"></div>
+								
+			
+</ul>
+
+<br clear="all" />
+<!-- without this little <br /> NS6 and IE5PC do not stretch the frame div down to encopass the content DIVs -->
+<!-- /thumbs -->
+</div>
+
+	<div id="thumbsnav">
+        <span class="source">
+					
+					
+						
+							
+								<span style="font-weight:bold;font-size:1.6em;">1</span>
+							
+						
+							
+								<a href="dgkeysearchresult.cfm?num=20&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum=">2</a>
+							
+							
+								
+					
+				</span>
+		<span class="righttest">
+			<span style="float:right;width:110px;padding-top:4px">
+					
+						<img src="images/prev_off.gif" alt="" hspace="8"> <a href="dgkeysearchresult.cfm?num=20&word=Women%27s%20suffrage&s=3&notword=&d=&c=&f=2&k=1&lWord=&lField=&sScope=&sLevel=&sLabel=&sort=&imgs=20&pNum="><img src="images/next.gif" alt="Next" hspace="4"></a>
+					
+			</span>
+		</span>
+
+	</div>
+<!-- /bottom nav and jumpbox options -->
+<!-- /thumbs -->
+
+
+
+
+
+
+<!-- FOOTER -->
+<div id="footer">
+		
+		<div id="botnav">
+        <div class="left" style="padding-left:8px;">
+					<div class="botnavleft" style="padding-bottom:5px">
+						<a href="/nypldigital/">Home</a> | <a href="/nypldigital/dgabout.cfm">About</a> | <a href="/nypldigital/sitemap.cfm">Site Map</a> | <a href="/nypldigital/dgabout_credits.cfm">Credits</a> | <a href="/nypldigital/dgcontact.cfm">Contact</a> | <a href="http://www.nypl.org/legal/">Website Terms &amp; Conditions</a> | <a href="http://www.nypl.org/help/get-what-you-need/photographic-services/obtaining-images">Get a Digital File</a>
+					</div>
+					
+				</div>
+
+        <div class="right" style="padding-bottom:5px">
+					
+					
+					<a href="http://www.nypl.org/questions/">Ask NYPL</a> | <a href="http://www.nypl.org">The New York Public Library</a>
+				</div>
+        
+    </div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-1420324-9";
+urchinTracker();
+</script>
+</div>
+<div id="missionst">
+	<div class="missionstcontent">NYPL Digital Gallery provides free and open access to over 800,000 images digitized from primary sources and printed rarities in the vast collections of The New York Public Library, including drawings, illuminated manuscripts, historical maps, vintage posters, rare prints and photographs, illustrated books, printed ephemera, and more.</div>
+</div>
+<!-- FOOTER -->
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

@@ -1,0 +1,1328 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+    <title>
+
+
+USCIS - E-Verify</title>
+    <base target="_top"/>
+    <link rel="stylesheet" href="/css/persistent.css" type="text/css"/>
+    <link rel="stylesheet" href="/css/photogallery.css" type="text/css" />
+    <link rel="stylesheet" href="/javascript/lib/jquery/DataTables-1.8.0/media/css/demo_page.css" type="text/css" />
+    <link rel="stylesheet" href="/javascript/lib/jquery/DataTables-1.8.0/media/css/demo_table.css" type="text/css" />
+    <link rel="stylesheet" href="/javascript/lib/jquery/DataTables-1.8.0/extras/TableTools/media/css/TableTools.css" type="text/css" />
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+	<script src="/javascript/lib/jquery/ui.core.js" type="text/javascript"></script>
+    <script src="/javascript/lib/jquery/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/javascript/lib/dynatree/jquery.dynatree.js"></script>
+    <script type="text/javascript" src="/javascript/lib/jquery/jquery.cycle.min.js"></script>
+    <script type="text/javascript" src="/javascript/lib/jquery/DataTables-1.8.0/media/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" src="/javascript/lib/jquery/DataTables-1.8.0/extras/TableTools/media/js/TableTools.js"></script>
+	<script type="text/javascript" src="/javascript/lib/galleria/src/galleria.js"></script>
+    <script type="text/javascript" src="/javascript/external.js"></script>
+    <script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+	<script type="text/javascript" src="/javascript/swfobject.js" ></script>
+	<script type="text/javascript" src="/javascript/swfobject-2.2.js" ></script>
+	<script type="text/javascript" src="/javascript/playVideo.js"></script>
+	<script type="text/javascript" src="/javascript/uscis_ga.js"></script>
+</head>
+<body>
+<div id="skipLink"><a href="#mainContent">Skip to Main Content</a></div>
+<table border="0" cellpadding="0" cellspacing="0" id="main">
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+    
+    
+    
+            <tr>
+                
+                
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--SITE HEADER-->
+
+
+
+
+
+
+
+<script type="text/javascript">
+    <!--
+    var locale = "uscis";
+
+    var topLevelDomain = null;
+    var GOV = "gov";
+    var MIL = "mil";
+
+    var href = null;
+    var href_array = null;
+    var domain_array = null;
+    var current_domain = null;
+    
+    var clearSearch = false;
+
+    function clearSearchField(theField) {
+        if (!clearSearch) {
+            theField.value = "";
+            clearSearch = true;
+        }
+    }
+
+    function setSearchField(theForm, theField) {
+        if (theField.value == "") {
+            theForm.reset();
+            clearSearch = false;
+        }
+    }
+    //-->
+</script>
+<!--Begin Header-Horz Area -->
+<!-- Begin Header Nav -->
+
+<script type="text/javascript">
+//<![CDATA[
+var usagov_sayt_url = "http://search.uscis.gov/sayt?aid=1146&";
+//]]>
+</script>
+<script src="http://search.usa.gov/javascripts/jquery/jquery.bgiframe.min.js" type="text/javascript"></script>
+<script src="http://search.usa.gov/javascripts/jquery/jquery.autocomplete.min.js" type="text/javascript"></script>
+<script src="http://search.usa.gov/javascripts/sayt.js" type="text/javascript"></script>
+<link href="http://search.usa.gov/stylesheets/compiled/sayt.css" media="screen" rel="stylesheet" type="text/css" />
+
+<tr>
+<td>
+<table id="pageHead">
+<tr>
+<td>
+	<a href="/portal/site/uscis">
+		<img id="logo" src="/images/layout/logo.jpg"
+			 alt="U.S. Citizenship and Immigration Services"/>
+	</a>
+
+	<div id="headNav">
+		<ul id="top">
+			<!--OID:5adc3385ccf76210VgnVCM100000082ca60aRCRD-->
+<li><a href="/portal/site/uscis" target="_top">Home</a></li>
+<li>|&nbsp;</li><li><a href="/portal/site/uscis-es" target="_top">Español</a></li>
+<li>|&nbsp;</li><!--OID:d11717f7aa156210VgnVCM100000082ca60aRCRD--><li><a href="http://blog.uscis.gov/"  target="_blank"  >Blog</a></li>
+<li>|&nbsp;</li><!--OID:11569349b58ca210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=ee87eefce43ca210VgnVCM100000082ca60aRCRD&vgnextchannel=ee87eefce43ca210VgnVCM100000082ca60aRCRD"  >Archive</a></li>
+<li>|&nbsp;</li><!--OID:74d03385ccf76210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.4d9824b1a05c975ef143c6a7543f6d1a/?vgnextoid=587d6a89ebafa010VgnVCM10000045f3d6a1RCRD&vgnextchannel=587d6a89ebafa010VgnVCM10000045f3d6a1RCRD"  >Index</a></li>
+
+		</ul>
+		
+			<form accept-charset="UTF-8" action="http://search.uscis.gov/search" id="search_form" method="get">
+			<input id="affiliate" name="affiliate" type="hidden" value="82601b2ec" />
+			<fieldset>
+			<table id="search" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td>
+					<input type="text" value="Search" name="query" id="searchBox" onFocus="clearSearchField(this);"
+						autocomplete="off" class="usagov-search-autocomplete" maxlength="80" 
+						value="Search" title="Enter search terms"
+					/>
+				</td>
+				<td>
+					<input type="image" src="/images/layout/search-btn.gif" 
+						alt="Submit USCIS Search" style="border:0;" onClick="submit" />
+				</td>
+			</tr>
+			</table>
+			</fieldset>
+			</form>
+		
+	</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- End Header Nav -->
+
+
+	  
+	  
+	
+
+
+
+    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+<td id="topNav"><!--CHAN:75bce2e261405110VgnVCM1000004718190aRCRD--><ul><li class="first"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=db029c7755cb9010VgnVCM10000045f3d6a1RCRD&vgnextchannel=db029c7755cb9010VgnVCM10000045f3d6a1RCRD">FORMS</a></li><li ><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=68439c7755cb9010VgnVCM10000045f3d6a1RCRD&vgnextchannel=68439c7755cb9010VgnVCM10000045f3d6a1RCRD">NEWS</a></li><li ><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=ac419c7755cb9010VgnVCM10000045f3d6a1RCRD&vgnextchannel=ac419c7755cb9010VgnVCM10000045f3d6a1RCRD">RESOURCES</a></li><li ><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=02729c7755cb9010VgnVCM10000045f3d6a1RCRD&vgnextchannel=02729c7755cb9010VgnVCM10000045f3d6a1RCRD">LAWS</a></li><li ><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=ea015fc544007210VgnVCM100000082ca60aRCRD&vgnextchannel=ea015fc544007210VgnVCM100000082ca60aRCRD">OUTREACH</a></li><li  class="last"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=2af29c7755cb9010VgnVCM10000045f3d6a1RCRD&vgnextchannel=2af29c7755cb9010VgnVCM10000045f3d6a1RCRD">ABOUT US</a></li></ul></td>
+
+
+
+	  
+	  
+	
+
+
+
+    
+
+                
+            </tr>
+            
+            <tr>
+                <td valign="top"><!-- #7 This table contains the content area of the page -->
+                    <table id="content" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+			
+                        <td id="leftCol" valign="top"><div class="sidebar">
+                        
+                    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	 
+
+	
+<!-- NAV TREE -->
+
+
+<!-- PAGE FRAGMENT STARTS HERE -->
+<script language="JavaScript" type="text/javascript">
+	$(document).ready(function() {
+    	$("#jQuery").dynatree({
+    		onActivate: function(dtnode) {
+    			window.location.assign(dtnode.data.url);
+    		}
+    	});
+  	});
+</script>
+
+<div id="jQuery"><!--CHAN:75bce2e261405110VgnVCM1000004718190aRCRD--><!--P:CHAN:75bce2e261405110VgnVCM1000004718190aRCRD-->
+<ul><li id='c94888e60a405110VgnVCM1000004718190a____' class="folder" data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=e94888e60a405110VgnVCM1000004718190aRCRD&vgnextchannel=e94888e60a405110VgnVCM1000004718190aRCRD'">What is E-Verify?<ul><li id='c94888e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=a7469589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=a7469589cdb76210VgnVCM100000b92ca60aRCRD'">Instant Verification of Work Authorization</li><li id='c94888e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=b4059589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=b4059589cdb76210VgnVCM100000b92ca60aRCRD'">Companion to Form I-9</li><li id='c94888e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=10869589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=10869589cdb76210VgnVCM100000b92ca60aRCRD'">Business-Friendly Features</li><li id='c94888e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=3bc69589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=3bc69589cdb76210VgnVCM100000b92ca60aRCRD'">Attend an Information Session</li></ul></li><li id='4a0988e60a405110VgnVCM1000004718190a____' class="folder" data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=6a0988e60a405110VgnVCM1000004718190aRCRD&vgnextchannel=6a0988e60a405110VgnVCM1000004718190aRCRD'">Getting Started<ul><li id='4a0988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=0636201d6b996210VgnVCM100000b92ca60aRCRD&vgnextchannel=0636201d6b996210VgnVCM100000b92ca60aRCRD'">Preparing to Use E-Verify</li><li id='4a0988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=3588fb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=3588fb41c8596210VgnVCM100000b92ca60aRCRD'">System Requirements</li><li id='4a0988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=4e98fb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=4e98fb41c8596210VgnVCM100000b92ca60aRCRD'">The Enrollment Process</li><li id='4a0988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=0a18fb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=0a18fb41c8596210VgnVCM100000b92ca60aRCRD'">Enrollment Checklist</li></ul></li><li id='816988e60a405110VgnVCM1000004718190a____' class="folder" data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=a16988e60a405110VgnVCM1000004718190aRCRD&vgnextchannel=a16988e60a405110VgnVCM1000004718190aRCRD'">About the Program<ul><li id='816988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=04db32802cbc8210VgnVCM100000082ca60aRCRD&vgnextchannel=04db32802cbc8210VgnVCM100000082ca60aRCRD'">What's New</li><li id='816988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=d1e8d3cd89f60310VgnVCM100000082ca60aRCRD&vgnextchannel=d1e8d3cd89f60310VgnVCM100000082ca60aRCRD'">E-Verify Enhancements</li><li id='816988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=de779589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=de779589cdb76210VgnVCM100000b92ca60aRCRD'">E-Verify Pressroom</li><li id='816988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=63b5f16d4d06e310VgnVCM100000082ca60aRCRD&vgnextchannel=63b5f16d4d06e310VgnVCM100000082ca60aRCRD'">E-Verify Program Reports</li><li id='816988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=7c579589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=7c579589cdb76210VgnVCM100000b92ca60aRCRD'">E-Verify Program Statistics</li><li id='816988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=84979589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=84979589cdb76210VgnVCM100000b92ca60aRCRD'">History and Milestones</li><li id='816988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=7aa79589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=7aa79589cdb76210VgnVCM100000b92ca60aRCRD'">E-Verify and I E-Verify Trademark Usage Guidelines</li><li id='816988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=a0c79589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=a0c79589cdb76210VgnVCM100000b92ca60aRCRD'">Our Commitment to Privacy</li><li id='816988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=1c9434bacc30a310VgnVCM100000082ca60aRCRD&vgnextchannel=1c9434bacc30a310VgnVCM100000082ca60aRCRD'">E-Verify Employers Search Tool</li></ul></li><li id='113628ac1dc0c210VgnVCM100000082ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=413628ac1dc0c210VgnVCM100000082ca60aRCRD&vgnextchannel=413628ac1dc0c210VgnVCM100000082ca60aRCRD'">E-Verify Webinars</li><li id='a1039589cdb76210VgnVCM100000b92ca60a____' class="folder" data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=12039589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=12039589cdb76210VgnVCM100000b92ca60aRCRD'">Customer Support<ul><li id='a1039589cdb76210VgnVCM100000b92ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=5156fb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=5156fb41c8596210VgnVCM100000b92ca60aRCRD'">Contact E-Verify</li><li id='a1039589cdb76210VgnVCM100000b92ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=b136fb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=b136fb41c8596210VgnVCM100000b92ca60aRCRD'">Login Help</li><li id='a1039589cdb76210VgnVCM100000b92ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=952cfb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=952cfb41c8596210VgnVCM100000b92ca60aRCRD'">E-Verify Employer Agent Support</li><li id='a1039589cdb76210VgnVCM100000b92ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=ae96fb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=ae96fb41c8596210VgnVCM100000b92ca60aRCRD'">State Workforce Agency Support</li><li id='a1039589cdb76210VgnVCM100000b92ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=515cfb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=515cfb41c8596210VgnVCM100000b92ca60aRCRD'">Glossary</li></ul></li><li id='b7f29589cdb76210VgnVCM100000b92ca60a____' class="folder" data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=e7f29589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=e7f29589cdb76210VgnVCM100000b92ca60aRCRD'">For Employers<ul><li id='b7f29589cdb76210VgnVCM100000b92ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=d4abfb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=d4abfb41c8596210VgnVCM100000b92ca60aRCRD'">The Verification Process</li><li id='b7f29589cdb76210VgnVCM100000b92ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=8fdbfb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=8fdbfb41c8596210VgnVCM100000b92ca60aRCRD'">Tentative Nonconfirmations</li><li id='b7f29589cdb76210VgnVCM100000b92ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=bbcbfb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=bbcbfb41c8596210VgnVCM100000b92ca60aRCRD'">Photo Matching</li><li id='b7f29589cdb76210VgnVCM100000b92ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=93a8655741696210VgnVCM100000b92ca60aRCRD&vgnextchannel=93a8655741696210VgnVCM100000b92ca60aRCRD'">Using an E-Verify Employer Agent</li></ul></li><li id='b6f988e60a405110VgnVCM1000004718190a____' class="folder" data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=d6f988e60a405110VgnVCM1000004718190aRCRD&vgnextchannel=d6f988e60a405110VgnVCM1000004718190aRCRD'">For Employees<ul><li id='b6f988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=7f19fb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=7f19fb41c8596210VgnVCM100000b92ca60aRCRD'">E-Verify Overview</li><li id='b6f988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=7279fb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=7279fb41c8596210VgnVCM100000b92ca60aRCRD'">Employee Rights and Responsibilities</li><li id='b6f988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=ffbdecc1b0418310VgnVCM100000082ca60aRCRD&vgnextchannel=ffbdecc1b0418310VgnVCM100000082ca60aRCRD'">Tentative Nonconfirmation Overview</li><li id='b6f988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=f516af02994af310VgnVCM100000082ca60aRCRD&vgnextchannel=f516af02994af310VgnVCM100000082ca60aRCRD'">Employee TNC Email Notification</li><li id='b6f988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=81ceecc1b0418310VgnVCM100000082ca60aRCRD&vgnextchannel=81ceecc1b0418310VgnVCM100000082ca60aRCRD'">Tips to Prevent a Tentative Nonconfirmation</li><li id='b6f988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=017bfb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=017bfb41c8596210VgnVCM100000b92ca60aRCRD'">How to Correct a Tentative Nonconfirmation</li><li id='b6f988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=c35bfb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=c35bfb41c8596210VgnVCM100000b92ca60aRCRD'">Reporting Violations</li><li id='b6f988e60a405110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=ef35f8049c00a310VgnVCM100000082ca60aRCRD&vgnextchannel=ef35f8049c00a310VgnVCM100000082ca60aRCRD'">Employee Rights Toolkit</li></ul></li><li id='334bbd181e09d110VgnVCM1000004718190a____' class="folder" data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=534bbd181e09d110VgnVCM1000004718190aRCRD&vgnextchannel=534bbd181e09d110VgnVCM1000004718190aRCRD'">For Federal Contractors<ul><li id='334bbd181e09d110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=b06064fefbcf6210VgnVCM100000b92ca60aRCRD&vgnextchannel=b06064fefbcf6210VgnVCM100000b92ca60aRCRD'">Timeframes for Enrollment and Use</li><li id='334bbd181e09d110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=8eb064fefbcf6210VgnVCM100000b92ca60aRCRD&vgnextchannel=8eb064fefbcf6210VgnVCM100000b92ca60aRCRD'">Exemptions and Exceptions</li><li id='334bbd181e09d110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=472164fefbcf6210VgnVCM100000b92ca60aRCRD&vgnextchannel=472164fefbcf6210VgnVCM100000b92ca60aRCRD'">Subcontractors, Independent Contractors, and Affiliates</li><li id='334bbd181e09d110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=358164fefbcf6210VgnVCM100000b92ca60aRCRD&vgnextchannel=358164fefbcf6210VgnVCM100000b92ca60aRCRD'">For Contractors Already Enrolled</li><li id='334bbd181e09d110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=7fe164fefbcf6210VgnVCM100000b92ca60aRCRD&vgnextchannel=7fe164fefbcf6210VgnVCM100000b92ca60aRCRD'">Verifying New & Existing Employees on Form I-9</li><li id='334bbd181e09d110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=835264fefbcf6210VgnVCM100000b92ca60aRCRD&vgnextchannel=835264fefbcf6210VgnVCM100000b92ca60aRCRD'">For E-Verify Employer Agents of Federal Contracts</li><li id='334bbd181e09d110VgnVCM1000004718190a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=4a1e787476728210VgnVCM100000082ca60aRCRD&vgnextchannel=4a1e787476728210VgnVCM100000082ca60aRCRD'">E-Verify Federal Contractors Questions and Answers</li></ul></li><li id='8c1f0f4752f0a210VgnVCM100000082ca60a____' class="folder" data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=bc1f0f4752f0a210VgnVCM100000082ca60aRCRD&vgnextchannel=bc1f0f4752f0a210VgnVCM100000082ca60aRCRD'">Publications<ul><li id='8c1f0f4752f0a210VgnVCM100000082ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=38700f4752f0a210VgnVCM100000082ca60aRCRD&vgnextchannel=38700f4752f0a210VgnVCM100000082ca60aRCRD'">Participation Posters</li><li id='8c1f0f4752f0a210VgnVCM100000082ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=ccd00f4752f0a210VgnVCM100000082ca60aRCRD&vgnextchannel=ccd00f4752f0a210VgnVCM100000082ca60aRCRD'">Notices and Confirmations</li><li id='8c1f0f4752f0a210VgnVCM100000082ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=e2410f4752f0a210VgnVCM100000082ca60aRCRD&vgnextchannel=e2410f4752f0a210VgnVCM100000082ca60aRCRD'">Manuals and Guides</li><li id='8c1f0f4752f0a210VgnVCM100000082ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=ded3d2aea352a210VgnVCM100000082ca60aRCRD&vgnextchannel=ded3d2aea352a210VgnVCM100000082ca60aRCRD'">Foreign Language Resources</li><li id='8c1f0f4752f0a210VgnVCM100000082ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=24b185e44c5e0310VgnVCM100000082ca60aRCRD&vgnextchannel=24b185e44c5e0310VgnVCM100000082ca60aRCRD'">Memos</li><li id='8c1f0f4752f0a210VgnVCM100000082ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=444285e44c5e0310VgnVCM100000082ca60aRCRD&vgnextchannel=444285e44c5e0310VgnVCM100000082ca60aRCRD'">Presentations</li><li id='8c1f0f4752f0a210VgnVCM100000082ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=63b82af9f0101310VgnVCM100000082ca60aRCRD&vgnextchannel=63b82af9f0101310VgnVCM100000082ca60aRCRD'">Newsletters</li></ul></li><li id='21e6fb41c8596210VgnVCM100000b92ca60a____'  data=" url: '/vgn-ext-templating/v/index.jsp?vgnextoid=51e6fb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=51e6fb41c8596210VgnVCM100000b92ca60aRCRD'">Questions and Answers</li></ul></div>
+
+
+	  
+	  
+	
+
+
+
+    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+<!-- image portlet left side --><!--CHAN:75bce2e261405110VgnVCM1000004718190aRCRD--><!--LEFT:75bce2e261405110VgnVCM1000004718190aRCRD-->
+<!--content instance is null-->
+
+
+	  
+	  
+	
+
+
+
+    
+
+                    
+                        </div></td>
+                        
+                        <td id="midCol" valign="top"><table align="center" id="midColContent" border="0" cellspacing="0" cellpadding="0">
+                            
+                    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+<tr><td align="center"><table id="midColTop" border="0" cellspacing="0" cellpadding="0"><tr><td align="left"><ul id="breadCrumb"><!--CHAN:75bce2e261405110VgnVCM1000004718190aRCRD--><li><a href="/portal/site/uscis/">Home</a><span id="separator"> &gt; </span></li><li><!--CHAN:75bce2e261405110VgnVCM1000004718190aRCRD--><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=75bce2e261405110VgnVCM1000004718190aRCRD&vgnextchannel=75bce2e261405110VgnVCM1000004718190aRCRD">E-Verify</a></li></ul></td><td align="right"><span id="print"><a href="/portal/site/uscis/template.PRINT/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=75bce2e261405110VgnVCM1000004718190aRCRD&vgnextchannel=75bce2e261405110VgnVCM1000004718190aRCRD&utm_source=BrandExchange&utm_medium=Online+Banner+B&utm_content=160x600+B&utm_campaign=E-Verify+2013+Employer+Campaign">Printer Friendly</a></span></td></tr></table></td></tr>
+
+
+
+	  
+	  
+	
+
+
+
+    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+<tr><td id="mainContent" valign="top">
+
+	                <!-- displayTypeURI: displaytype_default.jsp-->
+					
+
+
+
+
+
+
+<!--displaytype_headerinc--><!--OID:ff808d3947705110VgnVCM1000004718190aRCRD--><!--CHAN:75bce2e261405110VgnVCM1000004718190aRCRD--><table border='0' cellpadding='0' cellspacing='0'><tr><td valign='top'><h1><img title="E-Verify Logo" img alt="E-Verify Logo" src="http://www.uscis.gov/images/nativeimages/E-Verify_Logo Registered-1.JPG"/></h1>
+</td></tr></table><p><div id="bodyFormatting"><p>
+	U.S. law requires companies to employ only individuals who may legally work in the United States &ndash; either U.S. citizens, or foreign citizens who have the necessary authorization. This diverse workforce contributes greatly to the vibrancy and strength of our economy, but that same strength also attracts unauthorized employment.</p>
+<p>
+	E-Verify is an Internet-based system that allows businesses to determine the eligibility of their employees to work in the United States. E-Verify is fast, free and easy to use &ndash; and it&rsquo;s the best way employers can ensure a legal workforce.</p>
+<p>
+	E-Verify is constantly improving to better serve you.&nbsp; To learn more click here to see <u><strong><a href="http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=04db32802cbc8210VgnVCM100000082ca60aRCRD&amp;vgnextchannel=04db32802cbc8210VgnVCM100000082ca60aRCRD"><font color="red">WHAT&#39;S NEW</font></a></strong></u>.&nbsp;</p>
+<p>
+	Do you have questions about E-Verify? <a: http:="" menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a="" portal="" site="" uscis="" vgnextoid="51e6fb41c8596210VgnVCM100000b92ca60aRCRD&amp;vgnextchannel=51e6fb41c8596210VgnVCM100000b92ca60aRCRD" www.uscis.gov=""></a:></p>
+<p>
+	<a href="http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=51e6fb41c8596210VgnVCM100000b92ca60aRCRD&amp;vgnextchannel=51e6fb41c8596210VgnVCM100000b92ca60aRCRD"><img alt="Question Mark in a Button" class="ckparse" src="/uscis/images/nativeimages/Question-in-a-button.JPG" style="width: 113px; height: 117px" title="Question Mark in a Button" /></a><a: http:="" menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a="" portal="" site="" uscis="" vgnextoid="51e6fb41c8596210VgnVCM100000b92ca60aRCRD&amp;vgnextchannel=51e6fb41c8596210VgnVCM100000b92ca60aRCRD" www.uscis.gov="">&nbsp;&nbsp;&nbsp;&nbsp; </a:></p>
+<p>
+	Visit our <a href="http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=51e6fb41c8596210VgnVCM100000b92ca60aRCRD&amp;vgnextchannel=51e6fb41c8596210VgnVCM100000b92ca60aRCRD">Questions &amp; Answers Section</a>.</p>
+<p>
+	E-Verify is a registered trademark of the Department of Homeland Security. Any use without permission is strictly prohibited.</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p style="text-align: right">
+	&nbsp;This page can be found at: <a href="http://www.dhs.gov/e-verify">http://www.dhs.gov/e-verify</a></p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+</div></p>
+
+
+
+
+
+
+
+
+<!-- Begin footer -->
+<br/><br/><tr id="lastUpdateFooter"><td><p align="right">Last updated: 08/15/2013</p></td></tr>
+
+
+<!-- End footer -->
+
+
+	                </td></tr>
+<tr><td>
+
+
+
+
+
+
+
+
+
+<noscript>
+<p>Enable Javascript for a better user experience.</p>
+</noscript>
+
+
+</td></tr>
+
+
+
+	  
+	  
+	
+
+
+
+    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+<!-- image portlet center --><!--CHAN:75bce2e261405110VgnVCM1000004718190aRCRD--><!--CENTER:75bce2e261405110VgnVCM1000004718190aRCRD-->
+<tr><td><br /><br /><!--content instance is null--></td></tr>
+
+
+	  
+	  
+	
+
+
+
+    
+
+                    
+                            </table>
+                        </td>
+                        
+                        <td id="rightColSub" valign="top"><div class="sidebar">
+                        
+                    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+<!-- Begin Related Links -->
+<!--CHAN:75bce2e261405110VgnVCM1000004718190aRCRD--><!--OID:75bce2e261405110VgnVCM1000004718190aRCRD-->
+
+<!-- End Related Links -->
+
+
+	  
+	  
+	
+
+
+
+    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+<!-- Begin RIGHTGENLINK -->
+<div class="portlet glp"><h2>Start Here<!--OID:c6f45196b1b07210VgnVCM100000b92ca60aRCRD--></h2><ul><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=2ec07cd67450d210VgnVCM100000082ca60aRCRD&vgnextchannel=2ec07cd67450d210VgnVCM100000082ca60aRCRD"  >Self Check</a></li><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=84c267ee5cb38210VgnVCM100000082ca60aRCRD&vgnextchannel=84c267ee5cb38210VgnVCM100000082ca60aRCRD"  >I-9 Central</a></li><li><a href="/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=f763c297e6ad9310VgnVCM100000082ca60aRCRD&vgnextchannel=75bce2e261405110VgnVCM1000004718190aRCRD"  ><font color="red">Enroll in E-Verify</font></a></li><li><a href="https://e-verify.uscis.gov/emp/vislogin.aspx?JS=YES"  target="_blank"  >Log in to E-Verify</a></li><li><a href="https://e-verify.uscis.gov/esp"  target="_blank"  >E-Verify Employer Agent Log in to E-Verify</a></li><li><a href="/USCIS/Verification/E-Verify/E-Verify_Native_Documents/E-Verify Webinar Flyer.pdf"  target="newsf"  >E-Verify Webinar Flyer</a>&nbsp;(253KB PDF)</li><li><a href="/USCIS/Verification/E-Verify/E-Verify_Native_Documents/Employee Rights Webinar Flyer.pdf"  target="newsf"  >Employee Rights Webinar Flyer</a>&nbsp;(387KB PDF)</li><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=413628ac1dc0c210VgnVCM100000082ca60aRCRD&vgnextchannel=413628ac1dc0c210VgnVCM100000082ca60aRCRD"  ><font color="red">Take a FREE Webinar</font></a></li><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=7aa79589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=7aa79589cdb76210VgnVCM100000b92ca60aRCRD"  >Request a E-Verify Logo and I E-Verify Seal</a></li><li><a href="/USCIS/E-Verify/Customer Support/Employer MOU (September 2009).pdf"  target="newsf"  >E-Verify MOU</a>&nbsp;( PDF)</li><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=5156fb41c8596210VgnVCM100000b92ca60aRCRD&vgnextchannel=5156fb41c8596210VgnVCM100000b92ca60aRCRD"  >Contact E-Verify</a></li><li><a href="http://e-verifylistens.ideascale.com/"  target="_blank"  >Leave Feedback (E-VerifyListens)</a></li></ul><h3>E-Verify News</h3><ul><li><a href="/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=c3b3ced0371f3310VgnVCM100000082ca60aRCRD&vgnextchannel=75bce2e261405110VgnVCM1000004718190aRCRD"  ><b>E-Verify Blogs</b></a></li><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=de779589cdb76210VgnVCM100000b92ca60aRCRD&vgnextchannel=de779589cdb76210VgnVCM100000b92ca60aRCRD"  >E-Verify Pressroom</a></li><li><a href="/USCIS/Verification/E-Verify/E-Verify_Native_Documents/Newsletters/E-Verify-Connection.pdf"  target="newsf"  >E-Verify Connection Newsletter</a>&nbsp;(317KB PDF)</li></ul><h3>Multimedia</h3><ul><li><a href="/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=9fe4c6373f487310VgnVCM100000082ca60aRCRD&vgnextchannel=75bce2e261405110VgnVCM1000004718190aRCRD"  >Video: Los Derechos de Empleado<font color-"red"> (Nueva versión corta)</font></a></li><li><a href="/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=111a3de9e5844310VgnVCM100000082ca60aRCRD&vgnextchannel=75bce2e261405110VgnVCM1000004718190aRCRD"  >Video:Employee Rights and Responsibilities<font color="red">(New Short Version)</font></a></li><li><a href="/USCIS/Outreach/Public Engagement/National Engagement Pages/2011 Events/March 2011/Presentation (Everify).pdf"  target="newsf"  >Demo: E-Verify Self Check Interactive Preview</a>&nbsp;(837KB PDF)</li><li><a href="/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=8e8e5bf7aa347210VgnVCM100000082ca60aRCRD&vgnextchannel=51ee4df6afc67210VgnVCM100000082ca60aRCRD"  >Videos:  Employee Rights and Responsibilities, Employer Responsibilities and Worker Rights</a></li><li><a href="/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=e3af1ffc0b84a210VgnVCM100000082ca60aRCRD&vgnextchannel=75bce2e261405110VgnVCM1000004718190aRCRD"  >Video: How to Enroll in E-Verify   </a></li><li><a href="/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=905498f091298210VgnVCM100000082ca60aRCRD&vgnextchannel=d1e8d3cd89f60310VgnVCM100000082ca60aRCRD"  >Video: How to Create a Case</a></li></ul><h3>E-Verify Employee Rights Toolkit</h3><ul><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=ef35f8049c00a310VgnVCM100000082ca60aRCRD&vgnextchannel=ef35f8049c00a310VgnVCM100000082ca60aRCRD"  ><b>Employee Rights Toolkit</b></a></li></ul><h3>USCIS Links</h3><ul><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=1721c2ec0c7c8110VgnVCM1000004718190aRCRD&vgnextchannel=1721c2ec0c7c8110VgnVCM1000004718190aRCRD"  >Systematic Alien Verification for Entitlements (SAVE) Program</a></li></ul><h3>Non-USCIS Links</h3><ul><li><a href="http://www.ssa.gov"  target="_blank"  >Social Security Administration</a></li></ul></div>
+<!-- END RIGHTGENLINK --><!--CHAN:75bce2e261405110VgnVCM1000004718190aRCRD--><!--RIGHT:OID:75bce2e261405110VgnVCM1000004718190aRCRD-->
+
+
+	  
+	  
+	
+
+
+
+    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+<!-- image portlet right side --><!--CHAN:75bce2e261405110VgnVCM1000004718190aRCRD--><!--RIGHT:75bce2e261405110VgnVCM1000004718190aRCRD-->
+<!--content instance is null-->
+
+
+	  
+	  
+	
+
+
+
+    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+<!-- Begin uscisTopRightWidgetList.jsp -->
+
+
+<!-- End uscisTopRightWidgetList.jsp -->
+
+	  
+	  
+	
+
+
+
+    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+<!-- Begin uscisMiddleRightWidgetList.jsp -->
+
+
+<!-- End uscisMiddleRightWidgetList.jsp -->
+
+
+	  
+	  
+	
+
+
+
+    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+<!--CHAN:75bce2e261405110VgnVCM1000004718190aRCRD-->
+
+		<div class="widget">
+		<a href="javascript:window.open('http://public.govdelivery.com/accounts/USDHSCIS/subscriber/new?topic_id=USCIS_19','Popup','width=780,height=440,toolbar=no,scrollbars=yes,resizable=yes'); void('');" onClick="window.status='Sign Up'; return true" onMouseOver="window.status='Sign Up'; return true" onMouseOut="window.status=''; return true">
+			<img src="/images/nativeimages/envelope.jpg" alt="Get Email Updates for This Page" width="10" height="10" border="0"/>
+		</a>
+		&nbsp;
+		<a href="javascript:window.open('http://public.govdelivery.com/accounts/USDHSCIS/subscriber/new?topic_id=USCIS_19','Popup','width=780,height=440,toolbar=no,scrollbars=yes,resizable=yes'); void('');" class="contentLink style1" onClick="window.status='Sign Up'; return true" onMouseOver="window.status='Sign Up'; return true" onMouseOut="window.status=''; return true">Get Email Updates for This Page</a>
+		</div>
+	
+
+	  
+	  
+	
+
+
+
+    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+<!-- uscisRSSOverride -->
+
+		<div class="widget">
+		<a href="/portal/site/uscis/menuitem.8e60d72c45d28a0faea567bf569391a0/?vgnextoid=c8d8289aa9c22210VgnVCM10000025e6a00aRCRD&vgnextchannel=c8d8289aa9c22210VgnVCM10000025e6a00aRCRD"><img src="/images/layout/icon_rss.gif" alt="ADD OUR RSS FEED" border="0" /></a>
+		&nbsp;
+		<a href="/portal/site/uscis/menuitem.8e60d72c45d28a0faea567bf569391a0/?vgnextoid=c8d8289aa9c22210VgnVCM10000025e6a00aRCRD&vgnextchannel=c8d8289aa9c22210VgnVCM10000025e6a00aRCRD">Add Our RSS Feed</a>
+		</div>
+	
+
+	  
+	  
+	
+
+
+
+    
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+<!-- Begin uscisBottomRightWidgetList.jsp -->
+
+
+<!-- End uscisBottomRightWidgetList.jsp -->
+
+	  
+	  
+	
+
+
+
+    
+
+                    
+                        </div></td>
+                        
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        
+			<tr>
+			<!--3rd row-->
+			
+				
+
+    
+        
+	
+	  
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  //<![CDATA[
+    var aid = "82601b2ec";
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "http://search.usa.gov/javascripts/stats.js";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  //]]>
+</script>
+
+<!--SITE FOOTER-->
+<td id="footer"><div class="row">
+<!--OID:5b533385ccf76210VgnVCM100000082ca60aRCRD-->
+<!--OID:d7223385ccf76210VgnVCM100000082ca60aRCRD-->
+<div class="col"><ul>
+<!--OID:f6dac7263b23e010VgnVCM1000000ecd190aRCRD--><li><a href="http://infopass.uscis.gov"  target="_blank"  >InfoPass</a></li>
+
+<!--OID:83b8c63d17bc3210VgnVCM100000b92ca60aRCRD--><li><a href="https://egov.uscis.gov/cris/Dashboard.do"  target="_blank"  >My Case Status</a></li>
+
+<!--OID:b46cc63d17bc3210VgnVCM100000b92ca60aRCRD--><li><a href="https://egov.uscis.gov/crisgwi/go?action=coa"  target="_blank"  >Change of Address</a></li>
+
+<!--OID:eb779f238367e010VgnVCM1000000ecd190aRCRD--><li><a href="http://travel.state.gov/visa/bulletin/bulletin_1360.html"  target="_blank"  >Visa Bulletin</a></li>
+
+<!--OID:a94fe4fd84711210VgnVCM1000004718190aRCRD--><li><a href="http://travel.state.gov/passport/passport_1738.html"  target="_blank"  >Passports</a></li>
+
+<!--OID:ff808d3947705110VgnVCM1000004718190aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=75bce2e261405110VgnVCM1000004718190aRCRD&vgnextchannel=75bce2e261405110VgnVCM1000004718190aRCRD"  >E-Verify</a></li>
+
+<!--OID:1b0f38aff9758110VgnVCM1000004718190aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=710b2423fdba3210VgnVCM100000b92ca60aRCRD&vgnextchannel=710b2423fdba3210VgnVCM100000b92ca60aRCRD"  >Careers at USCIS</a></li>
+
+<!--OID:74d03385ccf76210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.4d9824b1a05c975ef143c6a7543f6d1a/?vgnextoid=587d6a89ebafa010VgnVCM10000045f3d6a1RCRD&vgnextchannel=587d6a89ebafa010VgnVCM10000045f3d6a1RCRD"  >Site Map (Index)</a></li>
+
+<!--OID:48be18a1f8b73210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=ddce0b89284a3210VgnVCM100000b92ca60aRCRD&vgnextchannel=ddce0b89284a3210VgnVCM100000b92ca60aRCRD"  >Contact Us</a></li>
+
+<!--OID:21179e415d116310VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=b1659e415d116310VgnVCM100000082ca60aRCRD&vgnextchannel=b1659e415d116310VgnVCM100000082ca60aRCRD"  >USCIS ELIS</a></li>
+
+</ul></div>
+<!--OID:d3243385ccf76210VgnVCM100000082ca60aRCRD-->
+<div class="col"><ul>
+<!--OID:1c8822ac5a4a3210VgnVCM100000b92ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=a2ec6811264a3210VgnVCM100000b92ca60aRCRD&vgnextchannel=a2ec6811264a3210VgnVCM100000b92ca60aRCRD"  >Citizenship</a></li>
+
+<!--OID:0bc9901bf9873210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=ae853ad15c673210VgnVCM100000082ca60aRCRD&vgnextchannel=ae853ad15c673210VgnVCM100000082ca60aRCRD"  >Green Card</a></li>
+
+<!--OID:f4b9901bf9873210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=b72e901bf9873210VgnVCM100000082ca60aRCRD&vgnextchannel=b72e901bf9873210VgnVCM100000082ca60aRCRD"  >Family</a></li>
+
+<!--OID:8a79901bf9873210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=a39e901bf9873210VgnVCM100000082ca60aRCRD&vgnextchannel=a39e901bf9873210VgnVCM100000082ca60aRCRD"  >Working in the U.S.</a></li>
+
+<!--OID:b55a09cb016a3210VgnVCM100000b92ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=194b901bf9873210VgnVCM100000082ca60aRCRD&vgnextchannel=194b901bf9873210VgnVCM100000082ca60aRCRD"  >Humanitarian</a></li>
+
+<!--OID:1d0d37487d7ad010VgnVCM100000d1f1d6a1RCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=8d5e901bf9873210VgnVCM100000082ca60aRCRD&vgnextchannel=8d5e901bf9873210VgnVCM100000082ca60aRCRD"  >Adoption</a></li>
+
+<!--OID:3accb58f71e14110VgnVCM1000004718190aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=f1a03e4d77d73210VgnVCM100000082ca60aRCRD&vgnextchannel=f1a03e4d77d73210VgnVCM100000082ca60aRCRD"  >Military</a></li>
+
+<!--OID:a4653ab7b8f3b210VgnVCM10000025e6a00aRCRD--><li><a href="/portal/site/uscis/menuitem.e8b24a3cec33ca34c48bfc10526e0aa0/?vgnextoid=a4653ab7b8f3b210VgnVCM10000025e6a00aRCRD&vgnextchannel=b9563ab7b8f3b210VgnVCM10000025e6a00aRCRD"  >Avoid Scams</a></li>
+
+<!--OID:6858385dd5247310VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=d7d16782d3c37310VgnVCM100000082ca60aRCRD&vgnextchannel=d7d16782d3c37310VgnVCM100000082ca60aRCRD"  >History and Genealogy</a></li>
+
+<!--OID:d2584b5bbfb73210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=6f723e4d77d73210VgnVCM100000082ca60aRCRD&vgnextchannel=6f723e4d77d73210VgnVCM100000082ca60aRCRD"  >Visit the U.S.</a></li>
+
+</ul></div>
+<!--OID:416a6eca61086210VgnVCM100000082ca60aRCRD-->
+<div class="col"><ul>
+<!--OID:0b5592623014d010VgnVCM10000048f3d6a1RCRD--><li><a href="http://www.dhs.gov/"  target="_blank"  >U.S. Department of Homeland Security</a></li>
+
+<!--OID:bd9e5ddca7977210VgnVCM100000082ca60aRCRD--><li><a href="http://www.cbp.gov/"  target="_blank"  >U.S. Customs & Border Protection</a></li>
+
+<!--OID:ac05fce3249b3210VgnVCM100000b92ca60aRCRD--><li><a href="http://www.ice.gov/index.htm"  target="_blank"  >U.S. Immigration & Customs Enforcement</a></li>
+
+<!--OID:8cf3dfae527ac010VgnVCM10000045f3d6a1RCRD--><li><a href="http://www.whitehouse.gov"  target="_blank"  >White House</a></li>
+
+<!--OID:e7d8ed54dd926210VgnVCM100000082ca60aRCRD--><li><a href="http://www.state.gov/"  target="_blank"  >U.S. Department of State</a></li>
+
+<!--OID:c8c3dfae527ac010VgnVCM10000045f3d6a1RCRD--><li><a href="http://www.USA.gov"  target="_blank"  >USA.gov</a></li>
+
+</ul></div>
+<!--OID:83ba6eca61086210VgnVCM100000082ca60aRCRD-->
+<div class="col"><ul>
+<!--OID:85a422d16dd8d010VgnVCM10000048f3d6a1RCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=34139c7755cb9010VgnVCM10000045f3d6a1RCRD&vgnextchannel=34139c7755cb9010VgnVCM10000045f3d6a1RCRD"  >USCIS Freedom of Information Act and Privacy Act</a></li>
+
+<!--OID:2c632fc850a06210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=47212fc850a06210VgnVCM100000082ca60aRCRD&vgnextchannel=47212fc850a06210VgnVCM100000082ca60aRCRD"  >No FEAR Act</a></li>
+
+<!--OID:4dff667706f7d010VgnVCM10000048f3d6a1RCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=fe5489eef3d4b010VgnVCM10000045f3d6a1RCRD&vgnextchannel=fe5489eef3d4b010VgnVCM10000045f3d6a1RCRD"  >Website Policies</a></li>
+
+<!--OID:e0f0838faef1b210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=972562d0ed61b210VgnVCM100000082ca60aRCRD&vgnextchannel=972562d0ed61b210VgnVCM100000082ca60aRCRD"  >Social Media Policy</a></li>
+
+<!--OID:8ecf5095aa468210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=da3489eef3d4b010VgnVCM10000045f3d6a1RCRD&vgnextchannel=da3489eef3d4b010VgnVCM10000045f3d6a1RCRD"  >Privacy and Legal Disclaimers</a></li>
+
+<!--OID:c05eb669ff2c3210VgnVCM100000b92ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=5491b669ff2c3210VgnVCM100000b92ca60aRCRD&vgnextchannel=5491b669ff2c3210VgnVCM100000b92ca60aRCRD"  >Accessibility</a></li>
+
+<!--OID:582598f091298210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=8b0398f091298210VgnVCM100000082ca60aRCRD&vgnextchannel=8b0398f091298210VgnVCM100000082ca60aRCRD"  >Plug-ins</a></li>
+
+<!--OID:fe4092623014d010VgnVCM10000048f3d6a1RCRD--><li><a href="http://get.adobe.com/reader/?promoid=BUIGO"  target="_blank"  >Adobe Reader</a></li>
+
+<!--OID:d1a092623014d010VgnVCM10000048f3d6a1RCRD--><li><a href="http://windows.microsoft.com/en-US/windows/downloads/windows-media-player"  target="_blank"  >Windows Media Player</a></li>
+
+<!--OID:11569349b58ca210VgnVCM100000082ca60aRCRD--><li><a href="/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=ee87eefce43ca210VgnVCM100000082ca60aRCRD&vgnextchannel=ee87eefce43ca210VgnVCM100000082ca60aRCRD"  >Archive</a></li>
+
+</ul></div>
+
+</div><div class="clear"></div></td>
+
+
+	  
+	  
+	
+
+
+
+    
+
+			
+			</tr>
+		
+
+    
+
+
+
+
+
+
+</table>
+<table>
+    <tr>
+        <td>
+</td>
+    </tr>
+</table>
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<script type="text/javascript">
+		_gaq.push(['g0._setAccount', 'UA-12572986-2'],['g0._setVisitorCookieTimeout', 15768000000],['g0._trackPageview'],['g1._setAccount', 'UA-12572986-8'],['g1._setVisitorCookieTimeout', 15768000000],['g1._trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		
+		jQuery(".trackFile").each(function(index) {
+			var thisHref = $(this).attr("href");
+			var thisTarget = $(this).attr("target");
+			var anAnchor = $(this);
+			$(this).attr("href", "javascript:void(0)");
+			$(this).click(function() {
+				if (ga_addEventTrack(thisTarget,thisHref)) {
+					$(this).attr("href", thisHref);
+					setTimeout(function() { anAnchor.attr("href", "javascript:void(0)"); }, 900);
+					return true;
+				}
+				return false;
+			});
+		});
+	</script>
+
+</body>
+</html>
+
+
+
+

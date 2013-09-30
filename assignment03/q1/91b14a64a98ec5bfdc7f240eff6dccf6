@@ -1,0 +1,585 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="http://www.consumer.ftc.gov/articles/0160-student-loans" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="en" http-equiv="Content-Language" />
+<meta content="Student Loans" about="http://www.consumer.ftc.gov/articles/0160-student-loans" property="dc:title" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.consumer.ftc.gov/articles/0160-student-loans" />
+<link rel="shortlink" href="http://www.consumer.ftc.gov/node/748" />
+  <title>Student Loans | Consumer Information</title>
+  <link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_gArAUcbPOGS20Rj3CC1Ph_2J692LtLqNviaNUAmk_Wg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_zokOb9raN9Cg8akkQGi5P5zPbMO6qe5fNyYruMiDsyU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_1otP6__I-MvxKywLnrvhM1XKDj81enq0GcEun6UsiUI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_9hvQ4uwLBFYBgnc5c9u9QryUS4ukOQvUNC2V7EFD948.css" media="print" />
+  <script type="text/javascript" src="http://www.consumer.ftc.gov/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/drupal.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/sites/all/libraries/chosen/chosen/chosen.jquery.min.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/chosen/chosen.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/consumer_node_edit/consumer_taxonomy_hierarchy.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/consumer_node_edit/consumer_parent_menu_item.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/ftc_exit_script/js/exit_script.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/panels/js/panels.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.ftc.gov/foresee/foresee-trigger.js"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/swfobject.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.qtip-1.0.0-rc3.min.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/fancybox/jquery.fancybox-1.3.4.pack.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.corner.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.cycle.all.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/global.js?mtsrpk"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"consumer_platform","theme_token":"1wSzu0r_LY4pzhD91uHdva6KL-BrlA5Hl1nEjX7umtU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.jquery.min.js":1,"profiles\/consumer\/modules\/contrib\/chosen\/chosen.js":1,"profiles\/consumer\/modules\/custom\/consumer_node_edit\/consumer_taxonomy_hierarchy.js":1,"profiles\/consumer\/modules\/custom\/consumer_node_edit\/consumer_parent_menu_item.js":1,"profiles\/consumer\/modules\/custom\/ftc_exit_script\/js\/exit_script.js":1,"profiles\/consumer\/modules\/contrib\/panels\/js\/panels.js":1,"http:\/\/www.ftc.gov\/foresee\/foresee-trigger.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/swfobject.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.corner.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.cycle.all.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/global.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/consumer\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.css":1,"profiles\/consumer\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/consumer\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/consumer\/modules\/contrib\/tagclouds\/tagclouds.css":1,"modules\/locale\/locale.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/hp-footer\/hp-footer.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/onecol\/onecol.css":1,"profiles\/consumer\/themes\/consumer_platform\/PlutoSansWebFonts.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/default.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/layout.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/style.css":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/responsive.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/print.css":1}},"chosen":{"selector":".field-type-taxonomy-term-reference select:visible, .field-name-field-crc-ed-code select:visible","minimum":"15"},"ftc_exit_script":{"timeout":"6000","token_replace":1,"internalURLs":["^http\\:\\\/\\\/.*\\.gov.*$","^https\\:\\\/\\\/.*\\.gov.*$"],"external_class":"external_link"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-748 node-type-article i18n-en" >
+  <div id="skip">
+    <a href="#main-menu">Jump to Navigation</a>
+  </div>
+    
+  <!-- ______________________ HEADER _______________________ -->
+
+<div id="header">
+  <div class="header-inner">
+      <div id="site-name-and-slogan">
+      <img src = "/profiles/consumer/themes/consumer_platform/images/logo-ftcseal.jpg" alt = "Federal Trade Commission" class = "print-logo" />
+          <h2 id="site-slogan">Federal Trade Commission</h2>
+              <h1 id="logo"><a href="http://www.consumer.ftc.gov/" title="Home" rel="home">
+              Consumer Information            </a></h1>
+    
+    </div>
+         <div id="search">
+        <div class="region region-search">
+    <div id="block-ftc_language_block-ftc_language_block" class="block block-ftc-language-block block-odd clearfix">
+
+                		
+		  <p><a href="http://www.consumidor.ftc.gov">español</a></p>
+</div> <!-- /block -->
+<div id="block-search-form" class="block block-search block-even clearfix">
+
+                		
+		  <form action="/articles/0160-student-loans" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-du86CmPporTyoWvJDwPOdLUjscXOvuHSwZrg0tadipA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div> <!-- /block -->
+  </div>
+    </div>
+    </div>
+</div> <!-- /header -->
+
+<div id="page" class="page with-navigation no-language">
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="main-inner" class="clearfix">
+      <div id="content" class="one-col">
+
+                  <div id="top-right">  <div class="region region-top-right">
+    <div id="block-consumer_emailprintshare-email_print_share" class="block block-consumer-emailprintshare block-odd clearfix">
+
+                		
+		  <ul class="email-print-share"><li id="emailThis" class="email"><a class="addthis_button_email" href="#">Email</a></li><li class="printer-friendly">
+        <a href="#" class="addthis_button_print">Print</a> 
+        </li><li class="addthis">
+        <script type="text/javascript">
+          var addthis_config = {
+            ui_language: "en"
+          }
+        </script>
+        <!-- AddThis Button BEGIN -->
+        <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4e34dc8d56e636d1"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"/></a>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e34dc8d56e636d1"></script>
+        <!-- AddThis Button END -->
+        </li>
+      </ul>
+</div> <!-- /block -->
+<div id="block-locale-language" class="block block-locale block-even clearfix">
+
+                		
+		  <ul class="language-switcher-locale-url"><li class="es first last"><a href="http://www.consumidor.ftc.gov/articulos/s0160-prestamos-estudiantiles" class="language-link" lang="es" title="Préstamos estudiantiles">Vea esta página en español</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+</div>
+        
+                  <div id="content-header">
+
+                        
+            <div class="title-wrapper">
+            
+                          <h1 class="title">Student Loans</h1>
+                        
+                        </div>
+
+                          <div class="tabs"></div>
+            
+            
+                        
+          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd clearfix">
+
+                		
+		  
+<div id="node-748" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+		    
+	<div class="content">
+	  
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+  
+                <div id = 'sidebar-article' class = 'sidebar'><div id="block-views-article_sidebar-block_1" class="block block-views block-odd clearfix">
+
+                		
+		  <div class="view view-article-sidebar view-id-article_sidebar view-display-id-block_1 view-dom-id-79327825f5216f6f635ce2c46e37ba0d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last pdf">
+      
+  <div class="views-field views-field-field-article-pdf-icon">        <div class="field-content"><a href="http://www.consumer.ftc.gov/articles/pdf-0048-student-loans.pdf"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/articles/pdf/icons/pdf-0048.png" width="75" height="100" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-article-pdf">        <div class="field-content"><a href="http://www.consumer.ftc.gov/articles/pdf-0048-student-loans.pdf">Related PDF</a></div>  </div>  
+  <div class="views-field views-field-field-article-print-version">        <div class="field-content"><a href="https://bulkorder.ftc.gov/ShowCat.aspx?s=cre-43">Order Free Copies</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div> <!-- /block -->
+<div id="block-panels_mini-related_items_sidebar" class="block block-panels-mini block-even clearfix">
+
+                <h2 class="block-title">Related Items</h2>
+          		
+		  <div class="panel-display panel-1col clearfix" id="mini-panel-related_items_sidebar-1">
+  <div class="panel-panel panel-col">
+    <div>
+
+<div class="panel-pane pane-block pane-views-92f96d1442c33ddcb8a1b32f5f4054c0 even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-article_related_media view-rotating-promos no-rotate small-media-rotator views-rotating-promos view-dom-id-c850127c7af404ce2f39b40bc75b3794">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0054-how-file-complaint" title="[field_media_type]: How to File a Complaint" class="ajax [field_media_type]" rel="955"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/videos/thumbnails/file-a-complaint.jpeg?itok=hstVU-zV" width="155" height="87" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0054-how-file-complaint">How to File a Complaint</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0060-your-source-truly-free-credit-report-annualcreditreportcom" title="[field_media_type]: Your Source for a Truly Free Credit Report? AnnualCreditReport.com " class="ajax [field_media_type]" rel="1268"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/videos/thumbnails/video-0060_check-your-credit-report_thumb.png?itok=YukcyT3R" width="155" height="85" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0060-your-source-truly-free-credit-report-annualcreditreportcom" title="Your Source for a Truly Free Credit Report? AnnualCreditReport.com ">Your Source for a Truly Free Credit Repo...</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-views pane-article-sidebar odd" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-block_2 view-dom-id-2b636c7ce1b639cf96fee065c733d408">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0082-scholarship-and-financial-aid-scams">Scholarship and Financial Aid Scams</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0206-diploma-mills">Diploma Mills</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0241-choosing-vocational-school">Choosing a Vocational School</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-4 views-row-even views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0352-paying-college-bookmark">Paying for College Bookmark</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+</div> <!-- /block -->
+</div><div class = "content-inner"><p><em>A joint publication of the Federal Trade Commission and the U.S. Department of Education</em></p><p>An education beyond high school is an investment in your future. It can be expensive and often requires you or your family to take out loans to help pay for it.</p><p>Student loans fall into two categories, federal loans and private loans.</p><ul><li>Federal loans, which are subject to oversight and regulation by the federal government, include:<ul><li>Direct Loans, where the U.S. Department of Education is the lender;</li><li>Federal Family Education Loans (FFEL), where private lenders make loans backed by the federal government; and</li><li>Federal Perkins Loans.</li></ul></li><li>Private loans, sometimes referenced as “alternative loans,” are offered by private lenders and do not include the benefits and protections available with federal loans.</li></ul><p>Whether you’re taking out a new student loan or consolidating existing education loans, the Federal Trade Commission (FTC), the nation’s consumer protection agency, and the U.S. Department of Education (ED), the agency that oversees federal student loans, want you to know how to spot potentially deceptive claims or business practices some private companies may use to get your loan business.</p><h2>Private Loans</h2><p>Private companies may offer you loans and other forms of financial assistance for your education. They often use direct mail marketing, telemarketing, television, radio, and online advertising to promote their products.</p><p>Paying for your education is a serious long-term financial obligation; that’s why comparing the costs of different ways of financing your education is so important. Private loans tend to have higher fees and interest rates than federal government loans. Private loans also do not offer the opportunities for cancellation or loan forgiveness that are available on many federal loan programs. So it makes good financial sense to exhaust your federal loan options (as well as grants and scholarships) before considering loans from any private companies. To learn more about federal government loans, visit <a href="http://www.studentaid.ed.gov/">StudentAid.gov</a>.</p><h2>How to Spot Deceptive Private Student Loan Practices</h2><p>If you are considering a private student loan, it’s important to know whom you’re doing business with and the terms of the loan. The FTC and ED offer these tips to help you recognize deceptive private student loan practices.</p><ul><li>Some private lenders and their marketers use names, seals, logos, or other representations similar to those of government agencies to create the false or misleading impression that they are part of or affiliated with the federal government and its student loan programs. ED does not send advertisements or mailers, or otherwise solicit consumers to borrow money. If you receive a student loan solicitation, it is not from ED.</li><li>Don’t let promotions or incentives like <a href="/articles/0182-gift-cards">gift cards</a>, <a href="/articles/0205-using-credit-card">credit cards</a>, and <a href="/articles/0199-prize-offers">sweepstakes prizes </a>divert you from assessing whether the key terms of the loan are reasonable.</li><li>Don’t give out personal information on the phone, through the mail, or over the Internet unless you know with whom you are dealing. Private student lenders typically ask for your student account number — often your Social Security number (SSN) or Personal Identification Number (PIN) — saying they need it to help determine your eligibility. However, because scam artists who purport to be private student lenders can misuse this information, it is critical to provide it or other personal information only if you have confidence in the private student lender with whom you are dealing.</li><li>Check out the track record of particular private student lenders with your <a href="http://www.naag.org">state Attorney General</a>, your <a href="http://www.usa.gov/topics/consumer.shtml">local consumer protection agency</a>, and the <a href="http://www.bbb.org">Better Business Bureau</a>.</li></ul><h2>Special Considerations for Consolidation of Federal Loans</h2><p>Student loan consolidation is combining several loans into one with a new repayment term and interest rate. This is generally offered in connection with federal loans. Here’s how to help identify potential problems related to loan consolidation:</p><ul><li>Avoid lenders and marketers who use high-pressure sales tactics. Some marketers pitch that “your interest rates may go up if you do not consolidate immediately!” Whether and when interest rates for consolidating your loans will change depends on what type of loans you have. Look at your loan documents to determine whether the interest rates are fixed or variable:<ul><li>If all of your education loans have fixed interest rates, there may be no deadline to consolidate.</li><li>If some or all of your loans have variable interest rates, when you consolidate into a fixed loan it may affect the interest rate of your loan. ED publishes new variable rates for some federal loans each July 1st. The annual rate changes can raise or lower the interest rate offered on a consolidated loan because the consolidation interest rate will be the weighted average of all loans consolidated.</li></ul></li></ul><p>Whether or not you have a targeted timeframe, take your time to determine whether consolidating is right for you.</p><ul><li>Some lenders impose restrictions on promised discounts. Some may disclose these limits only in the fine print. Read the fine print in your loan documents to find these types of conditions:<ul><li>Some lenders lower the interest rate on your consolidated loan, but only if you opt for automated payments from your checking account.</li><li>Other lenders discount the interest rate on your consolidated loan, but only if your loan has at least a specified minimum loan balance.</li><li>Still others agree to lower the interest rate on your consolidated loan, but only if you remain current on your payments for the life of the loan. You may want to consider loans with more immediate discounts, a shorter on-time payment period for interest rate discounts, or an additional discount for signing up for automatic payments.</li></ul></li><li>Some lenders sell consolidated loans to other companies. Because benefits of consolidated loans — like promised discounts — may not transfer, you may lose benefits if the lender sells your loan. Ask the lender whether the terms of your loan will change if it is sold.</li><li>Be cautious about consolidating federal loans and private loans into one private loan. The result of consolidating all loans into one non-federal private loan means that you lose all the benefits and protections provided in the federal loan programs.</li><li>Consolidating a Perkins loan may not be in your best interest. You may lose unique deferment and cancellation rights available to Perkins loan borrowers. For more information about these rights visit <a href="http://www.myeddebt.com/borrower">www.myeddebt.com/borrower</a>.</li><li>Frequent consolidation after borrowing may impact timelines you need to meet to qualify for these benefits.</li></ul><h2>For More Information or to File a Complaint</h2><p>To learn about federal student loans, contact:<br /><strong class="title">U.S. Department of Education</strong><br />Federal Student Aid Information Center<br />P.O. Box 84<br />Washington, DC 20044-0084<br />800-4-FED-AID (TTY: 800-730-8913)<br /><a href="http://www.studentaid.ed.gov/">www.StudentAid.gov</a></p><p>Federal Student Aid, an office of the U.S. Department of Education, administers the federal student financial aid — grants, loans, and work-study programs — available for education beyond high school. Federal Student Aid interacts with postsecondary schools, financial institutions and other participants in the student aid programs to deliver services that help students and families plan and pay for college.</p><p>Notify the <a href="http://studentaid.ed.gov/repay-loans/disputes/prepare">Federal Student Aid Ombudsman</a> at 1-877-557-2575 if you have a complaint that you cannot resolve with your lender.</p><p>For questions about a particular lender, contact the federal agency with jurisdiction over that lender:</p><h3>Who Regulates My Bank?</h3><p>The Office of the Comptroller of the Currency maintains <a href="http://www.Helpwithmybank.gov">www.Helpwithmybank.gov</a>, a clearinghouse that provides people with answers to more than 250 frequently-asked questions on topics like bank accounts, deposit insurance, credit cards, consumer loans, insurance, mortgages, identity theft, and safe deposit boxes.</p><h3>You also may wish to contact:</h3><p><a href="http://www.consumerfinance.gov"><strong>Consumer Financial Protection Bureau</strong></a><br />P.O. Box 4503<br />Iowa City, Iowa 52244<br />(855) 411-CFPB (2372)</p><h3>What About Other Creditors?</h3><p>(regulates non-bank lenders, including retail, gasoline, finance, and mortgage companies)</p><p><strong class="title">Federal Trade Commission</strong><br />Consumer Response Center<br />600 Pennsylvania Avenue, NW<br />Washington, DC 20580</p><p>This article was previously available as <em>Student Loans: Avoiding Deceptive Offers.</em></p></div>            
+  </div>
+
+<div class="field field-name-field-boilerplate-reference field-type-node-reference field-label-hidden">
+  
+                <div class="boiler-plate">
+	  
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+  
+                <div class="field field-name-field-boilerplate-reference field-type-node-reference field-label-hidden">
+<div class="boiler-plate">
+<h2>Report Scams</h2>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+<p>If you believe you’ve responded to a scam, file a complaint with:</p>
+<ul><li>the <a href="/articles/0341-file-complaint-ftc">FTC</a></li>
+<li>your <a href="http://www.naag.org/current-attorneys-general.php" target="_blank">state Attorney General</a></li>
+</ul></div>
+</div>
+</div>
+            
+  </div>
+</div> 
+
+
+            
+  </div>
+	</div>
+	
+  	
+	<div class = "terms">Tagged with: <a href="http://www.consumer.ftc.gov/taxonomy/term/1231" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">college</a>, <a href="http://www.consumer.ftc.gov/taxonomy/term/1307" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">loan</a>, <a href="http://www.consumer.ftc.gov/taxonomy/term/1065" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">school</a>, <a href="http://www.consumer.ftc.gov/taxonomy/term/1229" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">student</a></div>					<div class="article-date"><span>August 2012</span></div>
+			
+			<div class="also-like">
+			<h4>You Might Also Like</h4><ul><li><a href="http://www.consumer.ftc.gov/articles/0341-file-complaint-ftc">File a Complaint with the FTC</a></li><li><a href="http://www.consumer.ftc.gov/articles/0331-setting-out-your-own">Setting Out on Your Own</a></li><li><a href="http://www.consumer.ftc.gov/articles/0205-using-credit-card">Using a Credit Card</a></li></ul> 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+
+</div> <!-- /block -->
+  </div>
+                   </div>
+
+        
+      </div> <!-- /content -->
+
+              <div id="sidebar-first" class="column sidebar first">
+          <div id="nav-control"><a href="#">menu</a></div>  <div class="region region-sidebar-first">
+    <div id="block-system-main-menu" class="block block-system block-menu block-even clearfix">
+
+                		
+		  <ul class="menu level-3"><li class="first expanded active-trail money-credit mid-1858"><a href="http://www.consumer.ftc.gov/topics/money-credit" title="" class="active-trail"><span>Money &amp;<br />  Credit</span></a><ul class="menu level-2"><li class="first collapsed shopping-saving mid-2606"><a href="http://www.consumer.ftc.gov/topics/shopping-saving" title=""><span>Shopping & Saving</span></a></li>
+<li class="collapsed buying-owning-a-car mid-2608"><a href="http://www.consumer.ftc.gov/topics/buying-owning-car" title=""><span>Buying & Owning a Car</span></a></li>
+<li class="expanded active-trail credit-loans mid-2607"><a href="http://www.consumer.ftc.gov/topics/credit-and-loans" title="" class="active-trail"><span>Credit & Loans</span></a><ul class="menu level-1"><li class="first leaf advance-fee-loan-scams mid-2753"><a href="http://www.consumer.ftc.gov/articles/0078-advance-fee-loans"><span>Advance-Fee Loan Scams</span></a></li>
+<li class="leaf automatic-debit-scams mid-2759"><a href="http://www.consumer.ftc.gov/articles/0196-automatic-debit-scams"><span>Automatic Debit Scams</span></a></li>
+<li class="leaf cosigning-a-loan mid-2744"><a href="http://www.consumer.ftc.gov/articles/0215-co-signing-loan"><span>Cosigning a Loan</span></a></li>
+<li class="leaf credit-card-interest-rate-reduction-scams mid-2763"><a href="http://www.consumer.ftc.gov/articles/0131-credit-card-interest-rate-reduction-scams"><span>Credit Card Interest Rate Reduction Scams</span></a></li>
+<li class="leaf credit-card-loss-protection mid-2760"><a href="http://www.consumer.ftc.gov/articles/0093-credit-card-loss-protection"><span>Credit Card Loss Protection</span></a></li>
+<li class="leaf credit-insurance mid-2761"><a href="http://www.consumer.ftc.gov/articles/0110-credit-insurance"><span>Credit Insurance</span></a></li>
+<li class="leaf credit-rules-bookmark mid-3568"><a href="http://www.consumer.ftc.gov/articles/0354-credit-rules-bookmark"><span>Credit Rules Bookmark</span></a></li>
+<li class="leaf credit-debit-and-charge-cards mid-2747"><a href="http://www.consumer.ftc.gov/articles/0332-credit-debit-and-charge-cards"><span>Credit, Debit, and Charge Cards</span></a></li>
+<li class="leaf dealing-with-a-weather-emergency-getting-back-on-your-feet-financially mid-3600"><a href="http://www.consumer.ftc.gov/articles/0379-dealing-weather-emergency-getting-back-your-feet-financially"><span>Dealing with a Weather Emergency: Getting Back on Your Feet Financially</span></a></li>
+<li class="leaf disputing-errors-on-credit-reports mid-2756"><a href="http://www.consumer.ftc.gov/articles/0151-disputing-errors-credit-reports"><span>Disputing Errors on Credit Reports</span></a></li>
+<li class="leaf electronic-banking mid-2749"><a href="http://www.consumer.ftc.gov/articles/0218-electronic-banking"><span>Electronic Banking</span></a></li>
+<li class="leaf employment-background-checks mid-2762"><a href="http://www.consumer.ftc.gov/articles/0157-employment-background-checks"><span>Employment Background Checks</span></a></li>
+<li class="leaf fair-credit-billing mid-2785"><a href="http://www.consumer.ftc.gov/articles/0219-fair-credit-billing"><span>Fair Credit Billing</span></a></li>
+<li class="leaf free-credit-reports mid-2765"><a href="http://www.consumer.ftc.gov/articles/0155-free-credit-reports"><span>Free Credit Reports</span></a></li>
+<li class="leaf how-credit-scores-affect-the-price-of-credit-and-insurance mid-2757"><a href="http://www.consumer.ftc.gov/articles/0152-how-credit-scores-affect-price-credit-and-insurance"><span>How Credit Scores Affect the Price of Credit and Insurance</span></a></li>
+<li class="leaf online-payday-lenders mid-2755"><a href="http://www.consumer.ftc.gov/articles/0249-online-payday-loans"><span>Online Payday Lenders</span></a></li>
+<li class="leaf payday-loans mid-2758"><a href="http://www.consumer.ftc.gov/articles/0097-payday-loans"><span>Payday Loans</span></a></li>
+<li class="leaf prescreened-credit-and-insurance-offers mid-2764"><a href="http://www.consumer.ftc.gov/articles/0148-prescreened-credit-and-insurance-offers"><span>Prescreened Credit and Insurance Offers</span></a></li>
+<li class="leaf protecting-against-credit-card-fraud mid-2754"><a href="http://www.consumer.ftc.gov/articles/0216-protecting-against-credit-card-fraud"><span>Protecting Against Credit Card Fraud</span></a></li>
+<li class="leaf sample-letter-for-disputing-billing-errors mid-3634"><a href="http://www.consumer.ftc.gov/articles/0385-sample-letter-disputing-billing-errors"><span>Sample Letter for Disputing Billing Errors</span></a></li>
+<li class="leaf sample-letter-for-disputing-credit-report-errors mid-3604"><a href="http://www.consumer.ftc.gov/articles/0384-sample-letter-disputing-errors-your-credit-report"><span>Sample Letter for Disputing Credit Report Errors</span></a></li>
+<li class="leaf scholarship-and-financial-aid-scams mid-3563"><a href="http://www.consumer.ftc.gov/articles/0082-scholarship-and-financial-aid-scams"><span>Scholarship and Financial Aid Scams</span></a></li>
+<li class="leaf setting-out-on-your-own- mid-2748"><a href="http://www.consumer.ftc.gov/articles/0331-setting-out-your-own"><span>Setting Out on Your Own!</span></a></li>
+<li class="leaf active-trail student-loans mid-2752"><a href="http://www.consumer.ftc.gov/articles/0160-student-loans" class="active-trail active-trail active"><span>Student Loans</span></a></li>
+<li class="leaf using-a-credit-card mid-2745"><a href="http://www.consumer.ftc.gov/articles/0205-using-credit-card"><span>Using a Credit Card</span></a></li>
+<li class="leaf utility-services mid-2750"><a href="http://www.consumer.ftc.gov/articles/0220-utility-services"><span>Utility Services</span></a></li>
+<li class="leaf when-a-company-blocks-your-credit-or-debit-card mid-2751"><a href="http://www.consumer.ftc.gov/articles/0217-when-company-blocks-your-credit-or-debit-card"><span>When a Company Blocks Your Credit or Debit Card</span></a></li>
+<li class="last leaf your-equal-credit-opportunity-rights mid-3442"><a href="http://www.consumer.ftc.gov/articles/0347-your-equal-credit-opportunity-rights"><span>Your Equal Credit Opportunity Rights</span></a></li>
+</ul></li>
+<li class="collapsed dealing-with-debt mid-2604"><a href="http://www.consumer.ftc.gov/topics/dealing-debt" title=""><span>Dealing with Debt</span></a></li>
+<li class="last collapsed resolving-consumer-problems mid-2605"><a href="http://www.consumer.ftc.gov/topics/resolving-consumer-problems" title=""><span>Resolving Consumer Problems</span></a></li>
+</ul></li>
+<li class="collapsed homes-mortgages mid-1859"><a href="http://www.consumer.ftc.gov/topics/homes-mortgages" title=""><span>Homes &amp;<br />  Mortgages</span></a></li>
+<li class="collapsed health-fitness mid-1860"><a href="http://www.consumer.ftc.gov/topics/health-fitness" title=""><span>Health &amp;<br />  Fitness</span></a></li>
+<li class="collapsed jobs-making-money mid-1861"><a href="http://www.consumer.ftc.gov/topics/jobs-making-money" title=""><span>Jobs &amp;<br />  Making Money</span></a></li>
+<li class="last collapsed privacy-identity mid-1862"><a href="http://www.consumer.ftc.gov/topics/privacy-identity" title=""><span>Privacy &amp;<br />  Identity</span></a></li>
+</ul>
+</div> <!-- /block -->
+<div id="block-menu-menu-main-sub" class="block block-menu block-odd clearfix">
+
+                		
+		  <ul class="menu"><li class="first leaf blog mid-2559"><a href="http://www.consumer.ftc.gov/blog" title=""><span>Blog</span></a></li>
+<li class="last leaf video-media mid-2560"><a href="http://www.consumer.ftc.gov/media" title=""><span>Video &amp;<br />  Media</span></a></li>
+</ul>
+</div> <!-- /block -->
+<div id="block-menu-menu-nav-promo" class="block block-menu block-even clearfix">
+
+                		
+		  <ul class="menu"><li class="first last leaf scam-alerts mid-2650"><a href="http://www.consumer.ftc.gov/scam-alerts" title="">Scam Alerts</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+        </div>
+       <!-- /sidebar-first -->
+    </div> <!-- /main-inner -->
+  </div> <!-- /main -->
+
+    <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer">
+        <div class="region region-footer">
+    <div id="block-panels_mini-footer" class="block block-panels-mini block-odd clearfix">
+
+                		
+		  <div class="panel-display panel-footer clearfix" id="mini-panel-footer">
+ <div class = "panel-top">
+     <div class="panel-panel panel-col-top-l">
+      
+
+<div class="panel-pane pane-views pane-topic-landing-page even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_5 view-dom-id-87a6484b5ed6550f9e28317ab8b3e1f5">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_6 view-dom-id-c5e8eabcec39f6e8a5b4d6d8b52a126a">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-sidebar-modules view-id-sidebar_modules view-display-id-block_3 view-dom-id-79336b53d44ce5bd82af3c78e95182ae">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-gdelivery">        <div class="field-content"><a href="https://public.govdelivery.com/accounts/USFTC/subscriber/new?topic_id=USFTC_24">Get money and credit updates by email</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+  
+ 
+    <div class="panel-panel panel-col-top-c">
+     
+
+<div class="panel-pane pane-views pane-topic-landing-page even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_7 view-dom-id-cc38e94649cce4a91cc0ab2fe665c6fe">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_8 view-dom-id-4bb7c68d44c6f91fbf2ee715d223f160">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-sidebar-modules view-id-sidebar_modules view-display-id-block_4 view-dom-id-f5d771b8357c741552071159823cf938">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-guidance-link">        <div class="field-content"><a href="http://business.ftc.gov/credit-and-finance">Looking for business guidance on credit and finance?</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+
+  
+      <div class="panel-panel panel-col-top-r">
+      
+
+<div class="panel-pane pane-block pane-ftc-social-media-ftc-social-media even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class = 'social-media'><li class='newsletter'><a href='https://public.govdelivery.com/accounts/USFTC/subscriber/new?category_id=USFTC_C7' target = 'blank'>Get Email Updates</a></li><li class='rss'><a href='/blog/rss' target = 'blank'>Blog Feed</a></li><li class='facebook'><a href='https://www.facebook.com/federaltradecommission' target = 'blank'>Facebook</a></li><li class='youtube'><a href='http://www.youtube.com/user/FTCvideos' target = 'blank'>YouTube</a></li><li class='twitter'><a href='https://twitter.com/FTC' target = 'blank'>Twitter</a></li></ul>  </div>
+
+  
+  </div>
+    </div>
+    
+  </div>
+<div class = "panel-bottom">
+
+  	     <div class="panel-panel panel-col-bottom-l">
+      
+
+<div class="panel-pane pane-block pane-block-14 even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="http://ftc.gov/"><img src="/profiles/consumer/themes/consumer_platform/images/icon-ftc-seal.gif" style="border: none; margin-right: 10px; margin-bottom:20px; float: left;" /></a><a href="http://ftc.gov/">The Federal Trade Commission</a> (FTC) is the nation’s consumer protection agency. The FTC works to prevent fraudulent, deceptive and unfair business practices in the marketplace.</p>  </div>
+
+  
+  </div>
+    </div>
+   
+
+     <div class="panel-panel panel-col-bottom-c">
+      
+
+<div class="panel-pane pane-block pane-menu-menu-footer even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf privacy-policy mid-2563"><a href="http://www.consumer.ftc.gov/privacy-policy">Privacy Policy</a></li>
+<li class="leaf about-us mid-2564"><a href="http://www.consumer.ftc.gov/about-us">About Us</a></li>
+<li class="last leaf contact-us mid-2565"><a href="http://www.consumer.ftc.gov/contact-us">Contact Us</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  
+      <div class="panel-panel panel-col-bottom-r">
+      
+
+<div class="panel-pane pane-block pane-block-1 share-resources even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="/share-our-resources">Share Our Resources. Here's How &gt;</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-block pane-block-12 file-a-complaint odd" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="/articles/0341-file-complaint-ftc">File a Complaint with the FTC &gt;</a></p>
+  </div>
+
+  
+  </div>
+    </div>
+  
+
+  </div>
+</div>
+
+</div> <!-- /block -->
+  </div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+  </body>
+</html>

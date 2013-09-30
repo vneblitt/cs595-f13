@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=90496f22ffd4b193ff4f3aa39d43d2af"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--
+     Theme: The Minimalist v1.
+     Design: The Minimalist (http://minimalist.co)
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+     <title>digitalSTS and Design</title>	
+     <meta name="description" content="June 27-28, 2013: Arnold Arboretum, Harvard University. A workshop by: Yanni Loukissas, Laura Forlano, David Ribes and Janet Vertesi" />
+     <meta name="if:Show description" content="1" />	
+     <meta name="if:Show search" content="1" />
+     <meta name="text:Twitter name" content="" />
+     <meta name="text:Disqus Shortname" content="" />
+     <meta name="text:Google Analytics ID" content="" />	
+     <link rel="shortcut icon" href="http://25.media.tumblr.com/avatar_1004f71780a3_128.png" />
+     <link rel="alternate" type="application/rss+xml" title="digitalSTS and Design" href="http://stsdesignworkshop.tumblr.com/rss" />
+
+<!-- Styles -->
+
+<link rel="stylesheet" href="http://static.tumblr.com/f1whv92/Mp9l6ewcg/reset.css" />
+<style type="text/css">
+
+/*----- GENERAL -----*/
+
+     header, footer, section, article, nav, aside {
+        display: block;
+     }
+
+     body {
+        background: #ffffff;
+        color: #222;
+        font: 12px/20px Georgia, "Times New Roman", Times, serif;
+        padding-top: 25px;
+        /*text-align: left;*/
+        text-align: center;
+        width:500px;
+        margin: 0 auto;
+     }
+
+     h1, h2, h3, hQ {
+        font-family: Cufon;
+     }
+
+     h1 {
+        font-size: 50px;
+        line-height: 50px;
+        text-align: center;
+        /*text-align: center;*/
+     }
+
+     h2 {
+        font-size: 26px;
+        line-height: 32px; 
+     }
+
+     h3 {
+        font-size: 16px;
+        line-height: 22px; 
+     }
+
+     a:link, a:visited {
+        color: #222222;
+        font-weight: bold;
+        text-decoration: none;
+     }
+     
+     a:hover, a:active {
+        text-decoration: underline;
+     }
+
+     hr{
+        border:0 #ccc solid;
+        border-top-width:1px;
+        clear:both;
+        height:0;
+     }
+
+     ol{list-style:decimal}
+
+     ul{list-style:disc}
+
+     li{margin-left:30px}
+
+     p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset{margin-bottom:15px}
+
+     #main {
+        padding: 0px;
+     }
+
+/*----- MASTHEAD -----*/
+
+     .noMeta > div {
+        padding: 0px;
+     }
+
+     #masthead {
+        margin-bottom: 0px;
+     }
+
+     #masthead h1 {
+        margin-bottom: 0;
+     }
+
+     #masthead h1 a:link, #masthead h1 a:visited {
+        /*text-transform: Uppercase;*/
+        color: #222;
+        text-decoration: none;
+     }
+
+     #masthead h1 a:active {
+        outline: 0;
+     }
+
+     #masthead p {
+        font-family: Georgia, serif;
+        font-size: 20px;
+        color: #fff;
+        margin-bottom: 0;
+     }
+
+     #masthead a:link, #masthead a:visited {
+        color: #fff;
+     }
+
+     #siteDescription{
+        font-size: 13px;
+        color: #222;
+        /*text-transform: Uppercase;*/
+        /*border-top: 1px solid #222;*/
+        margin-top: 20px;
+        margin-bottom: -5px;
+        padding: 10px 0 0 0;
+        font-family: Cufon;
+     }
+
+/*----- SEARCH FORM -----*/
+
+     #frmSearch {
+        padding-top: 20px; 
+        display: none;
+     }
+
+     #txtSearch {
+        background: url(http://static.tumblr.com/bpryy0m/6lRl6gmys/search.jpg) left no-repeat;
+        width: 225px;
+        padding: 2px 0 0 20px;
+        font: 12px/12px Georgia, "Times New Roman", Times, serif;
+        color: #222;
+        border: 0px;
+     }
+
+/*----- MAIN HEADER NAV STRIP -----*/
+
+     #mainNav {
+        border-top: 1px solid #222;
+        border-bottom: 2px solid #222;
+        margin-top: 20px;
+        padding: 13px 0 14px 0;
+        font-family: Cufon;
+     }
+
+     #mainNav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+     }
+
+     #mainNav li {
+        margin: 5px;
+        display: inline;
+        padding: 0;
+     }
+
+     #mainNav a:link, #mainNav a:visited {
+        padding: 0;
+        font-size: 14px;
+        line-height: 14px;
+        margin: 0 2px;
+        text-decoration: none;
+        color: #222;
+        /*text-transform: Uppercase;*/
+     }
+
+     #mainNav a:hover, #mainNav a:active {
+        outline: none;
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+     #mainNav a.active {
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+/*----- ARTICLE META INFO -----*/
+
+     #designline {
+        margin-top: 50px;
+     }
+
+     h5{
+        position: relative;
+        top: -35px;
+        margin-bottom: 0px;
+        font-family: Georgia, serif;
+        font-size: 10px;
+        color: #bca474;
+        text-decoration: none;
+        /*text-transform: Uppercase;*/
+        font-weight: bold;
+        /*border-top: 1px solid #bca474;*/
+        background: #fff;
+     }
+
+     h5 a:link, .line a:visited{
+        font-family: Georgia, serif;
+        font-size: 10px;
+        color: #bca474;
+        text-decoration: none;
+        /*text-transform: Uppercase;*/
+        font-weight: bold;
+     }
+
+     h5 a:hover{
+        text-decoration: underline;
+     }
+
+     h5 abbr{
+        display: inline-block;
+        position: relative;
+        margin: 0 auto;
+        padding: 0 8px;
+        background: #fff;
+        top: 10px;
+     }
+
+     h5.postDate a{
+        color: #fff;/*#bca474;*/
+     }
+
+/*----- ARTICLE -----*/
+
+     article {
+        background: #fff;
+        margin-bottom: 20px;
+        text-align: left;
+       position: relative;
+      }
+
+     article img {
+        border: none;
+        margin-bottom: 15px;
+        max-width: 500px;
+     }
+
+     article p img {
+        margin: 0;
+     }
+     article > div {
+        padding: 0px;
+        overflow: hidden;
+     }
+     article .searchPage {
+        margin: 35px 0 0 0;
+     }
+
+     .searchPageText {
+        margin: 0 0 30px 0;
+     }
+
+     article .meta a:link, article .meta a:visited {
+        text-decoration: none;
+     }
+
+     article .meta a:hover, article .meta a:active {
+        text-decoration: underline;
+     }
+
+     article h2 {
+        text-align: left;
+        /*text-align: center;*/
+        color: #222222;
+     }
+
+     article h2 a:link, article h2 a:visited {
+        /*text-transform: Uppercase;*/
+        color: #222;
+        text-decoration: none;
+     }
+
+     article h2 a:hover, article h2 a:active {
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+     blockquote {
+        border-left: 2px solid #bca474;
+        margin-left: 0;
+        padding-left: 1em;
+     }
+
+     #quoteSource{
+        margin: 0 auto;
+        text-align: left;
+     }
+
+     #quoteText h2 {
+        text-align: left;
+        color: #222222;
+     }
+
+     article .chat {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+     }
+
+     article .chat li {
+        margin: 0 0 2px;
+        padding: 2px 0 2px 0;
+     }
+
+     .photoCaption {
+        text-align: left;
+     }
+
+/*----- AUDIO PLAYER -----*/
+
+     .audio {
+        height: 28px;
+        width: 26px;
+        overflow: hidden;
+        margin: auto;
+        padding-top: 7px;
+     }
+
+     .audioc {
+        background-image:url('http://static.tumblr.com/f1whv92/9iCl6bfgp/audiocircle.png');
+        background-repeat: no-repeat; 
+        height: 41px;
+        width: 41px;
+     }
+
+     .audioCaption {
+        margin-top: 1px;
+     }
+
+     .audioleft {
+        width: 41px;
+        float: left;
+      }
+
+     .audioright {
+        width: 444px;
+        float: right;
+      }
+
+     .audioContainer {
+        margin-top: 5px;
+     }
+
+     .audioClear {
+        clear:both;
+     }
+
+/*----- ARTICLE NOTES -----*/
+
+     .notes {
+        border-top: 1px solid #bca474;
+        list-style: none;
+        padding: 20px 0 5px 0;
+        margin: 30px 0 0 0;
+     }
+     .notes li {
+        margin: 0;
+     }
+
+     .notes .avatar {
+        margin: 0 5px 0 0;
+        position: relative;
+        top: 5px;
+     }
+
+     .notes blockquote {
+        margin: 10px 0 0 35px;
+        padding-left: 10px;
+        border-left: 2px solid #222222;
+     }
+
+     .media {
+        width: 500px;
+        margin-bottom: 20px;
+     }
+
+/*----- PAGE NAVIGATION -----*/
+
+     #pageNav {
+        margin-top: 20px;
+        border-top: 1px solid #222;
+     }
+
+     #pageNav ul {
+        list-style: none;
+        padding: 10px 15px;
+        margin: 10px 0;
+     }
+
+     #pageNav li {
+        margin: 0;
+        display: inline;
+     }
+
+     #pageNav a:link, #pageNav a:visited {
+        font: 11px Georgia, "Times New Roman", Times, serif;
+        padding: 0;
+        margin: 0 2px;
+        background: #34hdf5;
+        color: #222;
+        text-decoration: none;
+     }
+
+     #pageNav a:hover, #pageNav a:active, #pageNav a.active:link, #pageNav a.active:visited {
+        text-decoration: underline;
+     }
+
+     #pageNavOlder:after {
+        content: " »";
+        font-size: 10px;
+     }
+
+     #pageNavNewer:before {
+        content: "« ";
+     }
+
+/*----- FOOTER META -----*/
+
+     #sitemeta {
+        border-top: 2px solid #222;
+        color: #222;
+        padding: 20px 0 32px 0;
+        font-family: Georgia, "Times New Roman", Times, serif;
+        font-size: 11px;
+     }
+
+     #sitemeta p {
+        margin: 0;
+     }
+
+     #sitemeta a:link, #sitemeta a:visited {
+        color: #222;
+        font-weight: bold;
+     }
+
+
+</style>
+
+<!-- Scripts -->
+
+<!--[if IE]>
+     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+     <script src="http://static.tumblr.com/oawavkn/JPAlyq9zp/cufon-yui.js" type="text/javascript"></script>
+     <script src="http://static.tumblr.com/f1whv92/fgIl65bo1/cufon_300.font.js" type="text/javascript"></script>
+
+     <script type="text/javascript">
+        Cufon.replace('h1',{ fontFamily: "Cufon" });
+        Cufon.replace('h2',{ fontFamily: "Cufon" });
+        Cufon.replace('h3',{ fontFamily: "Cufon" });
+        Cufon.replace('#mainNav',{ fontFamily: "Cufon" });
+        Cufon.replace('#siteDescription',{ fontFamily: "Cufon" });
+     </script>
+
+<script>
+     $(function() {
+        var search = $("#txtSearch").val();
+        var placeholder = "Search...";
+        var fadeToOpacity = 0.4;
+        $("#txtSearch").fadeTo("normal", fadeToOpacity);
+        if (search == "") {
+     $("#txtSearch").val(placeholder);
+     }
+     $("#txtSearch").blur(function() {
+        search = $("#txtSearch").val();
+        if (!(search != "" && search != placeholder)) {
+        $("#txtSearch").val(placeholder);
+     }
+     $("#txtSearch").fadeTo("normal", fadeToOpacity);
+     });
+     $("#txtSearch").focus(function() {
+        search = $("#txtSearch").val();
+        if (search == placeholder) {
+        $("#txtSearch").val("");
+     }
+     $("#txtSearch").fadeTo("normal", 1);
+     });
+     $("#btnSearch").click(function() {
+     $("#frmSearch").slideToggle("normal");
+     $(this).toggleClass("active");
+ //  $("#txtSearch").focus();
+     });
+     });
+</script>
+
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:title" content="digitalSTS and Design" />
+<meta property="og:url" content="http://stsdesignworkshop.tumblr.com/?og=1" />
+<meta property="og:description" content="June 27-28, 2013: Arnold Arboretum, Harvard University. A workshop by: Yanni Loukissas, Laura..." />
+<meta property="og:type" content="tumblr-feed:tumblelog" />
+<meta property="og:image" content="http://25.media.tumblr.com/avatar_1004f71780a3_128.png" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+            <meta name="twitter:site" content="tumblr" />
+            <meta name="twitter:card" content="summary" />
+            <meta name="twitter:title" content="stsdesignworkshop" />
+            <meta name="twitter:description" content="June 27-28, 2013: Arnold Arboretum, Harvard University. A workshop by:
+Yanni Loukissas, Laura Forlano, David Ribes and Janet Vertesi" />
+            <meta name="twitter:app:name:iphone" content="Tumblr" />
+            <meta name="twitter:app:name:ipad" content="Tumblr" />
+            <meta name="twitter:app:name:googleplay" content="Tumblr" />
+            <meta name="twitter:app:id:iphone" content="305343404" />
+            <meta name="twitter:app:id:ipad" content="305343404" />
+            <meta name="twitter:app:id:googleplay" content="com.tumblr" />
+            <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=stsdesignworkshop&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=stsdesignworkshop&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=stsdesignworkshop&amp;referrer=twitter-cards" />
+    
+
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=cf7aeb03e820314a6cb2890dfa192802"></script>
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+</head>
+<body>
+
+     <header id="masthead" class="clearfix">
+        <div id="thehead">          
+              <h1 class="cufon"><a href="/">digitalSTS and Design</a></h1>
+              <form action="/search" method="get" id="frmSearch">
+              <input type="text" id="txtSearch" name="q" value="" />
+              </form>    
+
+     
+        <div id="siteDescription">June 27-28, 2013: Arnold Arboretum, Harvard University. A workshop by:<br />
+Yanni Loukissas, Laura Forlano, David Ribes and Janet Vertesi</div>
+     
+
+           <nav id="mainNav">        
+              
+              <li><a href="/info">Info</a></li><li><a href="/about">About</a></li><li><a href="/documentation">Documentation</a></li>
+              
+              
+              <!-- <li><a href="/submit">Submit</a></li> -->             
+              <li><a href="/archive">Archive</a></li>
+              <!-- <li><a href="/random">Random</a></li>
+              <li><a href="http://stsdesignworkshop.tumblr.com/rss">RSS</a></li> -->
+              <li><a href="javascript:;" id="btnSearch">Search</a></li>
+              
+           </nav>         
+        </div>
+     </header>
+
+     <section id="main" class="clearfix">
+     <div class="layout">           
+     
+      
+           
+
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://stsdesignworkshop.tumblr.com/post/60602641645/science-as-spectacle">7th Sep 2013</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+              <h2><a href="http://stsdesignworkshop.tumblr.com/post/60602641645/science-as-spectacle">Science as Spectacle</a></h2>
+              
+<p><strong><img alt="image" src="http://media.tumblr.com/762d0458a6d069baa5242d23e166e5f5/tumblr_inline_mrvs92OBim1qz4rgp.jpg"></strong></p>
+<p><strong>Description </strong>(Account by Sara Wylie) </p>
+<p>With the goal of extending public engagement with the arboretum in mind, balloon mapping seemed like a perfect project and I’d been looking for a chance to try out Public Lab’s new Infragram. With the help of <a href="http://publiclab.org/profile/cfastie">cfastie</a>, who sent a Rosco #2007 filter my way, I made a Super Blue camera following Jeff Warren’s super helpful <a href="http://publiclab.org/wiki/near-infrared-camera-history">video</a>. I went with taping a Rosco Blue Filter over the lense so it is removeable. Making the camera took two tries (subject of a research note to come). Though we battled with storms both days of the workshop we managed to get the balloon aloft with a two Cranberry Juice bottle rig I put together. The weight of the camera’s and light rain made getting the balloon high difficult.</p>
+<p></p>
+<p class="read_more_container"><a href="http://stsdesignworkshop.tumblr.com/post/60602641645/science-as-spectacle" class="read_more">Read More</a></p>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://stsdesignworkshop.tumblr.com/post/60137874191/bioprosthesis">2nd Sep 2013</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+              <h2><a href="http://stsdesignworkshop.tumblr.com/post/60137874191/bioprosthesis">Bioprosthesis</a></h2>
+              
+<p><strong><img alt="image" src="http://media.tumblr.com/7bfa3c3db0eda33db05b9b9ec157d61f/tumblr_inline_msj1kfgbk31qz4rgp.jpg"></strong></p>
+
+<p><strong>Description</strong></p>
+<p class="MsoNormal"><em><span>Bioprosthesis</span></em><span> is an interactive installation for the sonification of vital processes in trees.<span>  </span>Sonification is the representation of data through sound.<span>  </span><em>Bioprosthesis</em> is a conspicuous technology that invites visitors and care-givers to listen, in a physical engagement, to a selection of vital data about the organism and the organism’s relations within the environment.<span>  </span>In the early stages of the project, these data include information about pH, hydration, light capture, and respiration. <span> </span>These data include both audible processes to be amplified, and abstract information to be converted into sound.<span>  </span>As a theoretical engagement with the science of sonification, these data challenge what it means to make data sonically meaningful.</span></p>
+<p class="MsoNormal"><span></span></p>
+<p class="read_more_container"><a href="http://stsdesignworkshop.tumblr.com/post/60137874191/bioprosthesis" class="read_more">Read More</a></p>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://stsdesignworkshop.tumblr.com/post/58823435067/understories">20th Aug 2013</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+              <h2><a href="http://stsdesignworkshop.tumblr.com/post/58823435067/understories">Understories</a></h2>
+              
+<p><span><img alt="image" src="http://media.tumblr.com/d0e34b0c39f8da48ffdb938ddb4b3ab4/tumblr_inline_mrvshwOdOp1qz4rgp.jpg"></span></p>
+
+<p><span><strong>Description</strong></span></p>
+<p><span>Dictionary.com defines weeds as: “any undesirable or troublesome plant, especially one that grows profusely where it is not wanted.” Or, as Peter Del Tredici pointedly said to our group “ Weeds are a value judgment.”  They are vegetation out of place.</span></p>
+<p><span>Largely, we are interested in weeds. Or more specifically, matter that’s present, but somehow doesn’t count. Matter that’s present in a space, but not </span><span>part</span><span> of the space—at least not officially. We use weeds as an analogy—both literal and figurative— to explore the layers of experience with regards to the Arnold Arboretum, integrating the official institutional narrative of the space with the multiple unofficial narratives that equally make up the meaning of the space on an experiential level. We do so materially by constructing multidimensional digital maps, layering stories of staff, daytime visitors, night time visitors, and those who do not visit. We suggest installing the maps in T stations, where multiple publics can engage with and contribute to them.</span></p>
+<p><span></span></p>
+<p class="read_more_container"><a href="http://stsdesignworkshop.tumblr.com/post/58823435067/understories" class="read_more">Read More</a></p>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://stsdesignworkshop.tumblr.com/post/58822944384/the-decompository">20th Aug 2013</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+              <h2><a href="http://stsdesignworkshop.tumblr.com/post/58822944384/the-decompository">The Decompository</a></h2>
+              
+<p><span><img alt="image" src="http://media.tumblr.com/7a333e3f1f291b5f752bd5a41053282f/tumblr_inline_mrvsor2syx1qz4rgp.jpg"></span></p>
+<p><strong>Description</strong></p>
+<p><span>The Arboretum Decompository is a repository and curatorial space for the collection, exploration and exhibition of Arboretum decomposition in its varied forms. Decomposition plays a critical role in ecology by converting once living tissue into nutrient-rich substrate upon which new life can sustain itself. Its smells, locations, processes, and temperatures are sources of information and media for creative knowledge production about urban, natural, and digital ecosystems. This project expands the curatorial practices that are already such a critical feature of the Arnold Arboretum to include all processes of decomposition so that the entire ecology of the park, and its facets – some beautiful, some dirty, many smelly - may be better understood. It provides a way to make them visible and utilizable by visitors and researchers.</span></p>
+<p><span></span></p>
+<p class="read_more_container"><a href="http://stsdesignworkshop.tumblr.com/post/58822944384/the-decompository" class="read_more">Read More</a></p>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://stsdesignworkshop.tumblr.com/post/58816508416/science-in-the-pleasureground">20th Aug 2013</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+              <h2><a href="http://stsdesignworkshop.tumblr.com/post/58816508416/science-in-the-pleasureground">Science in the Pleasureground</a></h2>
+              
+<p><span><img alt="image" src="http://media.tumblr.com/8f15ab9e679a9ed97dc7f02fdd65e4e4/tumblr_inline_mrvsr0xY5g1qz4rgp.jpg"></span></p>
+
+<p><span><strong>Description</strong></span></p>
+<p><span>“Science in the Pleasureground” is the historical subtitle for the Harvard arboretum and upon learning this, it was immediately adopted as the title of our working group. The phrase fit our interests, which can be summarized as an attempt to discover, understand, and communicate what—in addition to the familiar practices of science—one can do in the arboretum. Or put another way, we wanted to know, “What are the various pleasures of the Arboretum?” We heard much about the wonderful public programs of the Arboretum and ways in which the Arboretum functioned as a both a laboratory and a museum. To this we wanted to add the stories of other users, and uses, of the Arboretum — the children who use the Arboretum as a place of fantasy, those who jog the trails, those that surreptitiously picnic, the residents of the neighboring communities, the employees of the hospital that park along the edges. In discovering these stories, we wanted to share them with others, to incorporate them as part of the identity and legacy of the Arboretum. </span></p>
+<p><span></span></p>
+<p class="read_more_container"><a href="http://stsdesignworkshop.tumblr.com/post/58816508416/science-in-the-pleasureground" class="read_more">Read More</a></p>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://stsdesignworkshop.tumblr.com/post/58812350784/the-ailanthus-project">20th Aug 2013</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+              <h2><a href="http://stsdesignworkshop.tumblr.com/post/58812350784/the-ailanthus-project">The Ailanthus Project</a></h2>
+              
+<p><span><strong><img alt="image" src="http://media.tumblr.com/b575130684ac2aa6074dd7ca2b571106/tumblr_inline_mrvt0hS48Z1qz4rgp.jpg"></strong></span></p>
+
+<p><span><strong>Description</strong></span></p>
+<p><span>Our group focused on the distinctive knowledge-production possibilities offered by Bussey Brook Meadow, a site in the Arboretum where the neglect of urban open lands is studied. In the urban sphere, perhaps the example <span>par excellence</span> of the weedy pioneer species is <span>Ailanthus altissima</span>, the Tree of Heaven. To this day, the Tree of Heaven is found throughout the city, along lengths of chain-link fencing where mowers do not reach, or in the narrow, unpassable breezeways between triple-decker apartment buildings. Its pinnately-compound, sumac-like leaves and bracts of green flowers may be seen swaying along railroad rights of way, swept back and forth in the commuter trains’ turbulent wake. Colonizing sites prone to frequent redevelopment, dumping, or other disturbance, wild </span><span>Ailanthus</span><span> in urban settings tend to grow in small colonies of suckering clones, rarely reaching more than fifteen feet in height. In Bussey Brook Meadow, by contrast, where disuse is a means of cultivation and neglect is a carefully-managed gardening discipline, </span><span>Ailanthus</span><span> specimens reach great height, some likely overmatching a mature sixty feet. (</span><span>Ailanthus</span><span> is a “gap-obligate”—shade induces it to grow quickly towards openings in the canopy to attain maximum height.) Thus in Bussey Brook, Ailanthus makes for a curious exhibition of a species adapted to city life, flourishing and growing to heights rarely seen in “urban wilds” proper.</span></p>
+<p><span></span></p>
+<!--EndFragment-->
+<p class="read_more_container"><a href="http://stsdesignworkshop.tumblr.com/post/58812350784/the-ailanthus-project" class="read_more">Read More</a></p>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+
+     
+      
+      
+      
+     
+     
+     </div><!-- END layout -->
+     </section>
+
+     <footer id="sitemeta">
+        <div class="clearfix">
+           <div class="thefooter">
+              <p><a href="http://www.tumblr.com/theme/12051">The Minimalist Theme</a> designed by <a href="http://minimalist.co">The Minimalist</a> | Powered by <a href="http://tumblr.com">Tumblr</a></p>
+           </div>
+        </div>
+     </footer>
+
+     
+
+<!-- BEGIN TUMBLR CODE -->
+        
+    
+        <iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="http://assets.tumblr.com/assets/html/iframe/o.html?_v=03e46de2c31f616e91612be5ae062acd#src=http%3A%2F%2Fstsdesignworkshop.tumblr.com%2F%3Futm_campaign%3Dsocialflow%26utm_source%3Dtwitter%26utm_medium%3Dsocial&amp;lang=en_US&amp;name=stsdesignworkshop&amp;brag=false&amp;avatar=http%3A%2F%2F31.media.tumblr.com%2Favatar_1004f71780a3_64.png&amp;title=digitalSTS+and+Design&amp;url=http%3A%2F%2Fstsdesignworkshop.tumblr.com%2F&amp;page_slide=slide"></iframe>    <div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://www.tumblr.com/assets/html/iframe/teaser.html#src=http%3A%2F%2Fstsdesignworkshop.tumblr.com%2F%3Futm_campaign%3Dsocialflow%26utm_source%3Dtwitter%26utm_medium%3Dsocial&amp;lang=en_US&amp;name=stsdesignworkshop&amp;brag=false&amp;avatar=http%3A%2F%2F31.media.tumblr.com%2Favatar_1004f71780a3_64.png&amp;title=digitalSTS+and+Design&amp;url=http%3A%2F%2Fstsdesignworkshop.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div>
+
+<script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls('http://assets.tumblr.com/assets/html/iframe/follow.html?_v=1c38ddb221b64d02021cc5cc3fb77b98');
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script>
+    
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    
+        
+<iframe src="http://assets.tumblr.com/analytics.html?63fae489732da54993e4a941e42dcf5e&amp;utm_campaign=socialflow&amp;utm_medium=social&amp;utm_source=twitter" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380547447&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvc3RzZGVzaWdud29ya3Nob3AudHVtYmxyLmNvbVwvP3V0bV9jYW1wYWlnbj1zb2NpYWxmbG93JnV0bV9zb3VyY2U9dHdpdHRlciZ1dG1fbWVkaXVtPXNvY2lhbCIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC8ifQ==&U=NPEFGPADCJ&K=bfd124428c43617dd464219ece8e1394affe2539a373af0ebefeed14257841ec&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380547447&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvc3RzZGVzaWdud29ya3Nob3AudHVtYmxyLmNvbVwvP3V0bV9jYW1wYWlnbj1zb2NpYWxmbG93JnV0bV9zb3VyY2U9dHdpdHRlciZ1dG1fbWVkaXVtPXNvY2lhbCIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC8iLCJub3NjcmlwdCI6MX0=&U=NPEFGPADCJ&K=2b04d6e7ead587fbec84f23781b81eef4b26e2d05e3e7cac3498edab39e08bbe&R="></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380547447&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3N0c2Rlc2lnbndvcmtzaG9wLnR1bWJsci5jb21cLz91dG1fY2FtcGFpZ249c29jaWFsZmxvdyZ1dG1fc291cmNlPXR3aXR0ZXImdXRtX21lZGl1bT1zb2NpYWwiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwicG9zdHMiOlt7InBvc3RpZCI6IjYwNjAyNjQxNjQ1IiwiYmxvZ2lkIjoiMTIwMjI2MDE5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI2MDEzNzg3NDE5MSIsImJsb2dpZCI6IjEyMDIyNjAxOSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNTg4MjM0MzUwNjciLCJibG9naWQiOiIxMjAyMjYwMTkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjU4ODIyOTQ0Mzg0IiwiYmxvZ2lkIjoiMTIwMjI2MDE5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI1ODgxNjUwODQxNiIsImJsb2dpZCI6IjEyMDIyNjAxOSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNTg4MTIzNTA3ODQiLCJibG9naWQiOiIxMjAyMjYwMTkiLCJzb3VyY2UiOjMzfV19&U=HNHOFKBABN&K=41e1dc6c341e2cb959bdec58b937dca28fefd42d0cf56c6c76beec876339e66a&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380547447&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3N0c2Rlc2lnbndvcmtzaG9wLnR1bWJsci5jb21cLz91dG1fY2FtcGFpZ249c29jaWFsZmxvdyZ1dG1fc291cmNlPXR3aXR0ZXImdXRtX21lZGl1bT1zb2NpYWwiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwicG9zdHMiOlt7InBvc3RpZCI6IjYwNjAyNjQxNjQ1IiwiYmxvZ2lkIjoiMTIwMjI2MDE5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI2MDEzNzg3NDE5MSIsImJsb2dpZCI6IjEyMDIyNjAxOSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNTg4MjM0MzUwNjciLCJibG9naWQiOiIxMjAyMjYwMTkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjU4ODIyOTQ0Mzg0IiwiYmxvZ2lkIjoiMTIwMjI2MDE5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI1ODgxNjUwODQxNiIsImJsb2dpZCI6IjEyMDIyNjAxOSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNTg4MTIzNTA3ODQiLCJibG9naWQiOiIxMjAyMjYwMTkiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=HNHOFKBABN&K=8c223f7ec8ef4c2d827b633b4ccbb0e2a46184db6af32a484e9e7e0001b2c8e6&R="></noscript><!-- END TUMBLR CODE -->
+</body>
+</html>

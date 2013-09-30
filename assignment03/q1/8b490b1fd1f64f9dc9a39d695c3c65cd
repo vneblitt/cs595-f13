@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	FAO: Food and Agriculture Organization of the United Nations, for a world without hunger
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2012 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+<base href="http://www.fao.org/">
+<link rel="shortcut icon" href="http://www.fao.org/fileadmin/templates/faoweb/images/icons/favicon.ico" type="image/x-ico; charset=binary">
+<link rel="icon" href="http://www.fao.org/fileadmin/templates/faoweb/images/icons/favicon.ico" type="image/x-ico; charset=binary">
+
+<meta name="generator" content="TYPO3 4.5 CMS">
+
+<link rel="stylesheet" type="text/css" href="/typo3temp/stylesheet_5d370599a3.css?1362582381" media="all">
+<link rel="stylesheet" type="text/css" href="http://fast.fonts.com/cssapi/0ad75cee-12a6-49a0-a922-c4ecad41ec44.css" media="all">
+<link rel="stylesheet" type="text/css" href="/fileadmin/templates/faoweb/fao_style.css?1380200006" media="all">
+<link rel="stylesheet" type="text/css" href="/fileadmin/templates/faoweb/main.css?1368796980" media="all">
+<link rel="stylesheet" type="text/css" href="/fileadmin/templates/faoweb/normalize.css?1361375585" media="all">
+
+
+
+<script src="/fileadmin/templates/faoweb/scripts/main.js?1361376086" type="text/javascript"></script>
+<script src="/fileadmin/templates/faoweb/scripts/plugins.js?1361376094" type="text/javascript"></script>
+<script src="/fileadmin/scripts/jquery/jquery-1.8.3.min.js?1357917426" type="text/javascript"></script>
+<script src="/fileadmin/templates/faoweb/scripts/vendor/modernizr-2.6.2.min.js?1361376133" type="text/javascript"></script>
+<script src="/typo3conf/ext/rgaccordion/res/rgaccordion_jquery.js?1292340421" type="text/javascript"></script>
+<script src="/fileadmin/templates/faoweb/scripts/jquery.selectbox-0.2.min.js?1371042635" type="text/javascript"></script>
+<script src="/fileadmin/scripts/jquery/plugin/iosslider/jquery.iosslider.min.js?1363599115" type="text/javascript"></script>
+<script src="/fileadmin/scripts/jwPlayer/swfobject.js?1226656274" type="text/javascript"></script>
+
+
+<title>FAO -&nbsp;News Article:&nbsp;Food waste harms climate, water, land and biodiversity – new FAO report</title><!--[if lte IE 8]>
+  <link rel="stylesheet" type="text/css" href="/fileadmin/templates/faoweb/fao_ie7_style.css" />
+<![endif]--><script>if(navigator.platform == 'MacIntel' || navigator.platform == 'MacPPC'){$('head').append('<link rel="stylesheet" type="text/css" href="/fileadmin/templates/faoweb/fao_mac_style.css" />');}</script><link rel="image_src" href="http://www.fao.org/fileadmin/templates/faoweb/images/homescreen.gif" /><style>
+  .tx-dynalist-pi1 table td{
+      background-color: #CCD7D9;
+      padding: 8px 8px;
+      width: 200px;
+      height: 140px;
+      color: #003A45;
+      text-align:center;
+  }
+  .mininews-image{text-align:right;}
+  .mininews-item a{
+      color: #003A45;
+      text-align:left;
+  }
+  .mininews-body, .mininews-title{
+      padding: 0 2px;
+      text-align:left;
+  }
+  .mininews-title{
+      text-align:left;
+      border-bottom: 1px solid #003B43;
+  }
+  div#twtr-widget-1 {
+    margin-top: 0px;
+    width: auto;
+  }
+  .contacts{
+    background-color: #D5E4EB;
+    margin-bottom: 20px;
+    padding: 12px;
+  }
+  .contacts .contacts-header{
+    border-top:0;
+    margin-top:0;
+  }
+  .list-date{font-size:0.85em;}
+  .article-image{
+      float:left; 
+      margin:0 8px 6px 0; 
+      width: 300px;
+      font-size:0.9em;
+      background-color:#f4f4f4;
+  }
+  .news-caption{
+      margin:4px; 
+  }
+  #bodytext-widget{
+      width:190px;
+  }
+</style>
+
+
+<meta property="og:image" content="http://www.fao.org/fileadmin/user_upload/newsroom/photos/small_000_Par7360579.jpg"/>
+<meta property="og:image" content="http://www.fao.org/fileadmin/user_upload/newsroom/photos/small_000_Del6243569.jpg"/>
+</head>
+<body>
+
+
+
+<div class="wrapper">
+  <header class="header">
+    <div id="langs"><div class="tx-srlanguagemenu-pi1"><div class="NO"><a href="/news/story/ar/item/196220/icode/?utm_source=facebook&amp;utm_medium=social%20media&amp;utm_campaign=fao%20facebook" onfocus="blurLink(this);"  >العربية</a></div><div class="NO"><a href="/news/story/zh/item/196220/icode/?utm_source=facebook&amp;utm_medium=social%20media&amp;utm_campaign=fao%20facebook" onfocus="blurLink(this);"  >﻿中文</a></div><div class="CUR"><a href="/news/story/en/item/196220/icode/?utm_source=facebook&amp;utm_medium=social%20media&amp;utm_campaign=fao%20facebook" onfocus="blurLink(this);"  >english</a></div><div class="NO"><a href="/news/story/fr/item/196220/icode/?utm_source=facebook&amp;utm_medium=social%20media&amp;utm_campaign=fao%20facebook" onfocus="blurLink(this);"  >français</a></div><div class="NO"><a href="/news/story/it/item/196220/icode/?utm_source=facebook&amp;utm_medium=social%20media&amp;utm_campaign=fao%20facebook" onfocus="blurLink(this);"  >italiano</a></div><div class="NO"><a href="/news/story/ru/item/196220/icode/?utm_source=facebook&amp;utm_medium=social%20media&amp;utm_campaign=fao%20facebook" onfocus="blurLink(this);"  >Русский</a></div><div class="NO"><a href="/news/story/es/item/196220/icode/?utm_source=facebook&amp;utm_medium=social%20media&amp;utm_campaign=fao%20facebook" onfocus="blurLink(this);"  >Español</a></div></div></div>
+    <h1 id="logo-ltr" class="logo">FAO.org<div id="c197531" class="csc-default" ><p class="bodytext"><a href="/home/en/" title="FAO homepage" class="internal-link" ><img src="/fileadmin/templates/faoweb/images/FAO-logo.png" style="cursor: move;" height="77" width="412" title="FAO home" alt="" /></a></p></div></h1>
+    
+    <div id="google_search"><div id="c213853" class="csc-default" ><div class="tx-xinclude-pi1">
+		<form action="/news/search/en/" method="get" target="_self" id="searchbox_018170620143701104933:qq82jsfba7w">
+<input type="hidden" name="cx" id="cx" value="018170620143701104933:qq82jsfba7w" />
+<!-- Google CSE Search Box Begins -->
+<input name="q" type="text" class="inputbox" size="18" style="border:0;" />
+<div class="sub-search"><input type="checkbox" name="custom" value="018170620143701104933:omcw3hiowpg" id="custom" />&nbsp;Search in Media only</div>
+<input type="hidden" name="cof" value="FORID:9" />
+<input id="search-submit" type="submit" value="Search" />
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_018170620143701104933%3Aqq82jsfba7w"></script><!-- Google CSE Search Box Ends -->
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#custom").change(function() {
+        if($(this).is(":checked")){
+              $("#cx").attr("value", $(this).attr("value"));
+        }else{
+              $("#cx").attr("value", "018170620143701104933:qq82jsfba7w");           
+        }
+    });
+});
+</script>
+	</div>
+	</div></div>
+    <div id="nav-container">  
+      <nav>
+        <ul class="topmenu"><li class="top-no-active" id="m_39122"><a href="/about/en/" onfocus="blurLink(this);"  >About FAO</a></li><li class="top-no-active" id="m_39123"><a href="/in-action/en/" onfocus="blurLink(this);"  >In Action</a></li><li class="top-no-active" id="m_39124"><a href="/countries/en/" onfocus="blurLink(this);"  >Countries</a></li><li class="top-no-active" id="m_39125"><a href="/themes/en/" onfocus="blurLink(this);"  >Themes</a></li><li class="top-active" id="m_36544"><a href="/news/en/" onfocus="blurLink(this);"  >Media</a></li><li class="top-no-active" id="m_39127"><a href="/publications/en/" onfocus="blurLink(this);"  >Publications</a></li><li class="top-no-active" id="m_40712"><a href="/statistics/en/" onfocus="blurLink(this);"  >Statistics</a></li><li class="top-no-active" id="m_39128"><a href="/partnerships/en/" onfocus="blurLink(this);"  >Partnerships</a></li></ul>
+        <ul class="top-submenu"><li><a href="/news/contacts/en/" onfocus="blurLink(this);"  >Contacts</a></li><li><a href="/news/archive/news-by-date/2013/en/" onfocus="blurLink(this);"  >News archive</a></li><li><a href="/news/events/en/" onfocus="blurLink(this);"  >Events</a></li><li><a href="/news/audio-video/en/" onfocus="blurLink(this);"  >Audio and Video</a></li><li><a href="/news/news-webcasting/en/" onfocus="blurLink(this);"  >Webcasting</a></li><li><a href="/news/infographics/en/" onfocus="blurLink(this);"  >Infographics</a></li><li><a href="/news/fao-in-the-news/en/" onfocus="blurLink(this);"  >FAO in the News</a></li></ul>
+      </nav>
+    </div>
+  </header>
+    <div id="page-tools"><div id="c205514" class="csc-default" ><!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_16x16_style">
+<a class="addthis_button_facebook" title="share on facebook"></a>
+<a class="addthis_button_twitter" title="share on Twitter"></a>
+<a class="addthis_button_google_plusone_share" title="share on Google+"></a>
+</div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=undefined"></script>
+<!-- AddThis Button END --></div><div id="c204624" class="csc-default" ><script type="text/javascript">
+function mailThisPage() {
+     var link = window.location;
+     var emailSubject = "Check this out: "+ document.title;
+     //var emailAddress=prompt("Please enter the recipients email address","");
+     window.location  = "mailto:"+"?Subject="+emailSubject+"&body="+link                     
+}
+</script>
+
+<div id="send-email">
+    <a href="javascript:mailThisPage()">Send</a>
+</div></div><div id="c204623" class="csc-default" ><div id="print"><a href="javascript:window.print()">Print</a></div></div></div>
+    <div id="top_breadcrumbs"><a href="/home/en/" onfocus="blurLink(this);"  >Home</a><span class="bread_act">&nbsp;> </span><a href="/news/en/" onfocus="blurLink(this);"  >Media</a><span class="bread">&nbsp;> </span>News Article</div>
+    <section id="top-banner"><div id="c208150" class="csc-default" ><div class="tx-xinclude-pi1">
+		
+	</div>
+	</div></section>
+    <section id="content">
+      
+      <div id="maincontent" class="main-internal"><div id="c211333" class="csc-default" ><div class="tx-dynalist-pi1">
+		<div class="news-list"><h1>Food waste harms climate, water, land and biodiversity – new FAO report</h1>
+<h4>Direct economic costs of $750 billion annually – Better policies required, and “success stories” need to be scaled up and replicated</h4>
+<div class="news-item">
+<p class="news-short"><div class="article-image"><img src='typo3temp/pics/64a1af7ed5.jpg' alt='Photo: Jean-Christophe Verhaegen/AFP' title='Photo: Jean-Christophe Verhaegen/AFP'><br><div class="news-caption">In France, food waste waits to be converted into methane and biogas.</div></div><p><strong>11 September 2013, Rome</strong> - The waste of a staggering 1.3 billion tonnes of food per year is not only causing major economic losses but also wreaking significant harm on the natural resources that humanity relies upon to feed itself, says a new FAO report.<br /> <br /> <a href="http://www.fao.org/docrep/018/i3347e/i3347e.pdf" target="_blank" title="Read the report"><em>Food Wastage Footprint: Impacts on Natural Resources</em> </a>is the first study to analyze the impacts of global food wastage from an environmental perspective, looking specifically at its consequences for the climate, water and land use, and biodiversity.<br /> <br /> Among its key findings: Each year, food that is produced but not eaten guzzles up a volume of water equivalent to the annual flow of Russia's Volga River and is responsible for adding 3.3 billion tonnes of greenhouse gases to the planet's atmosphere.<br /> <br /> And beyond its environmental impacts, the direct economic consequences to producers of food wastage (excluding fish and seafood) run to the tune of $750 billion annually, FAO's report estimates.<br /> <br /> "All of us - farmers and fishers; food processors and supermarkets; local and national governments; individual consumers -- must make changes at every link of the human food chain to prevent food wastage from happening in the first place, and re-use or recycle it when we can't," said FAO Director-General José Graziano da Silva.<br /> <br /> "We simply cannot allow one-third of all the food we produce to go to waste or be lost because of inappropriate practices, when 870 million people go hungry every day," he added.<br /> <br /> As a companion to its new study, FAO has also published a comprehensive <a href="http://www.fao.org/docrep/018/i3342e/i3342e.pdf" target="_blank" title="Read the tool-kit">"tool-kit"</a> that contains recommendations on how food loss and waste can be reduced at every stage of the food chain.<br /> <br /> The tool-kit profiles a number of projects around the world that show how national and local governments, farmers, businesses, and individual consumers can take steps to tackle the problem.<br /><br />Achim Steiner, UN Environment Programme (UNEP) Executive Director, said: "UNEP and FAO have identified food waste and loss --food wastage-- as a major opportunity for economies everywhere to assist in a transition towards a low carbon, resource efficient and inclusive Green Economy. Today's excellent report by FAO underlines the multiple benefits that can be realized-- in many cases through simple and thoughtful measures by for example households, retailers, restaurants, schools and businesses-- that can contribute to environmental sustainability, economic improvements, food security and the realization of the UN Secretary General's Zero Hunger Challenge. We would urge everyone to adopt the motto of our joint campaign: Think Eat Save - Reduce Your Foodprint!". </p><p> UNEP and FAO are founding partners of the <a href="http://www.thinkeatsave.org/">Think Eat Save - Reduce Your Foodprint</a> campaign that was launched earlier in the year and whose aim is to assist in coordinating worldwide efforts to manage down wastage. <br /> <strong><br />Where wastage happens<br /> <br /> </strong>Fifty-four percent of the world's food wastage occurs "upstream" during production, post-harvest handling and storage, according to FAO's study. Forty-six percent of it happens "downstream," at the processing, distribution and consumption stages.<br /> <br /> As a general trend, developing countries suffer more food losses during agricultural production, while food waste at the retail and consumer level tends to be higher in middle- and high-income regions -- where it accounts for 31-39 percent of total wastage -- than in low-income regions (4-16 percent).<br /> <br /> The later a food product is lost along the chain, the greater the environmental consequences, FAO's report notes, since the environmental costs incurred during processing, transport, storage and cooking must be added to the initial production costs.<br /> <strong><br />Hot spots<br /> <br /> </strong>Several world food wastage "hot-spots" stand out in the study:<br /> <br /> Wastage of cereals in Asia is a significant problem, with major impacts on carbon emissions and water and land use. Rice's profile is particularly noticeable, given its high methane emissions combined with a large level of wastage. <br /> <br /> While meat wastage volumes in all world regions is comparatively low, the meat sector<strong> </strong>generates a substantial impact on the environment in terms of land occupation and carbon footprint, especially in high-income countries and Latin America, which in combination account for 80 percent of all meat wastage. Excluding Latin America, high-income regions are responsible for about 67 percent of all meat wastage<br /> <br /> Fruit wastage contributes significantly to water waste in Asia, Latin America, and Europe, mainly as a result of extremely high wastage levels.<br /> <br /> Similarly, large volumes of vegetable wastage in industrialized Asia, Europe, and South and South East Asia translates into a large carbon footprint for that sector.<br /> <strong><br />Causes of food wastage - and options for addressing them</strong><br /> <br /> A combination of consumer behavior and lack of communication in the supply chain underlies the higher levels of food waste in affluent societies, according to FAO. Consumers fail to plan their shopping, overpurchase, or over-react to "best-before-dates," while quality and aesthetic standards lead retailers to reject large amounts of perfectly edible food.<br /> <br /> In developing countries, significant post-harvest losses in the early part of the supply chain are a key problem, occurring as a result of financial and structural limitations in harvesting techniques and storage and transport infrastructure, combined with climatic conditions favorable to food spoilage.<br /> <br /> To tackle the problem, FAO's toolkit details three general levels where action is needed:<br /> <br /> High priority should be given to <strong>reducing food wastage in the first place.</strong> Beyond improving losses of crops on farms due to poor practices, doing more to better balance production with demand would mean not using natural resources to produce unneeded food in the first place.<br /> <br /> In the event of a food surplus, <strong>re-use within the human food chain</strong>-- finding secondary markets or donating extra food to feed vulnerable members of society-- represents the best option. If the food is not fit for human consumption, the next best option is to divert it for livestock feed, conserving resources that would otherwise be used to produce commercial feedstuff.<br /> <br /> Where re-use is not possible, <strong>recycling and recovery</strong> should be pursued: by-product recycling, anaerobic digestion, compositing, and incineration with energy recovery allow energy and nutrients to be recovered from food waste, representing a significant advantage over dumping it in landfills. Uneaten food that ends up rotting in landfills is a large producer of methane, a particularly harmful GHG. <br /> <br /> Funding for the <em>Food Wastage Footprint </em>report and toolkit was provided by the government of Germany.</p><p><em><a href="http://www.fao.org/news/story/en/item/196377/icode/" title="What can be done about food wastage?">Read in more detail about FAO's specific recommendations for reducing food wastage.</a></em></p></p>
+</div>
+<div style="clear:both;"></div></div>
+	</div>
+	</div></div>
+      <aside id="rightcolumn" class="rightcolumn-internal"><div id="c181413" class="csc-default" ><div class="tx-xinclude-pi1">
+		<div id="news-right-col" style="width:190px;"><div id="other-info-item" class="header"><div class="contacts-header">AUDIO</div><div id="bodytext-header"><a class="links" id="fileType-htm" href="http://www.fao.org/news/audio-video/detail-audio/en/?uid=10070" target="_blank">Excerpts from the FAO-UNEP press conference</a></div></div><div id="other-info-item" class="imageSpecial"><div class="text-header">Animation</div><a href="http://www.youtube.com/watch?v=IoCVrkcaH6Q" target="_blank"><img src="./fileadmin/user_upload/newsroom/photos/small_animationfoodwaste.gif" border="0" alt="Watch" title="Watch" /></a><div class="image-caption"><a href="http://www.youtube.com/watch?v=IoCVrkcaH6Q" target="_blank">Reduce your foodwaste footprint.</a></div></div><div id="other-info-item" class="header"><div class="contacts-header">Read the report</div><div id="bodytext-header"><a class="links" id="fileType-pdf" href="http://www.fao.org/docrep/018/i3347e/i3347e.pdf" target="_blank">Food Wastage Footprint: Impacts on Natural Resources</a></div><div id="bodytext-header"><a class="links" id="fileType-pdf" href="http://www.fao.org/docrep/018/i3342e/i3342e.pdf" target="_blank">Toolkit: Reducing the Food Wastage Footprint</a></div></div><div id="other-info-item" class="header"><div class="contacts-header">Learn more</div><div id="bodytext-header"><a class="links" id="fileType-htm" href="http://www.fao.org/news/story/en/item/196402/icode/" target="_blank">Key facts and figures from FAO's report</a></div><div id="bodytext-header"><a class="links" id="fileType-htm" href="http://www.fao.org/news/story/en/item/196377/icode/" target="_blank">What can be done about food wastage?</a></div></div><div id="other-info-item" class="imageSpecial"><div class="text-header">Video</div><a href="http://www.fao.org/news/audio-video/detail-video/en/?uid=10067" target="_blank"><img src="./fileadmin/user_upload/newsroom/photos/small_foodwasteinterview.jpg" border="0" alt="Watch the video" title="Watch the video" /></a><div class="image-caption"><a href="http://www.fao.org/news/audio-video/detail-video/en/?uid=10067" target="_blank">FAO’s Mathilde Iweins on the environmental consequences of food wastage.</a></div></div><div id="other-info-item" class="header"><div class="contacts-header">Related links</div><div id="bodytext-header"><a class="links" id="fileType-htm" href="http://www.fao.org/save-food/en/" target="_blank">FAO’s Save Food initative</a></div><div id="bodytext-header"><a class="links" id="fileType-htm" href="http://www.thinkeatsave.org/" target="_blank">FAO-UNEP Think.Eat.Save campaign</a></div></div><div id="other-info-item" class="image"><img src="./fileadmin/user_upload/newsroom/photos/small_000_Del6243569.jpg" border="0" alt="Photo: Narinder Nanu/AFP" title="Photo: Narinder Nanu/AFP" /><div class="image-caption">Wheat spills from a ripped sack during transport. When food is lost or wasted, the natural resources used to produce it are also squandered.</div></div><div id="other-info-item" class="header"><div class="contacts-header">Webcast</div><div id="bodytext-header"><a class="links" id="fileType-htm" href="http://www.fao.org/webcast/" target="_blank">Press conference: Launch of FAO’s new report</a></div></div><div id="other-info-item" class="header"><div class="contacts-header">Documents</div><div id="bodytext-header"><a class="links" id="fileType-pdf" href="http://www.fao.org/fileadmin/user_upload/FAODG/docs/2013-09-11-food-wastage-footprint-DG-speech-en.pdf" target="_blank">Remarks by FAO Director-General José Graziano da Silva</a></div></div><div id="other-info-item" class="text"><div class="text-header">What is food wastage?</div><div id="bodytext-text"><p><em>Food loss</em> is the unintended reduction in food available for human consumption, resulting from inefficiencies in supply chains: poor infrastructure and logistics or lack of technology, insufficient skills or poor management capacity. It mainly occurs during production or postharvest processing, e.g. when crops go unharvested or produce is thrown out during processing, storage or transport. </p><p><em>Food waste</em> refers to intentional discards of edible items, mainly by retailers and consumers, and is due to the behavior of businesses and individuals.</p> <p>The term <em>food wastage</em> refers to the two in combination.</p></div></div><div id="other-info-widget" class="widget"><div id="bodytext-widget"><div class="contacts-header">#FoodWaste</div><a class="twitter-timeline" href="https://twitter.com/search?q=%23thinkeatsave+OR+%23foodwaste+OR+%22food+waste%22" data-widget-id="376988452400533504" data-chrome="noheader">Tweets about "#thinkeatsave OR #foodwaste OR "food waste""</a>
+<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></div><div id="other-info-item" class="contacts"><div class="contacts-header">Contact</div><div id="bodytext-contacts"><p>George Kourous<br />Media Relations (Rome)<br />(+39) 06 570 53168<br /> (+39) 348 141 6802<br /> <a href="mailto:george.kourous@fao.org">george.kourous@fao.org</a></p></div></div></div>
+	</div>
+	</div></aside>
+      <div class="clear"></div>
+    </section>
+    <footer>
+        <div id="system-links"><div id="c175119" class="csc-default" ><ul> <li><a href="/contact-us/en/" target="_top" class="internal-link" >Contact us</a></li> <li><a href="/contact-us/terms/en/" class="internal-link" >Terms and Conditions</a></li> <li><a href="/contact-us/scam-alert/en/" class="internal-link" >Scam Alert</a></li> <li><a href="/contact-us/report-fraud/en/" class="internal-link" >Report fraud</a></li> </ul><ul> <li><a href="/employment/en/" target="_top" class="internal-link" >Employment</a></li> <li><a href="/unfao/procurement/general-information/en/" target="_top" >Procurement</a></li> <li><a href="/unfao/govbodies/gsbhome/gsb-home/en/" target="_top" >Governing Bodies</a></li> <li><a href="http://www.fao.org/aud/en/" target="_top" >Office of the Inspector General</a></li> <li><a href="/evaluation/oed-home/en/" target="_top" class="internal-link" >Evaluation</a></li> <li><a href="/legal/home/legal-office/en/" target="_top" class="internal-link" >Legal and Ethics Office</a></li> </ul></div><div id="c197794" class="csc-default" ><div class="csc-header csc-header-n2"><h4>FAO Departments and Offices</h4></div><ul> <li><a href="/ag/portal/ag-home/en/" target="_top" class="internal-link" >Agriculture and Consumer Protection</a></li> <li><a href="/economic/es-home/en/" target="_top" class="internal-link" >Economic and Social Development</a></li> <li><a href="http://www.fao.org/fishery" target="_top" class="external-link-new-window" >Fisheries and Aquaculture</a></li> <li><a href="http://www.fao.org/forestry" target="_top" class="external-link-new-window" >Forestry</a></li> <li><a href="/nr/nr-home/en/" target="_top" class="internal-link" >Natural Resources Management<br />and Environment <br /></a></li> <li><a href="http://www.fao.org/tc" target="_top" class="external-link-new-window" >Technical Cooperation</a></li> </ul><ul> <li><a href="/contact-us/en/" class="internal-link" >Headquarters</a></li> <li><a href="/about/who-we-are/worldwide-offices/en/#c207624" class="internal-link" >Regional Offices</a></li> <li><a href="/about/who-we-are/worldwide-offices/en/#c207628" class="internal-link" >Subregional Offices</a></li> <li><a href="/about/who-we-are/worldwide-offices/en/#c207632" class="internal-link" >Country Offices</a></li> <li><a href="/about/who-we-are/worldwide-offices/en/#c207636" class="internal-link" >Liaison Offices</a></li> </ul></div></div>
+        <div id="social-networks"><div id="c197797" class="csc-default" ><div class="csc-header csc-header-n1"><h4 class="csc-firstHeader">Follow us on</h4></div><p class="bodytext"><a href="http://www.facebook.com/pages/Food-and-Agriculture-Organization-of-the-United-Nations-FAO/46370758585?ref=mf" target="_blank" class="external-link-new-window" ><img alt="facebook" title="facebook" src="/fileadmin/templates/faoweb/images/icons/facebook.png" height="32" width="32" /></a>&nbsp;&nbsp; <a href="https://twitter.com/FAOnews/fao-twitter-accounts" target="_blank" class="external-link-new-window" ><img alt="Twitter" title="Twitter" src="/fileadmin/templates/faoweb/images/icons/twitter.png" height="32" width="32" /></a>&nbsp;&nbsp; <a href="http://www.flickr.com/photos/faonews/collections/" target="_blank" class="external-link-new-window" ><img alt="flickr" title="flickr" src="/fileadmin/templates/faoweb/images/icons/flickr.png" height="32" width="32" /></a> &nbsp; <a href="http://www.youtube.com/user/FAOVideo" target="_blank" class="external-link-new-window" ><img alt="YouTube" title="YouTube" src="/fileadmin/templates/faoweb/images/icons/youtube.png" height="32" width="32" /></a>&nbsp;&nbsp; <br /> <br /> <a href="https://plus.google.com/109652448869757338876/" target="_blank" class="external-link-new-window" ><img alt="Google+" title="Google+" src="/fileadmin/templates/faoweb/images/icons/googleplus.png" height="32" width="32" /></a> &nbsp; <a href="http://www.linkedin.com/company/fao" target="_blank" class="external-link-new-window" ><img alt="LinkedIn" title="LinkedIn" src="/fileadmin/templates/faoweb/images/icons/linkedin.png" height="32" width="32" /></a> &nbsp; <a href="http://www.slideshare.net/FAOoftheUN" target="_blank" class="external-link-new-window" ><img alt="SlideShare" title="SlideShare" src="/fileadmin/templates/faoweb/images/icons/slideshare.png" height="32" width="32" /></a> &nbsp; <a href="/news/rss-feed/en/" title="Opens internal link in current window" class="internal-link" ><img alt="RSS" title="RSS" src="/fileadmin/templates/faoweb/images/icons/rss.png" height="32" width="32" /></a></p></div></div>
+        <a href="/contact-us/terms/en/" ><div id="copyright"><div class="en">© FAO,&nbsp;2013</div></div></a>
+  </footer>
+</div>
+<div id="c186169" class="csc-default" ><script type="text/javascript">
+  var _gaq = _gaq || [];
+
+   _gaq.push(
+    ['_setAccount', 'UA-16957842-1'],
+    ['_trackPageview'],
+    ['rollup._setAccount', 'UA-16796074-1'],
+    ['rollup._trackPageview'],  
+    ['all._setAccount', 'UA-16957552-1'],
+    ['all._trackPageview']
+  );
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','_gaTracker');
+
+  _gaTracker('create', 'UA-40529805-2', 'fao.org');
+  _gaTracker('send', 'pageview');
+
+  _gaTracker('create', 'UA-41502831-1', {'name':'allTracker'});
+  _gaTracker('allTracker.send', 'pageview');
+</script>
+
+
+</div>
+
+
+
+
+</body>
+</html>

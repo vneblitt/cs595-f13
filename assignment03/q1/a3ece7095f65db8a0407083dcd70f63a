@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Webhooks Are Here! | Trello Blog</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://blog.trello.com/wp-content/themes/trello/style.css" />
+<link rel="pingback" href="http://blog.trello.com/xmlrpc.php" />
+<script type="text/javascript" src="http://use.typekit.com/fcr6ctz.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<!--[if lt IE 9]>
+<script src="http://blog.trello.com/wp-content/themes/trello/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Trello Blog &raquo; Feed" href="http://blog.trello.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Trello Blog &raquo; Comments Feed" href="http://blog.trello.com/comments/feed/" />
+<script type='text/javascript' src='http://blog.trello.com/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.trello.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog.trello.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Trello for Android Tablets is Coming – Beta Testers Needed!' href='http://blog.trello.com/trello-for-android-tablets-is-coming-beta-testers-needed/' />
+<link rel='next' title='Introducing Power-Ups: Calendar, Card Aging, and More' href='http://blog.trello.com/introducing-power-ups-calendar-card-aging-and-more/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='canonical' href='http://blog.trello.com/webhooks-are-here/' />
+<link rel='shortlink' href='http://blog.trello.com/?p=1556' />
+</head>
+
+<body class="single single-post postid-1556 single-format-standard singular two-column right-sidebar">
+<div id="page" class="hfeed">
+
+	<header id="global-header" role="banner">
+    <div class="wrapper">
+      <a href="http://blog.trello.com/"><img src="http://d2isj6rbqore70.cloudfront.net/trellogo-blog.png" class="logo"></a>
+      <a href="https://trello.com" class="site-link">Go to trello.com →</a>
+    </div>
+	</header><!-- #branding -->
+
+	<div id="main">
+
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					
+<article id="post-1556" class="post-1556 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		<h1 class="entry-title">Webhooks Are Here!</h1>
+	</header><!-- .entry-header -->
+
+	<footer class="entry-meta">
+                <span class="sep">Posted on </span><a href="http://blog.trello.com/webhooks-are-here/" title="11:15 am" rel="bookmark"><time class="entry-date" datetime="2013-08-05T11:15:19+00:00" pubdate>August 5, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blog.trello.com/author/stu/" title="View all posts by Stuart Larson" rel="author">Stuart Larson</a></span></span>		
+	</footer><!-- .entry-meta -->
+
+	<div class="entry-content">
+		<p>We’re happy to announce the launch of webhooks in our <a href="https://trello.com/docs/">developer API</a>! Webhooks provide a way for apps to be notified when there is a change to a user&#8217;s board, card, list, or any other model. This is perfect for developers working on third party apps that need data to be in sync.</p>
+<h2>Why We Need ’em</h2>
+<p>There are a number of third party apps that either use Trello as their backend or have Trello integrated as part of a larger product. With our current API set up, third party apps need to constantly poll for updates in order to stay in sync, even if there isn&#8217;t anything new. For some third party apps, that’s a Trello request every few seconds per user they manage.</p>
+<p><img src="http://blog.trello.com/wp-content/uploads/2013/07/webhooks-old.png" alt="webhooks-old" width="443" height="335" class="aligncenter size-full wp-image-1561" /></p>
+<p>As you can imagine, this is super demanding on both Trello and the third-party app’s servers. With webhooks, we monitor specific models like cards and boards and only send an update to the user when somebody performs an action, like moving a card or adding a comment. There&#8217;s no needless polling and our servers can sleep a little more peacefully.</p>
+<p><img src="http://blog.trello.com/wp-content/uploads/2013/07/webhooks-new.png" alt="webhooks-new" width="702" height="304" class="aligncenter size-full wp-image-1562" /></p>
+<h2>Get Started</h2>
+<p>If you want to play around with webhooks, we’ve got a basic how-to in our API documentation which you can read <a href="https://trello.com/docs/gettingstarted/webhooks.html">here</a>. It’s not exactly “plug and play”, but we hope you find it useful once you set it up. Happy developing!</p>
+<p>Got questions about webhooks? Let us know on the <a href="https://trello.com/c/IMVYmVG1/1458-webhooks">webhooks card</a> on our Trello Development Board or ask away on <a href="https://twitter.com/trello">Twitter</a>.</p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+	
+</article><!-- #post-1556 -->
+						<div id="comments">
+	
+	
+			<p class="nocomments">Comments are closed.</p>
+	
+									
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+
+      <aside id="sidebar-pitch" class="widget">
+        <p>
+          <a href="https://trello.com" target="_blank">Trello</a> is a collaboration tool that organizes your projects into boards. 
+          In one glance, Trello tells you what's being worked on, who's working on what, 
+          and where something is in a process.  Made in New York City by <a href="http://www.fogcreek.com/" target="_blank">Fog Creek Software</a>.
+        </p>
+        <ul>
+          <li>
+            <a href="http://blog.trello.com/feed/" target="_blank">
+              <img src="http://blog.trello.com/wp-content/themes/trello/images/rss-icon.gif">
+              Trello Blog RSS feed
+            </a>
+          </li>
+          <li>
+            <a href="https://www.twitter.com/trello" target="_blank">
+              <img src="http://blog.trello.com/wp-content/themes/trello/images/twitter-icon.png">
+              Follow Trello on Twitter
+            </a>
+          </li>
+          <li>
+            <a href="https://www.facebook.com/trelloapp" target="_blank">
+              <img src="http://blog.trello.com/wp-content/uploads/2011/10/facebook_icon.png">
+              Trello on Facebook
+            </a>
+          </li>
+        </ul>
+      </aside>
+
+			                
+				<aside id="search" class="widget">
+          	<form method="get" id="searchform" action="http://blog.trello.com/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search Blog" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+        </aside>
+
+				<aside id="archives" class="widget">
+					<h3 class="widget-title">Archives</h3>
+					<ul>
+							<li><a href='http://blog.trello.com/2013/09/' title='September 2013'>September 2013</a></li>
+	<li><a href='http://blog.trello.com/2013/08/' title='August 2013'>August 2013</a></li>
+	<li><a href='http://blog.trello.com/2013/07/' title='July 2013'>July 2013</a></li>
+	<li><a href='http://blog.trello.com/2013/06/' title='June 2013'>June 2013</a></li>
+	<li><a href='http://blog.trello.com/2013/05/' title='May 2013'>May 2013</a></li>
+	<li><a href='http://blog.trello.com/2013/04/' title='April 2013'>April 2013</a></li>
+	<li><a href='http://blog.trello.com/2013/03/' title='March 2013'>March 2013</a></li>
+	<li><a href='http://blog.trello.com/2013/02/' title='February 2013'>February 2013</a></li>
+	<li><a href='http://blog.trello.com/2013/01/' title='January 2013'>January 2013</a></li>
+	<li><a href='http://blog.trello.com/2012/12/' title='December 2012'>December 2012</a></li>
+	<li><a href='http://blog.trello.com/2012/11/' title='November 2012'>November 2012</a></li>
+	<li><a href='http://blog.trello.com/2012/10/' title='October 2012'>October 2012</a></li>
+	<li><a href='http://blog.trello.com/2012/09/' title='September 2012'>September 2012</a></li>
+	<li><a href='http://blog.trello.com/2012/08/' title='August 2012'>August 2012</a></li>
+	<li><a href='http://blog.trello.com/2012/07/' title='July 2012'>July 2012</a></li>
+	<li><a href='http://blog.trello.com/2012/06/' title='June 2012'>June 2012</a></li>
+	<li><a href='http://blog.trello.com/2012/05/' title='May 2012'>May 2012</a></li>
+	<li><a href='http://blog.trello.com/2012/04/' title='April 2012'>April 2012</a></li>
+	<li><a href='http://blog.trello.com/2012/03/' title='March 2012'>March 2012</a></li>
+	<li><a href='http://blog.trello.com/2012/02/' title='February 2012'>February 2012</a></li>
+	<li><a href='http://blog.trello.com/2012/01/' title='January 2012'>January 2012</a></li>
+	<li><a href='http://blog.trello.com/2011/12/' title='December 2011'>December 2011</a></li>
+	<li><a href='http://blog.trello.com/2011/11/' title='November 2011'>November 2011</a></li>
+	<li><a href='http://blog.trello.com/2011/10/' title='October 2011'>October 2011</a></li>
+	<li><a href='http://blog.trello.com/2011/09/' title='September 2011'>September 2011</a></li>
+	<li><a href='http://blog.trello.com/2011/08/' title='August 2011'>August 2011</a></li>
+					</ul>
+				</aside>
+
+
+			
+      <aside id="fogcreek-widget" class="widget">
+        <p>Made in New York City by</p>
+        <a href="http://www.fogcreek.com" target="_blank">
+          <img title="From Fog Creek Software" src="http://blog.trello.com/wp-content/themes/trello/images/fog_creek_logo.png">
+        </a>
+      </aside>
+
+		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+			<div id="site-generator">
+								&copy; 2013 <a href="http://www.fogcreek.com" target="_blank">Fog Creek Software</a>. Powered by <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator" target="_blank">WordPress</a>. Visit <a href="https://trello.com" target="_blank">Trello.com</a>.
+			</div>
+
+
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- google analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-225715-30']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- /google analytics -->
+
+
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.287 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2013-09-30 08:31:50 -->
+<!-- super cache -->

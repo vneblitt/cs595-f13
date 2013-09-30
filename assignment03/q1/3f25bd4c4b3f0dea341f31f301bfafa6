@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+<link href='//static.petitions.moveon.org/css/bootstrap.css' rel='stylesheet' type='text/css'>
+<link href='/css/signon.css?v=4' rel='stylesheet' type='text/css'>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src ="/js/jquery.tools.min.js"></script>
+
+
+<!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<link rel="shortcut icon" href="//static.petitions.moveon.org/favicon.ico?v=2">
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@moveon">
+<meta name="twitter:title" content="Support rape survivors in Ecuador">
+<meta name="twitter:description" content="I just signed a petition to Rafael Correa, President of Ecuador: I support the removal of criminal penalties for women who seek an abortion and the elimination of all penalties for women and girls who seek abortion as a result of sexual violence."">
+<meta name="twitter:creator" content="@moveon">
+<meta name="twitter:image:src" content="http://static.petitions.moveon.org/images/moveon-petitions-logo-square.png">
+<meta name="twitter:domain" content="petitions.moveon.org">
+
+<meta property="og:title" content="Support rape survivors in Ecuador" />
+<meta property="og:description" content="I just signed a petition to Rafael Correa, President of Ecuador: I support the removal of criminal penalties for women who seek an abortion and the elimination of all penalties for women and girls who seek abortion as a result of sexual violence." />
+<meta property="og:image" content="http://petitions.moveon.org/images/AddYourName_10.gif" />
+<meta property="og:site_name" content="MoveOn Petitions" />
+<meta property="og:type" content="cause" />
+
+<meta property="petition_id" content="49093" />
+<meta property="petition_creation_date" content="20130827" />
+<meta property="petition_issue" content="health_care" />
+<meta property="petition_signature_count" content="1712" />
+
+<meta property="petition_state" content="DC" />
+
+<link rel="image_src" href="http://petitions.moveon.org/images/AddYourName_10.gif" />
+<meta name="description" content="I support the removal of criminal penalties for women who seek an abortion and the elimination of all penalties for women and girls who seek abortion as a result of sexual violence." />
+
+<script src="/javascripts/jquery.mailcheck.js"></script>
+<script src="/javascripts/email_suggestion.js"></script>
+
+
+<script src="/javascripts/jquery.placeholder.min.js"></script>
+<script type="text/javascript">
+$(function() {
+    $('input, textarea').placeholder();
+});
+</script>
+<script type="text/javascript">
+  /** todo -- separate this into a different file if that's where it should go. **/
+
+  function show_embedcode() {
+    $('div.embedcodearea').show();
+    $('div.embedcode .explain').hide();
+    $('.show_embedcode').click(hide_embedcode);
+    return false;
+  }
+
+  function hide_embedcode() {
+    $('div.embedcodearea').hide();
+    $('div.embedcode .explain').show();
+    $('.show_embedcode').click(show_embedcode);
+    return false;
+  }
+
+  $(document).ready( function() {
+
+    $('.hide_embedcode').click(hide_embedcode);
+    $('.show_embedcode').click(show_embedcode);
+
+  });
+
+</script>
+
+
+
+<title>
+MoveOn Petitions - Support rape survivors in Ecuador
+</title>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21173330-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- optimizely project SignOn code -->
+<script src="//cdn.optimizely.com/js/138031368.js"></script> 
+
+</head>
+
+
+
+
+
+<body class="sign">
+<div class="container">
+  <div id="header" class="row">
+    <div class="span6">
+    
+      <a href="http://petitions.moveon.org/"><img src="//static.petitions.moveon.org/images/moveon-petitions-partners-logo.png" width=288 height=53 alt="MoveOn Partner Petitions" id="logo"></a>
+
+    
+    <img class="org_logo" src="http://s3.moveon.org/images/pphh-fb.jpg" alt="Planned Parenthood Action Fund and other related organizations" />
+
+    
+
+    </div>
+    <div class="span4">
+      <div class="row">
+        <div id="topmenu" class="span6">
+          <ul class="nav nav-tabs pull-right">
+            <li><a href="http://petitions.moveon.org/about.html">About</a></li>
+            <li><a href="http://petitions.moveon.org/feedback.html">Feedback</a></li>
+            <li><a href="http://petitions.moveon.org/login/index.html">Login</a></li>
+            <li><a href="https://www.facebook.com/MoveOn"><img src="//static.petitions.moveon.org/images/facebook.png" width="23" height="23" alt="Facebook"/></a></li>
+            <li><a href="https://twitter.com/moveon/"><img src="//static.petitions.moveon.org/images/twitter.png" width="23" height="23" alt="Twitter"/></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+   <div class="span12">
+    <div id="mainmenu">
+        <a href="http://petitions.moveon.org/create_start.html?source=nav">Start a petition</a>
+        <a href="http://petitions.moveon.org/dashboard.html">Manage petitions</a>
+        <a href="http://civ.moveon.org/signon/signonbudgetapplication.html">Apply for Funding</a>
+        <a href="http://petitions.moveon.org/campaign_tips.html">Campaign tips</a>
+        <a href="https://civ.moveon.org/donatec4/signon.html?cpn_id=511">Donate</a>
+        <span></span>
+    </div>
+   </div>
+  </div>
+
+
+<!--page content-->
+
+
+
+
+
+<script type="text/javascript">
+
+function goto_page(p) {
+    var comment_url = '/comments.html?petition_id=49093' +
+                      '&sig_page=' + p + 
+                      '&sig_page_size=10' +
+                      '&max_page=172';
+    
+    $('#pet-signers').load(comment_url,
+        function () { 
+            $('#pet-signers-loading').hide();
+            $('#pet-signers').show();
+        });
+}
+
+
+function doFlagComment(user_id) {
+    // called by flag comment onclick
+    if (confirm('Flag this comment as inappropriate?')) {
+        $("#flag-comment-user-id").val(user_id);
+        $("#flag-comment-form").submit();
+    }
+}
+
+function showMore() {
+    $('#few-targets').hide();
+    $('#all-targets').show();
+}
+
+function t( id ) { //toggle!
+    var el = document.getElementById(id);
+    el.style.display = el.style.display == 'block' ? 'none' : 'block';
+}
+function submitFlag(reason) {
+    $("#flag-petition-form-reason").val(reason);
+    $("#flag-petition-form").submit();
+}
+
+function changed_country() {
+    var country = $('select.country_select').val();
+    if (country == "United States") {
+        $('.region').hide();
+        $('.postal').hide();
+        $('.zip').show();
+        $('.state').show();
+    } else {
+        $('.zip').hide();
+        $('.state').hide();
+        $('.region').show();
+        $('.postal').show();
+    }
+}
+function toggleOrganizationName() {
+    $('input[name=thirdparty_optin][type=checkbox]').click(function() {
+        $('#organization_receive').toggle($(this).attr("checked"))
+    });
+}
+$(function() { 
+    changed_country();
+    EmailSuggestion.init();
+    toggleOrganizationName();
+});
+</script>
+
+
+
+
+
+
+<div class="row">
+
+<div class="span4">
+
+<div class="row">
+<div id="sign-here" class="span4">
+<h2 class="featured">Sign this petition</h2>
+
+<form name="sign_form" id="sign" method="post" action="/sign_petition.html">
+<input type="hidden" name="petition_id" value="49093">
+<input type="hidden" name="source" value="c.url">
+<input type="hidden" name="r_by" value="6140609?src=0827_c3_pptw">
+<input type="hidden" name="mailing_id" value="">
+<input type="hidden" name="fb_test" value="0">
+<input type="hidden" name="test_group" value="">
+<input type="hidden" name="no_mo" value="0">
+<input type="hidden" name="id" value="">
+<input type="hidden" name="recognized_user" id="recognized_user_field" value="0">
+<input type="hidden" name="show_optin_checkbox" value="0">
+
+<input type="hidden" name="token" value="hZfu7Q7gx8sEW2Chc8Q-token-AIEIqh">
+<script type="text/javascript">document.write(String.fromCharCode(338^366, 875^770, 309^347, 443^459, 751^666, 59^79, 418^386, 339^295, 49^72, 559^607, 703^730, 131^190, 396^430, 421^461, 337^312, 514^614, 741^641, 796^889, 397^483, 768^802, 803^771, 83^61, 888^793, 802^847, 677^704, 503^458, 752^722, 967^941, 501^390, 371^300, 852^800, 319^336, 2^105, 629^528, 684^706, 46^12, 677^645, 53^67, 832^801, 301^321, 761^652, 400^501, 1000^981, 415^445, 551^590, 906^946, 268^341, 773^892, 889^819, 735^686, 66^48, 788^877, 310^368, 311^372, 191^242, 447^492, 1020^911, 1019^919, 107^49, 321^373, 7^70, 293^323, 750^681, 948^921, 127^21, 845^830, 754^685, 275^359, 662^761, 206^165, 225^132, 303^321, 745^708, 46^103, 457^507, 659^674, 273^383, 516^625, 635^532, 641^675, 909^947));</script>
+
+
+
+<div class="unrecognized">
+<input type="text" class="span4" name="name" placeholder="Name*"/>
+<input type="text" class="span4" name="email" placeholder="Email*"/>
+<select name=country class='span4 country_select' onchange='changed_country()'>
+<option>United States</option>
+<option>Afghanistan</option>
+<option>Albania</option>
+<option>Algeria</option>
+<option>American Samoa</option>
+<option>Andorra</option>
+<option>Angola</option>
+<option>Anguilla</option>
+<option>Antigua and Barbuda</option>
+<option>Argentina</option>
+<option>Armenia</option>
+<option>Aruba</option>
+<option>Australia</option>
+<option>Austria</option>
+<option>Azerbaijan</option>
+<option>Bahamas</option>
+<option>Bahrain</option>
+<option>Bangladesh</option>
+<option>Barbados</option>
+<option>Belarus</option>
+<option>Belgium</option>
+<option>Belize</option>
+<option>Benin</option>
+<option>Bermuda</option>
+<option>Bhutan</option>
+<option>Bolivia</option>
+<option>Bosnia and Herzegovina</option>
+<option>Botswana</option>
+<option>Brazil</option>
+<option>British Virgin Islands</option>
+<option>Brunei</option>
+<option>Bulgaria</option>
+<option>Burkina Faso</option>
+<option>Burundi</option>
+<option>Cambodia</option>
+<option>Cameroon</option>
+<option>Canada</option>
+<option>Cape Verde</option>
+<option>Cayman Islands</option>
+<option>Central African Republic</option>
+<option>Chad</option>
+<option>Chile</option>
+<option>China</option>
+<option>Colombia</option>
+<option>Comoros</option>
+<option>Congo, DPR</option>
+<option>Congo, PR</option>
+<option>Cook Islands</option>
+<option>Costa Rica</option>
+<option>C&ocirc;te d'Ivoire</option>
+<option>Croatia</option>
+<option>Cuba</option>
+<option>Cyprus</option>
+<option>Czech Republic</option>
+<option>Denmark</option>
+<option>Djibouti</option>
+<option>Dominica</option>
+<option>Dominican Republic</option>
+<option>East Timor</option>
+<option>Ecuador</option>
+<option>Egypt</option>
+<option>El Salvador</option>
+<option>Equatorial Guinea</option>
+<option>Eritrea</option>
+<option>Estonia</option>
+<option>Ethiopia</option>
+<option>Falkland Islands</option>
+<option>Faroe Islands</option>
+<option>Fiji</option>
+<option>Finland</option>
+<option>France</option>
+<option>French Guiana</option>
+<option>French Polynesia</option>
+<option>Gabon</option>
+<option>Gambia</option>
+<option>Georgia</option>
+<option>Germany</option>
+<option>Ghana</option>
+<option>Gibraltar</option>
+<option>Greece</option>
+<option>Greenland</option>
+<option>Grenada</option>
+<option>Guadeloupe</option>
+<option>Guam</option>
+<option>Guatemala</option>
+<option>Guinea</option>
+<option>Guinea-Bissau</option>
+<option>Guyana</option>
+<option>Haiti</option>
+<option>Honduras</option>
+<option>Hong Kong</option>
+<option>Hungary</option>
+<option>Iceland</option>
+<option>India</option>
+<option>Indonesia</option>
+<option>Iran</option>
+<option>Iraq</option>
+<option>Ireland</option>
+<option>Israel</option>
+<option>Italy</option>
+<option>Jamaica</option>
+<option>Japan</option>
+<option>Jordan</option>
+<option>Kazakhstan</option>
+<option>Kenya</option>
+<option>Kiribati</option>
+<option>Kosovo</option>
+<option>Kuwait</option>
+<option>Kyrgistan</option>
+<option>Laos</option>
+<option>Latvia</option>
+<option>Lebanon</option>
+<option>Lesotho</option>
+<option>Liberia</option>
+<option>Libya</option>
+<option>Liechtenstein</option>
+<option>Lithuania</option>
+<option>Luxembourg</option>
+<option>Macau</option>
+<option>Macedonia</option>
+<option>Madagascar</option>
+<option>Malawi</option>
+<option>Malaysia</option>
+<option>Maldives</option>
+<option>Mali</option>
+<option>Malta</option>
+<option>Marshall Islands</option>
+<option>Martinique</option>
+<option>Mauritania</option>
+<option>Mauritius</option>
+<option>Mexico</option>
+<option>Micronesia</option>
+<option>Moldova</option>
+<option>Monaco</option>
+<option>Mongolia</option>
+<option>Montenegro</option>
+<option>Montserrat</option>
+<option>Morocco</option>
+<option>Mozambique</option>
+<option>Myanmar</option>
+<option>Namibia</option>
+<option>Nauru</option>
+<option>Nepal</option>
+<option>Netherlands</option>
+<option>Netherlands Antilles</option>
+<option>New Caledonia</option>
+<option>New Zealand</option>
+<option>Nicaragua</option>
+<option>Niger</option>
+<option>Nigeria</option>
+<option>North Korea</option>
+<option>Northern Mariana Islands</option>
+<option>Norway</option>
+<option>Oman</option>
+<option>Pakistan</option>
+<option>Palau</option>
+<option>Palestine</option>
+<option>Panama</option>
+<option>Papua New Guinea</option>
+<option>Paraguay</option>
+<option>Peru</option>
+<option>Philippines</option>
+<option>Poland</option>
+<option>Portugal</option>
+<option>Puerto Rico</option>
+<option>Qatar</option>
+<option>Reunion</option>
+<option>Romania</option>
+<option>Russia</option>
+<option>Rwanda</option>
+<option>Samoa</option>
+<option>San Marino</option>
+<option>S&atilde;o Tom&eacute; and Principe</option>
+<option>Saudi Arabia</option>
+<option>Senegal</option>
+<option>Serbia</option>
+<option>Seychelles</option>
+<option>Sierra Leone</option>
+<option>Singapore</option>
+<option>Slovakia</option>
+<option>Slovenia</option>
+<option>Solomon Islands</option>
+<option>Somalia</option>
+<option>South Africa</option>
+<option>South Korea</option>
+<option>Spain</option>
+<option>Sri Lanka</option>
+<option>St. Helena</option>
+<option>St. Kitts-Nevis</option>
+<option>St. Lucia</option>
+<option>St. Pierre and Miquelon</option>
+<option>St. Vincent and the Grenadines</option>
+<option>Sudan</option>
+<option>Suriname</option>
+<option>Swaziland</option>
+<option>Sweden</option>
+<option>Switzerland</option>
+<option>Syria</option>
+<option>Taiwan</option>
+<option>Tajikistan</option>
+<option>Tanzania</option>
+<option>Thailand</option>
+<option>Togo</option>
+<option>Tonga</option>
+<option>Trinidad and Tobago</option>
+<option>Tunisia</option>
+<option>Turkey</option>
+<option>Turkmenistan</option>
+<option>Turks and Caicos Islands</option>
+<option>Tuvalu</option>
+<option>Uganda</option>
+<option>Ukraine</option>
+<option>United Arab Emirates</option>
+<option>United Kingdom</option>
+<option>United States</option>
+<option>Uruguay</option>
+<option>US Virgin Islands</option>
+<option>Uzbekistan</option>
+<option>Vanuatu</option>
+<option>Vatican</option>
+<option>Venezuela</option>
+<option>Vietnam</option>
+<option>Wallis and Futuna</option>
+<option>Western Sahara</option>
+<option>Yemen</option>
+<option>Zambia</option>
+<option>Zimbabwe</option>
+</select>
+
+<input type="text" class="span4" name="address1" placeholder="Address"/>
+<input type="text" class="span4" name="address2" placeholder="Address (cont.)"/>
+<input type="text" class="span4" name="city" placeholder="City"/>
+<SELECT NAME="state" ID="state_id"   class='span4 state' >
+      <option value="">State</option>
+      <option value="AL">Alabama</option>
+      <option value="AK">Alaska</option>
+      <option value="AS">American Samoa</option>
+      <option value="AZ">Arizona</option>
+      <option value="AR">Arkansas</option>
+      <option value="CA">California</option>
+      <option value="CO">Colorado</option>
+      <option value="CT">Connecticut</option>
+      <option value="DE">Delaware</option>
+      <option value="DC">District Of Columbia</option>
+      <option value="FL">Florida</option>
+      <option value="FM">Federated States of Micronesia</option>
+      <option value="GA">Georgia</option>
+      <option value="GU">Guam</option>
+      <option value="HI">Hawaii</option>
+      <option value="ID">Idaho</option>
+      <option value="IL">Illinois</option>
+      <option value="IN">Indiana</option>
+      <option value="IA">Iowa</option>
+      <option value="KS">Kansas</option>
+      <option value="KY">Kentucky</option>
+      <option value="LA">Louisiana</option>
+      <option value="ME">Maine</option>
+      <option value="MD">Maryland</option>
+      <option value="MA">Massachusetts</option>
+      <option value="MH">Marshall Islands</option>
+      <option value="MI">Michigan</option>
+      <option value="MN">Minnesota</option>
+      <option value="MS">Mississippi</option>
+      <option value="MO">Missouri</option>
+      <option value="MT">Montana</option>
+      <option value="NE">Nebraska</option>
+      <option value="MP">Northern Mariana Islands</option>
+      <option value="NV">Nevada</option>
+      <option value="NH">New Hampshire</option>
+      <option value="NJ">New Jersey</option>
+      <option value="NM">New Mexico</option>
+      <option value="NY">New York</option>
+      <option value="NC">North Carolina</option>
+      <option value="ND">North Dakota</option>
+      <option value="OH">Ohio</option>
+      <option value="OK">Oklahoma</option>
+      <option value="OR">Oregon</option>
+      <option value="PW">Palau</option>
+      <option value="PA">Pennsylvania</option>
+      <option value="PR">Puerto Rico</option>
+      <option value="RI">Rhode Island</option>
+      <option value="SC">South Carolina</option>
+      <option value="SD">South Dakota</option>
+      <option value="TN">Tennessee</option>
+      <option value="TX">Texas</option>
+      <option value="UT">Utah</option>
+      <option value="VT">Vermont</option>
+      <option value="VA">Virginia</option>
+      <option value="VI">U.S. Virgin Islands</option>
+      <option value="WA">Washington</option>
+      <option value="WV">West Virginia</option>
+      <option value="WI">Wisconsin</option>
+      <option value="WY">Wyoming</option>
+      <option value="AE">Armed Forces Africa</option>
+      <option value="AA">Armed Forces America</option>
+      <option value="AE">Armed Forces Canada</option>
+      <option value="AE">Armed Forces Europe</option>
+      <option value="AE">Armed Forces Middle East</option>
+      <option value="AP">Armed Forces Pacific</option>
+    </SELECT> 
+
+<input type="text" class="span4 region" name="region" placeholder="Region"/>
+<input type="text" class="span4 zip" name="zip" placeholder="ZIP Code*"/>
+<input type="text" class="span4 postal" name="postal" placeholder="Postal"/>
+</div>
+
+<textarea class="span4" rows="3" cols="20" name="comment" placeholder="Comment"></textarea>
+<input type="submit" class="btn btn-danger span4" id="sign-here-button" value="Sign the petition!" />
+
+
+       <input type="hidden" name="thirdparty_optin" value="1">
+       <input type="hidden" name="hidden_optin" value="1">
+     
+<p>
+<small><a href="http://petitions.moveon.org/privacy.html">Privacy policy</a>
+<br/>
+<b>Note:</b> This petition is a project of Planned Parenthood Action Fund and other related organizations and MoveOn.org Civic Action. By signing, you agree to receive email messages from <span id="organization_receive">Planned Parenthood Action Fund and other related organizations, </span>MoveOn Political Action, and MoveOn Civic Action. (You may unsubscribe at any time.) 
+</small>
+</p>
+
+</p>
+
+   </form>
+
+<div class="embedcode" >
+  <a href='#' class="show_embedcode">
+    <small>Embed</small>
+    <p class="explain"><small>Embed this petition on your website or blog.  Click to <strong>get the code</strong>.</small></p>
+  </a>
+  <div class="embedcodearea">
+    <textarea class="span4" rows="6" cols="22">&lt;iframe src="http://petitions.moveon.org/embed/widget.html?v=3&amp;name=support-rape-survivors" class="moveon-petition" id="petition-embed" width="300px" height="500px"&gt;&lt;/iframe&gt;</textarea>
+    <p><small><!--a href="/about_embed.html" target="_blank">[more info]</a--><a href="#" class="hide_embedcode">[hide]</a></small></p>
+  </div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="span7 offset1">
+
+<div class="row">
+<div class="span7">
+<h1 id="petition-title" class="accent">Support rape survivors in Ecuador</h1>
+<p id="by">
+  <strong>By Heather Holdridge</strong>
+  (<a href="/contact_creator.html?petition_id=49093">Contact</a>)</p>
+
+<p id="to-target">To be delivered to:  
+<span id="all-targets" style="">
+Rafael Correa, President of Ecuador</span>
+</p>
+
+<div id="pet-statement-box" class="paper">
+    <div class="pet-statement-header">
+        <span class="header">Petition Statement</span>
+    </div>
+    <div id="pet-statement">I support the removal of criminal penalties for women who seek an abortion and the elimination of all penalties for women and girls who seek abortion as a result of sexual violence.</div>
+</div>
+
+<div id="pet-explain">
+  <h3 class="accent">Petition Background</h3> 
+    
+  <p>
+   Rape survivors in Ecuador deserve access to safe and legal abortion services.<br><br>Despite a president who has demonstrated a commitment to other aspects of women's health, Ecuador's current criminal code allows abortion only for victims of rape with mental disabilities, significantly excluding millions of women in a country where one in four women has been the victim of sexual violence. This policy puts the health and lives of rape victims in danger, and represents an unacceptable departure from international court rulings, as detailed in a new Human Rights Watch report.<br><br>Rape survivors and all women in Ecuador and around the world deserve access to comprehensive health services including abortion if requested. A woman or girl who has suffered the trauma of rape shouldn't have to face the prospect of going to jail if she chooses to get an abortion. It is unacceptable for this or any government to continue to ignore the rights of women.
+  </p>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div id="therm" class="span5">
+<div class="muted">
+There are currently 1,712 signatures
+</div>
+<div class="progress progress-danger">
+  <div class="bar" style="width: 85%;"></div>
+</div>
+<span class="featured pull-right">
+NEW goal - 
+We need 2,000 signatures
+</span>
+</div>
+</div>
+
+
+<div class="row">
+<div class="span5">
+<h3 class="accent">Previous petition signers</h3>
+<div id="pet-signers-loading"><b>Loading...</b></div>
+<div id="pet-signers">
+</div>
+
+<form id="flag-comment-form" action="/flag_comment.html" method="POST">
+<input id="flag-comment-user-id" type="hidden" name="user_id" value=""/>
+</form>
+<script type="text/javascript">
+$(function() { goto_page(1) });
+</script>
+
+
+</div>
+</div>
+
+</div>
+</div>
+
+
+<div class="row">
+<div id="privacy" class="span12"><p><strong>Note</strong>: MoveOn Civic Action does not necessarily endorse the contents of petitions posted on this site. MoveOn Petitions is an open tool that anyone can use to post a petition advocating any point of view, so long as the petition does not violate our <a href="http://petitions.moveon.org/terms.html" target="_blank">terms of service</a>.
+</p></div>
+</div>
+
+
+
+
+<!--end page content-->
+
+
+<div class="row">
+  <div id="footer" class="span12">
+
+    <ul class="nav nav-tabs">
+      <li><a href="http://petitions.moveon.org/create_start.html?source=bottom_nav">Start a petition</a></li>
+      <li class="separator">|</li> 
+      <li><a href="http://petitions.moveon.org/find">Find a petition</a></li>
+      <li class="separator">|</li>
+      <li><a href="http://petitions.moveon.org/help.html">Frequently Asked Questions</a></li>
+      <li class="separator">|</li>
+      <li><a href="http://petitions.moveon.org/victories.html">Victories</a></li>
+      <li class="separator">|</li>
+      <li><a href="http://petitions.moveon.org/feedback.html">Feedback</a></li>
+      <li class="separator">|</li>
+      <li><a href="http://pol.moveon.org/feedback/press/">Media Inquiries</a></li>
+      <li class="separator">|</li>               
+      <li><a href="http://petitions.moveon.org/organizations.html">Organizations</a></li>
+      <li class="separator">|</li>
+      <li><a href="http://petitions.moveon.org/about.html">About</a></li>
+    </ul>
+
+  </div>
+</div>
+
+
+</div><!--container-->
+
+
+
+</body>
+</html>
+

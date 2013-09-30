@@ -1,0 +1,813 @@
+<!doctype html>
+<html lang="en" xmlns:og="http://opengraphprotocol.org/schema/"  xmlns:fb="http://ogp.me/ns/fb#">
+	<head>
+		<script type="text/javascript">
+    <!--
+    /**only pop out if the outside frame is also gazette, this is to make the new GA feature "in-page analytics" work. 20101018, LC**/
+    if ( ( top.location.href.match( /harvard\.edu/i ) || top.location.href.match( /digitalh\.info/i )  ) && (top.location.href != self.location.href ))
+      top.location.href = self.location.href;
+    //-->
+    </script>
+    <!-- Chartbeat -->
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <!-- Exit Chartbeat -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1,minimum-scale=1" />  
+
+    <title>For big questions, a bigger forum |  Harvard Gazette</title>
+	  <link rel="pingback" href="http://news.harvard.edu/gazette/xmlrpc.php" />
+
+    <link rel="shortcut icon" type="image/ico" href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="57x57" href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/appletouch-57.gif" />
+    <link rel="apple-touch-icon" sizes="114x114" href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/appletouch-114.gif" />
+    <link rel="apple-touch-icon" sizes="72x72" href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/appletouch-72.gif" />
+    <link rel="apple-touch-icon" sizes="144x144" href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/appletouch.gif" />
+
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400' type='text/css' media='all' />
+
+    <link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/flexslider.css" rel="stylesheet" media="screen, projection" type="text/css" />
+    <link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/screen.css?v=20130815" rel="stylesheet" media="screen, projection" type="text/css" />
+    <link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/print.css" rel="stylesheet" media="print" type="text/css" />
+    <!--[if lt IE 8]><link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+    <!--[if  IE 8]><link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/ie8.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+    <!--[if  IE 9]><link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/ie9.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+    <script type="text/javascript"><!--
+    document.write('<link href="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css" />');
+    //-->
+    </script>
+
+
+    <meta property="fb:admins" content="593072576,599799799,662979311,613602264"/>
+    <meta property="fb:page_id" content="105930651606" />
+    <meta property="fb:app_id" content="135898969862440" />
+
+	
+	  <meta name="robots" content="index, follow">
+		<meta name="robots" content="all">
+	  
+			<meta name="twitter:site" content="@harvard">
+			<meta name="twitter:creator" content="@harvard">    
+			    
+				<meta name="twitter:card" content="summary">
+				
+			<meta property="og:site_name" content="Harvard Gazette"/>
+			<meta property="og:title" content="For big questions, a bigger forum"/>
+			<meta property="og:type" content="university"/>
+			<meta property="og:url" content="http://news.harvard.edu/gazette/story/2013/09/for-big-questions-a-bigger-forum/"/>
+			<meta property="og:description" content="Coordinated through the Freshman Dean’s Office, the "Reflecting on Your Life" initiative, which invites freshmen to think about meaning and purpose, has received a grant from the Teagle Foundation to broaden the scope of the program. "/>
+      
+			<meta property="og:image" content="http://news.harvard.edu/gazette/wp-content/uploads/2013/09/082013_Teagle_1354_605.jpg"/>
+	
+			<!-- Google News Keywords -->
+			<meta name="news_keywords" content="Class of 2017, FAS, Howard Gardner, Katherine Steele, Richard Light, Teagle Foundation, undergraduate students, “Reflecting on Your Life”, ">
+			<meta name="description" content="Grant to back expansion of ‘Reflecting on Your Life’ initiative  | Coordinated through the Freshman Dean’s Office, the "Reflecting on Your Life" initiative, which invites freshmen to think about meaning and purpose, has received a grant from the Teagle Foundation to broaden the scope of the program. " /> 
+			<meta name="keywords" content="Class of 2017, FAS, Howard Gardner, Katherine Steele, Richard Light, Teagle Foundation, undergraduate students, “Reflecting on Your Life”, " />	
+			
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2923555-11']);
+
+	 _gaq.push(['_setCustomVar',
+		  1,                   // This custom var is set to slot #1.  Required parameter.
+		  'Section',     // The name acts as a kind of category for the user activity.  Required parameter.
+		  'Campus &amp; Community',               // This value of the custom variable.  Required parameter.
+		  3                    // Sets the scope to session-level.  Optional parameter.
+	   ]);
+	 _gaq.push(['_setCustomVar',
+	 	  2,
+		  'Sub-Section', // category of activity
+		  'On Campus', // Value of custom variable
+		  3  // Sets the scope to page-level. Optional parameter
+	   ]);
+	 _gaq.push(['_setCustomVar',
+		  3,
+		  'ContentType',
+		  '',
+		  3  // Sets the scope to page-level.  Optional parameter.
+		 ]);
+  
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	<link rel="alternate" type="application/rss+xml" title="Harvard Gazette &raquo; Feed" href="http://news.harvard.edu/gazette/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Harvard Gazette &raquo; Comments Feed" href="http://news.harvard.edu/gazette/comments/feed/" />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://news.harvard.edu/gazette/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='comment-images-css'  href='http://news.harvard.edu/gazette/wp-content/plugins/comment-images/css/plugin.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='http://news.harvard.edu/gazette/wp-content/plugins/taxonomy-images/style.css?ver=0.7.3' type='text/css' media='screen' />
+<script type='text/javascript' src='http://news.harvard.edu/gazette/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://news.harvard.edu/gazette/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://news.harvard.edu/gazette/wp-content/plugins/comment-images/js/plugin.min.js?ver=3.6'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://news.harvard.edu/gazette/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://news.harvard.edu/gazette/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Hub away from home' href='http://news.harvard.edu/gazette/story/2013/09/hub-away-from-home/' />
+<link rel='next' title='The little old machine that could' href='http://news.harvard.edu/gazette/story/2013/09/the-old-machine-that-could/' />
+<link rel='canonical' href='http://news.harvard.edu/gazette/story/2013/09/for-big-questions-a-bigger-forum/' />
+<link rel='shortlink' href='http://news.harvard.edu/gazette/?p=145904' />
+<!-- Wordpress Popular Posts v2.3.2 -->
+<script type="text/javascript">
+    /* <![CDATA[ */				
+	jQuery.post('http://news.harvard.edu/gazette/wp-admin/admin-ajax.php', {action: 'wpp_update', token: 'a482e346bb', id: 145904}, function(data){/*alert(data);*/});
+    /* ]]> */
+</script>
+<!-- End Wordpress Popular Posts v2.3.2 -->
+            <!--
+	generated in 0.500 seconds
+	73171 bytes batcached for 300 seconds
+-->
+</head>
+<body class="single single-post postid-145904 single-format-standard">
+
+<div id="outer-wrap">
+
+  <p class="move"><a class="skip" href="#skip">Skip to main content</a></p>
+  <div class="sticky">
+    <div id="topbar">
+
+      <a class="nav-btn" id="nav-open-btn">Menu</a>
+      <a class="nav-btn" id="nav-close-btn">Menu</a>
+      <a class="nav-btn" id="nav-gz-home" href="/gazette"  onclick="_gaq.push(['_trackEvent','gazette_home','top_bar','home']);">Home</a>
+
+      <div class="searchform-wrapper">
+        <!-- START: searchform.php -->
+        <form role="search" method="get" id="searchform" action="/gazette/">
+          <label class="hide" for="s">Search for:</label>
+            <input type="text" value="" name="s" id="s" placeholder="Search">
+            <input type="submit" id="searchsubmit" value="Search" class="postfix button">
+        </form>
+        <!-- END: searchform.php -->
+      </div>
+      
+      <div class="menu-wrapper">
+        <div class="menu-utility-menu-container"><ul id="menu-utility-menu" class="utility-menu"><li id="menu-item-136820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136820"><a href="http://www.harvard.edu" onclick="_gaq.push(['_trackEvent','nav_utility_right','nav_link','http://www.harvard.edu']);">harvard.edu</a></li>
+<li id="menu-item-136943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136943"><a href="http://news.harvard.edu/gazette/photo-multimedia-services/" onclick="_gaq.push(['_trackEvent','nav_utility_right','nav_link','http://news.harvard.edu/gazette/photo-multimedia-services/']);">Photographic Services</a></li>
+<li id="menu-item-136944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136944"><a href="http://news.harvard.edu/gazette/for-journalists/" onclick="_gaq.push(['_trackEvent','nav_utility_right','nav_link','http://news.harvard.edu/gazette/for-journalists/']);">Resources for Journalists</a></li>
+<li id="menu-item-136819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136819"><a href="http://news.harvard.edu/gazette/hpac/" onclick="_gaq.push(['_trackEvent','nav_utility_right','nav_link','http://news.harvard.edu/gazette/hpac/']);">HPAC</a></li>
+</ul></div>      </div>
+
+    </div><!--/#topbar-->
+  </div><!--/.sticky-->
+  
+        
+  <div class="wrap" id="inner-wrap">
+  
+    <div id="logo">
+      <a href="http://news.harvard.edu/gazette" onClick="_gaq.push(['_trackEvent','gazette_home','logo','home']);"><img src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/gazette-logo.png" alt="Harvard Gazette" width="369" height="50"></a>
+          </div><!--/#logo-->
+  
+    <div class="secondary" id="nav">
+      <div id="scrollbar1">
+        <div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+          <div class="viewport">
+              <div class="overview">
+
+        <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-136822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136822"><a href="http://news.harvard.edu/gazette/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/']);">Home</a></li>
+<li id="menu-item-136827" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-136827"><a href="http://news.harvard.edu/gazette/section/campus-n-community/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/']);">Campus &#038; Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-136828" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136828"><a href="http://news.harvard.edu/gazette/section/campus-n-community/awards/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/awards/']);">Awards</a></li>
+	<li id="menu-item-136917" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136917"><a href="http://news.harvard.edu/gazette/section/campus-n-community/commencement-campus-n-community/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/commencement-campus-n-community/']);">Commencement</a></li>
+	<li id="menu-item-136918" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136918"><a href="http://news.harvard.edu/gazette/section/campus-n-community/faculty_/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/faculty_/']);">Faculty</a></li>
+	<li id="menu-item-142735" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142735"><a href="http://news.harvard.edu/gazette/section/campus-n-community/news/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/news/']);">Harvard News</a></li>
+	<li id="menu-item-136919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136919"><a href="http://news.harvard.edu/gazette/section/campus-n-community/harvard-traditions/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/harvard-traditions/']);">Harvard Traditions</a></li>
+	<li id="menu-item-136920" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136920"><a href="http://news.harvard.edu/gazette/section/campus-n-community/in-the-community/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/in-the-community/']);">In the Community</a></li>
+	<li id="menu-item-136921" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136921"><a href="http://news.harvard.edu/gazette/section/campus-n-community/news-by-school/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/news-by-school/']);">News by School</a></li>
+	<li id="menu-item-136922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136922"><a href="http://news.harvard.edu/gazette/section/campus-n-community/obits/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/obits/']);">Obituaries</a></li>
+	<li id="menu-item-136923" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-136923"><a href="http://news.harvard.edu/gazette/section/campus-n-community/on-campus/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/on-campus/']);">On Campus</a></li>
+	<li id="menu-item-136924" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136924"><a href="http://news.harvard.edu/gazette/section/campus-n-community/staff-n-administration/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/campus-n-community/staff-n-administration/']);">Staff &#038; Administration</a></li>
+	<li id="menu-item-142903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142903"><a href="http://news.harvard.edu/gazette/staff-news/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/staff-news/']);">Staff News</a></li>
+</ul>
+</li>
+<li id="menu-item-136823" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136823"><a href="http://news.harvard.edu/gazette/section/arts-n-culture/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/arts-n-culture/']);">Arts &#038; Culture</a>
+<ul class="sub-menu">
+	<li id="menu-item-136824" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136824"><a href="http://news.harvard.edu/gazette/section/arts-n-culture/art-n-photography/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/arts-n-culture/art-n-photography/']);">Art &#038; Photography</a></li>
+	<li id="menu-item-136925" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136925"><a href="http://news.harvard.edu/gazette/section/arts-n-culture/harvard-bound-reviews/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/arts-n-culture/harvard-bound-reviews/']);">Harvard Bound</a></li>
+	<li id="menu-item-136926" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136926"><a href="http://news.harvard.edu/gazette/section/arts-n-culture/history-language-n-culture/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/arts-n-culture/history-language-n-culture/']);">History, Language &#038; Culture</a></li>
+	<li id="menu-item-136927" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136927"><a href="http://news.harvard.edu/gazette/section/arts-n-culture/literature-n-poetry/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/arts-n-culture/literature-n-poetry/']);">Literature &#038; Poetry</a></li>
+	<li id="menu-item-136928" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136928"><a href="http://news.harvard.edu/gazette/section/arts-n-culture/music/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/arts-n-culture/music/']);">Music</a></li>
+</ul>
+</li>
+<li id="menu-item-136829" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136829"><a href="http://news.harvard.edu/gazette/section/science-n-health/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/science-n-health/']);">Science &#038; Health</a>
+<ul class="sub-menu">
+	<li id="menu-item-136830" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136830"><a href="http://news.harvard.edu/gazette/section/science-n-health/culture-n-society/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/science-n-health/culture-n-society/']);">Culture &#038; Society</a></li>
+	<li id="menu-item-136929" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136929"><a href="http://news.harvard.edu/gazette/section/science-n-health/technology/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/science-n-health/technology/']);">Engineering &#038; Technology</a></li>
+	<li id="menu-item-136930" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136930"><a href="http://news.harvard.edu/gazette/section/science-n-health/environment/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/science-n-health/environment/']);">Environments &#038; Sustainability</a></li>
+	<li id="menu-item-136931" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136931"><a href="http://news.harvard.edu/gazette/section/science-n-health/health-n-medicine/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/science-n-health/health-n-medicine/']);">Health &#038; Medicine</a></li>
+	<li id="menu-item-136932" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136932"><a href="http://news.harvard.edu/gazette/section/science-n-health/life-sciences/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/science-n-health/life-sciences/']);">Life Sciences</a></li>
+</ul>
+</li>
+<li id="menu-item-136831" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136831"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/']);">National &#038; World Affairs</a>
+<ul class="sub-menu">
+	<li id="menu-item-136832" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136832"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/business-business-world-affairs/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/business-business-world-affairs/']);">Business</a></li>
+	<li id="menu-item-136933" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136933"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/economics/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/economics/']);">Economics</a></li>
+	<li id="menu-item-136934" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136934"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/education/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/education/']);">Education</a></li>
+	<li id="menu-item-136935" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136935"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/government-n-politics/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/government-n-politics/']);">Government &#038; Politics</a></li>
+	<li id="menu-item-136936" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136936"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/international-national-n-world-affairs/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/international-national-n-world-affairs/']);">International</a></li>
+	<li id="menu-item-136937" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136937"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/law/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/law/']);">Law</a></li>
+	<li id="menu-item-136938" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136938"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/national/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/national/']);">National</a></li>
+	<li id="menu-item-136939" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136939"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/public-service-national-n-world-affairs/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/public-service-national-n-world-affairs/']);">Public Service</a></li>
+	<li id="menu-item-136940" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136940"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/religion/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/national-n-world-affairs/religion/']);">Religion</a></li>
+</ul>
+</li>
+<li id="menu-item-136825" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136825"><a href="http://news.harvard.edu/gazette/section/athletics/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/athletics/']);">Athletics</a>
+<ul class="sub-menu">
+	<li id="menu-item-136826" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136826"><a href="http://news.harvard.edu/gazette/section/athletics/all-teams/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/athletics/all-teams/']);">All Teams</a></li>
+	<li id="menu-item-136941" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136941"><a href="http://news.harvard.edu/gazette/section/athletics/awards-sports/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/athletics/awards-sports/']);">Awards</a></li>
+	<li id="menu-item-136942" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136942"><a href="http://news.harvard.edu/gazette/section/athletics/gamesevents/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/section/athletics/gamesevents/']);">Games/Events</a></li>
+</ul>
+</li>
+<li id="menu-item-142538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142538"><a href="http://news.harvard.edu/gazette/harvard-events/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/harvard-events/']);">Harvard Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-142541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142541"><a href="http://news.harvard.edu/gazette/harvard-events/events-calendar/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/harvard-events/events-calendar/']);">Events Calendar</a></li>
+	<li id="menu-item-142539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142539"><a href="http://news.harvard.edu/gazette/harvard-events/studies-calendar/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/harvard-events/studies-calendar/']);">Studies Calendar</a></li>
+	<li id="menu-item-142540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142540"><a href="http://news.harvard.edu/gazette/harvard-events/ongoing-events/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/harvard-events/ongoing-events/']);">Ongoing Events</a></li>
+</ul>
+</li>
+<li id="menu-item-136911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136911"><a href="http://news.harvard.edu/gazette/gazette-topics/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','http://news.harvard.edu/gazette/gazette-topics/']);">Gazette Topics</a>
+<ul class="sub-menu">
+	<li id="menu-item-142542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142542"><a href="/gazette/story/topic/commencement-2013/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','/gazette/story/topic/commencement-2013/']);">Commencement 2013</a></li>
+	<li id="menu-item-142543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142543"><a href="/gazette/story/topic/asia/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','/gazette/story/topic/asia/']);">Global Harvard: Asia</a></li>
+	<li id="menu-item-145221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-145221"><a href="/gazette/story/topic/global-harvard-latin-america/" onclick="_gaq.push(['_trackEvent','nav_main','nav_link','/gazette/story/topic/global-harvard-latin-america/']);">Global Harvard: Latin America</a></li>
+</ul>
+</li>
+</ul></div>        
+        <div class="daily-gazette">
+          <h3>
+          <img src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/mail_white_retina.png" width="28" alt="subscribe" />
+          Subscribe to the <br />Daily Gazette</h3>
+									
+          <form action="http://www.pages01.net/harvard/gazette" method="get">
+          <input type="text"  name="email" class="required email" id="mce-EMAIL" value="Your email address" size=25 onFocus="if (this.value=='Your email address') this.value='';" onBlur="if (this.value=='') this.value='Your email address'" />
+          <input type="submit" value="Subscribe" class="btn btn-subscribe" id="email-subscribe-submit"  onclick="_gaq.push(['_trackEvent','email_signup','left_side','Subscribe to email']);" title="Subscribe to Gazette email" />
+          </form>
+        </div><!--/.daily-gazette-->	
+	
+        <div class="utility-menu-wrapper">
+          <div class="menu-utility-menu-container"><ul id="menu-utility-menu-1" class="utility-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136820"><a href="http://www.harvard.edu" onclick="_gaq.push(['_trackEvent','nav_utility_left','nav_link','http://www.harvard.edu']);">harvard.edu</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136943"><a href="http://news.harvard.edu/gazette/photo-multimedia-services/" onclick="_gaq.push(['_trackEvent','nav_utility_left','nav_link','http://news.harvard.edu/gazette/photo-multimedia-services/']);">Photographic Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136944"><a href="http://news.harvard.edu/gazette/for-journalists/" onclick="_gaq.push(['_trackEvent','nav_utility_left','nav_link','http://news.harvard.edu/gazette/for-journalists/']);">Resources for Journalists</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136819"><a href="http://news.harvard.edu/gazette/hpac/" onclick="_gaq.push(['_trackEvent','nav_utility_left','nav_link','http://news.harvard.edu/gazette/hpac/']);">HPAC</a></li>
+</ul></div>        </div>
+    
+        <div class="harvard-social">
+          
+          Find Harvard on:
+          <p>
+          <a href="http://facebook.com/harvard" title="Facebook" onClick="_gaq.push(['_trackEvent','social_find_harvard','left_side','facebook']);">Facebook</a>
+           | <a href="http://twitter.com/harvard" title="Twitter" onClick="_gaq.push(['_trackEvent','social_find_harvard','left_side','twitter']);">Twitter</a>
+           | <a href="http://www.linkedin.com/edu/school?id=18483" title="LinkedIn" onClick="_gaq.push(['_trackEvent','social_find_harvard','left_side','linkedin']);">LinkedIn</a>
+           <br /><a href="https://plus.google.com/107511988236393178296?prsrc=3" title="Google Plus" onClick="_gaq.push(['_trackEvent','social_find_harvard','left_side','googleplus']);">Google Plus</a>
+           | <a href="http://www.youtube.com/harvard" title="YouTube" onClick="_gaq.push(['_trackEvent','social_find_harvard','left_side','youtube']);">YouTube</a>
+           | <a href="http://itunes.harvard.edu" title="iTunes U" onClick="_gaq.push(['_trackEvent','social_find_harvard','left_side','itune_U']);">iTunes U</a>
+          </p>
+
+        </div><!--/.harvard-social-->
+    
+        <div id="footer">
+          <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="footer-menu"><li id="menu-item-147182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147182"><a href="http://news.harvard.edu/gazette/about-harvard-gazette/" onclick="_gaq.push(['_trackEvent','nav_footer','nav_link','http://news.harvard.edu/gazette/about-harvard-gazette/']);">About</a> | </li>
+<li id="menu-item-136821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136821"><a href="http://news.harvard.edu/gazette/contact-us/" onclick="_gaq.push(['_trackEvent','nav_footer','nav_link','http://news.harvard.edu/gazette/contact-us/']);">Contact Us</a> | </li>
+<li id="menu-item-145476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-145476"><a href="http://www.harvard.edu/privacy-statement" onclick="_gaq.push(['_trackEvent','nav_footer','nav_link','http://www.harvard.edu/privacy-statement']);">Privacy</a> | </li>
+<li id="menu-item-136913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136913"><a href="http://news.harvard.edu/gazette/rss-feeds/" onclick="_gaq.push(['_trackEvent','nav_footer','nav_link','http://news.harvard.edu/gazette/rss-feeds/']);">RSS</a> | </li>
+<li id="menu-item-136916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136916"><a href="http://www.trademark.harvard.edu/trademark_protection/notice.php" onclick="_gaq.push(['_trackEvent','nav_footer','nav_link','http://www.trademark.harvard.edu/trademark_protection/notice.php']);">Trademark</a> | </li>
+<li id="menu-item-136914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136914"><a href="http://news.harvard.edu/gazette/print-gazette-archives/" onclick="_gaq.push(['_trackEvent','nav_footer','nav_link','http://news.harvard.edu/gazette/print-gazette-archives/']);">Print Gazette Archives</a> | </li>
+</ul></div>
+          <div class="copyright">
+            &copy; 2013 The President and Fellows of Harvard College
+          </div>          
+
+        </div><!--/#footer-->
+        
+        <div id="harvard-logo">
+          <a href="http://www.harvard.edu" onClick="_gaq.push(['_trackEvent','link','img','harvard.edu']);"><img src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/harvard-logo-2x.png" width="228"></a>
+        </div>
+
+              </div>
+          </div>
+      </div>    
+      
+    </div><!--/.secondary-->
+  
+    <div class="primary" id="skip">
+  <div id="sticky-filter" class="story-share">
+			<div class="title">For big questions, a bigger forum</div>
+      <div class="share-icons">
+            
+	          <span><a class="email addthis_button_email" target="_blank" href="http://www.addthis.com/bookmark.php" title="Email" onclick="_gaq.push(['_trackSocial','addthis','email','http://news.harvard.edu/gazette/story/2013/09/for-big-questions-a-bigger-forum/']);">Email</a></span>
+            <span><a class="googleplus" target="_blank" href="https://plus.google.com/share?url=news.harvard.edu%2F%2Fgazette%2Fstory%2F2013%2F09%2Ffor-big-questions-a-bigger-forum%2F%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Dsocialflow" title="Google Plus" onclick="_gaq.push(['_trackSocial','googleplus','share','http://news.harvard.edu/gazette/story/2013/09/for-big-questions-a-bigger-forum/']);">Google Plus</a></span>
+            <span><a class="linkedin" target="_blank" href="http://linkedin.com/shareArticle?mini=true&url=news.harvard.edu%2F%2Fgazette%2Fstory%2F2013%2F09%2Ffor-big-questions-a-bigger-forum%2F%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Dsocialflow&title=For+big+questions%2C+a+bigger+forum&summary=Coordinated+through+the+Freshman+Dean%E2%80%99s+Office%2C+the+%22Reflecting+on+Your+Life%22+initiative%2C+which+invites+freshmen+to+think+about+meaning+and+purpose%2C+has+received+a+grant+from+the+Teagle+Foundation+to+broaden+the+scope+of+the+program.+" title="LinkedIn" onclick="_gaq.push(['_trackSocial','linkedin','share','http://news.harvard.edu/gazette/story/2013/09/for-big-questions-a-bigger-forum/']);">LinkedIn</a></span>
+            <span><a class="twitter" target="_blank" href="https://twitter.com/intent/tweet?text=For+big+questions%2C+a+bigger+forum&url=http://hvrd.me/15dkLMC&via=harvard" title="Twitter" onclick="_gaq.push(['_trackSocial','twitter','tweet','http://news.harvard.edu/gazette/story/2013/09/for-big-questions-a-bigger-forum/']);">Twitter</a></span>
+            <span><a class="facebook" target="_blank" href="https://www.facebook.com/sharer.php?s=100&p[title]=For+big+questions%2C+a+bigger+forum&p[url]=http://news.harvard.edu%2F%2Fgazette%2Fstory%2F2013%2F09%2Ffor-big-questions-a-bigger-forum%2F%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Dsocialflow&p[summary]=Coordinated+through+the+Freshman+Dean%E2%80%99s+Office%2C+the+%22Reflecting+on+Your+Life%22+initiative%2C+which+invites+freshmen+to+think+about+meaning+and+purpose%2C+has+received+a+grant+from+the+Teagle+Foundation+to+broaden+the+scope+of+the+program.+&p[images][0]=http%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fwp-content%2Fuploads%2F2013%2F09%2F082013_Teagle_1333_140.jpg" title="Facebook" onclick="_gaq.push(['_trackSocial','facebook','share','http://news.harvard.edu/gazette/story/2013/09/for-big-questions-a-bigger-forum/']);">Facebook</a></span>
+      </div>
+	</div>
+
+    <div class="content full-width-top feature-photo-top">
+      			<div class="top-wrapper feature-top">
+        <div class="article-head">
+          <div class="breadcrumb category Campus &amp; Community">
+            <a class="category-name campus" onclick="_gaq.push(['_trackEvent','breadcrumb','category','http://news.harvard.edu/gazette/section/campus-n-community/']);" href="http://news.harvard.edu/gazette/section/campus-n-community/" title="View all posts in Campus &amp; Community" rel="category tag">Campus &amp; Community</a> &nbsp;>&nbsp; <a onclick="_gaq.push(['_trackEvent','breadcrumb','sub_category','http://news.harvard.edu/gazette/section/campus-n-community/on-campus/']);" href="http://news.harvard.edu/gazette/section/campus-n-community/on-campus/" title="View all posts in On Campus" rel="category tag">On Campus</a>          </div>
+  
+          <h2>For big questions, a bigger forum</h2>
+          <h3>Grant to back expansion of ‘Reflecting on Your Life’ initiative </h3>
+          
+          <div class="meta">
+            September 5, 2013          </div><!--/.meta-->
+        </div><!--/.article-head -->  
+				
+				        <div class="article-feature">
+          <img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/09/082013_Teagle_1354_605.jpg" alt="605" class="feature-photo" />        </div><!--/.article-feature -->
+                      
+        <div class="article-feature-caption tablet">
+          <p class="photo-credit">Rose Lincoln/Harvard Staff Photographer</p>
+                    <p>The "Reflecting on Your Life" initiative, which invites freshmen to think about meaning and purpose, is staffed by faculty members Howard Gardner (far left) and Richard Light (far right). They are joined by Katherine Steele, project manager and director for freshman programming, and Dean of Freshmen Thomas A. Dingman.
+</p>
+                  </div><!--/.article-feature-caption-->
+        			</div><!--/.top-wrapper-->
+
+      <div class="main">
+        <div class="article-byline">
+          By Jennifer Doody, Harvard Correspondent        </div>
+        
+        <div class="article-body">
+          <p><span class="initial-cap">O</span>ne of the most challenging and lauded programs at Harvard isn’t part of the academic course curriculum.</p>
+<p>Coordinated through the Freshman Dean’s Office, the &#8220;<a href="http://www.fdo.fas.harvard.edu/icb/icb.do?keyword=k3806&amp;pageid=icb.page176314">Reflecting on Your Life&#8221;</a> initiative invites freshmen to think about meaning and purpose. Featuring facilitators from across the University, the program typically meets for three sessions, at the beginning of second semester.</p>
+<p>The sessions fulfill no academic requirements, and yet, year after year, freshmen show up for three consecutive weeks to participate in small-group programming that delves deeply into their values, leading to conversations with peers that sometimes reveal gaps between thought and action.</p>
+<p>“The program gives students time to stop and think about what really matters to them,” said <a href="http://www.fdo.fas.harvard.edu/icb/icb.do?keyword=k3806&amp;pageid=icb.page29073&amp;pageContentId=icb.pagecontent66854&amp;view=view.do&amp;viewParam_name=KatieBio.html#a_icb_pagecontent66854">Katherine Steele</a>, project manager and director for freshman programming, such as “what their values are and how those values shape the decisions that they make — from what’s important to them to how they spend their time, and even who they spend their life with.”</p>
+<p>Now, a grant from the <a href="http://www.teaglefoundation.org/">Teagle Foundation</a> is broadening the scope of the program, making it possible for Harvard to share it with colleges and universities interested in launching similar initiatives. The grant will also enable collaborations on best practices and programs to help students to consider the big questions: meaning, value, and purpose.</p>
+<p>After <a href="http://www.gse.harvard.edu/directory/faculty/faculty-detail/?fc=158&amp;flt=l&amp;sub=all">Richard Light,</a> the Carl H. Pforzheimer Jr. Professor of Teaching and Learning, learned about the Teagle Foundation’s initiative to advance civic and moral education on college campuses, Steele worked with Dean of Freshmen Thomas A. Dingman to submit a proposal to help develop programs for the “civic and moral education of today’s college students.”</p>
+<p>The grant will sponsor the effort for three years, helping leaders at Harvard and elsewhere understand the impact of the various ways universities encourage dialogue about personal values and citizenship. But most importantly, Steele said, the grant should help promote programs that allow students to figure out how they want to live.</p>
+<p>“How do you affect moral growth? How does someone really solidify what they stand for? It’s about developing a stronger sense of who they are, and what they stand for. It’s about drawing the lines between what’s important to you and how you’re spending your time &#8230; and if the connections between those two things are missing, what can or should you do about it?”</p>
+<p>“Reflecting on Your Life” began at Harvard as a result of the in-depth, one-on-one interviews that Light conducted each year with students about to graduate. One answer was especially provocative, that of the student who told Light that Harvard had “forgotten to offer the most important course of all” — namely, how to think about living his life.</p>
+<p>“It was a revelation to realize that we were missing out on such a key and fundamental question,” Light said. “It’s often covered in an academic sense, but not necessarily from a personal, real-life point of view. What does it mean to live a happy, or useful, life? What about living a productive life? Are those concepts inherently different? If they are, which one do you choose?”</p>
+<p>Light approached <a href="http://howardgardner.com/">Howard Gardner</a>, the John H. and Elisabeth A. Hobbs Professor of Cognition and Education, for his perspective. Gardner, whose research has often focused on professional ethics, said that the discussion mirrored a trend he had observed among students over the years.</p>
+<p>“I’d become concerned about something I’d observed from our best and brightest,” Gardner said. “They wanted to do the right thing, but they felt like the most important thing was to be successful. So if they had to cut some corners in order to accomplish that, they felt like they needed to do so. The metaphor I like to use is that the ethical muscle was very thin.”</p>
+<p>For the past six years, according to both individual testimony and a formal evaluation, alumni of the program have left it feeling that they have a better understanding of themselves, their goals, and their values.</p>
+<p>“In the 19th century, one of the reasons you went to college was to think about values, purpose, and deep spiritual values — which was completely expunged in the 20th century,” Gardner said. Although the secularization of universities was positive in many ways, he said, a void was left.</p>
+<p>“Some students fill this with religion, science, or a strong familial unit, but for many students in today’s fast-changing world — particularly those new to college, and especially those attending a high-pressure institution, such as Harvard — they need, and deserve, our guidance and our help.”</p>
+<p>For Steele, the grant will provide an opportunity for students across a range of Schools to pause and take the time to ask themselves the hard questions.</p>
+<p>“Harvard students are so busy and so focused, but we’ve found that students really benefit from posing these challenging questions,” she said. “When we create an opportunity for them to do that, and have a structure where they can pose these questions, it can have a really profound effect.”</p>
+		<div class="next-story">
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/the-old-machine-that-could/"  onclick="_gaq.push(['_trackEvent','next','img','http://news.harvard.edu/gazette/story/2013/09/the-old-machine-that-could/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/07/Arboretum_slicer140.jpg" alt="The little old machine that could" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon science"><a href="http://news.harvard.edu/gazette/section/science-n-health/">View all posts in Science &amp; Health</a></div>
+		<div class="story-info">
+		  <div class="header">Next:</div>
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/the-old-machine-that-could/"  onclick="_gaq.push(['_trackEvent','next','title','http://news.harvard.edu/gazette/story/2013/09/the-old-machine-that-could/']);">The little old machine that could</a></h3>
+			<div class="date">
+			<span class="byline">By Alvin Powell, Harvard Staff Writer <span class="divider">|</span> </span>September 5, 2013
+			</div>
+
+		</div><!--/.story-info-->
+		<div class="arrow"><a href="http://news.harvard.edu/gazette/story/2013/09/the-old-machine-that-could/"  onclick="_gaq.push(['_trackEvent','next','arrow','http://news.harvard.edu/gazette/story/2013/09/the-old-machine-that-could/']);">&gt;</a></div>
+	</div><!--/.story-block-->    
+		
+		</div><!--/.next-story-->
+<div id="comments" class="comments-area">
+
+	
+	
+	
+</div><!-- #comments .comments-area -->        </div><!-- /article-body -->
+    
+      </div><!--/.main-->
+
+            <div class="article-feature-caption hide-on-tablet">
+        <p class="photo-credit">Rose Lincoln/Harvard Staff Photographer</p>
+	      				<p>The "Reflecting on Your Life" initiative, which invites freshmen to think about meaning and purpose, is staffed by faculty members Howard Gardner (far left) and Richard Light (far right). They are joined by Katherine Steele, project manager and director for freshman programming, and Dean of Freshmen Thomas A. Dingman.
+</p>
+			        </div><!--/.article-feature-caption-->
+        
+    
+			
+      <div class="sub">
+        <div class="sidebar-block story-share">
+          <div class="option-icons">
+            
+	          <span><a class="email addthis_button_email" target="_blank" href="http://www.addthis.com/bookmark.php" title="Email" onclick="_gaq.push(['_trackSocial','addthis','email','http://news.harvard.edu/gazette/story/2013/09/for-big-questions-a-bigger-forum/']);">Email</a></span>
+            <span><a class="googleplus" target="_blank" href="https://plus.google.com/share?url=news.harvard.edu%2F%2Fgazette%2Fstory%2F2013%2F09%2Ffor-big-questions-a-bigger-forum%2F%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Dsocialflow" title="Google Plus" onclick="_gaq.push(['_trackSocial','googleplus','share','http://news.harvard.edu/gazette/story/2013/09/for-big-questions-a-bigger-forum/']);">Google Plus</a></span>
+            <span><a class="linkedin" target="_blank" href="http://linkedin.com/shareArticle?mini=true&url=news.harvard.edu%2F%2Fgazette%2Fstory%2F2013%2F09%2Ffor-big-questions-a-bigger-forum%2F%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Dsocialflow&title=For+big+questions%2C+a+bigger+forum&summary=Coordinated+through+the+Freshman+Dean%E2%80%99s+Office%2C+the+%22Reflecting+on+Your+Life%22+initiative%2C+which+invites+freshmen+to+think+about+meaning+and+purpose%2C+has+received+a+grant+from+the+Teagle+Foundation+to+broaden+the+scope+of+the+program.+" title="LinkedIn" onclick="_gaq.push(['_trackSocial','linkedin','share','http://news.harvard.edu/gazette/story/2013/09/for-big-questions-a-bigger-forum/']);">LinkedIn</a></span>
+            <span><a class="twitter" target="_blank" href="https://twitter.com/intent/tweet?text=For+big+questions%2C+a+bigger+forum&url=http://hvrd.me/15dkLMC&via=harvard" title="Twitter" onclick="_gaq.push(['_trackSocial','twitter','tweet','http://news.harvard.edu/gazette/story/2013/09/for-big-questions-a-bigger-forum/']);">Twitter</a></span>
+            <span><a class="facebook" target="_blank" href="https://www.facebook.com/sharer.php?s=100&p[title]=For+big+questions%2C+a+bigger+forum&p[url]=http://news.harvard.edu%2F%2Fgazette%2Fstory%2F2013%2F09%2Ffor-big-questions-a-bigger-forum%2F%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Dsocialflow&p[summary]=Coordinated+through+the+Freshman+Dean%E2%80%99s+Office%2C+the+%22Reflecting+on+Your+Life%22+initiative%2C+which+invites+freshmen+to+think+about+meaning+and+purpose%2C+has+received+a+grant+from+the+Teagle+Foundation+to+broaden+the+scope+of+the+program.+&p[images][0]=http%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fwp-content%2Fuploads%2F2013%2F09%2F082013_Teagle_1333_140.jpg" title="Facebook" onclick="_gaq.push(['_trackSocial','facebook','share','http://news.harvard.edu/gazette/story/2013/09/for-big-questions-a-bigger-forum/']);">Facebook</a></span>
+          </div>
+        </div><!--/.sidebar-block-->
+
+                        
+         
+
+        <div class="sidebar-block">
+          <h3 class="header popular"><a href="/gazette/sort_by/popular/" onclick="_gaq.push(['_trackEvent','sidebar_popular','title','/gazette/sort_by/popular/']);">Popular</a></h3>
+            <div class="story-list">
+                
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/dawn-of-a-revolution/"  onclick="_gaq.push(['_trackEvent','story_popular','img','http://news.harvard.edu/gazette/story/2013/09/dawn-of-a-revolution/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/09/090913_Gates_Archives_009_1401.jpg" alt="Dawn of a revolution" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon science"><a href="http://news.harvard.edu/gazette/section/science-n-health/">View all posts in Science &amp; Health</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/dawn-of-a-revolution/"  onclick="_gaq.push(['_trackEvent','story_popular','title','http://news.harvard.edu/gazette/story/2013/09/dawn-of-a-revolution/']);">Dawn of a revolution</a></h3>
+			<div class="date">
+			<span class="byline">By Walter Isaacson ’74 <span class="divider">|</span> </span>September 20, 2013 | 
+		        <span class="label editorpick">Editor's Pick</span>
+		        <span class="label popular">Popular</span>
+			</div>
+			<p class="abstract">When Bill Gates came to Harvard as a student, he was known for his myriad interests and unconventional study habits. And then there was his endless fascination with computers, Walter Isaacson writes. </p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/harvard-kicks-off-fundraising-effort/"  onclick="_gaq.push(['_trackEvent','story_popular','img','http://news.harvard.edu/gazette/story/2013/09/harvard-kicks-off-fundraising-effort/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/09/092113_Campaign_JC_0244_140.jpg" alt="Harvard kicks off fundraising effort" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon campus"><a href="http://news.harvard.edu/gazette/section/campus-n-community/">View all posts in Campus &amp; Community</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/harvard-kicks-off-fundraising-effort/"  onclick="_gaq.push(['_trackEvent','story_popular','title','http://news.harvard.edu/gazette/story/2013/09/harvard-kicks-off-fundraising-effort/']);">Harvard kicks off fundraising effort</a></h3>
+			<div class="date">
+			<span class="byline">By Alvin Powell, Harvard Staff Writer <span class="divider">|</span> </span>September 21, 2013 | 
+		        <span class="label editorpick">Editor's Pick</span>
+		        <span class="label popular">Popular</span>
+			</div>
+			<p class="abstract">Harvard University kicked off the public phase of a $6.5 billion fundraising campaign today, designed to benefit key priorities during constrained financial times. If successful, it would be the largest ever in higher education. 
+</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/a-professorship-and-a-macarthur/"  onclick="_gaq.push(['_trackEvent','story_popular','img','http://news.harvard.edu/gazette/story/2013/09/a-professorship-and-a-macarthur/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/09/vijay-iyer-JimmyKatzSoloStreet2011-2_140.jpg" alt="A professorship and a MacArthur" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon campus"><a href="http://news.harvard.edu/gazette/section/campus-n-community/">View all posts in Campus &amp; Community</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/a-professorship-and-a-macarthur/"  onclick="_gaq.push(['_trackEvent','story_popular','title','http://news.harvard.edu/gazette/story/2013/09/a-professorship-and-a-macarthur/']);">A professorship and a MacArthur</a></h3>
+			<div class="date">
+			<span class="byline">By Peter Reuell, Harvard Staff Writer <span class="divider">|</span> </span>September 25, 2013 | 
+		        <span class="label editorpick">Editor's Pick</span>
+		        <span class="label video">Audio/Video</span>
+		        <span class="label popular">Popular</span>
+			</div>
+			<p class="abstract">Jazz musician and composer Vijay Iyer, who won a MacArthur Foundation grant, in January will become the first Franklin D. and Florence Rosenblatt Professor of the Arts in Harvard’s Department of Music.</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/a-higher-plane/"  onclick="_gaq.push(['_trackEvent','story_popular','img','http://news.harvard.edu/gazette/story/2013/09/a-higher-plane/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/09/082213_Dillon_1756_140.jpg" alt="A higher plane" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon science"><a href="http://news.harvard.edu/gazette/section/science-n-health/">View all posts in Science &amp; Health</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/a-higher-plane/"  onclick="_gaq.push(['_trackEvent','story_popular','title','http://news.harvard.edu/gazette/story/2013/09/a-higher-plane/']);">A higher plane</a></h3>
+			<div class="date">
+			<span class="byline">By Peter Reuell, Harvard Staff Writer <span class="divider">|</span> </span>September 20, 2013 | 
+		        <span class="label popular">Popular</span>
+			</div>
+			<p class="abstract">Research by scientists in Elizabeth Spelke’s lab suggests our innate understanding of abstract geometry has origins in the evolutionary past. 
+
+</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/the-watchword-is-innovation/"  onclick="_gaq.push(['_trackEvent','story_popular','img','http://news.harvard.edu/gazette/story/2013/09/the-watchword-is-innovation/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/09/090913_Chia_068_140.jpg" alt="The watchword is innovation" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon science"><a href="http://news.harvard.edu/gazette/section/science-n-health/">View all posts in Science &amp; Health</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/the-watchword-is-innovation/"  onclick="_gaq.push(['_trackEvent','story_popular','title','http://news.harvard.edu/gazette/story/2013/09/the-watchword-is-innovation/']);">The watchword is innovation</a></h3>
+			<div class="date">
+			<span class="byline">By Corydon Ireland, Harvard Staff Writer <span class="divider">|</span> </span>September 25, 2013 | 
+		        <span class="label editorpick">Editor's Pick</span>
+		        <span class="label popular">Popular</span>
+			</div>
+			<p class="abstract">Innovation, whether it’s large, small, solo, or institutional, is an increasingly important part of Harvard, a university working to maintain its clearly defined sense of self and at the same time evolve to meet future needs.
+</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/09/malala-yousafzai-is-humanitarian-of-the-year/"  onclick="_gaq.push(['_trackEvent','story_popular','img','http://news.harvard.edu/gazette/story/2013/09/malala-yousafzai-is-humanitarian-of-the-year/']);"><img src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/i/HWPI_Avatar.jpg" alt="Malala Yousafzai is Harvard Humanitarian of the year" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon campus"><a href="http://news.harvard.edu/gazette/section/campus-n-community/">View all posts in Campus &amp; Community</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/09/malala-yousafzai-is-humanitarian-of-the-year/"  onclick="_gaq.push(['_trackEvent','story_popular','title','http://news.harvard.edu/gazette/story/2013/09/malala-yousafzai-is-humanitarian-of-the-year/']);">Malala Yousafzai is Harvard Humanitarian of the year</a></h3>
+			<div class="date">
+			<span class="byline"></span>September 19, 2013 | 
+		        <span class="label popular">Popular</span>
+			</div>
+			<p class="abstract">Malala Yousafzai, the 16 year-old Pakistani girl who was shot on Oct. 9, 2012, in an assassination attempt for expressing her philosophy of gender equality in education and who famously said, “I want every girl, every child, to be educated,” will receive the 2013 Peter J. Gomes Humanitarian Award.</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		            
+            </div><!--/.story-list-->
+        </div><!--/.sidebar-block-->
+
+                <div class="sidebar-block">
+          <h3 class="header related">Related</h3>
+            <div class="story-list">
+                
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2013/05/subversive-education/"  onclick="_gaq.push(['_trackEvent','story_related','img','http://news.harvard.edu/gazette/story/2013/05/subversive-education/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2013/05/050113_Oppressed_150_140.jpg" alt="Subversive education" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon national"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/">View all posts in National &amp; World Affairs</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2013/05/subversive-education/"  onclick="_gaq.push(['_trackEvent','story_related','title','http://news.harvard.edu/gazette/story/2013/05/subversive-education/']);">Subversive education</a></h3>
+			<div class="date">
+			<span class="byline">By Chuck Leddy, Harvard Correspondent <span class="divider">|</span> </span>May 2, 2013 | 
+		        <span class="label editorpick">Editor's Pick</span>
+			</div>
+			<p class="abstract">Noam Chomsky on Wednesday joined Bruno della Chiesa, a visiting lecturer at the Harvard Graduate School of Education, in an Askwith Forum covering the legacy of the radical Brazilian educator Paulo Freire (1921-1997) and his 1968 book, “Pedagogy of the Oppressed.” </p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2011/12/truth-beauty-goodness-2/"  onclick="_gaq.push(['_trackEvent','story_related','img','http://news.harvard.edu/gazette/story/2011/12/truth-beauty-goodness-2/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2011/12/Gardner_140_Main.jpg" alt="How to teach students about truth" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon national"><a href="http://news.harvard.edu/gazette/section/national-n-world-affairs/">View all posts in National &amp; World Affairs</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2011/12/truth-beauty-goodness-2/"  onclick="_gaq.push(['_trackEvent','story_related','title','http://news.harvard.edu/gazette/story/2011/12/truth-beauty-goodness-2/']);">How to teach students about truth</a></h3>
+			<div class="date">
+			<span class="byline">By Colleen Walsh, Harvard Staff Writer <span class="divider">|</span> </span>December 2, 2011 | 
+		        <span class="label editorpick">Editor's Pick</span>
+			</div>
+			<p class="abstract">Professor Howard Gardner explored how to teach students the primal concepts of truth, beauty, and goodness during a lecture based on his newest book.</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://news.harvard.edu/gazette/story/2012/10/learning-experience-for-parents/"  onclick="_gaq.push(['_trackEvent','story_related','img','http://news.harvard.edu/gazette/story/2012/10/learning-experience-for-parents/']);"><img src="http://news.harvard.edu/gazette/wp-content/uploads/2012/10/101212_PARENTSWEEKEND_SE_071_140.jpg" alt="Learning experience for parents" /></a>
+		</div><!--/.story-photo-->
+		
+		<div class="cat-icon campus"><a href="http://news.harvard.edu/gazette/section/campus-n-community/">View all posts in Campus &amp; Community</a></div>
+		<div class="story-info">
+			<h3><a href="http://news.harvard.edu/gazette/story/2012/10/learning-experience-for-parents/"  onclick="_gaq.push(['_trackEvent','story_related','title','http://news.harvard.edu/gazette/story/2012/10/learning-experience-for-parents/']);">Learning experience for parents</a></h3>
+			<div class="date">
+			<span class="byline">By Jennifer Doody, Harvard Correspondent <span class="divider">|</span> </span>October 17, 2012 | 
+		        <span class="label editorpick">Editor's Pick</span>
+			</div>
+			<p class="abstract">Freshman Parents Weekend, Oct. 12-13, offered parents another view of college life and the challenges their children face. “Freshmen feel like they really change during these first few months at college,” said Anya Bernstein Bassett, director of undergraduate studies.</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		            
+            </div><!--/.story-list-->
+        </div><!--/.sidebar-block-->
+        
+        <div class="sidebar-block">
+          <h3 class="header events"><a href="/gazette/harvard-events/" onclick="_gaq.push(['_trackEvent','sidebar_events','title','/gazette/harvard-events/']);">Upcoming Events</a></h3>
+            <div class="story-list">
+								
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://seas.harvard.edu/cooking"  onclick="_gaq.push(['_trackEvent','story_events','img','http://seas.harvard.edu/cooking']);"><img src="http://www.trumba.com/i/DgC3eBT1gP-Ta0PFJxxr8tlI.jpg" alt="Science &amp; Cooking: Diffusion and Spherification" /></a>
+		</div><!--/.story-photo-->
+		
+		
+		<div class="story-info">
+			<h3><a href="http://seas.harvard.edu/cooking"  onclick="_gaq.push(['_trackEvent','story_events','title','http://seas.harvard.edu/cooking']);">Science &amp; Cooking: Diffusion and Spherification</a></h3>
+			<div class="date">
+			<span class="byline"></span>September 30, 2013
+			</div>
+			<p class="abstract">Science Center Hall C</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://hcl.harvard.edu/hfa/films/2013julsep/italian.html#divo"  onclick="_gaq.push(['_trackEvent','story_events','img','http://hcl.harvard.edu/hfa/films/2013julsep/italian.html#divo']);"><img src="http://www.trumba.com/i/DgAfTMz1CjMFbED%2A9InT8Nom.jpg" alt="Il Divo" /></a>
+		</div><!--/.story-photo-->
+		
+		
+		<div class="story-info">
+			<h3><a href="http://hcl.harvard.edu/hfa/films/2013julsep/italian.html#divo"  onclick="_gaq.push(['_trackEvent','story_events','title','http://hcl.harvard.edu/hfa/films/2013julsep/italian.html#divo']);">Il Divo</a></h3>
+			<div class="date">
+			<span class="byline"></span>September 30, 2013
+			</div>
+			<p class="abstract">Harvard Film Archive</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://www.hmnh.harvard.edu/lectures_and_special_events/index.php"  onclick="_gaq.push(['_trackEvent','story_events','img','http://www.hmnh.harvard.edu/lectures_and_special_events/index.php']);"><img src="http://www.trumba.com/i/DgBwVaihWDSUJA3OQwVugNL6.jpg" alt="Himalaya: Biodiversity, People, and Global Change" /></a>
+		</div><!--/.story-photo-->
+		
+		
+		<div class="story-info">
+			<h3><a href="http://www.hmnh.harvard.edu/lectures_and_special_events/index.php"  onclick="_gaq.push(['_trackEvent','story_events','title','http://www.hmnh.harvard.edu/lectures_and_special_events/index.php']);">Himalaya: Biodiversity, People, and Global Change</a></h3>
+			<div class="date">
+			<span class="byline"></span>October 1, 2013
+			</div>
+			<p class="abstract">The Sackler Museum, 485 Broadway Street, Lecture Hall B029</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://www.leftonpearl.org/"  onclick="_gaq.push(['_trackEvent','story_events','img','http://www.leftonpearl.org/']);"><img src="http://www.trumba.com/i/DgCfTchXeIeKrx80Lo9Svx9N.jpg" alt="Documentary Film Screening: Left on Pearl" /></a>
+		</div><!--/.story-photo-->
+		
+		
+		<div class="story-info">
+			<h3><a href="http://www.leftonpearl.org/"  onclick="_gaq.push(['_trackEvent','story_events','title','http://www.leftonpearl.org/']);">Documentary Film Screening: Left on Pearl</a></h3>
+			<div class="date">
+			<span class="byline"></span>October 1, 2013
+			</div>
+			<p class="abstract">CGIS S-020, 1730 Cambridge St, Cambridge</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://www.dining.harvard.edu/flp/ag_market.html"  onclick="_gaq.push(['_trackEvent','story_events','img','http://www.dining.harvard.edu/flp/ag_market.html']);"><img src="http://www.trumba.com/i/DgDKZ1q01HoNLpYbjEYnswHK.jpg" alt="Farmers&#039; Market at Harvard" /></a>
+		</div><!--/.story-photo-->
+		
+		
+		<div class="story-info">
+			<h3><a href="http://www.dining.harvard.edu/flp/ag_market.html"  onclick="_gaq.push(['_trackEvent','story_events','title','http://www.dining.harvard.edu/flp/ag_market.html']);">Farmers&#039; Market at Harvard</a></h3>
+			<div class="date">
+			<span class="byline"></span>October 1, 2013
+			</div>
+			<p class="abstract">Science Center Plaza</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		
+	<div class="story-block clearfix ">
+		<div class="story-photo">
+			<a href="http://www.theexpertshow.com/"  onclick="_gaq.push(['_trackEvent','story_events','img','http://www.theexpertshow.com/']);"><img src="http://www.trumba.com/i/DgDBFZyX9E9ZWsuWpqUJItrA.png" alt="You&#039;re the Expert" /></a>
+		</div><!--/.story-photo-->
+		
+		
+		<div class="story-info">
+			<h3><a href="http://www.theexpertshow.com/"  onclick="_gaq.push(['_trackEvent','story_events','title','http://www.theexpertshow.com/']);">You&#039;re the Expert</a></h3>
+			<div class="date">
+			<span class="byline"></span>October 1, 2013
+			</div>
+			<p class="abstract">OBERON, 2 Arrow Street, Cambridge, MA 02139</p>
+
+		</div><!--/.story-info-->
+		
+	</div><!--/.story-block-->    
+		            
+            
+                <div class="story-more">
+                    <a href="/gazette/harvard-events/" onclick="_gaq.push(['_trackEvent','sidebar_events','btn_more','/gazette/harvard-events/']);">More &raquo;</a><a name="filters"></a>
+                </div><!--/.story-more-->
+            </div><!--/.story-list-->
+        </div><!--/.sidebar-block-->
+
+         
+
+      </div><!--/.sub-->
+
+    </div><!--/.content-->
+
+ 
+<!-- ADD THIS Email with GA tracking-->
+<script type="text/javascript">
+   var addthis_config = {
+      data_ga_property: 'UA-2923555-11',
+      data_ga_social: true
+   };
+	 //var addthis_share = { email_template: "AAD" }
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-518bb0df0f273852"></script>
+<!-- end of add this reference -->
+
+    </div><!--/.primary-->
+  
+  </div><!--/.wrap-->
+
+</div><!--/#outer-wrap-->
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery ||  document.write(unescape("%3Cscript src='http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/j/jquery-1.9.1.min.js' type='text/javascript'%3E%3C/script%3E"))</script>
+<script src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/j/jquery.flexslider.js"></script>
+<script src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/j/jquery.tinyscrollbar.js?v=20130528"></script>
+<script src="http://news.harvard.edu/gazette/wp-content/themes/gazette20/a/j/functions.js?v=20130709"></script>
+
+<script>
+
+$(window).scroll(function(){
+
+	if ( getInternetExplorerVersion() != 8 ) {
+		var $totalHeight = $('.sticky').outerHeight() + $('#logo').outerHeight() + $('.top-wrapper').outerHeight() + $('.feature-photo-side .article-feature').outerHeight() +  $('.article-feature-caption').outerHeight() + 10;
+
+		var scroll_top = $(window).scrollTop();      
+
+		if (scroll_top <= $totalHeight) {      
+		$('#sticky-filter').hide();
+		} 
+		if (scroll_top > $totalHeight) {
+		$('#sticky-filter').show();
+		} 
+	}
+});
+
+</script>
+
+<script>
+var prev_width = $(window).width();
+var prev_height = $(window).height();
+
+window.onresize = function(event) {
+	var w_width = $(window).width();
+	
+	if ( ( w_width>1242 && prev_width<=1242 ) || ( w_width<=1242 && prev_width>1242 ) ) {
+		if ( ( w_width>1242 && prev_width<=1242 ) ) {
+			$('#nav-open-btn').hide();
+			$('#nav-close-btn').hide();
+			$('#nav-open-btn').removeAttr('style');
+			$('#nav-close-btn').removeAttr('style');
+		}
+		prev_width = w_width;
+	}
+	
+	var w_height = $(window).height();
+	if ( w_height != prev_height ) {
+		if ( use_tinyscroller() ) {
+		$('#scrollbar1').tinyscrollbar({invertscroll: true});
+		}
+		else {
+			set_scroller_height();
+		}
+	}
+}
+
+</script>
+<!-- new chartbeat code, put in March 2, 2013 -->
+<script type="text/javascript">
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 2327;
+_sf_async_config.domain = "news.harvard.edu"; 
+_sf_async_config.sections = "Campus &amp; Community, On Campus";
+			_sf_async_config.authors = "Jennifer Doody"; 	
+		
+/** CONFIGURATION END **/
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement("script");
+    e.setAttribute("language", "javascript");
+    e.setAttribute("type", "text/javascript");
+    e.setAttribute("src",
+       (("https:" == document.location.protocol) ?
+         "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" :
+         "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != "function") ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+<!-- end chartbeat code -->
+</body>
+</html>

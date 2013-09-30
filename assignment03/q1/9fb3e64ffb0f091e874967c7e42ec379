@@ -1,0 +1,2237 @@
+	
+
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ --> 
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+<head>
+
+<meta name="viewport" content="width=1103" />
+<title> Harvard</title>
+
+<link rel="stylesheet" href="http://cdn87.psbin.com/info/boilerplate.css" type="text/css" />
+
+<link rel="stylesheet" href="/css/styles.css" type="text/css" />
+
+<script src="http://cdn87.psbin.com/info/jquery.js"></script>
+<script src="http://cdn87.psbin.com/info/modernizr.js"></script>
+
+<script src="/scrollable.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15873612-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- rum header -->
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+<style type="text/css">
+#composite-calendar {
+  background: #FFF;
+  color: #000;
+  text-align: center;
+}
+
+#composite-calendar  table {
+  border-collapse: collapse;
+}
+
+#composite-calendar td {
+  border: 1px solid #333;
+  vertical-align: top;
+  height: 65px;
+}
+
+#composite-calendar td a {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+#composite-calendar td a:hover {
+  text-decoration: underline;
+}
+
+#composite-calendar .calendar-nav td {
+  font-weight: bold;
+  height: 24px;
+  line-height: 24px;
+}
+
+#composite-calendar .calendar-days td {
+  background-color: #333;
+  font-weight: bold;
+  color: #FFF;
+  height: 18px;
+  line-height: 18px;
+}
+
+#composite-calendar .calendar-date {
+  float: left;
+  color: #FFF;
+  background: #505050;
+  width: 15px;
+}
+
+#composite-calendar .calendar-event {
+  font-size: 10px;
+  padding: 5px 0;
+  min-height: 65px;
+}
+
+#composite-calendar hr {
+  margin: 0;
+}
+</style>
+</head>
+<body>
+
+
+
+
+<div id="shadow">
+
+<div id="page" class="internal-page">
+
+<div id="wrapper" class="clearfix">
+
+<header id="website-header">
+<div class="header-background">
+<div class="container">
+
+<h1 id="home-link"><a href="/">$webstie.profile.siteName</a></h1>
+
+<a href="http://twitter.com/#!/harvardcrimson" id="twitter-link">@HarvardCrimson</a>
+
+<a href="http://www.harvard.edu" id="edu-link">Harvard Edu</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<nav id="nav" class="dropnav" role="navigation">
+<h2 style="display:none">Navigation</h2>
+<ul class="clearfix">
+          <li class="nav nav1 has-submenu">
+      <a href="#submenu1" class="nav-link">Sports</a>
+      <div id="submenu1" class="submenu level1 clearfix">
+        
+
+
+
+
+
+<ul class="clearfix">
+
+
+      <li class="has-submenu">
+      <a href="/navbar-men">Men's Sports</a>
+      <div id="submenu1-1" class="submenu level2 clearfix">
+        
+
+
+
+
+
+<ul class="clearfix">
+
+
+      <li><a href="/sports/bsb/index" >Baseball</a></li>
+  
+  
+
+      <li><a href="/sports/mbkb/index" >Basketball</a></li>
+  
+  
+
+      <li><a href="/sports/mcrew-hw/index" >Heavyweight Crew</a></li>
+  
+  
+
+      <li><a href="/sports/mcrew-lw/index" >Lightweight Crew</a></li>
+  
+  
+
+      <li><a href="/sports/xc/index" >Cross Country</a></li>
+  
+  
+
+      <li><a href="/sports/mfencing/index" >Fencing</a></li>
+  
+  
+
+      <li><a href="/sports/fball/index" >Football</a></li>
+  
+  
+
+      <li><a href="/sports/mgolf/index" >Golf</a></li>
+  
+  
+
+      <li><a href="/sports/mice/index" >Ice Hockey</a></li>
+  
+  
+
+      <li><a href="/sports/mlax/index" >Lacrosse</a></li>
+  
+  
+
+      <li><a href="/sports/sailing/index" >Sailing</a></li>
+  
+      </ul><ul class="clearfix">
+  
+
+      <li><a href="/sports/skiing/index" >Skiing</a></li>
+  
+  
+
+      <li><a href="/sports/msoc/index" >Soccer</a></li>
+  
+  
+
+      <li><a href="/sports/msquash/index" >Squash</a></li>
+  
+  
+
+      <li><a href="/sports/mswimdive/index" >Swimming & Diving</a></li>
+  
+  
+
+      <li><a href="/sports/mten/index" >Tennis</a></li>
+  
+  
+
+      <li><a href="/sports/track/index" >Track & Field</a></li>
+  
+  
+
+      <li><a href="/sports/mvball/index" >Volleyball</a></li>
+  
+  
+
+      <li><a href="/sports/mwaterpolo/index" >Water Polo</a></li>
+  
+  
+
+      <li><a href="/sports/wrest/index" >Wrestling</a></li>
+  
+  
+
+
+</ul>
+
+ 
+
+ 
+      </div>
+    </li>
+  
+  
+
+      <li class="has-submenu">
+      <a href="/navbar-women">Women's Sports</a>
+      <div id="submenu1-2" class="submenu level2 clearfix">
+        
+
+
+
+
+
+<ul class="clearfix">
+
+
+      <li><a href="/sports/wbkb/index" >Basketball</a></li>
+  
+  
+
+      <li><a href="/sports/wcrew-hw/index" >Heavyweight Crew</a></li>
+  
+  
+
+      <li><a href="/sports/wcrew-lw/index" >Lightweight Crew</a></li>
+  
+  
+
+      <li><a href="/sports/xc/index" >Cross Country</a></li>
+  
+  
+
+      <li><a href="/sports/wfencing/index" >Fencing</a></li>
+  
+  
+
+      <li><a href="/sports/fh/index" >Field Hockey</a></li>
+  
+  
+
+      <li><a href="/sports/wgolf/index" >Golf</a></li>
+  
+  
+
+      <li><a href="/sports/wice/index" >Ice Hockey</a></li>
+  
+  
+
+      <li><a href="/sports/wlax/index" >Lacrosse</a></li>
+  
+  
+
+      <li><a href="/sports/wrugby/index" >Rugby</a></li>
+  
+  
+
+      <li><a href="/sports/sailing/index" >Sailing</a></li>
+  
+      </ul><ul class="clearfix">
+  
+
+      <li><a href="/sports/skiing/index" >Skiing</a></li>
+  
+  
+
+      <li><a href="/sports/wsoc/index" >Soccer</a></li>
+  
+  
+
+      <li><a href="/sports/sball/index" >Softball</a></li>
+  
+  
+
+      <li><a href="/sports/wsquash/index" >Squash</a></li>
+  
+  
+
+      <li><a href="/sports/wswimdive/index" >Swimming &amp; Diving</a></li>
+  
+  
+
+      <li><a href="/sports/wten/index" >Tennis</a></li>
+  
+  
+
+      <li><a href="/sports/track/index" >Track &amp; Field</a></li>
+  
+  
+
+      <li><a href="/sports/wvball/index" >Volleyball</a></li>
+  
+  
+
+      <li><a href="/sports/wwaterpolo/index" >Water Polo</a></li>
+  
+  
+
+
+</ul>
+
+ 
+
+ 
+      </div>
+    </li>
+  
+  
+
+
+</ul>
+
+ 
+
+ 
+
+    		    				
+      </div>
+    </li>
+              <li class="nav nav2 has-submenu">
+      <a href="#submenu2" class="nav-link">Inside Athletics</a>
+      <div id="submenu2" class="submenu level1 clearfix">
+        
+
+
+
+
+
+<ul class="clearfix">
+
+
+      <li><a href="/information/Athletic_Communications/Athletic_Communications" >Athletic Communications</a></li>
+  
+  
+
+      <li><a href="/information/camps/index" >Camp Information</a></li>
+  
+  
+
+      <li><a href="/information/captains/index" >Captains at Harvard</a></li>
+  
+  
+
+      <li><a href="/information/compliance/index" >Compliance</a></li>
+  
+  
+
+      <li><a href="/information/crimson_community/Crimson_Cares" >Crimson Cares</a></li>
+  
+  
+
+      <li><a href="/directions/index" >Directions</a></li>
+  
+  
+
+      <li><a href="/information/employment/index" >Employment</a></li>
+  
+  
+
+      <li><a href="/information/life_skills/index" >Life Skills</a></li>
+  
+  
+
+      <li><a href="http://www.gocrimson.com/information/mediacenter/mediacenter" >Media Center</a></li>
+  
+  
+
+      <li><a href="/mission_statement" >Mission Statement</a></li>
+  
+  
+
+      <li><a href="http://www.replayphotos.com/harvardphotostore/" target="_blank">Photography</a></li>
+  
+      </ul><ul class="clearfix">
+  
+
+      <li><a href="/information/support/sponsors" >Sponsors</a></li>
+  
+  
+
+      <li><a href="/information/sports_medicine/index" >Sports Medicine</a></li>
+  
+  
+
+      <li><a href="http://aapex.harvard.edu/" target="_blank">Sport Psychology</a></li>
+  
+  
+
+      <li><a href="http://www.gocrimson.com/information/support/index" >Support Athletics</a></li>
+  
+  
+
+      <li><a href="/information/directory/index" >Staff Directory</a></li>
+  
+  
+
+      <li><a href="/information/strength_conditioning/index" >Strength &amp; Conditioning</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com" target="_blank">Tickets</a></li>
+  
+  
+
+      <li><a href="/information/visiting_team_guide_2011-12.pdf" >Visiting Team Guide</a></li>
+  
+  
+
+      <li><a href="http://harvardcrimsonblogs.blogspot.com/" target="_blank">Crimson Blogs</a></li>
+  
+  
+
+      <li><a href="/information/recruiting/parents" >Parents Central</a></li>
+  
+  
+
+
+</ul>
+
+ 
+
+ 
+
+    		    				
+      </div>
+    </li>
+              <li class="nav nav3 has-submenu">
+      <a href="#submenu3" class="nav-link">Facilities</a>
+      <div id="submenu3" class="submenu level1 clearfix">
+        
+
+
+
+
+
+<ul class="clearfix">
+
+
+      <li><a href="/information/facilities/index" >Facilities Home</a></li>
+  
+  
+
+      <li><a href="https://admin-apps.fas.harvard.edu/athletics_event_request/external/wizard/instructions/show.do?refresh=true" target="_blank">Facility Rental Request Form</a></li>
+  
+  
+
+      <li><a href="http://www.gocrimson.com/information/facilities/facility_map" >Athletics Campus Map</a></li>
+  
+  
+
+      <li><a href="http://map.harvard.edu/" target="_blank">Cambridge Campus Map</a></li>
+  
+  
+
+      <li><a href="/sports/mten/facilities/beren" >Beren Tennis Center</a></li>
+  
+  
+
+      <li><a href="/sports/mswimdive/facility" >Blodgett Pool</a></li>
+  
+  
+
+      <li><a href="/sports/mice/facility" >Bright Hockey Center</a></li>
+  
+  
+
+      <li><a href="/information/facilities/dillon_fieldhouse" >Dillon Fieldhouse</a></li>
+  
+  
+
+      <li><a href="/sports/track/facility/gordon" >Gordon Indoor Track</a></li>
+  
+  
+
+      <li><a href="http://www.gocrimson.com/information/facilities/hall_of_history" >Hall of History</a></li>
+  
+  
+
+      <li><a href="/information/facilities/harvardstadium" >Harvard Stadium</a></li>
+  
+      </ul><ul class="clearfix">
+  
+
+      <li><a href="http://recreation.gocrimson.com/recreation/facilities/Hemenway" target="_blank">Hemenway Gymnasium (Law School)</a></li>
+  
+  
+
+      <li><a href="/sports/fh/2009-10/facility" >Jordan Field</a></li>
+  
+  
+
+      <li><a href="/sports/mbkb/facilities/lavieties" >Lavietes Pavilion</a></li>
+  
+  
+
+      <li><a href="/information/facilities/malkin" >Malkin Athletic Center</a></li>
+  
+  
+
+      <li><a href="/sports/track/facility/mccurdy" >McCurdy Outdoor Track</a></li>
+  
+  
+
+      <li><a href="/sports/mten/facilities/murr" >Murr Center</a></li>
+  
+  
+
+      <li><a href="/sports/mcrew-hw/facility" >Newell Boathouse</a></li>
+  
+  
+
+      <li><a href="/sports/bsb/facility" >O'Donnell Field</a></li>
+  
+  
+
+      <li><a href="/sports/msoc/facilities/ofield" >Ohiri Field</a></li>
+  
+  
+
+      <li><a href="/information/facilities/palmerdixon" >Palmer Dixon Strength &amp; Conditioning Center</a></li>
+  
+  
+
+      <li><a href="http://recreation.gocrimson.com/recreation/facilities/qrac" target="_blank">Quadrangle Recreational Athletic Center (QRAC)</a></li>
+  
+      </ul><ul class="clearfix">
+  
+
+      <li><a href="http://recreation.gocrimson.com/recreation/facilities/Sailing_Center" target="_blank">Sailing Center</a></li>
+  
+  
+
+      <li><a href="/sports/sball/facility" >Soldiers Field</a></li>
+  
+  
+
+      <li><a href="http://gocrimson.com/sports/wsoc/facilities/soldiers_field_soccer_stadium" >Soldiers Field Soccer/Lacrosse Stadium</a></li>
+  
+  
+
+      <li><a href="/sports/wcrew-lw/facility" >Weld Boathouse</a></li>
+  
+  
+
+
+</ul>
+
+ 
+
+ 
+
+    		    				
+      </div>
+    </li>
+              <li class="nav nav4 has-submenu">
+      <a href="#submenu4" class="nav-link">For Fans</a>
+      <div id="submenu4" class="submenu level1 clearfix">
+        
+
+
+
+
+
+<ul class="clearfix">
+
+
+      <li><a href="http://www.gocrimson.com/information/fanzone/gameday" >Gameday Information</a></li>
+  
+  
+
+      <li><a href="http://www.gocrimson.com/landing/promotions" >Promotional Schedule</a></li>
+  
+  
+
+      <li><a href="http://www.gocrimson.com/information/fanzone/rewards" >Student Rewards</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=5DCB3181-B8F3-4A71-B0B2-E117F5C8C38D&sessionlanguage=" target="_blank">Reserved Tailgating</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=88DF9D7C-0540-41A1-8855-446076EA7836&sessionlanguage=&menu_id=DB36DB42-0CCD-4DC3-BA54-4FEB46B9CFF1" target="_blank">Parking &amp; Directions</a></li>
+  
+  
+
+      <li><a href="https://admin-apps.fas.harvard.edu/athletics_event_request/external/wizard/instructions/show.do?refresh=true&menu_id=DB36DB42-0CCD-4DC3-BA54-4FEB46B9CFF1" target="_blank">Rental Requests</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=ED8EDC09-7171-447D-8C12-E577B6B618F7&sessionlanguage=&menu_id=A9D05DCB-087F-484C-9D6E-28BEC9384762" target="_blank">Crimson Kids Club</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=506BB156-F504-44BC-BA2D-C8D632F156FA&sessionlanguage=&menu_id=A9D05DCB-087F-484C-9D6E-28BEC9384762" target="_blank">Youth Team Opportunities</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=DB36C7F9-EC83-4C7D-AA4D-AFAFFFDFC9F1&sessionlanguage=" target="_blank">Birthday Parties</a></li>
+  
+  
+
+      <li><a href="http://www.harvardathletics.skorfanshop.com/" target="_blank">Harvard Gear Shop</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/calendar.asp?menu_id=ADAF0156-F0BB-4A1D-A226-E684338C9170" target="_blank">Calendar</a></li>
+  
+      </ul><ul class="clearfix">
+  
+
+      <li><a href="http://www.gocrimson.com/information/thisweek/index" >E-Mail List Signup</a></li>
+  
+  
+
+      <li><a href="http://www.gocrimson.com/information/Social_Media" >Social Media Pages</a></li>
+  
+  
+
+      <li><a href="http://www.ivyleaguedigitalnetwork.com/harvard" target="_blank">Live Video Streaming</a></li>
+  
+  
+
+      <li><a href="http://livestats.prestosports.com/harvard/" target="_blank">Live Stats</a></li>
+  
+  
+
+      <li><a href="http://www.replayphotos.com/harvardphotostore/" target="_blank">Purchase Photos</a></li>
+  
+  
+
+      <li><a href="http://gocrimson.com/information/support/index" >Support Athletics</a></li>
+  
+  
+
+      <li><a href="http://recreation.gocrimson.com/recreation/club_sports/pages/Cheerleading" target="_blank">Cheerleading</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/" target="_blank">Tickets</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=1AD15441-49B3-4026-B04E-79BF7466BAC2&menu_id=DB36DB42-0CCD-4DC3-BA54-4FEB46B9CFF1" target="_blank">Ticket Office Location &amp; Hours</a></li>
+  
+  
+
+
+</ul>
+
+ 
+
+ 
+
+    		    				
+      </div>
+    </li>
+              <li class="nav nav5 has-submenu">
+      <a href="#submenu5" class="nav-link">Tickets</a>
+      <div id="submenu5" class="submenu level1 clearfix">
+        
+
+
+
+
+
+<ul class="clearfix">
+
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?menu_id=D0278D3F-45E5-4AB6-B50B-A989EA576809" target="_blank">Ticket Office Home Page</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=11B0DCD6-05AC-4759-AF95-70B184A3D972&sessionlanguage=&menu_id=852FC651-6840-490F-A90E-23028E9068BA" target="_blank">Football</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=8A3BA5DB-EDBD-4174-A76B-8B23D5288B19&sessionlanguage=&menu_id=852FC651-6840-490F-A90E-23028E9068BA" target="_blank">Men's Basketball</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=B8136E3F-E591-4F66-A6E8-67724A4F3F81&sessionlanguage=&menu_id=852FC651-6840-490F-A90E-23028E9068BA" target="_blank">Men's Hockey</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=E8F0ABAB-F250-48ED-8F64-9812ECA9A7D1&sessionlanguage=&menu_id=852FC651-6840-490F-A90E-23028E9068BA" target="_blank">Women's Basketball</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=0B97FC75-4479-48C9-8421-B8A178F639EF&sessionlanguage=&menu_id=852FC651-6840-490F-A90E-23028E9068BA" target="_blank">Women's Hockey</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=3A26A2FA-3636-4A7A-B6AB-832D1A35A0AC&sessionlanguage=&menu_id=852FC651-6840-490F-A90E-23028E9068BA" target="_blank">Men's Lacrosse</a></li>
+  
+  
+
+      <li><a href="https://tickets.gocrimson.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=1AD15441-49B3-4026-B04E-79BF7466BAC2&menu_id=DB36DB42-0CCD-4DC3-BA54-4FEB46B9CFF1" target="_blank">Ticket Office Location &amp; Hours</a></li>
+  
+  
+
+      <li><a href="" ></a></li>
+  
+  
+
+
+</ul>
+
+ 
+
+ 
+
+    		    				
+      </div>
+    </li>
+              <li class="nav nav6 has-submenu">
+      <a href="#submenu6" class="nav-link">Recruiting</a>
+      <div id="submenu6" class="submenu level1 clearfix">
+        
+
+
+
+
+
+<ul class="clearfix">
+
+
+      <li><a href="/information/recruiting/index" >Harvard Recruiting Central</a></li>
+  
+  
+
+      <li><a href="http://npc.fas.harvard.edu/" target="_blank">Harvard Net Price Calculator</a></li>
+  
+  
+
+      <li><a href="http://www.ivyleaguesports.com/information/psa/index" target="_blank">Ivy League Admissions Statement</a></li>
+  
+  
+
+      <li><a href="http://www.gocrimson.com/information/recruiting/recruiting%20forms" >Add Your Info to Our Recruiting Database</a></li>
+  
+  
+
+      <li><a href="http://www.admissions.college.harvard.edu/experience_harvard/students_speak/view_students/index.html" target="_blank">Harvard Students Speak</a></li>
+  
+  
+
+      <li><a href="http://www.admissions.college.harvard.edu/about/video/index.html" target="_blank">Harvard Admissions Video</a></li>
+  
+  
+
+      <li><a href="http://www.admissions.college.harvard.edu/about/learning/watch_lecture.html" target="_blank">Watch a Lecture</a></li>
+  
+  
+
+      <li><a href="http://www.ocs.fas.harvard.edu/students.htm" target="_blank">Office of Career Services</a></li>
+  
+  
+
+      <li><a href="http://www.admissions.college.harvard.edu/index.html" target="_blank">Harvard Admissions</a></li>
+  
+  
+
+      <li><a href="http://www.fao.fas.harvard.edu/icb/icb.do" target="_blank">Harvard Financial Aid Office</a></li>
+  
+  
+
+      <li><a href="/information/recruiting/helpfulinfo" >Helpful Information</a></li>
+  
+      </ul><ul class="clearfix">
+  
+
+      <li><a href="http://www.eligibilitycenter.org" target="_blank">NCAA Eligibility Center</a></li>
+  
+  
+
+      <li><a href="http://www.ncaapublications.com/productdownloads/CBSA.pdf" target="_blank">NCAA Guide for College Bound</a></li>
+  
+  
+
+      <li><a href="/information/recruiting/parents" >Parents Central</a></li>
+  
+  
+
+
+</ul>
+
+ 
+
+ 
+
+    		    				
+      </div>
+    </li>
+              <li class="nav nav7 has-submenu">
+      <a href="#submenu7" class="nav-link">Recreation</a>
+      <div id="submenu7" class="submenu level1 clearfix">
+        
+
+
+
+
+
+<ul class="clearfix">
+
+
+      <li><a href="http://recreation.gocrimson.com/landing/index" target="_blank">Recreation Home</a></li>
+  
+  
+
+      <li><a href="http://recreation.gocrimson.com/fitness/calendar" target="_blank">Recreation Program Calendar</a></li>
+  
+  
+
+      <li><a href="/recreation/membership/purchase" >Purchase Membership</a></li>
+  
+  
+
+      <li><a href="/recreation/membership/index" >Membership Fees</a></li>
+  
+  
+
+      <li><a href="/recreation/membership/locker_towel" >Locker & Towel Services</a></li>
+  
+  
+
+      <li><a href="http://recreation.gocrimson.com/recreation/intramurals/Navigation_Bar_Items/index" target="_blank">Intramurals</a></li>
+  
+  
+
+      <li><a href="http://recreation.gocrimson.com/recreation/activities/aquatics/index" target="_blank">Aquatics</a></li>
+  
+  
+
+
+</ul>
+
+ 
+
+ 
+
+    		    				
+      </div>
+    </li>
+                <li class="nav nav8"><a href="/information/support"  class="nav-link">Support Athletics</a></li>
+      	
+  </ul>
+<div class="none close">Close</div></nav>
+
+<script>
+(function($) {
+  $(function() {
+
+    $('#jump-to-nav').click(function(e) {
+      e.preventDefault();
+      $(this).toggleClass('active');
+      $('#nav').toggleClass('active');
+    });
+
+    $('#nav .close').click(function(e) {
+      $('#jump-to-nav').removeClass('active');
+      $('#nav').removeClass('active');
+      return false;
+    });
+
+        $('.has-submenu > a', '#nav').on('click', function() {
+      $(this).parent().toggleClass('active');
+      return false;
+    });
+  
+    $(document).on('click', function(e) {
+      $('.has-submenu.active').removeClass('active');
+    });
+
+  });
+})(jQuery);
+</script>
+
+ 
+
+</div>
+</div>
+</header>
+
+
+<div id="body-container" class="clearfix">
+
+<div id="mainbody" class="clearfix">
+
+ 
+
+
+<div class="bookmark"><!-- SHARE BUTTON BEGIN --><script type="text/javascript">addthis_pub = 'prestosports';addthis_options = 'email,favorites,myspace,facebook,digg,delicious,google,twitter';</script><a href="http://www.addthis.com/bookmark.php" onMouseOver="return addthis_open(this, '', '[URL]', '[TITLE]')" onMouseOut="addthis_close()" onClick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt="" /></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script><!-- SHARE BUTTON END -->&nbsp;<a href="/composite?dec=printer-decorator&utm_campaign=socialflow&utm_source=twitter&utm_medium=social" target="_blank"><img src="/info/images/printer-friendly.gif" alt="" /></a></div>
+
+  
+<div id="composite-calendar">
+<table cellspacing="0" cellpadding="0">
+<tr class="calendar-nav">
+<td>
+<a href="/composite?y=2013&m=08">August</a>
+</td>
+<td colspan="5">September 2013</td>
+<td>
+<a href="/composite?y=2013&m=10">October</a>
+</td>
+</tr>
+<tr class="calendar-days">
+<td width="14%">Sunday</td>
+<td width="14%">Monday</td>
+<td width="14%">Tuesday</td>
+<td width="14%">Wednesday</td>
+<td width="14%">Thursday</td>
+<td width="14%">Friday</td>
+<td width="14%">Saturday</td>
+</tr>
+
+<tr><td>
+<div class="calendar-date">1</div>
+
+</td>
+<td>
+<div class="calendar-date">2</div>
+
+</td>
+<td>
+<div class="calendar-date">3</div>
+
+</td>
+<td>
+<div class="calendar-date">4</div>
+
+</td>
+<td>
+<div class="calendar-date">5</div>
+
+</td>
+<td>
+<div class="calendar-date">6</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/fh/2013-14/schedule">Field Hockey</a></div>
+      <div>at Massachusetts</div>
+  
+<div>Final</div>
+
+<a href="/sports/fh/2013-14/boxscores/20130906_fnrv.xml">
+  L, 3-0
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/livestats/wvball-hosted">Women's Volleyball</a></div>
+      <div>at Harvard</div>
+  
+<div>Final</div>
+
+<a href="/sports/wvball/2013-14/boxscores/20130906_sy0g.xml">
+  L, 3-2
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/msoc/2013-14/schedule">Men's Soccer</a></div>
+      <div>vs. Iona</div>
+  
+<div>Final</div>
+
+<a href="/sports/msoc/2013-14/boxscores/20130906_unkx.xml">
+  L, 3-0
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wsoc/2013-14/schedule">Women's Soccer</a></div>
+	<div>vs. California</div> <div>@ San Francisco</div>
+<div>Final</div>
+
+<a href="/sports/wsoc/2013-14/boxscores/20130906_b1z2.xml">
+  L, 2-1
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">7</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wrugby/2013-14/schedule">Women's Rugby</a></div>
+      <div>vs. Army</div>
+  
+<div>11:00 AM</div>
+
+
+  
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+	<div>vs. St. Francis (N.Y.)</div> <div>@ Providence, R.I.</div>
+<div>Final</div>
+
+
+  L, 10-7
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/livestats/wvball-hosted">Women's Volleyball</a></div>
+	<div>vs. Hofstra</div> <div>@ Cambridge, Mass.</div>
+<div>Final</div>
+
+
+  W, 3-0
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+	<div>vs. Stanford</div> <div>@ Providence, R.I.</div>
+<div>Final</div>
+
+
+  L, 17-5
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/livestats/wvball-hosted">Women's Volleyball</a></div>
+      <div>at Harvard</div>
+  
+<div>Final</div>
+
+<a href="/sports/wvball/2013-14/boxscores/20130907_32ty.xml">
+  L, 3-1
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+      <div>at Brown</div>
+  
+<div>Final</div>
+
+
+  L, 9-8
+
+
+</div>
+</td>
+</tr><tr><td>
+<div class="calendar-date">8</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+	<div>vs. Wash. &amp; Jeff.</div> <div>@ Providence, R.I.</div>
+<div>Final</div>
+
+
+  W, 17-10
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/fh/2013-14/schedule">Field Hockey</a></div>
+      <div>vs. Bryant</div>
+  
+<div>Final</div>
+
+<a href="/sports/fh/2013-14/boxscores/20130908_ecsj.xml">
+  L, 2-1
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+	<div>vs. UC Irvine</div> <div>@ Providence, R.I.</div>
+<div>Final</div>
+
+
+  L, 18-9
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/msoc/2013-14/schedule">Men's Soccer</a></div>
+      <div>vs. Davidson</div>
+  
+<div>Final</div>
+
+<a href="/sports/msoc/2013-14/boxscores/20130908_j6eh.xml">
+  L, 2-1
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wsoc/2013-14/schedule">Women's Soccer</a></div>
+      <div>at San Francisco</div>
+  
+<div>Final</div>
+
+<a href="/sports/wsoc/2013-14/boxscores/20130908_eejl.xml">
+  L, 1-0
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">9</div>
+
+</td>
+<td>
+<div class="calendar-date">10</div>
+
+</td>
+<td>
+<div class="calendar-date">11</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wsoc/2013-14/schedule">Women's Soccer</a></div>
+      <div>vs. New Hampshire</div>
+  
+<div>Final</div>
+
+<a href="/sports/wsoc/2013-14/boxscores/20130911_3ymg.xml">
+  L, 2-1
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">12</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/msoc/2013-14/schedule">Men's Soccer</a></div>
+      <div>at Providence</div>
+  
+<div>Final</div>
+
+<a href="/sports/msoc/2013-14/boxscores/20130912_342u.xml">
+  L, 3-1
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">13</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mten/2013-14/schedule">Men's Tennis</a></div>
+      <div>vs. Harvard Chowder Fest</div>
+  
+<div>TBA</div>
+
+
+  
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/fh/2013-14/schedule">Field Hockey</a></div>
+      <div>at Holy Cross</div>
+  
+<div>Final</div>
+
+<a href="/sports/fh/2013-14/boxscores/20130913_9hef.xml">
+  W, 4-0
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wsoc/2013-14/schedule">Women's Soccer</a></div>
+      <div>vs. Providence</div>
+  
+<div>Final - 2OT</div>
+
+<a href="/sports/wsoc/2013-14/boxscores/20130913_epeg.xml">
+  T, 1-1
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wvball/2013-14/schedule">Women's Volleyball</a></div>
+      <div>at San Diego State</div>
+  
+<div>Final</div>
+
+<a href="/sports/wvball/2013-14/boxscores/20130913_rc6f.xml">
+  L, 3-1
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">14</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/xc/2013-14/schedule">Men's Cross Country</a></div>
+	<div>vs. Yale</div> <div>@ Franklin Park</div>
+<div>1 p.m.</div>
+
+
+  M (1st); W (1st)
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+	<div>vs. Navy</div> <div>@ Princeton, N.J.</div>
+<div>Final</div>
+
+
+  W, 13-10
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wvball/2013-14/schedule">Women's Volleyball</a></div>
+	<div>vs. Southern Methodist</div> <div>@ San Diego, Calif.</div>
+<div>Final</div>
+
+<a href="/sports/wvball/2013-14/boxscores/20130914_ynya.xml">
+  W, 3-2
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wvball/2013-14/schedule">Women's Volleyball</a></div>
+	<div>vs. San Francisco</div> <div>@ San Diego, Calif.</div>
+<div>Final</div>
+
+<a href="/sports/wvball/2013-14/boxscores/20130914_ktai.xml">
+  L, 3-1
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+	<div>vs. Princeton</div> <div>@ Princeton, N.J.</div>
+<div>Final</div>
+
+
+  L, 14-7
+
+
+</div>
+</td>
+</tr><tr><td>
+<div class="calendar-date">15</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+	<div>vs. Johns Hopkins</div> <div>@ Princeton, N.J. </div>
+<div>Final</div>
+
+
+  L, 11-9
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wsoc/2013-14/schedule">Women's Soccer</a></div>
+      <div>vs. LIU Brooklyn</div>
+  
+<div>Final</div>
+
+<a href="/sports/wsoc/2013-14/boxscores/20130915_ga2d.xml">
+  W, 1-0
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+	<div>vs. George Washington</div> <div>@ Princeton, N.J.</div>
+<div>Final</div>
+
+
+  L, 11-6
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/msoc/2013-14/schedule">Men's Soccer</a></div>
+      <div>vs. Lafayette</div>
+  
+<div>Final - 2OT</div>
+
+<a href="/sports/msoc/2013-14/boxscores/20130915_hfl5.xml">
+  T, 0-0
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">16</div>
+
+</td>
+<td>
+<div class="calendar-date">17</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wrugby/2013-14/schedule">Women's Rugby</a></div>
+      <div>vs. Quinnipiac</div>
+  
+<div>Final</div>
+
+
+  L, 39-10
+
+
+</div>
+</td>
+<td>
+<div class="calendar-date">18</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wvball/2013-14/schedule">Women's Volleyball</a></div>
+      <div>vs. UMass Lowell</div>
+  
+<div>Final</div>
+
+<a href="/sports/wvball/2013-14/boxscores/20130918_pcp1.xml">
+  W, 3-0
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">19</div>
+
+</td>
+<td>
+<div class="calendar-date">20</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mten/2013-14/schedule">Men's Tennis</a></div>
+	<div>vs. Ivy Tournament</div> <div>@ New Haven, Conn.</div>
+<div>TBA</div>
+
+
+  
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wten/2013-14/schedule">Women's Tennis</a></div>
+	<div>vs. William &amp; Mary Tribe Invitational</div> <div>@ Williamsburg, Va.</div>
+<div>8:00 AM</div>
+
+
+  
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/msoc/2013-14/schedule">Men's Soccer</a></div>
+      <div>at Hartford</div>
+  
+<div>Final - OT</div>
+
+<a href="/sports/msoc/2013-14/boxscores/20130920_ppon.xml">
+  L, 3-2
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wsoc/2013-14/schedule">Women's Soccer</a></div>
+      <div>vs. Rhode Island</div>
+  
+<div>Final</div>
+
+<a href="/sports/wsoc/2013-14/boxscores/20130920_51tf.xml">
+  W, 2-0
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">21</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wrugby/2013-14/schedule">Women's Rugby</a></div>
+      <div>vs. Yale</div>
+  
+<div>Final</div>
+
+
+  W, 84-0
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/fh/2013-14/schedule">Field Hockey</a></div>
+      <div>at Yale</div>
+  
+<div>Final</div>
+
+<a href="/sports/fh/2013-14/boxscores/20130921_pxbi.xml">
+  W, 3-2
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+      <div>at Fordham</div>
+  
+<div>Final</div>
+
+
+  W, 15-5
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/fball/2013-14/schedule">Football</a></div>
+      <div>at San Diego</div>
+  
+<div>Final</div>
+
+<a href="/sports/fball/2013-14/boxscores/20130921_te99.xml">
+  W, 42-20
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+      <div>at Iona</div>
+  
+<div>Final</div>
+
+
+  L, 18-16
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wvball/2013-14/schedule">Women's Volleyball</a></div>
+      <div>at Northeastern</div>
+  
+<div>Final</div>
+
+<a href="/sports/wvball/2013-14/boxscores/20130921_7wpj.xml">
+  L, 3-1
+
+</a>
+</div>
+</td>
+</tr><tr><td>
+<div class="calendar-date">22</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+      <div>at St. Francis (N.Y.)</div>
+  
+<div>Final</div>
+
+
+  W, 14-11
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/msoc/2013-14/schedule">Men's Soccer</a></div>
+      <div>vs. Massachusetts</div>
+  
+<div>Final</div>
+
+<a href="/sports/msoc/2013-14/boxscores/20130922_wcjc.xml">
+  W, 2-1
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wvball/2013-14/schedule">Women's Volleyball</a></div>
+      <div>at Boston College</div>
+  
+<div>Final</div>
+
+<a href="/sports/wvball/2013-14/boxscores/20130922_y4bu.xml">
+  W, 3-1
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wsoc/2013-14/schedule">Women's Soccer</a></div>
+      <div>at UMass Lowell</div>
+  
+<div>Final</div>
+
+<a href="/sports/wsoc/2013-14/boxscores/20130922_epk7.xml">
+  W, 5-0
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">23</div>
+
+</td>
+<td>
+<div class="calendar-date">24</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wvball/2013-14/schedule">Women's Volleyball</a></div>
+      <div>vs. New Hampshire</div>
+  
+<div>Final</div>
+
+<a href="/sports/wvball/2013-14/boxscores/20130924_anjv.xml">
+  L, 3-2
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">25</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/msoc/2013-14/schedule">Men's Soccer</a></div>
+      <div>vs. Boston University</div>
+  
+<div>Final - 2OT</div>
+
+<a href="/sports/msoc/2013-14/boxscores/20130925_zc23.xml">
+  T, 0-0
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">26</div>
+
+</td>
+<td>
+<div class="calendar-date">27</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wsoc/2013-14/schedule">Women's Soccer</a></div>
+      <div>vs. Penn</div>
+  
+<div>Final</div>
+
+<a href="/sports/wsoc/2013-14/boxscores/20130927_1lf5.xml">
+  W, 2-1
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wvball/2013-14/schedule">Women's Volleyball</a></div>
+      <div>vs. Dartmouth</div>
+  
+<div>Final</div>
+
+<a href="/sports/wvball/2013-14/boxscores/20130927_wpce.xml">
+  W, 3-0
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">28</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/xc/2013-14/schedule">Women's Cross Country</a></div>
+	<div>vs. Virginia/Panorama Farms Invitational</div> <div>@ Virginia</div>
+<div></div>
+
+
+  Fourth of 14
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wten/2013-14/schedule">Women's Tennis</a></div>
+	<div>vs. All-American Championship</div> <div>@ Pacific Palisades, Calif.</div>
+<div>11:30 AM</div>
+
+
+  
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wrugby/2013-14/schedule">Women's Rugby</a></div>
+      <div>at Dartmouth</div>
+  
+<div>Final</div>
+
+
+  L, 10-5
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/fh/2013-14/schedule">Field Hockey</a></div>
+      <div>vs. Penn</div>
+  
+<div>Final</div>
+
+<a href="/sports/fh/2013-14/boxscores/20130928_qoy5.xml">
+  L, 1-0
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+      <div>vs. Connecticut College</div>
+  
+<div>Final</div>
+
+
+  W, 16-3
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/fball/2013-14/schedule">Football</a></div>
+      <div>vs. Brown</div>
+  
+<div>Final</div>
+
+<a href="/sports/fball/2013-14/boxscores/20130928_y8f1.xml">
+  W, 41-23
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+      <div>vs. Brown</div>
+  
+<div>Final</div>
+
+
+  W, 6-5
+
+
+</div>
+</td>
+</tr><tr><td>
+<div class="calendar-date">29</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+      <div>vs. MIT</div>
+  
+<div>Final</div>
+
+
+  W, 13-10
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/fh/2013-14/schedule">Field Hockey</a></div>
+      <div>at New Hampshire</div>
+  
+<div>Final</div>
+
+<a href="/sports/fh/2013-14/boxscores/20130929_5v0f.xml">
+  L, 3-1
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/msoc/2013-14/schedule">Men's Soccer</a></div>
+      <div>vs. St. Francis (N.Y.)</div>
+  
+<div>Final</div>
+
+<a href="/sports/msoc/2013-14/boxscores/20130929_9w5u.xml">
+  L, 1-0
+
+</a>
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wsoc/2013-14/schedule">Women's Soccer</a></div>
+      <div>at Central Connecticut State</div>
+  
+<div>Final</div>
+
+<a href="/sports/wsoc/2013-14/boxscores/20130929_yira.xml">
+  W, 2-0
+
+</a>
+</div>
+</td>
+<td>
+<div class="calendar-date">30</div>
+
+</td>
+<td>
+<div class="calendar-date">1</div>
+
+</td>
+<td>
+<div class="calendar-date">2</div>
+
+</td>
+<td>
+<div class="calendar-date">3</div>
+
+</td>
+<td>
+<div class="calendar-date">4</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wvball/2013-14/schedule">Women's Volleyball</a></div>
+      <div>at Yale</div>
+  
+<div>7:00 PM</div>
+
+
+  
+
+
+</div>
+</td>
+<td>
+<div class="calendar-date">5</div>
+
+
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/xc/2013-14/schedule">Men's Cross Country</a></div>
+	<div>vs. Paul Short Invitational</div> <div>@ Bethlehem, Pa.</div>
+<div></div>
+
+
+  
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wrugby/2013-14/schedule">Women's Rugby</a></div>
+      <div>at Brown</div>
+  
+<div>12:00 PM</div>
+
+
+  
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/fh/2013-14/schedule">Field Hockey</a></div>
+      <div>vs. Brown</div>
+  
+<div>12:00 PM</div>
+
+
+  
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/mwaterpolo/2013-14/schedule">Men's Water Polo</a></div>
+      <div>at Connecticut College</div>
+  
+<div>12:00 PM</div>
+
+
+  
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/fball/2013-14/schedule">Football</a></div>
+      <div>at Holy Cross</div>
+  
+<div>1:00 PM</div>
+
+
+  
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wsoc/2013-14/schedule">Women's Soccer</a></div>
+      <div>at Yale</div>
+  
+<div>4:00 PM</div>
+
+
+  
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/wvball/2013-14/schedule">Women's Volleyball</a></div>
+      <div>at Brown</div>
+  
+<div>5:00 PM</div>
+
+
+  
+
+
+</div>
+<hr width="90%">
+
+
+<div class="calendar-event">
+<div class="calendar-sport"><a href="http://gocrimson.com/sports/msoc/2013-14/schedule">Men's Soccer</a></div>
+      <div>at Yale</div>
+  
+<div>7:00 PM</div>
+
+
+  
+
+
+</div>
+</td>
+</tr></table>
+</div>
+
+</div> 
+
+
+</div> 
+</div> 
+
+
+
+
+<footer id="site-footer" class="clearfix">
+
+<div id="footer-text" class="clearfix">
+
+
+<div class="logo"></div>
+
+<p>
+
+<span>Copyright 2010 Harvard University</span><br/>
+
+
+All Rights Reserved
+
+</p>
+
+<div id="footer-links">
+
+
+<a href="/information/directory/index" class="link">Contact Us</a>
+
+
+  |  
+<a href="/directions/index" class="link">Directions</a>
+
+
+  |  
+<a href="/rss/index" class="link">News Feeds(RSS)</a>
+
+
+</div>
+
+
+<p style="padding-top:10px"> View: <a href="/action/browser-mode?u=%2Fcomposite%3Futm_campaign%3Dsocialflow%26utm_source%3Dtwitter%26utm_medium%3Dsocial&m=1">Mobile</a> | Desktop </p>
+</div>
+
+<div id="footer-logos" class="clearfix">
+<ul>
+
+<li class="footer-logo" id="footer-logo1"><a href="http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CFAQFjAA&url=http%3A%2F%2Fwww.harvardvarsityclub.org%2F&ei=zcrxT7uTGpL26gGRse2JBg&usg=AFQjCNGGmCY1IqFL7-5jIo-x3Zomd08LLw&sig2=LLmCe-SUhhGz7UM1DtaTpA"></a></li>
+
+
+<li class="footer-logo" id="footer-logo2"><a href="http://www.IVYLEAGUESPORTS.COM"></a></li>
+
+
+<li class="footer-logo" id="footer-logo3"><a href="http://www.harvard.edu"></a></li>
+
+
+<li class="footer-logo" id="footer-logo4"><a href="http://www.ncaa.org"></a></li>
+
+
+<li class="footer-logo" id="footer-logo5"><a href="http://www.ecachockey.com"></a></li>
+
+
+<li class="footer-logo" id="footer-logo6"><a href="http://www.prestosports.com"></a></li>
+
+</ul>
+
+
+</div>
+
+
+</footer>
+
+
+
+
+
+</div> 
+<div id="sticky-bar">
+<div class="container">
+
+<a href="/information/recruiting/index" id="recruit-button">Recruit Button</a>
+
+<div id="sticky-links" class="clearfix">
+
+<a href="http://www.ivyleaguedigitalnetwork.com/harvard" class="sticky-link" id="sticky-link1" >Watch Live</a>
+
+
+<a href="http://livestats.prestosports.com/harvard/" class="sticky-link" id="sticky-link2" >Live Stats</a>
+
+
+<a href="http://www.replayphotos.com/harvardphotostore/" class="sticky-link" id="sticky-link3" >Photos</a>
+
+
+<a href="http://www.harvardathletics.skorfanshop.com/" class="sticky-link" id="sticky-link4" >Shop</a>
+
+
+<a href="http://www.gocrimson.com/directions/index" class="sticky-link" id="sticky-link5" >Directions</a>
+
+
+<a href="http://www.gocrimson.com/information/support/index" class="sticky-link" id="sticky-link6" >Support Athletics</a>
+
+
+</div>
+
+
+<form id="search" method="get" action="/search">
+<input type="submit" class="submit" value="" />
+<input class="text-box" type="text" name="query" value="Search" onfocus="if(this.value == 'Search') this.value = ''" onblur="if(this.value == '') this.value = 'Search'" />
+</form>
+
+
+</div>
+</div>
+
+</div> 
+<img src="/images/setup/page_bg.jpg" alt="" id="page-bg" style="display:none" />
+
+
+
+<script>
+$(function() {
+    $('object[type="application/x-shockwave-flash"]').each(function() {
+        $(this).children('param[value="transparent"]').length ? 
+            "" : $(this).append('<param name="wmode" value="transparent" />');;
+    });
+});
+</script>
+
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">_qacct="p-c1MZx5LfVe-Xw";quantserve();</script><noscript><a href="http://www.quantcast.com/p-c1MZx5LfVe-Xw" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-c1MZx5LfVe-Xw.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+<!-- dropoff-scripts -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://cdn87.psbin.com/info/cookie-handler.js"></script>
+
+<script type="text/javascript">
+$(function() {
+	if (readCookie('adminuser')) {
+		$('body').append('<span id="edit-page-btn" style="display: block; padding: 10px; z-index: 9999; background: #000; color: #fff; font-size: 12px; position: fixed; right: 0; top: 0; cursor: default">Edit Page</span>');
+		$('#edit-page-btn').click(function() {
+			url = document.location.protocol + '//' + document.location.hostname
+			if (document.location.port) url += ':' + document.location.port;
+			url += '/admin/content/wiki/g2g';
+			url += document.location.pathname;
+			window.location = url;
+		});
+	}
+});
+</script>
+
+<!-- rum footer -->
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-5.newrelic.com","a8324e80d1","1004718","MgcAZENYXhJYVkFdXQtNJFldTVUTFnFaWVMMDEJeUFRVQV9cWUBXFw==",0,1666,new Date().getTime(),"","","","LQMQRlBLVA==",""]);</script>
+
+
+
+</body>
+</html>
+
+
+

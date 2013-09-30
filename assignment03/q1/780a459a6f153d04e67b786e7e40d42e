@@ -1,0 +1,440 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="http://www.onguardonline.gov/articles/0270-kids-parents-and-video-games" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://www.onguardonline.gov/profiles/consumer/themes/consumer_platform/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="Kids, Parents, and Video Games" about="http://www.onguardonline.gov/articles/0270-kids-parents-and-video-games" property="dc:title" />
+<link rel="shortlink" href="http://www.onguardonline.gov/node/543" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.onguardonline.gov/articles/0270-kids-parents-and-video-games" />
+  <title>Kids, Parents, and Video Games | OnGuard Online</title>
+  <link type="text/css" rel="stylesheet" href="http://www.onguardonline.gov/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.onguardonline.gov/sites/default/files/css/css_TsVRTbLFUpEZAfw-_bWPJu840QT523CPjUVJ5MRWfyk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.onguardonline.gov/sites/default/files/css/css_wb65zGw2e_HuSD0H9JA5EjsThkTRR4ICfgnnNCThkgk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.onguardonline.gov/sites/default/files/css/css_eJX9-jrhbUwT7Rrlhl2v8SL9YNFwo888o3mCzGLPuLg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.onguardonline.gov/sites/default/files/css/css_1DI-nAk5Mjx5xo4DqGVPmST0yb-khmJEABxu3OZzswE.css" media="print" />
+  <script type="text/javascript" src="http://www.onguardonline.gov/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/misc/drupal.js?mtsrpc"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/sites/all/libraries/chosen/chosen/chosen.jquery.min.js?mtsrpc"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/profiles/consumer/modules/contrib/chosen/chosen.js?mtsrpc"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/profiles/consumer/modules/contrib/panels/js/panels.js?mtsrpc"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/profiles/consumer/modules/contrib/extlink/extlink.js?mtsrpc"></script>
+<script type="text/javascript" src="/profiles/consumer/libraries/foresee/foresee-trigger.js?mtsrpc"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/profiles/consumer/modules/contrib/field_group/field_group.js?mtsrpc"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/profiles/consumer/themes/consumer_platform/js/swfobject.js?mtsrpc"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/profiles/consumer/themes/consumer_platform/js/jquery.qtip-1.0.0-rc3.min.js?mtsrpc"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/profiles/consumer/themes/consumer_platform/js/fancybox/jquery.fancybox-1.3.4.pack.js?mtsrpc"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/profiles/consumer/themes/consumer_platform/js/jquery.corner.js?mtsrpc"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/profiles/consumer/themes/consumer_platform/js/jquery.cycle.all.js?mtsrpc"></script>
+<script type="text/javascript" src="http://www.onguardonline.gov/profiles/consumer/themes/consumer_platform/js/global.js?mtsrpc"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"consumer_platform","theme_token":"PZfxj4N5APkuFZHLhrpfZzDA9iETJwZ8EuTIJmLVQ7Q","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.jquery.min.js":1,"profiles\/consumer\/modules\/contrib\/chosen\/chosen.js":1,"profiles\/consumer\/modules\/contrib\/panels\/js\/panels.js":1,"profiles\/consumer\/modules\/contrib\/extlink\/extlink.js":1,"\/profiles\/consumer\/libraries\/foresee\/foresee-trigger.js":1,"profiles\/consumer\/modules\/contrib\/field_group\/field_group.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/swfobject.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.corner.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.cycle.all.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/global.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/consumer\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.css":1,"profiles\/consumer\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/consumer\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/consumer\/modules\/contrib\/extlink\/extlink.css":1,"modules\/locale\/locale.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/hp-footer\/hp-footer.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/onecol\/onecol.css":1,"profiles\/consumer\/modules\/contrib\/field_group\/field_group.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/default.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/layout.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/style.css":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/print.css":1}},"chosen":{"selector":".field-type-taxonomy-term-reference select:visible","minimum":"15"},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":1,"extExclude":"\/onguardonline|alertaenlinea","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-543 node-type-article i18n-en" >
+  <div id="skip">
+    <a href="#main-menu">Jump to Navigation</a>
+  </div>
+    
+
+<div id="page" class="page with-navigation has-language">
+
+    <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+
+          <h1 id="logo"><a href="http://www.onguardonline.gov/" title="Home" rel="home">
+              <img src="http://www.onguardonline.gov/sites/default/files/logo.png" alt="OnGuard Online" />
+            </a></h1>
+          	<div id = "secondary-logo">  
+     		<a href = "http://onguardonline.gov/stop-think-connect"><img src = "http://onguardonline.gov/sites/default/files/stopthinkconnect_0.png" /></a>
+    	 </div>
+        
+          <div id="name-and-slogan">
+
+        
+      </div>
+    
+          <div id="header-region">
+          <div class="region region-header">
+    <div id="block-consumer_emailprintshare-email_print_share" class="block block-consumer-emailprintshare block-even clearfix">
+
+                		
+		  <ul class="email-print-share"><li id="emailThis" class="email"><a class="addthis_button_email" href="#">Email</a></li><li class="printer-friendly">
+        <a href="#" class="addthis_button_print">Print</a> 
+        </li><li class="addthis">
+        <script type="text/javascript">
+          var addthis_config = {
+            ui_language: "en"
+          }
+        </script>
+        <!-- AddThis Button BEGIN -->
+        <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4e34dc8d56e636d1"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"/></a>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e34dc8d56e636d1"></script>
+        <!-- AddThis Button END -->
+        </li>
+      </ul>
+</div> <!-- /block -->
+  </div>
+      </div>
+        
+           <div id="search">
+          <div class="region region-search">
+    <div id="block-search-form" class="block block-search block-odd clearfix">
+
+                		
+		  <form action="/articles/0270-kids-parents-and-video-games" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="Search OnGuardOnline.gov" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-2Ha2Ei5929h3egcLMoQ5ztSwV8ZzRpyanTEXZyzh_14" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div> <!-- /block -->
+<div id="block-block-2" class="block block-block block-even clearfix">
+
+                		
+		  <p><a href="http://alertaenlinea.gov/">Español</a></p>
+
+</div> <!-- /block -->
+  </div>
+      </div>
+    
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="main-inner" class="clearfix">
+      <div id="content" class="one-col">
+                  <div id="language">  <div class="region region-language">
+    <div id="block-locale-language" class="block block-locale block-odd clearfix">
+
+                		
+		  <ul class="language-switcher-locale-url"><li class="es first last"><a href="http://www.alertaenlinea.gov/articulos/s0270-ninos-padres-y-videojuegos" class="language-link" lang="es" title="Niños, padres y videojuegos">Vea esta página en español</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+</div>
+                          <div id="content-header">
+
+                        
+            <div class="title-wrapper">
+                          
+<div class="field field-name-field-article-icon-reference field-type-node-reference field-label-hidden">
+  
+                <div class="content">
+	   
+
+
+          <div class="field-item evenfield field-name-field-icon field-type-image field-label-hidden">
+      <img typeof="foaf:Image" src="http://www.onguardonline.gov/sites/default/files/0270-icon-videogames.png" width="76" height="76" alt="" />      </div>
+    
+
+
+</div>
+
+
+            
+  </div>
+            
+                          <h1 class="title">Kids, Parents, and Video Games</h1>
+                        
+                        </div>
+
+                          <div class="tabs"></div>
+            
+            
+                        
+          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-even clearfix">
+
+                		
+		  <div id="node-543" class="node node-article node-odd">
+	<div class="node-inner">
+
+		    
+	<div class="content">
+	  
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+  
+                <div id = 'sidebar-article' class = 'sidebar'><div id="block-panels_mini-related_items_sidebar" class="block block-panels-mini block-odd clearfix">
+
+                <h2 class="block-title">Related Items</h2>
+          		
+		  <div class="panel-display panel-1col clearfix" id="mini-panel-related_items_sidebar-3">
+  <div class="panel-panel panel-col">
+    <div>
+
+<div class="panel-pane pane-block pane-views-article-sidebar-block-2 odd" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-block_2 view-dom-id-446779b7a9451d3d8b832eb57b8bfd1a">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div>        <span><a href="http://www.onguardonline.gov/articles/0029-parental-controls">Parental Controls</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+  <div>        <span><a href="http://www.onguardonline.gov/articles/0018-understanding-mobile-apps">Understanding Mobile Apps</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-views pane-article-sidebar even last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-block_3 view-dom-id-59a9a573713f8f9cf7312aae2dad78b6">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-article-flex">        <div class="field-content"><p style="text-align: center"><a href="/articles/0018-understanding-mobile-apps#kids"><img alt="Keep up with kids' apps" src="/sites/default/files/rotator-images/mini-rotator-kids-apps.png" style="width: 164px; height: 124px" /></a></p></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+</div> <!-- /block -->
+</div><div class = "content-inner"><div class="article-intro"><p>Odds are your kids play video games. And as their parent, you have ideas about what’s right for them when they do. Fortunately, tools like game ratings and parental controls can help you learn about the games your kids want to play — and help you make sure they’re playing according to your rules. That includes knowing how to make sure your kids can’t access online features if you don’t want them to. Regardless of the limits you set or the tools you use, talk to your kids about them.</p></div><div class="article-anchor-list"><ul><li><a href="#controls">Parental Controls for Game Systems: What Are My Options?</a></li><li><a href="#ratings">Video Game Ratings</a></li><li><a href="#apps">Mobile Game Apps</a></li><li><a href="#webGames">Web-Based Games</a></li><li><a href="#kids">Talk to Your Kids</a></li></ul></div><h2><a name="controls" id="controls"></a>Parental Controls for Game Systems: What Are My Options?</h2><p>For many families, video games are a part of everyday life.</p><p>Many games allow players to talk and play with other people — or buy more content right from the console or game. And plenty of games are designed with a grown-up audience in mind. That’s why it’s important to find out your parental control options.</p><p>Depending on the system, parental controls might include:</p><p><strong>Game Rating Restrictions: </strong>This setting this lets you decide which games can be played on a console or handheld gaming device based on the rating from the Entertainment Software Rating Board (ESRB). For example, you might set the system to allow games Rated E for Everyone to be played, but not games rated Teen or above.</p><p><strong>Disabling Internet Access: </strong>This setting can prevent your kids from accessing online features. For example, some systems include parental controls that allow you to mute or disable online chat, which might include profanity or bullying by other players. Some systems that offer online gaming also give parents the ability to approve friend requests or create approved lists of friends their kids can play with or talk to.</p><p><strong>Time Limits: </strong>Some game systems let you set days and times your kids can play, and for how long.</p><p><strong>Profiles: </strong>Some systems let you create multiple profiles with different settings for each. So while your password-protected profile might allow you to play any game, your nine-year-old’s profile might be limited to games rated E for Everyone. If your system doesn’t have profiles, you may have to reset the preferences each time you play.</p><p><strong>In-game Purchase Restrictions:</strong> Sometimes you can buy downloadable games or downloadable content with the credit card tied to your account. But in most cases, you can set a password to restrict those purchases.</p><h3><strong>Look Up Your Game System</strong></h3><p>To find out about a game system’s parental control options, look it up in the <a href="http://www.esrb.org/about/settingcontrols.jsp">ESRB resource section</a>, or check with the manufacturer. Microsoft, for example, offers parental control information at <a href="http://www.getgamesmart.com/">getgamesmart.com</a>. You’ll find information for Nintendo systems at <a href="http://www.nintendo.com/consumer/info/en_na/parents.jsp">www.nintendo.com/consumer/info/en_na/parents.jsp</a>, and for Sony at <a href="http://us.playstation.com/support/parents/index.htm">us.playstation.com/support/parents/index.htm</a>.  </p><h2><a name="ratings" id="ratings"></a>Video Game Ratings</h2><p>Along with using parental controls to set limits, think about what kind of games you want your kids to play. That’s where game ratings come in. Video games have their own rating system from the ESRB. Ratings, printed right on the game box — or included at online storefronts for games downloaded directly to a game console — include: </p><p><strong>Age Ratings:</strong> On the front of most game boxes, age rating symbols (Early Childhood to Adults Only 18+) give you an idea of the ages the game may be appropriate for.</p><p><strong>Content Descriptors:</strong> On the back of the box, the content descriptors detail game elements — like violence, sex, language, and gambling — that may have triggered a particular rating.</p><p><img alt="" src="/sites/default/files/articles/esrb.png" style="width: 650px; height: 125px;" /></p><p><strong>Rating Summaries:</strong> If you’re looking for more information, check a game’s ESRB rating summary, a detailed description of key content. Rating summaries aren’t printed on the box, but you can look them up for most games at <a href="http://www.esrb.org/">esrb.org</a> or using the ESRB’s free mobile app. Games that are available only as a download through a console or handheld storefront do not get rating summaries.</p><p>Other organizations offer even more detailed information on game content. For example, Common Sense Media has game reviews, including recommended ages, at <a href="http://commonsensemedia.org/game-reviews">commonsensemedia.org/game-reviews</a>.</p><p><strong>Online Rating Notice:</strong> If a game is online-enabled, it will include the notice, "<strong>Online Interactions Not Rated by the ESRB.</strong>" That tells you that players could be exposed to chat — text, audio, or video — or other types of user-generated content that aren’t part of the game’s rating.</p><h2><a name="apps" id="apps"></a>Mobile Game Apps</h2><p>If you have a smart phone or another mobile device with internet access, like a tablet or music player, you’re probably familiar with apps. The Android, Apple, Microsoft, and BlackBerry mobile operating systems, as well as some online retailers, have online app stores. But since not all apps are free, you may have to provide a credit card number to set up an account. Online mobile app stores and most smartphones have controls for parents to manage kids’ purchase and use of apps.</p><p><strong>App ratings:</strong> Some app storefronts have developed their own content ratings for the apps they offer. Others use <a href="http://www.esrb.org/ratings/mobileapp_ratings_guide.jsp">a rating system</a> developed by CTIA-The Wireless Association and the ESRB that’s based on the ESRB’s game ratings and lets developers get appropriate ratings for their apps. Some parental controls rely on content ratings to screen out apps that may be inappropriate for kids.</p><p><strong>Phone settings: </strong>You may be able to restrict content by age rating, or require a password for in-app purchases and app downloads. Check with your mobile provider.</p><p><strong>What some apps may allow:</strong></p><ul><li><strong>In-App Purchases: </strong>Some developers offer app users the ability to buy more content within a game. For example, you might be able to buy virtual currency from a game to buy virtual extras for an online world or avatar. Or you might be able to pay to upgrade to a premium version of a game. Usually, you’re billed for in-app purchases through the app store. Many devices have settings that allow you to block in-app purchases or require a password before they can be made.</li><li><strong>In-App Advertising: </strong>Ads running inside an app may allow you to call phone numbers directly or visit websites appearing in the ad. Some app descriptions tell you if an app is or isn’t ad-free.</li><li><strong>Location Sharing:</strong> Some mobile games and apps and newer handheld gaming devices use a player’s location and might broadcast it to others. Many phones and devices let you turn this feature off.</li></ul><p>For more on mobile apps, including the type of data they may collect, read <a href="http://onguardonline.gov/articles/0018-understanding-mobile-apps">Understanding Mobile Apps</a>.</p><h2><a name="webGames" id="webGames"></a>Web-Based Games</h2><p>What about the time your kids spend playing games online? In addition to keeping up on the games they’re playing, check to see what controls your browser offers. For more on tools that might help, read <a href="http://onguardonline.gov/articles/0029-parental-controls">Parental Controls</a>.</p><h2><a name="kids" id="kids"></a>Talk to Your Kids</h2><p>Parental controls are a great tool, but they’re no substitute for talking to your kids about:</p><ul><li>what games and apps they are playing or using</li><li>what your family has decided is okay. Are there limits on what they can play, or when and how long they can play?</li><li>who it’s okay to play games with online</li><li>why it’s important not to share personal information, like their address, school, or plans for the weekend</li><li>how to deal with inappropriate online behavior by another player. You may be able to block the player, or notify a game’s publisher or online service.</li></ul><p>Another good idea: keep your computer or game system in a common area. That opens the door to ask questions and have conversations on the spot. For more, check out the ESRB’s Family Discussion Guide at <a href="http://www.esrb.org/about/familyguide.jsp">esrb.org</a>.</p></div>            
+  </div>
+<div class = "terms">Tagged with: <a href="http://www.onguardonline.gov/search-terms/app" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">app</a>, <a href="http://www.onguardonline.gov/search-terms/games" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">games</a>, <a href="http://www.onguardonline.gov/search-terms/kids" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">kids</a>, <a href="http://www.onguardonline.gov/search-terms/mobile" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">mobile</a>, <a href="http://www.onguardonline.gov/search-terms/online-games" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">online games</a>, <a href="http://www.onguardonline.gov/search-terms/parents" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">parents</a></div>	</div>
+	
+
+	
+			<div class="article-date"><span>June 2012</span></div>
+	
+	<div class = "also-like">
+		<h4>You Might Also Like</h4><ul><li><a href="http://www.onguardonline.gov/articles/0006-talk-your-kids">Talk to Your Kids</a></li><li><a href="http://www.onguardonline.gov/articles/0017-kids-and-computer-security">Kids and Computer Security</a></li></ul> 	</div>
+
+
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+
+</div> <!-- /block -->
+  </div>
+                   </div>
+
+        
+      </div> <!-- /content -->
+
+              <div id="sidebar-first" class="column sidebar first">
+            <div class="region region-sidebar-first">
+    <div id="block-system-main-menu" class="block block-system block-menu block-odd clearfix">
+
+                		
+		  <ul class="menu"><li class="first collapsed avoid-scams mid-371"><a href="http://www.onguardonline.gov/topics/avoid-scams" title="">Avoid Scams</a></li>
+<li class="leaf secure-your-computer mid-373"><a href="http://www.onguardonline.gov/topics/secure-your-computer" title="">Secure Your Computer</a></li>
+<li class="expanded active-trail protect-kids-online mid-374"><a href="http://www.onguardonline.gov/topics/protect-kids-online" title="" class="active-trail">Protect Kids Online</a><ul class="menu"><li class="first last leaf active-trail kids-parents-and-video-games mid-1915"><a href="http://www.onguardonline.gov/articles/0270-kids-parents-and-video-games" class="active-trail active-trail active">Kids, Parents, and Video Games</a></li>
+</ul></li>
+<li class="collapsed be-smart-online mid-375"><a href="http://www.onguardonline.gov/topics/be-smart-online" title="">Be Smart Online</a></li>
+<li class="leaf video-and-media mid-1161"><a href="http://www.onguardonline.gov/media" title="">Video and Media</a></li>
+<li class="last leaf onguard-online-blog mid-1160"><a href="http://www.onguardonline.gov/blog">OnGuard Online Blog</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+        </div>
+       <!-- /sidebar-first -->
+    </div> <!-- /main-inner -->
+  </div> <!-- /main -->
+
+    <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer">
+        <div class="region region-footer">
+    <div id="block-panels_mini-footer" class="block block-panels-mini block-even clearfix">
+
+                		
+		  <div class="panel-display panel-footer clearfix" id="mini-panel-footer">
+ <div class = "panel-top">
+     <div class="panel-panel panel-col-top-l">
+      
+
+<div class="panel-pane pane-block pane-block-1 share-resources even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <a href="/share-our-resources">Share Our Resources. Here's How &gt;</a>  </div>
+
+  
+  </div>
+    </div>
+  
+ 
+    <div class="panel-panel panel-col-top-c">
+     
+
+<div class="panel-pane pane-block pane-block-3 even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <a href="https://public.govdelivery.com/accounts/USFTCOGOL/subscriber/new?category_id=USFTCOGOL_C1">Get Updates<br />by Email &gt;</a>  </div>
+
+  
+  </div>
+    </div>
+
+  
+      <div class="panel-panel panel-col-top-r">
+      
+
+<div class="panel-pane pane-block pane-ftc-social-media-ftc-social-media even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class = 'social-media'><li class='newsletter'><a href='https://public.govdelivery.com/accounts/USFTCOGOL/subscriber/new' target = 'blank'>Get Email Updates</a></li><li class='rss'><a href='/blog/rss' target = 'blank'>Blog Feed</a></li><li class='facebook'><a href='http://www.facebook.com/OnGuardOnline' target = 'blank'>Facebook</a></li><li class='youtube'><a href='http://www.youtube.com/playlist?list=PL13BDA056C386E83F&feature=plcp' target = 'blank'>YouTube</a></li></ul>  </div>
+
+  
+  </div>
+    </div>
+    
+  </div>
+<div class = "panel-bottom">
+
+  	     <div class="panel-panel panel-col-bottom-l">
+      
+
+<div class="panel-pane pane-node even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="content">
+	   
+
+
+          <div class="field-item evenfield field-name-field-icon field-type-image field-label-hidden">
+            <a href="http://onguardonline.gov" ><img typeof="foaf:Image" src="http://www.onguardonline.gov/sites/default/files/logo-footer-en.gif" width="220" height="93" alt="" /></a>
+            </div>
+    
+
+
+</div>
+
+
+  </div>
+
+  
+  </div>
+    </div>
+   
+
+     <div class="panel-panel panel-col-bottom-c">
+      
+
+<div class="panel-pane pane-block pane-menu-menu-footer even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf privacy-policy mid-640"><a href="http://www.onguardonline.gov/privacy-policy">Privacy Policy</a></li>
+<li class="leaf contact-us mid-643"><a href="http://www.onguardonline.gov/contact-us">Contact Us</a></li>
+<li class="leaf file-a-complaint mid-642"><a href="http://www.onguardonline.gov/file-complaint">File a Complaint</a></li>
+<li class="leaf about-us mid-914"><a href="http://www.onguardonline.gov/about-us">About Us</a></li>
+<li class="last leaf site-map mid-1712"><a href="http://www.onguardonline.gov/sitemap" title="">Site Map</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  
+      <div class="panel-panel panel-col-bottom-r">
+      
+
+<div class="panel-pane pane-block pane-views-partner-of-the-day-block-1 even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-partner-of-the-day view-id-partner_of_the_day view-display-id-block_1 view-dom-id-577f11da662a53f4980d04fff0ceb9ec">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <img typeof="foaf:Image" src="http://www.onguardonline.gov/sites/default/files/Justice.png" width="144" height="33" alt="" />    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+  
+
+  </div>
+</div>
+
+</div> <!-- /block -->
+  </div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+  </body>
+</html>

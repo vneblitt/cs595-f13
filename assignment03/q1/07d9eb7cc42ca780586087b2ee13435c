@@ -1,0 +1,442 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width = 1040" />
+  	<meta name="Description" content="We Help the World's Best Developers Make Better Software." />
+
+	
+	
+	<title>
+		     Fog Creek&#8217;s Help Desk Gets a New Look - Fog Creek Blog	</title>
+
+	<!-- css -->
+    <link type="text/css" href="http://www.fogcreek.com/css/kraken-core.css" rel="stylesheet" />
+	<link type="text/css" href="http://www.fogcreek.com/css/kraken-fogcreek.css" rel="stylesheet" />
+	<link type="text/css" href="http://blog.fogcreek.com/wp-content/themes/Fog-Creek-Blog-v1.2/style.css" rel="stylesheet" />
+    <!--[if lte IE 7]>
+      <link type="text/css" href="http://www.fogcreek.com/css/kraken-ie.css?v=8" rel="stylesheet" />
+    <![endif]-->
+
+	<!-- js -->
+	<script type="text/javascript" src="http://www.fogcreek.com/js/jquery-1.4.2.min.js?20090717204803"></script>
+	<script type="text/javascript" src="http://www.fogcreek.com/js/jquery.cookie.js"></script>  
+	<script type="text/javascript" src="http://www.fogcreek.com/js/abtest.js"></script>  
+
+	<!-- typekit -->
+	<script type="text/javascript" src="http://use.typekit.com/clo0vjg.js"></script>
+	<script type="text/javascript">    try { Typekit.load(); } catch (e) { }</script>
+
+	<!-- google analytics -->
+	<script type="text/javascript">
+	    var _gaq = _gaq || [];
+	    _gaq.push(['_setAccount', 'UA-225715-6']);
+	    _gaq.push(['_setDomainName', '.fogcreek.com']);
+	    _gaq.push(['_trackPageview']);
+
+	    (function () {
+	        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	    })();
+	</script>
+	<!-- Google +1 -->	
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<!-- fccmp tracking cookie -->
+	<script type="text/javascript">
+	(function(){
+		// look for fccmp parameter in the querystring
+		// fccmp can only be alphanumeric, which makes this very easy
+		var o = new RegExp("[\\?&]fccmp=[\\w]+");
+		var fccmp = o.exec(window.location.href);
+		// exec returns null if there are no matches
+		if (fccmp) {
+			// if fccmp is not null, then there has to be one element in fccmp
+			// and we only care about the first one we find
+			fccmp = fccmp[0];
+			// likewise if fccmp is not null
+			// then there has to be a '=' and it can't be the last char
+			fccmp = fccmp.substr(fccmp.indexOf("=") + 1);
+		} else if (!$.cookie('fccmp')){
+			fccmp = "_blog";
+		} else {
+			return;
+		}
+
+		// this cookie will expire in 90 days
+		var expires = new Date();
+		expires.setDate(expires.getDate() + 90);
+		//If there's an existing cookie, we want to preserve its value
+		var fccmpExisting = $.cookie('fccmp') ? $.cookie('fccmp') + escape(",") : "";
+		// set the cookie
+		// it's important to set the domain to ".fogcreek.com"
+		// which makes this cookie visible to all fogcreek.com sites
+		$.cookie('fccmp', fccmpExisting + escape(fccmp), {domain: '.fogcreek.com', path: '/', expires: expires.toGMTString()});
+	}());
+	</script>
+
+	<script type="text/javascript" src="http://www.fogcreek.com/js/fc.js"></script>
+
+
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	
+	<link rel="pingback" href="http://blog.fogcreek.com/xmlrpc.php" />
+
+	
+	<link rel="alternate" type="application/rss+xml" title="Fog Creek Blog &raquo; Feed" href="http://blog.fogcreek.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fog Creek Blog &raquo; Comments Feed" href="http://blog.fogcreek.com/comments/feed/" />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://blog.fogcreek.com/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel='prev' title='What&#8217;s New in Kiln? The Intern Edition' href='http://blog.fogcreek.com/whats-new-in-kiln-the-intern-edition/' />
+<link rel='next' title='Fog Creek&#8217;s Ad Hoc Remote Work Policy, or, Working From Grandma&#8217;s House' href='http://blog.fogcreek.com/fog-creeks-remote-work-policy/' />
+<link rel='canonical' href='http://blog.fogcreek.com/fog-creeks-help-desk-gets-a-new-look/' />
+<link rel='shortlink' href='http://blog.fogcreek.com/?p=3444' />
+<script src="http://blog.fogcreek.com/mint/?js" type="text/javascript"></script> 
+<link rel="shortcut icon" href="http://www.fogcreek.com/favicon.ico" />
+			      <link rel="icon" type="image/png" href="http://www.fogcreek.com/favicon.ico" />	
+</head>
+
+<body class="blog">
+	
+	 <div id="universal-nav">
+        <div class="wrapper">
+          <ul>
+            <li><a class="active" href="http://www.fogcreek.com/">Fog Creek</a></li>
+            <li><a href="http://www.fogcreek.com/fogbugz/">FogBugz</a></li>
+            <li><a href="http://www.fogcreek.com/kiln/">Kiln</a></li>
+            <li><a href="https://trello.com/">Trello</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="body-content">
+      	<div class="wrapper">
+
+		    <div id="header">
+		        <div id="header-branding">
+		          <h1><a href="/" title="Fog Creek Software">Fog Creek Software</a></h1>
+		        </div>
+		        <div id="header-nav">
+		          <ul>
+		            <li class="home"><a href="http://www.fogcreek.com/">Home</a></li>
+		            <li class="about"><a href="http://www.fogcreek.com/about.html">About</a></li>
+		            <li class="blog"><a href="http://blog.fogcreek.com/">Blog</a></li>
+			    <li class="support"><a href="http://help.fogcreek.com/">Support</a></li>
+		            <li class="careers"><a href="http://www.fogcreek.com/careers.html">Careers</a></li>
+		            <li class="contact"><a href="http://www.fogcreek.com/contact.html">Contact</a></li>
+		          </ul>
+		        </div>
+		    </div>
+
+    		<hr>
+
+    		<div class="section">
+	<div class="content">
+		
+			<div class="post" id="post-3444">
+				
+				<h1>Fog Creek&#8217;s Help Desk Gets a New Look</h1>
+				
+				<p class="quiet">
+	August 27th, 2013	by Max Kramer</p>
+				<div class="entry">
+					
+					<p>Howdy, FogBugz and Kiln users! For the past five or so years, we&#8217;ve posted documentation, helped answer questions, fielded feature requests, and collected mad rep with you on the FogBugz and Kiln Stack Exchanges.</p>
+<p><a href="http://blog.fogcreek.com/wp-content/uploads/2013/08/adambox.jpg"><img src="http://blog.fogcreek.com/wp-content/uploads/2013/08/adambox.jpg" alt="adambox" width="795" height="338" class="aligncenter size-full wp-image-3498" /></a></p>
+<p>While the two sites have been incredibly useful, both for supporting our products and as <a href="http://blog.fogcreek.com/dogfooding-until-it-hurts/">dogfooding grounds</a> for <a href="http://stackexchange.com/">Stack Exchange</a>, it&#8217;s come time to say goodnight to these faithful sites and move on to something new. </p>
+<p>Why, you might ask? We&#8217;ve been brainstorming ideas for a more effective support site for some time now, but things came to a head when the Stack servers running our [extremely old] sites were slated for decommissioning at the end of the summer. Once we learned this we immediately started crawling the two sites for useful content, and saved a full HTML archive of all posts (>15k, at last count) for reference down the line. </p>
+<p>Armed with years-worth of valuable questions, answers, and general knowledge from both users and Fog Creek staff alike, we set out to create the Fog Creek support site of the future. We painstakingly imported valuable content, deleted some sad Spam posts related to male body-part enhancement, and began a general cleanup of our documentation (which we&#8217;ll continue in the coming months). </p>
+<p>Without further ado, please meet the brand spankin&#8217; new <a href="http://help.fogcreek.com">Fog Creek Help Desk</a>! </p>
+<p><a href="http://blog.fogcreek.com/wp-content/uploads/2013/08/help_desk.jpg"><img src="http://blog.fogcreek.com/wp-content/uploads/2013/08/help_desk.jpg" alt="help_desk" width="1298" height="1097" class="aligncenter size-full wp-image-3448" /></a></p>
+<p>You can search the entire knowledge base <a href="http://help.fogcreek.com">here</a>, or browse <a href="http://help.fogcreek.com/fogbugz">FogBugz</a> or <a href="http://help.fogcreek.com/kiln">Kiln</a> articles and categories individually. As we make the transition, things might be a little rough around the edges; we&#8217;ve done our best to make sure that valuable content from the Stack sites has been ported over and updated accordingly, but don&#8217;t hesitate to <a href="http://fogcreek.com/sendmail.html">drop us a line</a> if you find that something is missing or outdated. Our goal with this site is to make *your* lives easier, and we want to know if it&#8217;s not getting the job done.</p>
+<p>Check out the <a href="http://help.fogcreek.com/about">about</a> page for more information on the new site, and let us know what you think!</p>
+
+					
+					<div class="post-footer">
+						<h2 class="social-header">Share this article</h2>
+						<div class="social clearfix">
+							<div class="social-section">
+								<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="fogcreek">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+							</div>
+
+							<div class="social-section">
+								<g:plusone size="medium"></g:plusone>
+							</div>
+
+							<div class="social-section">
+								<a href="http://www.reddit.com/submit" onclick="window.location = 'http://www.reddit.com/submit?url={{ request.base_url|escape }}'; return false"><img src="http://www.reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0" style="vertical-align: center; padding-top: 2px; border: none; -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;" /></a>
+							</div>
+
+							<div class="social-section">
+								<a href="http://news.ycombinator.com/submitlink?u=http%3A%2F%2Fblog.fogcreek.com%2Ffog-creeks-help-desk-gets-a-new-look%2F&t=Fog Creek&#8217;s Help Desk Gets a New Look"><img src="http://ycombinator.com/images/y18.gif" alt="submit to Hacker News" style="vertical-align: center; padding-left: 0; padding-right: 0; padding-top: 1px; border: none; -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;" /></a>
+							</div>
+
+							<div class="social-section last">
+								<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fblog.fogcreek.com%2Ffog-creeks-help-desk-gets-a-new-look%2F&amp;send=true&amp;layout=button_count&amp;width=130&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:130px; height:21px;" allowTransparency="true"></iframe>
+							</div>
+						</div>
+						
+						<div class="page-bottom-widget">
+							              <div id="brpwp_wrapper-3" class="widget widget_brpwp_wrapper">                  <h2>Featured articles</h2>							<ul class="no-bullets">
+																									<li  id="brpwp_2439" class="post-2439 post type-post status-publish format-standard hentry category-support tag-featured">
+																															<span class="brpwp-title"><a href="http://blog.fogcreek.com/fog-creeks-email-workflow/">Fog Creek&#8217;s Email Workflow</a></span>
+																																																												
+									</li>
+																										<li  id="brpwp_596" class="post-596 post type-post status-publish format-standard hentry category-general category-uncategorized tag-featured tag-sales">
+																															<span class="brpwp-title"><a href="http://blog.fogcreek.com/the-very-most-basic-things-your-company-needs-to-know-about-sales-part-1-of-4/">The very most basic things your company needs to know about sales (part 1 of 4)</a></span>
+																																																												
+									</li>
+																										<li  id="brpwp_2097" class="post-2097 post type-post status-publish format-standard hentry category-trello tag-featured">
+																															<span class="brpwp-title"><a href="http://blog.fogcreek.com/the-trello-tech-stack/">The Trello Tech Stack</a></span>
+																																																												
+									</li>
+																										<li  id="brpwp_1150" class="post-1150 post type-post status-publish format-standard hentry category-uncategorized tag-featured">
+																															<span class="brpwp-title"><a href="http://blog.fogcreek.com/girls-go-geek-again/">Girls Go Geek&#8230; Again!</a></span>
+																																																												
+									</li>
+																										<li  id="brpwp_1432" class="post-1432 post type-post status-publish format-standard hentry category-benefits category-fog-creek category-general tag-featured">
+																															<span class="brpwp-title"><a href="http://blog.fogcreek.com/the-price-of-dev-happiness-part-one/">The Price of (Dev) Happiness: Part One</a></span>
+																																																												
+									</li>
+																										<li  id="brpwp_2034" class="post-2034 post type-post status-publish format-standard hentry category-uncategorized tag-featured">
+																															<span class="brpwp-title"><a href="http://blog.fogcreek.com/why-do-we-pay-sales-commissions/">Why do we pay sales commissions?</a></span>
+																																																												
+									</li>
+																							</ul>
+              </div>        						</div>
+
+						<div class="developer-newsletter">
+							<h2>Subscribe to our Developer Newsletter <span>(once a month email)</span></h2>
+							<form id="subForm" action="http://fogcreek.createsend.com/t/r/s/iilyyh/" method="post">
+								<label for="iilyyh-iilyyh">Email Address:</label>
+								<input id="iilyyh-iilyyh" name="cm-iilyyh-iilyyh" type="text" class="text" /> 
+								<input type="submit" value="Subscribe" class="submit" />
+							</form>
+
+							<p class="quote">"We will not sell or share your email address, period."</p>
+							<p class="sayer">&mdash;&nbsp;Joel Spolsky, CEO, Fog Creek Software</p>
+						</div>
+					</div>
+
+				</div>
+				
+								
+			</div>
+		
+				
+	</div>
+	<div class="aside blog-sidebar">
+
+        
+        <!-- All this stuff in here only shows up if you DON'T have any widgets active in this zone -->
+
+        <div class="keep-in-touch">
+            <h4>Keep in Touch</h4>
+            <p class="newsletter"><a href="http://www.fogcreek.com/FogBugz/Newsletter.aspx">Get the Newsletter</a></p>
+            <p class="twitter"><a href="http://twitter.com/fogbugz">Follow Us on Twitter</a></p>
+            <p class="facebook"><a href="http://www.facebook.com/fogcreeksoftware">Join Our Facebook Group</a></p>
+        </div>
+        <hr>
+
+        <div>
+            <h4>Search</h4>
+            <form action="http://blog.fogcreek.com" id="searchform" method="get">
+    <div>
+        <input type="text" id="s" name="s" value="" placeholder="Search" />
+        <input type="submit" value="Search" id="searchsubmit" />
+    </div>
+</form>        </div>
+        <hr>
+
+        <div>
+        <h4>More</h4>
+        <ul>
+            <li class="archive">
+                <img alt="Archive" src="http://blog.fogcreek.com/wp-content/themes/Fog-Creek-Blog-v1.2/images/archive.gif">
+                <a href="/archive/">Archive</a>
+            </li>
+            <li class="rss">
+                <img class="rssButton" alt="RSS feed" src="http://blog.fogcreek.com/wp-content/themes/Fog-Creek-Blog-v1.2/images/rssbutton.gif">
+                <a href="http://blog.fogcreek.com/feed/">RSS</a>
+            </li>
+        </ul>
+        </div>
+        <hr>
+        
+        <div>
+        <h4>Categories</h4>
+        <ul>
+           	<li class="cat-item cat-item-12"><a href="http://blog.fogcreek.com/category/benefits/" title="View all posts filed under Benefits" rel="noindex,nofollow">Benefits</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://blog.fogcreek.com/category/copilot/" title="View all posts filed under Copilot" rel="noindex,nofollow">Copilot</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://blog.fogcreek.com/category/fog-creek/" title="View all posts filed under Fog Creek" rel="noindex,nofollow">Fog Creek</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://blog.fogcreek.com/category/fogbugz/" title="View all posts filed under FogBugz" rel="noindex,nofollow">FogBugz</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://blog.fogcreek.com/category/general/" title="View all posts filed under General" rel="noindex,nofollow">General</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://blog.fogcreek.com/category/kiln/" title="View all posts filed under Kiln" rel="noindex,nofollow">Kiln</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://blog.fogcreek.com/category/recruiting/" title="View all posts filed under Recruiting" rel="noindex,nofollow">Recruiting</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://blog.fogcreek.com/category/support/" title="View all posts filed under Support" rel="noindex,nofollow">Support</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://blog.fogcreek.com/category/trello/" title="View all posts filed under Trello" rel="noindex,nofollow">Trello</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://blog.fogcreek.com/category/uncategorized/" title="View all posts filed under Uncategorized" rel="noindex,nofollow">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://blog.fogcreek.com/category/wasabi/" title="View all posts filed under Wasabi" rel="noindex,nofollow">Wasabi</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://blog.fogcreek.com/category/webputty/" title="View all posts filed under WebPutty" rel="noindex,nofollow">WebPutty</a>
+</li>
+        </ul>
+        </div>
+        <hr>
+        
+        <div>
+        <h4>Fog Creek Bloggers</h4>
+        <ul>
+                </ul>
+        </div>
+        <hr>
+    
+    
+</div>
+	</div>
+	</div>
+    </div>
+
+    <div id="footer">
+        <div class="footer-wrapper">
+
+          <!-- BEGIN footer nav-->
+          <div class="footer-nav">
+
+            <!-- BEGIN FC footer col -->
+            <div class="footer-col">
+              <h4>Fog Creek</h4>
+              <ul>
+                <li> <a href="http://www.fogcreek.com/">Home</a> </li>
+                <li> <a href="http://www.fogcreek.com/about.html">About</a> </li>
+                <li> <a href="http://blog.fogcreek.com/">Blog</a> </li>
+                <li> <a href="http://help.fogcreek.com/">Support</a> </li>
+                <li> <a href="http://www.fogcreek.com/careers.html">Careers</a> </li>
+                <li> <a href="http://www.fogcreek.com/contact.html">Contact</a> </li>
+              </ul>
+            </div>
+
+            <!-- BEGIN FogBugz footer col -->
+            <div class="footer-col">
+              <h4>FogBugz</h4>
+              <ul>
+                <li> <a href="http://www.fogcreek.com/fogbugz/">Home</a> </li>
+                <li> <a href="http://www.fogcreek.com/fogbugz/documentation/">Documentation</a> </li>
+                <li> <a href="http://www.fogcreek.com/fogbugz/features/">Features</a></li>
+                <li> <a href="http://www.fogcreek.com/fogbugz/evidence-based-scheduling/">Evidence-Based Scheduling</a></li>
+                <li> <a href="http://www.fogcreek.com/fogbugz/training/">Training</a></li>
+                <li> <a href="http://www.fogcreek.com/fogbugz/pricing.html">Pricing</a> </li>
+                <li> <a href="http://www.fogcreek.com/fogbugz/extras.html">Extras</a> </li>
+                <li> <a href="http://www.fogcreek.com/fogbugz/platforms/">Supported Platforms</a> </li>
+                <li> <a href="http://www.fogcreek.com/fogbugz/resources/">Resources</a> </li>
+              </ul>
+            </div>
+
+            <!-- BEGIN Kiln footer col -->
+            <div class="footer-col">
+              <h4>Kiln</h4>
+              <ul>
+                <li> <a href="http://www.fogcreek.com/kiln/">Home</a></li>
+                <li> <a href="http://www.fogcreek.com/kiln/documentation/">Documentation</a> </li>
+                <li> <a href="http://www.fogcreek.com/kiln/features/team-up/">Features</a></li>
+                <li> <a href="http://www.fogcreek.com/kiln/training/">Training</a></li>
+                <li> <a href="http://www.fogcreek.com/kiln/pricing.html">Pricing</a></li>
+              </ul>
+            </div>
+
+            <!-- BEGIN Support footer col -->
+            <div class="footer-col">
+              <h4>Support</h4>
+              <ul>
+		<li> <a href="http://www.fogcreek.com/Contact.html">Contact</a> </li>
+		<li> <a href="http://status.fogcreek.com">On Demand Status</a> </li>
+		<li> <a href="http://help.fogcreek.com/fogbugz/">FogBugz</a> </li>
+		<li> <a href="http://help.fogcreek.com/kiln/">Kiln</a> </li>
+		<li> <a href="http://help.trello.com/">Trello</a> </li>
+		<li> <a href="http://fogcreek.com/privacy.html">Privacy Policy</a> </li>
+		<li> <a href="http://fogcreek.com/security.html">Security Policy</a> </li>
+              </ul>
+            </div>
+
+	    <!-- BEGIN More footer col -->
+	    <div class="footer-col double-wide">
+	    <h4>More</h4>
+	      <ul>
+		<li> <a href="http://www.copilot.com">Copilot</a> </li>
+		<li> <a href="http://www.hginit.com/">Hg Init</a> </li>
+		<li> <a href="http://careers.joelonsoftware.com/Jobs/">Joel on Software Job Board</a> </li>
+		<li> <a href="http://businessofsoftware.org/">Business of Software</a> </li>
+	      </ul>
+	    </div>
+
+            <div class="clear"></div>
+          </div>
+          <!-- END footer nav-->
+
+          <!-- BEGIN contact-->
+          <div class="footer-contact">
+
+            <div class="third left">
+              <h4> General Contact </h4>
+              <ul>
+                <li class="phone">Phone North America: <br> <span class="icon"></span> 1-866-FOG-CREEK (866-364-2733)</li>
+                <li class="phone">Phone Outside North America: <br> <span class="icon"></span> +1 (212) 279-2335</li>
+              </ul>
+            </div>
+
+            <div class="third left">
+              <h4> Sales and Tech Support </h4>
+              <ul>
+                <li class="phone">Phone North America: <br> <span class="icon"></span> 1-888-FOGBUGZ (888-364-2849)</li>
+                <li class="phone">Phone Outside North America:<br> <span class="icon"></span> +1 (212) 279-2076 </li>
+                <li class="email">Email: <br> <a href="mailto:customer-service@fogcreek.com"><span class="icon"></span> customer-service@fogcreek.com</a> </li>
+              </ul>
+            </div>
+
+            <div class="third left last">
+              <h4> Stay in Touch </h4>
+              <ul>
+                <li class="newsletter"> <a href="http://www.fogcreek.com/fogbugz/newsletter.aspx"><span class="icon"></span> Newsletter </a> </li>
+                <li class="twitter"> <a href="http://www.twitter.com/fogbugz/"><span class="icon"></span> Twitter </a> </li>
+                <li class="facebook"> <a href="http://www.facebook.com/group.php?gid=5762412222"><span class="icon"></span> Facebook </a> </li>
+              </ul>
+            </div>
+
+          </div>
+
+          <!-- END contact-->
+
+          <div id="copyright">
+            <p>
+              <a href="http://nytm.org/made/">Made in NYC</a> &copy; Copyright 2000-2013 Fog Creek Software, Inc. All rights reserved.
+              55 Broadway, 25th Floor, New York City, NY 10006.
+            </p>
+          </div>
+        </div>
+
+    </div>
+
+      <!-- crazy egg -->
+
+      <script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1669.js"> </script>
+
+            
+    </body>
+
+</html>
+<!-- Dynamic page generated in 0.242 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2013-09-30 09:30:06 -->

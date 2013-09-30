@@ -1,0 +1,2659 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns:og="http://ogp.me/ns#">
+<head>
+  <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/8067.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<script type="text/javascript">
+   var external_id = 'UA-1420324-52';
+   var _gaq = _gaq || [];
+   _gaq.push(['_setAccount', 'UA-12552489-1'],
+             ['_setDomainName', 'auto'],
+             ['_trackPageview']); 
+   if(typeof external_id != "undefined"){
+     _gaq.push(['b._setAccount', 'UA-1420324-52'],
+               ['b._setDomainName', 'auto'],
+               ['b._trackPageview']);
+   }
+   (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+   })();
+</script>
+  
+  
+    <script type="text/javascript">
+    var jsErrors = "";
+    window.onerror = function myErrorHandler(errorMsg, url, lineNumber) {
+      jsErrors += url.toString() + "\n";
+      jsErrors += "Line ";
+      jsErrors += lineNumber.toString();
+      jsErrors += " : ";
+      jsErrors += errorMsg.toString() + "\n";
+    }
+    </script>
+
+  <script type="text/javascript" charset="utf-8">
+    var registered_messages = [];
+    var controller_js = 'http://cdn.bibliocommons.com/javascripts/search.js?1370443704_files';
+  </script>                                         
+  <title>Search | New York Public Library | BiblioCommons</title>
+  <meta http-equiv="Content-Language" content="en-us">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="App-Version" content="Version stieb1 (stieb1)  Last updated 2013/09/25 10:13 [appserver5]">
+
+	
+   
+    <meta property="og:title" content="Search | New York Public Library | BiblioCommons">
+        <meta name="description" content="Jane Addams  (Online Periodical or Article) - Jane Addams  (Website or Online Data) - Jane Addams  (Website or Online Data) - Jane Addams Spirit in Action (Book) - Jane Addams Champion of Democracy (Book) - Jane Addams  (Book) - Jane Addams  (Book) - Jane Addams A Writer's Life (Book) - Jane Addams Illustrated by Frank Aloise (Book) - Jane Addams A Biography (Book)">
+
+
+                  <meta property="og:image" content="http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=0393071650&content=M&Return=1&Type=M">
+          <meta property="og:image" content="http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=0618504362&content=M&Return=1&Type=M">
+          <meta property="og:image" content="http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=158952165X&content=M&Return=1&Type=M">
+          <meta property="og:image" content="http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=1555466362&content=M&Return=1&Type=M">
+          <meta property="og:image" content="http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=0252029232&content=M&Return=1&Type=M">
+  <meta property="og:image" content="http://nypl.bibliocommons.com/images/NY-NEWYORKCITY-DIGITAL-UNION/logo.png?1380531809882">
+
+  <link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/base_master.css?1380531809882" media="all" rel="stylesheet" type="text/css">
+    <link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/search.css?1380531809882" media="all" rel="stylesheet" type="text/css">
+    <link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/stylesheet.css?1380531809882" media="all" rel="stylesheet" type="text/css">
+    <link href="http://cdn.bibliocommons.com/stylesheets/fontello/fontello.css?1379946943" media="all" rel="stylesheet" type="text/css">
+    <link href="http://cdn.bibliocommons.com/stylesheets/fontello/animation.css?1370443704" media="all" rel="stylesheet" type="text/css">
+
+  <style type="text/css" media="screen" id="defaultStickyWinStyle">
+    @import url("http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/bc/StickyWin.css?1380531809882");
+  </style>
+  <!--[if lt IE 9]><link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/bc/IE.css?1380531809882" media="screen" rel="stylesheet" type="text/css"><![endif]-->
+  <!--[if IE 6]><link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/bc/IE6.css?1380531809882" media="screen" rel="stylesheet" type="text/css"><![endif]-->
+  <!--[if IE 7]><link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/bc/IE7.css?1380531809882" media="screen" rel="stylesheet" type="text/css"><![endif]-->
+  <!--[if IE 8]><link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/bc/IE8.css?1380531809882" media="screen" rel="stylesheet" type="text/css"><![endif]-->
+
+      <script type="text/javascript" charset="UTF-8" src="http://nypl.bibliocommons.com/jsvars.js"></script>
+      <script type="text/javascript" charset="UTF-8" src="http://nypl.bibliocommons.com/jsvars/other.js?1380531809882"></script>
+
+  
+  <script type="text/javascript">
+    if (typeof console == "undefined" || typeof console.debug == "undefined") var console = { log: function() {}, warn: function() {}, info: function() {}, error: function() {} }; 
+    console.debug = function() {};
+    var messages = [];
+  </script>
+  
+  <link href="http://cdn.bibliocommons.com/stylesheets/NY-NEWYORKCITY-DIGITAL-UNION/print.css?1380531809882" media="print" rel="stylesheet" type="text/css">
+
+  <script type="text/javascript">
+    document.write("<style type=\"text/css\">.hide_on_script{display:none;}</style>");
+
+      var event_query = ""
+
+  </script>
+    
+  <link rel="shortcut icon" href="/images/NY-NEWYORKCITY/favicon.ico"/>  
+</head>
+<body class="two_col"> 
+  <div class="screen-reader-text" role="navigation">
+    <a  href="#globalQuery" tabindex="1">Skip To Search</a>
+    <a  href="#content-start" tabindex="2">Skip To Content</a>
+  </div>
+  
+  
+<div class="messaging" id="id_9i0qfxlywsi7kk6hihl1hu6z4">
+  <div class="messageContent">
+    <span class="message-icon"></span>
+    <div class="top_message" id="msg_id_8tfpw276zothtr3gzkxqajegg" >
+      <a name=""></a>
+    </div>
+  </div>
+  <div class="closeButton" onClick="javascript:Messages.clear();"></div>
+</div>
+<script type="text/javascript" charset="utf-8">
+    registered_messages.push( {element: 'msg_id_8tfpw276zothtr3gzkxqajegg', key: [], type: ["message","error"]});
+</script>
+  <div id="globalSpinner" class="spinner">	
+	<img alt="Ajax-loader" src="http://cdn.bibliocommons.com/images/ajax-loader.gif?1360704916">
+</div>
+
+    <div id="biblioMasterMessage">
+  <p style="text-align:left;" class="clearfix"><a class='bc-buttons right is-danger' href="https://secure3.convio.net/nypl/site/Donation2?4700.donation=form1&df_id=4700&s_src=FRS13SE_QBCN">DONATE</a>Dear Library Patrons, NYPL relies on readers like you to buy new bestsellers, science books for kids, GED and SAT guides, and so much more. <strong>Give before September 30 and your gift will be matched.</strong></p> 
+</div>
+
+
+  
+  <div id="biblioMasterMessage" style="display:none">
+    <!-- IE7 Browser Message -->
+    <p>You are using Internet Explorer 7.0 to view this site. IE7 is a 6-year-old browser that does not display modern web sites properly. Please upgrade to a newer browser to make best use of this site. Contact your local library branch if you require assistance. <br>For more information, see this <a href="http://help.bibliocommons.com/045faq/000faq-system/" target="_blank" class="highlight">FAQ page</a>.</p><p>Download <a href="http://www.google.com/chrome/index.html" target="_blank" class="highlight">Chrome</a>, <a href="http://www.mozilla.org/en-US/firefox/new/" target="_blank" class="highlight">Firefox</a> or a newer version of <a href="http://windows.microsoft.com/en-US/internet-explorer/download-ie" target="_blank" class="highlight">Internet Explorer</a></p>
+  </div>
+
+  <div id="page" class="js_disabled"> 
+    <div class="modal-wrap"></div>
+    <div class="modal-box" aria-atomic="true" aria-live="polite" aria-relevant="additions" aria-relevant="text">
+      <a href="" class="close" style="display:block;" aria-label="Close Modal"></a>
+    </div>
+    
+    <div id="header" class="clearfix">
+    <div id="language" class="dropDown">
+       <a href="javascript:void(0)" class="dropBtn dropDownArrow" id="localization_trigger" title=""><img alt="" src="http://cdn.bibliocommons.com/images/icon.drop.arrow.gif?1377722035"></a>
+      <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.drop.arrow.on.gif?1360704916">
+ 
+		<a href="" class="userLink flag">English</a>
+    <ul class="dropDownContent">
+        <li></li>
+        <li><a href="/info/switch_language?selected_language=es-ES" class="dropdownitem">Español</a></li>
+        <li><a href="/info/switch_language?selected_language=fr-CA" class="dropdownitem">Français</a></li>
+        <li><a href="/info/switch_language?selected_language=ru-RU" class="dropdownitem">Русский</a></li>
+        <li><a href="/info/switch_language?selected_language=zh-CN" class="dropdownitem">中文</a></li>
+    </ul>
+  </div>
+
+   	 
+  	<div class="logo">
+      	<a href="http://nypl.org"><img alt="New York Public Library" src="http://cdn.bibliocommons.com/images/NY-NEWYORKCITY-DIGITAL-UNION/logo.png?1380531809882"></a>
+    </div>       
+	 
+  <div id="navAndSearch" class="clearfix">   
+	  
+<div id="userNav" class="clearfix">
+  <div id="userAction">    	
+	    <div class="defaultOptions">
+	        
+          
+
+
+		
+		       
+          
+          <a href="https://secure3.convio.net/nypl/site/SPageServer?pagename=donation_form&amp;JServSessionIdr003=dwcz55yj27.app304a&amp;s_src=FRQ13ZZ_BLCN" class="userLink" >Donate</a> 
+           
+          <a href="http://help.bibliocommons.com" class="userLink" id="header_help" >Help</a> 
+
+           
+                <a href="https://nypl.bibliocommons.com/user/login" class="userLink" >Log In</a>
+                
+           
+	      
+	    </div>
+	</div>
+	<div id="scopeNav">
+		
+	</div>
+</div>
+    
+    
+  		
+  		
+  		<form action="/search" class="clearfix" id="globalSearch" method="get" onsubmit="">
+        <h1>Find books, music, movies, and more.</h1>
+				
+				<select class="hideMe" id="t" name="t" ><option title="Keyword" value="smart">Keyword</option>
+<option title="Title" value="title">Title</option>
+<option title="Author" value="author">Author</option>
+<option title="Series" value="series">Series</option>
+<option title="Subject" value="subject">Subject</option>
+<option title="Tag" value="tag">Tag</option>
+<option title="List" value="userlist">List</option>
+<option title="User" value="user">User</option></select>
+				<input id="search_category" name="search_category" type="hidden" value="keyword">		
+				 
+	 
+				<input aria-label="Search Catalog" class=" text" id="globalQuery" name="q" type="text" value="Jane Addams">
+ 	   		    <input alt="Search" class="search_button" name="commit" role="button" title="Search" type="submit" value="Search">
+  		    <div class="searchOptions">
+    				<input aria-label="Search within the catalogue" checked="checked" class="inline" id="searchOpt_catalogue" name="searchOpt" type="radio" value="catalogue"><label for="searchOpt_catalogue" class="inline">Catalog</label>
+    					<input aria-label="Search within NYPL.ORG" class="inline" id="searchOpt_website" name="searchOpt" type="radio" value="website"><label for="searchOpt_website" class="inline">NYPL.ORG</label>
+    			</div>     
+  			                      
+  			
+  			<a href="/search" class="moreSearch" >Advanced Search</a>
+        
+</form>  	
+  </div>
+
+  <br class="clear">
+  <a class="screen-reader-text" href="#content-start">Skip Navigation</a>
+  <div id="topNav" class="drop_shadow" role="navigation" >
+    <ul id="mainNav" role="menubar" class="clearfix" aria-haspopup="true">
+  
+<li role="menu" class="drop_shadow   " id="top_nav_item_id_axcd5v0j7800ymoqsxf19cnh4">
+	<a href="http://www.nypl.org/" class="navLabel  ">Home</a></li>
+<li role="menu" class="drop_shadow dropDown  extendedNav" id="top_nav_item_id_6yjzeza4kwf5199qe5z8qt8dp">
+	<a href="/dashboard/user_dashboard" class="navLabel  " >My NYPL</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="navColumn">
+  <h5>My Borrowing</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="/checkedout" >Checked Out</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/holds/index/active" >Holds</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/fines" >Fines</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/accountmessages" >Library Messages</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>My Collections</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="/collection/show/my/library/completed" >My Shelves</a>
+    </li>
+            <li class="dropDownItem indented"><a href="/collection/show/my/library/completed" >Completed</a></li>
+            <li class="dropDownItem indented"><a href="/collection/show/my/library/in_progress" >In Progress</a></li>
+            <li class="dropDownItem indented"><a href="/collection/show/my/library/for_later" >For Later</a></li>
+    <li class="dropDownItem">
+      <a href="/lists/show/mine" >My Lists</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>My Community</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="/trustedsources" >I'm Following</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/recently_shared" >Recently Shared</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/ignoredusers" >Ignored Users</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/messages" >Inbox</a>
+    </li>
+  </ul>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow dropDown  extendedNav" id="top_nav_item_id_dgc3rt7nemmzvsjcyla3nvsb2">
+	<a href="/dashboard/index" class="navLabel  " >Explore</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="navColumn">
+  <h5>New & Notable</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="/dashboard" >Recent Activity</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/explore/index/newly_acquired?f_on_order=false">New Titles</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/explore/index/awards" >Awards</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/explore/index/best_sellers" >Bestsellers</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>Collections</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="/search?q=books&amp;t=smart&amp;search_category=keyword&amp;title=Books">Books</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://nypl.org/ebooks">Ebooks and Audiobooks</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/search?q=movies&amp;t=smart&amp;search_category=keyword&amp;title=Movies">Movies</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/search?t=smart&amp;search_category=keyword&amp;q=music&amp;commit=Search&amp;searchOpt=catalogue&amp;title=Music+and+Recordings">Music and Recordings</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="/search?t=smart&amp;search_category=keyword&amp;q=magazines&amp;commit=Search&amp;searchOpt=catalogue&amp;title=Periodicals">Periodicals</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://digitalgallery.nypl.org/">Images</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/collections/nypl-collections/braille-talking-books">Braille and Talking Books</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>Made at NYPL</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/blog/all">Blogs</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/voices/audio-video">Audio & Video</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/voices/print-publications">Print Publications</a>
+    </li>
+  </ul>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow dropDown  extendedNav" id="top_nav_item_id_5rcyqlr8hbwmkxlmm35byzv2k">
+	<a href="http://www.nypl.org/collections" class="navLabel  ">Research</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="navColumn">
+  <h5>Electronic Resources</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/collections/articles-databases">Articles and Databases</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/events/online-exhibitions">Online Exhibitions</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://digitalgallery.nypl.org/nypldigital/index.cfm">Digital Gallery</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/collections/labs">NYPL Labs</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/online_projects">Digital Projects</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>Tools and Services</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://catalog.nypl.org/">Classic Catalog</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/collections/nypl-recommendations/guides">Research Guides</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/specialindexes">Indexes to NYPL Collections</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/ask-nypl/research-questions-reproductions">Get Copies</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/collections/nypl-recommendations">NYPL Recommendation</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>Collections</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/research-collections">Research Collections</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/find-archival-materials">Manuscripts and Archives</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://wallachprintsandphotos.nypl.org/">Prints and Photos Online Catalog</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/collections/nypl-collections/preservation-division">Preservation of NYPL Collections</a>
+    </li>
+  </ul>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow dropDown  extendedNav" id="top_nav_item_id_5oywn0obryudx0qwbpuupc3ud">
+	<a href="http://www.nypl.org/help" class="navLabel  ">Using the Library</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="navColumn">
+  <h5>Get Oriented</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/library-card">Get a Library Card</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/borrowing-materials">Borrowing</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/finding-things">How to Find Things</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/computers-internet-and-wireless-access">Computers</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities">Accessibility</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/about-nypl">About the NYPL</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/voices/connect-nypl">Connect with NYPL</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>Services</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/ask-nypl">AskNYPL</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/computers-internet-and-wireless-access/reserving-computer">Reserve a PC</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/community-outreach">Community Outreach</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/ask-nypl/research-questions-reproductions">Get Copies</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/help/research-services/interlibrary-loan">Interlibrary Loan</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/spacerental">Space Rental</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://shop.nypl.org/">The Library Shop</a>
+    </li>
+  </ul>
+</li>
+<li class="navColumn">
+  <h5>I am a…</h5>
+  <ul class="third_tier">
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/node/29643">Teacher</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/node/54754">Job Seeker</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://smallbiz.nypl.org/">Small Business Owner</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/node/29646">Child</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/node/29647">Teen</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/node/87">Person with a Disability</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/node/29870">Recent Immigrant</a>
+    </li>
+    <li class="dropDownItem">
+      <a href="http://www.nypl.org/support">NYPL Donor</a>
+    </li>
+  </ul>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow dropDown  " id="top_nav_item_id_kr0xnewrnwaoyl4t9plr9nxp">
+	<a href="http://www.nypl.org/locations" class="navLabel  ">Locations</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="dropDownItem">
+	<a href="http://www.nypl.org/locations#manhattan-list">Manhattan</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/locations#bronx-list">The Bronx</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/locations#statenisland-list">Staten Island</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/locations#research-list">Research Libraries</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/help/getting-oriented/brooklyn-queens-libraries">Brooklyn & Queens</a>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow dropDown  " id="top_nav_item_id_9kej1k0rfpaqy4svybwq6akxm">
+	<a href="http://www.nypl.org/events" class="navLabel  ">Classes & Events</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="dropDownItem">
+	<a href="http://www.nypl.org/events/exhibitions">Current Exhibitions</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/events/public-programs">Programs</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/events/classes">Classes</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/events/tours">Tours</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/events/exhibitions-past">Past Exhibitions</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/events/live-nypl">LIVE from the NYPL</a>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow dropDown  " id="top_nav_item_id_62yjba6zb0xplbb65w09i9i9i">
+	<a href="http://www.nypl.org/support" class="navLabel  ">Support the Library</a>	<div class="dropDownContent">
+		<ul role="menu" class="second_tier clearfix" aria-haspopup="true">
+			<li class="dropDownItem">
+	<a href="http://www.nypl.org/donate">Donate</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/support/membership">Membership</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/support/membership/friends-library">Monthly Giving</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/support/benefit-events">Benefits Events</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/support/planned-giving">Planned Giving</a>
+</li>
+<li class="dropDownItem">
+	<a href="http://www.nypl.org/support">More…</a>
+</li>
+
+		</ul>
+	</div>
+</li>
+<li role="menu" class="drop_shadow   " id="top_nav_item_id_aorheg9vjhz6hzguhdh3wmfhq">
+	<a href="http://www.nypl.org/ask-nypl" class="navLabel  ">Help</a></li>
+</ul>
+<div> <!-- clearing navigation for multiline nav instances. --> </div>
+
+  </div>
+</div>
+
+
+    <div class="errorSpace messaging">
+      <div class="errors"></div>
+    </div>
+
+    <div class="messageSpace messaging">
+      <div class="messages"></div>
+    </div>
+
+ 
+  	  
+	  
+	
+    <div id="main" class="clearfix">
+      <a class="screen-reader-text" name="content-start"></a>
+                           
+      <div id="content"> 
+        <div class="content clearfix">   
+  <div class="titleBlock clearfix search_with_results">
+ 
+    
+        <div class="preTitle">
+          Keyword search results for&hellip;
+            
+	<a href="http://help.bibliocommons.com/010searching" class="help_icon blockHijack inline" id="main_help_010searching_id_4tfor3ad2qt3187j7w2h7qlyc" target="_blank"><img alt="" class="helpImage" id="tooltip_for_010searching_0.0678544725634583" src="http://cdn.bibliocommons.com/images/icon.help.png?1360704916" title="More Info"></a>
+ 
+        </div>
+      <h1 >
+        Jane Addams</h1>          
+                 
+      
+    
+    	
+    
+          
+  
+       
+</div>       
+
+
+   
+    <div class="search_list_buttons_wrapper">
+ <fieldset class="searchListButtons clearfix">
+      <div id="viewSelector" class="right">
+
+    	<a href="/search?commit=Search&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart&amp;view=medium" class="bc-active" id="view-medium" >Cover View</a>
+
+
+    	<a href="/search?commit=Search&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart&amp;view=small" id="view-small" >List View</a>
+
+
+    	<a href="/search/print_list?commit=Search&amp;display_quantity=50&amp;entire_list=true&amp;page=1&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart" alt="__view_selector_print__" id="view-print" onclick="window.open(this.href,'printWindow','resizable=1,status=0,toolbar=0,scrollbars=1,location=0,menubar=0');return false;" >Show Printable View</a>
+
+</div>
+
+   <div class="viewSelect clearfix">  		      
+		
+ 
+
+
+<div class="sort_selector">
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	Sort by  
+	<select class="sortSelector " id="sortSelector" name="sort[/search]" ><option title="Relevance" value="CATALOG_SEARCH_FIELDS!RELEVANCY!descending" selected="selected">Relevance</option>
+<option title="Date acquired" value="BIB_FIELDS!NEWLY_ACQUIRED!descending">Date acquired</option>
+<option title="Title" value="BIB_FIELDS!TITLE!ascending">Title</option>
+<option title="Author" value="BIB_FIELDS!AUTHOR!ascending">Author</option>
+<option title="Published date" value="BIB_FIELDS!PUBLISHED_DATE!descending">Published date</option>
+<option title="Rating" value="UGC_FIELDS!UGC_RATING!descending">Rating</option></select>		<script type="text/javascript" charset="utf-8">
+			var INIT_SORT_SELECTOR = true;
+		</script>
+
+</div>
+<div class="clear"></div>
+
+
+    </div>
+    <div class="save_search_wrapper">
+  <a href="javascript:void(0)" onclick="return false;"  class="save_search">Save Search</a>
+  <div class="enter_name">
+    <label>Name your search:  </label>
+    <form action="/search/save_search" id="save_this_search" method="post" name="save_this_search"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="8a48a4a393f6e927844687cba518bdfe7281ed0e"></div>      <input class="text" id="search_name" name="search_name" type="text" value="Jane Addams">
+      <input type="hidden" id="search_string" name="search_string" value="" />
+
+
+      <input class="submit_button" id="commit_save" name="commit" role="button" type="submit" value="Save">
+      <a href="#" class="close_button" id="close_button" >Close</a>
+</form>
+  </div>
+</div>
+ </fieldset>
+</div>
+
+<div class="splitContent clearfix">     
+  <form action="/search/process_form" autocomplete="off" class="list mainContent" id="searchList" method="post" onsubmit="return false;"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="8a48a4a393f6e927844687cba518bdfe7281ed0e"></div>
+    <div class="pageInfo clearfix"> 
+      <p class="total">
+				Found <strong >447</strong>  items
+	
+			</p>   
+			  
+ 			<p class="broaden">
+					
+		      	<a href="/search?commit=Search&amp;last_search_scope=nypl&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=bkw&amp;search_scope=nypl&amp;suppress=true&amp;t=bkw&amp;title=Jane+Addams" class="extendSearch" >Broaden your search &raquo;</a> 
+					        
+			</p> 
+    </div>
+
+    <input id="search_token" name="search_token" type="hidden" value="5c73dae3">
+   
+    <div id="bibList" class="searchResults">
+      
+<div id="bib-medium" class="list clearfix">
+  
+      <div id="bib18978278052907" class="listItem clearfix ">         
+  
+    <div class="disabled_overlay">processing&hellip;</div> 
+  
+  <div class="clearfix">
+    	
+
+		<a href="/item/show/18978278052907_jane_addams" class="jacketCoverLink" target="_parent" title="Jane Addams"><img alt="Jane Addams" class="jacketCover medium" fallback="http://cdn.bibliocommons.com/images/default_covers/icon-journal-eformat.png?1360704916" id="18978278052907" src="http://cdn.bibliocommons.com/images/default_covers/icon-journal-eformat.png?1360704916" title="Jane Addams"></a>
+	<div class="info">
+		<span class="title"><a href="/item/show/18978278052907_jane_addams" target="_parent" title="Jane Addams (Online Periodical or Article)">Jane Addams</a></span>
+		
+		
+		
+			<span class="format">
+		(<strong>Online Periodical or Article</strong> - 2010-)
+	</span>
+
+		
+		
+
+  		  
+
+	<span class="item_download"><a href="http://ic.galegroup.com/ic/bic1/person/actionWin?limiter=&amp;displayGroups=&amp;query=&amp;prodId=BIC1&amp;action=e&amp;windowstate=normal&amp;catId=GALE%7C00000000MRRB&amp;scanId=&amp;display-query=&amp;mode=view&amp;userGroupName=nypl" target="_blank">Available via Gale Biography in Context Available from home with a valid library card and onsite at NYPL &raquo;</a></span>
+
+
+		
+	</div>
+	<div class="itemButtons clearfix">
+		  	
+
+		  
+   
+  <div class="dropDown saveStatus" id="bibStatus_18978278052907_id_9swspz3ldej1lidsyisidomlh"> 
+     <a href="#" class="button dropBtn dropDownArrow clearfix" id="trigger_18978278052907_id_9swspz3ldej1lidsyisidomlh" title=""><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.png?1360704916"></a>
+     <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.on.png?1360704916">
+     <a href="#" class="trigger button " >Add to My Shelves</a>
+       <ul class="dropDownContent">
+
+         	<li class=""><a href="/collection/add/my/library?bib=18978278052907&amp;bib_status=past" with_hook="ajax_link">Completed</a></li>
+<li class=""><a href="/collection/add/my/library?bib=18978278052907&amp;bib_status=present" with_hook="ajax_link">In Progress</a></li>
+<li class=""><a href="/collection/add/my/library?bib=18978278052907&amp;bib_status=future" with_hook="ajax_link">For Later</a></li>
+ 
+                                                     
+       </ul>
+   </div>
+
+	</div>
+	
+
+  </div>
+</div>	
+      <div id="bib19857108052907" class="listItem clearfix ">         
+  
+    <div class="disabled_overlay">processing&hellip;</div> 
+  
+  <div class="clearfix">
+    	
+
+		<a href="/item/show/19857108052907_jane_addams" class="jacketCoverLink" target="_parent" title="Jane Addams"><img alt="Jane Addams" class="jacketCover medium" fallback="http://cdn.bibliocommons.com/images/default_covers/icon-other.png?1360704916" id="19857108052907" src="http://cdn.bibliocommons.com/images/default_covers/icon-other.png?1360704916" title="Jane Addams"></a>
+	<div class="info">
+		<span class="title"><a href="/item/show/19857108052907_jane_addams" target="_parent" title="Jane Addams (Website or Online Data)">Jane Addams</a></span>
+		
+		
+	  <span class="author">
+       By <a href="/search?q=Stevenson%2C+Keira&amp;search_category=author&amp;t=author" class="author_detail_link" target="_parent" title="Stevenson, Keira">Stevenson, Keira</a>
+	  </span>
+      
+
+		
+			<span class="format">
+		(<strong>Website or Online Data</strong> - 2005)
+	</span>
+
+		
+		
+
+  		  
+
+	<span class="item_download"><a href="http://WU9FB9WH4A.search.serialssolutions.com/?V=1.0&amp;L=WU9FB9WH4A&amp;S=JCs&amp;C=TC0000882348&amp;T=marc&amp;tab=BOOKS" target="_blank">Available onsite at NYPL &raquo;</a></span>
+
+
+		
+	</div>
+	<div class="itemButtons clearfix">
+		  	
+
+		  
+   
+  <div class="dropDown saveStatus" id="bibStatus_19857108052907_id_8wltx5yjeoxy3df4xct2zwd90"> 
+     <a href="#" class="button dropBtn dropDownArrow clearfix" id="trigger_19857108052907_id_8wltx5yjeoxy3df4xct2zwd90" title=""><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.png?1360704916"></a>
+     <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.on.png?1360704916">
+     <a href="#" class="trigger button " >Add to My Shelves</a>
+       <ul class="dropDownContent">
+
+         	<li class=""><a href="/collection/add/my/library?bib=19857108052907&amp;bib_status=past" with_hook="ajax_link">Completed</a></li>
+<li class=""><a href="/collection/add/my/library?bib=19857108052907&amp;bib_status=present" with_hook="ajax_link">In Progress</a></li>
+<li class=""><a href="/collection/add/my/library?bib=19857108052907&amp;bib_status=future" with_hook="ajax_link">For Later</a></li>
+ 
+                                                     
+       </ul>
+   </div>
+
+	</div>
+	
+
+  </div>
+</div>	
+      <div id="bib17036496052907" class="listItem clearfix ">         
+  
+    <div class="disabled_overlay">processing&hellip;</div> 
+  
+  <div class="clearfix">
+    	
+
+		<a href="/item/show/17036496052907_jane_addams" class="jacketCoverLink" target="_parent" title="Jane Addams"><img alt="Jane Addams" class="jacketCover medium" fallback="http://cdn.bibliocommons.com/images/default_covers/icon-other.png?1360704916" id="17036496052907" src="http://cdn.bibliocommons.com/images/default_covers/icon-other.png?1360704916" title="Jane Addams"></a>
+	<div class="info">
+		<span class="title"><a href="/item/show/17036496052907_jane_addams" target="_parent" title="Jane Addams (Website or Online Data)">Jane Addams</a></span>
+		
+		
+	  <span class="author">
+       By <a href="/search?q=United+States%2C+Federal+Bureau+of+Investigation&amp;search_category=author&amp;t=author" class="author_detail_link" target="_parent" title="United States, Federal Bureau of Investigation">United States, Federal Bureau of Investigation</a>
+	  </span>
+      
+
+		
+			<span class="format">
+		(<strong>Website or Online Data</strong> - 2003?)
+	</span>
+
+		
+		
+
+  		  
+
+	<span class="item_download"><a href="http://purl.access.gpo.gov/GPO/LPS97311" target="_blank">Full text online: Access Now &raquo;</a></span>
+
+
+		
+	</div>
+	<div class="itemButtons clearfix">
+		  	
+
+		  
+   
+  <div class="dropDown saveStatus" id="bibStatus_17036496052907_id_38l0ybcmojoz43p5w0tjthf2m"> 
+     <a href="#" class="button dropBtn dropDownArrow clearfix" id="trigger_17036496052907_id_38l0ybcmojoz43p5w0tjthf2m" title=""><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.png?1360704916"></a>
+     <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.on.png?1360704916">
+     <a href="#" class="trigger button " >Add to My Shelves</a>
+       <ul class="dropDownContent">
+
+         	<li class=""><a href="/collection/add/my/library?bib=17036496052907&amp;bib_status=past" with_hook="ajax_link">Completed</a></li>
+<li class=""><a href="/collection/add/my/library?bib=17036496052907&amp;bib_status=present" with_hook="ajax_link">In Progress</a></li>
+<li class=""><a href="/collection/add/my/library?bib=17036496052907&amp;bib_status=future" with_hook="ajax_link">For Later</a></li>
+ 
+                                                     
+       </ul>
+   </div>
+
+	</div>
+	
+
+  </div>
+</div>	
+      <div id="bib18536984052907" class="listItem clearfix ">         
+  
+    <div class="disabled_overlay">processing&hellip;</div> 
+  
+  <div class="clearfix">
+    	
+
+		<a href="/item/show/18536984052907_jane_addams" class="jacketCoverLink" target="_parent" title="Jane Addams"><img alt="Jane Addams" class="jacketCover medium" fallback="http://cdn.bibliocommons.com/images/default_covers/icon-book.png?1360704916" id="18536984052907" src="http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&amp;userID=NYPL49807&amp;password=CC68707&amp;Value=0393071650&amp;content=S&amp;Return=1&amp;Type=S" title="Jane Addams"></a>
+	<div class="info">
+		<span class="title"><a href="/item/show/18536984052907_jane_addams" target="_parent" title="Jane Addams - Spirit in Action (Book)">Jane Addams</a></span>
+		<span class="subTitle">Spirit in Action</span>
+		
+	  <span class="author">
+       By <a href="/search?q=Knight%2C+Louise+W.&amp;search_category=author&amp;t=author" class="author_detail_link" target="_parent" title="Knight, Louise W.">Knight, Louise W.</a>
+	  </span>
+      
+
+		
+			<span class="format">
+		(<strong>Book</strong> - 2010)
+	</span>
+
+		
+		    <span class="label">
+      <span class="value callNumber">
+        B Addams K    
+      	     
+
+<a href="/item/show_circulation/18536984052907?search_scope=nypl" class="circInfo value underlined" id="circ_info_trigger_18536984052907_0.712891516488478" role="button" >and more&hellip;</a> 
+
+        
+      </span>   
+    </span>
+  
+
+  		  
+  
+  
+    
+    <span class="label availability">
+		
+	 
+  	  <span role="presentation" class="item_available">Available to borrow </span>      
+  	
+       
+
+    	    
+
+<a href="/item/show_circulation/18536984052907?search_scope=nypl" class="circInfo value underlined" id="circ_info_trigger_18536984052907_0.10170242027637" role="button" >in some locations</a> 
+
+               
+    
+    </span>
+    
+
+
+		
+	</div>
+	<div class="itemButtons clearfix">
+		  	
+	  
+  	  
+  		
+    			    
+
+
+  <a href="/holds/select_hold/18536984052907?j_callback=hold_popup_18536984052907" name="hold_popup_18536984052907" class="button hold_popout_link" id="hold_popup_18536984052907" >
+
+<img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.hold.png?1360704916">Place a Hold</a>
+
+ 
+
+		  
+   
+  <div class="dropDown saveStatus" id="bibStatus_18536984052907_id_f12qkpcyq2hnwwlp0m6f1p7ss"> 
+     <a href="#" class="button dropBtn dropDownArrow clearfix" id="trigger_18536984052907_id_f12qkpcyq2hnwwlp0m6f1p7ss" title=""><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.png?1360704916"></a>
+     <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.on.png?1360704916">
+     <a href="#" class="trigger button " >Add to My Shelves</a>
+       <ul class="dropDownContent">
+
+         	<li class=""><a href="/collection/add/my/library?bib=18536984052907&amp;bib_status=past" with_hook="ajax_link">Completed</a></li>
+<li class=""><a href="/collection/add/my/library?bib=18536984052907&amp;bib_status=present" with_hook="ajax_link">In Progress</a></li>
+<li class=""><a href="/collection/add/my/library?bib=18536984052907&amp;bib_status=future" with_hook="ajax_link">For Later</a></li>
+ 
+                                                     
+       </ul>
+   </div>
+
+	</div>
+	
+
+  </div>
+</div>	
+      <div id="bib17143741052907" class="listItem clearfix ">         
+  
+    <div class="disabled_overlay">processing&hellip;</div> 
+  
+  <div class="clearfix">
+    	
+
+		<a href="/item/show/17143741052907_jane_addams" class="jacketCoverLink" target="_parent" title="Jane Addams"><img alt="Jane Addams" class="jacketCover medium" fallback="http://cdn.bibliocommons.com/images/default_covers/icon-book.png?1360704916" id="17143741052907" src="http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&amp;userID=NYPL49807&amp;password=CC68707&amp;Value=0618504362&amp;content=S&amp;Return=1&amp;Type=S" title="Jane Addams"></a>
+	<div class="info">
+		<span class="title"><a href="/item/show/17143741052907_jane_addams" target="_parent" title="Jane Addams - Champion of Democracy (Book)">Jane Addams</a></span>
+		<span class="subTitle">Champion of Democracy</span>
+		
+	  <span class="author">
+       By <a href="/search?q=Fradin%2C+Judith+Bloom&amp;search_category=author&amp;t=author" class="author_detail_link" target="_parent" title="Fradin, Judith Bloom">Fradin, Judith Bloom</a>
+	  </span>
+      
+
+		
+			<span class="format">
+		(<strong>Book</strong> - 2006)
+	</span>
+
+		
+		    <span class="label">
+      <span class="value callNumber">
+        J B Addams J    
+      	     
+
+<a href="/item/show_circulation/17143741052907?search_scope=nypl" class="circInfo value underlined" id="circ_info_trigger_17143741052907_0.877537258320626" role="button" >and more&hellip;</a> 
+
+        
+      </span>   
+    </span>
+  
+
+  		  
+  
+  
+    
+    <span class="label availability">
+		
+	 
+  	  <span role="presentation" class="item_available">Available to borrow </span>      
+  	
+       
+
+    	    
+
+<a href="/item/show_circulation/17143741052907?search_scope=nypl" class="circInfo value underlined" id="circ_info_trigger_17143741052907_0.173490755249744" role="button" >in some locations</a> 
+
+               
+    
+    </span>
+    
+
+
+		
+	</div>
+	<div class="itemButtons clearfix">
+		  	
+	  
+  	  
+  		
+    			    
+
+
+  <a href="/holds/select_hold/17143741052907?j_callback=hold_popup_17143741052907" name="hold_popup_17143741052907" class="button hold_popout_link" id="hold_popup_17143741052907" >
+
+<img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.hold.png?1360704916">Place a Hold</a>
+
+ 
+
+		  
+   
+  <div class="dropDown saveStatus" id="bibStatus_17143741052907_id_5q2iudoyuepqjumk8wybqhtuk"> 
+     <a href="#" class="button dropBtn dropDownArrow clearfix" id="trigger_17143741052907_id_5q2iudoyuepqjumk8wybqhtuk" title=""><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.png?1360704916"></a>
+     <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.on.png?1360704916">
+     <a href="#" class="trigger button " >Add to My Shelves</a>
+       <ul class="dropDownContent">
+
+         	<li class=""><a href="/collection/add/my/library?bib=17143741052907&amp;bib_status=past" with_hook="ajax_link">Completed</a></li>
+<li class=""><a href="/collection/add/my/library?bib=17143741052907&amp;bib_status=present" with_hook="ajax_link">In Progress</a></li>
+<li class=""><a href="/collection/add/my/library?bib=17143741052907&amp;bib_status=future" with_hook="ajax_link">For Later</a></li>
+ 
+                                                     
+       </ul>
+   </div>
+
+	</div>
+	
+
+  </div>
+</div>	
+      <div id="bib17341000052907" class="listItem clearfix ">         
+  
+    <div class="disabled_overlay">processing&hellip;</div> 
+  
+  <div class="clearfix">
+    	
+
+		<a href="/item/show/17341000052907_jane_addams" class="jacketCoverLink" target="_parent" title="Jane Addams"><img alt="Jane Addams" class="jacketCover medium" fallback="http://cdn.bibliocommons.com/images/default_covers/icon-book.png?1360704916" id="17341000052907" src="http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&amp;userID=NYPL49807&amp;password=CC68707&amp;Value=158952165X&amp;content=S&amp;Return=1&amp;Type=S" title="Jane Addams"></a>
+	<div class="info">
+		<span class="title"><a href="/item/show/17341000052907_jane_addams" target="_parent" title="Jane Addams (Book)">Jane Addams</a></span>
+		
+		
+	  <span class="author">
+       By <a href="/search?q=Armentrout%2C+David%2C+1962-&amp;search_category=author&amp;t=author" class="author_detail_link" target="_parent" title="Armentrout, David, 1962-">Armentrout, David, 1962-</a>
+	  </span>
+      
+
+		
+			<span class="format">
+		(<strong>Book</strong> - 2002 - Spanish)
+	</span>
+
+		
+		    <span class="label">
+      <span class="value callNumber">
+        J-Spa B Addams A    
+      	     
+
+<a href="/item/show_circulation/17341000052907?search_scope=nypl" class="circInfo value underlined" id="circ_info_trigger_17341000052907_0.623263713404186" role="button" >and more&hellip;</a> 
+
+        
+      </span>   
+    </span>
+  
+
+  		  
+  
+  
+    
+    <span class="label availability">
+		
+	 
+  	  <span role="presentation" class="item_available">Available to borrow </span>      
+  	
+       
+
+    	    
+
+<a href="/item/show_circulation/17341000052907?search_scope=nypl" class="circInfo value underlined" id="circ_info_trigger_17341000052907_0.962304012327106" role="button" >in some locations</a> 
+
+               
+    
+    </span>
+    
+
+
+		
+	</div>
+	<div class="itemButtons clearfix">
+		  	
+	  
+  	  
+  		
+    			    
+
+
+  <a href="/holds/select_hold/17341000052907?j_callback=hold_popup_17341000052907" name="hold_popup_17341000052907" class="button hold_popout_link" id="hold_popup_17341000052907" >
+
+<img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.hold.png?1360704916">Place a Hold</a>
+
+ 
+
+		  
+   
+  <div class="dropDown saveStatus" id="bibStatus_17341000052907_id_1exn49kdesd1j8tm24cz9isuj"> 
+     <a href="#" class="button dropBtn dropDownArrow clearfix" id="trigger_17341000052907_id_1exn49kdesd1j8tm24cz9isuj" title=""><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.png?1360704916"></a>
+     <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.on.png?1360704916">
+     <a href="#" class="trigger button " >Add to My Shelves</a>
+       <ul class="dropDownContent">
+
+         	<li class=""><a href="/collection/add/my/library?bib=17341000052907&amp;bib_status=past" with_hook="ajax_link">Completed</a></li>
+<li class=""><a href="/collection/add/my/library?bib=17341000052907&amp;bib_status=present" with_hook="ajax_link">In Progress</a></li>
+<li class=""><a href="/collection/add/my/library?bib=17341000052907&amp;bib_status=future" with_hook="ajax_link">For Later</a></li>
+ 
+                                                     
+       </ul>
+   </div>
+
+	</div>
+	
+
+  </div>
+</div>	
+      <div id="bib17639587052907" class="listItem clearfix ">         
+  
+    <div class="disabled_overlay">processing&hellip;</div> 
+  
+  <div class="clearfix">
+    	
+
+		<a href="/item/show/17639587052907_jane_addams" class="jacketCoverLink" target="_parent" title="Jane Addams"><img alt="Jane Addams" class="jacketCover medium" fallback="http://cdn.bibliocommons.com/images/default_covers/icon-book.png?1360704916" id="17639587052907" src="http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&amp;userID=NYPL49807&amp;password=CC68707&amp;Value=1555466362&amp;content=S&amp;Return=1&amp;Type=S" title="Jane Addams"></a>
+	<div class="info">
+		<span class="title"><a href="/item/show/17639587052907_jane_addams" target="_parent" title="Jane Addams (Book)">Jane Addams</a></span>
+		
+		
+	  <span class="author">
+       By <a href="/search?q=Kittredge%2C+Mary%2C+1949-&amp;search_category=author&amp;t=author" class="author_detail_link" target="_parent" title="Kittredge, Mary, 1949-">Kittredge, Mary, 1949-</a>
+	  </span>
+      
+
+		
+			<span class="format">
+		(<strong>Book</strong> - 1988)
+	</span>
+
+		
+		    <span class="label">
+      <span class="value callNumber">
+        B Addams K    
+
+      </span>   
+    </span>
+  
+
+  		  
+  
+  
+    
+    <span class="label availability">
+		
+	 
+  	  <span role="presentation" class="item_not_available">All copies in use </span>      
+  	
+       
+
+    	    
+
+<a href="/item/show_circulation/17639587052907?search_scope=nypl" class="circInfo value underlined" id="circ_info_trigger_17639587052907_0.791865184019802" role="button" >Availability details</a> 
+
+               
+    
+    </span>
+    
+
+
+		
+	</div>
+	<div class="itemButtons clearfix">
+		  	
+	  
+  	  
+  		
+    			    
+
+
+  <a href="/holds/select_hold/17639587052907?j_callback=hold_popup_17639587052907" name="hold_popup_17639587052907" class="button hold_popout_link" id="hold_popup_17639587052907" >
+
+<img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.hold.png?1360704916">Place a Hold</a>
+
+ 
+
+		  
+   
+  <div class="dropDown saveStatus" id="bibStatus_17639587052907_id_bwz8ctipq1d3aijr9hk3ig0c"> 
+     <a href="#" class="button dropBtn dropDownArrow clearfix" id="trigger_17639587052907_id_bwz8ctipq1d3aijr9hk3ig0c" title=""><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.png?1360704916"></a>
+     <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.on.png?1360704916">
+     <a href="#" class="trigger button " >Add to My Shelves</a>
+       <ul class="dropDownContent">
+
+         	<li class=""><a href="/collection/add/my/library?bib=17639587052907&amp;bib_status=past" with_hook="ajax_link">Completed</a></li>
+<li class=""><a href="/collection/add/my/library?bib=17639587052907&amp;bib_status=present" with_hook="ajax_link">In Progress</a></li>
+<li class=""><a href="/collection/add/my/library?bib=17639587052907&amp;bib_status=future" with_hook="ajax_link">For Later</a></li>
+ 
+                                                     
+       </ul>
+   </div>
+
+	</div>
+	
+
+  </div>
+</div>	
+      <div id="bib15987118052907" class="listItem clearfix ">         
+  
+    <div class="disabled_overlay">processing&hellip;</div> 
+  
+  <div class="clearfix">
+    	
+
+		<a href="/item/show/15987118052907_jane_addams" class="jacketCoverLink" target="_parent" title="Jane Addams"><img alt="Jane Addams" class="jacketCover medium" fallback="http://cdn.bibliocommons.com/images/default_covers/icon-book.png?1360704916" id="15987118052907" src="http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&amp;userID=NYPL49807&amp;password=CC68707&amp;Value=0252029232&amp;content=S&amp;Return=1&amp;Type=S" title="Jane Addams"></a>
+	<div class="info">
+		<span class="title"><a href="/item/show/15987118052907_jane_addams" target="_parent" title="Jane Addams - A Writer's Life (Book)">Jane Addams</a></span>
+		<span class="subTitle">A Writer's Life</span>
+		
+	  <span class="author">
+       By <a href="/search?q=Joslin%2C+Katherine%2C+1947-&amp;search_category=author&amp;t=author" class="author_detail_link" target="_parent" title="Joslin, Katherine, 1947-">Joslin, Katherine, 1947-</a>
+	  </span>
+      
+
+		
+			<span class="format">
+		(<strong>Book</strong> - 2004)
+	</span>
+
+		
+		    <span class="label">
+      <span class="value callNumber">
+            
+
+      </span>   
+    </span>
+  
+
+  		  
+  
+  
+    
+    <span class="label availability">
+		
+	 
+  	  <span role="presentation" class="item_available">In-library use only </span>      
+  	
+       
+
+    	    
+
+<a href="/item/show_circulation/15987118052907?search_scope=nypl" class="circInfo value underlined" id="circ_info_trigger_15987118052907_0.266381765827032" role="button" >in some locations</a> 
+
+               
+    
+    </span>
+    
+
+
+		
+	</div>
+	<div class="itemButtons clearfix">
+		  	
+
+		  
+   
+  <div class="dropDown saveStatus" id="bibStatus_15987118052907_id_3bppnje0ymirht0sx7q480508"> 
+     <a href="#" class="button dropBtn dropDownArrow clearfix" id="trigger_15987118052907_id_3bppnje0ymirht0sx7q480508" title=""><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.png?1360704916"></a>
+     <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.on.png?1360704916">
+     <a href="#" class="trigger button " >Add to My Shelves</a>
+       <ul class="dropDownContent">
+
+         	<li class=""><a href="/collection/add/my/library?bib=15987118052907&amp;bib_status=past" with_hook="ajax_link">Completed</a></li>
+<li class=""><a href="/collection/add/my/library?bib=15987118052907&amp;bib_status=present" with_hook="ajax_link">In Progress</a></li>
+<li class=""><a href="/collection/add/my/library?bib=15987118052907&amp;bib_status=future" with_hook="ajax_link">For Later</a></li>
+ 
+                                                     
+       </ul>
+   </div>
+
+	</div>
+	
+
+  </div>
+</div>	
+      <div id="bib17182739052907" class="listItem clearfix ">         
+  
+    <div class="disabled_overlay">processing&hellip;</div> 
+  
+  <div class="clearfix">
+    	
+
+		<a href="/item/show/17182739052907_jane_addams" class="jacketCoverLink" target="_parent" title="Jane Addams"><img alt="Jane Addams" class="jacketCover medium" fallback="http://cdn.bibliocommons.com/images/default_covers/icon-book.png?1360704916" id="17182739052907" src="http://cdn.bibliocommons.com/images/default_covers/icon-book.png?1360704916" title="Jane Addams"></a>
+	<div class="info">
+		<span class="title"><a href="/item/show/17182739052907_jane_addams" target="_parent" title="Jane Addams - Illustrated by Frank Aloise (Book)">Jane Addams</a></span>
+		<span class="subTitle">Illustrated by Frank Aloise</span>
+		
+	  <span class="author">
+       By <a href="/search?q=Keller%2C+Gail+Faithfull&amp;search_category=author&amp;t=author" class="author_detail_link" target="_parent" title="Keller, Gail Faithfull">Keller, Gail Faithfull</a>
+	  </span>
+      
+
+		
+			<span class="format">
+		(<strong>Book</strong> - 1971)
+	</span>
+
+		
+		    <span class="label">
+      <span class="value callNumber">
+        J B Addams K    
+
+      </span>   
+    </span>
+  
+
+  		  
+  
+  
+    
+    <span class="label availability">
+		
+	 
+  	  <span role="presentation" class="item_on_order">Available by request </span>      
+  	
+       
+
+    	    
+
+<a href="/item/show_circulation/17182739052907?search_scope=nypl" class="circInfo value underlined" id="circ_info_trigger_17182739052907_0.00683729898991547" role="button" >Availability details</a> 
+
+               
+    
+    </span>
+    
+
+
+		
+	</div>
+	<div class="itemButtons clearfix">
+		  	
+	  
+  	  
+
+            <a href="http://catalog.nypl.org/search~S1?/.b17182739/.b17182739/1,1,1,B/lasreq22482958~b17182739" class="button"><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.hold.png?1360704916">Offsite Request</a></p>
+
+ 
+
+		  
+   
+  <div class="dropDown saveStatus" id="bibStatus_17182739052907_id_6xu5zqy9tdnhl56ndxbe8s5gs"> 
+     <a href="#" class="button dropBtn dropDownArrow clearfix" id="trigger_17182739052907_id_6xu5zqy9tdnhl56ndxbe8s5gs" title=""><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.png?1360704916"></a>
+     <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.on.png?1360704916">
+     <a href="#" class="trigger button " >Add to My Shelves</a>
+       <ul class="dropDownContent">
+
+         	<li class=""><a href="/collection/add/my/library?bib=17182739052907&amp;bib_status=past" with_hook="ajax_link">Completed</a></li>
+<li class=""><a href="/collection/add/my/library?bib=17182739052907&amp;bib_status=present" with_hook="ajax_link">In Progress</a></li>
+<li class=""><a href="/collection/add/my/library?bib=17182739052907&amp;bib_status=future" with_hook="ajax_link">For Later</a></li>
+ 
+                                                     
+       </ul>
+   </div>
+
+	</div>
+	
+
+  </div>
+</div>	
+      <div id="bib10216355052907" class="listItem clearfix ">         
+  
+    <div class="disabled_overlay">processing&hellip;</div> 
+  
+  <div class="clearfix">
+    	
+
+		<a href="/item/show/10216355052907_jane_addams" class="jacketCoverLink" target="_parent" title="Jane Addams"><img alt="Jane Addams" class="jacketCover medium" fallback="http://cdn.bibliocommons.com/images/default_covers/icon-book.png?1360704916" id="10216355052907" src="http://cdn.bibliocommons.com/images/default_covers/icon-book.png?1360704916" title="Jane Addams"></a>
+	<div class="info">
+		<span class="title"><a href="/item/show/10216355052907_jane_addams" target="_parent" title="Jane Addams - A Biography (Book)">Jane Addams</a></span>
+		<span class="subTitle">A Biography</span>
+		
+	  <span class="author">
+       By <a href="/search?q=Linn%2C+James+Weber%2C+1876-1939+&amp;search_category=author&amp;t=author" class="author_detail_link" target="_parent" title="Linn, James Weber, 1876-1939 ">Linn, James Weber, 1876-1939 </a>
+	  </span>
+      
+
+		
+			<span class="format">
+		(<strong>Book</strong> - 1968 1963)
+	</span>
+
+		
+		    <span class="label">
+      <span class="value callNumber">
+            
+
+      </span>   
+    </span>
+  
+
+  		  
+  
+  
+    
+    <span class="label availability">
+		
+	 
+  	  <span role="presentation" class="item_on_order">Available by request </span>      
+  	
+       
+
+    	    
+
+<a href="/item/show_circulation/10216355052907?search_scope=nypl" class="circInfo value underlined" id="circ_info_trigger_10216355052907_0.970170302349958" role="button" >Availability details</a> 
+
+               
+    
+    </span>
+    
+
+
+		
+	</div>
+	<div class="itemButtons clearfix">
+		  	
+	  
+  	  
+
+            <a href="http://catalog.nypl.org/search~S1?/.b10216355/.b10216355/1,1,1,B/lasreq12924003~b10216355" class="button"><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.hold.png?1360704916">Offsite Request</a></p>
+
+ 
+
+		  
+   
+  <div class="dropDown saveStatus" id="bibStatus_10216355052907_id_ebt2k8vnis7niy5njmsmvs080"> 
+     <a href="#" class="button dropBtn dropDownArrow clearfix" id="trigger_10216355052907_id_ebt2k8vnis7niy5njmsmvs080" title=""><img alt="Icon" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.png?1360704916"></a>
+     <img alt="Icon" class="openDropDownArrow" src="http://cdn.bibliocommons.com/images/icon.add.drop.down.on.png?1360704916">
+     <a href="#" class="trigger button " >Add to My Shelves</a>
+       <ul class="dropDownContent">
+
+         	<li class=""><a href="/collection/add/my/library?bib=10216355052907&amp;bib_status=past" with_hook="ajax_link">Completed</a></li>
+<li class=""><a href="/collection/add/my/library?bib=10216355052907&amp;bib_status=present" with_hook="ajax_link">In Progress</a></li>
+<li class=""><a href="/collection/add/my/library?bib=10216355052907&amp;bib_status=future" with_hook="ajax_link">For Later</a></li>
+ 
+                                                     
+       </ul>
+   </div>
+
+	</div>
+	
+
+  </div>
+</div>	
+    
+</div>
+    </div> 
+    
+      <div class="pageInfo clearfix">
+        <div class="pagination paginate_bottom">
+  <span class="currentPage" >
+		Page 1
+		
+		 	 of <a href="/search?commit=Search&amp;page=45&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart" class="link_totalpages" >45</a>
+		
+	</span>
+  
+    <fieldset class="quantitySelector">
+	
+	<select id="display_quantity_" name="display_quantity[]"><option title="10" value="10" selected="selected">10</option>
+<option title="25" value="25">25</option></select> <label>per page</label>
+</fieldset>
+
+    
+      <fieldset class="pageJump">
+        
+        <label>page</label> <select class="" id="jump3e2bgmhf7itoqzvc9pntvuegj" name="jump_to" ><option title="1" value="1" selected="selected">1</option>
+<option title="2" value="2">2</option>
+<option title="3" value="3">3</option>
+<option title="4" value="4">4</option>
+<option title="5" value="5">5</option>
+<option title="6" value="6">6</option>
+<option title="7" value="7">7</option>
+<option title="8" value="8">8</option>
+<option title="9" value="9">9</option>
+<option title="10" value="10">10</option>
+<option title="11" value="11">11</option>
+<option title="12" value="12">12</option>
+<option title="13" value="13">13</option>
+<option title="14" value="14">14</option>
+<option title="15" value="15">15</option>
+<option title="16" value="16">16</option>
+<option title="17" value="17">17</option>
+<option title="18" value="18">18</option>
+<option title="19" value="19">19</option>
+<option title="20" value="20">20</option>
+<option title="21" value="21">21</option>
+<option title="22" value="22">22</option>
+<option title="23" value="23">23</option>
+<option title="24" value="24">24</option>
+<option title="25" value="25">25</option>
+<option title="26" value="26">26</option>
+<option title="27" value="27">27</option>
+<option title="28" value="28">28</option>
+<option title="29" value="29">29</option>
+<option title="30" value="30">30</option>
+<option title="31" value="31">31</option>
+<option title="32" value="32">32</option>
+<option title="33" value="33">33</option>
+<option title="34" value="34">34</option>
+<option title="35" value="35">35</option>
+<option title="36" value="36">36</option>
+<option title="37" value="37">37</option>
+<option title="38" value="38">38</option>
+<option title="39" value="39">39</option>
+<option title="40" value="40">40</option>
+<option title="41" value="41">41</option>
+<option title="42" value="42">42</option>
+<option title="43" value="43">43</option>
+<option title="44" value="44">44</option>
+<option title="45" value="45">45</option></select>      </fieldset>
+  
+  
+    <div class="pageButtons">
+      <a href="/search?commit=Search&amp;page=2&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart" class="pageNav" >Next</a>    </div>
+</div>
+
+      </div>
+     
+</form> 
+  
+  <div class="secondaryContent search_facets">
+    <div class="filterList facets">
+	
+  <div class="filterGroup" role="tablist" aria-multiselectable="true">
+                <div class="facet multiple collapsable locations" id="expander_status">
+      <div role="tab" tabindex="0" id="facet_tab_status" aria-controls="facet_tabpanel_status"  class="collapseTrigger clearfix button single" param="status">
+        
+        <h4 class="mobile_list_heading">Available now...</h4>
+      </div>
+      <div role="tabpanel" aria-label="Available now..." id="facet_tabpanel_status" aria-labeledby="facet_tab_status" class="collapseTarget">
+        <ul class="facet_list mobile_list_content">
+          
+              <li class="disjunctive"><input id="_anywhere_" name="f_status" param="f_status" type="checkbox" value="_anywhere_"> <label for="_anywhere_" class="facet_label">At any location</label> <span class='count'>(0)</span></li>
+        </ul>
+          <div class="clearfix expand_buttons">
+            <a href="/search?commit=Search&amp;expanded_field=STATUS&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;sort_this=true&amp;t=smart" class="all popup_more" style="display: inline-block" >More locations...</a>          </div>
+      </div>
+    </div>
+  
+            
+
+  <div class="facet multiple collapsable" id="expander_super_format">
+    <div role="tab" tabindex="0" id="facet_tab_super_format" aria-controls="facet_tabpanel_super_format" class="collapseTrigger clearfix button single" param="format">
+      <span class="toggle_icon"></span>
+      <h4 class="mobile_list_heading">Format</h4>
+    </div>
+    <div role="tabpanel" aria-label="Format" id="facet_tabpanel_super_format" aria-labeledby="facet_tab_super_format" class="collapseTarget grouped_facets" style="">
+      <ul class="facet_list " role="tablist">
+            <li class="facetGroup">
+              <div class="collapsable  collapsed">
+                <div role="tab" tabindex="0" id="facet_tab_books" aria-controls="facet_tabpanel_books" class="collapseTrigger clearfix button" param="books">
+                  <span class="toggle_icon"></span>
+                  <h4>Books</h4> 
+                </div>
+                <div role="tabpanel" id="facet_tabpanel_books" aria-labeledby="facet_tab_books">
+                  <div class="appliedFilters">
+                    <ul>
+                    </ul>
+                  </div>
+                  <div class="collapseTarget" style="display: none">
+                    <ul class="subFacetList">
+                          <li class="disjunctive"><input id="BK" name="formats" param="formats" type="checkbox" value="BK"> <label for="BK" class="facet_label">Book </label><span class='count'>(338)</span></li>
+                          <li class="disjunctive"><input id="PAPERBACK" name="formats" param="formats" type="checkbox" value="PAPERBACK"> <label for="PAPERBACK" class="facet_label">Paperback </label><span class='count'>(30)</span></li>
+                          <li class="disjunctive"><input id="EBOOK" name="formats" param="formats" type="checkbox" value="EBOOK"> <label for="EBOOK" class="facet_label">eBook </label><span class='count'>(9)</span></li>
+                          <li class="disjunctive"><input id="LPRINT" name="formats" param="formats" type="checkbox" value="LPRINT"> <label for="LPRINT" class="facet_label">Large Print </label><span class='count'>(2)</span></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="facetGroup">
+              <div class="collapsable  collapsed">
+                <div role="tab" tabindex="0" id="facet_tab_audiobooks_spoken_word" aria-controls="facet_tabpanel_audiobooks_spoken_word" class="collapseTrigger clearfix button" param="audiobooks_spoken_word">
+                  <span class="toggle_icon"></span>
+                  <h4>Audiobooks</h4> 
+                </div>
+                <div role="tabpanel" id="facet_tabpanel_audiobooks_spoken_word" aria-labeledby="facet_tab_audiobooks_spoken_word">
+                  <div class="appliedFilters">
+                    <ul>
+                    </ul>
+                  </div>
+                  <div class="collapseTarget" style="display: none">
+                    <ul class="subFacetList">
+                          <li class="disjunctive"><input id="BOOK_CD" name="formats" param="formats" type="checkbox" value="BOOK_CD"> <label for="BOOK_CD" class="facet_label">Audiobook CD </label><span class='count'>(15)</span></li>
+                          <li class="disjunctive"><input id="AB" name="formats" param="formats" type="checkbox" value="AB"> <label for="AB" class="facet_label">Downloadable Audiobook </label><span class='count'>(12)</span></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="facetGroup">
+              <div class="collapsable  collapsed">
+                <div role="tab" tabindex="0" id="facet_tab_movies_tv_video" aria-controls="facet_tabpanel_movies_tv_video" class="collapseTrigger clearfix button" param="movies_tv_video">
+                  <span class="toggle_icon"></span>
+                  <h4>Movies & TV</h4> 
+                </div>
+                <div role="tabpanel" id="facet_tabpanel_movies_tv_video" aria-labeledby="facet_tab_movies_tv_video">
+                  <div class="appliedFilters">
+                    <ul>
+                    </ul>
+                  </div>
+                  <div class="collapseTarget" style="display: none">
+                    <ul class="subFacetList">
+                          <li class="disjunctive"><input id="DVD" name="formats" param="formats" type="checkbox" value="DVD"> <label for="DVD" class="facet_label">DVD </label><span class='count'>(2)</span></li>
+                          <li class="disjunctive"><input id="VC" name="formats" param="formats" type="checkbox" value="VC"> <label for="VC" class="facet_label">Video Cassette </label><span class='count'>(1)</span></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="facetGroup">
+              <div class="collapsable  collapsed">
+                <div role="tab" tabindex="0" id="facet_tab_music_sound" aria-controls="facet_tabpanel_music_sound" class="collapseTrigger clearfix button" param="music_sound">
+                  <span class="toggle_icon"></span>
+                  <h4>Music & Sound</h4> 
+                </div>
+                <div role="tabpanel" id="facet_tabpanel_music_sound" aria-labeledby="facet_tab_music_sound">
+                  <div class="appliedFilters">
+                    <ul>
+                    </ul>
+                  </div>
+                  <div class="collapseTarget" style="display: none">
+                    <ul class="subFacetList">
+                          <li class="disjunctive"><input id="SPOKEN_CD" name="formats" param="formats" type="checkbox" value="SPOKEN_CD"> <label for="SPOKEN_CD" class="facet_label">Spoken-word CD </label><span class='count'>(2)</span></li>
+                          <li class="disjunctive"><input id="MN" name="formats" param="formats" type="checkbox" value="MN"> <label for="MN" class="facet_label">Printed Music </label><span class='count'>(1)</span></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="facetGroup">
+              <div class="collapsable  collapsed">
+                <div role="tab" tabindex="0" id="facet_tab_journals_magazines" aria-controls="facet_tabpanel_journals_magazines" class="collapseTrigger clearfix button" param="journals_magazines">
+                  <span class="toggle_icon"></span>
+                  <h4>Journals and Magazines</h4> 
+                </div>
+                <div role="tabpanel" id="facet_tabpanel_journals_magazines" aria-labeledby="facet_tab_journals_magazines">
+                  <div class="appliedFilters">
+                    <ul>
+                    </ul>
+                  </div>
+                  <div class="collapseTarget" style="display: none">
+                    <ul class="subFacetList">
+                          <li class="disjunctive"><input id="EJ" name="formats" param="formats" type="checkbox" value="EJ"> <label for="EJ" class="facet_label">Online Periodical or Article </label><span class='count'>(1)</span></li>
+                          <li class="disjunctive"><input id="MAG" name="formats" param="formats" type="checkbox" value="MAG"> <label for="MAG" class="facet_label">Magazine or Journal </label><span class='count'>(1)</span></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="facetGroup">
+              <div class="collapsable  collapsed">
+                <div role="tab" tabindex="0" id="facet_tab_accessible_formats" aria-controls="facet_tabpanel_accessible_formats" class="collapseTrigger clearfix button" param="accessible_formats">
+                  <span class="toggle_icon"></span>
+                  <h4>Accessible Formats</h4> 
+                </div>
+                <div role="tabpanel" id="facet_tabpanel_accessible_formats" aria-labeledby="facet_tab_accessible_formats">
+                  <div class="appliedFilters">
+                    <ul>
+                    </ul>
+                  </div>
+                  <div class="collapseTarget" style="display: none">
+                    <ul class="subFacetList">
+                          <li class="disjunctive"><input id="LPRINT" name="formats" param="formats" type="checkbox" value="LPRINT"> <label for="LPRINT" class="facet_label">Large Print </label><span class='count'>(2)</span></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="facetGroup">
+              <div class="collapsable  collapsed">
+                <div role="tab" tabindex="0" id="facet_tab_other" aria-controls="facet_tabpanel_other" class="collapseTrigger clearfix button" param="other">
+                  <span class="toggle_icon"></span>
+                  <h4>Other</h4> 
+                </div>
+                <div role="tabpanel" id="facet_tabpanel_other" aria-labeledby="facet_tab_other">
+                  <div class="appliedFilters">
+                    <ul>
+                    </ul>
+                  </div>
+                  <div class="collapseTarget" style="display: none">
+                    <ul class="subFacetList">
+                          <li class="disjunctive"><input id="WEBSITE" name="formats" param="formats" type="checkbox" value="WEBSITE"> <label for="WEBSITE" class="facet_label">Website or Online Data </label><span class='count'>(13)</span></li>
+                          <li class="disjunctive"><input id="MF" name="formats" param="formats" type="checkbox" value="MF"> <label for="MF" class="facet_label">Microform </label><span class='count'>(12)</span></li>
+                          <li class="disjunctive"><input id="MIXED_MATERIAL" name="formats" param="formats" type="checkbox" value="MIXED_MATERIAL"> <label for="MIXED_MATERIAL" class="facet_label">Mixed Material </label><span class='count'>(7)</span></li>
+                          <li class="disjunctive"><input id="MANUSCRIPT" name="formats" param="formats" type="checkbox" value="MANUSCRIPT"> <label for="MANUSCRIPT" class="facet_label">Manuscript or Typescript </label><span class='count'>(1)</span></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+      </ul>
+    </div>
+</div>
+  
+            
+  <div class="facet multiple collapsable collapsed" id="expander_newly_acquired">
+    <div role="tab" tabindex="0" id="facet_tab_newly_acquired" aria-controls="facet_tabpanel_newly_acquired" class="collapseTrigger clearfix button single" param="newly_acquired">
+      <h4 class="mobile_list_heading">Acquired</h4>
+      <span class="toggle_icon"></span>
+    </div>
+    <div role="tabpanel" aria-label="Acquired" id="facet_tabpanel_newly_acquired" aria-labeledby="facet_tab_newly_acquired">
+    <div class="appliedFilters">
+      <ul>
+      </ul>
+    </div>
+    <div class="collapseTarget" style="display: none">
+      <ul class="facet_list">
+          
+          
+    
+
+    		<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;newly_acquired=PAST_30_DAYS" id="PAST_30_DAYS" param="newly_acquired" >Past 30 Days</a> <span class='count'>(1)</span></li>
+
+    
+    
+
+    		<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;newly_acquired=PAST_60_DAYS" id="PAST_60_DAYS" param="newly_acquired" >Past 60 Days</a> <span class='count'>(5)</span></li>
+
+    
+    
+
+    		<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;newly_acquired=PAST_90_DAYS" id="PAST_90_DAYS" param="newly_acquired" >Past 90 Days</a> <span class='count'>(6)</span></li>
+
+    
+    
+
+    		<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;newly_acquired=PAST_180_DAYS" id="PAST_180_DAYS" param="newly_acquired" >Past 180 Days</a> <span class='count'>(12)</span></li>
+
+    
+    
+
+    		<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;newly_acquired=OLDER_THAN_180_DAYS" id="OLDER_THAN_180_DAYS" param="newly_acquired" >Over 180 Days</a> <span class='count'>(435)</span></li>
+
+    
+
+
+      </ul>
+    </div>
+    </div>
+  </div>
+  
+            
+  <div class="facet multiple collapsable collapsed" id="expander_circ">
+    <div role="tab" tabindex="0" id="facet_tab_circ" aria-controls="facet_tabpanel_circ" class="collapseTrigger clearfix button single" param="circ">
+      <h4 class="mobile_list_heading">Titles I can...</h4>
+      <span class="toggle_icon"></span>
+    </div>
+    <div role="tabpanel" aria-label="Titles I can..." id="facet_tabpanel_circ" aria-labeledby="facet_tab_circ">
+    <div class="appliedFilters">
+      <ul>
+      </ul>
+    </div>
+    <div class="collapseTarget" style="display: none">
+      <ul class="facet_list">
+          
+
+        	<li class="disjunctive"><input id="NON_CIRC" name="circ" param="circ" type="checkbox" value="NON_CIRC"> <label for="NON_CIRC" class="facet_label">Only use in a library</label> <span class='count'>(287)</span></li>
+
+
+        	<li class="disjunctive"><input id="CIRC" name="circ" param="circ" type="checkbox" value="CIRC"> <label for="CIRC" class="facet_label">Borrow and take home</label> <span class='count'>(186)</span></li>
+
+
+        	<li class="disjunctive"><input id="ONLINE" name="circ" param="circ" type="checkbox" value="ONLINE"> <label for="ONLINE" class="facet_label">Access online</label> <span class='count'>(57)</span></li>
+
+
+      </ul>
+    </div>
+    </div>
+  </div>
+  
+            
+  <div class="facet multiple collapsable collapsed" id="expander_fiction_type">
+    <div role="tab" tabindex="0" id="facet_tab_fiction_type" aria-controls="facet_tabpanel_fiction_type" class="collapseTrigger clearfix button single" param="fiction_type">
+      <h4 class="mobile_list_heading">Content</h4>
+      <span class="toggle_icon"></span>
+    </div>
+    <div role="tabpanel" aria-label="Content" id="facet_tabpanel_fiction_type" aria-labeledby="facet_tab_fiction_type">
+    <div class="appliedFilters">
+      <ul>
+      </ul>
+    </div>
+    <div class="collapseTarget" style="display: none">
+      <ul class="facet_list">
+          
+          
+    
+
+    		<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;fictype=NONFICTION" id="NONFICTION" param="fictype" >Non-Fiction</a> <span class='count'>(223)</span></li>
+
+    
+    
+
+    		<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;fictype=FICTION" id="FICTION" param="fictype" >Fiction</a> <span class='count'>(156)</span></li>
+
+    
+    
+
+    		<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;fictype=UNDETERMINED" id="UNDETERMINED" param="fictype" >Undetermined</a> <span class='count'>(68)</span></li>
+
+    
+
+
+      </ul>
+    </div>
+    </div>
+  </div>
+  
+            
+  <div class="facet multiple collapsable collapsed" id="expander_audience">
+    <div role="tab" tabindex="0" id="facet_tab_audience" aria-controls="facet_tabpanel_audience" class="collapseTrigger clearfix button single" param="audience">
+      <h4 class="mobile_list_heading">Audience</h4>
+      <span class="toggle_icon"></span>
+    </div>
+    <div role="tabpanel" aria-label="Audience" id="facet_tabpanel_audience" aria-labeledby="facet_tab_audience">
+    <div class="appliedFilters">
+      <ul>
+      </ul>
+    </div>
+    <div class="collapseTarget" style="display: none">
+      <ul class="facet_list">
+          
+
+        	<li class="disjunctive"><input id="adult" name="audience" param="audience" type="checkbox" value="adult"> <label for="adult" class="facet_label">Adult</label> <span class='count'>(276)</span></li>
+
+
+        	<li class="disjunctive"><input id="juvenile" name="audience" param="audience" type="checkbox" value="juvenile"> <label for="juvenile" class="facet_label">Children</label> <span class='count'>(137)</span></li>
+
+
+        	<li class="disjunctive"><input id="teen" name="audience" param="audience" type="checkbox" value="teen"> <label for="teen" class="facet_label">Teen</label> <span class='count'>(39)</span></li>
+
+
+      </ul>
+    </div>
+    </div>
+  </div>
+  
+            
+  <div class="facet multiple collapsable collapsed" id="expander_genre_headings">
+    <div role="tab" tabindex="0" id="facet_tab_genre_headings" aria-controls="facet_tabpanel_genre_headings" class="collapseTrigger clearfix button single" param="genre_headings">
+      <h4 class="mobile_list_heading">Form/Genre</h4>
+      <span class="toggle_icon"></span>
+    </div>
+    <div role="tabpanel" aria-label="Form/Genre" id="facet_tabpanel_genre_headings" aria-labeledby="facet_tab_genre_headings">
+    <div class="appliedFilters">
+      <ul>
+      </ul>
+    </div>
+    <div class="collapseTarget" style="display: none">
+      <ul class="facet_list">
+          
+            <li class="first_ten">
+    <ul>
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;genre=Fiction" id="Fiction" param="genre" >Fiction</a> <span class='count'>(118)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;genre=Biography" id="Biography" param="genre" >Biography</a> <span class='count'>(102)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;genre=Juvenile+fiction" id="Juvenile fiction" param="genre" >Juvenile fiction</a> <span class='count'>(39)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;genre=Juvenile+literature" id="Juvenile literature" param="genre" >Juvenile literature</a> <span class='count'>(22)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;genre=Electronic+books" id="Electronic books" param="genre" >Electronic books</a> <span class='count'>(14)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;genre=Audiobooks" id="Audiobooks" param="genre" >Audiobooks</a> <span class='count'>(13)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;genre=Poetry" id="Poetry" param="genre" >Poetry</a> <span class='count'>(9)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;genre=Picture+books" id="Picture books" param="genre" >Picture books</a> <span class='count'>(7)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;genre=Sources" id="Sources" param="genre" >Sources</a> <span class='count'>(7)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;genre=Historical+fiction" id="Historical fiction" param="genre" >Historical fiction</a> <span class='count'>(6)</span></li>
+
+
+    </ul>
+  </li>
+
+      </ul>
+        <div class="clearfix expand_buttons">
+          <a href="/search?commit=Search&amp;expanded_field=GENRE_HEADINGS&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart" class="all popup_more" >Show more...</a>        </div>
+    </div>
+    </div>
+  </div>
+  
+            
+  <div class="facet multiple collapsable collapsed" id="expander_topic_headings">
+    <div role="tab" tabindex="0" id="facet_tab_topic_headings" aria-controls="facet_tabpanel_topic_headings" class="collapseTrigger clearfix button single" param="topic_headings">
+      <h4 class="mobile_list_heading">Topic</h4>
+      <span class="toggle_icon"></span>
+    </div>
+    <div role="tabpanel" aria-label="Topic" id="facet_tabpanel_topic_headings" aria-labeledby="facet_tab_topic_headings">
+    <div class="appliedFilters">
+      <ul>
+      </ul>
+    </div>
+    <div class="collapseTarget" style="display: none">
+      <ul class="facet_list">
+          
+            <li class="first_ten">
+    <ul>
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;topic=History" id="History" param="topic" >History</a> <span class='count'>(117)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;topic=Addams%2C+Jane%2C" id="Addams, Jane," param="topic" >Addams, Jane,</a> <span class='count'>(66)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;topic=Social+conditions" id="Social conditions" param="topic" >Social conditions</a> <span class='count'>(22)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;topic=Race+relations" id="Race relations" param="topic" >Race relations</a> <span class='count'>(21)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;topic=Civil+rights" id="Civil rights" param="topic" >Civil rights</a> <span class='count'>(12)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;topic=Hull+House+%28Chicago%2C+Ill.%29" id="Hull House (Chicago, Ill.)" param="topic" >Hull House (Chicago, Ill.)</a> <span class='count'>(12)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;topic=Suffrage" id="Suffrage" param="topic" >Suffrage</a> <span class='count'>(12)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;topic=Black+author" id="Black author" param="topic" >Black author</a> <span class='count'>(11)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;topic=Women%27s+International+League+for+Peace+and+Freedom" id="Women's International League for Peace and Freedom" param="topic" >Women's International League for Peace and Freedom</a> <span class='count'>(11)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;topic=History+and+criticism" id="History and criticism" param="topic" >History and criticism</a> <span class='count'>(10)</span></li>
+
+
+    </ul>
+  </li>
+
+      </ul>
+        <div class="clearfix expand_buttons">
+          <a href="/search?commit=Search&amp;expanded_field=TOPIC_HEADINGS&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart" class="all popup_more" >Show more...</a>        </div>
+    </div>
+    </div>
+  </div>
+  
+            
+  <div class="facet multiple collapsable collapsed" id="expander_geo_headings">
+    <div role="tab" tabindex="0" id="facet_tab_geo_headings" aria-controls="facet_tabpanel_geo_headings" class="collapseTrigger clearfix button single" param="geo_headings">
+      <h4 class="mobile_list_heading">Region</h4>
+      <span class="toggle_icon"></span>
+    </div>
+    <div role="tabpanel" aria-label="Region" id="facet_tabpanel_geo_headings" aria-labeledby="facet_tab_geo_headings">
+    <div class="appliedFilters">
+      <ul>
+      </ul>
+    </div>
+    <div class="collapseTarget" style="display: none">
+      <ul class="facet_list">
+          
+            <li class="first_ten">
+    <ul>
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;region=United+States" id="United States" param="region" >United States</a> <span class='count'>(138)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;region=Illinois" id="Illinois" param="region" >Illinois</a> <span class='count'>(22)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;region=Chicago" id="Chicago" param="region" >Chicago</a> <span class='count'>(16)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;region=Chicago+%28Ill.%29" id="Chicago (Ill.)" param="region" >Chicago (Ill.)</a> <span class='count'>(11)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;region=Alabama" id="Alabama" param="region" >Alabama</a> <span class='count'>(10)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;region=California" id="California" param="region" >California</a> <span class='count'>(10)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;region=Montgomery+%28Ala.%29" id="Montgomery (Ala.)" param="region" >Montgomery (Ala.)</a> <span class='count'>(8)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;region=New+York+%28State%29" id="New York (State)" param="region" >New York (State)</a> <span class='count'>(8)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;region=Denmark" id="Denmark" param="region" >Denmark</a> <span class='count'>(7)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;region=Mississippi" id="Mississippi" param="region" >Mississippi</a> <span class='count'>(7)</span></li>
+
+
+    </ul>
+  </li>
+
+      </ul>
+        <div class="clearfix expand_buttons">
+          <a href="/search?commit=Search&amp;expanded_field=GEO_HEADINGS&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart" class="all popup_more" >Show more...</a>        </div>
+    </div>
+    </div>
+  </div>
+  
+            
+
+
+<div class="facet multiple collapsable collapsed" id="expander_primary_language">
+  <div role="tab" tabindex="0" id="facet_tab_primary_language" aria-controls="facet_tabpanel_primary_language" class="collapseTrigger clearfix button single" param="lang">
+      <span class="toggle_icon"></span>
+    <h4 class="mobile_list_heading">Language</h4>
+  </div>
+  <div role="tabpanel" aria-label="Language" id="facet_tabpanel_primary_language" aria-labeledby="facet_tab_primary_language">
+  <div class="appliedFilters">
+    <ul>
+    </ul>
+  </div>
+  <div class="collapseTarget" style="display: none">
+    <ul class="facet_list mobile_list_content plang" style="display:block;">
+        
+
+        	<li class="disjunctive"><input id="plang_eng" name="plang" param="plang" type="checkbox" value="eng"> <label for="plang_eng" class="facet_label">English</label> <span class='count'>(437)</span></li>
+
+
+        	<li class="disjunctive"><input id="plang_ger" name="plang" param="plang" type="checkbox" value="ger"> <label for="plang_ger" class="facet_label">German</label> <span class='count'>(3)</span></li>
+
+
+        	<li class="disjunctive"><input id="plang_spa" name="plang" param="plang" type="checkbox" value="spa"> <label for="plang_spa" class="facet_label">Spanish</label> <span class='count'>(2)</span></li>
+
+
+        	<li class="disjunctive"><input id="plang_und" name="plang" param="plang" type="checkbox" value="und"> <label for="plang_und" class="facet_label">Undetermined</label> <span class='count'>(2)</span></li>
+
+
+        	<li class="disjunctive"><input id="plang_chi" name="plang" param="plang" type="checkbox" value="chi"> <label for="plang_chi" class="facet_label">Chinese</label> <span class='count'>(1)</span></li>
+
+
+        	<li class="disjunctive"><input id="plang_ita" name="plang" param="plang" type="checkbox" value="ita"> <label for="plang_ita" class="facet_label">Italian</label> <span class='count'>(1)</span></li>
+
+
+        	<li class="disjunctive"><input id="plang_swe" name="plang" param="plang" type="checkbox" value="swe"> <label for="plang_swe" class="facet_label">Swedish</label> <span class='count'>(1)</span></li>
+
+
+    </ul>
+    <ul class="facet_list lang" style="display:none;">
+          <li class="first_five">
+    <ul>
+
+
+        	<li class="disjunctive"><input id="lang_eng" name="lang" param="lang" type="checkbox" value="eng"> <label for="lang_eng" class="facet_label">English</label> <span class='count'>(437)</span></li>
+
+
+
+        	<li class="disjunctive"><input id="lang_ger" name="lang" param="lang" type="checkbox" value="ger"> <label for="lang_ger" class="facet_label">German</label> <span class='count'>(6)</span></li>
+
+
+
+        	<li class="disjunctive"><input id="lang_spa" name="lang" param="lang" type="checkbox" value="spa"> <label for="lang_spa" class="facet_label">Spanish</label> <span class='count'>(4)</span></li>
+
+
+
+        	<li class="disjunctive"><input id="lang_fre" name="lang" param="lang" type="checkbox" value="fre"> <label for="lang_fre" class="facet_label">French</label> <span class='count'>(2)</span></li>
+
+
+
+        	<li class="disjunctive"><input id="lang_jpn" name="lang" param="lang" type="checkbox" value="jpn"> <label for="lang_jpn" class="facet_label">Japanese</label> <span class='count'>(2)</span></li>
+
+
+
+        	<li class="disjunctive"><input id="lang_und" name="lang" param="lang" type="checkbox" value="und"> <label for="lang_und" class="facet_label">Undetermined</label> <span class='count'>(2)</span></li>
+
+
+
+        	<li class="disjunctive"><input id="lang_chi" name="lang" param="lang" type="checkbox" value="chi"> <label for="lang_chi" class="facet_label">Chinese</label> <span class='count'>(1)</span></li>
+
+
+
+        	<li class="disjunctive"><input id="lang_chr" name="lang" param="lang" type="checkbox" value="chr"> <label for="lang_chr" class="facet_label">Cherokee</label> <span class='count'>(1)</span></li>
+
+
+
+        	<li class="disjunctive"><input id="lang_hun" name="lang" param="lang" type="checkbox" value="hun"> <label for="lang_hun" class="facet_label">Hungarian</label> <span class='count'>(1)</span></li>
+
+
+
+        	<li class="disjunctive"><input id="lang_ita" name="lang" param="lang" type="checkbox" value="ita"> <label for="lang_ita" class="facet_label">Italian</label> <span class='count'>(1)</span></li>
+
+    </ul>
+  </li>
+
+    </ul>
+      <ul class="facet_list">
+        <li class="languageToggle"><input id="languageToggle" name="languageToggle" type="checkbox" value="true"><label class="inline" for="languageToggle">Include translations</label></li>
+      </ul>
+
+      <div class="clearfix expand_buttons lang"  style="display:none;">
+        <a href="/search?commit=Search&amp;expanded_field=LANGUAGE&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart" class="all popup_more" >Show more...</a>      </div>
+  </div>
+  </div>
+</div>
+  
+            
+  <div class="facet multiple collapsable collapsed" id="expander_published_date">
+    <div role="tab" tabindex="0" id="facet_tab_published_date" aria-controls="facet_tabpanel_published_date" class="collapseTrigger clearfix button single" param="published_date">
+      <h4 class="mobile_list_heading">Published Date</h4>
+      <span class="toggle_icon"></span>
+    </div>
+    <div role="tabpanel" aria-label="Published Date" id="facet_tabpanel_published_date" aria-labeledby="facet_tab_published_date">
+    <div class="appliedFilters">
+      <ul>
+      </ul>
+    </div>
+    <div class="collapseTarget" style="display: none">
+      <ul class="facet_list">
+          
+            <li class="first_ten">
+    <ul>
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;pubdate=2013" id="2013" param="pubdate" >2013</a> <span class='count'>(3)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;pubdate=2012" id="2012" param="pubdate" >2012</a> <span class='count'>(5)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;pubdate=2011" id="2011" param="pubdate" >2011</a> <span class='count'>(6)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;pubdate=2010" id="2010" param="pubdate" >2010</a> <span class='count'>(9)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;pubdate=2009" id="2009" param="pubdate" >2009</a> <span class='count'>(21)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;pubdate=2008" id="2008" param="pubdate" >2008</a> <span class='count'>(13)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;pubdate=2007" id="2007" param="pubdate" >2007</a> <span class='count'>(13)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;pubdate=2006" id="2006" param="pubdate" >2006</a> <span class='count'>(15)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;pubdate=2005" id="2005" param="pubdate" >2005</a> <span class='count'>(15)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;pubdate=2004" id="2004" param="pubdate" >2004</a> <span class='count'>(29)</span></li>
+
+
+    </ul>
+  </li>
+
+      </ul>
+        <div class="clearfix expand_buttons">
+          <a href="/search?commit=Search&amp;expanded_field=PUBLISHED_DATE&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart" class="all popup_more" >Show more...</a>        </div>
+    </div>
+    </div>
+  </div>
+  
+            <div class="facet multiple collapsable collapsed" id="expander_ugc_rating">
+  <div role="tab" tabindex="0" id="facet_tab_ugc_rating" aria-controls="facet_tabpanel_ugc_rating" class="collapseTrigger clearfix button single" param="ugc_rating">
+    <span class="toggle_icon"></span>
+    <h4 class="mobile_list_heading">Rating</h4>
+  </div>
+  <div role="tabpanel" aria-label="Rating" id="facet_tabpanel_ugc_rating" aria-labeledby="facet_tab_ugc_rating">
+ 
+      <div class="collapseTarget" style="display: none">
+        <div class="rating">
+          <input id="FOUR_PLUS_STARS" name="rating" param="rating" title="4+ Stars" type="radio" value="FOUR_PLUS_STARS">
+          
+          <label for="FOUR_PLUS_STARS" class="facet_label rated_four_plus_stars">4+ Stars</label> 
+        </div>
+        <div class="rating">
+          <input id="THREE_PLUS_STARS" name="rating" param="rating" title="3-4 Stars" type="radio" value="THREE_PLUS_STARS">
+          
+          <label for="THREE_PLUS_STARS" class="facet_label rated_three_plus_stars">3-4 Stars</label> 
+        </div>
+        <div class="rating">
+          <input id="TWO_PLUS_STARS" name="rating" param="rating" title="2-3 Stars" type="radio" value="TWO_PLUS_STARS">
+          
+          <label for="TWO_PLUS_STARS" class="facet_label rated_two_plus_stars">2-3 Stars</label> 
+        </div>
+
+        <div class="rating">
+          <input class="radio" id="RESET" name="rating" param="rating" title="All ratings" type="radio" value="RESET">
+          <!-- <span class='count'>()</span> -->
+          <label for="RESET" class="facet_label rated_reset">All ratings</label> 
+        </div>
+     </div>
+    
+  </div>
+</div>
+  
+          <div class="facet multiple collapsable collapsed" id="expander_Tags">
+    <div role="tab" tabindex="0" id="facet_tab_Tags" aria-controls="facet_tabpanel_tags" class="collapseTrigger clearfix button single"  param="Tags">
+      <span class="toggle_icon"></span>
+      <h4 class="mobile_list_heading">Tags</h4>
+    </div>
+    <div role="tabpanel" aria-label="Tags" id="facet_tabpanel_Tags" aria-labeledby="facet_tab_tags" class="collapseTarget grouped_facets" style="display: none">
+      <ul class="facet_list" role="tablist">
+        <li class="facetGroup">
+          
+  <div class="facet multiple collapsable collapsed" id="expander_tag_genre">
+    <div role="tab" tabindex="0" id="facet_tab_tag_genre" aria-controls="facet_tabpanel_tag_genre" class="collapseTrigger clearfix button no" param="tag_genre">
+      <h4 class="mobile_list_heading">Tag - Genre</h4>
+      <span class="toggle_icon"></span>
+    </div>
+    <div role="tabpanel" aria-label="Tag - Genre" id="facet_tabpanel_tag_genre" aria-labeledby="facet_tab_tag_genre">
+    <div class="appliedFilters">
+      <ul>
+      </ul>
+    </div>
+    <div class="collapseTarget" style="display: none">
+      <ul class="facet_list">
+          
+            <li class="first_ten">
+    <ul>
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;gtag=jane+addams+children%27s+book+award" id="jane addams children's book award" param="gtag" >jane addams children's book award</a> <span class='count'>(228)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;gtag=children%27s+classic" id="children's classic" param="gtag" >children's classic</a> <span class='count'>(27)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;gtag=mp3" id="mp3" param="gtag" >mp3</a> <span class='count'>(19)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;gtag=historical+fiction" id="historical fiction" param="gtag" >historical fiction</a> <span class='count'>(15)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;gtag=children%27s" id="children's" param="gtag" >children's</a> <span class='count'>(12)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;gtag=common+core" id="common core" param="gtag" >common core</a> <span class='count'>(12)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;gtag=agassiz+library+reading+link+challenge" id="agassiz library reading link challenge" param="gtag" >agassiz library reading link challenge</a> <span class='count'>(10)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;gtag=appendix+b" id="appendix b" param="gtag" >appendix b</a> <span class='count'>(10)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;gtag=exemplar+gr" id="exemplar gr" param="gtag" >exemplar gr</a> <span class='count'>(10)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;gtag=adventure" id="adventure" param="gtag" >adventure</a> <span class='count'>(8)</span></li>
+
+
+    </ul>
+  </li>
+
+      </ul>
+        <div class="clearfix expand_buttons">
+          <a href="/search?commit=Search&amp;expanded_field=TAG_GENRE&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart" class="all popup_more" >Show more...</a>        </div>
+    </div>
+    </div>
+  </div>
+
+        </li>
+        <li class="facetGroup">
+          
+  <div class="facet multiple collapsable collapsed" id="expander_tag_tone">
+    <div role="tab" tabindex="0" id="facet_tab_tag_tone" aria-controls="facet_tabpanel_tag_tone" class="collapseTrigger clearfix button no" param="tag_tone">
+      <h4 class="mobile_list_heading">Tag - Tone</h4>
+      <span class="toggle_icon"></span>
+    </div>
+    <div role="tabpanel" aria-label="Tag - Tone" id="facet_tabpanel_tag_tone" aria-labeledby="facet_tab_tag_tone">
+    <div class="appliedFilters">
+      <ul>
+      </ul>
+    </div>
+    <div class="collapseTarget" style="display: none">
+      <ul class="facet_list">
+          
+            <li class="first_ten">
+    <ul>
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;ttag=funny" id="funny" param="ttag" >funny</a> <span class='count'>(7)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;ttag=hopeful" id="hopeful" param="ttag" >hopeful</a> <span class='count'>(7)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;ttag=dark" id="dark" param="ttag" >dark</a> <span class='count'>(6)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;ttag=moody" id="moody" param="ttag" >moody</a> <span class='count'>(6)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;ttag=sad" id="sad" param="ttag" >sad</a> <span class='count'>(6)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;ttag=happy+and+sad" id="happy and sad" param="ttag" >happy and sad</a> <span class='count'>(5)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;ttag=hilarious" id="hilarious" param="ttag" >hilarious</a> <span class='count'>(5)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;ttag=interesting" id="interesting" param="ttag" >interesting</a> <span class='count'>(5)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;ttag=sared" id="sared" param="ttag" >sared</a> <span class='count'>(5)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;ttag=serious" id="serious" param="ttag" >serious</a> <span class='count'>(5)</span></li>
+
+
+    </ul>
+  </li>
+
+      </ul>
+        <div class="clearfix expand_buttons">
+          <a href="/search?commit=Search&amp;expanded_field=TAG_TONE&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart" class="all popup_more" >Show more...</a>        </div>
+    </div>
+    </div>
+  </div>
+
+        </li>
+        <li class="facetGroup">
+          
+  <div class="facet multiple collapsable collapsed" id="expander_tag_about">
+    <div role="tab" tabindex="0" id="facet_tab_tag_about" aria-controls="facet_tabpanel_tag_about" class="collapseTrigger clearfix button no" param="tag_about">
+      <h4 class="mobile_list_heading">Tag - Theme</h4>
+      <span class="toggle_icon"></span>
+    </div>
+    <div role="tabpanel" aria-label="Tag - Theme" id="facet_tabpanel_tag_about" aria-labeledby="facet_tab_tag_about">
+    <div class="appliedFilters">
+      <ul>
+      </ul>
+    </div>
+    <div class="collapseTarget" style="display: none">
+      <ul class="facet_list">
+          
+            <li class="first_ten">
+    <ul>
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;atag=coretta+scott+king+award+-+author" id="coretta scott king award - author" param="atag" >coretta scott king award - author</a> <span class='count'>(13)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;atag=civil+rights" id="civil rights" param="atag" >civil rights</a> <span class='count'>(8)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;atag=children" id="children" param="atag" >children</a> <span class='count'>(6)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;atag=family" id="family" param="atag" >family</a> <span class='count'>(6)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;atag=love" id="love" param="atag" >love</a> <span class='count'>(6)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;atag=sibert+award" id="sibert award" param="atag" >sibert award</a> <span class='count'>(6)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;atag=10-year-old" id="10-year-old" param="atag" >10-year-old</a> <span class='count'>(5)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;atag=2013+films+based+on+books" id="2013 films based on books" param="atag" >2013 films based on books</a> <span class='count'>(5)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;atag=bravery" id="bravery" param="atag" >bravery</a> <span class='count'>(5)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;atag=civil+rights+movement" id="civil rights movement" param="atag" >civil rights movement</a> <span class='count'>(5)</span></li>
+
+
+    </ul>
+  </li>
+
+      </ul>
+        <div class="clearfix expand_buttons">
+          <a href="/search?commit=Search&amp;expanded_field=TAG_ABOUT&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart" class="all popup_more" >Show more...</a>        </div>
+    </div>
+    </div>
+  </div>
+
+        </li>
+      </ul>
+    </div>
+  </div>
+
+            
+  <div class="facet multiple collapsable collapsed" id="expander_author">
+    <div role="tab" tabindex="0" id="facet_tab_author" aria-controls="facet_tabpanel_author" class="collapseTrigger clearfix button single" param="author">
+      <h4 class="mobile_list_heading">Author</h4>
+      <span class="toggle_icon"></span>
+    </div>
+    <div role="tabpanel" aria-label="Author" id="facet_tabpanel_author" aria-labeledby="facet_tab_author">
+    <div class="appliedFilters">
+      <ul>
+      </ul>
+    </div>
+    <div class="collapseTarget" style="display: none">
+      <ul class="facet_list">
+          
+            <li class="first_ten">
+    <ul>
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;author=Addams%2C+Jane" id="Addams, Jane" param="author" >Addams, Jane</a> <span class='count'>(46)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;author=Curtis%2C+Christopher+Paul" id="Curtis, Christopher Paul" param="author" >Curtis, Christopher Paul</a> <span class='count'>(13)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;author=Taylor%2C+Mildred+D." id="Taylor, Mildred D." param="author" >Taylor, Mildred D.</a> <span class='count'>(11)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;author=Paterson%2C+Katherine" id="Paterson, Katherine" param="author" >Paterson, Katherine</a> <span class='count'>(9)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;author=Ellis%2C+Deborah" id="Ellis, Deborah" param="author" >Ellis, Deborah</a> <span class='count'>(8)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;author=Lowry%2C+Lois" id="Lowry, Lois" param="author" >Lowry, Lois</a> <span class='count'>(8)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;author=Myers%2C+Walter+Dean" id="Myers, Walter Dean" param="author" >Myers, Walter Dean</a> <span class='count'>(8)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;author=Taylor%2C+Theodore" id="Taylor, Theodore" param="author" >Taylor, Theodore</a> <span class='count'>(8)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;author=Freedman%2C+Russell" id="Freedman, Russell" param="author" >Freedman, Russell</a> <span class='count'>(6)</span></li>
+
+
+
+				<li class="conjunctive"><a href="/search?t=keyword&amp;search_category=keyword&amp;q=Jane+Addams&amp;commit=Search&amp;searchOpt=catalogue&amp;author=Naidoo%2C+Beverley" id="Naidoo, Beverley" param="author" >Naidoo, Beverley</a> <span class='count'>(6)</span></li>
+
+
+    </ul>
+  </li>
+
+      </ul>
+        <div class="clearfix expand_buttons">
+          <a href="/search?commit=Search&amp;expanded_field=AUTHOR&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=smart" class="all popup_more" >Show more...</a>        </div>
+    </div>
+    </div>
+  </div>
+  
+  </div>
+</div>
+  </div>  
+  
+</div>   
+    <hr/>
+  
+  <a href="/search/rss?commit=Search&amp;q=Jane+Addams&amp;searchOpt=catalogue&amp;search_category=keyword&amp;t=keyword" ><img alt="Rss" src="http://cdn.bibliocommons.com/images/rss.png?1360704916"></a>
+
+</div>
+                                                
+        
+        <p class="help">*Item availability for search results is updated several times an hour.</p>
+      </div>
+
+        <div class="secondary " id="rightBar">
+<div id="related_events" style="padding: 20px"></div>
+
+
+
+
+
+
+  
+  
+  
+	<div class="content">
+	  <ul class="sidebar_links">
+	    <li><a href="http://www.nypl.org/node/122489" class="">About your privacy.</a> </li>
+	  </ul>
+	</div>
+
+</div>
+    </div>
+    
+    <div id="footer">
+      <div class="footerContent clearfix">
+            <div class="footerLinks clearfix">
+  <div class="col">
+    <a href="http://www.nypl.org/node/122489"><h3>Privacy Overview</h3></a>
+    <ul>
+      <li>
+        <a href="http://www.nypl.org/help/about-nypl/legal-notices/privacy-policy">NYPL Privacy Policy</a>
+      </li>
+      <li>
+        <a href="/info/privacy">BiblioCommons Privacy Statement</a>
+      </li>
+    </ul>
+  </div>
+  <div class="col">
+    <a href="http://www.nypl.org/node/123383"><h3>Terms & Conditions Overview</h3></a>
+    <ul>
+      <li>
+        <a href="http://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions">NYPL Terms & Conditions</a>
+      </li>
+      <li>
+        <a href="/info/terms">BiblioCommons Terms of Use</a>
+      </li>
+    </ul>
+  </div>
+  
+  <div class="col">
+    <a href="http://catalog.nypl.org/"><h3>Classic Catalog</h3></a>
+  </div>
+  
+  <div class="col">
+    <a href="http://www.nypl.org/eNews"><h3>Get the NYPL Newsletter</h3></a>
+  </div>
+  <div class="col">
+  	<a href="https://secure3.convio.net/nypl/site/SPageServer?pagename=donation_form&amp;JServSessionIdr003=dwcz55yj27.app304a&amp;s_src=FRQ12ZZ_BLCN"><h3>Donate Now</h3></a>
+  </div>
+</div>
+      </div>
+    </div>
+  	
+    
+    <p>Powered by BiblioCommons.</p>
+
+    
+    
+  </div>
+      <script src="http://cdn.bibliocommons.com/javascripts/compressed_base.js?1380118332" type="text/javascript"></script>
+
+    <script src="http://cdn.bibliocommons.com/javascripts/search_files.js?1379602671" type="text/javascript"></script>
+
+	<script type="text/javascript" charset="utf-8">   
+      init_sharing();
+	</script>  
+
+
+
+  
+  <!-- BEGIN FOXYCART FILES -->
+  <script src="//cdn.foxycart.com/nypl.secure.bibliocommons.com/foxycart.js" type="text/javascript" charset="utf-8"></script>
+  <!-- END FOXYCART FILES -->
+  
+  
+  
+  <div class="popup-box-ie-position">
+    <div class="popout-box" > 
+      <div id="popout-box-content"  aria-live="polite" aria-atomic="true" aria-relevant="additions"></div>
+      <div class="popout-box-border"></div>
+      <div class="popout-box-arrow"></div>
+    </div>
+  </div>
+</body>
+</html>

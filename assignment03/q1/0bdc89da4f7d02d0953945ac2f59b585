@@ -1,0 +1,555 @@
+<!doctype html>
+
+<!--[if IEMobile 7 ]> <html dir="ltr" lang="pl-PL"class="no-js iem7"> <![endif]-->
+<!--[if IE 8 ]>    <html dir="ltr" lang="pl-PL" class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
+<html dir="ltr" lang="pl-PL" class="no-js">
+	<!--<![endif]-->
+
+	<head>
+
+		<title>
+			Kapuscinski Development Lectures – what top thinkers think about development			</title>
+			<meta charset="UTF-8" />
+			<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<link rel="profile" href="http://gmpg.org/xfn/11" />
+						<link rel="pingback" href="http://kapuscinskilectures.eu/xmlrpc.php" />
+			<!-- Favicons and touch icons (for use on Apple devices) -->
+			<link rel="shortcut icon" href="">
+			<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/apple-touch-icon-144-precomposed.png">
+			<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/apple-touch-icon-114-precomposed.png">
+			<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/apple-touch-icon-72-precomposed.png">
+			<link rel="apple-touch-icon-precomposed" href="/ico/apple-touch-icon-57-precomposed.png">
+			<link rel="alternate" type="application/rss+xml" title="RSS 2.0 Feed for Posts from my site (the main feed)" href="http://kapuscinskilectures.eu/feed/" />
+			<link rel="alternate" type="application/rss+xml" title="Kapuscinski Development Lectures – what top thinkers think about development &raquo; Kanał z wpisami" href="http://kapuscinskilectures.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Kapuscinski Development Lectures – what top thinkers think about development &raquo; Kanał z komentarzami" href="http://kapuscinskilectures.eu/comments/feed/" />
+<link rel='stylesheet' id='fancybox-css'  href='http://kapuscinskilectures.eu/wp-content/themes/reboot/css/fancybox/fancybox.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://kapuscinskilectures.eu/wp-content/themes/reboot/css/bootstrap/bootstrap.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://kapuscinskilectures.eu/wp-content/themes/reboot/css/bootstrap/bootstrap-responsive.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://kapuscinskilectures.eu/wp-content/themes/reboot/css/font-awesome/font-awesome.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://kapuscinskilectures.eu/wp-content/themes/reboot/css/flexslider/flexslider.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='body-font-css'  href='http://fonts.googleapis.com/css?family=Muli&#038;ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mission-font-css'  href='http://fonts.googleapis.com/css?family=Oswald&#038;ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='headings-font-css'  href='http://fonts.googleapis.com/css?family=Oswald&#038;ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='logo-font-css'  href='http://fonts.googleapis.com/css?family=Oswald&#038;ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='main-styles-css'  href='http://kapuscinskilectures.eu/wp-content/themes/reboot/style.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='options-css-css'  href='http://kapuscinskilectures.eu/wp-content/themes/reboot/css/dynamic-css/options.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='alt-stylesheet-css'  href='http://kapuscinskilectures.eu/wp-content/themes/reboot/css/clean.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tell-a-friend-css'  href='http://kapuscinskilectures.eu/wp-content/plugins/wp-tell-a-friend-popup-form/tell-a-friend.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-advanced-rp-css-css'  href='http://kapuscinskilectures.eu/wp-content/plugins/advanced-recent-posts-widget/css/advanced-recent-posts-widget.css?ver=3.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/themes/reboot/js/bootstrap.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/themes/reboot/js/modernizr-2.0.min.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/themes/reboot/js/superfish.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/themes/reboot/js/jquery.custom.settings.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/themes/reboot/js/jquery.fancybox.min.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/themes/reboot/js/jquery.fancybox.settings.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-includes/js/comment-reply.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/plugins/wp-tell-a-friend-popup-form/tell-a-friend-form.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/plugins/wp-tell-a-friend-popup-form/tell-a-friend-popup.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/themes/reboot/js/jquery.isotope.min.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/themes/reboot/js/jquery.easing-1.3.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/themes/reboot/js/jquery.waitforimages.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/themes/reboot/js/jquery.flexslider-min.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://kapuscinskilectures.eu/wp-content/themes/reboot/js/jquery.flexslider-settings.js?ver=3.4.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://kapuscinskilectures.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://kapuscinskilectures.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='next' title='Kapuscinski Development Lectures' href='http://kapuscinskilectures.eu/about/' />
+<meta name="generator" content="WordPress 3.4.2" />
+<link rel='canonical' href='http://kapuscinskilectures.eu/' />
+<link type="text/css" rel="stylesheet" href="http://kapuscinskilectures.eu/wp-content/plugins/latest-twitter-sidebar-widget/latest_twitter_widget.css" />
+	</head>
+
+	<body class="home page page-id-2 page-template page-template-template-homepage-php" >
+
+		<div class="page-holder">
+			<div class="layer-0">
+				<a href="/"><img src="http://kapuscinskilectures.eu/wp-content/themes/reboot/img/header_m.png" id="header_m" /></a>
+				<div id="social-media-ico">
+					<a href="http://twitter.com/kapulectures" class="twitter-top-link"></a>
+					<a href="http://facebook.com/kapuscinskilectures" class="facebook-top-link"></a>
+					<a href="http://kapuscinskilectures.eu/?feed=rss2&post_type=portfolio" class="rss-top-link"></a>
+				</div>
+				<div class="layer-1">
+					<div class="layer-2">
+
+						<header class="header">
+
+							<div class="header-wrap">
+
+								<div class="row">
+
+									<span>WHAT TOP THINKERS THINK ABOUT DEVELOPMENT</span>
+									<a href="http://kapuscinskilectures.eu" class="logo-eu"></a>
+									<a href="http://kapuscinskilectures.eu" class="logo-undp"></a>
+									<a href="http://kapuscinskilectures.eu" class="home-link"></a>
+									<a href="http://twitter.com/kapulectures" class="twitter-top-link"></a>
+									<a href="http://facebook.com/kapuscinskilectures" class="facebook-top-link"></a>
+									<a href="http://kapuscinskilectures.eu/?feed=rss2&post_type=portfolio" class="rss-top-link"></a>
+
+								</div><!-- end .row -->
+
+							</div><!-- end .header-wrap -->
+
+						</header><!-- end .header -->
+
+						<div id="nav-wrapper">
+
+							<div class="container">
+
+								<div>
+
+									<nav id="header-nav" role="navigation" class="span12">
+
+										<div class="nav-menu"><ul id="menu-menu" class="menu"><li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-67"><a href="http://kapuscinskilectures.eu/">Home</a></li>
+<li id="menu-item-186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-186"><a href="/about">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://kapuscinskilectures.eu/about/">Kapuscinski Development Lectures</a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="http://kapuscinskilectures.eu/ryszard-kapuscinski/">Ryszard Kapuscinski</a></li>
+</ul>
+</li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a title="portfolio" href="http://kapuscinskilectures.eu/lectures/">Lectures</a>
+<ul class="sub-menu">
+	<li id="menu-item-774" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-774"><a href="http://kapuscinskilectures.eu/lectures/transition-in-myanmar-lessons-and-challenges/">Politics and Education</a></li>
+	<li id="menu-item-780" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-780"><a href="http://kapuscinskilectures.eu/lectures/tackling-inequalities/">Tackling inequalities in development</a></li>
+	<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-802"><a href="http://kapuscinskilectures.eu/lectures/effective-poverty-reduction-beyond-mdgs/">Effective poverty reduction beyond MDGs</a></li>
+	<li id="menu-item-711" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-711"><a href="http://kapuscinskilectures.eu/lectures/making-cities-fair/">Making cities fair</a></li>
+	<li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-710"><a href="http://kapuscinskilectures.eu/lectures/human-security-in-developing-world/">Human security in developing world</a></li>
+	<li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-632"><a href="http://kapuscinskilectures.eu/lectures/inequality-as-barrier-to-human-development/">Inequality barrier to human development</a></li>
+	<li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-586"><a href="http://kapuscinskilectures.eu/lectures/women-in-development-leaders-without-followers/">Women in development</a></li>
+	<li id="menu-item-563" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-563"><a href="http://kapuscinskilectures.eu/lectures/what-would-kapuscinski-make-of-development-today/">What would Kapuscinski make of development today?</a></li>
+	<li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-550"><a href="http://kapuscinskilectures.eu/lectures/awaken-african-giant/">Social business reducing poverty in Africa</a></li>
+	<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-450"><a href="http://kapuscinskilectures.eu/lectures/emerging-donors/">Emerging donors &#8211; way out of or into the crisis?</a></li>
+	<li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-348"><a href="http://kapuscinskilectures.eu/lectures/poor-economics/">Poor economics &#8211; effective poverty reduction policies</a></li>
+	<li id="menu-item-471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-471"><a href="/lectures">more lectures &#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a title="services" href="http://kapuscinskilectures.eu/speakers/">Speakers</a>
+<ul class="sub-menu">
+	<li id="menu-item-775" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-775"><a href="http://kapuscinskilectures.eu/speakers/aung-san-suu-kyi/">Aung San Suu Kyi</a></li>
+	<li id="menu-item-781" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-781"><a href="http://kapuscinskilectures.eu/speakers/angel-gurria/">Angel Gurria</a></li>
+	<li id="menu-item-794" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-794"><a href="http://kapuscinskilectures.eu/speakers/esther-duflo/">Esther Duflo</a></li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-793"><a href="http://kapuscinskilectures.eu/speakers/jose-antonio-ocampo/">José Antonio Ocampo</a></li>
+	<li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-713"><a href="http://kapuscinskilectures.eu/speakers/susan-parnell/">Susan Parnell</a></li>
+	<li id="menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-712"><a href="http://kapuscinskilectures.eu/speakers/shahrbanou-tadjbakhsh/">Shahrbanou Tadjbakhsh</a></li>
+	<li id="menu-item-633" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-633"><a href="http://kapuscinskilectures.eu/speakers/kevin-watkins/">Kevin Watkins</a></li>
+	<li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-584"><a href="http://kapuscinskilectures.eu/speakers/michelle-bachelet/">Michelle Bachelet</a></li>
+	<li id="menu-item-562" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-562"><a href="http://kapuscinskilectures.eu/speakers/mark-malloch-brown/">Mark Malloch-Brown</a></li>
+	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-549"><a href="http://kapuscinskilectures.eu/speakers/nick-moon/">Nick Moon</a></li>
+	<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-477"><a href="http://kapuscinskilectures.eu/speakers/vaira-vike-freiberga/">Vaira Vike-Freiberga</a></li>
+	<li id="menu-item-357" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-357"><a href="http://kapuscinskilectures.eu/speakers/abhijit-banerjee/">Abhijit Banerjee</a></li>
+	<li id="menu-item-476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-476"><a href="/speakers">MORE SPEAKERS &#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218"><a href="http://kapuscinskilectures.eu/topics/">Topics</a>
+<ul class="sub-menu">
+	<li id="menu-item-402" class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-402"><a href="http://kapuscinskilectures.eu/project-type/africa/">Africa</a></li>
+	<li id="menu-item-403" class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-403"><a href="http://kapuscinskilectures.eu/project-type/effectiveness/">Aid effectiveness</a></li>
+	<li id="menu-item-405" class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-405"><a href="http://kapuscinskilectures.eu/project-type/strategies/">Development strategies</a></li>
+	<li id="menu-item-406" class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-406"><a href="http://kapuscinskilectures.eu/project-type/eu/">EU development cooperation</a></li>
+	<li id="menu-item-585" class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-585"><a href="http://kapuscinskilectures.eu/project-type/gender/">Gender equality</a></li>
+	<li id="menu-item-407" class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-407"><a href="http://kapuscinskilectures.eu/project-type/rights/">Human rights</a></li>
+	<li id="menu-item-408" class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-408"><a href="http://kapuscinskilectures.eu/project-type/humanitarian/">Humanitarian aid</a></li>
+	<li id="menu-item-409" class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-409"><a href="http://kapuscinskilectures.eu/project-type/mdg/">Millennium Development Goals</a></li>
+	<li id="menu-item-410" class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-410"><a href="http://kapuscinskilectures.eu/project-type/poverty/">Poverty and inequality</a></li>
+	<li id="menu-item-411" class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-411"><a href="http://kapuscinskilectures.eu/project-type/sustainable/">Sustainable development</a></li>
+</ul>
+</li>
+<li id="menu-item-744" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-744"><a href="#">Partners</a>
+<ul class="sub-menu">
+	<li id="menu-item-277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-277"><a title="host partners" href="http://kapuscinskilectures.eu/partners/">Host Partners</a></li>
+	<li id="menu-item-743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-743"><a href="http://kapuscinskilectures.eu/strategic-partners/">Strategic partners</a></li>
+</ul>
+</li>
+<li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172"><a href="http://kapuscinskilectures.eu/contact/">Contact</a></li>
+</ul></div><div class="menu-menu-container"><select id="menu-menu-1" class="menu responsive-dropdown-menu"><option value="" class="blank">Navigate to&#8230;</option><option class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-67 menu-item-depth-0" value="http://kapuscinskilectures.eu/" selected="selected">Home</option>
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-186 menu-item-depth-0" value="/about">About</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66 menu-item-depth-1" value="http://kapuscinskilectures.eu/about/">- Kapuscinski Development Lectures</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188 menu-item-depth-1" value="http://kapuscinskilectures.eu/ryszard-kapuscinski/">- Ryszard Kapuscinski</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62 menu-item-depth-0" value="http://kapuscinskilectures.eu/lectures/">Lectures</option>	<option class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-774 menu-item-depth-1" value="http://kapuscinskilectures.eu/lectures/transition-in-myanmar-lessons-and-challenges/">- Politics and Education</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-780 menu-item-depth-1" value="http://kapuscinskilectures.eu/lectures/tackling-inequalities/">- Tackling inequalities in development</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-802 menu-item-depth-1" value="http://kapuscinskilectures.eu/lectures/effective-poverty-reduction-beyond-mdgs/">- Effective poverty reduction beyond MDGs</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-711 menu-item-depth-1" value="http://kapuscinskilectures.eu/lectures/making-cities-fair/">- Making cities fair</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-710 menu-item-depth-1" value="http://kapuscinskilectures.eu/lectures/human-security-in-developing-world/">- Human security in developing world</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-632 menu-item-depth-1" value="http://kapuscinskilectures.eu/lectures/inequality-as-barrier-to-human-development/">- Inequality barrier to human development</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-586 menu-item-depth-1" value="http://kapuscinskilectures.eu/lectures/women-in-development-leaders-without-followers/">- Women in development</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-563 menu-item-depth-1" value="http://kapuscinskilectures.eu/lectures/what-would-kapuscinski-make-of-development-today/">- What would Kapuscinski make of development today?</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-550 menu-item-depth-1" value="http://kapuscinskilectures.eu/lectures/awaken-african-giant/">- Social business reducing poverty in Africa</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-450 menu-item-depth-1" value="http://kapuscinskilectures.eu/lectures/emerging-donors/">- Emerging donors &#8211; way out of or into the crisis?</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-348 menu-item-depth-1" value="http://kapuscinskilectures.eu/lectures/poor-economics/">- Poor economics &#8211; effective poverty reduction policies</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-471 menu-item-depth-1" value="/lectures">- more lectures &#8230;</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169 menu-item-depth-0" value="http://kapuscinskilectures.eu/speakers/">Speakers</option>	<option class="menu-item menu-item-type-post_type menu-item-object-services menu-item-775 menu-item-depth-1" value="http://kapuscinskilectures.eu/speakers/aung-san-suu-kyi/">- Aung San Suu Kyi</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-services menu-item-781 menu-item-depth-1" value="http://kapuscinskilectures.eu/speakers/angel-gurria/">- Angel Gurria</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-services menu-item-794 menu-item-depth-1" value="http://kapuscinskilectures.eu/speakers/esther-duflo/">- Esther Duflo</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-services menu-item-793 menu-item-depth-1" value="http://kapuscinskilectures.eu/speakers/jose-antonio-ocampo/">- José Antonio Ocampo</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-services menu-item-713 menu-item-depth-1" value="http://kapuscinskilectures.eu/speakers/susan-parnell/">- Susan Parnell</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-services menu-item-712 menu-item-depth-1" value="http://kapuscinskilectures.eu/speakers/shahrbanou-tadjbakhsh/">- Shahrbanou Tadjbakhsh</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-services menu-item-633 menu-item-depth-1" value="http://kapuscinskilectures.eu/speakers/kevin-watkins/">- Kevin Watkins</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-services menu-item-584 menu-item-depth-1" value="http://kapuscinskilectures.eu/speakers/michelle-bachelet/">- Michelle Bachelet</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-services menu-item-562 menu-item-depth-1" value="http://kapuscinskilectures.eu/speakers/mark-malloch-brown/">- Mark Malloch-Brown</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-services menu-item-549 menu-item-depth-1" value="http://kapuscinskilectures.eu/speakers/nick-moon/">- Nick Moon</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-services menu-item-477 menu-item-depth-1" value="http://kapuscinskilectures.eu/speakers/vaira-vike-freiberga/">- Vaira Vike-Freiberga</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-services menu-item-357 menu-item-depth-1" value="http://kapuscinskilectures.eu/speakers/abhijit-banerjee/">- Abhijit Banerjee</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-476 menu-item-depth-1" value="/speakers">- MORE SPEAKERS &#8230;</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218 menu-item-depth-0" value="http://kapuscinskilectures.eu/topics/">Topics</option>	<option class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-402 menu-item-depth-1" value="http://kapuscinskilectures.eu/project-type/africa/">- Africa</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-403 menu-item-depth-1" value="http://kapuscinskilectures.eu/project-type/effectiveness/">- Aid effectiveness</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-405 menu-item-depth-1" value="http://kapuscinskilectures.eu/project-type/strategies/">- Development strategies</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-406 menu-item-depth-1" value="http://kapuscinskilectures.eu/project-type/eu/">- EU development cooperation</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-585 menu-item-depth-1" value="http://kapuscinskilectures.eu/project-type/gender/">- Gender equality</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-407 menu-item-depth-1" value="http://kapuscinskilectures.eu/project-type/rights/">- Human rights</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-408 menu-item-depth-1" value="http://kapuscinskilectures.eu/project-type/humanitarian/">- Humanitarian aid</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-409 menu-item-depth-1" value="http://kapuscinskilectures.eu/project-type/mdg/">- Millennium Development Goals</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-410 menu-item-depth-1" value="http://kapuscinskilectures.eu/project-type/poverty/">- Poverty and inequality</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-project-type menu-item-411 menu-item-depth-1" value="http://kapuscinskilectures.eu/project-type/sustainable/">- Sustainable development</option>
+
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-744 menu-item-depth-0" value="#">Partners</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-277 menu-item-depth-1" value="http://kapuscinskilectures.eu/partners/">- Host Partners</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-743 menu-item-depth-1" value="http://kapuscinskilectures.eu/strategic-partners/">- Strategic partners</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172 menu-item-depth-0" value="http://kapuscinskilectures.eu/contact/">Contact</option>
+</select></div>
+										<div id="searchform">
+											<form method="get" action="http://kapuscinskilectures.eu">
+											<fieldset>
+												<input type="submit" value="&nbsp;"/>	
+												<input type="text" name="s" id="s" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Search':this.value;" placeholder="search" value="" />
+											</fieldset>
+											</form>
+										</div> <!-- end searchform -->
+
+									</nav><!-- end #header-nav -->
+
+								</div><!-- end .row -->
+
+							</div><!-- end .container -->
+
+						</div><!-- end #nav-wrapper -->
+
+						<div class="line-under-menu"></div>
+						<!-- /line-under-menu -->
+
+						<div class="container">
+
+
+	<section class="middle row">
+
+                  
+          <div class="flex-container span12">
+	          
+	          <div class="flexslider">
+	            
+	            <ul class="slides">
+	            	
+	            
+	               	                           
+	               		               <li>
+		               	<a href="http://kapuscinskilectures.eu/lectures/effective-poverty-reduction-beyond-mdgs/"><img width="1166" height="383" src="http://kapuscinskilectures.eu/wp-content/uploads/2013/09/slider_main.png" class="attachment-large-slider-thumb wp-post-image" alt="Esther Duflo, Jose Antonio Ocampo in New York City, 24.09.2013" title="Esther Duflo, Jose Antonio Ocampo in New York City, 24.09.2013" /></a>
+		               </li>				
+						
+						             	            </ul><!-- end .slides -->
+	          
+	          </div><!-- end .flexslider -->
+     		
+     	  </div><!-- end .flex-container -->
+ 
+                    <section id="latest-work" class="span8">
+
+                      
+            <div class="row">
+          
+              <header class="section-title span12">
+                	<h1>WHAT SPEAKERS SAY</h1>
+              </header>
+
+            </div><!-- end .row -->
+
+            
+            <div class="row">
+              
+              <div class="span12">
+
+                
+              </div><!-- end .span1-->
+
+            </div><!-- end .row -->
+            
+            <div id="portfolio-items" class="row">
+
+                
+                
+                <div class="media-box span4 block rights" data-filter=""> 
+
+                        <div class="view view-first">
+                        
+                          <a href="http://kapuscinskilectures.eu/lectures/transition-in-myanmar-lessons-and-challenges/"><img width="364" height="206" src="http://kapuscinskilectures.eu/wp-content/uploads/2013/08/assk_speaker.jpg" class="attachment-latest-thumb wp-post-image" alt="Aung San Suu Kyi, UN Photo/Mark Garten" title="Aung San Suu Kyi, UN Photo/Mark Garten" /></a>
+                          <a href="http://kapuscinskilectures.eu/lectures/transition-in-myanmar-lessons-and-challenges/" title="Politics and Education">
+                          <div class="mask">
+                            <h2>12.09.2013 Warsaw, Poland</h2>
+                      		
+                      		                      		
+                      									
+															
+																
+																						
+							                            <p class="speaker-name">Aung San Suu Kyi</p>
+                            <p class="project-cat">“Freedom and democracy are dreams you never give up” </p>
+                          </div></a>
+
+                        </div><!-- end .view view-first -->
+                      	<div class="media-box-bottom">
+                      		<h2><a href="http://kapuscinskilectures.eu/lectures/transition-in-myanmar-lessons-and-challenges/" title="Politics and Education">Politics and Education</a></h2>
+                      	</div>
+                      </div>
+                        
+                
+                
+                <div class="media-box span4 block poverty" data-filter=""> 
+
+                        <div class="view view-first">
+                        
+                          <a href="http://kapuscinskilectures.eu/lectures/tackling-inequalities/"><img width="364" height="206" src="http://kapuscinskilectures.eu/wp-content/uploads/2013/08/Gurria_speaker.png" class="attachment-latest-thumb wp-post-image" alt="Angel Gurria, OECD" title="Angel Gurria, OECD" /></a>
+                          <a href="http://kapuscinskilectures.eu/lectures/tackling-inequalities/" title="Tackling inequalities in development">
+                          <div class="mask">
+                            <h2>18.09.2013 Paris, France</h2>
+                      		
+                      		                      		
+                      									
+															
+																
+																						
+							                            <p class="speaker-name">Angel Gurria</p>
+                            <p class="project-cat"></p>
+                          </div></a>
+
+                        </div><!-- end .view view-first -->
+                      	<div class="media-box-bottom">
+                      		<h2><a href="http://kapuscinskilectures.eu/lectures/tackling-inequalities/" title="Tackling inequalities in development">Tackling inequalities in development</a></h2>
+                      	</div>
+                      </div>
+                        
+                
+                
+                <div class="media-box span4 block sustainable" data-filter=""> 
+
+                        <div class="view view-first">
+                        
+                          <a href="http://kapuscinskilectures.eu/lectures/making-cities-fair/"><img width="364" height="206" src="http://kapuscinskilectures.eu/wp-content/uploads/2013/02/Sue_Parnell.png" class="attachment-latest-thumb wp-post-image" alt="Sue_Parnell" title="Sue_Parnell" /></a>
+                          <a href="http://kapuscinskilectures.eu/lectures/making-cities-fair/" title="Making cities fair">
+                          <div class="mask">
+                            <h2>18.06.2013 Amsterdam</h2>
+                      		
+                      		                      		
+                      									
+															
+																
+																						
+							                            <p class="speaker-name">Susan Parnell</p>
+                            <p class="project-cat"></p>
+                          </div></a>
+
+                        </div><!-- end .view view-first -->
+                      	<div class="media-box-bottom">
+                      		<h2><a href="http://kapuscinskilectures.eu/lectures/making-cities-fair/" title="Making cities fair">Making cities fair</a></h2>
+                      	</div>
+                      </div>
+                        
+                
+                
+                <div class="media-box span4 block poverty" data-filter=""> 
+
+                        <div class="view view-first">
+                        
+                          <a href="http://kapuscinskilectures.eu/lectures/inequality-as-barrier-to-human-development/"><img width="364" height="206" src="http://kapuscinskilectures.eu/wp-content/uploads/2013/02/Kevin-Watkins.png" class="attachment-latest-thumb wp-post-image" alt="Kevin Watkins, source: www.flickr.com/photos/makeroadssafe/5612996889" title="Kevin Watkins, source: www.flickr.com/photos/makeroadssafe/5612996889" /></a>
+                          <a href="http://kapuscinskilectures.eu/lectures/inequality-as-barrier-to-human-development/" title="Inequality barrier to human development">
+                          <div class="mask">
+                            <h2>05.03.2013 Stockholm, Sweden</h2>
+                      		
+                      		                      		
+                      									
+															
+																
+																						
+							                            <p class="speaker-name">Kevin Watkins</p>
+                            <p class="project-cat">&quot;Inequality is the defining issue of our age&quot;</p>
+                          </div></a>
+
+                        </div><!-- end .view view-first -->
+                      	<div class="media-box-bottom">
+                      		<h2><a href="http://kapuscinskilectures.eu/lectures/inequality-as-barrier-to-human-development/" title="Inequality barrier to human development">Inequality barrier to human development</a></h2>
+                      	</div>
+                      </div>
+                        
+                              
+            </div><!-- end .row -->
+          
+          </section><!-- end #latest-work -->  
+          
+          <div class="span4">
+          	<aside id="sidebar">
+            <div id="text-3" class="widget widget_text"><h4 class="widget-title">DEVELOPMENT NEWS</h4>			<div class="textwidget"><p><a class="twitter-timeline" href="https://twitter.com/kapulectures" data-widget-id="372247025795874816" lang="EN">Tweety na temat @kapulectures</a><br />
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+</div>
+		</div>            </aside>
+          </div>  
+
+                </section><!-- end .middle -->
+		<div class="content-down">
+			<h4 class="h4-l span8">READ MORE <a href="http://kapuscinskilectures.eu/lectures/">WHAT SPEAKERS SAY</a></h4>
+			<h4 class="h4-r span4"><a href="http://twitter.com/kapulectures">FOLLOW US ON TWITTER</a></h4>
+		</div>          
+    </div><!-- end .container -->
+  
+<footer id="footer-global">
+
+	<div class="container">
+
+		<div id="footer-widgets" class="row">
+
+			<div class="span2">
+				<h5><a href="/about" style="color: #FFFFFF;">ABOUT</a></h5>
+				<ul>
+  					<li class="page_item page-item-51"><a href="http://kapuscinskilectures.eu/about/">Kapuscinski Development Lectures</a></li>
+<li class="page_item page-item-184"><a href="http://kapuscinskilectures.eu/ryszard-kapuscinski/">Ryszard Kapuscinski</a></li>
+				</ul>
+			</div>
+			
+			<div class="span2">
+				<h5><a href="/lectures" style="color: #FFFFFF;">LECTURES</a></h5>
+												<ul>	
+ 									<li><a href="http://kapuscinskilectures.eu/lectures/effective-poverty-reduction-beyond-mdgs/">Effective poverty reduction beyond MDGs</a></li>
+								<li><a href="http://kapuscinskilectures.eu/lectures/tackling-inequalities/">Tackling inequalities in development</a></li>
+								<li><a href="http://kapuscinskilectures.eu/lectures/transition-in-myanmar-lessons-and-challenges/">Politics and Education</a></li>
+								<li><a href="http://kapuscinskilectures.eu/lectures/poor-economics/">Poor economics &#8211; effective poverty reduction policies</a></li>
+								<li><a href="http://kapuscinskilectures.eu/lectures/inequality-as-barrier-to-human-development/">Inequality barrier to human development</a></li>
+								<li><a href="http://kapuscinskilectures.eu/lectures/making-cities-fair/">Making cities fair</a></li>
+								</ul>
+								<a href="http://kapuscinskilectures.eu/lectures/" class="more">more in lectures</a>
+			</div>
+						<div class="span2">
+				<h5><a href="/speakers" style="color: #FFFFFF;">SPEAKERS</a></h5>
+												<ul>	
+ 									<li><a href="http://kapuscinskilectures.eu/speakers/crown-prince-haakon-of-norway/">Crown Prince Haakon of Norway</a></li>
+								<li><a href="http://kapuscinskilectures.eu/speakers/walter-fust/">Walter Fust</a></li>
+								<li><a href="http://kapuscinskilectures.eu/speakers/ashraf-ghani/">Ashraf Ghani</a></li>
+								<li><a href="http://kapuscinskilectures.eu/speakers/jan-vandemoortele/">Jan Vandemoortele</a></li>
+								<li><a href="http://kapuscinskilectures.eu/speakers/paul-collier/">Paul Collier</a></li>
+								<li><a href="http://kapuscinskilectures.eu/speakers/owen-barder/">Owen Barder</a></li>
+								<li><a href="http://kapuscinskilectures.eu/speakers/eveline-herfkens/">Eveline Herfkens</a></li>
+								<li><a href="http://kapuscinskilectures.eu/speakers/abhijit-banerjee/">Abhijit Banerjee</a></li>
+								<li><a href="http://kapuscinskilectures.eu/speakers/vaira-vike-freiberga/">Vaira Vike-Freiberga</a></li>
+								<li><a href="http://kapuscinskilectures.eu/speakers/andris-piebalgs/">Andris Piebalgs</a></li>
+								<li><a href="http://kapuscinskilectures.eu/speakers/nick-moon/">Nick Moon</a></li>
+								</ul>
+								<a href="http://kapuscinskilectures.eu/speakers/" class="more">more in speakers</a>
+			</div>
+
+			<div class="span2">
+				<h5><a href="/topics" style="color: #FFFFFF;">TOPICS</a></h5>
+								<ul>
+					<li class="cat-item cat-item-8"><a href="http://kapuscinskilectures.eu/project-type/africa/" title="Zobacz wszystkie wpisy z kategorii &#8222;Africa&#8221;">Africa</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://kapuscinskilectures.eu/project-type/effectiveness/" title="Zobacz wszystkie wpisy z kategorii &#8222;Aid effectiveness&#8221;">Aid effectiveness</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://kapuscinskilectures.eu/project-type/asia/" title="Zobacz wszystkie wpisy z kategorii &#8222;Asia&#8221;">Asia</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://kapuscinskilectures.eu/project-type/strategies/" title="Zobacz wszystkie wpisy z kategorii &#8222;Development strategies&#8221;">Development strategies</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://kapuscinskilectures.eu/project-type/eu/" title="Zobacz wszystkie wpisy z kategorii &#8222;EU development cooperation&#8221;">EU development cooperation</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://kapuscinskilectures.eu/project-type/gender/" title="Zobacz wszystkie wpisy z kategorii &#8222;Gender equality&#8221;">Gender equality</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://kapuscinskilectures.eu/project-type/rights/" title="Zobacz wszystkie wpisy z kategorii &#8222;Human rights&#8221;">Human rights</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://kapuscinskilectures.eu/project-type/humanitarian/" title="Zobacz wszystkie wpisy z kategorii &#8222;Humanitarian aid&#8221;">Humanitarian aid</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://kapuscinskilectures.eu/project-type/mdg/" title="Zobacz wszystkie wpisy z kategorii &#8222;Millennium Development Goals&#8221;">Millennium Development Goals</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://kapuscinskilectures.eu/project-type/poverty/" title="Zobacz wszystkie wpisy z kategorii &#8222;Poverty and inequality&#8221;">Poverty and inequality</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://kapuscinskilectures.eu/project-type/sustainable/" title="Zobacz wszystkie wpisy z kategorii &#8222;Sustainable development&#8221;">Sustainable development</a>
+</li>
+				</ul>
+				<a href="http://kapuscinskilectures.eu/topics/" class="more">more in topics</a>
+			</div>
+
+			<div class="span2">
+				<h5><a href="/partners" style="color: #FFFFFF;">PARTNERS</a></h5>
+												<ul>	
+ 									<li><a href="http://www.eadi.org/">European Association of Development Research and Training Institutes (EADI), Germany</a></li>
+								<li><a href="http://www.oegavn.org">Foreign Policy and United Nations Association of Austria</a></li>
+								<li><a href="http://www.fspub.unibuc.ro">University of Bucharest (Faculty of Political Sciences), Romania</a></li>
+								<li><a href="http://www.zef.de">University of Bonn (Center for Development Research)</a></li>
+								<li><a href="http://www.ulb.ac.be">Université libre de Bruxelles</a></li>
+								</ul>
+								<a href="http://kapuscinskilectures.eu/partners/" class="more">more in partners</a>
+			</div>
+						
+			<div class="span2">
+				<h5><a href="/contact" style="color: #FFFFFF;">CONTACT</a></h5>
+				<ul>
+  					<li class="page_item page-item-170"><a href="http://kapuscinskilectures.eu/contact/">Contact</a></li>
+				</ul>
+			</div>
+
+		</div><!-- end #footer-widgets -->
+
+	</div><!-- end .container -->
+
+</footer><!-- end #footer-global -->
+
+<div id="copyright-and-credits">
+
+	<div class="container">
+
+		<div class="row">
+
+			<div class="span12">
+				<a href="http://europeandcis.undp.org/" class="footer-1"></a>
+				<a href="http://ec.europa.eu/europeaid/index_en.htm" class="footer-2"></a>
+				<p>
+					Copyright 2012 European Commission and United Nations Development Programme
+					<br />
+					This initiative is co-organised by the European Commission and UNDP
+				</p>
+
+			</div>
+
+		</div>
+
+	</div><!-- end .container -->
+
+</div><!-- end #copyright-and-credits -->
+
+<div id="back-to-top" style="display: block;">
+
+	<a href="#"></a>
+
+</div><!-- end #back-to-top -->
+
+</div> <!--.layer-2 -->
+</div> <!--.layer-1 -->
+</div> <!--.layer-0 -->
+</div> <!--.page-holder -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-35918974-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+	<script>
+		var getElementsByClassName=function(a,b,c){if(document.getElementsByClassName){getElementsByClassName=function(a,b,c){c=c||document;var d=c.getElementsByClassName(a),e=b?new RegExp("\\b"+b+"\\b","i"):null,f=[],g;for(var h=0,i=d.length;h<i;h+=1){g=d[h];if(!e||e.test(g.nodeName)){f.push(g)}}return f}}else if(document.evaluate){getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e="",f="http://www.w3.org/1999/xhtml",g=document.documentElement.namespaceURI===f?f:null,h=[],i,j;for(var k=0,l=d.length;k<l;k+=1){e+="[contains(concat(' ', @class, ' '), ' "+d[k]+" ')]"}try{i=document.evaluate(".//"+b+e,c,g,0,null)}catch(m){i=document.evaluate(".//"+b+e,c,null,0,null)}while(j=i.iterateNext()){h.push(j)}return h}}else{getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e=[],f=b==="*"&&c.all?c.all:c.getElementsByTagName(b),g,h=[],i;for(var j=0,k=d.length;j<k;j+=1){e.push(new RegExp("(^|\\s)"+d[j]+"(\\s|$)"))}for(var l=0,m=f.length;l<m;l+=1){g=f[l];i=false;for(var n=0,o=e.length;n<o;n+=1){i=e[n].test(g.className);if(!i){break}}if(i){h.push(g)}}return h}}return getElementsByClassName(a,b,c)},
+			dropdowns = getElementsByClassName( 'responsive-dropdown-menu' );
+		for ( i=0; i<dropdowns.length; i++ )
+			dropdowns[i].onchange = function(){ if ( this.value != '' ) window.location.href = this.value; }
+	</script>
+	
+</body>
+
+</html>

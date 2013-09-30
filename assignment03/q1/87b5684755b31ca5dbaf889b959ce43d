@@ -1,0 +1,1334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <title>
+      Social media participation to the LTF Wrap-up Event 2013
+    </title>
+    <meta name="keywords" content="climate change" />
+    <meta name="coverage" content="" />
+    <meta name="subject" content="" />
+    <meta name="audience" content="" />
+    <meta name="author" content="United Nations Framework Convention on Climate Change" />
+    <meta name="publisher" content="United Nations Framework Convention on Climate Change" />
+    <meta name="distribution" content="global" />
+    <meta name="robots" content="all" />
+    <meta name="date" content="11.09.2013" />    <link rel="STYLESHEET" href="/files/inc/stylesheets/text/css/2011_screen.css" type="text/css" /><script src="/files/inc/application/x-javascript/sortable.js"></script>    <style type="text/css">
+/*<![CDATA[*/
+        .contpart {
+
+                color: #666666;font-size: 100%;                }
+        .contpart table{
+                color: #666666;        }
+    /*]]>*/
+    </style>
+  </head>
+  <body>
+    <a name="top" id="pagetop"></a>
+<style>
+.searchBox:focus
+{
+	background-image:none !important;
+	background-color:#FFF !important;
+}
+</style>
+
+<div id="top_service_navigation">
+<style>
+#textAndColorList
+{
+	display: inline;
+    float: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#textAndColorList li {
+    display: inline;
+    float: left;
+}
+#textAndColorList a {
+    color: #666666;
+    text-decoration: none;
+}
+
+.topServicePrintLink
+{
+	padding-right:16px;
+	background-image: url(/files/inc/graphics/image/gif/2011_print.gif);
+	background-repeat:no-repeat;
+	background-position:right -2px;
+}
+
+</style>
+
+<ul id="textAndColorList">
+	<li style="margin-right:3px;">Text Size </li>
+	<li><a href="?plus=j" onmousedown="this.target='hiddenProcessor';this.href='/files/inc/application/x-httpd-php/hidden_processor.php?plus=j&mode=hidden'" style="border: 1px solid #666666;margin-right:0px;padding-left:3px;padding-right:3px;">+</a></li>
+	<li><a href="?minus=j" onmousedown="this.target='hiddenProcessor';this.href='/files/inc/application/x-httpd-php/hidden_processor.php?minus=j&mode=hidden'" style="border: 1px solid #666666;border-left:none;margin-left:0px;padding-left:3px;padding-right:3px;">-</a><span class="bookmarkAndServiceDivider">|</span></li>
+	<li style="margin-right:3px;">Text Colour</li>
+	<li><a href="?black=j" onmousedown="this.target='hiddenProcessor';this.href='/files/inc/application/x-httpd-php/hidden_processor.php?black=j&mode=hidden'" style="background-color: #000000;padding-left:3px;padding-right:3px;">&nbsp;</a><span class="bookmarkAndServiceDivider">|</span></li>
+	<li><a href="?middle=j" onmousedown="this.target='hiddenProcessor';this.href='/files/inc/application/x-httpd-php/hidden_processor.php?middle=j&mode=hidden'" style="background-color: #484848;padding-left:3px;padding-right:3px;">&nbsp;</a><span class="bookmarkAndServiceDivider">|</span></li>
+	<li><a href="?normal=j" onmousedown="this.target='hiddenProcessor';this.href='/files/inc/application/x-httpd-php/hidden_processor.php?normal=j&mode=hidden'" style="background-color: #666666;padding-left:3px;padding-right:3px;">&nbsp;</a><span class="bookmarkAndServiceDivider">|</span></li>
+	<li><a href="7752txt.php" target="_blank" class="topServicePrintLink">Print</a></li>
+</ul>
+
+<iframe src="about:blank" style="display:none;width:0px;height:0px;" name="hiddenProcessor" id="hiddenProcessor"></iframe>
+<script>
+function addjustCssRules(s,c)
+{
+	nR = document.styleSheets.length;
+	for(iR = 0; iR < nR; iR++)
+	{
+		checkThisCss = true;
+		mysheet = document.styleSheets[iR];
+		if(mysheet.href)
+		{
+			checkThisCss = false;
+		}
+
+		if(checkThisCss == true)
+		{
+			myrules = false;
+			if (document.styleSheets[iR].cssRules)
+			{
+				myrules=document.styleSheets[iR].cssRules;
+			}
+			else if (document.styleSheets[iR].rules)
+			{
+				myrules=document.styleSheets[iR].rules;
+			}
+			if(myrules)
+			{
+				for (i=0; i<myrules.length; i++)
+				{
+					if(myrules[i].selectorText==".contpart")
+					{
+						if(document.styleSheets[iR].cssRules)
+						{
+							document.styleSheets[iR].cssRules[i].style.color = c;
+							document.styleSheets[iR].cssRules[i].style.fontSize = s+"%";
+						}
+						if(document.styleSheets[iR].rules)
+						{
+							document.styleSheets[iR].rules[i].style.color = c;
+							document.styleSheets[iR].rules[i].style.fontSize = s+"%";
+						}
+					}
+					if(myrules[i].selectorText==".contpart table")
+					{
+						if(document.styleSheets[iR].cssRules)
+						{
+							document.styleSheets[iR].cssRules[i].style.color = c;
+						}
+						if(document.styleSheets[iR].rules)
+						{
+							document.styleSheets[iR].rules[i].style.color = c;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+</script>
+
+
+<script>
+<!--
+function bookmark() {
+
+ 	var url = url || location.href;
+	var title = document.title;
+
+  	// Internet Explorer
+	if(document.all) {
+		window.external.AddFavorite(url, title);
+	}
+	// Firefox
+	else if(window.sidebar) {
+		window.sidebar.addPanel(title, url, '');
+	}
+  // false zurückliefern, fall die Funktion
+  // über das "onlick"-Event des <a />-Tags
+  // aufgerufen wurde
+  return false;
+}
+
+//-->
+</script>
+
+
+<ul id="bookmarkAndServiceList">
+<li><a href="/inc/items/4051.php"><img src="/files/inc/graphics/image/gif/2011_rss_icon.gif" style="margin-right:4px;" alt="RSS-Feed" border="0"/></a></li>
+<li><span  style="margin-right:50px;">RSS</span></li>
+
+<li><a class="addthis_button_facebook"><img src="/files/inc/graphics/image/gif/2011_facebook_icon.gif" width="12" height="12" border="0" alt="Share to Facebook" style="margin-right:4px;"/></a></li>
+<li><a class="addthis_button_twitter"><img src="/files/inc/graphics/image/gif/2011_twitter_icon.gif" width="12" height="12" border="0" alt="Share to Twitter" style="margin-right:4px;"/></a></li>
+<li><a class="addthis_button_compact"><img src="/files/inc/graphics/image/gif/2011_menu_icon.gif" width="12" height="12" border="0" alt="More..." style="margin-right:4px;"/></a></li>
+<li><span style="margin-right:50px;">Share</span></li>
+
+		<li><a href="/essential_background/glossary/items/3666.php" title="Glossary">Glossary</a></li>
+				<li><span class="bookmarkAndServiceDivider">|</span><a href="/home/items/2784.php" title="FAQ">FAQ</a></li>
+				<li><span class="bookmarkAndServiceDivider">|</span><a href="/secretariat/contact/items/2782.php" title="Contact">Contact</a></li>
+				<li><span class="bookmarkAndServiceDivider">|</span><a href="/portal_espanol/items/3093.php" title="Español">Español</a></li>
+				<li><span class="bookmarkAndServiceDivider">|</span><a href="/portal_francophone/items/3072.php" title="Français">Français</a></li>
+		
+</ul>
+
+
+
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e70894b1f891e11"></script>
+<!-- AddThis Button END -->
+<br style="clear:both;"/>
+</div>
+<div id="top_logo_container">
+<a href="/"><img src="/files/inc/graphics/image/png/2011_logo.png" id="top_service_logo"/></a>
+<!-- <img src="/files/inc/graphics/image/png/2011_logo_teaser.png" id="top_service_teaser"/>-->
+
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+google.load('search', '1');
+google.setOnLoadCallback(function() {
+google.search.CustomSearchControl.attachAutoCompletion(
+'009772925632828311246:gjvsnghto1u',
+document.getElementById('q'),
+'google_searchbox');
+});
+</script>
+	<div id="top_service_searchbox" style="padding-left:0; width:185px;">
+			<form id="google_searchbox" action="/home/items/6078.php">
+				<input type="image" name="searchbutton" class="searchButton" src="/files/inc/graphics/image/gif/2011_search_icon.gif" value="send">
+				<input type="text" class="searchBox" name="q" id="q" onfocus="setSearchBoxBg(0);" onblur="setSearchBoxBg(1);">
+				<input type="hidden" value="009772925632828311246:gjvsnghto1u" name="cx">
+				<input type="hidden" value="UTF-8" name="ie">
+				<input type="hidden" name="sa">
+			</form>
+			<!--
+			<script type="text/javascript" src="/files/inc/application/x-javascript/2011_bg_search_image.js"></script>
+			<script type="text/javascript" src="/files/inc/application/x-javascript/unfccc_brand_google_search_bg.js"></script>
+			-->
+	</div>
+
+
+<script>
+function setSearchBoxBg(m)
+{
+	o = document.getElementById("q");
+	if(m==1)
+	{
+		o.style.background = '#FFFFFF url(/files/inc/graphics/image/gif/unfccc_google_search.gif) left no-repeat'; 
+	}
+	else
+	{
+		o.style.background = '#ffffff';
+	}
+}
+setSearchBoxBg(1);
+</script>
+
+
+</div>
+    <table class="contentContainer" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td valign="top" class="navContainer">
+          	<style>
+	
+	</style>
+	<div id="preLeftHandContent">
+		<ul>
+			<li class="firstTabContent tabActive"><a class="tabLinkHome linkActive" href="/2860.php">Home</a></li>
+			<li class="middleTabContent"><a class="tabLinkCDM" href="http://cdm.unfccc.int/">CDM</a></li>
+			<li class="middleTabContent"><a class="tabLinkJI" href="http://ji.unfccc.int/">JI</a></li>
+			<li class="middleTabContent"><a class="tabLinkCCINET" href="/cc_inet/items/3514.php">CC:iNet</a></li>
+			<li class="lastTabContent"><a class="tabLinkTTCLEAR" href="/ttclear/">TT:Clear</a></li>
+		</ul>
+	</div>
+	<div class="leftHandContent">
+		<div class="leftHandContentWidth">
+	<h3>NEGOTIATIONS</h3><div class="areamenu_a">
+<a href="/meetings/items/6240.php" title="Meetings" target="_self" class="no_top_border">Meetings</a>
+</div>
+<div class="areamenu_a">
+<a href="/documentation/documents/items/3595.php" title="Documents & Decisions" target="_self">Documents & Decisions</a>
+</div>
+<div class="areamenu_a">
+<a href="/bodies/items/6241.php" title="Bodies" target="_self">Bodies</a>
+</div>
+<h3>FOCUS</h3><div class="areamenu_a">
+<a href="/focus/adaptation/items/6999.php" title="Adaptation" target="_self" class="no_top_border">Adaptation</a>
+</div>
+<div class="areamenu_a">
+<a href="/focus/finance/items/7001.php" title="Finance" target="_self">Finance</a>
+</div>
+<div class="areamenu_a">
+<a href="/focus/mitigation/items/7169.php" title="Mitigation" target="_self">Mitigation</a>
+</div>
+<div class="areamenu_a">
+<a href="/focus/technology/items/7000.php" title="Technology" target="_self">Technology</a>
+</div>
+<h3>PROCESS</h3><div class="areamenu_a">
+<a href="/essential_background/items/6031.php" title="Essential Background" target="_self" class="no_top_border">Essential Background</a>
+</div>
+<div class="areamenu_a">
+<a href="/kyoto_protocol/items/2830.php" title="Kyoto Protocol" target="_self">Kyoto Protocol</a>
+</div>
+<div class="areamenu_a">
+<a href="/cooperation_and_support/items/2664.php" title="Cooperation & Support" target="_self">Cooperation & Support</a>
+</div>
+<div class="areamenu_b">
+<a href="/cooperation_and_support/financial_mechanism/items/2807.php" title="Finance" target="_self">Finance</a>
+</div>
+<div class="areamenu_c">
+<a href="http://www3.unfccc.int/pls/apex/f?p=116" title="Finance Portal" target="_self">Finance Portal</a></div>
+<div class="areamenu_c">
+<a href="/cooperation_support/financial_mechanism/fast_start_finance/items/5646.php" title="Fast-Start Finance" target="_self">Fast-Start Finance</a>
+</div>
+<div class="areamenu_c_c">
+<a href="/cooperation_support/financial_mechanism/long-term_finance/items/6814.php" title="Long-Term Finance" target="_self">Long-Term Finance</a>
+</div>
+<div class="areamenu_c">
+<a href="/cooperation_and_support/financial_mechanism/green_climate_fund/items/5869.php" title="Green Climate Fund" target="_self">Green Climate Fund</a>
+</div>
+<div class="areamenu_c">
+<a href="/cooperation_support/financial_mechanism/guidance/items/3655.php" title="Global Environment Facility" target="_self">Global Environment Facility</a>
+</div>
+<div class="areamenu_c">
+<a href="/cooperation_support/financial_mechanism/review/items/3658.php" title="Review of the Financial Mechanism" target="_self">Review of the Financial Mechanism</a>
+</div>
+<div class="areamenu_c">
+<a href="/cooperation_and_support/financial_mechanism/special_climate_change_fund/items/3657.php" title="Special Climate Change Fund" target="_self">Special Climate Change Fund</a>
+</div>
+<div class="areamenu_c">
+<a href="/cooperation_and_support/financial_mechanism/standing_committee/items/6877.php" title="Standing Committee on Finance" target="_self">Standing Committee on Finance</a>
+</div>
+<div class="areamenu_c">
+<a href="/adaptation/workstreams/national_adaptation_programmes_of_action/items/4723.php" title="Least Developed Countries Fund" target="_self">Least Developed Countries Fund</a>
+</div>
+<div class="areamenu_c">
+<a href="/cooperation_and_support/financial_mechanism/adaptation_fund/items/3659.php" title="Adaptation Fund" target="_self">Adaptation Fund</a>
+</div>
+<div class="areamenu_c">
+<a href="/cooperation_support/financial_mechanism/relevant_decisions/items/3656.php" title="Relevant Decisions" target="_self">Relevant Decisions</a>
+</div>
+<div class="areamenu_c">
+<a href="/cooperation_support/financial_mechanism/links/items/3654.php" title="Links" target="_self">Links</a>
+</div>
+<div class="areamenu_b">
+<a href="/cooperation_and_support/technology/items/1126.php" title="Technology" target="_self">Technology</a>
+</div>
+<div class="areamenu_b">
+<a href="/cooperation_and_support/education_and_outreach/items/2529.php" title="Education & Outreach" target="_self">Education & Outreach</a>
+</div>
+<div class="areamenu_b">
+<a href="/cooperation_support/response_measures/items/4908.php" title="Response Measures" target="_self">Response Measures</a>
+</div>
+<div class="areamenu_b">
+<a href="/cooperation_and_support/capacity_building/items/1033.php" title="Capacity-building" target="_self">Capacity-building</a>
+</div>
+<div class="areamenu_b">
+<a href="/cooperation_and_support/cooperation_with_international_organizations/items/2533.php" title="Cooperation with International Organizations" target="_self">Cooperation with International Organizations</a>
+</div>
+<div class="areamenu_b">
+<a href="/cooperation_support/activities_implemented_jointly/items/2307.php" title="Activities Implemented Jointly" target="_self">Activities Implemented Jointly</a>
+</div>
+<div class="areamenu_b">
+<a href="/cooperation_support/nama/items/7476.php" title="NAMA Registry" target="_self">NAMA Registry</a>
+</div>
+<div class="areamenu_b">
+<a href="/cooperation_support/market_and_non-market_mechanisms/items/7551.php" title="Market and Non-Market Mechanisms" target="_self">Market and Non-Market Mechanisms</a>
+</div>
+<div class="areamenu_a">
+<a href="/science/items/6990.php" title="Science" target="_self">Science</a>
+</div>
+<div class="areamenu_a">
+<a href="/adaptation/items/4159.php" title="Adaptation" target="_self">Adaptation</a>
+</div>
+<div class="areamenu_a">
+<a href="/national_reports/items/1408.php" title="National Reports" target="_self">National Reports</a>
+</div>
+<div class="areamenu_a">
+<a href="/ghg_data/items/3800.php" title="GHG Data" target="_self">GHG Data</a>
+</div>
+<div class="areamenu_a">
+<a href="/methods/items/2722.php" title="Methods" target="_self">Methods</a>
+</div>
+<div class="areamenu_a">
+<a href="/gender_and_climate_change/items/7516.php" title="Gender and Climate Change" target="_self">Gender and Climate Change</a>
+</div>
+<div class="areamenu_a">
+<a href="/parties_and_observers/items/2704.php" title="Parties & Observers" target="_self">Parties & Observers</a>
+</div>
+<div class="areamenu_a">
+<a href="/press/items/2794.php" title="Press" target="_self">Press</a>
+</div>
+<div class="areamenu_a">
+<a href="/secretariat/items/1629.php" title="Secretariat" target="_self">Secretariat</a>
+</div>
+<h3>KEY STEPS</h3><div class="areamenu_a">
+<a href="/essential_background/convention/items/6036.php" title="The Convention" target="_self" class="no_top_border">The Convention</a>
+</div>
+<div class="areamenu_a">
+<a href="/kyoto_protocol/items/2830.php" title="Kyoto Protocol" target="_self">Kyoto Protocol</a>
+</div>
+<div class="areamenu_a">
+<a href="/key_steps/bali_road_map/items/6072.php" title="Bali Road Map" target="_self">Bali Road Map</a>
+</div>
+<div class="areamenu_a">
+<a href="/key_steps/cancun_agreements/items/6132.php" title="Cancun Agreements" target="_self">Cancun Agreements</a>
+</div>
+<div class="areamenu_a">
+<a href="/key_steps/durban_outcomes/items/6825.php" title="Durban Outcomes" target="_self">Durban Outcomes</a>
+</div>
+<div class="areamenu_a">
+<a href="/key_steps/doha_climate_gateway/items/7389.php" title="Doha Climate Gateway" target="_self">Doha Climate Gateway</a>
+</div>
+		<div><br/></div>
+
+	<form name="issues" action="#">
+<span class="issuenav">Issues Quickfinder:</span><br>
+<select name="issue" class="nav" onChange="if(this.value!=''){location.href=document.issues.issue.value;}">
+<option value="">Please choose</option>
+<option value="/cooperation_support/activities_implemented_jointly/items/2307.php">Activities Implemented Jointly</option>
+<option value="/parties_and_observers/parties/administrtative_and_financial_matters/items/1065.php">Admin. & Financial Matters</option>
+<option value="/adaptation/implementing_adaptation/items/2535.php">Art. 2.3/3.14 Kyoto Protocol</option>
+<option value="/adaptation/implementing_adaptation/items/2535.php">Art. 4.8 Convention</option>
+<option value="/cooperation_and_support/ldc/items/3059.php">Art. 4.9 Convention</option>
+<option value="/national_reports/accounting_reporting_and_review_under_the_kyoto_protocol/items/1029.php">Art. 5/7/8 Kyoto Protocol</option>
+<option value="/methods_and_science/other_methodological_issues/items/1038.php">Brazilian Proposal</option>
+<option value="/cooperation_and_support/capacity_building/items/1033.php">Capacity Building</option>
+<option value="/kyoto_protocol/mechanisms/clean_development_mechanism/items/2718.php">Clean Development Mechanism</option>
+<option value="/cooperation_and_support/cooperation_with_international_organizations/items/2533.php">Co-operation with intl. Org.</option>
+<option value="/kyoto_protocol/compliance/items/2875.php">Compliance</option>
+<option value="/cooperation_and_support/education_and_outreach/items/2529.php">Education & Outreach</option>
+<option value="/kyoto_protocol/mechanisms/emissions_trading/items/2731.php">Emissions Trading</option>
+<option value="/home/items/6553.php">Fast-Start Finance</option>
+<option value="/cooperation_and_support/financial_mechanism/items/2807.php">Financial Mechanism</option>
+<option value="/national_reports/annex_i_ghg_inventories/items/2715.php">Greenhouse Gases Inventories</option>
+<option value="/methods_and_science/other_methodological_issues/items/2311.php">Interactions with Ozone Layer</option>
+<option value="/methods_and_science/emissions_from_intl_transport/items/1057.php">Intl. Transport & Bunker Fuels</option>
+<option value="/kyoto_protocol/mechanisms/joint_implementation/items/1674.php">Joint Implementation</option>
+<option value="/kyoto_protocol/mechanisms/items/1673.php">Kyoto Mechanisms</option>
+<option value="/methods_and_science/lulucf/items/1084.php">LULUCF</option>
+<option value="/methods_and_science/items/2722.php">Methods and Science</option>
+<option value="/national_reports/annex_i_natcom/pams/items/1069.php">Policies & Measures</option>
+<option value="/methods_science/redd/items/4531.php">REDD</option>
+<option value="/methods_and_science/research_and_systematic_observation/items/2312.php">Research/Systematic Observat.</option>
+<option value="/methods_and_science/other_methodological_issues/items/1119.php">Review Methodological Work</option>
+<option value="/methods_and_science/other_methodological_issues/items/1072.php">Single Projects</option>
+<option value="/methods_and_science/other_methodological_issues/items/1077.php">Third IPCC Assessment Report</option>
+<option value="/cooperation_and_support/technology/items/1126.php">Transfer of Technologies</option>
+</select>
+</form>
+
+				<!-- close leftHandContentWidth -->
+		</div>
+	<!-- close leftHandContent -->
+	</div>
+	        </td>
+        <td valign="top" width="100%">
+          <table width="100%" cellspacing="0" cellpadding="0">
+            <tr>
+              <td>
+                                <p class="bc">
+                  Your location: <a href="/">Home</a> &gt; <a href="/cooperation_and_support/items/2664.php" target="_self" title="Cooperation & Support">Cooperation & Support</a> &gt; <a href="/cooperation_and_support/financial_mechanism/items/2807.php" target="_self" title="Finance">Finance</a> &gt; <a href="/cooperation_support/financial_mechanism/long-term_finance/items/6814.php" target="_self" title="Long-Term Finance">Long-Term Finance</a>                </p>              </td>
+              <td align="right" class="pagefunc">
+                              </td>
+            </tr><!-- START CONTENT TR -->
+            <tr>
+              <td valign="top" class="mH" style="padding-left:10px" colspan="2">
+                <div class="contpart">
+                  <p class="mH">
+                    <b>Live webcast and social media participation</b>
+                  </p>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" class="tdmT" colspan="2">
+                <div class="contpart">
+                  <br />
+                  <strong>Background</strong>
+                  <p>
+                    As a part of the UNFCCC extended work programme on long-term finance mandated by COP 18, the Long-term
+                    Finance Work Programme Wrap-up Event was held from 10 to 12 September in Incheon, Republic of Korea. This
+                    event will bring together over 100 representatives from Parties, financial institutions, private sector
+                    executives, civil society and academia. The discussions has been informed by outputs generated from a
+                    series of activities undertaken in the context of the extended work programme on long-term finance,
+                    including two meetings of experts.<br />
+                    <br />
+                    <strong>Webcast and social media participation</strong><br />
+                    <br />
+                    Virtual participants were provided with opportunities to follow parts of the Wrap-up Event via live webcast
+                    and put questions, comments and information in relation to the on-going discussions via Twitter and
+                    Facebook. The questions and comments were noted and answered by the moderators at the end of the respective
+                    webcast sessions.
+                  </p>
+                  <table style="" class="unfccc_table" width="99%" cellpadding="7">
+                    <tbody>
+                      <tr bgcolor="#F3F3F3">
+                        <td colspan="2">
+                          <b>Day 1: Tuesday, 10 September 2013</b>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="13%" align="top">
+                          <center>
+                            <b>09:00-09:45 Korea Time</b><br />
+                            <br />
+                            <a href="http://unfccc4.meta-fusion.com/kongresse/ltf03/"  target="_blank"><b><u>LINK<br />
+                            TO<br />
+                            WEBCAST</u></b> </a>
+                          </center>
+                        </td>
+                        <td>
+                          <b>Opening session</b><br />
+                          Opening and welcome by the LTF co-chairs Mr.Naderev Sano, Philippines and Mr.Mark Storey,
+                          Sweden<br />
+                          <br />
+                          Opening remarks by Mr.Kyung Ho Choo, Vice Minister of Strategy and Finance, Republic of Korea<br />
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            <b>09:45-11:00<br />
+                            Korea Time</b><br />
+                            <br />
+                            <center>
+                              <a href="http://unfccc4.meta-fusion.com/kongresse/ltf03/"  target="_blank"><b><u>LINK<br />
+                              TO<br />
+                              WEBCAST</u></b> </a>
+                            </center>
+                          </center>
+                        </td>
+                        <td>
+                          <b>Plenary session I: Pathways for mobilizing scaled-up climate finance</b><br />
+                          This session will take a look at key features and elements that underpin likely pathways for
+                          mobilizing scaled-up climate finance to USD 100 billion per year by 2020 from multiple sources based
+                          on the insight that emerged from the two meetings of experts.<br />
+                          <ul>
+                            <li>Barriers to longer-term planning for budgetary resources and country experiences and practices
+                            adopted to overcome them;
+                            </li>
+                            <li>Identifying the pathways for public, private and alternative sources at aggregate level for the
+                            period leading to 2020;
+                            </li>
+                            <li>Ways and means to achieve greater transparency, including through enhanced clarity on the sets
+                            of definitions of climate finance
+                            </li>
+                          </ul>
+                          <div style="margin-left: 2em">
+                            <u>Presenters</u>
+                          </div>
+                          <ul>
+                            <li>Co-chairs of Long-term Finance Work Programme<br />
+                              <a href="/" target="_blank"></a>
+                            </li>
+                            <li style="list-style: none">
+                              <a href="/files/cooperation_support/financial_mechanism/long-term_finance/application/pdf/intro.pdf"
+                              target="_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" />
+                              Introduction</a> (274 kB)<br />
+                              <a href="/files/cooperation_support/financial_mechanism/long-term_finance/application/pdf/pathways.pdf"
+                              target="_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" />
+                              Pathways for mobilizing scaled-up climate finance: co-chairs&#39; reflections on emerging
+                              themes</a> (36 kB)<br />
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            11:00-11:15
+                          </center>
+                        </td>
+                        <td>
+                          Coffee break
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            <b>11:15-12:30<br />
+                            Korea Time</b><br />
+                            <br />
+                            <center>
+                              <a href="http://unfccc4.meta-fusion.com/kongresse/ltf03/"  target="_blank"><b><u>LINK<br />
+                              TO<br />
+                              WEBCAST</u></b> </a>
+                            </center><b>&amp;</b><br />
+                            <b><a target="_top" href="/cooperation_support/financial_mechanism/long-term_finance/items/7752.php"><u>SOCIAL<br />
+                            MEDIA</u></a></b>
+                          </center>
+                        </td>
+                        <td>
+                          <b>Plenary session I: Pathways for mobilizing scaled-up climate finance (continued)</b><br />
+                          <br />
+                          <div style="margin-left: 2em">
+                            <u>Discussants</u>
+                          </div>
+                          <ul>
+                            <li>Paul Watkinson, France
+                            </li>
+                            <li>Hussein Alfa Nafo, Mali
+                            </li>
+                            <li>H.E. Paul Oquist, Nicaragua<br />
+                              <a href="/files/adaptation/application/pdf/incheon_presentation_po_2013.pdf" target=
+                              "_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" /> Pathways
+                              and roadblocks to climate finance</a> (3351 kB)
+                            </li>
+                          </ul><b><u>Session format:</u></b> Summary presentation by LTF co-chairs followed by responses from
+                          three discussants and a brief moderated Q&amp;A session for all participants attending in-person and
+                          through webcast and social media
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            12:30-14:30
+                          </center>
+                        </td>
+                        <td>
+                          Lunch
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            14:30-16:00
+                          </center>
+                        </td>
+                        <td>
+                          Break out groups facilitated by:<br />
+                          <ul>
+                            <li>Abhishek Acharya, India
+                            </li>
+                            <li>Erik Haites, Margaree Consultants
+                            </li>
+                            <li>Amal-lee Amin, E3G
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            16:00-16:30
+                          </center>
+                        </td>
+                        <td>
+                          Coffee Break
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            <b>16:30-17:30<br />
+                            Korea Time</b><br />
+                            <br />
+                            <center>
+                              <a href="http://unfccc4.meta-fusion.com/kongresse/ltf03/"  target="_blank"><b><u>LINK<br />
+                              TO<br />
+                              WEBCAST</u></b> </a>
+                            </center><b>&amp;</b><br />
+                            <b><a target="_top" href="/cooperation_support/financial_mechanism/long-term_finance/items/7752.php"><u>SOCIAL<br />
+                            MEDIA</u></a></b>
+                          </center>
+                        </td>
+                        <td>
+                          <b>Plenary reports and discussions</b>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          18:30-20:00
+                        </td>
+                        <td>
+                          Reception jointly hosted by the Ministry of Strategy and Finance of the Republic of Korea and the
+                          Municipal Government of Incheon
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table><br />
+                  <br />
+                  <table style="" class="unfccc_table" cellpadding="7" width="99%">
+                    <tbody>
+                      <tr bgcolor="#F3F3F3">
+                        <td colspan="2">
+                          <b>Day 1: Tuesday, 10 September 2013</b>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="top" width="13%">
+                          <center>
+                            <b>09:00-09:45 Korea Time</b><br />
+                            <br />
+                            <a href="http://unfccc4.meta-fusion.com/kongresse/ltf03/"  target="_blank"><b><u>LINK<br />
+                            TO<br />
+                            WEBCAST</u></b></a>
+                          </center>
+                        </td>
+                        <td>
+                          <b>Opening session</b><br />
+                          Opening and welcome by the LTF co-chairs Mr.Naderev Sano, Philippines and Mr.Mark Storey,
+                          Sweden<br />
+                          <br />
+                          Opening remarks by Mr.Kyung Ho Choo, Vice Minister of Strategy and Finance, Republic of Korea<br />
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            <b>09:45-11:00<br />
+                            Korea Time</b><br />
+                            <br />
+                            <center>
+                              <a href="http://unfccc4.meta-fusion.com/kongresse/ltf03/"  target="_blank"><b><u>LINK<br />
+                              TO<br />
+                              WEBCAST</u></b></a>
+                            </center>
+                          </center>
+                        </td>
+                        <td>
+                          <b>Plenary session I: Pathways for mobilizing scaled-up climate finance</b><br />
+                          This session will take a look at key features and elements that underpin likely pathways for
+                          mobilizing scaled-up climate finance to USD 100 billion per year by 2020 from multiple sources based
+                          on the insight that emerged from the two meetings of experts.<br />
+                          <ul>
+                            <li>Barriers to longer-term planning for budgetary resources and country experiences and practices
+                            adopted to overcome them;
+                            </li>
+                            <li>Identifying the pathways for public, private and alternative sources at aggregate level for the
+                            period leading to 2020;
+                            </li>
+                            <li>Ways and means to achieve greater transparency, including through enhanced clarity on the sets
+                            of definitions of climate finance
+                            </li>
+                          </ul>
+                          <div style="margin-left: 2em">
+                            <u>Presenters</u>
+                          </div>
+                          <ul>
+                            <li>Co-chairs of Long-term Finance Work Programme<br />
+                              <a href="/" target="_blank"></a>
+                            </li>
+                            <li style="list-style: none">
+                              <a href="/files/cooperation_support/financial_mechanism/long-term_finance/application/pdf/intro.pdf"
+                              target="_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" />
+                              Introduction</a> (274 kB)<br />
+                              <a href="/files/cooperation_support/financial_mechanism/long-term_finance/application/pdf/pathways.pdf"
+                              target="_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" />
+                              Pathways for mobilizing scaled-up climate finance: co-chairs&#39; reflections on emerging
+                              themes</a> (36 kB)<br />
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            11:00-11:15
+                          </center>
+                        </td>
+                        <td>
+                          Coffee break
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            <b>11:15-12:30<br />
+                            Korea Time</b><br />
+                            <br />
+                            <center>
+                              <a href="http://unfccc4.meta-fusion.com/kongresse/ltf03/"  target="_blank"><b><u>LINK<br />
+                              TO<br />
+                              WEBCAST</u></b></a>
+                            </center><b>&amp;<br />
+                            <a target="_top" href="/cooperation_support/financial_mechanism/long-term_finance/items/7752.php"><u>SOCIAL<br />
+                            MEDIA</u></a></b>
+                          </center>
+                        </td>
+                        <td>
+                          <b>Plenary session I: Pathways for mobilizing scaled-up climate finance (continued)</b><br />
+                          <br />
+                          <div style="margin-left: 2em">
+                            <u>Discussants</u>
+                          </div>
+                          <ul>
+                            <li>Paul Watkinson, France
+                            </li>
+                            <li>Hussein Alfa Nafo, Mali
+                            </li>
+                            <li>H.E. Paul Oquist, Nicaragua<br />
+                              <a href="/files/adaptation/application/pdf/incheon_presentation_po_2013.pdf" target=
+                              "_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" /> Pathways
+                              and roadblocks to climate finance</a> (3351 kB)
+                            </li>
+                            <li style="list-style: none">
+                              <br />
+                              <b><u>Session format:</u></b> Summary presentation by LTF co-chairs followed by responses from
+                              three discussants and a brief moderated Q&amp;A session for all participants attending in-person
+                              and through webcast and social media
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            12:30-14:30
+                          </center>
+                        </td>
+                        <td>
+                          Lunch
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            14:30-16:00
+                          </center>
+                        </td>
+                        <td>
+                          Break out groups facilitated by:<br />
+                          <ul>
+                            <li>Abhishek Acharya, India
+                            </li>
+                            <li>Erik Haites, Margaree Consultants
+                            </li>
+                            <li>Amal-lee Amin, E3G
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            16:00-16:30
+                          </center>
+                        </td>
+                        <td>
+                          Coffee Break
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            <b>16:30-17:30<br />
+                            Korea Time</b><br />
+                            <br />
+                            <center>
+                              <a href="http://unfccc4.meta-fusion.com/kongresse/ltf03/"  target="_blank"><b><u>LINK<br />
+                              TO<br />
+                              WEBCAST</u></b></a>
+                            </center><b>&amp;<br />
+                            <a target="_top" href="/cooperation_support/financial_mechanism/long-term_finance/items/7752.php"><u>SOCIAL<br />
+                            MEDIA</u></a></b>
+                          </center>
+                        </td>
+                        <td>
+                          <b>Plenary reports and discussions</b>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          18:30-20:00
+                        </td>
+                        <td>
+                          Reception jointly hosted by the Ministry of Strategy and Finance of the Republic of Korea and the
+                          Municipal Government of Incheon
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table><br />
+                  <br />
+                  <table style="" class="unfccc_table" cellpadding="7" width="99%">
+                    <tbody>
+                      <tr bgcolor="#F3F3F3">
+                        <td colspan="2">
+                          <b>Day 2: Wednesday, 11 September 2013</b>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="top" width="13%">
+                          <center>
+                            <b>09:00-10:30 Korea Time</b><br />
+                            <br />
+                            <center>
+                              <a href="http://unfccc4.meta-fusion.com/kongresse/ltf03/"  target="_blank"><b><u>LINK<br />
+                              TO<br />
+                              WEBCAST</u></b></a> <b><br />
+                              &amp;<br />
+                              <a target="_top" href="/cooperation_support/financial_mechanism/long-term_finance/items/7752.php"><u>SOCIAL<br />
+                              MEDIA</u></a></b>
+                            </center>
+                          </center>
+                        </td>
+                        <td>
+                          <b>Plenary session II: Enabling environments and policy frameworks for effective deployment of
+                          climate finance</b><br />
+                          This session will examine and identify conditions and factors that determine effective deployment of
+                          climate finance in developing countries based on insight that emerged from the two meetings of
+                          experts on long-term finance. The presentations and discussions will focus on:
+                          <ul>
+                            <li>Factors that underpin effective deployment of climate finance at country and programme/project
+                            levels, including emerging approaches for measuring effectiveness of deployed climate finance;
+                            </li>
+                            <li>Efforts to enhance absorptive capacity in developing countries;
+                            </li>
+                            <li>Transparency of climate finance information
+                            </li>
+                          </ul>
+                          <div style="margin-left: 2em">
+                            <u>Presenters</u>
+                          </div>
+                          <ul>
+                            <li>Co-chairs of Long-term Finance Work Programme<br />
+                              <a href="/" target="_blank"></a>
+                            </li>
+                            <li style="list-style: none">
+                              <a href="/files/cooperation_support/financial_mechanism/long-term_finance/application/pdf/slides_effective_deployment.pdf"
+                              target="_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" />
+                              Enabling environments and policy frameworks for effective deployment of climate finance:
+                              co-chairs&#39; reflections on emerging themes</a> (35 kB)<br />
+                            </li>
+                          </ul>
+                          <div style="margin-left: 2em">
+                            <u>Discussants</u>
+                          </div>
+                          <ul>
+                            <li>Rachael Fry, New Zealand
+                            </li>
+                            <li>Jan Corfee-Morlot, Organisation for Economic Co-operation and Development<br />
+                              <a href="/files/cooperation_support/financial_mechanism/long-term_finance/application/pdf/jan.pdf"
+                              target="_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" />
+                              Enabling environments and policy frameworks for effective deployment of climate finance</a> (828
+                              kB)<br />
+                            </li>
+                            <li>Paul Steele, United Nations Development Programme<br />
+                              <a href="/files/cooperation_support/financial_mechanism/long-term_finance/application/pdf/operationalizing_development_effectiveness.pdf"
+                              target="_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" />
+                              Operationalizing development effectiveness</a> (311 kB)<br />
+                            </li>
+                            <li>Amjad Abdullah, Maldives
+                            </li>
+                            <li style="list-style: none">
+                              <br />
+                              <b><u>Session format:</u></b> Summary presentation by LTF co-chairs followed by responses from
+                              three discussants and a brief moderated Q&amp;A session for all participants attending in-person
+                              and through webcast and social media
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            10:30-11:00
+                          </center>
+                        </td>
+                        <td>
+                          Coffee break
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            11:00-12:30
+                          </center>
+                        </td>
+                        <td>
+                          Break out groups facilitated by:<br />
+                          <ul>
+                            <li>Pak Sum Low, Academy of Sciences, Malaysia and Bond University, Australia
+                            </li>
+                            <li>Athena Ballesteros, World Resource Institute
+                            </li>
+                            <li>Daisy Streatfield, United Kingdom
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            12:30-14:00
+                          </center>
+                        </td>
+                        <td>
+                          Lunch Break
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            <b>14:00-15:30<br />
+                            Korea Time</b><br />
+                            <br />
+                            <center>
+                              <a href="http://unfccc4.meta-fusion.com/kongresse/ltf03/"  target="_blank"><b><u>LINK<br />
+                              TO<br />
+                              WEBCAST</u></b></a><br />
+                              <b>&amp;<br />
+                              <a target="_top" href="/cooperation_support/financial_mechanism/long-term_finance/items/7752.php"><u><b>SOCIAL<br />
+                              MEDIA</b></u></a></b>
+                            </center>
+                          </center>
+                        </td>
+                        <td>
+                          <b>Plenary session III: Enabling environments and policy frameworks for mobilizing scaled-up climate
+                          finance</b><br />
+                          This session will identify supportive public policies, regulatory measures and financial instruments
+                          that facilitate scaled up mobilization of climate finance from multiple sources based on insight that
+                          emerged from the work undertaken in 2012 and the two meetings of experts on long-term finance.
+                          <ul>
+                            <li>Enabling environments and conducive policies required to unlock climate finance from
+                            international and domestic sources, public and private, multilateral and bilateral, to support
+                            low-carbon and climate-resilient activities in developing countries;
+                            </li>
+                            <li>Specific policy measures required to bring down barriers to private sector finance and
+                            investments in low-carbon and climate-resilient programmes and projects in developing countries;
+                            </li>
+                            <li>The roles of public and private finance actors and development finance institutions in
+                            achieving scaled-up climate finance.
+                            </li>
+                            <li style="list-style: none">
+                              <br />
+                            </li>
+                          </ul>
+                          <div style="margin-left: 2em">
+                            <u>Presenters</u>
+                          </div>
+                          <ul>
+                            <li>Co-chairs of Long-term Finance Work Programme<br />
+                              <a href="/files/cooperation_support/financial_mechanism/long-term_finance/application/pdf/slides_mobilisation.pdf"
+                              target="_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" />
+                              Enabling environments and policy frameworks for mobilizing scaled-up finance:Co-chairs
+                              reflections on emerging themes</a> (35 kB)
+                            </li>
+                          </ul>
+                          <div style="margin-left: 2em">
+                            <u>Discussants</u>
+                          </div>
+                          <ul>
+                            <li>Josue Tanaka, European Bank for Reconstruction and Development
+                            </li>
+                            <li>Jessica Brown, US State Department
+                            </li>
+                            <li>Diann Black-Layne, Antigua and Barbuda
+                            </li>
+                            <li>H.E. Paul Oquist, Nicaragua<br />
+                              <a href="/files/cooperation_support/financial_mechanism/long-term_finance/application/pdf/enabling_environment_and_policy_framwork_for_climate_finance_the_case_of_nicaragua.pdf"
+                              target="_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" />
+                              Enabling environments and policy framework for climate finance: The case of Nicaragua</a> (8313
+                              kB)
+                            </li>
+                            <li style="list-style: none">
+                              <br />
+                              <b><u>Session format:</u></b> Summary presentation by LTF co-chairs followed by responses from
+                              three discussants and a brief moderated Q&amp;A session for all participants attending in-person
+                              and through webcast and social media
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            15:30-16:00
+                          </center>
+                        </td>
+                        <td>
+                          Coffee Break
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            16:00-17:30
+                          </center>
+                        </td>
+                        <td>
+                          Breakout groups facilitated by<br />
+                          <ul>
+                            <li>Gemma O Reilly, Ireland
+                            </li>
+                            <li>Butch Bacani, United Nations Environment Programme Finance Initiative
+                            </li>
+                            <li>Gary William Theseira, Malaysia
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table><br />
+                  <br />
+                  <table style="" class="unfccc_table" cellpadding="7" width="99%">
+                    <tbody>
+                      <tr bgcolor="#F3F3F3">
+                        <td colspan="2">
+                          <b>Day 3: Thursday, 12 September 2013</b>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="top" width="13%">
+                          <center>
+                            <b>09:00-10:00 Korea Time</b><br />
+                            <br />
+                            <center>
+                              <a href="http://unfccc4.meta-fusion.com/kongresse/ltf03/"  target="_blank"><b><u>LINK<br />
+                              TO<br />
+                              WEBCAST</u></b></a>
+                            </center><b>&amp;<br />
+                            <a target="_top" href="/cooperation_support/financial_mechanism/long-term_finance/items/7752.php"><u>SOCIAL<br />
+                            MEDIA</u></a></b>
+                          </center>
+                        </td>
+                        <td>
+                          <b>Plenary reports and discussions: Sessions II and III</b>
+                          <ul>
+                            <li>
+                              <a href="/files/cooperation_support/financial_mechanism/long-term_finance/application/pdf/session-2_tiger_pak_sum_low.pdf"
+                              target="_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" />
+                              Report-back of the Tiger Group, Session II</a> (276 kB)<br />
+                              (Session moderated by Pak Sum Low)
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            11:00-11:30
+                          </center>
+                        </td>
+                        <td>
+                          Coffee break
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <center>
+                            <b>11:30-12:30<br />
+                            Korea Time</b><br />
+                            <br />
+                            <a href="http://unfccc4.meta-fusion.com/kongresse/ltf03/"  target="_blank"><b><u>LINK<br />
+                            TO<br />
+                            WEBCAST</u></b></a>
+                          </center>
+                        </td>
+                        <td>
+                          <b>Wrap-up and closure</b>
+                          <ul>
+                            <li>Co-chairs final reflections on the Long-term Finance Work Programme<br />
+                              <a href="/files/cooperation_support/financial_mechanism/long-term_finance/application/pdf/co-chairs_final_reflections.pdf"
+                              target="_blank"><img src="/files/inc/graphics/image/gif/pdf.gif" border="0" alt="pdf-icon" />
+                              Co-chairs&#39; reflections</a> (57 kB)
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <p>
+                    <strong>How to participate via Facebook:</strong><br />
+                  </p>
+                  <p>
+                    The UNFCCC secretariat has established a dedicated event Facebook page: <a href="https://www.facebook.com/events/363121263815907/" target="_blank">https://www.facebook.com/events/363121263815907/</a>,
+                    where participants can put questions to the co-chairs, leave comments and post material relevant to
+                    long-term climate finance. If you haven&rsquo;t already, you first need to create your own Facebook
+                    account. When you have done that, please also &ldquo;share&rdquo; the event page so that others can join.
+                  </p>
+                  <p>
+                    <strong>How to participate via Twitter:</strong><br />
+                  </p>
+                  <p>
+                    To participate, all you need is a Twitter account. Sign in at <a href="http://www.twitter.com/" target="_blank">http://www.twitter.com</a> and follow the hashtag <font color=
+                    "#FF0000"><strong>#LTFchat</strong></font> to keep track of the Twitter conversation. You can use the same
+                    hashtag in your posts if you would like to comment to all users following the conversation. If you want to
+                    ask a question during the workshop, put it to <strong>@UN_climatetalks</strong>. You would also need to
+                    follow the @UN_climatetalks account in order to see questions and comments from other users and the
+                    respective answers.
+                  </p><br />
+                  <br />
+                  <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q=%23LTFchat+OR+%23climatefinance+OR+%40un_climatetalks" data-widget-id="376926290332241921">Tweets about "#LTFchat OR #climatefinance OR @un_climatetalks"</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>                  <p>
+                    <a target="_top" href="/cooperation_support/financial_mechanism/long-term_finance/items/7566.php">Please
+                    click here to go back to the LTF webpage.</a>
+                  </p><br />
+                  <br />
+                  <br />
+                </div>
+              </td>
+            </tr><!-- END CONTENT -->
+          </table>
+        </td>
+      </tr><tr>
+	<td class="navContainer">&nbsp;</td>
+	<td><br />
+	<!--	<div class="content_all"><strong>updated: </strong>17 Sep 2013</div>-->
+	</td>
+</tr>
+</table>
+<table class="contentContainer" style="width:1000px; height: auto;">
+<tr>
+	<td class="footer">
+		<div class="content_all" style="padding-top: 10px;">
+			<table class="" width="100%" style="border:none">
+			<tr>
+				<th>Secretariat</th>
+				<th>Employment</th>
+				<th>Most requested</th>
+				<th>Procurement</th>
+				<th>This site</th>
+				<td> </td>
+			</tr>
+			<tr>
+				<td nowrap>
+					<ul class="list_bottom">
+						<li><a href="/secretariat/history_of_the_secretariat/items/1218.php">History</a></li>
+						<li><a href="/secretariat/executive_secretary/items/1200.php">Executive Secretary</a></li>
+						<li><a href="/secretariat/programmes/items/2098.php">Secretariat Structure</a></li>
+ 					<li><a href="/secretariat/contact/items/2782.php">Contact</a></li>
+						<li><a href="/secretariat/map_and_directories/items/2748.php">Maps & Directions</a></li>
+
+					</ul>
+				</td>
+				<td>
+				<ul class="list_bottom">
+						<li><a href="https://unfccc.int/secretariat/employment/recruitment">Vacancies</a></li>
+						<li><a href="https://unfccc.int/secretariat/employment/consultancy.html">Consultancy</a></li>
+						<li><a href="#">Fellowships</a></li>
+						<li><a href="/secretariat/internship_programme/items/2653.php">Internships</a></li>
+					</ul>
+				</td>
+				<td nowrap>
+					<ul class="list_bottom">
+      <li><a href="/cooperation_support/financial_mechanism/long-term_finance/items/6814.php">Long-Term Finance</a></li>
+						<li><a href="https://unfccc.int/financeportal">Fast-Start Finance</a></li>
+						<li><a href="#">Mitigation</a></li>
+						<li><a href="/cooperation_and_support/financial_mechanism/items/2807.php">Finance</a></li>
+						<li><a href="/methods/redd/items/7377.php">REDD</a></li>
+						<li><a href="/methods/lulucf/items/1084.php">LULUCF</a></li>
+						<li><a href="/adaptation/workstreams/nairobi_work_programme/items/4623.php">Private Sector Initiative</a></li>
+ 					</ul>
+				</td>
+				<td>
+				<ul class="list_bottom">
+						<li><a href="/secretariat/procurement/expression_of_interest/items/2975.php">Expression of Interest</a></li>
+						<li><a href="/secretariat/procurement/procurement_plan/items/2569.php">Procurement Plan</a></li>
+						<li><a href="/secretariat/procurement/award_procedure/items/2568.php">Award Procedure</a></li>
+						<li><a href="/secretariat/procurement/contacts/items/1199.php">Contact</a></li>
+					</ul>
+				</td>
+				<td>
+					<ul class="list_bottom">
+						<li><a href="/home/items/993.php">Sitemap</a></li>
+						<li><a href="/home/items/2783.php">Disclaimer</a></li>
+						<li><a href="/home/items/5675.php">Fraud Alert</a></li>
+					</ul>
+				</td>
+				<td> </td>
+			</tr>
+			</table>
+			<p>© 2013 United Nations Framework Convention on Climate Change</p>		</div>
+	</td>
+</tr>
+    </table><div id="googleanalytics">
+<script>
+if(window.location.protocol != "https:")
+{
+
+	document.write('<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"><\/script>');
+	document.write('<script type="text/javascript">_uacct = "UA-989967-1";urchinTracker();<\/script>');
+	document.write('<script src="/__utm.js" type="text/javascript"><\/script>');
+}
+</script>
+</div>
+<script>
+var ie = false;
+</script>
+<!--[if lte IE 8]>
+<script>
+ie = 8;
+</script>
+<![endif]-->
+<!--[if lte IE 7]>
+<script>
+ie = 7;
+</script>
+<![endif]-->
+<!--[if lte IE 6]>
+<script>
+ie = 6;
+</script>
+<![endif]-->
+<script>
+
+function locateToHomePage()
+{
+	document.location.href="/";
+}
+
+function XBrowserAddHandler(target,eventName,handlerName)
+{ 
+    if ( target.addEventListener )
+        target.addEventListener(eventName, handlerName, false);
+    else if ( target.attachEvent )
+        target.attachEvent("on" + eventName, handlerName);
+    else
+        target["on" + eventName] = handlerName;
+}
+
+function makeLogoClickable()
+{
+	if(document.body.getElementsByTagName("img")[2])
+	{
+		var logo = document.body.getElementsByTagName("img")[2];
+		
+		var logoFound = logo.src.search(/logo.+/);
+		if (logoFound != -1)
+		{
+			logo.style.cursor = "pointer";
+			XBrowserAddHandler(logo, "click", new Function("locateToHomePage()"));
+		}
+	}
+}
+
+function getMainElement()
+{
+	i = 0;
+	if(document.body)	return document.body
+	a = document.getElementsByTagName("table");
+	while (element = a[i++])
+	{
+		if (element.className == "contentContainer")
+		{
+		      return element;
+		}
+	}
+	return false;
+}
+function registerMousUpEvent(ie)
+{
+	if(document.getElementById("searchProposalList"))
+	{
+		obj = getMainElement();
+		obj.setAttribute("onmouseup","cleanSuggestions();");
+		if(ie)
+		{
+			if(ie==6) document.getElementById("qBox").style.width = "176px";
+			if(ie==7) document.getElementById("qBox").style.width = "176px";
+			if(ie==8) document.getElementById("qBox").style.width = "176px";
+		}
+	}
+}
+registerMousUpEvent(ie);
+</script>
+
+<!-- hm ::  -->
+  </body>
+</html>

@@ -34,7 +34,7 @@
 
 
     <script type="text/javascript">
-        StackExchange.init({"stackAuthUrl":"https://stackauth.com","serverTime":1380503956,"styleCode":true,"enableUserHovercards":true,"site":{"name":"Stack Overflow","description":"Q&A for professional and enthusiast programmers","isNoticesTabEnabled":true,"recaptchaPublicKey":"6LdchgIAAAAAAJwGpIzRQSOFaO0pU6s44Xt8aTwc","enableSocialMediaInSharePopup":true},"user":{"fkey":"7722e76b561ff89a50d1f0222c677e2f","isAnonymous":true,"ab":{"askpageemailsubscription":{"v":"reverse","g":1}}}});
+        StackExchange.init({"stackAuthUrl":"https://stackauth.com","serverTime":1380546600,"styleCode":true,"enableUserHovercards":true,"site":{"name":"Stack Overflow","description":"Q&A for professional and enthusiast programmers","isNoticesTabEnabled":true,"recaptchaPublicKey":"6LdchgIAAAAAAJwGpIzRQSOFaO0pU6s44Xt8aTwc","enableSocialMediaInSharePopup":true},"user":{"fkey":"c01f3e8295a58170df9573fb0ffce92d","isAnonymous":true}});
         StackExchange.using.setCacheBreakers({"js/prettify-full.js":"6c261bebf56a","js/moderator.js":"ed7a8238b2f8","js/full-anon.js":"7dee54417135","js/full.js":"3d9ee77c1fc8","js/wmd.js":"12e251f7c6c3","js/third-party/jquery.autocomplete.min.js":"e5f01e97f7c3","js/mobile.js":"75f8938d6753","js/help.js":"6e6623243cf6","js/tageditor.js":"450c9e8426fc","js/tageditornew.js":"b6c68ad4c7dd","js/inline-tag-editing.js":"8e84e8a137f7","js/revisions.js":"d3e781ee5528","js/review.js":"947758ba83ea","js/tagsuggestions.js":"aa48ef6154df","js/post-validation.js":"bb996020492a","js/explore-qlist.js":"ec8bb4899db9","js/events.js":"fa1c73bcef48"});
         
     </script>
@@ -148,7 +148,7 @@
 
                 <div class="reputation">
                     <span>
-                            <a href="/users/4/joel-spolsky?tab=reputation">20,752</a>
+                            <a href="/users/4/joel-spolsky?tab=reputation">20,762</a>
                     </span>
                     reputation
                 </div>
@@ -198,7 +198,7 @@
                     <tr>
                         <th>stats</th>
                         <td>profile views</td>
-                        <td>51,118</td>
+                        <td>51,126</td>
                     </tr>
 
                                 </tbody>
@@ -231,7 +231,7 @@
             <table>
                 <tr>
                     <td rowspan="2" class="gravatar-cell"><div class="gravatar"><a href="http://stackoverflow.com/users/4/joel-spolsky"><div class=""><img src="https://www.gravatar.com/avatar/d1129adecd8c4e2a22b50605d18e376d?s=42&d=identicon&r=PG" alt="" width="42" height="42" class="logo"></div></a></div></td>
-                    <td><div class="reputation"><span class="reputation-score">20,752</span> reputation</div></td>
+                    <td><div class="reputation"><span class="reputation-score">20,762</span> reputation</div></td>
                     <th>bio</th>
                     <td>website</td>
                     <td><a href="http://www.joelonsoftware.com/" rel="me" class="url">joelonsoftware.com</a></td>
@@ -342,7 +342,7 @@ newest            </a>
 </div><div id="user-panel-reputation" class="user-panel">
     <div class="subheader">
         <h1><a href="/users/4/joel-spolsky?tab=reputation">
-    <span class="count">20,752</span> Reputation
+    <span class="count">20,762</span> Reputation
 </a></h1>
 
         <div id="leagueRank"></div>
@@ -354,9 +354,6 @@ newest            </a>
 
 
         <div class="user-rep-chart-summary">    
-            <div class="user-rep-chart-summary-tooltip" title="Saturday, Aug 31, 2013: 0 reputation">
-                <div class="user-rep-chart-summary-bar" style="height:0%"></div>
-            </div>
             <div class="user-rep-chart-summary-tooltip" title="Sunday, Sep 1, 2013: 0 reputation">
                 <div class="user-rep-chart-summary-bar" style="height:0%"></div>
             </div>
@@ -444,16 +441,19 @@ newest            </a>
             <div class="user-rep-chart-summary-tooltip" title="Sunday, Sep 29, 2013: 10 reputation">
                 <div class="user-rep-chart-summary-bar" style="height:26.31579%"></div>
             </div>
+            <div class="user-rep-chart-summary-tooltip" title="Monday, Sep 30, 2013: 10 reputation">
+                <div class="user-rep-chart-summary-bar" style="height:26.31579%"></div>
+            </div>
         </div>
         <table class="user-rep lines">
         <tbody>
             <tr>
-                <td class="rep-amount count-cell"><span class="rep-up">+10</span></td>
-                <td><a href="/questions/4382223/pure-functional-language-haskell/4382247#4382247" class="answer-hyperlink ">Pure Functional Language: Haskell</a></td>
+                <td class="rep-amount count-cell"><span class="rep-up">+30</span></td>
+                <td><a href="/questions/871405/why-do-i-need-an-ioc-container-as-opposed-to-straightforward-di-code/871420#871420" class="answer-hyperlink ">Why do I need an IoC container as opposed to straightforward DI code?</a></td>
             </tr>
             <tr>
-                <td class="rep-amount count-cell"><span class="rep-up">+20</span></td>
-                <td><a href="/questions/871405/why-do-i-need-an-ioc-container-as-opposed-to-straightforward-di-code/871420#871420" class="answer-hyperlink ">Why do I need an IoC container as opposed to straightforward DI code?</a></td>
+                <td class="rep-amount count-cell"><span class="rep-up">+10</span></td>
+                <td><a href="/questions/4382223/pure-functional-language-haskell/4382247#4382247" class="answer-hyperlink ">Pure Functional Language: Haskell</a></td>
             </tr>
             <tr>
                 <td class="rep-amount count-cell"><span class="rep-down">-2</span></td>
@@ -610,7 +610,7 @@ newest            </a>
                         <a class="site-hyperlink" href="http://meta.stackoverflow.com/users/4/">Meta Stack Overflow<span class="mod-flair" title="moderator">&#9830;</span></a>
                     </td>
                     <td class="reputation">
-                        <span class="reputation-score">21,526</span> rep
+                        <span class="reputation-score">21,546</span> rep
                     </td>
                     <td class="badges">
                         <span title="8 gold badges"><span class="badge1"></span><span class="badgecount">8</span></span><span title="71 silver badges"><span class="badge2"></span><span class="badgecount">71</span></span><span title="96 bronze badges"><span class="badge3"></span><span class="badgecount">96</span></span>
@@ -624,7 +624,7 @@ newest            </a>
                         <a class="site-hyperlink" href="http://stackoverflow.com/users/4/">Stack Overflow<span class="mod-flair" title="moderator">&#9830;</span></a>
                     </td>
                     <td class="reputation">
-                        <span class="reputation-score">20,752</span> rep
+                        <span class="reputation-score">20,762</span> rep
                     </td>
                     <td class="badges">
                         <span title="14 gold badges"><span class="badge1"></span><span class="badgecount">14</span></span><span title="61 silver badges"><span class="badge2"></span><span class="badgecount">61</span></span><span title="80 bronze badges"><span class="badge3"></span><span class="badgecount">80</span></span>
@@ -844,10 +844,10 @@ This user has no active <a href="/help/bounty">bounties</a>
 </div>
 
 <script type="text/javascript">
-StackExchange.ready(function(){$.get('/users/ivc/4/06fb');});
+StackExchange.ready(function(){$.get('/users/ivc/4/c7b9');});
 </script>
 <noscript>
-    <div><img src="/users/ivc/4/06fb" class="dno" alt="" width="0" height="0"></div>
+    <div><img src="/users/ivc/4/c7b9" class="dno" alt="" width="0" height="0"></div>
 </noscript>
 
         </div>

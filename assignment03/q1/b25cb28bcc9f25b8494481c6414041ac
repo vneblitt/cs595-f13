@@ -1,0 +1,323 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><!-- InstanceBegin template="/Templates/template_sg.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="Title/Metatags" -->
+<title>United Nations Secretary-General Ban Ki-moon's Statements</title>
+<meta name="dc.title" content="United Nations Secretary-General Ban Ki-moon" />
+<meta name="dc.subject" content="United Nations, Secretary-General, Ban Ki-moon, UN, secretary, general" />
+<meta name="dc.description" content="This is the site for the United Nations Secretary-General Ban Ki-moon" />
+<meta name="dc.publisher" content="United Nations" />
+<meta name="dc.date.created" content="30-11-2011" />
+<!-- InstanceEndEditable -->
+<meta name="author" content="United Nations Web Services Section" />
+<meta name="dc.format" content="text/html" />
+<meta name="dc.language" content="EN" />
+<meta name="dc.rights" content="United Nations © Copyright 2012" />
+
+<link href="/css/global_en.css" rel="stylesheet" type="text/css" />
+<link href="/sg/css/layout.css" rel="stylesheet" type="text/css" />
+<link href="/sg/css/text.css" rel="stylesheet" type="text/css" />
+<link href="/sg/css/print.css" rel="stylesheet" type="text/css" media="print" />
+
+<!-- InstanceBeginEditable name="Styles" -->
+<style type="text/css">
+form{
+	margin-left: 5px;
+	margin-bottom: 2em;
+}
+</style>
+<!-- InstanceEndEditable -->
+<!--language bar scripts-->
+<!--<script type="text/javascript" src="/common/scripts/jquery/jquery-1.6.4.min.js"></script>-->
+<!--<script type="text/javascript" src="/common/nav/js/lang_bar.js"></script>-->
+<!-- end of language bar scripts-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4803886-1']);
+  _gaq.push(['_setDomainName', 'un.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+<!-- stats body top -->
+<div id="skiplink">
+  <ul>
+    <li><a href="#bannernav">Skip to main navigation</a> </li>
+    <li><a href="#content">Skip to content</a> </li>
+  </ul>
+</div>
+<div id="main">
+
+    <div id="brandbar">
+	    <img src="/en/images/unicon.jpg" height="18" width="21" alt="" class="unicon" align="left"/>
+<span class="welcome"><a href="/en/index.shtml">Welcome to the United Nations. It's your world.</a></span>
+<div>
+	<form id="searchfrm" name="gs" method="get" action="http://search.un.org/search" >
+    <input type="hidden" name="ie" value="utf8" />
+    <input type="hidden" name="site" value="un_org" />
+    <input type="hidden" name="output" value="xml_no_dtd" />
+    <input type="hidden" name="client" value="UN_Website_en" />
+    <input type="hidden" name="num" value="10" />
+	<input name="lr" type="hidden" value="lang_en" />
+    <input type="hidden" name="proxystylesheet" id="proxystylesheet" value="UN_Website_en" />
+    <input type="hidden" name="oe" value="utf8" />
+    <label for="search">UN Search</label>
+    <input class="textbox" type="text" name="q" id="search" size="22" onfocus="this.value='';" value="Search UN Website" />
+    <input class="button" type="submit" name="Submit" value="Go" />
+ </form>
+</div> 
+    </div>  
+
+    <div id="languages">
+    </div>
+ 
+    <div id="topbanner">
+        <div id="bannerimage">
+        	<h1 id="hiddentitle"><span></span>Secretary-General Ban Ki-moon</h1>
+        </div>
+    </div>
+    <div id="nav">
+    <ul>
+	 <li><a id="home_link" href="/sg/index.asp">Home</a></li>
+          <li id="about"><a id="about_link" href="#">About</a>
+          <ul class="subnav">
+            <li><a href="/sg/biography.shtml">Biography</a></li>
+            <li><a href="/sg/sg_role.shtml">The role of the Secretary-General</a></li>
+            <li><a href="/sg/appointment.shtml">Appointment process</a></li>
+          </ul>
+      </li>
+
+	   <li id="mission"><a id="mission_link" href="#">Mission</a>
+          <ul class="subnav">
+            <li><a href="/sg/priorities/index.shtml">Vision and priorities</a></li>
+            <li><a href="/sg/management/beyond2015.shtml">Post-2015 Development Agenda</a></li>
+            <li><a href="/sg/ethical.shtml">Ethical Standards</a></li>
+			<li><a href="/sg/PublicDisclosure.shtml">Transparency (public disclosure)</a></li>
+          </ul>
+      </li>
+
+      <li id="team2"><a id="team_link" href="#">The Team</a>
+          <ul class="subnav">
+          <li><a href="/sg/dsg/index.shtml">Deputy Secretary-General</a></li>
+            <li><a href="/sg/management/index.asp">Senior Management Group</a></li>
+            <li><a href="/sg/srsg/africa.shtml">Special Representatives and envoys</a></li>
+			<li><a href="/sg/vacancies/index.shtml">Senior Level Vacancies</a></li>
+          </ul>
+      </li>
+
+	 <li id="agenda"><a id="job_link" href="#">Daily Agenda</a>
+          <ul class="subnav">
+            <li><a href="/sg/sg_schedule.asp">Public schedule</a></li>
+            <li><a href="/sg/travels.asp">Travel</a></li>
+            <li><a href="/sg/offthecuff/index.asp?cuff=2&amp;nid=0">Bilateral meetings (readouts)</a></li>    
+          </ul>
+      </li>
+
+	 <li id="job"><a id="speeches_link" href="#">Speeches/reports</a>
+          <ul class="subnav">
+            <li><a href="/apps/news/infocus/sgspeeches/">All speeches</a></li>
+            <li><a href="/sg/selected-speeches/index.asp">Selected speeches <br />(2006 – 2011)</a></li>
+            <li><a href="/sg/speeches/reports/68/report.shtml">Reports on the work of the Organization</a></li>
+            <li><a href="http://unbisnet.un.org:8080/ipac20/ipac.jsp?session=11M05388A49G2.3580&amp;menu=search&amp;aspect=power&amp;npp=50&amp;ipp=20&amp;spp=20&amp;profile=bib&amp;ri=&amp;index=.UD&amp;term=s&amp;matchopt=0|0&amp;oper=and&amp;aspect=power&amp;index=.TW&amp;term=Report+of+the+Secretary-General&amp;matchopt=2|0&amp;oper=and&amp;index=.TN&amp;term=&amp;matchopt=0|0&amp;oper=and&amp;index=.AW&amp;term=&amp;matchopt=0|0&amp;ultype=&amp;uloper==&amp;ullimit=&amp;ultype=&amp;uloper==&amp;ullimit=&amp;sort=&amp;x=10&amp;y=10#focus">Reports to the Security Council </a></li>
+			<li><a href="http://unbisnet.un.org:8080/ipac20/ipac.jsp?session=1180IU96455M6.3641&amp;menu=search&amp;aspect=power&amp;npp=50&amp;ipp=20&amp;spp=20&amp;profile=bib&amp;ri=&amp;index=.UD&amp;term=a*&amp;matchopt=0|0&amp;oper=and&amp;aspect=power&amp;index=.TW&amp;term=report+of+the+Secretary-General&amp;matchopt=0|0&amp;oper=and&amp;index=.TN&amp;term=&amp;matchopt=0|0&amp;oper=and&amp;index=.AW&amp;term=&amp;matchopt=0|0&amp;limitbox_2=TM01+=+tm_b15&amp;ultype=PD01&amp;uloper=%3E&amp;ullimit=1995&amp;ultype=&amp;uloper==&amp;ullimit=&amp;sort=3100054&amp;x=6&amp;y=11#focus">Reports to the General Assembly </a></li>
+			<li><a href="http://unbisnet.un.org:8080/ipac20/ipac.jsp?ipp=20&amp;spp=20&amp;profile=bib&amp;ri=&amp;index=.UD&amp;term=E/*&amp;matchopt=0|0&amp;oper=and&amp;aspect=power&amp;index=.AW&amp;term=UN.+Secretary-General&amp;matchopt=0|0&amp;oper=and&amp;index=.TM&amp;term=b15+&amp;matchopt=0|0&amp;oper=and&amp;index=.AW&amp;term=&amp;matchopt=0|#focus">Reports to the ECOSOC </a></li>
+          </ul>
+      </li>
+
+      <li id="media"><a id="media_link" href="#">Media</a>
+          <ul class="subnav">
+			<li><a href="/sg/spokesperson/">Spokesperson's Office</a></li>
+			<li><a href="/sg/offthecuff/index.asp?cuff=1">Press encounters</a></li>
+            <li><a href="/en/unpress/moreBydocType.asp?docType=1&amp;unBodies=4&amp;unpress=1">Press conferences</a></li>
+            <li><a href="/sg/statements/index.asp">Statements attributable to the Spokesperson</a></li>
+            <li><a href="/sg/offthecuff/index.asp?cuff=3">Notes to correspondents</a></li>
+            <li><a href="/sg/articles/index.asp">Press Articles/op-eds</a></li>
+			<li><a href="/en/unpress/moreBydocType.asp?docType=0&amp;unBodies=4&amp;unpress=1">Press releases</a></li>
+            <li><a href="http://www.unmultimedia.org/photo/gallery.jsp?mode=auto&amp;query=category%3A%22Secretary-General%22%20NOT%20category%3ATrips">Photos</a></li>
+			<li><a href="http://webtv.un.org/topics-issues/un-secretary-general/" target="_blank">Videos</a></li>
+          </ul>
+      </li>
+      </ul>
+  </div>
+  <div id="content">
+  <!-- InstanceBeginEditable name="Content" -->
+<h2>Latest Statements</h2>
+
+<h3>New York,&nbsp;16&nbsp;September&nbsp;2013 - Secretary-General's remarks to the Security Council on the report of the United Nations Missions to Investigate Allegations of the Use of Chemical Weapons on the incident that occurred on 21 August 2013 in the Ghouta area of Damascus</h3>
+<p>  	It is with a heavy heart that I submit to the Security Council the report of the United Nations Missions to Investigate Allegations of the Use of Chemical Weapons on the incident that occurred on 21 August 2013 in the Ghouta area of Damascus.</p>  <p>  	As I join you here, the President of the General Assembly has been given a copy of the report so that he can inform the Member States.</p>  <p>  	I wish to express my immense gratitude to the Head of the Mission, Professor &Aring;ke Sellstr&ouml;m, and his team of scientists and technical experts, for their stellar work.&nbsp; They performed in battlefield conditions, in record time.&nbsp; Impartial and independent, they represent the best of the United Nations and I thank them for their contribution.</p>  <p>  	I am also grateful to the Directors-General of the Organization for the Prohibition of Chemical Weapons and the World Health Organization for their indispensable support.</p>  <p>  	The Mission has concluded that chemical weapons were used on a relatively large scale in the Ghouta area of Damascus in the context of the ongoing conflict in Syria. The attack resulted in numerous casualties, particularly among civilians.</p>  <p>  	The Mission&rsquo;s findings are based on the evidence it obtained in the course of its activities in the Ghouta area.&nbsp; The Mission adhered to the most stringent protocols available for such an investigation, including to ensure the chain of custody for all samples.</p>  <p>  	The planning for the Mission was complex and highly delicate. Routes of entry into the relevant areas and other crucial elements remained uncertain until the final moments.&nbsp; The Mission was also the victim of a sniper attack.&nbsp; Despite these difficulties and dangers, the Mission was able to carry out extensive activities on site in the limited time it had available.</p>  <p>  	The team interviewed more than 50 survivors, medical personnel and first responders. It applied a rigorous and objective selection process designed to identify survivors who may have been exposed to chemical agents. It assessed these individuals&rsquo; symptoms and collected biomedical samples, including from hair, urine and blood.</p>  <p>  	The Mission also documented and sampled impact sites and munitions, and collected 30 soil and environmental samples &ndash; far more than any previous such United Nations investigation.</p>  <p>  	The statements by survivors offer a vivid account of the events of 21 August.</p>  <p>  	Survivors reported that following an attack with shelling, they quickly experienced a range of symptoms, including shortness of breath, disorientation, eye irritation, blurred vision, nausea, vomiting and general weakness.&nbsp; Many eventually lost consciousness.&nbsp; First responders described seeing a large number of individuals lying on the ground, many of them dead or unconscious.</p>  <p>  	The Mission also interviewed nine nurses and seven treating physicians, several of whom responded immediately to the incident.&nbsp; They reported seeing a large number of people lying in the streets without external signs of injury, some with laboured breathing, most of them unconscious.</p>  <p>  	The weather conditions that morning were conducive to maximizing the potential impact of an attack involving heavy gases, which can stay close to the ground. Weather information showed a falling temperature between 2:00 a.m. and 5:00 a.m. The downward movement of air would have allowed the gas to easily penetrate the basements and lower levels of buildings and other structures where many people were seeking shelter.</p>  <p>  	Let me turn now to the handling and analysis of the materials that were collected by the Mission.</p>  <p>  	The samples were sent for analysis to four laboratories designated by the OPCW. The Mission&rsquo;s factual findings are as follows.</p>  <p>  	(a)The environmental and biomedical samples demonstrate the widespread nature of the attacks. Eighty-five per cent of the blood samples tested positive for sarin. Biomedical samples were taken from 34 of the 36 patients selected by the Mission who had signs of poisoning. Almost all tested positive for exposure to sarin.</p>  <p>  	(b)These results were corroborated by the clinical assessments, which documented symptoms and signs consistent with nerve agent exposure. A number of affected patients were diagnosed with intoxification by an organophosphorous compound, and clearly showed symptoms associated with sarin, including loss of consciousness, shortness of breath, blurred vision, eye inflammation, vomiting and seizures.</p>  <p>  	(c)A majority of the environmental samples confirmed the use of sarin. The samples were taken from impact sites and surrounding areas &ndash; locations where survivors were also found to have been affected by sarin.</p>  <p>  	(d)The team was also able to examine impacted and exploded surface-to-surface rockets that are capable of carrying a chemical payload. These were carefully measured, photographed and sampled. A majority of the rockets or rocket fragments recovered were found to be carrying sarin.</p>  <p>  	On the basis of its analysis, the Mission concluded that it &ndash; and I quote &ndash; &ldquo;collected clear and convincing evidence that surface-to-surface rockets containing the nerve agent sarin were used in the Ein Tarma, Moadamiyah and Zalmalka in the Ghouta area of Damascus.&rdquo;</p>  <p>  	Due to the security situation and other limitations, the Mission was unable to document the full extent of the use of chemical weapons on 21 August or to verify the total number of causalities.</p>  <p>  	The results are overwhelming and indisputable.&nbsp; The facts speak for themselves.</p>  <p>  	I wish to emphasize that the Mission has yet to complete its investigation of the other allegations of the use of chemical weapons in Syria. The Mission will return to Syria as soon as practical to complete its investigation of Khan Al Assal and all other pending credible allegations before completing its final report. I will count on the continued resolve of team, as well as the support of Member States.&nbsp;</p>  <p>  	The United Nations Mission has now confirmed, unequivocally and objectively, that chemical weapons have been used in Syria.</p>  <p>  	This is a war crime and a grave violation of the 1925 Protocol and other rules of customary international law.&nbsp; I trust all can join me in condemning this despicable crime. The international community has a responsibility to hold the perpetrators accountable and to ensure that chemical weapons never re-emerge as an instrument of warfare.</p>  <p>  	The accession of Syria to the Chemical Weapons Convention and Syria&rsquo;s belated acknowledgement that it possesses chemical weapons are welcome developments that come with strict obligations.</p>  <p>  	The Russian Federation and the United States, led by Foreign Minister Lavrov and Secretary of State Kerry, held intensive consultations in Geneva last week, along with their experts. I welcome the understanding they reached regarding the safeguarding and destruction of Syria&rsquo;s chemical weapons stockpiles.&nbsp; I hope the Security Council and the Executive Council of the OPCW can move quickly to consider and implement this plan.&nbsp; I stand ready to support this plan in every way possible, while also fully realizing the complexities of such an undertaking in the midst of a civil war.</p>  <p>  	The unity of the Security Council will be crucial. Given the gravity of the situation, I urge the Council to consider ways to ensure enforcement of, and compliance with, the plan through a clear resolution.&nbsp; In that regard, I draw your attention to a significant element in the agreement reached in Geneva, and I quote:</p>  <p>  	&quot;The United States and the Russian Federation concur that this UN Security Council resolution should provide for review on a regular basis the implementation in Syria of the decision of the Executive Council of the OPCW, and in the event of non-compliance, including unauthorized transfer, or any use of chemical weapons by anyone in Syria, the UN Security Council should impose measures under Chapter VII of the UN Charter.&quot;</p>  <p>  	End quote.&nbsp; I agree there should be consequences for non-compliance. Any use of chemical weapons by anyone, anywhere, is a crime.</p>  <p>  	We should not lose sight of the broader perspective of the Syrian crisis.&nbsp; The terrible loss of life on 21 August was the result of one of many attacks that have collectively killed more than 100,000 people in Syria during the past two and a half years.</p>  <p>  	The UN Commission of Inquiry has reported that Government and pro-government forces have committed murder, enforced disappearances, extrajudicial executions, rape and torture against civilians. It has also reported that anti-government armed groups have committed murder, executions, torture and hostage-taking. There has been indiscriminate shelling of civilian neighbourhoods by all sides. Yet arms continue to flow to the country and the region.</p>  <p>  	As action on chemical weapons moves ahead, the international community, including the United Nations, should also not be blind to the war crimes and crimes against humanity being committed with conventional weapons.&nbsp; There must be no impunity for these violations, either.</p>  <p>  	The humanitarian situation is desperate. Food supplies are dangerously low in some places.&nbsp; We lack access to many people in need.&nbsp; People are living under siege.&nbsp; Families face intolerable choices between the risk of remaining in place and the risk of taking flight.&nbsp; Communities that once lived in relative harmony are now torn with sectarian tension.&nbsp; One third of the country&rsquo;s people have fled their homes -- the largest flows of refugees and internally displaced persons in many years, causing instability across the region.</p>  <p>  	We need to do everything we can to bring the parties to the negotiating table. This is the only path to a durable solution. I stand ready to convene the International Conference on Syria in Geneva as soon as possible.&nbsp; I look forward to meeting with Foreign Minister Lavrov and Secretary Kerry on 28 September. I hope we will be able to set a date for the conference at that time. I also hope that this Council will provide full support to the efforts of Joint Special Representative Lakhdar Brahimi to prepare the ground for its launch.</p>  <p>  	This is the most significant confirmed use of chemical weapons against civilians since Saddam Hussein used them in Halabja in 1988.&nbsp; The international community has pledged to prevent any such horror from recurring, yet it has happened again.</p>  <p>  	This is a matter that truly affects international peace and security.&nbsp; After two-and-a-half years of tragedy, now is the moment for the Security Council to uphold its political and moral responsibilities and demonstrate the political will to move forward in a decisive manner.</p>  <p>  	My hope is that this incident will serve as a wake-up call for more determined efforts to resolve the conflict and end the unbearable suffering of the Syrian people.</p>  <p>  	Thank you, Mr. President.</p>  
+<hr style="clear:both;" />
+<p><strong>Statements on 16&nbsp;September&nbsp;2013</strong></p>
+<div id="lateststat"><ul>
+
+<li class="headline">
+	<a href="index.asp?nid=7087" > New York,&nbsp;16&nbsp;September&nbsp;2013&nbsp;-&nbsp;Secretary-General's remarks at the Church of the Holy Family </a>
+</li>
+
+<li class="headline">
+	<a href="index.asp?nid=7086" > New York,&nbsp;16&nbsp;September&nbsp;2013&nbsp;-&nbsp;Secretary-General's remarks on 40th Anniversary of German Accession to the United Nations and the Inauguration of the Quiet Room [as prepared for delivery]</a>
+</li>
+
+<li class="headline">
+	<a href="index.asp?nid=7085" > Vienna, Austria,&nbsp;16&nbsp;September&nbsp;2013&nbsp;-&nbsp;Secretary-General's message to the Fifty-Seventh Annual Regular Session of the General Conference of the International Atomic Energy Agency [delivered by Mr. Yury Fedotov, Executive Director, UN Office on Drugs and Crime]</a>
+</li>
+
+<li class="headline">
+	<a href="index.asp?nid=7084" > Brussels, Belgium,&nbsp;16&nbsp;September&nbsp;2013&nbsp;-&nbsp;Secretary-General's message to High-Level Conference on a New Deal for Somalia [Delivered by Nicholas Kay, the Secretary-General's Special Representative for Somalia]
+</a>
+</li>
+
+<li class="headline">
+	<a href="index.asp?nid=7082" > New York,&nbsp;16&nbsp;September&nbsp;2013&nbsp;-&nbsp;Secretary-General's remarks at closing session of the 67th session of the General Assembly</a>
+</li>
+
+<li class="headline">
+	<a href="index.asp?nid=7081" > New York,&nbsp;16&nbsp;September&nbsp;2013&nbsp;-&nbsp;Secretary-General's message on the International Day for the Preservation of the Ozone Layer</a>
+</li>
+
+</ul></div>
+
+
+  <!-- InstanceEndEditable -->
+  </div>
+  
+  <div id="sidecol">
+  <!-- InstanceBeginEditable name="sidecol" -->
+ 
+  <div class="side_box">
+  	<div class="arch_btn"><a href="sgstatsarchive.asp">Archives</a></div>
+		<div id="searchbox">
+			<h4>Search Statements</h4>
+			<form action="sgstatssearch.asp" method="post" name="formSearch" id="formSearch">          
+	<input type="text" name="fldSearch" size="13" />
+	<input type ="hidden" name="Cuff" value="" />
+	<input class="blueButton" type="submit" value="GO" name="submit" />
+	  <select name="fldPastdate">
+		<option value="14">Past 2 weeks</option>
+		<option value="30">Past 30 days</option>
+		<option value="45">Past 45 days</option>
+	  </select>
+	<p><a href="sgstatementssearchFull.shtml">Advanced Search</a></p>
+</form>
+		</div>
+  </div>
+  <div class="side_box">
+		<div class="print_btn">
+	<p><a href="javascript:window.print()" title="Print this page">Print this page</a></p>
+</div><div class="fbook_btn">
+    <div id="fb-root"></div>
+    <script type="text/javascript">(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    document.write("<div class='fb-like'  data-href='"+location+"' data-send='true' data-layout='button_count' data-width='100' data-show-faces='true' data-action='recommend' data-font='arial'></div>");
+    </script>
+</div>
+ 
+<div class="twt_btn">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
+    <script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    <!--end of twitter button-->
+    </script>
+</div>
+  </div>
+  <!-- InstanceEndEditable --></div>
+  
+  <div id="bottomnav">
+	<!--Bottom Navigation for SG Website 2011-->
+
+	 <div id="sg">
+        <h5>ON THE JOB</h5>
+        <ul>
+        	<li><a href="/sg/sg_schedule.asp">Daily Schedule</a></li>
+            <li><a href="/sg/travels.asp">Official Travels</a></li>
+            <li><a href="/sg/appointment.shtml">Appointment Process</a></li>
+            <li><a href="/sg/sg_role.shtml">Role of the Secretary-General</a></li>
+            <li><a href="/sg/formersgs.shtml">Former Secretaries-General</a></li>
+        </ul>
+      </div>   
+      
+      <div id="team">
+        <h5>THE TEAM</h5>
+        <ul>
+            <li><a href="/sg/dsg/index.shtml">Deputy Secretary-General</a></li>
+<!--            <li><a href="/sg/spokesperson/index.asp">Spokesperson</a></li>-->
+            <li><a href="/News/ossg/index.shtml">Spokesperson</a></li>
+            <li><a href="/sg/management/index.asp">Management Group</a></li>
+            <li><a href="/sg/srsg/africa.shtml">Representatives &amp; Envoys</a></li>
+            <li><a href="/sg/mop/index.shtml">Messengers of Peace</a></li>
+        </ul>
+      </div> 
+          
+      <div id="resources">
+        <h5>RESOURCES</h5>
+        <ul>
+            <li><a href="/sg/ethical.shtml">Ethical Standards</a></li>
+            <li><a href="/sg/PublicDisclosure.shtml">Public Disclosure</a></li>
+			<li><a href="/sg/articles/index.asp">Articles</a></li>
+            <li><a href="http://webtv.un.org/topics-issues/un-secretary-general/" target="_blank">Videos</a></li>
+            <li><a href="http://www.unmultimedia.org/photo/gallery.jsp?mode=auto&amp;query=category%3A%22Secretary-General%22%20NOT%20category%3ATrips">Photos</a>						</li>      
+        </ul>
+	  </div>       
+     
+      <div id="quicklinks">
+        <h5>QUICK LINKS</h5>
+        <ul>
+            <li><a href="/en/mainbodies/secretariat/index.shtml">Secretariat</a></li>
+            <li><a href="http://www.un.org/news/">News Centre</a></li>
+            <li><a href="/en/hq/dpi/">Department of Public Information</a></li>
+            <li><a href="/en/media/accreditation/">Media Accreditation</a></li> 
+        </ul>
+      </div>  
+      
+
+  </div>
+
+ <div id="footer">
+    <div id="copy">United Nations &copy;2012</div>
+    <div id="unfooter"><ul>
+        <li><a href="/en/aboutun/copyright/">Copyright </a> |</li> 
+        <li><a href="/en/aboutun/terms/">Terms of Use </a> |</li> 
+        <li><a href="/en/aboutun/privacy/">Privacy Notice </a> | </li> 
+        <li><a href="/en/siteindex/">Site Index </a> |</li> 
+        <li><a href="/en/aboutun/fraudalert/">Fraud Alert </a> |</li> 
+		<li><a href="/en/aboutun/help/">Help </a> </li> 
+</ul> </div>
+  </div>    
+<!--end of main -->     
+</div>
+
+  <div id="wsscredit">
+	<!-- InstanceBeginEditable name="wsscredit" -->
+<!--    UN Web Services Section, Department of Public Information, United Nations &copy; 2011-->
+    <!-- InstanceEndEditable -->
+  </div>
+<!-- Piwik --> 
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://weblog.un.org/" : "http://weblog.un.org/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 16);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://weblog.un.org/piwik.php?idsite=16" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+</body>
+<!-- InstanceEnd --></html>

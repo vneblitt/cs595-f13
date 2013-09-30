@@ -1,0 +1,593 @@
+<!doctype html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#" lang="en" dir="ltr"><!--<![endif]-->
+
+  <head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta charset="utf-8" />
+<meta property="og:url" content="http://www.clintonfoundation.org/" />
+<meta property="og:video:type" content="application/x-shockwave-flash" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="http://www.clintonfoundation.org/sites/all/themes/custom/cf/favicon.ico" />
+<meta property="og:site_name" content="Clinton Foundation" />
+<meta property="og:image" content="http://www.clintonfoundation.org/files/metaa_90px.jpg" />
+<meta property="og:type" content="non_profit" />
+<link rel="alternate" title="Close Up: The official Clinton Foundation Blog" href="http://www.clintonfoundation.org/blog/feed" />
+<link rel="canonical" href="http://www.clintonfoundation.org/" />
+<link rel="shortlink" href="http://www.clintonfoundation.org/" />
+<meta property="og:title" content="The Clinton Foundation" />
+<meta property="og:description" content="Delivering sustainable solutions that empower people to live better lives." />
+    <title>The Clinton Foundation</title>
+
+          <meta name="MobileOptimized" content="width">
+      <meta name="HandheldFriendly" content="true">
+      <meta name="viewport" content="width=device-width">
+        <meta http-equiv="cleartype" content="on">
+
+    <link rel="stylesheet" href="http://www.clintonfoundation.org/files/css/css_ogjvJnfni1_P_WxvXAHlUOgCs860b3ip9DNMapcIGeM.css" media="all" />
+<link rel="stylesheet" href="http://www.clintonfoundation.org/files/css/css_EfevGXiYPez63JZC0-82FJichZ7gjxH-B8-k4GIZBlQ.css" media="all" />
+<link rel="stylesheet" href="http://www.clintonfoundation.org/files/css/css_YXg8CViM-vE_MrOMtQTJTLnocNMCstFh9XYLsNz2cZ0.css" media="all" />
+<style>.homepage-textfield{display:none !important;}
+</style>
+<link rel="stylesheet" href="http://www.clintonfoundation.org/files/css/css_OGAMgnsr0MRqJ7DyshL3uCQMBJCtMrfDbhBmIpROIGo.css" media="all" />
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700,700italic,800,800italic|Open+Sans+Condensed:300&amp;subset=latin" media="all" />
+<link rel="stylesheet" href="http://www.clintonfoundation.org/sites/all/themes/custom/cf/css/styles.css?mtshr1" media="all" />
+<link rel="stylesheet" href="http://www.clintonfoundation.org/sites/all/themes/custom/cf/css/styles2.css?mtshr1" media="all" />
+<link rel="stylesheet" href="http://www.clintonfoundation.org/files/css/css_AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs.css" media="all" />
+    <script src="http://www.clintonfoundation.org/sites/all/libraries/modernizr/modernizr.min.js?mtshr1"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script>
+<script src="http://www.clintonfoundation.org/files/js/js_KwHjFgUicd44czsZKRp8J0ePhTAjeMQebaD6A508nt8.js"></script>
+<script src="http://www.clintonfoundation.org/files/js/js_ZcW7GPj-lBTdq14HzozaLfWfYQFXoVKaLwt0BJOAoQw.js"></script>
+<script src="http://www.clintonfoundation.org/files/js/js_ICSG9JB1P5AkRdy9e8ZKZEariIPb64NTJBGWZcuMMPU.js"></script>
+<script src="http://www.clintonfoundation.org/files/js/js_yMw63s01X_wgBvleSaeNZrel_vwZjMIorlPLly_Arqs.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cf","theme_token":"KKX_M_Mi4o3el7pOMLzUDF77m7oxhR7dGKf23mrjyNA","js":{"sites\/all\/libraries\/equalheights\/jQuery.equalHeights.js":1,"sites\/all\/libraries\/caroufredsel\/jquery.carouFredSel-6.2.1-packed.js":1,"sites\/all\/libraries\/caroufredsel\/helper-plugins\/jquery.touchSwipe.min.js":1,"sites\/all\/modules\/contrib\/chosen\/chosen.js":1,"0":1,"sites\/all\/libraries\/modernizr\/modernizr.min.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.1\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/jquery-throttle-debounce\/jquery.ba-throttle-debounce.min.js":1,"sites\/all\/libraries\/response\/response.min.js":1,"sites\/all\/modules\/contrib\/cs_adaptive_image\/cs_adaptive_image.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/custom\/features\/cf_common\/js\/analytics.js":1,"sites\/all\/modules\/custom\/cf_misc\/js\/cf_misc.placeholder.js":1,"sites\/all\/libraries\/chosen\/chosen.jquery.min.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/themes\/custom\/cf\/js\/jquery.mCustomScrollbar.concat.min.js":1,"sites\/all\/themes\/custom\/cf\/js\/jquery.uniform.min.js":1,"sites\/all\/themes\/custom\/cf\/js\/responsive.js":1,"sites\/all\/themes\/custom\/cf\/js\/search-collapse.js":1,"sites\/all\/themes\/custom\/cf\/js\/jquery.actual.min.js":1,"sites\/all\/themes\/custom\/cf\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/libraries\/chosen\/chosen.css":1,"sites\/all\/modules\/contrib\/chosen\/css\/chosen-drupal.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/custom\/cf\/layouts\/cf_head_two_third_one_third_strata\/cf_head_two_third_one_third_strata.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"0":1,"sites\/all\/themes\/custom\/cf\/system.menus.css":1,"sites\/all\/themes\/custom\/cf\/system.messages.css":1,"sites\/all\/themes\/custom\/cf\/system.theme.css":1,"sites\/all\/themes\/custom\/cf\/css\/jquery.mCustomScrollbar.css":1,"sites\/all\/themes\/custom\/cf\/css\/uniform.default.min.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:300,300italic,600,600italic,700,700italic,800,800italic|Open+Sans+Condensed:300\u0026subset=latin":1,"sites\/all\/themes\/custom\/cf\/css\/styles.css":1,"sites\/all\/themes\/custom\/cf\/css\/styles2.css":1,"sites\/all\/themes\/custom\/cf\/css\/uncompiled.css":1}},"chosen":{"selector":"none","minimum":"10","minimum_width":"350","search_contains":true,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match"},"cfanalytics":{"homepage_video":"R1CkfDWTXIk"},"extlink":{"extTarget":0,"extClass":"ext","extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});</script>
+          <!--[if lt IE 9]>
+      <script src="/sites/all/themes/contrib/zen/js/html5-respond.js"></script>
+      <![endif]-->
+      </head>
+  
+  <body class="html front not-logged-in no-sidebars page-node page-node- page-node-106 node-type-page page-panels panel-layout panel-layout-cf-head-two-third-one-third-strata no-right no-left no-header-full-bleed header" >
+    <a name="top"></a>
+          <p id="skip-link">
+        <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+      </p>
+            
+<div id="page">
+
+  <!-- This header contains the "masthead" block region.  -->
+  <header class="header" id="header" role="banner">
+    <div class="inner">
+        <div class="region region-masthead">
+    <div id="block-search-form" class="block block-search first odd" role="search">
+
+        <h2 class="block__title block-title">Search</h2>
+    
+  <div class="block-content">
+  	<form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+    <div class="form-item form-type-searchfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Enter Search Terms" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-search" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-PMqg1ywQXS2eC_ExST52lMzaHR7uOeL6TMvcmrUSoDU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+</div><!-- /.block -->
+<div id="block-menu-block-5" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="block-content">
+  	<div class="menu-block-wrapper menu-block-5 menu-name-menu-utility-menu parent-mlid-0 menu-level-1">
+  <div class="wrap-menu-tree"><ul class="menu"><li class="menu__item is-parent is-leaf first leaf has-children menu-mlid-1542"><a href="/about" class="menu__link">About</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2213"><a href="/press-releases-statements" class="menu__link">Press</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2321"><a href="/careers" class="menu__link">Careers</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2985"><a href="/contact-us" class="menu__link">Contact Us</a></li>
+</ul></div></div>
+  </div>
+
+</div><!-- /.block -->
+    <div class="block block-mobile-menu">
+    	<a id="mobile-masthead-menu" href="#">Menu</a>
+    </div>
+  </div><!-- /.region -->
+    </div>
+  </header>
+
+  <div id="main">
+
+          <div id="navigation">
+        <div class="inner">
+            <div class="region region-navigation">
+    <div id="block-blockify-blockify-site-name" class="block block-blockify first odd">
+
+      
+  <div class="block-content">
+  	<span id="site-name"><a href="/" title="Return to the Clinton Foundation home page" rel="home"><span>Clinton Foundation</span></a></span>  </div>
+
+</div><!-- /.block -->
+<div id="block-menu-block-3" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="block-content">
+  	<div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <div class="wrap-menu-tree"><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-1545 megamenu"><a href="/our-work" class="menu__link">Our Work</a><div class="wrap-menu-tree menu-tree-with-view-all"><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-1546"><span class="menu__link nolink">Issue Areas</span><div class="wrap-menu-tree"><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2317"><a href="/our-work/by-topic/climate-change" class="menu__link">Climate Change</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2319"><a href="/our-work/by-topic/economic-development" class="menu__link">Economic Development</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2320"><a href="/our-work/by-topic/global-health" class="menu__link">Global Health</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2318"><a href="/our-work/by-topic/health-and-wellness" class="menu__link">Health and Wellness</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2914"><a href="/our-work/by-topic/women-and-girls" class="menu__link">Women and Girls</a></li>
+</ul></div></li>
+<li class="menu__item is-expanded expanded menu-mlid-1547"><span class="menu__link nolink">Initiatives</span><div class="wrap-menu-tree"><ul class="menu"><li class="menu__item is-parent is-leaf first leaf has-children menu-mlid-1629"><a href="/our-work/alliance-healthier-generation" class="menu__link">Alliance for a Healthier Generation</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-1630"><a href="/our-work/clinton-climate-initiative" class="menu__link">Clinton Climate Initiative</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2842"><a href="/our-work/clinton-development-initiative" class="menu__link">Clinton Development Initiative</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-1633"><a href="/our-work/clinton-foundation-haiti" class="menu__link">Clinton Foundation in Haiti</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-1634"><a href="/our-work/clinton-giustra-enterprise-partnership" class="menu__link">Clinton Giustra Enterprise Partnership</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3040"><a href="/our-work/clinton-global-initiative" class="menu__link">Clinton Global Initiative</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-1636"><a href="/our-work/clinton-health-access-initiative" class="menu__link">Clinton Health Access Initiative</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-1637"><a href="/our-work/clinton-health-matters-initiative" class="menu__link">Clinton Health Matters Initiative</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2850"><a href="/our-work/too-small-fail-0" class="menu__link">Too Small to Fail</a></li>
+<li class="menu__item is-parent is-leaf last leaf has-children menu-mlid-1544"><a href="/presidential-center" class="menu__link">Presidential Center</a></li>
+</ul></div></li>
+<li class="menu__item is-expanded last expanded menu-mlid-1548"><span class="menu__link nolink">Regions</span><div class="wrap-menu-tree"><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2347"><a href="/our-work/by-region/africa" class="menu__link">Africa</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2345"><a href="/our-work/by-region/asia-pacific" class="menu__link">Asia-Pacific</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2346"><a href="/our-work/by-region/europe" class="menu__link">Europe</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2348"><a href="/our-work/by-region/latin-america-caribbean" class="menu__link">Latin America &amp; the Caribbean</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2349"><a href="/our-work/by-region/united-states" class="menu__link">United States</a></li>
+</ul></div></li>
+</ul><div class="view-all"><div class="pad"></div><div class="pad"></div><div class="view-all-link"><a href="/our-work">View all Our Work</a></div></div></div></li>
+<li class="menu__item is-expanded expanded menu-mlid-2240 no-megamenu"><a href="/get-involved" class="menu__link">Get Involved</a><div class="wrap-menu-tree menu-tree-with-view-all"><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2034"><a href="/donate" class="menu__link">Donate</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2851"><a href="/get-involved/take-action/action/trees-hope" class="menu__link">Take Action</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2932"><a href="/get-involved/take-action/action/clinton-foundation-day-action" class="menu__link">Join a Day of Action</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2813"><a href="/get-involved/attend-an-event" class="menu__link">Attend an Event</a></li>
+</ul><div class="view-all"><div class="view-all-link"><a href="/get-involved">View all Get Involved</a></div></div></div></li>
+<li class="menu__item is-expanded expanded menu-mlid-1687 no-megamenu"><a href="/blog" class="menu__link">Blog</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-2849 no-megamenu"><a href="/ways-to-give" class="menu__link">Ways to Give</a><div class="wrap-menu-tree menu-tree-with-view-all"><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2815"><a href="/ways-give/join-clinton-foundation-giving-circle" class="menu__link">Give Monthly</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2385"><a href="/ways-give/become-clinton-foundation-ambassador" class="menu__link">Clinton Foundation Ambassadors</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2386"><a href="/ways-give/give-gift-honor-or-memory-someone" class="menu__link">Honorary Gifts</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-2387"><a href="/ways-give/make-planned-gift" class="menu__link">Make a Planned Gift</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2843"><a href="/ways-give/donate-mailphone" class="menu__link">Donate by Mail/Phone</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2844"><a href="/ways-give/more-ways-give" class="menu__link">More Ways to Give</a></li>
+</ul><div class="view-all"><div class="view-all-link"><a href="/ways-to-give">View all Ways to Give</a></div></div></div></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2373 no-megamenu"><a href="/donate" class="menu__link">Donate</a></li>
+</ul></div></div>
+  </div>
+
+</div><!-- /.block -->
+  </div>
+        </div>
+      </div>
+    
+    <div id="content" class="column" role="main">
+                        
+
+
+
+<div class="panel-display panel-cf-head-two-third-one-third-strata" >
+  
+      <div class="panel-panel panel-header full-site-width">
+      <div class="panel-pane pane-fieldable-panels-pane pane-fpid-173 pane-bundle-homepage-feature" >
+  
+        <h2 class="pane-title">We're all in this together.</h2>
+    
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    
+  <div class="field-homepage-feature-video-bg">
+    <noscript class="adaptive-image" data-adaptive-image-breakpoints="480 768" data-adaptive-image-480-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;480&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/hero_image_tall_full_bleed_mobile/public/billboardimage_v6_3.jpg?itok=elIQ7fTG&quot; width=&quot;320&quot; height=&quot;335&quot; /&gt;" data-adaptive-image-768-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/hero_image_tall_full_bleed_tablet/public/billboardimage_v6_3.jpg?itok=yxM46Snl&quot; width=&quot;700&quot; height=&quot;485&quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/hero_image_tall_full_bleed/public/billboardimage_v6_3.jpg?itok=8ka5OKHO&quot; width=&quot;1280&quot; height=&quot;640&quot; /&gt;"><img typeof="foaf:Image" src="http://www.clintonfoundation.org/files/styles/hero_image_tall_full_bleed/public/billboardimage_v6_3.jpg?itok=8ka5OKHO" width="1280" height="640" /></noscript>
+  </div>
+<div class="homepage-feature-content"><div class="homepage-feature-text">
+  <span class="field-homepage-feature-text">
+     <p>We believe that, together, we can find solutions to our world's most daunting challenges.</p>   </span>
+</div>
+  <div class="field-homepage-feature-video">
+    <div id="file-1326" class="file file-video file-video-youtube">
+
+          <h2 class="element-invisible"><a href="http://youtube.com/watch?v=R1CkfDWTXIk">We&#039;re All In This Together</a></h2>
+      
+  
+  <div class="content">
+    <span class="file-wrapper"><div class="media-youtube-video media-youtube-1">
+  <iframe class="media-youtube-player" id="media-youtube-r1ckfdwtxik" width="620" height="348" title="We&#039;re All In This Together" src="//www.youtube.com/embed/R1CkfDWTXIk?wmode=opaque&enablejsapi=1&modestbranding=1&playerapiid=media-youtube-r1ckfdwtxik&rel=0&showinfo=0&color=white" frameborder="0" allowfullscreen>Video of We&amp;#039;re All In This Together</iframe>
+</div>
+</span>  </div>
+
+  
+</div>
+  </div>
+<div class="field-collection-container clearfix">
+  <div class="field-homepage-feature-actions">
+    <div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="field-homepage_feature-actions-wrapper field-homepage-feature-actions-button">
+  <div class="field-hp-feature-button-text">
+    <a href="http://www.clintonfoundation.org//get-involved">Will you join us?</a>  </div>
+
+  <div class="field-hp-feature-action-desc">
+      </div>
+
+  <div class="field-hp-feature-action-linktext">
+      </div>
+</div></div>  </div>
+</div><div class="sharethis-homepage-feature-wrapper"><div class="sharethis-homepage-feature-prefix">Share</div><div class="sharethis-wrapper"><span st_url="http://www.clintonfoundation.org/front" st_title="Join me and @ClintonFdn in helping others realize their full potential." class="st_twitter_hcount" st_via="ClintonFdn" displaytext="twitter"></span>
+<span st_url="http://www.clintonfoundation.org/front" st_title="Front Page" class="st_facebook_hcount" displaytext="facebook"></span>
+<span st_url="http://www.clintonfoundation.org/front" st_title="Front Page" class="st_googleplus_hcount" displaytext="googleplus"></span>
+<script type='text/javascript'>var switchTo5x = true;var __st_loadLate = true;</script><script type='text/javascript' src='http://w.sharethis.com/button/buttons.js'></script><script type='text/javascript'>if (typeof stLight != 'undefined') { stLight.options({"publisher":"dr-84b21774-961b-7ed1-30fc-dcd93f5914d1"}); }</script></div></div></div></div>
+  </div>
+  
+          
+  
+  </div>
+<div class="panel-pane pane-fieldable-panels-pane pane-fpid-93 pane-our-mission pane-bundle-rich-text-area" >
+  
+        <h2 class="pane-title">Creating Partnerships of Purpose</h2>
+    
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    
+  <div class="field-rich-text-area">
+     <p class="p1">We convene businesses, governments, NGOs, and individuals to improve <a href="//www.clintonfoundation.org/our-work/by-topic/global-health">global health and wellness</a>, increase opportunity for <a href="//www.clintonfoundation.org/our-work/by-topic/women-and-girls">women and girls</a>, reduce <a href="//www.clintonfoundation.org/our-work/alliance-healthier-generation">childhood obesity</a>, create <a href="//www.clintonfoundation.org/our-work/by-topic/economic-development">economic opportunity and growth</a>, and help communities address the effects of <a href="//www.clintonfoundation.org/our-work/by-topic/climate-change">climate change</a>.</p><p class="p1"><span>Learn more and take action with us today.</span></p>   </div>
+</div>
+  </div>
+  
+          
+  
+  </div>
+<div class="panel-pane pane-fieldable-panels-pane pane-fpid-67 pane-bundle-featured-content-tiles" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    <div class="tileset-wrapper" id="tileset-1524"><div class="content-tiles">
+  
+<article class="node-3993 node node-featured-content-tile view-mode-full structured clearfix" about="/node/3993" typeof="sioc:Item foaf:Document">
+
+      <div class="fct-image-container">
+      
+  <div class="field-fct-image">
+    <noscript class="adaptive-image" data-adaptive-image-breakpoints="480 768" data-adaptive-image-480-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;480&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/teaser_tile/public/blog_9272013-up-band-codeathon.jpg?itok=gz62DvJ_&quot; width=&quot;320&quot; height=&quot;320&quot; alt=&quot;Jawbone charging at Codeathon&quot; /&gt;" data-adaptive-image-768-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/teaser_tile_tablet/public/blog_9272013-up-band-codeathon.jpg?itok=XH0hxwOU&quot; width=&quot;320&quot; height=&quot;320&quot; alt=&quot;Jawbone charging at Codeathon&quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/teaser_tile/public/blog_9272013-up-band-codeathon.jpg?itok=gz62DvJ_&quot; width=&quot;320&quot; height=&quot;320&quot; alt=&quot;Jawbone charging at Codeathon&quot; /&gt;"><img typeof="foaf:Image" src="http://www.clintonfoundation.org/files/styles/teaser_tile/public/blog_9272013-up-band-codeathon.jpg?itok=gz62DvJ_" width="320" height="320" alt="Jawbone charging at Codeathon" /></noscript>
+  </div>
+    </div>
+  
+  <div class="inner">
+
+          <h3><a href="http://www.clintonfoundation.org/blog/2013/09/27/nine-questions-jeremiah-robinson-vp-software-jawbone">
+
+              
+  <span class="field-fct-title-intro">
+    Learn  </span>
+                    <span class="title-clean">Health and Technology</span>
+                    
+  <span class="field-fct-description">
+    We asked Jeremiah Robison, Vice President of Software at Jawbone, a few questions about how technology can help people live healthier.  </span>
+            
+              
+  <span class="field-fct-link">
+    Read the story  </span>
+      
+      </a></h3>
+
+    
+    
+  </div>
+
+</article><!-- /.node -->
+  
+<article class="node-194 node node-featured-content-tile view-mode-full structured clearfix" about="/node/194" typeof="sioc:Item foaf:Document">
+
+  
+  <div class="inner">
+
+          <h3><a href="http://www.clintonfoundation.org/clinton-global-initiative">
+
+              
+  <span class="field-fct-title-intro">
+    Watch  </span>
+                    <span class="title-clean">The 2013 CGI Annual Meeting</span>
+                  
+              
+  <span class="field-fct-link">
+    View all sessions  </span>
+      
+      </a></h3>
+
+    
+    
+  </div>
+
+</article><!-- /.node -->
+  
+<article class="node-1342 node node-featured-content-tile view-mode-full structured clearfix" about="/node/1342" typeof="sioc:Item foaf:Document">
+
+      <div class="fct-image-container">
+      
+  <div class="field-fct-image">
+    <noscript class="adaptive-image" data-adaptive-image-breakpoints="480 768" data-adaptive-image-480-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;480&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/teaser_tile/public/day_of_action_nyc_option_2_0.jpg?itok=MhXKob8Y&quot; width=&quot;320&quot; height=&quot;320&quot; /&gt;" data-adaptive-image-768-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/teaser_tile_tablet/public/day_of_action_nyc_option_2_0.jpg?itok=gj8rQy_Z&quot; width=&quot;320&quot; height=&quot;320&quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/teaser_tile/public/day_of_action_nyc_option_2_0.jpg?itok=MhXKob8Y&quot; width=&quot;320&quot; height=&quot;320&quot; /&gt;"><img typeof="foaf:Image" src="http://www.clintonfoundation.org/files/styles/teaser_tile/public/day_of_action_nyc_option_2_0.jpg?itok=MhXKob8Y" width="320" height="320" /></noscript>
+  </div>
+    </div>
+  
+  <div class="inner">
+
+          <h3><a href="http://www.clintonfoundation.org/get-involved/take-action/action/sandy-one-year-later">
+
+              
+  <span class="field-fct-title-intro">
+    Volunteer  </span>
+                    <span class="title-clean">Help Us Rebuild Communities Affected by Hurricane Sandy</span>
+                  
+              
+  <span class="field-fct-link">
+    Sign Up for Our Day of Action  </span>
+      
+      </a></h3>
+
+    
+    
+  </div>
+
+</article><!-- /.node -->
+  
+<article class="node-3672 node node-featured-content-tile view-mode-full structured clearfix" about="/node/3672" typeof="sioc:Item foaf:Document">
+
+  
+  <div class="inner">
+
+          <h3><a href="http://www.clintonfoundation.org//get-involved/take-action/action/trees-hope">
+
+              
+  <span class="field-fct-title-intro">
+    Take Action  </span>
+                    <span class="title-clean">Fight Climate Change and Poverty</span>
+                    
+  <span class="field-fct-description">
+    By purchasing carbon offsets, you can provide income to Malawian farmers who grow trees that sequester carbon.   </span>
+            
+              
+  <span class="field-fct-link">
+    Support this Project  </span>
+      
+      </a></h3>
+
+    
+    
+  </div>
+
+</article><!-- /.node -->
+  
+<article class="node-1336 node node-featured-content-tile view-mode-full structured clearfix" about="/node/1336" typeof="sioc:Item foaf:Document">
+
+      <div class="fct-image-container">
+      
+  <div class="field-fct-image">
+    <noscript class="adaptive-image" data-adaptive-image-breakpoints="480 768" data-adaptive-image-480-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;480&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/teaser_tile/public/mn_promo_0.jpg?itok=YXsdd1P8&quot; width=&quot;320&quot; height=&quot;320&quot; /&gt;" data-adaptive-image-768-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/teaser_tile_tablet/public/mn_promo_0.jpg?itok=4Y6SwQXM&quot; width=&quot;320&quot; height=&quot;320&quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/teaser_tile/public/mn_promo_0.jpg?itok=YXsdd1P8&quot; width=&quot;320&quot; height=&quot;320&quot; /&gt;"><img typeof="foaf:Image" src="http://www.clintonfoundation.org/files/styles/teaser_tile/public/mn_promo_0.jpg?itok=YXsdd1P8" width="320" height="320" /></noscript>
+  </div>
+    </div>
+  
+  <div class="inner">
+
+          <h3><a href="http://www.clintonfoundation.org//get-involved/take-action/attend-an-event/millennium-network-san-francisco">
+
+              
+  <span class="field-fct-title-intro">
+    Attend an Event  </span>
+                    <span class="title-clean">Millennium Network San Francisco</span>
+                    
+  <span class="field-fct-description">
+    With Secretary Hillary Rodham Clinton and Chelsea Clinton  </span>
+            
+              
+  <span class="field-fct-link">
+    Register to Attend  </span>
+      
+      </a></h3>
+
+    
+    
+  </div>
+
+</article><!-- /.node -->
+  
+<article class="node-1344 node node-featured-content-tile view-mode-full structured clearfix" about="/node/1344" typeof="sioc:Item foaf:Document">
+
+      <div class="fct-image-container">
+      
+  <div class="field-fct-image">
+    <noscript class="adaptive-image" data-adaptive-image-breakpoints="480 768" data-adaptive-image-480-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;480&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/teaser_tile/public/cdi_landing_crop_2_0.jpg?itok=CBQj4vGu&quot; width=&quot;320&quot; height=&quot;320&quot; /&gt;" data-adaptive-image-768-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/teaser_tile_tablet/public/cdi_landing_crop_2_0.jpg?itok=0aXy53Fm&quot; width=&quot;320&quot; height=&quot;320&quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/teaser_tile/public/cdi_landing_crop_2_0.jpg?itok=CBQj4vGu&quot; width=&quot;320&quot; height=&quot;320&quot; /&gt;"><img typeof="foaf:Image" src="http://www.clintonfoundation.org/files/styles/teaser_tile/public/cdi_landing_crop_2_0.jpg?itok=CBQj4vGu" width="320" height="320" /></noscript>
+  </div>
+    </div>
+  
+  <div class="inner">
+
+          <h3><a href="http://www.clintonfoundation.org//our-work/clinton-development-initiative/programs/anchor-farm-project">
+
+              
+  <span class="field-fct-title-intro">
+    Learn  </span>
+                    <span class="title-clean">Reaching 100,000 Smallholder Farmers in Malawi</span>
+                  
+              
+  <span class="field-fct-link">
+    Read more about our work  </span>
+      
+      </a></h3>
+
+    
+    
+  </div>
+
+</article><!-- /.node -->
+</div><div class="clearfix"></div></div></div>
+  </div>
+  
+          
+  
+  </div>
+    </div>
+  
+    
+      <div class="panel-panel panel-strata-2 full-page-width">
+      <div class="panel-pane pane-fieldable-panels-pane pane-fpid-169 pane-bundle-form" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    
+  <div class="field-featured-form">
+    <article class="node-1298 node node-whatcounts-form view-mode-post_inset clearfix" about="/node/1298" typeof="sioc:Item foaf:Document">
+
+  
+  
+  <div class="field-wc-display-title">
+    Sign up for our email newsletter.  </div>
+
+  <div class="field-wc-header">
+     <div class="rss"><p>Learn more about our impact.</p><p><a href="//www.clintonfoundation.org/blog">Visit our blog</a></p><p> </p></div><p> </p>   </div>
+<form action="/" method="post" id="cf-whatcounts-form-1298" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-email">
+  <label class="element-invisible" for="edit-email">E-mail Address <span class="form-required" title="This field is required.">*</span></label>
+ <input title="E-mail Address (required)" label="E-mail Address (required)" class="webform-hints-field form-text required" placeholder="E-mail Address (required)" type="text" id="edit-email" name="email" value="" size="60" maxlength="128" />
+</div>
+<input type="hidden" name="form_build_id" value="form-pZVVv4lee14CwWn0MlpmecTnS3Lq-23XyzFSlDZL-u8" />
+<input type="hidden" name="form_id" value="cf_whatcounts_form_1298" />
+<input type="submit" id="edit-submit" name="op" value="Submit" class="form-submit" /><div class="homepage-textfield"><div class="form-item form-type-textfield form-item-homepage">
+  <label for="edit-homepage">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-homepage" name="homepage" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div></div></form>
+  
+  
+</article><!-- /.node -->
+  </div>
+</div>
+  </div>
+  
+          
+  
+  </div>
+    </div>
+  
+    
+    
+    
+  
+  
+    
+  
+  
+      <div class="panel-panel panel-footer full-site-width">
+      <div class="panel-pane pane-fieldable-panels-pane pane-fpid-95 pane-bundle-image-promo-full-width" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane text-position-left">
+    
+  <div class="field-image-promo-fw-image">
+    <noscript class="adaptive-image" data-adaptive-image-breakpoints="768 460" data-adaptive-image-768-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/hero_image_full_bleed_tablet/public/cvccambodia1.jpg?itok=hKTjA2LZ&quot; width=&quot;742&quot; height=&quot;370&quot; /&gt;" data-adaptive-image-460-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;460&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/hero_image_mobile/public/cvccambodia1.jpg?itok=WJtnh_04&quot; width=&quot;320&quot; height=&quot;200&quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.clintonfoundation.org/files/styles/hero_image_full_bleed/public/cvccambodia1.jpg?itok=21-jd0dG&quot; width=&quot;1280&quot; height=&quot;437&quot; /&gt;"><img typeof="foaf:Image" src="http://www.clintonfoundation.org/files/styles/hero_image/public/cvccambodia1.jpg?itok=G4aNFwU8" width="960" height="457" /></noscript>
+  </div>
+
+  <div class="field-image-promo-fw-text">
+    Join us in improving millions of lives around the world  </div>
+
+  <div class="field-image-promo-fw-link">
+    <a href="http://www.clintonfoundation.org/donate?pageid=106">Donate Now</a>  </div>
+</div>
+  </div>
+  
+          
+  
+  </div>
+    </div>
+    
+</div>    </div>
+
+  </div>
+
+  <footer id="footer">
+      <div id="footer-upper" class="region region-footer-upper">
+    <div class="inner">
+  		<div id="block-cf-social-social-media-links" class="block block-cf-social first odd">
+
+      
+  <div class="block-content">
+  	<h2 class="site-name"><a href="/" title="Clinton Foundation">Clinton Foundation</a></h2><div class="address"><span class="street">77 Water Street </span><span class="city-state-zip">New York, NY 10005 </span><span class="phone">212-348-8882</span></div><div class="social-media-links"><span class="cf-common-social-accounts-facebook"><a href="https://www.facebook.com/ClintonFoundation" title="Facebook">Facebook</a></span><span class="cf-common-social-accounts-twitter"><a href="https://twitter.com/ClintonFdn" title="Twitter">Twitter</a></span><span class="cf-common-social-accounts-youtube"><a href="http://www.youtube.com/user/clintonfoundationorg" title="YouTube">YouTube</a></span><span class="cf-common-social-accounts-instagram"><a href="http://instagram.com/ClintonFoundation" title="Instagram">Instagram</a></span></div>  </div>
+
+</div><!-- /.block -->
+<div id="block-menu-block-1" class="block block-menu-block even" role="navigation">
+
+      
+  <a href="#top" class="link-back-to-top">Back to top</a>
+
+  <div class="block-content">
+  	<div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <div class="wrap-menu-tree"><ul class="menu"><li class="menu__item is-parent is-leaf first leaf has-children menu-mlid-1545"><a href="/our-work" class="menu__link">Our Work</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2240"><a href="/get-involved" class="menu__link">Get Involved</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1687"><a href="/blog" class="menu__link">Blog</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-2849"><a href="/ways-to-give" class="menu__link">Ways to Give</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2373"><a href="/donate" class="menu__link">Donate</a></li>
+</ul></div></div>
+  </div>
+
+</div><!-- /.block -->
+<div id="block-menu-menu-footer-upper-menu" class="block block-menu odd" role="navigation">
+
+      
+  <div class="block-content">
+  	<div class="wrap-menu-tree"><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/about" class="menu__link">About</a></li>
+<li class="menu__item is-leaf leaf"><a href="/press-releases-statements" class="menu__link">Press</a></li>
+<li class="menu__item is-leaf leaf"><a href="/presidential-center" class="menu__link">Presidential Center</a></li>
+<li class="menu__item is-leaf leaf"><a href="/about/contact-us" class="menu__link">Contact Us</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/careers" class="menu__link">Careers</a></li>
+</ul></div>  </div>
+
+</div><!-- /.block -->
+<div id="block-cf-misc-expenditures-chart" class="block block-cf-misc last even">
+
+        <h2 class="block__title block-title">2012 Expenditures</h2>
+    
+  <div class="block-content">
+  	<div class="item-list"><ul><li class="first"><span class="percentage">89.8%</span> Programs</li>
+<li><span class="percentage">6.6%</span> Management and General</li>
+<li class="last"><span class="percentage">3.6%</span> Fundraising</li>
+</ul></div>  </div>
+
+</div><!-- /.block -->
+  	</div>
+  </div><!-- region__footer_upper -->
+      <div id="footer-lower" class="region region-footer-lower">
+  	<div class="inner">
+  		<div id="block-menu-menu-footer-menu" class="block block-menu first odd" role="navigation">
+
+      
+  <div class="block-content">
+  	<div class="wrap-menu-tree"><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/" class="menu__link active">Site Map</a></li>
+<li class="menu__item is-leaf leaf"><a href="/fraud-alert" class="menu__link">Fraud Alert</a></li>
+<li class="menu__item is-leaf leaf"><a href="/terms-use" class="menu__link">Terms of Use</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/privacy-policy" class="menu__link">Privacy Policy</a></li>
+</ul></div>  </div>
+
+</div><!-- /.block -->
+<div id="block-block-1" class="block block-block last even">
+
+      
+  <div class="block-content">
+  	 <p>The Clinton Foundation is a 501(c)(3) not-for-profit <span>organization</span></p>   </div>
+
+</div><!-- /.block -->
+  	</div>
+  </div><!-- region__footer_lower -->
+  </footer>
+
+</div>
+
+    <script src="http://www.clintonfoundation.org/files/js/js_W98HzmkYRVYxPPfgfM8W9PkhyLQvNkojmtLVMtIgNUk.js"></script>
+<script src="http://www.clintonfoundation.org/files/js/js_rnXErLSzXS2-sO_Z8faDuGrvJLUshV0rlBXt1cxAWxc.js"></script>
+<script src="http://www.clintonfoundation.org/files/js/js_EzjP8Z7OgAYA7haWGlB1WurGOy8cS9tX2PKLIHBnRzc.js"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-855260-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+  </body>
+
+</html>

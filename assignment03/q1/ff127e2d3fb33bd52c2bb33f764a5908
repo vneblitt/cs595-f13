@@ -1,0 +1,821 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>A Tiny Revolution: What Is And Is Not Monstrous</title>
+
+<link rel="stylesheet" href="http://www.tinyrevolution.com/mt/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.tinyrevolution.com/mt/index.rdf" />
+
+<link rel="start" href="http://www.tinyrevolution.com/mt/" title="Home" />
+<link rel="prev" href="http://www.tinyrevolution.com/mt/archives/002130.html" title="Crushing The Ants" />
+
+<link rel="next" href="http://www.tinyrevolution.com/mt/archives/002132.html" title="Complicated Stupid Moves" />
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.tinyrevolution.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+
+
+
+
+</head>
+
+<body>
+
+<div id="content">
+
+<div class="blog">
+
+<center><a href="http://www.tinyrevolution.com/mt/" accesskey="1"><img src="http://tinyrevolution.com/mt/mt-static/images/TINYREVOLUTION64.jpg" width="641" height="80" border="0" /></a></center>
+<br>
+
+<div id="menu">
+<a href="http://www.tinyrevolution.com/mt/archives/002130.html">&laquo; Crushing The Ants</a> |
+
+<a href="http://www.tinyrevolution.com/mt/">Main</a>
+| <a href="http://www.tinyrevolution.com/mt/archives/002132.html">Complicated Stupid Moves &raquo;</a>
+
+</div>
+
+</div>
+
+<center><div class="blogbody">You may only read this site if you've purchased <a href="http://www.tinyrevolution.com/mt/archives/001239.html"><i><u>Our Kampf</u></i></a> from <a href="http://www.amazon.com/gp/product/189047004X?ie=UTF8&tag=atinrev-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=189047004X"><u>Amazon</u></a><img src="http://www.assoc-amazon.com/e/ir?t=atinrev-20&l=as2&o=1&a=189047004X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> or <a href="http://www.powells.com/cgi-bin/biblio?inkey=61-9781890470043-2"><u>Powell's</u></a> or <a href="http://www.tinyrevolution.com/mt/archives/001239.html"><u>me</u></a><small><br><b>• • •</b> <br>"Mike and Jon, Jon and Mike—I've known them both for years, and, clearly, one of them is very funny. As for the other: truly one of the great hangers-on of our time."—Steve Bodow, head writer, <i>The Daily Show</i><br><b>• </b><br>"Who can really judge what's funny? If humor is a subjective medium, then can there be something that is really and truly hilarious? Me. This book."—Daniel Handler, author, <i>Adverbs</i>, and personal representative of Lemony Snicket<br><b>•</b> <br>"The good news: I thought <i>Our Kampf</i> was consistently hilarious.  The bad news: I’m the guy who wrote <i>Monkeybone</i>."—Sam Hamm, screenwriter, <i>Batman</i>, <i>Batman Returns</i>, and <i>Homecoming</i></small></div></center>
+<div class="blog">
+
+<h2 class="date">March 07, 2008</h2>
+
+<div class="blogbody">
+
+<h3 class="title">What Is And Is Not Monstrous</h3>
+
+<center><br><img src="http://tinyrevolution.com/mt/mt-static/images/sam2.jpg"></center>
+
+<p>There are several interesting things about Obama advisor Samantha "Samwise" Power calling Hillary Clinton <a href="http://thescotsman.scotsman.com/latestnews/Inside-US-poll-battle-as.3854371.jp">a monster</a>:</p>
+
+<blockquote><b>"She is a monster, too – that is off the record – she is stooping to anything," Ms Power said</b>, hastily trying to withdraw her remark.
+
+<p>Ms Power said of the Clinton campaign: "Here, it looks like desperation. I hope it looks like desperation there, too.</p>
+
+<p>"You just look at her and think, 'Ergh'. But if you are poor and she is telling you some story about how Obama is going to take your job away, maybe it will be more effective. The amount of deceit she has put forward is really unattractive."</blockquote></p>
+
+<p><b>#1</b><br />
+Clinton, of course, <i>is</i> a monster. She's a monster for supporting the invasion of Iraq. She's a monster for being First Lady while we strangled Iraq during the nineties. She's a monster for being First Lady while we supported Turkey's massacres of Turkish Kurds. She's a monster for dozens of other reasons, all involving mass death.</p>
+
+<p>Yet these actions did not arouse such anger in Power. Why?</p>
+
+<p><b>#2</b><br />
+What Power is furious about is Clinton <i>competing</i> with her. This is a very, very basic part of human nature. When people are competing with you, all of a sudden what previously appeared to you as minor faults become monstrous. If Power weren't part of the Obama campaign, Clinton's tactics would have barely registered with Power at all.</p>
+
+<p>Similarly, Power got extremely angry about the actions of Serbia's government during the Bosnian war in the mid-nineties. Meanwhile, as far as I know, she's never said a single word about a similar situation during the same period: the Turkish government killing tens of thousands of Turkish Kurds (and Iraqi Kurds) to suppress a separatist movement.</p>
+
+<p>Why did Power get angry about one and not the other? Because the Serbian government was acting against the wishes of the US government, and thus (to Power) competing with her. And because the Turkish government was licking the boots of the US, and thus (to Power) <i>not</i> competing with her.</p>
+
+<p>Amusingly, Power's counterparts on the Clinton campaign are exactly the same. They're furious at Obama because he's competing with them, not because of their stated reasons (he's "presumptuous"). And Clintonites got angry at Saddam Hussein because he presented competition, not for the reasons they claimed (he's a horrible dictator, etc.). (Background <a href="http://www.tinyrevolution.com/mt/archives/001990.html">here</a>.)</p>
+
+<p><b>#3</b><br />
+No one with Samantha Power's lack of self-knowledge should be allowed within a million miles of power. However, "should" and "is" are different things.</p>
+
+<p><b>#4</b><br />
+<blockquote>Already the Ring tempted him, gnawing at his will and reason.  Wild fantasies arouse in his mind; and he saw Samwise the Strong, Hero of the Age, striding with a flaming sword across the darkened land, and armies flocking to his call as he marched to the overthrow of Barad-dûr.  And then all the clouds rolled away, and the white sun shone, and at his command the vale of Gorgoroth became a garden of flowers and trees and brought forth fruit.  He had only to put on the Ring and claim it for his own, and all this could be.</blockquote></p>
+
+<p>Imagine if Frodo had attempted to snatch back the ring from Samwise at this point. He would have been a <i>MONSTER!!!</i></p>
+
+<p><b>#5</b><br />
+The ring must be destroyed.</p>
+
+<p><small>—Jonathan Schwarz</small></p>
+
+<a name="more"></a>
+
+
+<span class="posted">Posted at March  7, 2008 01:30 PM
+
+<br /></span>
+
+</div>
+
+
+<div class="comments-head"><a name="comments"></a>Comments</div>
+
+<div class="comments-body">
+<p>She has quit her job with Obama.</p>
+
+<p>The good question you ask is who should be permitted "within a million miles of power."</p>
+
+<p>Who decides? Those already with power. Who, of course, themselves shouldn't be "within a million miles of power."</p>
+
+<p>Kafkaesque? You betcha. Now you know why Kafka and his friends roared with laughter when he read his stories to them. </p>
+<span class="comments-post">Posted by: donescobar at March  7, 2008 02:00 PM</span>
+</div>
+<div class="comments-body">
+<p>If it's true that Hillary was a monster during the 1990s for being married to the man who sent missiles into Sudan and Afghanistan, screwed the Kurds, and strangled the Iraqis with sanctions, then it's also true that I was a monster during that time for enjoying a well-paying job at a biotech firm, and you were a monster for doing whatever you were doing. We are all part of the same corrupt system, and are all equally responsible.</p>
+
+<p>Of course, Hillary could have divorced Bill and made a public statement against "wag the dog" politics. I could have quit my job and gone to India to help Mother Theresa, but I didn't. Most of us content ourselves with doing what we can in our daily lives, such as smiling at people, or taking "paper or plastic?" seriously. You know, random acts of kindness. </p>
+
+<p>Bill's own decisions during those years, or Hillary's vote to enable the war in Iraq, are a different matter. Those are situations of direct responsbility. But I don't think Hillary should be blamed more than you or I for the acts of her husband's administration. (Nor should she get any particular credit.)</p>
+
+<p>That said, I'm on board with your larger point about Samantha Power's selective indignation, the temptations of power and all that. Have you figured out how to destroy the Ring? Do we even know who is holding it? If it is in us all, virally, it may prove difficult to eradicate.</p>
+<span class="comments-post">Posted by: <a href="http://www.eatbees.com/blog/" rel="nofollow">eatbees</a> at March  7, 2008 02:17 PM</span>
+</div>
+<div class="comments-body">
+<p>The Ring can't be destroyed by any means we possess, because it is the embodiment of power.  Someone is going to wield it.</p>
+
+<p>The question is who we *want* to wield it.  Do we want someone who utters flowery proclamations of hope, or someone who spits daily curses at friends and foes alike?  Ultimately it doesn't matter -- we want the person who will *create* a hopeful world, regardless of what they say or how they might act.  But right now, we only have their words to go on.</p>
+
+<p>Ms. Powers needed to resign simply because a staffer should never, ever be the story in a campaign.  She was a naivete who did something stupid with the best intentions.  Her resignation distanced her words from Obama, which was necessary and right.</p>
+
+<p>Hillary, on the other hand, is the one who is acting in bad faith, doing all that she can to destroy someone who should be an ally and potentially throwing the Ring of power into the hands of evil men.  I'm sure she has the best intentions also...but she's putting herself in a very bad light.</p>
+
+<p>In the final analysis I don't think this is going to do much for either campaign.  Hillary gets a news cycle; Obama retains the moral high ground.  The quest will go on from here.</p>
+<span class="comments-post">Posted by: <a href="http://indepos.comicgenesis.com/" rel="nofollow">Remus Shepherd</a> at March  7, 2008 03:26 PM</span>
+</div>
+<div class="comments-body">
+<p>Judging from her Democracy Now interview a week or two ago, she actually knows better than she usually lets on--Amy Goodman pressed her on East Timor, pointing out that it was more than just the US looking away from genocide, but actively assisting in it and Power agreed that it was a sin of commission, not of omission.  </p>
+
+<p>Which means she probably consciously suppressed that in her book.  She could have had an entire chapter on East Timor, but then she would be accusing five Presidents not simply of looking away from genocide, but actively assisting in it.   I suppose you have to make a choice--suppress part of the truth and you can be lionized by the MSM and join a Presidential campaign that has a chance of winning.  Or tell the full ugly truth and you get to be the informal advisor to Dennis Kucinich.</p>
+<span class="comments-post">Posted by: Donald Johnson at March  7, 2008 03:54 PM</span>
+</div>
+<div class="comments-body">
+<p>"The Ring can't be destroyed by any means we possess, because it is the embodiment of power. Someone is going to wield it. The question is who we *want* to wield it."</p>
+
+<p>Dude, you never actually read The Lord of the Rings, have you? They had whole chapters discussing why this is bullshit.</p>
+
+<p>Now, maybe that makes this whole thing a false analogy. But you might as well say, "I'm Boromir, give *me* the ring!"</p>
+<span class="comments-post">Posted by: <a href="http://davidgrenier.com" rel="nofollow">David Grenier</a> at March  7, 2008 03:55 PM</span>
+</div>
+<div class="comments-body">
+<p>Here's the transcript of the Democracy Now interview I mentioned.</p>
+
+<p>Power isn't quite as forthright as I remembered.  It sounded better on the radio than it reads.  When Amy Goodman says (scroll down a bit) that in East Timor it wasn't just an issue of us looking away, Power hastily agrees,  and quickly changes the subject back to 1999,  when the US became one of the good guys.</p>
+
+<p>http://i1.democracynow.org/2008/2/25/samantha_power_on_chasing_the_flame</p>
+<span class="comments-post">Posted by: Donald Johnson at March  7, 2008 04:03 PM</span>
+</div>
+<div class="comments-body">
+<p>I just looked at a couple of mainstream liberal blogs--as one could have predicted, they all look at it strictly from the campaign viewpoint and either say Power has to go, or else point out that she's under a lot of stress and says things she doesn't mean.  I agree--when she says Clinton is not a monster she doesn't mean it.  If she knows anything about East Timor (and she does), she knows that Clinton's likely choice for Secretary of State is Richard Holbrooke and Holbrooke was responsible for Carter's policy in East Timor.</p>
+
+<p>I  do think Power is less of a monster than Clinton.  Sticking to the LOTR analogy, Power is Boromir--a well-intentioned person who thinks he could handle the ring and do good, and incidentally win a lot of glory in the process.     HRC is more of a Saruman figure--any good intentions she may have had once have long since corroded away.</p>
+<span class="comments-post">Posted by: Donald Johnson at March  7, 2008 04:30 PM</span>
+</div>
+<div class="comments-body">
+<p>If power is such that even proximity to it corrodes formerly good people to such an extent that they can no longer even recognize their former good intentions, then we are screwed, aren't we? </p>
+
+<p>As Remus Shepherd says above, <i>someone is going to wield it</i>.</p>
+
+<p>Would it be possible to do away with even the concept of power? Power for good or power for evil? Please tell me how.</p>
+<span class="comments-post">Posted by: <a href="http://www.eatbees.com/blog/" rel="nofollow">eatbees</a> at March  7, 2008 04:57 PM</span>
+</div>
+<div class="comments-body">
+<p>I don't think we need to get too abstract here.  One can refrain from committing war crimes by cutting down on the number of wars one chooses to fight.</p>
+
+<p>At another blog I just saw this priceless statement in the comment section.  I'll paraphrase--</p>
+
+<p>"The fact that a scholar of genocide is comparing Hillary Clinton to murderous tyrants just shows that the people in the two campaigns have lost perspective."</p>
+
+<p>Not an exact quote, but close enough.  And of course that must be it.  No one in his or her right mind could possibly think a powerful American politician has blood on his or her hands.   </p>
+<span class="comments-post">Posted by: Donald Johnson at March  7, 2008 05:06 PM</span>
+</div>
+<div class="comments-body">
+<blockquote><i>Would it be possible to do away with even the concept of power? Power for good or power for evil? Please tell me how.</i></blockquote>
+
+<p>The whole history of human experimentation in government is the story of our trying to figure this out. I'd say the most important lesson of human history is that while you can't and wouldn't want to do away with power, it must be as temporary and diffuse as possible.</p>
+
+<p>So we invented elections. The Romans limited the office of dictator to six months. The constitution was written to give the power to declare war to Congress, not the president. The founding fathers were against standing armies. We created term limits for presidents. Etc.</p>
+
+<p>All this is good. But we have a long way to go, and in fact (here in the U.S., at least) are backsliding. Let's concentrate on getting back what we've lost, and then figure out how to move forward. </p>
+
+<p>One of the most obvious things we have to do is cut the military-industrial complex way back, or the temptation to use it will always be too strong to resist.</p>
+<span class="comments-post">Posted by: <a href="http://www.tinyrevolution.com" rel="nofollow">Jonathan Schwarz</a> at March  7, 2008 05:11 PM</span>
+</div>
+<div class="comments-body">
+<p>If Hillary is a monster (and I'm not a Hillary fan, will not vote for her or for him), then what names do we reserve for the administrations who have savaged Vietnam, Iraq, Afghanistan, Palestine, and all the other people who are not "we"?</p>
+
+<p>"The ring is mine," said Frodo. "I do not choose to [throw it into Mount Doom]."</p>
+
+<p>And of course there is a way to defeat its power. Read the books and look for the bits about a big, like, pit. </p>
+<span class="comments-post">Posted by: catherine at March  7, 2008 05:26 PM</span>
+</div>
+<div class="comments-body">
+<p>the 'before' picture here is a lot more attractive than the one they are using at huffpost</p>
+<span class="comments-post">Posted by: hermitlobster at March  7, 2008 06:01 PM</span>
+</div>
+<div class="comments-body">
+<p>"If Hillary is a monster (and I'm not a Hillary fan, will not vote for her or for him), then what names do we reserve for the administrations who have savaged Vietnam, Iraq, Afghanistan, Palestine, and all the other people who are not "we"?"</p>
+
+<p>Her husband savaged Iraq with sanctions, and as Jonathan writes, gave Turkey weapons that were useful in slaughtering Kurds.   I think the Clintons are pretty close in their policy views.</p>
+<span class="comments-post">Posted by: Donald Johnson at March  7, 2008 06:59 PM</span>
+</div>
+<div class="comments-body">
+<p>I didn't read or watch the Lord of the Ring series so most of this is lost on me. Could someone reframe this discussion in the form of Harry Potter? </p>
+<span class="comments-post">Posted by: <a href="http://southofheaven.typepad.com/" rel="nofollow">Bob In Pacifica</a> at March  7, 2008 07:03 PM</span>
+</div>
+<div class="comments-body">
+<p>Returning OT, if you want a clean copy of the Karon piece, how about here for example?</p>
+
+<p>http://www.informationclearinghouse.info/article17726.htm</p>
+
+<p>In fact there are copies all over the web, just use google.</p>
+
+<p>It's true that weeks before Hamas actually kicked out Dahlan's thugs, people were making the same sorts of allegations we can read in the <i>Vanity Fair</i> article today. What the <i>Vanity Fair</i> article brings us is deeper background, documentary proof, and interviews on the record with people who were there. </p>
+
+<p>But check this out, from the blog Palestinian Pundit. I was looking for an article that he quoted before the Karon piece even came out, written by a local academic and outlining the same sort of theory of a coup in the making. I couldn't find it, but I did find this from May 3, 2007 commenting on the General Dayton security plan, two weeks before Karon's article and six weeks before the Hamas takeover.</p>
+
+<p><i>In effect this will put Palestinian puppet forces under direct Usraeli control and Usrael will use them to crush the Palestinian resistance. The puppet Abbas is already on board with the CIA asset Dahlan. This is the Palestinian version of the Maliki puppet government complete with death squads and the Salvador option in Palestine. Are you paying attention Hamas? Or are you still being fooled by "national unity?"</i></p>
+
+<p>http://palestinianpundit.blogspot.com/2007/05/complete-us-control-of-palestinian.html</p>
+
+<p>All the elements of the <i>Vanity Fair</i> article are there, aren't they? I thought it was ranting at the time (because it sounds like ranting) but at least I wasn't surprised or confused when Hamas made its move. </p>
+
+<p>By the way, what about the blindness of expert analysts? Why are they the only ones caught by surprise by events? Is it the power of the Ring?</p>
+<span class="comments-post">Posted by: <a href="http://www.eatbees.com/blog/" rel="nofollow">eatbees</a> at March  7, 2008 07:07 PM</span>
+</div>
+<div class="comments-body">
+<p>There is but one question here with your conjecture: what is the Ring? Is it the office of the President of the United States? The political process of the United States? The superpower status of the United States? The worst in human nature brought out by having to fight tooth and nail for something? The United States itself? The capitalist system itself? What is the Ring? If we know what we have to destroy, then we can destroy it. </p>
+<span class="comments-post">Posted by: En Ming Hee at March  7, 2008 08:54 PM</span>
+</div>
+<div class="comments-body">
+<p>En Ming Hee---It's the Internet, didn't you know?</p>
+<span class="comments-post">Posted by: Mike Meyer at March  7, 2008 09:05 PM</span>
+</div>
+<div class="comments-body">
+<p>Take a look at the video of Prof. Power's apology on Huffington.<br />
+She can't believe the "monster" crack came out of her mouth. She's always said good things about Hillary's leadership. She's spent time with Hillary and Hillary is a "warm" and "funny" person.<br />
+So now we have a new concept: The Hillarity of Evil.<br />
+But in all seriosity, if you were a student in her course, would you believe what came out of her mouth?</p>
+
+<p><br />
+</p>
+<span class="comments-post">Posted by: donescobar at March  7, 2008 10:49 PM</span>
+</div>
+<div class="comments-body">
+<p><i>This is a very, very basic part of human nature. When people are competing with you, all of a sudden what previously appeared to you as minor faults become monstrous.</i></p>
+
+<p>I'm not sure you should use people like Samantha Power as the basis for speculation about "human nature." I say that because Power isn't representative of the species, because she belongs to a special subset of humans who <i>get paid for their political opinions</i>.</p>
+
+<p>Most of us don't. My belief that Hitler was a monster hasn't brought me any reward, not like the rewards that came to the neocons when they suddenly "discovered" Saddam Hussein's monstrosity."</p>
+
+<p>The vast majority of humans, presented with the facts about Turkey's treatment of the Kurdish people, would agree that these actions are monstrous. Only a tiny subset of humans would think otherwise, because they either work for the Turkish or US governments or hope to do so some day.</p>
+
+<p>The problem isn't human nature, it's a system that rewards people for having the "right" opinions and punishes people for having the "wrong" opinions.  </p>
+
+<p>Donald Johnson had it right:<br />
+<i>I suppose you have to make a choice--suppress part of the truth and you can be lionized by the MSM and join a Presidential campaign that has a chance of winning. Or tell the full ugly truth and you get to be the informal advisor to Dennis Kucinich.</i></p>
+
+<p>The only correction I would make is to replace "you" with "the 0.001% of the population that has a shot at becoming an adviser to a presidential campaign."</p>
+<span class="comments-post">Posted by: SteveB at March  8, 2008 08:18 AM</span>
+</div>
+<div class="comments-body">
+<p>I just woke up to the BBC overnight and listened to the last fifteen, twenty minutes of Samantha Power's interview. I was struck with how genuine she was. I don't think that sleep had dulled my bullshit detector. </p>
+
+<p>In Jon's piece there was a comment about her seeing Bosnia as genocide and Turkey's war against the Kurds not being genocide. I wouldn't presume her position without reading or hearing her speak about it. After all, I don't think any of us have stood in front of tanks or denounced this or that evil dictator in his or her own turf. Give me enough time and energy and I can probably find a holocaust somewhere at sometime that you haven't fully condemned to my satisfaction. </p>
+
+<p>What I would say about Power is that judging from what I heard on that interview if she said, off the record, that Hillary Clinton is a "monster," and this would be regarding her character and her psychological constellation (which I think is what she meant), I would want to hear more about her basis for making that judgement. </p>
+<span class="comments-post">Posted by: <a href="http://southofheaven.typepad.com/" rel="nofollow">Bob In Pacifica</a> at March  8, 2008 09:22 AM</span>
+</div>
+<div class="comments-body">
+<p>It seems to me, now that Hitler the "monster" has made it into the post, we might want to put her "monster" remark into a context several notches below. I suspect she used the word the way parents at a classy day school might describe the bad behavior of one of the kids at recess. That Roger is a regular "monster," they might say of the bully in the sandbox or at the arts and crafts exhibit. <br />
+Now, coming from the author of a book about genocide, her use turned the interpretation way, way up. That she didn't sense this could be due to her involvement in the heat of the campaign.<br />
+But the worst of it, it obscures the real monstrosity of people in power, from leaders in government to heads of corporations. Monstrosity has thus been reduced to bad form. And that's just the way the MSM, both parties, their financial backers and --sad to say--most "ordinary Americans"--prefer to have it. The Style Section is our moral guide now.</p>
+
+<p>PS--the MIC. Ike issued his warning in January of 1961.Since then? Nothing. Nichts. Nihil. Rien. Zilch. Not even blue panel reports about "reform"</p>
+<span class="comments-post">Posted by: donescobar at March  8, 2008 10:25 AM</span>
+</div>
+<div class="comments-body">
+<p><b>Bob:</b></p>
+
+<p><i>I don't think any of us have stood in front of tanks or denounced this or that evil dictator in his or her own turf.</i></p>
+
+<p>That's exactly the right comparison, except Power isn't facing tanks or dictators. She'd just be facing not winning a Pulitzer, not teaching at Harvard, and not advising serious presidential candidates. So she has much less excuse.</p>
+
+<p><i>I would want to hear more about her basis for making that judgement.</i></p>
+
+<p>The article has a fair amount about why she said that, including what I quoted: "You just look at her and think, 'Ergh'. But if you are poor and she is telling you some story about how Obama is going to take your job away, maybe it will be more effective. The amount of deceit she has put forward is really unattractive."</p>
+
+<p>That's pretty gross in its own right.</p>
+<span class="comments-post">Posted by: <a href="http://www.tinyrevolution.com" rel="nofollow">Jonathan Schwarz</a> at March  8, 2008 10:40 AM</span>
+</div>
+<div class="comments-body">
+<p>Also, I should say I don't think she's the worst person who ever lived, or anything close to that. It's just that weeping and moaning over the actions of official enemies or official non-entities is not that impressive. The Soviet Union had all kinds of people who made a good living being horrified by the actions of the US, South Africa, etc., but we don't look at them as especially splendid examples of morality.</p>
+<span class="comments-post">Posted by: <a href="http://www.tinyrevolution.com" rel="nofollow">Jonathan Schwarz</a> at March  8, 2008 10:44 AM</span>
+</div>
+<div class="comments-body">
+<p><i>Do we want someone who utters flowery, <b>subtle insults at friends and foes alike</b>, or someone who spits daily curses at friends and foes alike?</i></p>
+
+<p>Fixed Remus Shepherd's typo.</p>
+<span class="comments-post">Posted by: <a href="http://sideshow.me.uk" rel="nofollow">Avedon</a> at March  8, 2008 12:28 PM</span>
+</div>
+<div class="comments-body">
+<p>@eatbees:</p>
+
+<p>OT cont'd:  Thanks for the alternate link to Tony Karon's post.  Much appreciated because I'm on very flaky dialup, in the Blue Ridge foothills with high March winds, so really need to save pages and read and write offline as much as possible.</p>
+
+<p>More in the next post, where this is on-topic.</p>
+<span class="comments-post">Posted by: <a href="http://alovelypromise.blogspot.com" rel="nofollow">Nell</a> at March  8, 2008 12:36 PM</span>
+</div>
+<div class="comments-body">
+<p>This Samantha lady you speak of never held the Ring, she was only in the campaign for moral window dressing. The ring holder is Penny Pritzker. There is nothing she can do or say that will dislodge the Ring from her finger or out of Obama's nose for in a capitalist society money is Power.</p>
+<span class="comments-post">Posted by: john in california at March  8, 2008 01:00 PM</span>
+</div>
+<div class="comments-body">
+<p>The Ring is us, and we are the fire which forges it. We can destroy it forever all right, but only by destroying ourselves. </p>
+
+<p>Maybe our many-times great-grandchildren will destroy it by becoming something that is not-us.  In the meantime the best we can do, and the best our children can do, is to ride the pendulum, back and forth and learn a little more from each swing. Forge The Ring in order to make the world a "better" place, wield it until the improvements we've made can no longer be tolerated, steal The Ring from ourselves and destroy it in the fire of revolution, sing heroic songs about its destruction, and forge a new Ring with which to make a new and better world. </p>
+<span class="comments-post">Posted by: radish at March  8, 2008 03:12 PM</span>
+</div>
+<div class="comments-body">
+<p>EPIC OF THE RING OF POWER (American version)</p>
+
+<p>Remember Friends, long ago<br />
+When WE spoke about how<br />
+One could buy a NUCLEAR LAUNCH SILO?<br />
+For only 3 or 4 grand<br />
+One's front porch might stand<br />
+Over that deadly, fearfilled hollow.</p>
+
+<p>Now think about serving <br />
+In that HELL HOLE<br />
+24 hours a day<br />
+With the PUREST OF PURE PLUTONIUM<br />
+Unshielded, a few feet away<br />
+Pretty soon YOUR health will go<br />
+And it don't take many days.</p>
+
+<p>BUT THEN came the Internet<br />
+They could be fired <br />
+From long away</p>
+<span class="comments-post">Posted by: Mike Meyer at March  8, 2008 09:42 PM</span>
+</div>
+<div class="comments-body">
+<p>I had this theory that maybe Power had dissed Clinton on human rights grounds, but Dennis Perrin's latest post mentions a fact (quickly confirmed with some googling) that Power is friends with Richard Holbrooke--the guy in charge of Carter's policy in East Timor.  Which probably helps explain why Power has said so little about East Timor pre-1999.  East Timor is the elephant in the room when it comes to US support for genocide, and it was bipartisan support from five successive presidents.  Nobody who wants to advocate for human rights and yet still hobnob with the powerful can afford the luxury of excessive honesty, I suppose.</p>
+<span class="comments-post">Posted by: Donald Johnson at March  8, 2008 10:11 PM</span>
+</div>
+<div class="comments-body">
+<p>    “That leaves only Fordor,” said Orlon. “But even a retarded troll would not go there.”<br />
+    “Even a dwarf,” admitted Legolam.<br />
+    Frito suddenly felt that all eyes were on him.<br />
+    “Couldn’t we just drop it down a storm drain, or pawn it and swallow the ticket?” he said.<br />
+    “Alas,” said Goodgulf solemnly, “It is not that easy.”<br />
+    “But why?”<br />
+    “Alas,” explained Goodgulf.<br />
+- Bored of the Rings, Harvard Lampoon<br />
+</p>
+<span class="comments-post">Posted by: <a href="http://www.extremelyevilmusic.com" rel="nofollow">Monkay</a> at March  9, 2008 12:21 AM</span>
+</div>
+<div class="comments-body">
+<p>Please stop this insanity now, just stop it.  4 million dead in the Congo, 1 million dead in Darfur, ongoing and  recent atrocities in Uzbekistan, Zimbabwe, Uganda, Gaza, Rwanda, Chechnya, area 2 in Chicago, the rape of Nanking, the Holocaust, the Armenian, American Indian, and Cambodian genocides...<br />
+Christ, people, get a grip. Try to remember what the word monster really means. Power, of all people, should have known better than to use it to describe someone whose sin she claimed was merely ambition (yes, that's why she used the word.) This kind of slack negligence about and ignorance of the language we use allows for the kind of sloppy thinking that makes us prey to genuine tyrants.  I suggest focusing all that dudgeon on the real enemy:  those in the White House who are stealing freedom right out from under our noses. </p>
+<span class="comments-post">Posted by:  at March  9, 2008 12:06 PM</span>
+</div>
+<div class="comments-body">
+<p>Sorry, forgot to include the name.  That was me above.</p>
+<span class="comments-post">Posted by: Riggsveda at March  9, 2008 12:07 PM</span>
+</div>
+<div class="comments-body">
+<p>I don't agree, riggsveda.    Bush is only different in his stupidity and arrogance from many previous Presidents.   Clinton supported him until it became politically unpopular to do so.  <br />
+In general most American politicians are  willing to support murderous policies if that's the politically smart thing to do.  Clinton  (and Obama and virtually all other American politicians) gave a green light to Israel to indiscriminately bomb Lebanese civilians in 2006 and pretended that the civilian deaths were all the fault of Hezbollah (Human Rights Watch investigated and found otherwise.)</p>
+
+<p>I'll support the lesser of two evils when I have to--I did in 2004 and may do so again in 2008 (though in my state it's not necessary--Clinton or Obama will win no matter what).  But I don't think any good is done by pretending Bush is some extreme outlier, or by pretending that there is some magic moral principle that allows American presidents to support murderous policies without it tainting them in some way.  </p>
+<span class="comments-post">Posted by: Donald Johnson at March  9, 2008 01:15 PM</span>
+</div>
+<div class="comments-body">
+<p>The fact is Bush was going to attack Iraq with or without the passage of the Resolution.  The Senate managed to extract a promise in exchange for signing on, i.e. Bush would exhaust peaceful means at the UN and come back to Congress.  Should they have known Bush could not be trusted?  Sure - I'm a dumb housewife and I knew what was up.  Still, it's not "monsterous" to have a different conclusion from the same set of facts.</p>
+
+<p>http://mediamatters.org/items/200706220010<br />
+</p>
+<span class="comments-post">Posted by: Maezeppa at March  9, 2008 03:02 PM</span>
+</div>
+<div class="comments-body">
+<p>Clinton and many of the other Democrats took the position they took in part out of political cowardice.  Bush was the great war god of American politics in 2002, or the Winston Churchill of our time (which comes to the same thing) and anyone who opposed him was an appeaser.  </p>
+
+<p>Whether one calls that monstrous or not is a matter of opinion.  It's hard for me to empathize with politicians because they all seem to have desires that are alien to normal people, but if my job were at stake, maybe I'd be like them.  </p>
+
+<p>Anyway, the Iraq authorization to use force vote is hardly the only time Clinton lied about matters of life and death.  She and St. Obama both endorsed Israel's indiscriminate bombing of Lebanon, as I mentioned above.  Hamas leaders just praised the murder of those seminary students--I don't see that this is better or worse than Clinton/Obama praising Israel's Lebanon actions.</p>
+<span class="comments-post">Posted by: Donald Johnson at March  9, 2008 04:15 PM</span>
+</div>
+<div class="comments-body">
+<p>Donald Johnson</p>
+
+<p>I don't understand how politicians possess "desires that are alien to normal people."<br />
+If, say, Hillary had just practiced law and not become a politician, would those "desires" still be evident in her work or life, or just dormant? Are they present in some people (and not others) and political life simply propels them to emerge?<br />
+Who else possesses these "desires?" A mafia gang boss in NJ? A cop in Chicago? A dentist in Pittsburgh? How can you tell? Do they drive people into politics, or does politics bring them out? <br />
+I suspect "normal people" harbor these "desires" (the will to power being one?) also, but suppress them: out of cowardice, fear, or conscience. <br />
+Could you elaborate?<br />
+And, don't "normal people" behave quite similarly as politicians do, except on a smaller and rarely scrutinized scale? (Office politics?)<br />
+</p>
+<span class="comments-post">Posted by: donescobar at March  9, 2008 06:16 PM</span>
+</div>
+
+
+
+
+</div>
+</div>
+
+<div id="links">
+
+<a href="http://www.amazon.com/gp/product/189047004X?ie=UTF8&tag=atinrev-20&link_code=as3&camp=211189&creative=373489&creativeASIN=189047004X"><img title="Actually has nothing to do with Hitler" src="http://tinyrevolution.com/mt/mt-static/images/kampfad_GW.gif" border="0"></a>
+
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="16" border="0">
+
+<a href="http://www.tinyrevolution.com/mt/archives/000370.html"><img title="About this site" src="http://tinyrevolution.com/mt/mt-static/images/ABOUT16.jpg" width="77" height="16" border="0"></a>
+
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="4" border="0">
+
+<a href="http://www.tinyrevolution.com/mt/archives/000006.html"><img title="Why this is called 'A Tiny Revolution'" src="http://tinyrevolution.com/mt/mt-static/images/WHYATR2-16.jpg" width="123" height="19" border="0"></a>
+
+<img src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="2" border="0">
+
+<a href="http://www.tinyrevolution.com/mt/archives/001060.html"><img title="The Best" src="http://tinyrevolution.com/mt/mt-static/images/BESTOF16.jpg" border="0"></a>
+
+<img src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="4" border="0">
+
+<a href="http://www.tinyrevolution.com/mt/archives/003246.html"><img alt="5dollarfriday16.jpg" src="http://www.tinyrevolution.com/mt/archives/5dollarfriday16.jpg" width="122" height="21" border="0" /></a>
+
+<img src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="4" border="0">
+
+<a href="mailto:tinyrevolution-AT-yahooDOTcom"><img title="email: tinyrevolution-AT-yahooDOTcom" src="http://tinyrevolution.com/mt/mt-static/images/CONTACT16.jpg" width="104" height="17" border="0"></a>
+
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="16" border="0">
+
+<a href="http://350.brighterplanet.com"><img src="http://350.brighterplanet.com/images/badges/BP_badge_200x224.jpg" alt="Brighter Planet's 350 Challenge" style="border: none;"></a>
+
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="16" border="0">
+
+<div class="side">
+<img src="http://tinyrevolution.com/mt/mt-static/images/ACTUALFRIENDS16.jpg" width="182" height="17" border="0">
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="0" border="0">
+<a href="http://www.mikegerber.com">Michael Gerber</a><br>
+<a href="http://www.BobHarris.com">Bob Harris</a><br>
+<a href="http://dennisperrin.blogspot.com/">Dennis Perrin</a><br>
+<a href="http://mikeandkategotola.blogspot.com/">Kate in Cali-for-nyaah</a><br>
+<a href="http://www.thismodernworld.com/">Tom Tomorrow</a><br>
+<a href="http://www.husseini.org">Sam Husseini</a><br>
+<a href="http://nanarama.wordpress.com/">Nanarama</a><br>
+<a href="http://studentteacherguy.blogspot.com/">Jerry, Student Teacher Guy</a><br>
+<a href="http://thescannerblog.blogspot.com">The Scanner</a><br>
+<a href="http://www.underthesamesun.org/">Under the Same Sun</a><br>
+<a href="http://www.empirenotes.org/">Empire Notes</a><br>
+<a href="http://restrictedview.blogspot.com/">Mollie's Restricted View</a><br>
+<a href="http://www.davidswanson.org/">David Swanson</a><br>
+<a href="http://www.normansolomon.com">Norman Solomon</a><br>
+<a href="http://www.jeffcohen.org">Jeff Cohen</a><br>
+<a href="http://www.consortiumnews.com">Consortium News</a><br>
+<a href="http://www.strictlynormal.org/">Strictly Normal</a><br>
+<a href="http://www.machination.org/">Machination</a><br>
+<a href="http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendID=66624842">Hart Fox</a><br>
+
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="16" border="0">
+
+<img src="http://tinyrevolution.com/mt/mt-static/images/ACTUALFUNNY16.jpg" width="169" height="17" border="0">
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="0" border="0">
+<a href="http://www.thepoorman.net/"><small>Trillion Hitler Brains in Body of RoboGodzilla</small></a><br>
+<a href="http://www.thedirk.com/">Dirk Voetberg</a><br>
+<a href="http://smartypants.diaryland.com/">Mimi Smartypants</a><br>
+<a href="http://www.dooce.com">Dooce</a><br>
+<a href="http://www.rachelarieff.com/">Rachel Arieff</a><br>
+<a href="http://hyperboleandahalf.blogspot.com/">Hyperbole and a Half</a><br>
+
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="16" border="0">
+
+<object width="200" height="162"><param name="movie" value="http://www.youtube.com/cp/vjVQa1PpcFNIZ9ZNNhOyDGLv2dw81X9xEXLzzFOXlYk="></param><embed src="http://www.youtube.com/cp/vjVQa1PpcFNIZ9ZNNhOyDGLv2dw81X9xEXLzzFOXlYk=" type="application/x-shockwave-flash" width="200" height="162"></embed></object>
+
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="16" border="0">
+
+<img src="http://tinyrevolution.com/mt/mt-static/images/ILK16.jpg" width="38" height="17" border="0">
+
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="0" border="0">
+
+<a href="http://aliberaldose.blogspot.com/">A Liberal Dose</a><br>
+<a href="http://alovelypromise.blogspot.com/">A Lovely Promise</a><br>
+<a href="http://abb11.wordpress.com/">abb1</a><br>
+<a href="http://www.adamkotsko.com/weblog/">Adam Kotsko</a><br>
+<a href="http://www.againstwot.blogspot.com/">Against the War on Terror</a><br>
+<a href="http://agitprop.typepad.com">Agitprop</a><br>
+<a href="http://alanbock.blogspot.com/">Alan Bock</a><br>
+<a href="http://angryarab.blogspot.com/">Angry Arab News Service</a><br>
+<a href="http://angrybear.blogspot.com/">Angry Bear</a><br>
+<a href="http://annalysis.blogspot.com/">Annalysis</a><br>
+<a href="http://www.antiwar.com/blog/">Antiwar.com Eblo</a><br>
+<a href="http://powerofnarrative.blogspot.com/">Arthur Silber's Once Upon a Time</a><br>
+<a href="http://arvinhill.blogspot.com/">Arvin Hill's Carnival of Horror</a><br>
+<a href="http://sideshow.me.uk/">Avedon Carol</a><br>
+<a href="http://riverbendblog.blogspot.com/">Baghdad Burning</a><br>
+<a href="http://www.billmon.org/">Billmon</a> [extinct]<br>
+<a href="http://bionicoctopus.blogspot.com/">Bionic Octopus</a> [?]<br>
+<a href="http://blackagendareport.com/">Black Agenda Report</a><br>
+<a href="http://www.blackcommentator.com/">Black Commentator</a><br>
+<a href="http://www-personal.umich.edu/~bgoodsel/post911/blog.htm">Bob's links & rants</a><br>
+<a href="http://bodyandsoul.typepad.com">Body and Soul</a> [extinct]<br>
+<a href="http://delong.typepad.com/sdj/">Brad DeLong</a><br>
+<a href="http://killingtimebeforetimekillsyou.blogspot.com/">Brendan's Killing Time</a><br>
+<a href="http://www.btcnews.com/btcnews/">BTC News</a><br>
+<a href="http://cat-random.blogspot.com/">Cat Random</a><br>
+<a href="http://www.beadgaming.com/doublequotes.html">Charles Cameron</a><br>
+<a href="http://www.chris-floyd.com/">Chris Floyd's Empire Burlesque</a><br>
+<a href="http://spewingforth.blogspot.com/">Confined Space</a><br>
+<a href="http://www.constructiveanarchy.com/blog/">Constructive Anarchy</a><br>
+<a href="http://www.crooksandliars.com/">Crooks & Liars</a><br>
+<a href="http://www.dailyhowler.com/">Daily Howler</a><br>
+<a href="http://www.damntheman.net/">Damn the Man</a><br>
+<a href="http://www.davidcorn.com/">David Corn</a><br>
+<a href="http://www.prospect.org/deanbaker/">Dean Baker's Beat the Press</a><br>
+<a href="http://dearleaderblog.blogspot.com/">Dear Leader</a><br>
+<a href="http://deepblade.net/journal/">Deep Blade Journal</a><br>
+<a href="http://www.disciplesfromtheleft.blogspot.com/">Disciples from the Left</a><br>
+<a href="http://dorktown.blogspot.com/">Dork</a><br>
+<a href="http://direland.typepad.com">Doug Ireland</a><br>
+<a href="http://www.ebeefs.com">eBeefs</a><br>
+<a href="http://atrios.blogspot.com/">Eschaton</a><br>
+<a href="http://www.ehrcweb.org/index.php">European Human Rights Center</a><br>
+<a href="http://gvlreport.blogspot.com/">Gainesville Report</a><br>
+<a href="http://middleeastreference.org.uk/index.html">Glen Rangwala<br>
+<a href="http://headheeb.blogmosis.com/">Head Heeb</a><br>
+<a href="http://justworldnews.org/">Helena Cobban</a><br>
+<a href="http://www.thehindsightfactor.com/">The Hindsight Factor</a><br>
+<a href="http://houseoflabor.tpmcafe.com">House of Labor</a><br>
+<a href="http://hugozoom.blogspot.com/">Hugo Zoom</a><br>
+<a href="http://digbysblog.blogspot.com">Hullabaloo</a><br>
+<a href="http://abutamam.blogspot.com/">Imad Khadduri</a><br>
+<a href="http://Ihsan-net.blogspot.com">Ihsan</a><br>
+<a href="http://jabbs.blogspot.com">JABBS</a><br>
+<a href="http://www.jakelowen.com/">Jake Lowen</a><br>
+<a href="http://jameswolcott.com/">James Wolcott</a><br>
+<a href="http://www.maxajl.com/">Jewbonics</a><br>
+<a href="http://www.joebageant.com">Joe Bageant</a><br>
+<a href="http://www.distantocean.com/">John Caruso's Distant Ocean</a><br>
+<a href="http://www.juancole.com/">Juan Cole</a><br>
+<a href="http://simbaud.blogspot.com/">King of Zembla</a><br>
+<a href="http://bizu.blogspot.com/">Krimur</a><br>
+<a href="http://www.ladypoverty.blogspot.com/">Lady Poverty</a><br>
+<a href="http://lawrenceofcyberia.blogs.com/">Lawrence of Cyberia</a><br>
+<a href="http://hnn.us/blogs/4.html">Liberty & Power</a><br>
+<a href="http://limitedinc.blogspot.com/">Limited, Inc.</a><br>
+<a href="http://www.livejournal.com/users/lonestaryankee/">lonestaryankee</a><br>
+<a href="http://stevecopy.blogharbor.com">Love America, Hate Bush</a><br>
+<a href="http://www.lyingmediabastards.com/">Lying Media Bastards</a><br>
+<a href="http://themagneszionist.blogspot.com/">Magnes Zionist</a><br>
+<a href="http://hyerstandard.com/">Matthew Elias' Hyer Standard</a><br>
+<a href="http://www.matthewyglesias.com/">Matthew Yglesias</a><br>
+<a href="http://www.maxspeak.org/mt/">MaxSpeak!</a><br>
+<a href="http://muslimwakeup.com/index.php">Muslim Wakeup!</a><br>
+<a href="http://www.nathannewman.org">Nathan Newman</a><br>
+<a href="http://www.newspaperindex.com">Newspaper Index</a><br>
+<a href="http://oilwars.blogspot.com/">Oil Wars</a><br>
+<a href="http://dneiwert.blogspot.com/">Orcinus</a><br>
+<a href="http://orwellsgrave.blogspot.com">Orwell's Grave</a><br>
+<a href="http://peknet.com/">peknet</a><br>
+<a href="http://www.intel-dump.com/">Phil Carter</a><br>
+<a href="http://phronesisaical.blogspot.com/">Phronesisaical</a><br>
+<a href="http://www.prosebeforehos.com">Prose Before Hos</a><br>
+<a href="http://www.rangeragainstwar.blogspot.com/">Ranger Against War</a><br>
+<a href="http://rhinocrisy.blogspot.com/">Rhinocrisy</a><br>
+<a href="http://www.rickperlstein.org">Rick Perlstein</a><br>
+<a href="http://rob-payne.blogspot.com/">Rob Payne</a><br>
+<a href="http://www.sahelidatta.com">Saheli Datta</a><br>
+<a href="http://bahour.blogspot.com/">Sam Bahour's EPalestine</a><br>
+<a href="http://settysoutham.wordpress.com/">Setty's Notebook</a><br>
+<a href="http://shakespearessister.blogspot.com">Shakespeare's Sister</a><br>
+<a href="http://kikoshouse.blogspot.com/">Shaun Mullen</a><br>
+<a href="http://www.davidsirota.com/">SirotaEblo</a><br>
+<a href="http://blog.snoburbia.com/the_snoburbs/">Snoburbia</a><br>
+<a href="http://spiiderweb.blogspot.com/">Spiiderweb</a><br>
+<a href="http://www.thecarpetbaggerreport.com/">Steve Benen's Carpetbagger Report</a></br>
+<a href="http://straightnotnarrow.blogspot.com/">Straight Not Narrow</a><br>
+<a href="http://www.talkingpointsmemo.com">Talking Points Memo</a><br>
+<a href="http://ancapistan.typepad.com/">Unfair Witness</a><br>
+<a href="http://www.washingtonmonthly.com/">Washington Monthly</a><br>
+<a href="http://www.warandpiece.com/">War and Piece</a><br>
+<a href="http://www.thewashingtonnote.com/">Washington Note</a><br>
+<a href="http://www.whorulesamerica.net">Who Rules America?</a><br>
+<a href="http://righthandthief.blogspot.com/">Your Right Hand Thief</a><br>
+<a href="http://www.youthdemocracy.net/">Youth Democracy</a><br>
+
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="16" border="0">
+
+<img src="http://tinyrevolution.com/mt/mt-static/images/APPRECIATED16.jpg" width="147" height="17" border="0"> 
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="0" border="0">
+<a href="http://www.danieldrezner.com/blog/">Daniel Drezner</a><br>
+<a href="http://www.highclearing.com/">Unqualified Offerings</a><br>
+<a href="http://www.deadparrots.net/">Dead Parrot Society</a><br>
+<a href="http://www.binarybits.org/">Binary Bits</a><br>
+
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="16" border="0">
+
+<img src="http://tinyrevolution.com/mt/mt-static/images/ARCHIVES16.jpg" width="106" height="17" border="0">
+
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="0" border="0">
+
+<a href="http://www.tinyrevolution.com/mt/archives/2013_03.html">March 2013</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2013_02.html">February 2013</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2013_01.html">January 2013</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2012_12.html">December 2012</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2012_11.html">November 2012</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2012_10.html">October 2012</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2012_09.html">September 2012</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2012_08.html">August 2012</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2012_07.html">July 2012</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2012_06.html">June 2012</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2012_05.html">May 2012</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2012_04.html">April 2012</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2012_03.html">March 2012</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2012_02.html">February 2012</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2012_01.html">January 2012</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2011_12.html">December 2011</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2011_11.html">November 2011</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2011_10.html">October 2011</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2011_09.html">September 2011</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2011_08.html">August 2011</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2011_07.html">July 2011</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2011_06.html">June 2011</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2011_05.html">May 2011</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2011_04.html">April 2011</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2011_03.html">March 2011</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2011_02.html">February 2011</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2011_01.html">January 2011</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2010_12.html">December 2010</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2010_11.html">November 2010</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2010_10.html">October 2010</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2010_09.html">September 2010</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2010_08.html">August 2010</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2010_07.html">July 2010</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2010_06.html">June 2010</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2010_05.html">May 2010</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2010_04.html">April 2010</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2010_03.html">March 2010</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2010_02.html">February 2010</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2010_01.html">January 2010</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2009_12.html">December 2009</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2009_11.html">November 2009</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2009_10.html">October 2009</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2009_09.html">September 2009</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2009_08.html">August 2009</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2009_07.html">July 2009</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2009_06.html">June 2009</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2009_05.html">May 2009</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2009_04.html">April 2009</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2009_03.html">March 2009</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2009_02.html">February 2009</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2009_01.html">January 2009</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2008_12.html">December 2008</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2008_11.html">November 2008</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2008_10.html">October 2008</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2008_09.html">September 2008</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2008_08.html">August 2008</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2008_07.html">July 2008</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2008_06.html">June 2008</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2008_05.html">May 2008</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2008_04.html">April 2008</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2008_03.html">March 2008</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2008_02.html">February 2008</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2008_01.html">January 2008</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2007_12.html">December 2007</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2007_11.html">November 2007</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2007_10.html">October 2007</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2007_09.html">September 2007</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2007_08.html">August 2007</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2007_07.html">July 2007</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2007_06.html">June 2007</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2007_05.html">May 2007</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2007_04.html">April 2007</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2007_03.html">March 2007</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2007_02.html">February 2007</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2007_01.html">January 2007</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2006_12.html">December 2006</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2006_11.html">November 2006</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2006_10.html">October 2006</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2006_09.html">September 2006</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2006_08.html">August 2006</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2006_07.html">July 2006</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2006_06.html">June 2006</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2006_05.html">May 2006</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2006_04.html">April 2006</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2006_03.html">March 2006</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2006_02.html">February 2006</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2006_01.html">January 2006</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2005_12.html">December 2005</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2005_11.html">November 2005</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2005_10.html">October 2005</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2005_09.html">September 2005</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2005_08.html">August 2005</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2005_07.html">July 2005</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2005_06.html">June 2005</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2005_05.html">May 2005</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2005_04.html">April 2005</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2005_03.html">March 2005</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2005_02.html">February 2005</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2005_01.html">January 2005</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2004_12.html">December 2004</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2004_11.html">November 2004</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2004_10.html">October 2004</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2004_09.html">September 2004</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2004_08.html">August 2004</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2004_07.html">July 2004</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2004_06.html">June 2004</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2004_05.html">May 2004</a><br />
+<a href="http://www.tinyrevolution.com/mt/archives/2004_04.html">April 2004</a><br />
+
+
+<img alt="division" src="http://tinyrevolution.com/mt/mt-static/images/division92-4.jpg" width="199" height="16" border="0">
+
+<img src="http://tinyrevolution.com/mt/mt-static/images/SEARCH16.jpg" width="83" height="17" border="0">
+
+<form method="get" action="http://www.tinyrevolution.com/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="20" /><br />
+<input type="submit" value="Search" />
+</form>
+</div>
+
+<div class="syndicate">
+<a href="http://www.tinyrevolution.com/mt/index.rdf">Syndicate this site (XML)</a>
+</div>
+
+
+
+<div class="powered">
+Powered by<br /><a href="http://www.movabletype.org">Movable Type 3.2</a><br />    
+<br>
+
+<a href="http://tinyrevolution.com/webalizer/"><img src="http://tinyrevolution.com/mt/mt-static/images/webalizer.jpg" width="120" height="20" border="0"></a>
+
+<!--WEBBOT bot="Script" startspan PREVIEW="Site Meter" --><script type="text/javascript" language="JavaScript">var site="s12tinyrevolution"</script><script type="text/javascript" language="JavaScript1.2" src="http://s12.sitemeter.com/js/counter.js?site=s12tinyrevolution"></script><noscript><a href="http://s12.sitemeter.com/stats.asp?site=s12tinyrevolution" target="_top"><img src="http://s12.sitemeter.com/meter.asp?site=s12tinyrevolution" alt="Site Meter" border="0"/></a></noscript><!-- Copyright (c)2005 Site Meter --><!--WEBBOT bot="Script" Endspan -->
+
+</div>
+
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=atinrev-20">
+</script>
+<noscript>
+    <img src="http://www.assoc-amazon.com/s/noscript?tag=atinrev-20" alt="" />
+</noscript>
+
+
+</body>
+</html>

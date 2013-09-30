@@ -1,0 +1,782 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Computing @ Virginia Tech RSS" href="https://computing.vt.edu/rss.xml" />
+<link rel="shortcut icon" href="/sites/all/themes/custom/vt_hokies/favicon.ico" type="image/x-icon" />
+    <title>Computing @ Virginia Tech | Welcome to Computing @ Virginia Tech!</title>
+    <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/calendar/calendar_multiday/calendar_multiday.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/cck/theme/content-module.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/ctools/css/ctools.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/date/date.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/date/date_popup/themes/jquery.timeentry.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/filefield/filefield.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/panels/css/panels.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/cck/modules/fieldgroup/fieldgroup.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/views/css/views.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/custom_search/custom_search.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/vt_hokies/styles/vt_computing.css?y" />
+    <script type="text/javascript" src="/sites/all/modules/contrib/jquery_update/replace/jquery.min.js?y"></script>
+<script type="text/javascript" src="/misc/drupal.js?y"></script>
+<script type="text/javascript" src="/sites/all/modules/contrib/google_analytics/googleanalytics.js?y"></script>
+<script type="text/javascript" src="/sites/all/modules/contrib/panels/js/panels.js?y"></script>
+<script type="text/javascript" src="/sites/all/modules/contrib/poormanscron/poormanscron.js?y"></script>
+<script type="text/javascript" src="/sites/all/modules/contrib/custom_search/js/custom_search.js?y"></script>
+<script type="text/javascript" src="/sites/all/themes/custom/vt_hokies/scripts/scripts.js?y"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "cron": { "basePath": "/poormanscron", "runNext": 1380555657 }, "custom_search": { "form_target": "_self", "solr": 0 } });
+//--><!]]>
+</script>
+  </head>
+  <body>
+        <div id="page_background" class="vt_bg">
+    <div id="page_wrapper">
+      
+      <div id="header">
+        <a href="http://www.vt.edu/" title="Virginia Tech Home Page" id="vt_home_btn" class="tipTip_b"></a>
+        <div id="header_title">
+          
+          <span><a href="/" title="Home" class="tipTip_b">Computing @ Virginia Tech</a></span>          
+        </div>
+        <div id="header_nav">
+          
+            <div class="block block-menu" id="block-menu-menu-header-nav">
+    <h2 class="title"></h2>
+    <div class="content"><ul class="menu"><li class="leaf first"><a href="http://answers.vt.edu/" title="">answers</a></li>
+<li class="leaf"><a href="http://antivirus.vt.edu/" title="">antivirus</a></li>
+<li class="leaf last"><a href="http://security.vt.edu/" title="">security</a></li>
+</ul></div>
+  </div>
+          
+        </div>
+        <div id="header_search">
+          <div id="search">
+            
+            <form action="/"  accept-charset="UTF-8" method="post" id="search-theme-form" class="search-form">
+<div><input type="text" name="search_theme_form" id="edit-search-theme-form-1" size="25" title="Enter the terms you wish to search for." class="form-text search_box" value="" />
+<input type="image" name="op" alt="Submit" src="/sites/all/themes/custom/vt_hokies/images/search_button_dark.png" id="searchsubmit" class="search_button" />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form" />
+<input type="hidden" name="form_token" id="a-unique-id" value="b7050bafe1276f47ff6dfcc0bb140d08" />
+
+</div></form>
+            
+          </div>
+          <span><a href="/search">Advanced Search</a></span>
+        </div>
+        <div id="social_icons">
+          
+          <a href="https://computing.vt.edu/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="Computing @ Virginia Tech RSS" width="16" height="16" /></a>          
+        </div>
+      </div>
+      
+      <div class="clear"></div>
+      
+      <div id="content_wrapper">
+        
+        <div class="colmask leftmenu" id="col_left">
+          <div class="colright" id="col_main">
+            <div class="col1wrap">
+              <div class="col1">
+                
+                <div id="comp_status">
+                                    <div id="comp_status_bg" class="bg_okay"></div>
+                  <div id="comp_status_shade"></div>
+                  <div id="comp_status_title">
+                    
+                    <img src="/sites/all/themes/custom/vt_hokies/images/status_okay.png" alt="okay" />
+                    
+                    <h4>Current Computing Status:</h4>
+                    
+                    <p>    
+  <span class="field-status-value">Service Normal</span>
+
+</p>
+                    
+                  </div>
+                  <div id="comp_status_msg">
+                    
+                                            
+  <span class="body">No major outages or abnormal conditions have been reported.If you are having difficulties with an Information Technology service, contact 4Help by using the Help Request Form (http://4help.vt.edu) or by calling (540)...</span>
+
+
+  <span class="view-node"><a href="/content/service-normal">view</a></span>
+
+
+  <span class="nothing"><a href="/it_status" title="View Computing Status History">Status History</a></span>
+
+
+  <span class="nothing-1"><a href="/it_status/active" title="View All Active Computing Statuses">All Active Statuses</a></span>
+
+                    
+                  </div>
+                </div>
+                
+                <div id="content_header">
+                  <div id="breadcrumbs">
+                    
+                    <span class="current">Welcome to Computing @ Virginia Tech!</span>
+                    
+                  </div>
+                  <div id="content_header_shade"></div>
+                </div>
+                
+                                
+                <div id="content_body_header" class="bg_d37a07 top_shade"><p>Welcome to the one-stop computing resource site for Virginia Tech. With Computing @ Virginia Tech, you only have to remember one address to find anything and everything about using your computer at Virginia Tech. Faculty and staff may also refer to the <a href="http://www.it.vt.edu/publications/reference-guide/IT_Brochure_2012_v2.1.pdf"> Information Technology Reference Guide</a>(PDF).</p></div>                
+                                
+                  <div id="content_body">
+                    
+                    
+                    <div class="box_wrapper">
+                      <div class="colmask doublepage bg_f4f3e6 btm_stone" id="hotspot_2">
+                        <div class="dbl_colleft bg_dbd8bc top_stone" id="hotspot_1">
+                          <div class="dbl_col1">
+                            <!-- Column 1 (left) start -->
+                                <div class="block block-views" id="block-views-whats_new-block_1">
+    
+    <div class="box_header">
+      <h2>What's New</h2>
+    </div>
+    <div class="box_body">
+      <div class="view view-whats-new view-id-whats_new view-display-id-block_1 view-dom-id-4">
+  
+  
+  
+  
+      <div class="view-content">
+      
+  <ul class="list">
+          <li class="views-row views-row-1 views-row-odd views-row-first">
+  <span class="title"><a href="/content/xpressconnect">XpressConnect</a></span>
+
+
+  <span class="type">Computing Page</span>
+
+
+  <span class="created"><em>16 weeks 2 days</em> ago</span>
+
+
+  <span class="teaser">Virginia Tech has transitioned to a new service to simplify connecting to the university's Wireless...</span>
+
+
+  <span class="view-node"><a href="/content/xpressconnect">view</a></span>
+
+</li>
+          <li class="views-row views-row-2 views-row-even">
+  <span class="title"><a href="/content/firewall-usage">Firewall Usage</a></span>
+
+
+  <span class="type">Computing Page</span>
+
+
+  <span class="created"><em>16 weeks 4 days</em> ago</span>
+
+
+  <span class="teaser">A firewall is a piece of software or hardware that creates a protective barrier between your...</span>
+
+
+  <span class="view-node"><a href="/content/firewall-usage">view</a></span>
+
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">
+  <span class="title"><a href="/content/backing-your-data">Backing Up Your Data</a></span>
+
+
+  <span class="type">Computing Page</span>
+
+
+  <span class="created"><em>16 weeks 5 days</em> ago</span>
+
+
+  <span class="teaser">A backup is a copy of an original file that can be restored in case of system failure. It is...</span>
+
+
+  <span class="view-node"><a href="/content/backing-your-data">view</a></span>
+
+</li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>     </div>
+    
+  </div>                            <!-- Column 1 (left) end -->
+                          </div>
+                          <div class="dbl_col2">
+                            <!-- Column 2 (right) start -->
+                                <div class="block block-views" id="block-views-Transitioning-block_1">
+    
+    <div class="box_header">
+      <h2>Transitioning</h2>
+    </div>
+    <div class="box_body">
+      <div class="view view-Transitioning view-id-Transitioning view-display-id-block_1 view-dom-id-5">
+  
+  
+  
+  
+      <div class="view-content">
+      <p>Everything you need to know about transitioning at Virginia Tech. Whether you're a new student, new faculty/staff, or a recent graduate - we have collected all the information you need to know, as well as what you can expect from computing at VT, in one convenient place.</p>  <ul class="list">
+          <li class="views-row views-row-1 views-row-odd views-row-first">
+  <span class="name-1"><a href="/category/transitioning/new-students">New Students</a></span>
+
+
+  <span class="description"><p>Everything you need to know as a New Virginia Tech Student.</p></span>
+
+</li>
+          <li class="views-row views-row-2 views-row-even">
+  <span class="name-1"><a href="/category/transitioning/new-facultystaff">New Faculty/Staff</a></span>
+
+
+  <span class="description"><p>Everything you need to know to begin your career at Virginia Tech.</p></span>
+
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">
+  <span class="name-1"><a href="/category/transitioning/new-alumni">New Alumni</a></span>
+
+
+  <span class="description"><p>Everything you need to know as an Alumnus of Virginia Tech.</p></span>
+
+</li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>     </div>
+    
+  </div>                            <!-- Column 2 (right) end -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    
+                    <div class="clear"></div>
+                    
+                    <div class="box_wrapper inset_shadow featured">
+                        <div class="block block-views" id="block-views-featured_articles-block_1">
+    
+    <div class="box_header">
+      <h2>Featured Content</h2>
+    </div>
+    <div class="box_body">
+      <div class="view view-featured-articles view-id-featured_articles view-display-id-block_1 view-dom-id-6">
+  
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      <div class="post node">
+    <h2><a href="/content/answersvtedu-knowledge-base">answers.vt.edu Knowledge Base</a></h2>    <div class="post_info">
+      
+      <div class="print-link">
+              </div>
+      <div class="post_meta">
+        <span class="type">Computing Page</span>
+        <span class="categories">Filed under <ul class="links inline"><li class="taxonomy_term_96 first"><a href="/category/categories/featured" rel="tag" title="">Featured</a></li>
+<li class="taxonomy_term_98"><a href="/category/transitioning/new-students" rel="tag" title="Everything you need to know as a New Virginia Tech Student.">New Students</a></li>
+<li class="taxonomy_term_99"><a href="/category/transitioning/new-facultystaff" rel="tag" title="Everything you need to know to begin your career at Virginia Tech.">New Faculty/Staff</a></li>
+<li class="taxonomy_term_100"><a href="/category/transitioning/new-alumni" rel="tag" title="Everything you need to know as an Alumnus of Virginia Tech.">New Alumni</a></li>
+<li class="taxonomy_term_8 last"><a href="/category/categories/support-training-resources" rel="tag" title="">Support &amp; Training Resources</a></li>
+</ul></span>
+      </div>
+    </div>
+    <div class="post_body"><p>Housing over 1300 solutions, <a href="http://www.answers.vt.edu/kb/" target="_blank">answers.vt.edu</a> provides 24x7 access to computing support articles for a wide variety of problems.</p>
+</div>
+    <div class="post_links">
+      
+      <span class="date">Wed, 02/01/2012 - 3:54pm</span>
+      
+      <span class="views">
+        2993 Views      </span>
+      
+            
+            
+            
+            
+      <span class="readmore"><a href="/content/answersvtedu-knowledge-base">view</a></span>      
+    </div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>     </div>
+    
+  </div>                    </div>
+                    
+                    <div class="clear"></div>
+                    
+                    <div class="box_wrapper">
+                      <div class="colmask tripage bg_dcd8bb top_stone">
+                        <div class="tri_colmid bg_f4f3e6 btm_stone" id="listbox_2">
+                          <div class="tri_colleft bg_dcd8bb top_stone" id="listbox_1">
+                            <div class="tri_col1">
+                              <!-- Column 1 (center) start -->
+                                  <div class="block block-views" id="block-views-recent_articles-block_2">
+    
+    <div class="box_header">
+      <h2>Recently Updated</h2>
+    </div>
+    <div class="box_body">
+      <div class="view view-recent-articles view-id-recent_articles view-display-id-block_2 view-dom-id-8">
+  
+  
+  
+  
+      <div class="view-content">
+      
+  <ul class="list">
+          <li class="views-row views-row-1 views-row-odd views-row-first">
+  <span class="title"><a href="/content/banner-reporting-tools-0">Banner Reporting Tools</a></span>
+
+
+  <span class="type">Computing Page</span>
+
+
+  <span class="changed"><em>1 week 2 days</em> ago</span>
+
+
+  <span class="teaser">Links to the Banner reporting tools and getting help are below.</span>
+
+
+  <span class="view-node"><a href="/content/banner-reporting-tools-0">view</a></span>
+
+</li>
+          <li class="views-row views-row-2 views-row-even">
+  <span class="title"><a href="/content/calendar-hosting-virginia-tech-organizations">Calendar Hosting for Virginia Tech Organizations</a></span>
+
+
+  <span class="type">Computing Page</span>
+
+
+  <span class="changed"><em>1 week 2 days</em> ago</span>
+
+
+  <span class="teaser">Virginia Tech departments and registered student organizations can request a dedicated Web...</span>
+
+
+  <span class="view-node"><a href="/content/calendar-hosting-virginia-tech-organizations">view</a></span>
+
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">
+  <span class="title"><a href="/content/quick-start-web-hosting-service">Quick Start: Web Hosting Service</a></span>
+
+
+  <span class="type">Computing Page</span>
+
+
+  <span class="changed"><em>4 weeks 5 days</em> ago</span>
+
+
+  <span class="teaser">To get started with the Web Hosting Service, you need to request a Web site address, adjust...</span>
+
+
+  <span class="view-node"><a href="/content/quick-start-web-hosting-service">view</a></span>
+
+</li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>     </div>
+    
+  </div>                              <!-- Column 1 (center) end -->
+                            </div>
+                            <div class="tri_col2">
+                              <!-- Column 2 (left) start -->
+                                  <div class="block block-views" id="block-views-popular_articles-block_3">
+    
+    <div class="box_header">
+      <h2>Recently Viewed</h2>
+    </div>
+    <div class="box_body">
+      <div class="view view-popular-articles view-id-popular_articles view-display-id-block_3 view-dom-id-7">
+  
+  
+  
+  
+      <div class="view-content">
+      
+  <ul class="list">
+          <li class="views-row views-row-1 views-row-odd views-row-first">
+  <span class="title"><a href="/content/internet-native-banner">Internet Native Banner</a></span>
+
+
+  <span class="type">Computing Page</span>
+
+
+  <span class="daycount">190 Views Today</span>
+
+
+  <span class="teaser">If this is your first time using the Internet Native Banner (INB) and you are using Windows,...</span>
+
+
+  <span class="view-node"><a href="/content/internet-native-banner">view</a></span>
+
+</li>
+          <li class="views-row views-row-2 views-row-even">
+  <span class="title"><a href="/content/weboutlook">WebOutlook</a></span>
+
+
+  <span class="type">Computing Page</span>
+
+
+  <span class="daycount">18 Views Today</span>
+
+
+  <span class="teaser">WebOutlook is a simple Web-based interface to the Virginia Tech Exchange server. This access...</span>
+
+
+  <span class="view-node"><a href="/content/weboutlook">view</a></span>
+
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">
+  <span class="title"><a href="/content/vt-google-apps-mail">VT Google Apps Mail</a></span>
+
+
+  <span class="type">Computing Page</span>
+
+
+  <span class="daycount">14 Views Today</span>
+
+
+  <span class="teaser">Virginia Tech has partnered with Google to offer e-mail and collaboration services through the...</span>
+
+
+  <span class="view-node"><a href="/content/vt-google-apps-mail">view</a></span>
+
+</li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>     </div>
+    
+  </div>                              <!-- Column 2 (left) end -->
+                            </div>
+                            <div class="tri_col3">
+                              <!-- Column 3 (right) start -->
+                                  <div class="block block-views" id="block-views-popular_articles-block_4">
+    
+    <div class="box_header">
+      <h2>Check These Out</h2>
+    </div>
+    <div class="box_body">
+      <div class="view view-popular-articles view-id-popular_articles view-display-id-block_4 view-dom-id-9">
+  
+  
+  
+  
+      <div class="view-content">
+      
+  <ul class="list">
+          <li class="views-row views-row-1 views-row-odd views-row-first">
+  <span class="title"><a href="/content/restrictedlimited-access-network-rlan">Restricted/Limited Access Network (RLAN)</a></span>
+
+
+  <span class="type">Computing Page</span>
+
+
+  <span class="totalcount">600 Total Views</span>
+
+
+  <span class="teaser">To help protect personally identifying information (PII), the&nbsp;IT Security Office (ITSO)...</span>
+
+
+  <span class="view-node"><a href="/content/restrictedlimited-access-network-rlan">view</a></span>
+
+</li>
+          <li class="views-row views-row-2 views-row-even">
+  <span class="title"><a href="/content/unified-communications">Unified Communications</a></span>
+
+
+  <span class="type">Computing Page</span>
+
+
+  <span class="totalcount">642 Total Views</span>
+
+
+  <span class="teaser">Virginia Tech is in the process of transitioning from the existing campus telephone and voice...</span>
+
+
+  <span class="view-node"><a href="/content/unified-communications">view</a></span>
+
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">
+  <span class="title"><a href="/content/backing-your-data">Backing Up Your Data</a></span>
+
+
+  <span class="type">Computing Page</span>
+
+
+  <span class="totalcount">727 Total Views</span>
+
+
+  <span class="teaser">A backup is a copy of an original file that can be restored in case of system failure. It is...</span>
+
+
+  <span class="view-node"><a href="/content/backing-your-data">view</a></span>
+
+</li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>     </div>
+    
+  </div>                              <!-- Column 3 (right) end -->
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    
+                    <div class="clear"></div>
+                    
+                    <div class="box_wrapper no_bottom">
+                        <div class="block block-views" id="block-views-popular_articles-block">
+    
+    <div class="box_header">
+      <h2>Popular Content</h2>
+    </div>
+    <div class="box_body">
+      <div class="view view-popular-articles view-id-popular_articles view-display-id-block view-dom-id-10">
+  
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      <div class="post node sticky">
+    <h2><a href="/content/internet-native-banner">Internet Native Banner</a></h2>    <div class="post_info">
+      
+      <div class="print-link">
+              </div>
+      <div class="post_meta">
+        <span class="type">Computing Page</span>
+        <span class="categories">Filed under <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="/category/categories/bannerwarehouse" rel="tag" title="">Banner/Warehouse</a></li>
+</ul></span>
+      </div>
+    </div>
+    <div class="post_body"><p>If this is your first time using the Internet Native Banner (INB) and you are using Windows, then you will be prompted to install the JPI plugin. See the system requirements for your operating system and the <a href="/content/browsers-and-java-requirements-banner-inb">Browsers for INB and Banner</a> page&nbsp;for details.</p>
+<p></p></div>
+    <div class="post_links">
+      
+      <span class="date">Wed, 02/01/2012 - 3:55pm</span>
+      
+      <span class="views">
+        98361 Views      </span>
+      
+            
+            
+            
+            
+      <span class="readmore"><a href="/content/internet-native-banner">view</a></span>      
+    </div>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      <div class="post node">
+    <h2><a href="/content/pid-generation-tool-process">PID Generation Tool Process</a></h2>    <div class="post_info">
+      
+      <div class="print-link">
+              </div>
+      <div class="post_meta">
+        <span class="type">Computing Page</span>
+        <span class="categories">Filed under <ul class="links inline"><li class="taxonomy_term_4 first"><a href="/category/categories/personal-info-records" rel="tag" title="">Personal Info &amp; Records</a></li>
+<li class="taxonomy_term_6 last"><a href="/category/categories/security-ids" rel="tag" title="">Security &amp; IDs</a></li>
+</ul></span>
+      </div>
+    </div>
+    <div class="post_body"><p>Your Virginia Tech PID is a unique Personal Identifier. Your PID belongs to you and you only. Your PID and password grant you access to your Virginia Tech e-mail, online course materials (Blackboard), Filebox, Hokie SPA, My VT, the university library databases, and more.</p>
+</div>
+    <div class="post_links">
+      
+      <span class="date">Wed, 02/01/2012 - 3:55pm</span>
+      
+      <span class="views">
+        45961 Views      </span>
+      
+            
+            
+            
+            
+      <span class="readmore"><a href="/content/pid-generation-tool-process">view</a></span>      
+    </div>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      <div class="post node sticky">
+    <h2><a href="/content/vt-google-apps-mail">VT Google Apps Mail</a></h2>    <div class="post_info">
+      
+      <div class="print-link">
+              </div>
+      <div class="post_meta">
+        <span class="type">Computing Page</span>
+        <span class="categories">Filed under <ul class="links inline"><li class="taxonomy_term_98 first"><a href="/category/transitioning/new-students" rel="tag" title="Everything you need to know as a New Virginia Tech Student.">New Students</a></li>
+<li class="taxonomy_term_99"><a href="/category/transitioning/new-facultystaff" rel="tag" title="Everything you need to know to begin your career at Virginia Tech.">New Faculty/Staff</a></li>
+<li class="taxonomy_term_100"><a href="/category/transitioning/new-alumni" rel="tag" title="Everything you need to know as an Alumnus of Virginia Tech.">New Alumni</a></li>
+<li class="taxonomy_term_2 last"><a href="/category/categories/ecommunications" rel="tag" title="">eCommunications</a></li>
+</ul></span>
+      </div>
+    </div>
+    <div class="post_body"><p>Virginia Tech has partnered with Google to offer e-mail and collaboration services through the Google Apps for Education program.&nbsp;&nbsp; All current Virginia Tech students, staff, faculty, and alumni are provided with a Virginia Tech e-mail address. During your time at Virginia Tech, your e-mail address will become your primary source of communication between classmates, professors, colleagues, family, and friends.</p>
+<p>Your e-mail account is named according to your PID, and [Your PID]@vt.edu is a valid e-mail address.&nbsp;Your VT Mail e-mail account remains active if you are:</p>
+</div>
+    <div class="post_links">
+      
+      <span class="date">Fri, 06/29/2012 - 1:45pm</span>
+      
+      <span class="views">
+        27752 Views      </span>
+      
+            
+            
+            
+            
+      <span class="readmore"><a href="/content/vt-google-apps-mail">view</a></span>      
+    </div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>     </div>
+    
+  </div>                    </div>
+                    
+                  </div>
+                  
+              </div>
+            </div>
+            <div class="col2">
+              <div id="main_nav">
+                
+                  <div class="block block-menu" id="block-menu-primary-links">
+    <h2 class="title"></h2>
+    <div class="content"><ul class="menu"><li class="leaf first"><a href="/glossary">Site Index A - Z</a></li>
+<li class="leaf"><a href="http://4help.vt.edu" title="">Ask a Question?</a></li>
+<li class="leaf last"><a href="/kb">Knowledge Base</a></li>
+</ul></div>
+  </div>
+  <div class="block block-menu_block" id="block-menu_block-1">
+    <h2 class="title"></h2>
+    <div class="content"><div class="menu-block-1 menu-name-menu-categories parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-1492"><a href="/taxonomy/term/96/all" title="Featured">Featured</a></li>
+<li class="leaf menu-mlid-1493"><a href="/taxonomy/term/94/all" title="4Help">Getting Started</a></li>
+<li class="collapsed menu-mlid-1494"><a href="/taxonomy/term/1/all" title="Banner/Warehouse">Banner/Warehouse</a></li>
+<li class="collapsed menu-mlid-1496"><a href="/taxonomy/term/2/all" title="eCommunications">eCommunications</a></li>
+<li class="leaf menu-mlid-1498"><a href="/taxonomy/term/9/all" title="Instructional Support">Instructional Support</a></li>
+<li class="leaf menu-mlid-1499"><a href="/taxonomy/term/3/all" title="Network Access">Network Access</a></li>
+<li class="leaf menu-mlid-1500"><a href="/taxonomy/term/4/all" title="Personal Info &amp; Records">Personal Info &amp; Records</a></li>
+<li class="leaf menu-mlid-1501"><a href="/taxonomy/term/5/all" title="Research Tools">Research Tools</a></li>
+<li class="leaf menu-mlid-1502"><a href="/taxonomy/term/6/all" title="Security &amp; IDs">Security &amp; IDs</a></li>
+<li class="leaf menu-mlid-1503"><a href="/taxonomy/term/7/all" title="Software &amp; Hardware">Software &amp; Hardware</a></li>
+<li class="collapsed menu-mlid-1504"><a href="/taxonomy/term/8/all" title="Support &amp; Training Resources">Support &amp; Training Resources</a></li>
+<li class="leaf last menu-mlid-1508"><a href="/taxonomy/term/10/all" title="Tools &amp; Utilities">Tools &amp; Utilities</a></li>
+</ul></div>
+</div>
+  </div>
+  <div class="block block-menu" id="block-menu-menu-virginia-tech-sites">
+    <h2 class="title"></h2>
+    <div class="content"><ul class="menu"><li class="leaf first"><a href="http://www.it.vt.edu/" title="">Information Technology</a></li>
+<li class="leaf"><a href="http://www.cns.vt.edu" title="">Communications Network Services</a></li>
+<li class="leaf last"><a href="http://www.arc.vt.edu/" title="">Research Computing</a></li>
+</ul></div>
+  </div>
+  <div class="block block-menu" id="block-menu-secondary-links">
+    <h2 class="title"></h2>
+    <div class="content"><ul class="menu"><li class="leaf first"><a href="http://www.policies.vt.edu/acceptableuse.html" title="">Acceptable Use Guidelines</a></li>
+<li class="leaf"><a href="/content/privacy-statement" title="">Privacy Statement</a></li>
+<li class="leaf last"><a href="/content/disclaimer" title="">Disclaimer</a></li>
+</ul></div>
+  </div>
+  <div class="block block-cas" id="block-cas-0">
+    <h2 class="title"></h2>
+    <div class="content"><form action="/"  accept-charset="UTF-8" method="post" id="cas-login-block">
+<div><div class="form-item cas-login-redirection-message"></div><input type="hidden" name="cas.return_to" id="edit-cas.return-to" value="destination=node"  />
+<input type="submit" name="op" id="edit-submit" value="Log in via CAS"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-3af9b440037438745f884009e8688a62" value="form-3af9b440037438745f884009e8688a62"  />
+<input type="hidden" name="form_id" id="edit-cas-login-block" value="cas_login_block"  />
+
+</div></form>
+</div>
+  </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+      
+      <div class="clear"></div>
+      
+      <div id="footer_bg">
+        <div id="footer">
+          <div id="copyright">
+            <p>&copy; 2011 Virginia Polytechnic Institute and State University</p>
+            
+                        
+          </div>
+          <div id="footer_menu">
+            
+              <div class="block block-menu" id="block-menu-menu-footer-nav">
+    <h2 class="title"></h2>
+    <div class="content"><ul class="menu"><li class="leaf first"><a href="http://www.bookstore.vt.edu" title="">Bookstore</a></li>
+<li class="leaf"><a href="http://hr.vt.edu/employment/" title="">Jobs @ VT</a></li>
+<li class="leaf"><a href="http://www.vt.edu/contacts/" title="">Contact Us</a></li>
+<li class="leaf"><a href="http://www.vt.edu/about/equal-opportunity.html" title="">Equal Opportunity</a></li>
+<li class="leaf"><a href="http://www.vt.edu/diversity/principles-of-community.html" title="">Principles of Community</a></li>
+<li class="leaf"><a href="http://www.vt.edu/about/privacy.html" title="">Privacy Statement</a></li>
+<li class="leaf"><a href="http://www.vt.edu/about/acceptable-use.html" title="">Acceptable Use Policy</a></li>
+<li class="leaf"><a href="http://www.vt.edu/about/accessibility.html" title="">Accessibility</a></li>
+<li class="leaf"><a href="http://www.unirel.vt.edu/web/" title="">VT Web Guidelines</a></li>
+<li class="leaf last"><a href="http://www.weremember.vt.edu/" title="">We Remember</a></li>
+</ul></div>
+  </div>
+            
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-34961274-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  </body>
+</html>

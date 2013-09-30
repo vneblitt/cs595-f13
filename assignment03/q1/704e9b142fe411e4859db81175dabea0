@@ -1,0 +1,1684 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=90496f22ffd4b193ff4f3aa39d43d2af"></script>
+<!DOCTYPE html>
+<html>
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    <meta charset="utf-8">
+    <meta name="description" content="&ldquo;Washington is not very strong on pageantry,&rdquo; Anne O&rsquo;Hare McCormick reported on the occasion of President Dwight D. Eisenhower&rsquo;s and Vice President Richard M. Nixon&rsquo;s inauguration on Jan. 20, 1953....">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="favicon" href="http://25.media.tumblr.com/avatar_3f99bd2bc9da_128.png">
+    <link rel="alternate" type="application/rss+xml" href="http://livelymorgue.tumblr.com/rss">
+    <title>The Lively Morgue</title>
+    <style type="text/css" media="screen">
+      body {
+        color: #ccc;
+        background: #1a1a1a;
+        font-family: Georgia, serif;
+      }
+      #morgue {
+        width: 960px;
+        margin: 65px auto 0;
+      }
+      header, article, footer, aside { display: block; }
+      a {
+        color: #aaa;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+
+      /* BEGIN Navigation */
+      nav, .postInfo, .postMeta, div.tag, #pagination a {
+        font: normal 11px/15px Arial, sans-serif;
+        margin-bottom: 10px;
+        color: #aaa;
+      }
+      nav ul {
+        margin: 0;
+        padding: 0;
+      }
+      nav li {
+        padding: 0 7px 0 5px;
+        border-right: 1px solid #909090;
+        list-style-type: none;
+      }
+      nav li:first-child {padding-left: 0;}
+      nav li:last-child, nav li.lastChild {border-right: 0;}
+      /* END Navigation */
+      /* BEGIN Header */
+      header {
+        overflow: hidden;
+        padding: 0 0 20px;
+        border-bottom: 1px solid #3e3e3e;
+      }
+      #logotype {
+        position: relative;
+        text-align: center;
+        font: 200 51px/1.0 'nyt-cheltenham', Times;
+        margin: 0;
+        background: url('http://graphics8.nytimes.com/packages/images/landingpage/_images_nlp/morgue_logo.png') top center no-repeat;
+        padding-top: 30px;
+        -webkit-font-smoothing: antialiased;
+      }
+        #nyt {
+          position: absolute;
+          top: 0;
+          left: 325px;
+          display: block;
+          margin: 0 auto;
+          width: 150px;
+          height: 25px;
+          text-indent: -9999px;
+    	  white-space: nowrap;
+          overflow: hidden;
+        }
+      #topNav li {
+        margin-bottom: 2px;
+        border: 0;
+        padding: 0;
+      }
+      /* END Header */
+      /* BEGIN Article */
+      #logotype, .postInfo, .postMeta, article .centerpiece, article .caption, article .post {
+        width: 800px;
+        float: left;
+      }
+      #logotype .morgue { padding-bottom: 3px; }
+        #logotype .morgue:hover {
+          text-decoration: none;
+          border-bottom: 1px solid #666;
+        }
+      article .centerpiece {
+/*        background: #000;*/
+      }
+      article .annotations {
+          position: relative;
+    	  background: #2b2b2b;
+		  padding: 15px;
+		  text-align: center;
+		  margin: 2.0em auto;
+	  }
+	  article .annotations .caption {
+		  width: 150px;
+		  text-align: left;
+          margin-bottom: 0!important;
+          letter-spacing: -0.0025em;
+	  }
+      article aside, #topNav {
+        width: 130px;
+        float: right;
+        text-align: left;
+      }
+      article aside {z-index: 2;}
+      article .post h3 {
+        font: 200 28px/1.0 Georgia, Times;
+        -webkit-font-smoothing: antialiased;
+        margin-bottom: 0;
+        color: #FFF;
+      }
+        .post a, .caption a {text-decoration: underline;}
+        .post h3 a {text-decoration: none;}
+        .post h3 a:hover { color: #AAA; }
+      article .post p.quote, article .post p.question {font: 200 24px/1.3 Georgia, Times;}
+      article {
+        width: 100%;
+        overflow: hidden;
+        clear: both;
+        padding: 40px 0;
+        margin: 0 auto;
+        border-bottom: 1px solid #3e3e3e;
+      }
+      article:last-child { border-bottom: 0; }
+      article .caption, article .post p  {
+        clear: both;
+        font: normal 15px/19px Georgia, serif;
+        -webkit-font-smoothing: antialiased;
+      }
+	  article .lm-credit {
+		  display: block;
+		  margin: 0.5em 0 0;
+      font: 200 11px/1.3 Arial, sans-serif;
+      -webkit-font-smoothing: subpixel-antialiased;
+      color: #666;
+	  }
+	  article a {color: #FFF;}
+      article .post p {
+        line-height: 22px;
+      }
+	  article .post p.byline { font-weight: normal; font: 200 11px/1.3 Arial, sans-serif; margin: 0.5em 0 3.0em; color: #FFF; }
+      article .post p:first-of-type strong:first-of-type {
+        font-weight: normal;
+        text-transform: uppercase;
+      }
+/*	  article .post p > img { float: left; margin-bottom: 1em; } full-width images */
+	  article .post .inline { float: right; width: 260px; margin: 0 0 10px 25px; }
+	  article .post .inline img { width: 260px; }
+	  article .post p img + .sidesaddle { float: left; clear: none; width: 200px; }
+	  article .post .sidesaddle.caption,
+	  article .post .annotations .caption,
+	  article .post .inline.caption { font: normal 11px/15px Arial, sans-serif; margin-bottom: 25px; }
+	  article .post .annotations .caption { color: #aaa; }
+ 	  article .post .caption .credit { color: #666; }
+	  article .post .annotations .caption strong,
+	  article .post .sidesaddle.caption strong { color: #FFF; }
+	  article .post .inline.caption:after,
+	  article .post .inline.caption + p,
+	  article .post .inline.caption + p + p,
+	  article .post .inline.caption + p + p + p { clear: none; }
+	  article .post .sidesaddle:after { clear: both; }
+	  article .post p.inline + .sidesaddle:after { clear: none; }
+	  article .post hr { height: 1px; border: 0; color: #CCC; background-color: #CCC; width: 45%; margin: 5.0em auto 2.5em; }
+      article .post img.album {float: right;}
+      /* END Article */
+      /* BEGIN Share/Meta */
+      .postInfo a, h1 a, .post a:hover { color: #FFF; }
+      div.tag {
+        clear: both;
+        text-align: center;
+        background: #333333;
+        border-bottom: 1px solid #3e3e3e;
+        color: #909090;
+        margin: 0;
+        padding: 25px 160px 25px 0;
+        text-transform: uppercase;
+      }
+      .tag strong {
+        margin-left: 0.25em;
+        font-size: 15px;
+        color: #FFF;
+        text-transform: none;
+      }
+      .postInfo, .postMeta, .share, .postInfo .date a {
+        text-align: center;
+        color: #909090;
+      }
+        .postInfo p {margin: 0 0 10px;}
+      .postMeta {
+        text-align: left;
+        clear: both;
+      }
+      .postMeta, .tags a {color: #666;}
+      .tags, footer nav ul
+       {
+        width: 550px;
+        float: left;
+      }
+      .tags, .share ul { margin-left: 0px; }
+      .tags li:after {content:'\2009\00B7\2009';}
+      .tags li:last-child:after {content: '';}
+      .facebook a {color: #2980c9;}
+      .twitter a {color: #10a5cb;}
+      .share {
+        width: 150px;
+        float: right;
+        text-align: right;
+      }
+      .share li {
+        line-height: 1.0em;
+        margin-right: 2px;
+        padding-right: 5px;
+        border-right: 1px solid #909090;
+      }
+      #miniLogo a img, .share li:last-child, .share li.lastChild {
+        border: 0;
+        padding: 0;
+        margin: 0;
+      }
+      /* END Share/Meta */
+      /* BEGIN Pagination */
+      #pagination {
+        clear: both;
+        overflow: hidden;
+        margin: 0 0 25px;
+        text-align: center;
+      }
+      #classicNav { display: none; }
+      #pagination a {
+        font-weight: bold;
+        -webkit-font-smoothing: antialiased;
+        line-height: 1.0;
+        border-radius: 5px;-moz-border-radius: 5px;
+        color: #FFF;
+        text-transform: uppercase;
+        padding: 14px 200px 14px 209px;
+        background-color: #3e3e3e;
+      }
+      #morePosts { background: #3e3e3e url('http://graphics8.nytimes.com/packages/images/landingpage/_images_nlp/down_arrow.png') 329px 13px no-repeat; }
+      #pagination a:hover {
+        text-decoration: none;
+        background-color: #666;
+      }
+      #pagination a.loading {background-image: none;}
+      /* END Pagination */
+      /* BEGIN Footer */
+      footer {
+        clear: both;
+        border-top: 1px solid #3e3e3e;
+        padding: 20px 0;
+        position: relative;
+      }
+      footer nav ul {
+        width: 480px;
+        margin-left: 160px;
+      }
+      .backTo {
+        width: 280px;
+        margin: 0;
+        float: right;
+        text-align: right;
+      }
+      footer nav {position: relative;}
+      footer #miniLogo {
+        position: absolute;
+        margin: -3px 0 0 0;
+      }
+      footer nav ul, .postMeta ul, .tags ul, .postMeta p {
+        padding: 0;
+        display: inline;
+        line-height: 1.0em;
+      }
+      footer nav li, .postMeta li {display: inline-block;}
+      footer nav li:before {border-left: 1px solid #666;}
+      /* END Footer */
+      /* BEGIN Flipper */
+      .flipper {position: relative;}
+      aside.flipper {
+        z-index: 1000;
+        -webkit-perspective: 1000;
+        -moz-perspective: 1000;
+        perspective: 1000;
+      }
+      .flipper .pic {
+        -webkit-transform-style: preserve-3d;
+        -moz-transform-style: preserve-3d;
+        transform-style: preserve-3d;
+        -webkit-transition: 1.15s;
+        -moz-transition: 1.15s;
+        transition: 1.15s;
+        -webkit-backface-visibility: hidden;
+        -moz-backface-visibility: hidden;
+        backface-visibility: hidden;
+      }
+      .flipper.init .pic:last-child {
+        -webkit-transition: 0s;
+        -moz-transition: 0s;
+        transition: 0s;
+      }
+      .flipper.flipped .pic:first-child,
+      .flipper.unflipped .pic:last-child {
+        opacity: 0;
+      }
+      .centerpiece.flipper .pic {
+        text-align: center;
+        -webkit-transition: 1.5s;
+        width: 800px;
+      }
+      .centerpiece.flipper .pic img {
+        max-width: 800px;
+      }
+      .flipper .pic:last-child, .flipper .pic.lastChild {
+        position: absolute;
+        top: 0;
+      }
+      aside.flipper.flipped .pic:first-child {
+        -webkit-transform: rotateY(180deg);
+        -moz-transform: rotateY(180deg);
+        transform: rotateY(180deg);
+      }
+      aside.flipper.unflipped .pic:last-child {
+        -webkit-transform: rotateY(-180deg);
+        -moz-transform: rotateY(-180deg);
+        transform: rotateY(-180deg);
+      }
+      .flipper.flipped .pic:last-child {
+        opacity: 1.0;
+      }
+      .flipper .pic:hover {
+        cursor: pointer;
+      }
+      aside.flipper .pic:before,
+      aside.flipper .pic:hover:before {
+        content: '';
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0);
+      }
+      aside.flipper .pic:hover:before {
+        background: rgba(0,0,0,0.6);
+        z-index:19;
+      }
+      aside.flipper .pic:hover:after {
+        content: '';
+        position: absolute;
+        top: 40%;
+        left: 20%;
+        width: 50%;
+        text-align: center;
+        padding: 1px 5%;
+        font: bold 11px/20px Arial, sans-serif;
+        color: #FFF;
+        -webkit-font-smoothing: antialiased;
+        background: #2e2e2e;
+        border-radius: 12px;-moz-border-radius: 12px;
+        z-index: 20;
+      }
+      aside.flipper.unflipped .pic:hover:after {
+        content: 'See Front';
+      }
+      aside.flipper.flipped .pic:hover:after {
+        content: 'See Back';
+      }
+      .flipping .pic:before, .flipping .pic:after {
+        display: none!important;
+      }
+      aside.flipper.unflipped .pic:hover {
+        z-index: -1;
+      }
+      /* END Flipper */
+      /* BEGIN Notes */
+      #notes {
+        clear: both;
+        -webkit-font-smoothing: antialiased;
+        padding: 4.0em 0 0;
+      }
+        #notes ol.notes {
+          border-top: 1px solid #3e3e3e;
+          padding: 20px 0;
+          font: normal 11px/1.3 Arial, sans-serif;
+          list-style-type: none;
+          color: #aaa;
+        }
+        #notes ol.notes li {
+          margin: 0 0 10px;
+        }
+        #notes ol.notes li a {
+          font-weight: bold;
+          color: #aaa;
+          text-decoration: none;
+        }
+        #notes ol.notes blockquote {
+          margin: 0.5em 36px 10px;
+        }
+        #notes ol.notes blockquote a {
+          font-weight: normal;
+        }
+        #notes ol.notes li img.avatar {
+          vertical-align: middle;
+          margin-right: 10px;
+        }
+        #notes ol.notes li a:hover {
+          text-decoration: underline;
+        }
+        #notes ol.notes .more_notes_link_container {
+          text-align: left!important;
+          margin-top: 20px;
+        }
+        #notes ol.notes .more_notes_link_container a {
+          color: #FFF;
+        }
+      /* END Notes */
+      #fb-root { display: none;}
+    </style>
+    <!--[if lt IE 9]>
+    <style type="text/css" media="screen">
+      .flipper .pic { height: 100%; }
+      aside.flipper .pic img { position: absolute; z-index: -99999; }
+      aside.flipper .pic:hover:after { background-color: #2e2e2e!important; z-index: 10001; margin-top: 25%; }
+      article { border-top: 1px solid #3e3e3e; border-bottom: 0; overflow: visible; }
+      article:first-child { border-top: 0; }
+      article .centerpiece { position: relative; height: 100%; }
+      .centerpiece.unflipped .pic.lastChild,
+      aside.flipped .pic:first-child { visibility: hidden; }
+      .centerpiece.flipped .pic:first-child,
+      aside.unflipped .pic.lastChild { visibility: hidden; }
+      footer { margin-top: 20px; }
+      footer nav li, .postMeta li, .share li {display: inline; margin-right: 10px;}
+      .share li { margin: 0 0 0 10px; }
+      footer #miniLogo { position: relative; top: 15px; padding: 0; margin-top: -15px;}
+	  a img { border: none; }
+      .share li, footer li { border: 0; }
+      #showMore { display: none; }
+      #classicNav { display: block; }
+      #classicNav a { padding: 14px 100px; }
+      .postMeta { margin-top: 20px; }
+    </style>
+    <![endif]-->
+    
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="http://typeface.nytimes.com/wav7qwj.js"></script>
+    <script src="http://connect.facebook.net/en_US/all.js"></script>
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script type="text/javascript" charset="utf-8">
+      $(document).ready(function() {
+        $('li:last-child').addClass('lastChild');
+        $('article:last-child').addClass('lastChild');
+        $('.flipper .pic:last-child').addClass('lastChild');
+      });
+    </script>
+    <![endif]-->
+    <!--[if IE 8]>
+    <script type="text/javascript" charset="utf-8">
+      $(document).ready(function() {
+        $('.centerpiece.flipper .pic:last-child').each(function() {
+          var ieFlip = $(this).height();
+          ieFlip = "-"+ieFlip;
+          $(this).css('marginTop', ieFlip);
+        });
+      });
+    </script>
+    <![endif]-->
+    <script type="text/javascript">
+    var p = 1;
+    var host = location.href;
+    
+    var hostLength = host.length;
+    var lastChar = host.charAt(hostLength-1);
+    if (lastChar === '/') {
+      host = host.substring(0, host.length-1);
+    }
+    
+    $(document).ready(function() {
+      FB.init({appId: "400928743256315", status: true, cookie: true});
+      if ($('#nextPage').length === 0) {
+        $('#morePosts').remove();
+      }
+      readyState();
+    });
+    
+    function readyState() {
+      $.each($('.month'), function(i, elem) {
+        var mo = elem.id;
+        mo = mo.split('-');
+        if (elem.innerHTML.lastIndexOf('.') === 0 ) {
+        } else {
+          if (mo[1] === "05" || mo[1] === "06" || mo[1] === "07"){
+            if (mo[1] === "06") { elem.innerHTML = "June"; }
+            if (mo[1] === "07") { elem.innerHTML = "July"; }
+          } else {
+            elem.innerHTML += ".";
+          }
+        }
+      });
+      
+      $('.sharing').on("click", function (event){
+          var url = $(this).attr("href");
+          var windowName = $(this).attr("target");
+          var windowWidth, windowHeight;
+          if ($(this).parent().attr("class") == "twitter") {
+      		  windowWidth = 550;
+      		  windowHeight = 340;
+      		  var tweet = $(this).closest("article").find(".lm-tweetBody").attr("data-tweet-body");
+      		  if (tweet && tweet !== "") {
+      		    tweet = encodeURIComponent(tweet);
+      		    url = url + "&text=" + tweet;
+      		  } else {
+      		    url = url + "&text=An%20image%20from%20the%20%23LivelyMorgue%2C%20a%20collection%20of%20treasures%20from%20the%20%40nytimes%20photography%20archive%3A";
+      		  }
+          } else if ($(this).parent().attr("class") == "facebook") {
+            var fbUrl = $(this).attr("data-fb-link");
+            var fbImg = $(this).closest("article").find(':first-child img').attr("src");
+            var obj = {
+              method: 'feed',
+              display: 'popup',
+              link: fbUrl,
+              picture: fbImg,
+              name: 'The Lively Morgue',
+              caption: 'An archival photograph from The New York Times.'
+            };
+            FB.ui(obj);            
+          } else {
+            windowWidth = 650;
+            windowHeight = 520;
+          }
+          
+          if ($(this).parent().attr("class") != "facebook") {
+            var windowLeft = parseInt((screen.availWidth/2) - (windowWidth/2));
+            var windowTop = parseInt((screen.availHeight/2) - (windowHeight/2));
+
+      		  var windowSize = "width=" + windowWidth + ",height=" + windowHeight + ",left=" + windowLeft + ",top=" + windowTop + ",screenX=" + windowLeft + ",screenY=" + windowTop + ",scrollbars=no";
+      		  window.open(url, windowName, windowSize);
+          }
+    		  
+          event.preventDefault();
+      });
+    }
+    
+    function fixHeights(node) {
+      var newHeights = $('div'+node).find(':first-child img').outerHeight();
+      $('div'+node).find(':last-child img').css({maxHeight:newHeights});
+    }
+
+    function showMore() {
+      p++;
+      var morePosts = $('#morePosts');
+      morePosts.toggleClass('loading');
+      var morePostText = 'Show more posts';
+      morePosts.html('Loading…');
+      morePosts.animate({
+      }, 300, function() {
+        $.get(host + '/page/' + p, function(data) {
+          morePosts.html('Loaded.');
+          var c = $(data).find('#content').html();
+          $('article').last().after(c);
+          var d = $(data).find('#nextPage').html();
+          if (d) {
+            morePosts.html(morePostText);
+            morePosts.toggleClass('loading');
+          } else {
+            $('#morePosts').remove()
+          }
+          readyState();
+        });
+      });
+    }
+    function flip(postId) {
+      var flipCP = '#centerpiece'+postId;
+      
+      fixHeights(flipCP);
+      
+      $(flipCP).toggleClass('unflipped').toggleClass('flipped');
+      $(flipCP).removeClass('init');
+      var flipAside = '#sidebar'+postId;
+        $(flipAside).addClass('flipping');
+        $(flipAside).siblings('.flipper').addClass('flipping');
+        $(flipAside).toggleClass('unflipped').toggleClass('flipped');
+        setTimeout( function() {
+          $(flipAside).removeClass('flipping');
+          $(flipAside).siblings('.flipper').removeClass('flipping');
+        }, 500);
+    }
+    try{Typekit.load();}catch(e){}
+    </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7885722-24']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:site_name" content="The Lively Morgue" />
+<meta property="og:title" content="" />
+<meta property="og:url" content="http://livelymorgue.tumblr.com/post/61405848936/washington-is-not-very-strong-on-pageantry-anne" />
+<meta property="og:description" content="&ldquo;Washington is not very strong on pageantry,&rdquo; Anne O&rsquo;Hare McCormick reported on the occasion of President Dwight D. Eisenhower&rsquo;s and Vice President Richard M. Nixon&rsquo;s inauguration on Jan. 20, 1953...." />
+<meta property="og:determiner" content="a" />
+<meta property="og:type" content="tumblr-feed:photoset" />
+<meta property="og:image" content="http://31.media.tumblr.com/a90335f2395f706bfe892e80b2e6de3d/tumblr_mt2msja1jy1r5568mo1_1280.jpg" />
+<meta property="og:image" content="http://24.media.tumblr.com/1e81c412f6787a52f88ce8611aa3f5b3/tumblr_mt2msja1jy1r5568mo2_1280.jpg" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+            <meta name="twitter:card" content="photo" />
+            <meta name="twitter:description" content="&ldquo;Washington is not very strong on pageantry,&rdquo; Anne O&rsquo;Hare McCormick reported on the occasion of President Dwight D. Eisenhower&rsquo;s and Vice President Richard M. Nixon&rsquo;s inauguration on Jan. 20, 1953...." />
+            <meta name="twitter:image" content="http://31.media.tumblr.com/a90335f2395f706bfe892e80b2e6de3d/tumblr_mt2msja1jy1r5568mo1_500.jpg" />
+            <meta name="twitter:url" content="http://livelymorgue.tumblr.com/post/61405848936/washington-is-not-very-strong-on-pageantry-anne" />
+            <meta name="twitter:site" content="tumblr" />
+            <meta name="twitter:app:name:iphone" content="Tumblr" />
+            <meta name="twitter:app:name:ipad" content="Tumblr" />
+            <meta name="twitter:app:name:googleplay" content="Tumblr" />
+            <meta name="twitter:app:id:iphone" content="305343404" />
+            <meta name="twitter:app:id:ipad" content="305343404" />
+            <meta name="twitter:app:id:googleplay" content="com.tumblr" />
+            <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=livelymorgue&amp;postID=61405848936&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=livelymorgue&amp;postID=61405848936&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=livelymorgue&amp;postID=61405848936&amp;referrer=twitter-cards" />
+    
+
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=cf7aeb03e820314a6cb2890dfa192802"></script>
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<meta name="keywords" content="1950s,photography,vintage,nytimes,black and white" />
+
+</head>
+  <body>
+    <div id="morgue">
+      <header>
+        <h1 id="logotype"><a id="nyt" href="http://www.nytimes.com/">The New York Times</a><a class="morgue" href="/">The Lively Morgue</a></h1>
+        <nav id="topNav">
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About The Lively Morgue</a></li><li><a href="/purchase">Purchase Prints</a></li>
+            <li><a href="/archive">Archive</a></li>
+            <li><a href="http://livelymorgue.tumblr.com/rss">RSS</a></li>
+            
+          </ul>
+        </nav>
+      </header>
+      
+      
+      <div id="content">
+        <article id="61405848936">
+          <div class="postInfo">
+            <p><span class="date"><a href="http://livelymorgue.tumblr.com/post/61405848936/washington-is-not-very-strong-on-pageantry-anne"><span class="month" id="61405848936-09">Sep</span> 16, 2013</a></span> &#8195;|&#8195; <a href="http://livelymorgue.tumblr.com/post/61405848936/washington-is-not-very-strong-on-pageantry-anne#notes">94 notes</a></p>
+          </div>
+          
+          
+          <div class="centerpiece flipper unflipped init" id="centerpiece61405848936">
+            <div class="pic" onclick="flip(61405848936);"><img src="http://31.media.tumblr.com/a90335f2395f706bfe892e80b2e6de3d/tumblr_mt2msja1jy1r5568mo1_1280.jpg" alt="&ldquo;Washington is not very strong on pageantry,&rdquo; Anne O&rsquo;Hare McCormick reported on the occasion of President Dwight D. Eisenhower&rsquo;s and Vice President Richard M. Nixon&rsquo;s inauguration on Jan. 20, 1953. &ldquo;Circus&rdquo; might be more apt, she wrote, noting the &ldquo;twirling majorettes, the competing bands&rdquo; and the &ldquo;cowboys and cowgirls&rdquo; present &mdash; but the ceremony ultimately had a heavy tone as Republicans took the helm for the first time in 20 years, burdened by a country whose power was at its pinnacle. &ldquo;In the past four years it has grown into a mountain which half the world leans on and the other half attacks with all its might,&rdquo; Ms. O&rsquo;Hare McCormick wrote. Photo: George Tames/The New York Times "></div>
+            
+            <div class="pic" onclick="flip(61405848936);"><img src="http://24.media.tumblr.com/1e81c412f6787a52f88ce8611aa3f5b3/tumblr_mt2msja1jy1r5568mo2_1280.jpg" alt="&ldquo;Washington is not very strong on pageantry,&rdquo; Anne O&rsquo;Hare McCormick reported on the occasion of President Dwight D. Eisenhower&rsquo;s and Vice President Richard M. Nixon&rsquo;s inauguration on Jan. 20, 1953. &ldquo;Circus&rdquo; might be more apt, she wrote, noting the &ldquo;twirling majorettes, the competing bands&rdquo; and the &ldquo;cowboys and cowgirls&rdquo; present &mdash; but the ceremony ultimately had a heavy tone as Republicans took the helm for the first time in 20 years, burdened by a country whose power was at its pinnacle. &ldquo;In the past four years it has grown into a mountain which half the world leans on and the other half attacks with all its might,&rdquo; Ms. O&rsquo;Hare McCormick wrote. Photo: George Tames/The New York Times "></div>
+            
+            
+          </div>
+          <aside id="sidebar61405848936" class="flipper flipped"><div class="pic" onclick="flip(61405848936);"><img src="http://31.media.tumblr.com/a90335f2395f706bfe892e80b2e6de3d/tumblr_mt2msja1jy1r5568mo1_250.jpg" alt="&ldquo;Washington is not very strong on pageantry,&rdquo; Anne O&rsquo;Hare McCormick reported on the occasion of President Dwight D. Eisenhower&rsquo;s and Vice President Richard M. Nixon&rsquo;s inauguration on Jan. 20, 1953. &ldquo;Circus&rdquo; might be more apt, she wrote, noting the &ldquo;twirling majorettes, the competing bands&rdquo; and the &ldquo;cowboys and cowgirls&rdquo; present &mdash; but the ceremony ultimately had a heavy tone as Republicans took the helm for the first time in 20 years, burdened by a country whose power was at its pinnacle. &ldquo;In the past four years it has grown into a mountain which half the world leans on and the other half attacks with all its might,&rdquo; Ms. O&rsquo;Hare McCormick wrote. Photo: George Tames/The New York Times " width="130"></div><div class="pic" onclick="flip(61405848936);"><img src="http://25.media.tumblr.com/1e81c412f6787a52f88ce8611aa3f5b3/tumblr_mt2msja1jy1r5568mo2_250.jpg" alt="&ldquo;Washington is not very strong on pageantry,&rdquo; Anne O&rsquo;Hare McCormick reported on the occasion of President Dwight D. Eisenhower&rsquo;s and Vice President Richard M. Nixon&rsquo;s inauguration on Jan. 20, 1953. &ldquo;Circus&rdquo; might be more apt, she wrote, noting the &ldquo;twirling majorettes, the competing bands&rdquo; and the &ldquo;cowboys and cowgirls&rdquo; present &mdash; but the ceremony ultimately had a heavy tone as Republicans took the helm for the first time in 20 years, burdened by a country whose power was at its pinnacle. &ldquo;In the past four years it has grown into a mountain which half the world leans on and the other half attacks with all its might,&rdquo; Ms. O&rsquo;Hare McCormick wrote. Photo: George Tames/The New York Times " width="130"></div></aside>
+          <div class="caption"><p>“Washington is not very strong on pageantry,” Anne O’Hare McCormick reported <a href="http://select.nytimes.com/gst/abstract.html?res=F70A10F93458177B93C3AB178AD85F478585F9">on the occasion</a> of President Dwight D. Eisenhower’s and Vice President Richard M. Nixon’s inauguration on Jan. 20, 1953. “Circus” might be more apt, she wrote, noting the “twirling majorettes, the competing bands” and the “cowboys and cowgirls” present — but the ceremony ultimately had a heavy tone as Republicans took the helm for the first time in 20 years, burdened by a country whose power was at its pinnacle. “In the past four years it has grown into a mountain which half the world leans on and the other half attacks with all its might,” Ms. O’Hare McCormick wrote. <span class="lm-credit">Photo: George Tames/The New York Times</span><span style="display:none" class="lm-assetData" data-asset-id-front="100000002440136" data-asset-id-back="100000002440137"></span><span style="display:none;" class="lm-tweetBody" data-tweet-body=""> </span></p></div>
+          
+          
+          
+          
+          
+          
+          <div class="postMeta">
+            <ul class="tags">
+              <li><a href="http://livelymorgue.tumblr.com/tagged/black-and-white">black and white</a></li><li><a href="http://livelymorgue.tumblr.com/tagged/nytimes">nytimes</a></li><li><a href="http://livelymorgue.tumblr.com/tagged/vintage">vintage</a></li><li><a href="http://livelymorgue.tumblr.com/tagged/photography">photography</a></li><li><a href="http://livelymorgue.tumblr.com/tagged/1950s">1950s</a></li>
+            </ul>
+            <div class="share">
+              <p>Share:</p>
+              <ul>
+                <li class="facebook"><a href="http://www.facebook.com/sharer.php?u=http://livelymorgue.tumblr.com/post/61405848936/washington-is-not-very-strong-on-pageantry-anne" data-fb-link="http://livelymorgue.tumblr.com/post/61405848936/washington-is-not-very-strong-on-pageantry-anne" class="sharing" target="share">Facebook</a></li>
+                <li class="twitter"><a href="http://twitter.com/share?url=http://livelymorgue.tumblr.com/post/61405848936/washington-is-not-very-strong-on-pageantry-anne&amp;related=nytimesphoto&amp;related=nytimes" class="sharing" target="share">Twitter</a></li>
+              </ul>
+            </div>
+			
+          </div>
+          <div id="notes">
+				    
+
+<ol class="notes">
+
+    <!-- START NOTES -->
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_motagirl without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://motagirl.tumblr.com/" title="El peque&ntilde;o tumblr de motagirl"><img src="http://31.media.tumblr.com/avatar_4e15e3470204_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://motagirl.tumblr.com/post/62578690708">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://motagirl.tumblr.com/" class="tumblelog" title="El peque&ntilde;o tumblr de motagirl">motagirl</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_young-fellow without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://young-fellow.tumblr.com/" title="You&#039;ve changed since last September."><img src="http://25.media.tumblr.com/avatar_6f32de80140d_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://young-fellow.tumblr.com/post/62482153688">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://young-fellow.tumblr.com/" class="tumblelog" title="You&#039;ve changed since last September.">young-fellow</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_mindlessmunkey without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://mindlessmunkey.tumblr.com/" title="mindlessmunkey"><img src="http://31.media.tumblr.com/avatar_6264189f0545_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://mindlessmunkey.tumblr.com/post/62301350195">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://mindlessmunkey.tumblr.com/" class="tumblelog" title="mindlessmunkey">mindlessmunkey</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_tserviss without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://tserviss.tumblr.com/" title="TServiss"><img src="http://31.media.tumblr.com/avatar_5281122b6886_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://tserviss.tumblr.com/post/62256128246">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://tserviss.tumblr.com/" class="tumblelog" title="TServiss">tserviss</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_tserviss without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://tserviss.tumblr.com/" title="TServiss " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_5281122b6886_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://tserviss.tumblr.com/" title="TServiss" rel="nofollow">tserviss</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_perfection-spark without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://perfection-spark.tumblr.com/" title="PEI RUI AMY"><img src="http://24.media.tumblr.com/avatar_7aa561c80b88_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://perfection-spark.tumblr.com/post/62252483933">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://perfection-spark.tumblr.com/" class="tumblelog" title="PEI RUI AMY">perfection-spark</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_alrightuniverse without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://alrightuniverse.tumblr.com/" title="alright, universe"><img src="http://24.media.tumblr.com/avatar_d26c43457fce_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://alrightuniverse.tumblr.com/post/61783141220">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://alrightuniverse.tumblr.com/" class="tumblelog" title="alright, universe">alrightuniverse</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_nicholaseveleigh without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://nicholaseveleigh.tumblr.com/" title="Afterthoughts " rel="nofollow"><img src="http://24.media.tumblr.com/avatar_31853ebfddb4_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://nicholaseveleigh.tumblr.com/" title="Afterthoughts" rel="nofollow">nicholaseveleigh</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_beee-at without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://beee-at.tumblr.com/" title="beata&#039;s photos " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_9119e8c6be1a_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://beee-at.tumblr.com/" title="beata&#039;s photos" rel="nofollow">beee-at</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_acrazygirlfan without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://acrazygirlfan.tumblr.com/" title="Untitled " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_f695515635ba_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://acrazygirlfan.tumblr.com/" title="Untitled" rel="nofollow">acrazygirlfan</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_7ouj without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://7ouj.tumblr.com/" title="PAX"><img src="http://25.media.tumblr.com/avatar_d1efbb7b5a3c_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://7ouj.tumblr.com/post/61659007641">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://7ouj.tumblr.com/" class="tumblelog" title="PAX">7ouj</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_teamputvedev without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://teamputvedev.tumblr.com/" title="Team Putvedev " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_cf199c935020_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://teamputvedev.tumblr.com/" title="Team Putvedev" rel="nofollow">teamputvedev</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_fadhilsatrion without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://fadhilsatrion.tumblr.com/" title="Untitled " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_cd00cf043552_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://fadhilsatrion.tumblr.com/" title="Untitled" rel="nofollow">fadhilsatrion</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_luisabizarre without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://luisabizarre.tumblr.com/" title="Luisa Lainfiesta " rel="nofollow"><img src="http://24.media.tumblr.com/avatar_3c2812f78828_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://luisabizarre.tumblr.com/" title="Luisa Lainfiesta" rel="nofollow">luisabizarre</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_nonexistantkarrigan without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://nonexistantkarrigan.tumblr.com/" title="Everthing You Can Imagine Is Real. " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_1a82317d463c_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://nonexistantkarrigan.tumblr.com/" title="Everthing You Can Imagine Is Real." rel="nofollow">nonexistantkarrigan</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_8happy without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://8happy.tumblr.com/" title="Be Happy. " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_9cbd9499a942_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://8happy.tumblr.com/" title="Be Happy." rel="nofollow">8happy</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_elpinoine without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://elpinoine.tumblr.com/" title="doesn&#039;t look so bad from up here. . ."><img src="http://31.media.tumblr.com/avatar_8fbf3acb0388_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://elpinoine.tumblr.com/post/61535274656">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://elpinoine.tumblr.com/" class="tumblelog" title="doesn&#039;t look so bad from up here. . .">elpinoine</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_ariellegracelove without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://ariellegracelove.tumblr.com/" title="Untitled " rel="nofollow"><img src="http://assets.tumblr.com/images/default_avatar/cone_open_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://ariellegracelove.tumblr.com/" title="Untitled" rel="nofollow">ariellegracelove</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_englishmaven07 without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://englishmaven07.tumblr.com/" title="Untitled " rel="nofollow"><img src="http://assets.tumblr.com/images/default_avatar/pyramid_open_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://englishmaven07.tumblr.com/" title="Untitled" rel="nofollow">englishmaven07</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_muriellelescanff without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://muriellelescanff.tumblr.com/" title="L&#039; usage du monde"><img src="http://25.media.tumblr.com/avatar_0328acac6676_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://muriellelescanff.tumblr.com/post/61512849892">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://muriellelescanff.tumblr.com/" class="tumblelog" title="L&#039; usage du monde">muriellelescanff</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_muriellelescanff without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://muriellelescanff.tumblr.com/" title="L&#039; usage du monde " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_0328acac6676_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://muriellelescanff.tumblr.com/" title="L&#039; usage du monde" rel="nofollow">muriellelescanff</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_heatherc20131 without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://heatherc20131.tumblr.com/" title="Untitled " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_f6d2793dbbae_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://heatherc20131.tumblr.com/" title="Untitled" rel="nofollow">heatherc20131</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_thislittlemind without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://thislittlemind.tumblr.com/" title="This Little Mind"><img src="http://31.media.tumblr.com/avatar_f1f4df271999_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://thislittlemind.tumblr.com/post/61495588771">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://thislittlemind.tumblr.com/" class="tumblelog" title="This Little Mind">thislittlemind</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_takecareofmyself without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://takecareofmyself.tumblr.com/" title="notes " rel="nofollow"><img src="http://24.media.tumblr.com/avatar_29377c681585_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://takecareofmyself.tumblr.com/" title="notes" rel="nofollow">takecareofmyself</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_mm1941 without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://mm1941.tumblr.com/" title="松代守弘の展示日記出張所"><img src="http://25.media.tumblr.com/avatar_9360a8a4e582_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://mm1941.tumblr.com/post/61484979019">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://mm1941.tumblr.com/" class="tumblelog" title="松代守弘の展示日記出張所">mm1941</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_andrewjames-photography without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://andrewjames-photography.tumblr.com/" title="Andrew James Photography " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_11a3d2477b63_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://andrewjames-photography.tumblr.com/" title="Andrew James Photography" rel="nofollow">andrewjames-photography</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_mekonekou without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://mekonekou.tumblr.com/" title="So Mediocre it Hurts " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_65f165d71c6f_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://mekonekou.tumblr.com/" title="So Mediocre it Hurts" rel="nofollow">mekonekou</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_j1718 without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://j1718.tumblr.com/" title="Untitled"><img src="http://31.media.tumblr.com/avatar_908c0ddc771e_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://j1718.tumblr.com/post/61474468590">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://j1718.tumblr.com/" class="tumblelog" title="Untitled">j1718</a> reblogged this from <a rel="nofollow" href="http://chicorgeek.tumblr.com/" class="source_tumblelog" title="chic or geek">chicorgeek</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_chicorgeek without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://chicorgeek.tumblr.com/" title="chic or geek"><img src="http://25.media.tumblr.com/avatar_0b8d12ba69d4_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://chicorgeek.tumblr.com/post/61473592267">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://chicorgeek.tumblr.com/" class="tumblelog" title="chic or geek">chicorgeek</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_thatguychad without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://thatguychad.tumblr.com/" title="thatguychad " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_29ccdf902a00_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://thatguychad.tumblr.com/" title="thatguychad" rel="nofollow">thatguychad</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_chaosfart without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://chaosfart.tumblr.com/" title="chaosfart " rel="nofollow"><img src="http://assets.tumblr.com/images/default_avatar_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://chaosfart.tumblr.com/" title="chaosfart" rel="nofollow">chaosfart</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_hayweee-mn without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://hayweee-mn.tumblr.com/" title="Untitled " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_e105287b62e1_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://hayweee-mn.tumblr.com/" title="Untitled" rel="nofollow">hayweee-mn</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_ratafia without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://ratafia.info/" title="Ratafia Currant " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_b4203113a391_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://ratafia.info/" title="Ratafia Currant" rel="nofollow">ratafia</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_kikuzu without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://kikuzu.tumblr.com/" title="how many suns ?"><img src="http://31.media.tumblr.com/avatar_c0216ee7ee59_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://kikuzu.tumblr.com/post/61463581365">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://kikuzu.tumblr.com/" class="tumblelog" title="how many suns ?">kikuzu</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_cupidic without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://cupidic.tumblr.com/" title="personify perfection " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_7629e9badb9c_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://cupidic.tumblr.com/" title="personify perfection" rel="nofollow">cupidic</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_f1design without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://blog.factory1.com/" title="factory 1 design " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_90baa086ac9e_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://blog.factory1.com/" title="factory 1 design" rel="nofollow">f1design</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_ethanalloway without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://ethanalloway.tumblr.com/" title="Ethan Alloway " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_66d9c97d4ba5_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://ethanalloway.tumblr.com/" title="Ethan Alloway" rel="nofollow">ethanalloway</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_millymoostylez without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://millymoostylez.tumblr.com/" title="Untitled " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_8bd64f58a7d7_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://millymoostylez.tumblr.com/" title="Untitled" rel="nofollow">millymoostylez</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_rowespump without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://rowespump.tumblr.com/" title="Untitled " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_597d63453857_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://rowespump.tumblr.com/" title="Untitled" rel="nofollow">rowespump</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_missyjoro without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://missyjoro.tumblr.com/" title="Untitled " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_47538e8106d5_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://missyjoro.tumblr.com/" title="Untitled" rel="nofollow">missyjoro</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_yes-victoria-things without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://yes-victoria-things.tumblr.com/" title="Sem t&iacute;tulo " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_724ea82a1164_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://yes-victoria-things.tumblr.com/" title="Sem t&iacute;tulo" rel="nofollow">yes-victoria-things</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_caitlinfaith without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://caitlinfaith.tumblr.com/" title="grace. " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_dfa3f07aea8f_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://caitlinfaith.tumblr.com/" title="grace." rel="nofollow">caitlinfaith</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_despondency4 without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://despondency4.tumblr.com/" title="Despondency.."><img src="http://assets.tumblr.com/images/default_avatar/pyramid_open_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://despondency4.tumblr.com/post/61429663657">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://despondency4.tumblr.com/" class="tumblelog" title="Despondency..">despondency4</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_barbara without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://barbara.tumblr.com/" title="Barbara&#039;s Log " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_696671485d9a_16.gif" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://barbara.tumblr.com/" title="Barbara&#039;s Log" rel="nofollow">barbara</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_ima-firecracker18 without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://ima-firecracker18.tumblr.com/" title="Untitled " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_05bce0132563_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://ima-firecracker18.tumblr.com/" title="Untitled" rel="nofollow">ima-firecracker18</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_heinepk without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://heinepk.tumblr.com/" title="foreign affairs " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_e89e960930bc_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://heinepk.tumblr.com/" title="foreign affairs" rel="nofollow">heinepk</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_jpsfineartphoto without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://jpsfineartphoto.tumblr.com/" title="JPS Fine Art Photography " rel="nofollow"><img src="http://25.media.tumblr.com/avatar_703f838efd47_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://jpsfineartphoto.tumblr.com/" title="JPS Fine Art Photography" rel="nofollow">jpsfineartphoto</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_lilou51 without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://lilou51.tumblr.com/" title="lilou51 " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_4f3b7466ee21_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://lilou51.tumblr.com/" title="lilou51" rel="nofollow">lilou51</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_hannahbananapuralewski without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="http://hannahbananapuralewski.tumblr.com/" title="I&#039;d Rather Fly a Plane If You Know What I Mean"><img src="http://31.media.tumblr.com/avatar_2733d33ec9c8_16.png" class="avatar " alt="" /></a>
+                    
+                    <span class="action" data-post-url="http://hannahbananapuralewski.tumblr.com/post/61421910723">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="http://hannahbananapuralewski.tumblr.com/" class="tumblelog" title="I&#039;d Rather Fly a Plane If You Know What I Mean">hannahbananapuralewski</a> reblogged this from <a rel="nofollow" href="http://livelymorgue.tumblr.com/" class="source_tumblelog" title="The Lively Morgue">livelymorgue</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_dissiderata without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="http://dissiderata.tumblr.com/" title="Dissiderata " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_fa8ac40b71d6_16.png" class="avatar " alt="" /></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="http://dissiderata.tumblr.com/" title="Dissiderata" rel="nofollow">dissiderata</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+    
+            <li class="note more_notes_link_container" style="text-align:center;" id="more_notes_61405848936">
+            <a class="more_notes_link" rel="nofollow" href="#" onclick="this.style.display='none';document.getElementById('notes_loading_61405848936').style.display = 'block';if(window.ActiveXObject)var tumblrReq=new ActiveXObject('Microsoft.XMLHTTP');else if(window.XMLHttpRequest)var tumblrReq=new XMLHttpRequest();else return false;tumblrReq.onreadystatechange=function(){if(tumblrReq.readyState==4){var notes_html=tumblrReq.responseText.split('<!-- START '+'NOTES -->')[1].split('<!-- END '+'NOTES -->')[0];
+if(window.tumblrNotesLoaded)if(tumblrNotesLoaded(notes_html)==false)return;var more_notes_link=document.getElementById('more_notes_61405848936');var notes=more_notes_link.parentNode;notes.removeChild(more_notes_link);notes.innerHTML+=notes_html;if(window.tumblrNotesInserted)tumblrNotesInserted(notes_html);}};tumblrReq.open('GET','/notes/61405848936/HfYBPRv15?from_c=1379355174',true);tumblrReq.send();return false;">Show more notes</a><span class="notes_loading" id="notes_loading_61405848936" style="display:none;">Loading...</span>
+        </li>
+    
+    <!-- END NOTES -->
+</ol>
+
+		      </div>
+		  
+        </article>
+      </div>
+      
+      <footer>
+        <nav>
+          <h2 id="miniLogo"><a href="http://www.nytimes.com/"><img src="http://graphics8.nytimes.com/packages/images/landingpage/_images_nlp/morgue_logo.png" alt="The New York Times" /></a></h2>
+          <ul>
+            <li><a href="/archive">Archive</a></li>
+            <li><a href="/about">About The Lively Morgue</a></li><li><a href="/purchase">Purchase Prints</a></li>
+            <li><a href="http://livelymorgue.tumblr.com/rss">RSS</a></li>
+            
+          </ul>
+          <ul class="backTo">
+            <li><a href="#" onclick="$(window).scrollTop(0); return false;">Back to top</a></li>
+            <li><a href="http://www.nytimes.com/">Go to NYTimes.com</a></li>
+          </ul>
+        </nav>
+      </footer>
+    </div>
+    <div id="fb-root"></div>
+  <!-- BEGIN TUMBLR CODE -->
+        
+    
+        <iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="http://assets.tumblr.com/assets/html/iframe/o.html?_v=03e46de2c31f616e91612be5ae062acd#src=http%3A%2F%2Flivelymorgue.tumblr.com%2Fpost%2F61405848936%2Fwashington-is-not-very-strong-on-pageantry-anne%3Fsmid%3Dtw-nytimes&amp;pid=61405848936&amp;rk=C6MjjmhW&amp;lang=en_US&amp;name=livelymorgue&amp;avatar=http%3A%2F%2F25.media.tumblr.com%2Favatar_3f99bd2bc9da_64.png&amp;title=The+Lively+Morgue&amp;url=http%3A%2F%2Flivelymorgue.tumblr.com%2F&amp;page_slide=no_slide"></iframe>    <div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://www.tumblr.com/assets/html/iframe/teaser.html#src=http%3A%2F%2Flivelymorgue.tumblr.com%2Fpost%2F61405848936%2Fwashington-is-not-very-strong-on-pageantry-anne%3Fsmid%3Dtw-nytimes&amp;pid=61405848936&amp;rk=C6MjjmhW&amp;lang=en_US&amp;name=livelymorgue&amp;avatar=http%3A%2F%2F25.media.tumblr.com%2Favatar_3f99bd2bc9da_64.png&amp;title=The+Lively+Morgue&amp;url=http%3A%2F%2Flivelymorgue.tumblr.com%2F&amp;page_slide=no_slide" id="teaser_iframe" width="1" height="1"></iframe></div>
+
+<script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls('http://assets.tumblr.com/assets/html/iframe/follow.html?_v=1c38ddb221b64d02021cc5cc3fb77b98');
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script>
+    
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    
+        
+<iframe src="http://assets.tumblr.com/analytics.html?63fae489732da54993e4a941e42dcf5e" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380546791&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbGl2ZWx5bW9yZ3VlLnR1bWJsci5jb21cL3Bvc3RcLzYxNDA1ODQ4OTM2XC93YXNoaW5ndG9uLWlzLW5vdC12ZXJ5LXN0cm9uZy1vbi1wYWdlYW50cnktYW5uZT9zbWlkPXR3LW55dGltZXMiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSJ9&U=IHGENLEGIE&K=e862a8a4cde527c37afc24fb1ec7287646636392830f6581f9a0ae72a50f1d8e&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380546791&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbGl2ZWx5bW9yZ3VlLnR1bWJsci5jb21cL3Bvc3RcLzYxNDA1ODQ4OTM2XC93YXNoaW5ndG9uLWlzLW5vdC12ZXJ5LXN0cm9uZy1vbi1wYWdlYW50cnktYW5uZT9zbWlkPXR3LW55dGltZXMiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsIm5vc2NyaXB0IjoxfQ==&U=IHGENLEGIE&K=d9423b2a26bb8b8d2c18fdf189520db15acf4ce3d6359afe94e5fc19b88d54b8&R="></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380546791&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2xpdmVseW1vcmd1ZS50dW1ibHIuY29tXC9wb3N0XC82MTQwNTg0ODkzNlwvd2FzaGluZ3Rvbi1pcy1ub3QtdmVyeS1zdHJvbmctb24tcGFnZWFudHJ5LWFubmU/c21pZD10dy1ueXRpbWVzIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiNjE0MDU4NDg5MzYiLCJibG9naWQiOiIzMTk0ODI1OSIsInNvdXJjZSI6MzN9XX0=&U=FMLJMMBLAC&K=fcbb6c7e9426963109a6ef30faae5b240c7c31e2ac17acb18f4d497a4e239ac9&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380546791&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2xpdmVseW1vcmd1ZS50dW1ibHIuY29tXC9wb3N0XC82MTQwNTg0ODkzNlwvd2FzaGluZ3Rvbi1pcy1ub3QtdmVyeS1zdHJvbmctb24tcGFnZWFudHJ5LWFubmU/c21pZD10dy1ueXRpbWVzIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiNjE0MDU4NDg5MzYiLCJibG9naWQiOiIzMTk0ODI1OSIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=FMLJMMBLAC&K=361876a18037517d03189925b891fc5dc6152413130ad02f150874ca233c0184&R="></noscript><!-- END TUMBLR CODE -->
+</body>
+</html>

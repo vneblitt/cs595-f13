@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<link rel="apple-touch-icon" href="images/touch-icon.jpg"/>
+	<link rel="icon" type="image/gif" href="images/favicon.gif" />
+	<link href="css/reset.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="css/style.css" media="screen" rel="stylesheet" type="text/css" />
+	<!--[if lte IE 8]>
+		<link href="css/ie8-and-down.css" media="screen" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	
+	<script type="text/javascript" src="//use.typekit.net/mhl5nsl.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+	<script src="js/space.js" type="text/javascript"></script>
+	<script src="js/jquery.debouncedresize.js" type="text/javascript"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0; maximum-scale=1.0" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="description" content="How many people are in space right now?">
+	<title>How Many People Are In Space Right Now?</title>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-10210909-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<script type="text/javascript">
+		$(window).load(function() {    
+			var $windowHeight = $(window).height() -12;
+			$("#top").height($windowHeight);
+			$('h1').css({
+					'margin-top' : (($windowHeight) - $('h1').outerHeight())/2,
+					'margin-bottom' : (($windowHeight) - $('h1').outerHeight())/2,
+					'opacity' : '1.0',
+					'filter' : 'alpha(opacity = 100)',
+			});
+			
+			$("#container").click(function(){
+				$("html, body").animate({ 
+					scrollTop: $windowHeight + 50
+				}, 1500);
+			})
+			
+		});
+		$(window).on("debouncedresize", function( event ) {
+			var $windowHeight = $(window).height() -12;
+			$("#top").height($windowHeight);
+			$('h1').css({
+					'margin-top' : (($windowHeight) - $('h1').outerHeight())/2,
+					'margin-bottom' : (($windowHeight) - $('h1').outerHeight())/2
+			});
+		}); face
+	</script>
+	<meta property="twitter:account_id" content="626673" />
+	<meta property="fb:admins" content="57500520" />
+</head>
+
+<body>
+	<a id="container">
+		<div id="top">
+			<span class="texture"></span>
+			<h1>0</h1>
+		</div>
+	</a>
+	<div id="listing"></div>
+	<div id="footer">
+		<div class="cf" id="social">
+			<a class="socialist" target="_blank" href="http://www.facebook.com/sharer.php?u=http://www.howmanypeopleareinspacerightnow.com"><img alt="You should like this on Facebook" title="You should like this on Facebook" src="images/social-facebook" /></a>
+			<a class="socialist" target="_blank" href="http://twitter.com/intent/tweet?text=How+many+people+are+in+space+right+now?+http://bit.ly/9dXEvh+%23peopleinspace"><img alt="You should definitely Tweet this" title="You should definitely Tweet this" src="images/social-twitter" /></a>
+			<a id="widget" target="_blank" href="http://j.mp/ypDmxG">Download the widget</a>
+		</div>
+		<p class="photo-credit"><span>Photo credit</span><br />"EVAtion"  S84-27031, NASA, February 12, 1984.</p>
+		<p>Powered by high fives & <a target="_blank" href="http://j.mp/v1fRJj">Brad Eshbach</a>. Design + code: <a target="_blank" href="http://joshuahathaway.com">Joshua Hathaway.</a></p>
+		<p class="copyright">Copyright © 2013 Brad Eshbach. All rights reserved.</p>
+	</div>
+	
+	<script type="text/javascript">
+  var _sf_async_config = { uid: 46118, domain: 'howmanypeopleareinspacerightnow.com' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+</body>
+</html>

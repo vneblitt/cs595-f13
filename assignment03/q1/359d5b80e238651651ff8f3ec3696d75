@@ -1,0 +1,613 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="">
+<!--<![endif]-->
+    <head>   
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title> - FTC Complaint Assistant</title>
+        <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="application-lang" content ="en" />
+        <link href="/Content/boilerplate.css" rel="stylesheet"/>
+<link href="/Content/site.css" rel="stylesheet"/>
+<link href="/Content/style.css" rel="stylesheet"/>
+
+        <link href="/Content/themes/base/jquery-ui.css" rel="stylesheet"/>
+<link href="/Content/themes/base/jquery.ui.datepicker.css" rel="stylesheet"/>
+<link href="/Content/themes/base/jquery.ui.core.css" rel="stylesheet"/>
+<link href="/Content/themes/base/jquery.ui.resizable.css" rel="stylesheet"/>
+<link href="/Content/themes/base/jquery.ui.selectable.css" rel="stylesheet"/>
+<link href="/Content/themes/base/jquery.ui.accordion.css" rel="stylesheet"/>
+<link href="/Content/themes/base/jquery.ui.autocomplete.css" rel="stylesheet"/>
+<link href="/Content/themes/base/jquery.ui.button.css" rel="stylesheet"/>
+<link href="/Content/themes/base/jquery.ui.dialog.css" rel="stylesheet"/>
+<link href="/Content/themes/base/jquery.ui.slider.css" rel="stylesheet"/>
+<link href="/Content/themes/base/jquery.ui.tabs.css" rel="stylesheet"/>
+<link href="/Content/themes/base/jquery.ui.progressbar.css" rel="stylesheet"/>
+<link href="/Content/themes/base/jquery.ui.theme.css" rel="stylesheet"/>
+
+        <script src="/Scripts/modernizr-2.5.3.js"></script>
+
+            <!-- 
+    To learn more about the conditional comments around the html tags at the top of the file:
+    paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+                 
+    Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+    * insert the link to your js here
+    * remove the link below to the html5shiv
+    * add the "no-js" class to the html tags at the top
+    * you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+    -->
+
+    <!--[if lt IE 9]>
+    <script src="/Scripts/html5.js"></script>
+    <![endif]-->
+
+    <!-- Removed below script tag to avoid proxy 
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        -- Replace html5.js script tag above to reset to default config -->
+
+    <script src="/Scripts/respond.min.js"></script>
+    <script src="/Scripts/overlib_mini.js"></script>
+    <link rel="stylesheet" href="/Content/anythingslider_content.css">
+    </head>
+    <body>
+        <div class="gridContainer clearfix"> 
+            <header>
+                    <div id="header">
+                       <img src="../Content/images/mathead.jpg" alt="Federal Trade Commission" />
+                        <div id="header_nav"><a href="http://www.ftc.gov" style="text-decoration:none;color: #90ACC3;">Back to ftc.gov</a> <span id="culturelink">|                           
+                            <a actionType="changeCulture" class="action-save-layout" href="/Information" style="text-decoration:none;color:&#32;#90ACC3;">Español</a>
+                        </span>
+                        </div>
+                    </div>
+                    <div id="mobile_header">
+                       <img src="../Content/images/mobile_mathead.jpg" alt="Federal Trade Commission" />
+                        <div id="header_nav"><a href="http://www.ftc.gov" style="text-decoration:none;color: #90ACC3;">Back to ftc.gov</a> <span id="culturelink">|                           
+                            <a actionType="changeCulture" class="action-save-layout" href="/Information" style="text-decoration:none;color:&#32;#90ACC3;">Español</a>
+                        </span>
+                        </div>
+                    </div>
+                    
+            </header>
+                
+                <div id="body">
+                    <div id="content">
+                        <noscript>
+                        <div id ="javascriptWarning" style=" max-width: 960px; z-index: 1000; text-align:center; margin-right: auto; margin-left: auto; padding-top: 1em; padding-bottom: 1em; border-style:solid; border-width: 5px; border-color:red; background-color:yellow">
+                            <img src="../Content/Images/stopsign.gif" alt="stopsign" title="Stop Sign"/>
+                            NOTE: You will need to have Javascript enabled in order to use the FTC Consumer Assistant.
+                        </div>
+                        </noscript>
+
+                                       
+                    <section >
+                    
+                          <div id="content_bg">
+                            
+<script type="text/javascript" src="../foresee/foresee-trigger.js"></script>
+<link rel="stylesheet" href="/Content/anythingslider.css">
+<link href="/Content/SpryAccordion.css" rel="stylesheet" type="text/css" />
+<style>
+ div.anythingControls { float: right; }
+#slider div.anythingControls li:first-child{display: none;}
+ </style>
+
+<form action="/GettingStarted" id="form" method="post" name="form"><input id="selectedActionType" name="selectedActionType" type="hidden" value="" /></form>       
+  
+<p class="title">FTC Complaint Assistant</p>
+
+<div id="ticker-box-new">
+<div id="menu_box">
+<span class="menu_head">File a Complaint Below</span>
+  <!--  <span class="menu_head">&nbsp;&nbsp; File a Complaint</span>-->
+  <div id="Accordion1" class="Accordion" tabindex="0">
+
+                <div class="AccordionPane1">
+                    <div class="AccordionPanelTab"><a href="#">Identity Theft</a></div>
+                    <div class="AccordionPanelContent">
+                             <a href="/GettingStarted?NextQID=1" title="I am a victim of identity theft. Someone has used my personal information.">I am a victim of identity theft. Someone has used my personal information.</a><br />
+                             <a href="/GettingStarted?NextQID=13" title="Someone tried to use my personal info.">Someone tried to use my personal info.</a><br />
+                             <a href="/GettingStarted?NextQID=17" title="My personal information was disclosed due to a company&#39;s data breach.">My personal information was disclosed due to a company&#39;s data breach.</a><br />
+                             <a href="/GettingStarted?NextQID=303" title="I have lost my purse or wallet and may become a victim.">I have lost my purse or wallet and may become a victim.</a><br />
+                    </div>
+                </div>
+                <div class="AccordionPane1">
+                    <div class="AccordionPanelTab"><a href="#">Credit and Debt</a></div>
+                    <div class="AccordionPanelContent">
+                             <a href="/GettingStarted?NextQID=98" title="Credit and Loans">Credit and Loans</a><br />
+                             <a href="/GettingStarted?NextQID=24" title="Debt">Debt</a><br />
+                    </div>
+                </div>
+                <div class="AccordionPane1">
+                    <div class="AccordionPanelTab"><a href="#">Unwanted Telemarketing, Text, or SPAM</a></div>
+                    <div class="AccordionPanelContent">
+                             <a href="/GettingStarted?NextQID=35" title="Telemarketing">Telemarketing</a><br />
+                             <a href="/GettingStarted?NextQID=250" title="Text">Text</a><br />
+                             <a href="/GettingStarted?NextQID=280" title="SPAM">SPAM</a><br />
+                    </div>
+                </div>
+                <div class="AccordionPane1">
+                    <div class="AccordionPanelTab"><a href="#">Mobile Devices or Telephones</a></div>
+                    <div class="AccordionPanelContent">
+                             <a href="/GettingStarted?NextQID=249" title="Mobile Devices or Services">Mobile Devices or Services</a><br />
+                             <a href="/GettingStarted?NextQID=48" title="Landline Telephone Devices or Services">Landline Telephone Devices or Services</a><br />
+                    </div>
+                </div>
+                <div class="AccordionPane1">
+                    <div class="AccordionPanelTab"><a href="#">Internet Services, Online Shopping, or Computers</a></div>
+                    <div class="AccordionPanelContent">
+                             <a href="/GettingStarted?NextQID=192" title="Internet Services">Internet Services</a><br />
+                             <a href="/GettingStarted?NextQID=203" title="Online Shopping">Online Shopping</a><br />
+                             <a href="/GettingStarted?NextQID=70" title="Computers">Computers</a><br />
+                    </div>
+                </div>
+                <div class="AccordionPane1">
+                    <div class="AccordionPanelTab"><a href="#">Jobs and Making Money</a></div>
+                    <div class="AccordionPanelContent">
+                             <a href="/GettingStarted?NextQID=58" title="Business Opportunities or Work-At-Home">Business Opportunities or Work-At-Home</a><br />
+                             <a href="/GettingStarted?NextQID=61" title="Job Scams">Job Scams</a><br />
+                             <a href="/GettingStarted?NextQID=64" title="Franchises or Distributorships">Franchises or Distributorships</a><br />
+                             <a href="/GettingStarted?NextQID=67" title="Multi-Level Marketing or Pyramid Schemes">Multi-Level Marketing or Pyramid Schemes</a><br />
+                    </div>
+                </div>
+                <div class="AccordionPane1">
+                    <div class="AccordionPanelTab"><a href="#">Other</a></div>
+                    <div class="AccordionPanelContent">
+                             <a href="/GettingStarted?NextQID=210" title="Counterfeit Checks">Counterfeit Checks</a><br />
+                             <a href="/GettingStarted?NextQID=213" title="Impostor Scams">Impostor Scams</a><br />
+                             <a href="/GettingStarted?NextQID=217" title="Sweepstakes and Prize Promotions">Sweepstakes and Prize Promotions</a><br />
+                             <a href="/GettingStarted?NextQID=231" title="Automobile">Automobile</a><br />
+                             <a href="/GettingStarted?NextQID=241" title="Satellite and Cable TV Provider">Satellite and Cable TV Provider</a><br />
+                             <a href="/GettingStarted?NextQID=245" title="Magazines">Magazines</a><br />
+                             <a href="/GettingStarted?NextQID=275" title="Health and Fitness">Health and Fitness</a><br />
+                             <a href="/GettingStarted?NextQID=272" title="Foreign Lottery">Foreign Lottery</a><br />
+                             <a href="/GettingStarted?NextQID=268" title="Grants or Education Scholarships">Grants or Education Scholarships</a><br />
+                             <a href="/GettingStarted?NextQID=265" title="Charitable Solicitations">Charitable Solicitations</a><br />
+                             <a href="/GettingStarted?NextQID=262" title="Romance Scams">Romance Scams</a><br />
+                             <a href="/GettingStarted?NextQID=258" title="Immigration or Tax Services">Immigration or Tax Services</a><br />
+                             <a href="/GettingStarted?NextQID=254" title="Travel or Vacations">Travel or Vacations</a><br />
+                             <a href="/GettingStarted?NextQID=251" title="No match found? Click Here">No match found? Click Here</a><br />
+                    </div>
+                </div>
+
+
+</div>
+
+</div>
+
+
+<div id="backgroundimg">
+	<ul id="slider">
+	  <li style="font-weight:bold;" onMouseOver="document.getElementById('HomePageText01').style.fontWeight = 'bold';" onMouseOut="document.getElementById('HomePageText01').style.fontWeight = 'bold';">
+<h2 class="first_slide_h2">File a Complaint</h2>
+	  
+	  <div class="first_slide_text" id="HomePageText01">If you see your complaint issue to the right, please select it.  If not, select other.</div></li>
+
+    <li>
+    <table border="0" cellpadding="0" cellspacing="0" class="hp_content_pl_2">
+ 	    <tr>
+		    <td valign="top" align="left" width="200" >
+		    <img src="/Content/Images/id_icon.png" alt="Identity Theft" class="n2_slide_img">
+		    </td>
+		    <td valign="top" align="left">
+			    <h2 class="n2_slide_h2">Identity Theft</h2>
+			    
+			    <div class="n2_slide_text">
+
+				  <table border="0" cellpadding="0" cellspacing="0" class="8_tbl_container">
+                    <tr><td valign="top" align="left"> 
+  
+
+				    <table border="0" cellpadding="0" cellspacing="0" class="n2_slide_tbl01">
+					            
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity1"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=1&amp;Url=%23%26panel1-2" class="n8_slide_link" title="I am a victim of identity theft. Someone has used my personal information." onMouseOver="document.getElementById('imgIdentity1').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity1').src='/Content/Images/ticker_arrow_white.png';">I am a victim of identity theft. Someone has used my personal information.</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity2"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=13&amp;Url=%23%26panel1-2" class="n8_slide_link" title="Someone tried to use my personal info." onMouseOver="document.getElementById('imgIdentity2').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity2').src='/Content/Images/ticker_arrow_white.png';">Someone tried to use my personal info.</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity3"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=17&amp;Url=%23%26panel1-2" class="n8_slide_link" title="My personal information was disclosed due to a company&#39;s data breach." onMouseOver="document.getElementById('imgIdentity3').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity3').src='/Content/Images/ticker_arrow_white.png';">My personal information was disclosed due to a company&#39;s data breach.</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity4"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=303&amp;Url=%23%26panel1-2" class="n8_slide_link" title="I have lost my purse or wallet and may become a victim." onMouseOver="document.getElementById('imgIdentity4').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity4').src='/Content/Images/ticker_arrow_white.png';">I have lost my purse or wallet and may become a victim.</a></td>
+                                                    </tr>
+				    
+				    </table>
+                        </td>
+                        </tr>
+                        </table>
+ 			    </div>
+		    </td>
+	    </tr>
+    </table>
+    </li>
+    <li>
+    <table border="0" cellpadding="0" cellspacing="0" class="hp_content_pl_3">
+ 	    <tr>
+		    <td valign="top" align="left" width="200" >
+		    <img src="/Content/Images/credit_icon.png" alt="Credit and Debt" class="n3_slide_img">
+		    </td>
+		    <td valign="top" align="left">
+			    <h2 class="n3_slide_h2">Credit and Debt</h2>
+			    
+			    <div class="n3_slide_text">
+
+				  <table border="0" cellpadding="0" cellspacing="0" class="8_tbl_container">
+                    <tr><td valign="top" align="left"> 
+  
+
+				    <table border="0" cellpadding="0" cellspacing="0" class="n3_slide_tbl01">
+					            
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity5"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=98&amp;Url=%23%26panel1-3" class="n8_slide_link" title="Credit and Loans" onMouseOver="document.getElementById('imgIdentity5').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity5').src='/Content/Images/ticker_arrow_white.png';">Credit and Loans</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity6"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=24&amp;Url=%23%26panel1-3" class="n8_slide_link" title="Debt" onMouseOver="document.getElementById('imgIdentity6').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity6').src='/Content/Images/ticker_arrow_white.png';">Debt</a></td>
+                                                    </tr>
+				    
+				    </table>
+                        </td>
+                        </tr>
+                        </table>
+ 			    </div>
+		    </td>
+	    </tr>
+    </table>
+    </li>
+    <li>
+    <table border="0" cellpadding="0" cellspacing="0" class="hp_content_pl_4">
+ 	    <tr>
+		    <td valign="top" align="left" width="200" >
+		    <img src="/Content/Images/spam_icon.png" alt="Unwanted Telemarketing, Text, or SPAM" class="n4_slide_img">
+		    </td>
+		    <td valign="top" align="left">
+			    <h2 class="n4_slide_h2">Unwanted Telemarketing, Text, or SPAM</h2>
+			    
+			    <div class="n4_slide_text">
+
+				  <table border="0" cellpadding="0" cellspacing="0" class="8_tbl_container">
+                    <tr><td valign="top" align="left"> 
+  
+
+				    <table border="0" cellpadding="0" cellspacing="0" class="n4_slide_tbl01">
+					            
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity7"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=35&amp;Url=%23%26panel1-4" class="n8_slide_link" title="Telemarketing" onMouseOver="document.getElementById('imgIdentity7').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity7').src='/Content/Images/ticker_arrow_white.png';">Telemarketing</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity8"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=250&amp;Url=%23%26panel1-4" class="n8_slide_link" title="Text" onMouseOver="document.getElementById('imgIdentity8').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity8').src='/Content/Images/ticker_arrow_white.png';">Text</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity9"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=280&amp;Url=%23%26panel1-4" class="n8_slide_link" title="SPAM" onMouseOver="document.getElementById('imgIdentity9').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity9').src='/Content/Images/ticker_arrow_white.png';">SPAM</a></td>
+                                                    </tr>
+				    
+				    </table>
+                        </td>
+                        </tr>
+                        </table>
+ 			    </div>
+		    </td>
+	    </tr>
+    </table>
+    </li>
+    <li>
+    <table border="0" cellpadding="0" cellspacing="0" class="hp_content_pl_5">
+ 	    <tr>
+		    <td valign="top" align="left" width="200" >
+		    <img src="/Content/Images/phone_icon.png" alt="Mobile Devices or Telephones" class="n5_slide_img">
+		    </td>
+		    <td valign="top" align="left">
+			    <h2 class="n5_slide_h2">Mobile Devices or Telephones</h2>
+			    
+			    <div class="n5_slide_text">
+
+				  <table border="0" cellpadding="0" cellspacing="0" class="8_tbl_container">
+                    <tr><td valign="top" align="left"> 
+  
+
+				    <table border="0" cellpadding="0" cellspacing="0" class="n5_slide_tbl01">
+					            
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity10"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=249&amp;Url=%23%26panel1-5" class="n8_slide_link" title="Mobile Devices or Services" onMouseOver="document.getElementById('imgIdentity10').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity10').src='/Content/Images/ticker_arrow_white.png';">Mobile Devices or Services</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity11"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=48&amp;Url=%23%26panel1-5" class="n8_slide_link" title="Landline Telephone Devices or Services" onMouseOver="document.getElementById('imgIdentity11').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity11').src='/Content/Images/ticker_arrow_white.png';">Landline Telephone Devices or Services</a></td>
+                                                    </tr>
+				    
+				    </table>
+                        </td>
+                        </tr>
+                        </table>
+ 			    </div>
+		    </td>
+	    </tr>
+    </table>
+    </li>
+    <li>
+    <table border="0" cellpadding="0" cellspacing="0" class="hp_content_pl_6">
+ 	    <tr>
+		    <td valign="top" align="left" width="200" >
+		    <img src="/Content/Images/mobile_icon.png" alt="Internet Services, Online Shopping, or Computers" class="n6_slide_img">
+		    </td>
+		    <td valign="top" align="left">
+			    <h2 class="n6_slide_h2">Internet Services, Online Shopping, or Computers</h2>
+			    
+			    <div class="n6_slide_text">
+
+				  <table border="0" cellpadding="0" cellspacing="0" class="8_tbl_container">
+                    <tr><td valign="top" align="left"> 
+  
+
+				    <table border="0" cellpadding="0" cellspacing="0" class="n6_slide_tbl01">
+					            
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity12"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=192&amp;Url=%23%26panel1-6" class="n8_slide_link" title="Internet Services" onMouseOver="document.getElementById('imgIdentity12').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity12').src='/Content/Images/ticker_arrow_white.png';">Internet Services</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity13"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=203&amp;Url=%23%26panel1-6" class="n8_slide_link" title="Online Shopping" onMouseOver="document.getElementById('imgIdentity13').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity13').src='/Content/Images/ticker_arrow_white.png';">Online Shopping</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity14"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=70&amp;Url=%23%26panel1-6" class="n8_slide_link" title="Computers" onMouseOver="document.getElementById('imgIdentity14').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity14').src='/Content/Images/ticker_arrow_white.png';">Computers</a></td>
+                                                    </tr>
+				    
+				    </table>
+                        </td>
+                        </tr>
+                        </table>
+ 			    </div>
+		    </td>
+	    </tr>
+    </table>
+    </li>
+    <li>
+    <table border="0" cellpadding="0" cellspacing="0" class="hp_content_pl_7">
+ 	    <tr>
+		    <td valign="top" align="left" width="200" >
+		    <img src="/Content/Images/money_icon.png" alt="Jobs and Making Money" class="n7_slide_img">
+		    </td>
+		    <td valign="top" align="left">
+			    <h2 class="n7_slide_h2">Jobs and Making Money</h2>
+			    
+			    <div class="n7_slide_text">
+
+				  <table border="0" cellpadding="0" cellspacing="0" class="8_tbl_container">
+                    <tr><td valign="top" align="left"> 
+  
+
+				    <table border="0" cellpadding="0" cellspacing="0" class="n7_slide_tbl01">
+					            
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity15"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=58&amp;Url=%23%26panel1-7" class="n8_slide_link" title="Business Opportunities or Work-At-Home" onMouseOver="document.getElementById('imgIdentity15').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity15').src='/Content/Images/ticker_arrow_white.png';">Business Opportunities or Work-At-Home</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity16"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=61&amp;Url=%23%26panel1-7" class="n8_slide_link" title="Job Scams" onMouseOver="document.getElementById('imgIdentity16').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity16').src='/Content/Images/ticker_arrow_white.png';">Job Scams</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity17"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=64&amp;Url=%23%26panel1-7" class="n8_slide_link" title="Franchises or Distributorships" onMouseOver="document.getElementById('imgIdentity17').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity17').src='/Content/Images/ticker_arrow_white.png';">Franchises or Distributorships</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity18"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=67&amp;Url=%23%26panel1-7" class="n8_slide_link" title="Multi-Level Marketing or Pyramid Schemes" onMouseOver="document.getElementById('imgIdentity18').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity18').src='/Content/Images/ticker_arrow_white.png';">Multi-Level Marketing or Pyramid Schemes</a></td>
+                                                    </tr>
+				    
+				    </table>
+                        </td>
+                        </tr>
+                        </table>
+ 			    </div>
+		    </td>
+	    </tr>
+    </table>
+    </li>
+    <li>
+    <table border="0" cellpadding="0" cellspacing="0" class="hp_content_pl_8">
+ 	    <tr>
+		    <td valign="top" align="left" width="200" >
+		    <img src="/Content/Images/cart_icon.png" alt="Other" class="n8_slide_img">
+		    </td>
+		    <td valign="top" align="left">
+			    <h2 class="n8_slide_h2">Other</h2>
+			    
+			    <div class="n8_slide_text">
+
+				  <table border="0" cellpadding="0" cellspacing="0" class="8_tbl_container">
+                    <tr><td valign="top" align="left"> 
+  
+
+				    <table border="0" cellpadding="0" cellspacing="0" class="n8_slide_tbl01">
+					            
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity19"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=210&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Counterfeit Checks" onMouseOver="document.getElementById('imgIdentity19').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity19').src='/Content/Images/ticker_arrow_white.png';">Counterfeit Checks</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity20"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=213&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Impostor Scams" onMouseOver="document.getElementById('imgIdentity20').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity20').src='/Content/Images/ticker_arrow_white.png';">Impostor Scams</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity21"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=217&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Sweepstakes and Prize Promotions" onMouseOver="document.getElementById('imgIdentity21').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity21').src='/Content/Images/ticker_arrow_white.png';">Sweepstakes and Prize Promotions</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity22"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=231&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Automobile" onMouseOver="document.getElementById('imgIdentity22').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity22').src='/Content/Images/ticker_arrow_white.png';">Automobile</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity23"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=241&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Satellite and Cable TV Provider" onMouseOver="document.getElementById('imgIdentity23').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity23').src='/Content/Images/ticker_arrow_white.png';">Satellite and Cable TV Provider</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity24"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=245&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Magazines" onMouseOver="document.getElementById('imgIdentity24').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity24').src='/Content/Images/ticker_arrow_white.png';">Magazines</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity25"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=275&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Health and Fitness" onMouseOver="document.getElementById('imgIdentity25').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity25').src='/Content/Images/ticker_arrow_white.png';">Health and Fitness</a></td>
+                                                    </tr>
+</table></td><td></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="0" class=n8_slide_tbl01_02>                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity26"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=272&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Foreign Lottery" onMouseOver="document.getElementById('imgIdentity26').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity26').src='/Content/Images/ticker_arrow_white.png';">Foreign Lottery</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity27"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=268&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Grants or Education Scholarships" onMouseOver="document.getElementById('imgIdentity27').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity27').src='/Content/Images/ticker_arrow_white.png';">Grants or Education Scholarships</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity28"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=265&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Charitable Solicitations" onMouseOver="document.getElementById('imgIdentity28').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity28').src='/Content/Images/ticker_arrow_white.png';">Charitable Solicitations</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity29"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=262&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Romance Scams" onMouseOver="document.getElementById('imgIdentity29').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity29').src='/Content/Images/ticker_arrow_white.png';">Romance Scams</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity30"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=258&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Immigration or Tax Services" onMouseOver="document.getElementById('imgIdentity30').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity30').src='/Content/Images/ticker_arrow_white.png';">Immigration or Tax Services</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity31"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=254&amp;Url=%23%26panel1-8" class="n8_slide_link" title="Travel or Vacations" onMouseOver="document.getElementById('imgIdentity31').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity31').src='/Content/Images/ticker_arrow_white.png';">Travel or Vacations</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="arrws_td_hp" valign="top"><img src="/Content/Images/ticker_arrow_white.png" alt="" class="arrws_tbl_hp" id="imgIdentity32"></td>
+                                                    <td class="subcat"><a href="/GettingStarted?NextQID=251&amp;Url=%23%26panel1-8" class="n8_slide_link" title="No match found? Click Here" onMouseOver="document.getElementById('imgIdentity32').src='/Content/Images/ticker_arrow_green_2.png';" onMouseOut="document.getElementById('imgIdentity32').src='/Content/Images/ticker_arrow_white.png';">No match found? Click Here</a></td>
+                                                    </tr>
+				    
+				    </table>
+                        </td>
+                        </tr>
+                        </table>
+ 			    </div>
+		    </td>
+	    </tr>
+    </table>
+    </li>
+
+          
+</ul>
+ </div>
+
+ <!-- end ticker box-->
+  </div>
+
+<div id="cols">
+<div class="col-1-head">How We Handle Your Info</div>
+<div style="padding: 0px 15px">
+    <p>
+                           It’s up to you to determine how much personal information you want to provide.   Providing your contact information will make it easier if we need to reach you to obtain additional information about your complaint. Please read our <a href="http://www.ftc.gov/ftc/privacy.shtm">Privacy Policy</a> to learn more about how we safeguard your personal information. 
+                        </p>
+</div>
+</div>
+
+<div id="cols">
+<div class="col-2-head">What You Can Expect From Us</div>
+<div style="padding:0px 15px">
+<p>
+                           Your complaint may help us and our law enforcement partners detect patterns of fraud and abuse, which may lead to investigations and eliminate unfair business practices. Complaints are entered in our secure online database, which is used by many local, state, and federal law enforcement agencies. The FTC cannot resolve individual complaints, but we can provide information about what next steps to take.
+                        </p>
+</div>
+</div>
+
+<div id="col-right">
+<div  class="col-3-head">Related Items</div>
+<div style="padding:5px 15px">
+  <div align="center"><a href="http://www.consumer.ftc.gov/media/video-0054-how-file-complaint" target="_blank"><img src="/Content/Images/video_thumbnail.jpg" width="210" height="116" alt="Video image" title="HOW TO FILE A COMPLAINT"></a><br>
+ </div>
+  <hr>
+<img src="/Content/Images/tiny_blue_arrow.png" width="5" height="6" alt="About Us"><a href="http://www.ftc.gov/ftc/about.shtm">About Us</a><br/>
+                <img src="/Content/Images/tiny_blue_arrow.png" width="5" height="6" alt="Getting Your Money Back"><a href="http://www.consumer.ftc.gov/features/feature-0008-getting-your-money-back">Getting Your Money Back</a><br/>
+                <img src="/Content/Images/tiny_blue_arrow.png" width="5" height="6" alt="Scam Alerts"><a href="http://www.consumer.ftc.gov/scam-alerts">Scam Alerts</a><br/>
+                <img src="/Content/Images/tiny_blue_arrow.png" width="5" height="6" alt="10 Ways to Avoid Fraud"><a href="http://www.consumer.ftc.gov/articles/0060-10-ways-avoid-fraud">10 Ways to Avoid Fraud</a><br/>
+
+</div>
+</div>
+   
+
+
+
+                           </div> 
+                  
+                    </section>
+                </div> 
+                </div>           
+                 <div id="footer">
+ 
+                  <div class="footer-left"><strong>OMB CONTROL#: 3084-0047 (EXPIRES: 02/28/2015)</strong><br>
+                  <div style="width: 60%;">Under the Paperwork Reduction Act, federal agencies are not allowed to collect information from the public without a valid OMB control number.</div>
+                 </div>
+                  <div class="footer_right"><a href="http://www.ftc.gov" style="text-decoration:none;color:#fff">Back to ftc.gov</a> | <a href="http://www.ftc.gov/ftc/privacy.shtm" style="text-decoration:none;color:#fff;">Privacy Policy</a></div>
+ 
+                 </div>
+            
+            <script src="/Scripts/jquery-1.7.1.js"></script>
+
+            
+
+    <script src="/Scripts/jquery-1.7.1.js"></script>
+
+    <script src="/Scripts/jquery-ui-1.8.20.js"></script>
+
+    <script src="/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+<script src="/Scripts/jquery.maskedinput.custom.masks.js"></script>
+<script src="/Scripts/jquery.maskedinput.js"></script>
+<script src="/Scripts/jquery.sessionTimeout.1.0.js"></script>
+<script src="/Scripts/CISTopLevelNav.js"></script>
+<script src="/Scripts/TextArea.Special.Check.js"></script>
+<script src="/Scripts/ImageSwap.js"></script>
+ 
+    <script type="text/javascript" src="/Scripts/jquery.anythingslider.js"></script>
+    <script src="/Scripts/SpryAccordion.js" type="text/javascript"></script>
+    <script>
+
+        $(function () {
+            $('#slider').anythingSlider({
+                navigationFormatter: function (i, panel) {
+                    return panel.find('h2').text();
+                }
+            });
+            $('ul.thumbNav > li:first-child').hide();
+            $('ul.thumbNav > li').addClass(function (i) { return 'item' + (i + 1); });
+        });
+        
+
+    </script>
+
+    <script src="/Scripts/SpryAccordion.js" type="text/javascript"></script>
+    <script src="/Scripts/respond.min.js"></script>
+    <script type="text/javascript">
+        var Accordion1 = new Spry.Widget.Accordion("Accordion1");
+    </script>
+    
+
+            <script type="text/javascript" src="/Scripts/layoutCulture.js"></script>
+            
+           
+         </div> 
+    </body>
+</html>

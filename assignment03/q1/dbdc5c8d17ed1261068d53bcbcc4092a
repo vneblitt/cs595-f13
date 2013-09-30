@@ -1,0 +1,1489 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><!-- InstanceBegin template="/Templates/storyBasic.dwt" codeOutsideHTMLIsLocked="false" -->
+
+
+<!-- This page is based on Template: storyBasic.dwt -->
+
+<!-- InstanceBeginEditable name="doctitle" -->
+
+
+<!-- InstanceEndEditable -->
+
+
+
+<head>
+<title>Cuccinelli says he may have helped donor Williams apply for state grants  | roanoke.com</title>
+<link rel="shortcut icon" type="image/icon" href="/csp/cms/sites/TRT/assets/images/general/favicon.ico">
+<link rel="apple-touch-icon" href="/csp/cms/sites/TRT/assets/images/mobile/TRT_appleIcon.png"/>
+
+<link rel="canonical" href="http://www.roanoke.com/news/politics/2086853-12/cuccinelli-says-he-may-have-helped-donor-williams.html"/>
+<meta property="og:title" content="Cuccinelli says he may have helped donor Williams apply for state grants  | roanoke.com"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.roanoke.com/news/politics/2086853-12/cuccinelli-says-he-may-have-helped-donor-williams.html"/>
+<meta property="og:image" content="http://www.roanoke.com/csp/cms/sites/dt.common.streams.StreamServer.cls?STREAMOID=OSGTJlTZLhVfaafJbTxBzs$daE2N3K4ZzOUsqbU5sYvoksamwBuPIE4zbtNIIIVPWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg"/>
+<meta property="og:description" content="  Attorney General Ken Cuccinelli says he may have helped a businessman who gave him thousands of dollars in gifts in an effort to get grants from a state agency."/>
+<link href="/csp/cms/sites/TRT/assets/css/global.css" type="text/css" rel="stylesheet"/>
+<link href="/csp/cms/sites/TRT/assets/css/fullStoryStyles.css" type="text/css" rel="stylesheet"/>
+<link href="/csp/cms/sites/TRT/assets/css/wrapper.css" type="text/css" rel="stylesheet"/>
+<link href="/csp/cms/sites/TRT/assets/css/print.css" type="text/css" media="print" rel="stylesheet"/>
+
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>
+<script type="text/javascript" src="/csp/cms/sites/TRT/assets/js/jquery-1.8.1.min.js"></script>
+<script type="text/javascript" src="/csp/cms/sites/TRT/assets/js/plugins/tinyScrollbar/tinyScrollbar.min.js"></script>
+<script type="text/javascript" src="/csp/cms/sites/TRT/assets/js/global.js"></script>
+<script type="text/javascript" src="/csp/cms/sites/TRT/assets/js/fullStoryScripts.js"></script>
+<script type="text/javascript" async src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+
+<!-- FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/wrapper/navScript.csp -->
+<script type="text/javascript">
+	
+	
+	var thisSub = "news"
+	if (thisSub != "sports" && thisSub != "living" && thisSub != "opinion" && thisSub != "multimedia" && thisSub != "outdoors") {
+		thisSub = "home";
+	} else if (thisSub == "outdoors") {
+		thisSub = "sports";
+	}
+	jQuery(document).ready(function () {
+		var hideSub;
+		var showSub;
+		var hideHover;
+		var showActive;
+		jQuery('#subnav_'+thisSub).css("display", "block");
+		jQuery('#'+thisSub).addClass("active");
+		var navLi = jQuery('#mainnav li:not(.noSubNav)');
+		navLi.bind("mouseenter", function () {
+			navLi.removeClass("active");
+			jQuery(this).addClass("active");
+			jQuery('.subnav').hide();
+			jQuery('#subnav_' + this.id).show();
+		});
+		jQuery('#nav').add("#sub").bind("mouseleave", function () {
+			hideSub = setTimeout("jQuery('.subnav').hide()", 2000);
+			showSub = setTimeout("jQuery('#subnav_'+thisSub).show()", 2000);
+			hideHover = setTimeout("jQuery('#mainnav li:not(.noSubNav)').removeClass('active')", 2000);
+			showActive = setTimeout("jQuery('#'+thisSub).addClass('active')", 2000);
+		});
+		jQuery('#nav').add("#sub").bind("mouseenter", function () {
+			clearTimeout(hideSub);
+			clearTimeout(showSub);
+			clearTimeout(hideHover);
+			clearTimeout(showActive);
+		});
+	});
+</script>
+<!--/FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/wrapper/navScript.csp, took .000118 -->
+
+
+<!-- FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/wrapper/social.csp -->
+<script type="text/javascript" src="/csp/cms/sites/TRT/assets/js/plugins/sharethis/buttons.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	stLight.options({
+		publisher: "f922055f-792d-4bf3-b483-b4abc3a26927",
+		doneScreen: "false",
+		onhover: "false"
+	});
+});
+</script>
+<!--/FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/wrapper/social.csp, took .000152 -->
+
+
+
+	
+<!-- FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/ads/oas/oasHeadCodeStory.csp -->
+<!--This is for dfp ad code and Google anaylitcs in the <head> tag on story pages-->
+
+<!--Google analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34219538-1']);
+  _gaq.push(['_setDomainName', 'roanoke.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript" src="/csp/cms/sites/TRT/assets/js/xdomain.js"></script>
+<!--End Google analytics-->
+
+<!--AD CODE-->
+<script type="text/javascript">
+<!--
+	
+	OAS_url = 'http://ads.bhmedianetwork.com/RealMedia/ads/';
+	OAS_sitepage = "roanoke.com/news/politics/story";
+	OAS_listpos = "Top,Right1,Right2,Position1,BottomRight";
+	OAS_query = '';
+	OAS_target = '_top';
+	OAS_version = 11;
+	OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+	
+	if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1) {
+		OAS_version=10;
+	}
+	function OAS_AD( position ) {
+		var OAS_page= OAS_sitepage + '\/1' + OAS_rns + '@' + OAS_listpos + '!' + position + '?' + OAS_query;
+		if (OAS_version < 11) {
+			document.write ('<a href="' + OAS_url + 'click_nx.ads\/'+ OAS_page + '" target="' + OAS_target +'" ><img src="' + OAS_url + 'adstream_nx.ads/' + OAS_page + '" border="0" alt="Ad" \/></a>');
+		} else {
+			document.write ('<scr' + 'ipt type="text\/javascript" src="' + OAS_url + 'adstream_jx.ads\/' + OAS_page + '"><' + '\/script>');
+		}
+	}
+
+// -->
+</script>
+
+<!--ComScore-->
+    <script type="text/javascript">
+    var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "6035740", c3: "", c4: "" }); (function () { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })(); 
+    </script>
+    <noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035740&c3=&c4=&"/> </noscript>
+<!--End ComScore-->
+<!--/FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/ads/oas/oasHeadCodeStory.csp, took .000903 -->
+
+
+
+
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+	<div id="bgSwirl"></div>
+	<div id="fullContainer">
+		
+<!-- FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/wrapper/nav.csp -->
+
+<div id="div-header">
+    <div class="logo">
+        <a href="http://www.roanoke.com/"><img src="/csp/cms/sites/TRT/assets/images/general/betaLogo.png" alt="roanoke.com" title="roanoke.com"/></a>
+    </div>
+	<!--User Tools-->
+	<div class="toolsNav">
+		<ul>
+		<li><a href="/contactus/">Contact us</a>  |  </li>
+		<li><a href="/contactus/#circ">Customer care</a>  |  </li>
+		<li><a href="/subscribe/">Subscribe</a>  |  </li>
+		<li><a href="/advertisewithus/">Advertise</a>  |  </li>
+		<li><a href="javascript:contactForm('submit-a-news-tip')">Submit news</a>  |  </li>
+		<li><a href="http://ww2.roanoke.com/etimes/" target="_blank">Sign in</a></li>
+
+		</ul>
+	</div>	
+	<!--MAIN NAVIGATION-->
+	<div id="nav">
+		<ul id="mainnav">
+			<li id="home"><a href="/news/">NEWS</a></li>
+			<li id="living"><a href="/living/">LIVING</a></li>
+			<li id="sports"><a href="/sports/">SPORTS</a></li>
+			<li id="opinion"><a href="/opinion/">OPINION</a></li>
+			<li id="multimedia"><a href="/news/specialprojects/">MULTIMEDIA</a></li>
+			<li id="bestof" class="noSubNav"><a href="/bestof/">BEST OF</a></li>
+			<li id="jobs" class="classSub"><a href="http://jobs.roanoke.com" target="_blank">JOBS</a></li>
+				<li id="homes" class="classSub"><a href="http://www.swvahomes.com/" target="_blank">HOMES</a></li>
+			<li id="cars" class="noSubNav"><a href="http://cars.roanoke.com" target="_blank">CARS</a></li>
+			<li id="marketplace" class="classSub"><a href="http://classified.roanoke.com/" target="_blank">CLASSIFIEDS</a></li>
+			<li id="obituarties" class="classSub"><a href="http://obits.roanoke.com" target="_blank">OBITS</a></li>
+				<div class="clear"></div>
+		</ul><!--END Main Nav-->
+
+		<!--Social ICONS-->
+<div id="div-socialIcons">
+	<!--Facebook-->
+	<a href="http://www.facebook.com/roanoketimes?fref=ts" target="_blank"><img src="/csp/cms/sites/TRT/assets/images/socialIcons/wrapperFacebookIcon.png" alt="roanoke.com on facebook" title="roanoke.com on facebook" height="22px"/></a>
+	<!--Twitter-->
+	<a href="https://twitter.com/roanoketimes" target="_blank"><img src="/csp/cms/sites/TRT/assets/images/socialIcons/wrapperTwitterIcon.png" alt="roanoke.com on twitter" title="roanoke.com on twitter" height="22px"/></a>
+	<!--Pinterest-->
+	<a href="http://pinterest.com/roanoketimes/" target="_blank"><img src="/csp/cms/sites/TRT/assets/images/socialIcons/wrapperPinterestIcon.png" alt="roanoke.com on pinterest" title="roanoke.com on pinterest" height="22px"/></a>
+	<!--Google Plus-->
+	<a href="https://plus.google.com/117255378443343442123" rel="publisher" target="_blank"> <img src="/csp/cms/sites/TRT/assets/images/socialIcons/wrapperGooglePlusIcon.png" alt="google+" title="google+" height="22px"/></a>
+	<!--Youtube-->
+	<a href="http://www.youtube.com/user/theroanoketimes" target="_blank"><img src="/csp/cms/sites/TRT/assets/images/socialIcons/wrapperYouTubeIcon.png" alt="roanoke.com on youtube" title="roanoke.com on youtube" height="22px"/></a>
+	<!--RSS-->
+	<a href="/rss/" target="_blank"><img src="/csp/cms/sites/TRT/assets/images/socialIcons/wrapperRssIcon.png" alt="rss with roanoke.com" title="rss with roanoke.com" height="22px"/></a>
+</div>	
+
+<!--Search box-->
+<div id="div-topSearch">
+	<form method="post" action="http://search.roanoke.com/search.aspx">
+
+
+	<input type="text" name="searchRequest" id="searchBox" value="Search roanoke.com" onclick="ClearInput('Search roanoke.com', this.id)" onblur="restoreDefaultValue('Search roanoke.com', this.id)"/>
+		<input type="image" src="/csp/cms/sites/TRT/assets/images/general/searchIcon.png" style="width:20px;height:22px;" id="search-button" value="Go" alt="Search roanoke.com"/>
+	</form>
+</div>
+	
+</div><!--End Top Navigation Bar-->
+	<!--Sub Nav Menu-->
+		<div class="clear"></div>
+		<div id="sub">
+			<!--News SubMenu-->
+			<ul id="subnav_home" class="subnav" style='display: none;'>
+				<li><a href="/news/business/">BUSINESS</a></li>
+				<li><a href="/news/politics/">POLITICS</a></li>
+				<li><a href="http://blogs.roanoke.com/dancasey/">CASEY</a></li>
+				<li><a href="http://blogs.roanoke.com/storefront/">STOREFRONT</a></li>
+				<li><a href="/news/education/">EDUCATION</a></li>
+				<li><a href="http://blogs.roanoke.com/theburgs/">NRV BURGS</a></li>
+				<li><a href="http://blogs.roanoke.com/swoco/">SWOCO</a></li>
+				<li><a href="http://blogs.roanoke.com/sosalem/">SOSALEM</a></li>
+				<li><a href="http://blogs.roanoke.com/botetourtview/">BOTETOURT VIEW</a></li>
+				<li><a href="/lakerweekly">LAKER WEEKLY</a></li>
+				<li><a href="/blogs/">BLOGS</a></li>
+				<li><a href="/news/datasphere/">DATA</a></li>
+				<li><a href="/news/specialprojects/">SPECIAL PROJECTS</a></li>
+				<li class="specialLink"><a href="javascript:contactForm('submit-a-news-tip')">SEND A TIP</a></li>
+					<div class="clear"></div>
+			</ul>
+			<!--Living SubMenu-->
+			<ul id="subnav_living" class="subnav"  style='display: none;'>
+				<li><a href="http://calendar.roanoke.com">CALENDAR</a></li>
+				<li><a href="/living/cornershot/">CORNERSHOT</a></li>
+				<li><a href="/living/food/">FOOD</a></li>
+				<li><a href="/living/music/">MUSIC</a></li>
+				<li><a href="/living/arts/">ARTS</a></li>
+				<li><a href="/living/shopping/">SHOPPING</a></li>
+				<li><a href="/living/homegarden/">GARDEN</a></li>
+				<li><a href="/living/family/">FAMILY</a></li>
+				<li><a href="/living/health/">HEALTH</a></li>
+				<li><a href="http://pets.roanoke.com">PETS</a></li>
+				<li><a href="/living/travel/">TRAVEL</a></li>
+				<li><a href="/living/books/">BOOKS</a></li>
+				<li><a href="http://affiliate.zap2it.com/movies/mvhome.do?aid=roanoke31t" target="_blank">MOVIES</a></li>
+				<li><a href="/living/tv/">TV</a></li>
+				<li><a href="/living/comics/">COMICS</a></li>
+				<li><a href="/living/puzzles/">PUZZLES</a></li>
+				<li><a href="http://blogs.roanoke.com/theedge/">THE EDGE</a></li>
+				<li><a href="/living/horoscope/">HOROSCOPES</a></li>
+				<li><a href="http://celebrations.roanoke.com" target="_blank">CELEBRATIONS</a></li>
+					<div class="clear"></div>
+			</ul>
+			
+			<!--Sports SubMenu-->
+			<ul id="subnav_sports" class="subnav"  style='display: none;'>
+				<li><a href="/sports/highschools/">HIGH SCHOOLS</a></li>
+				<li><a href="/sports/virginiatech/">VIRGINIA TECH</a></li>
+				<li><a href="/sports/uva/">VIRGINIA</a></li>
+				<li><a href="/sports/colleges/">COLLEGES</a></li>
+				<li><a href="http://blogs.roanoke.com/andybittervirginiatechfootball/">BITTER</a></li>
+				<li><a href="http://blogs.roanoke.com/insiders/">DOUGHTY</a></li>
+				<li><a href="http://blogs.roanoke.com/aaronmcfarling/">MCFARLING</a></li>
+				<li><a href="/outdoors/">OUTDOORS</a></li>
+				<li><a href="/sports/baseball/">RED SOX</a></li>
+				<li><a href="/sports/golf/">GOLF</a></li>
+				<li><a href="/sports/racing/">NASCAR</a></li>
+				<li><a href="/blogs/#sports/">BLOGS</a></li>
+				<li class="specialLink"><a href="javascript:contactForm('submit-a-news-tip')">SEND A TIP</a></li>
+					<div class="clear"></div>
+			</ul>
+			
+			<!--Opinion SubMenu-->
+			<ul id="subnav_opinion" class="subnav"  style='display: none;'>
+				<li><a href="/opinion/letters/">LETTERS</a></li>
+				<li><a href="/opinion/editorial/">EDITORIAL</a></li>
+				<li><a href="/opinion/pointcounterpoint/">POINT/COUNTERPOINT</a></li>
+				<li><a href="/opinion/commentary/">COMMENTARY</a></li>
+				<li><a href="/opinion/columnists/">COLUMNISTS</a></li>
+				<li><a href="http://blogs.roanoke.com/roundtable/">ROUND TABLE</a></li>
+				<li class="specialLink"><a href="javascript:contactForm('submit-a-letter-to-the-editor')">SUBMIT A LETTER</a></li>
+					<div class="clear"></div>
+			</ul>
+				
+			<!--multimedia SubMenu-->
+			<ul id="subnav_multimedia" class="subnav"  style='display: none;'>
+				<li><a href="/multimedia/photo/">PHOTO</a></li>
+				<li><a href="/multimedia/video/">VIDEO</a></li>
+				<li><a href="/news/specialprojects/">SPECIAL PROJECTS</a></li>
+				<li><a href="http://roanoke.mycapture.com/mycapture/category.asp?CategoryID=74797" target="_blank">PAPARAZZI</a></li>
+				<li><a href="http://blogs.roanoke.com/vignette/">VIGNETTE BLOG</a></li>	
+				<li class="specialLink"><a href="javascript:contactForm('submit-a-photo')">SUBMIT A PHOTO</a></li>
+				<li class="specialLink"><a href="http://roanoke.mycapture.com/mycapture/index.asp" target="_blank">BUY A PHOTO</a></li>
+					<div class="clear"></div>
+			</ul>
+			<!--Sub menu for classifieds-->
+            <div id="classifiedSubMenu">
+                <!--JOBS sub menu-->
+                <ul id="subnav_jobs" class="subnav" style='display: none;'>
+                    <li class="noLink">INSIDE JOBS:</li>
+                    <li><a href="http://jobs.roanoke.com" target="_blank">FIND A JOB</a></li>
+                    <li><a href="http://careers.roanoke.com/CandidateNet/register/step1/" target="_blank">CREATE ACCOUNT</a></li>
+                    <li class="noLink">EMPLOYERS:</li>
+                    <li><a href="http://careers.roanoke.com/AdminNET/Employer/Marketing/2353" target="_blank">POST A JOB</a></li>
+                </ul>
+                <!--HOMES sub menu-->
+                <ul id="subnav_homes" class="subnav" style='display: none;'>
+                    <li class="noLink">INSIDE HOMES:</li>
+                    <li><a href="http://www.swvahomes.com" target="_blank">HOMES</a></li>
+                    <li><a href="http://rent.roanoke.com" target="_blank">RENTALS</a></li>
+                    <li><a href="http://www.swvahomes.com/?style=oh" target="_blank">OPEN HOUSES</a></li>
+                </ul>
+                <!--CLASSIFIEDS sub menu-->
+                <ul id="subnav_marketplace" class="subnav" style='display: none;'>
+                    <li class="noLink">INSIDE CLASSIFIEDS:</li>
+                    <li><a href="http://classified.roanoke.com/" target="_blank">CLASSIFIEDS</a></li>
+                    <li><a href="http://notices.roanoke.com" target="_blank">NOTICES</a></li>
+                    <li><a href="http://marketplace.roanoke.com" target="_blank">MARKETPLACE</a></li>
+                    <li><a href="http://celebrations.roanoke.com" target="_blank">CELEBRATIONS</a></li>
+                    <li><a href="http://pets.roanoke.com" target="_blank">PETS</a></li>
+                    <li><a href="http://marketplace.roanoke.com/roanoke-m/yard-sales/search" target="_blank">YARD SALES</a></li>
+                    <li><a href="http://yardsales.roanoke.com" target="_blank">YARD SALE MAP</a></li>
+                    <li><a href="http://roanoke.adperfect.com/" target="_blank">PLACE AN AD</a></li>
+                </ul>
+                <!--CLASSIFIEDS sub menu-->
+                <ul id="subnav_obituarties" class="subnav" style='display: none;'>
+                    <li class="noLink">INSIDE OBITS:</li>
+                    <li><a href="http://obituaries.roanoke.com" target="_blank">OBITUARIES</a></li>
+                    <li><a href="http://www.legacy.com/obituaries/roanoke/obituary-browse.aspx?recentdate=0&type=9" target="_blank">MEMORIAMS</a></li>
+                </ul>
+            </div><!--End Classifieds sub menus-->
+		</div><!--End Main Nav-->  
+
+<!--Breaking News - Top Leaderboard-->
+<div class="headerBottom">
+	<div class="breakingNewsBox">
+		<img src='/csp/cms/sites/TRT/assets/images/general/breakingNewsBox.png' /><h3>Check It Out:</h3><p> What are your favorite local places for shopping, pampering or entertaining? <a href= "http://roanoke.secondstreetapp.com/Best-Of-Holiday-Shopping-2013/ " target= "_blank " >Vote now </a > in this year's <a href= "http://www.roanoke.com/bestof/ " target= "_blank " >Best Of Holiday Shopping </a > readers' choice poll.</p>
+	</div>
+	<div class="topLeaderAd">
+		<div id="top">
+			<script type="text/javascript">
+			<!--
+				OAS_AD('Top');
+			//-->
+			</script>
+      	</div>
+	</div>
+	
+</div>
+
+	</div> <!--End Header--> 
+	<div class="clear"></div>
+	
+<!--/FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/wrapper/nav.csp, took .016053 -->
+
+		<div id="popupContact"></div>
+		<div id="pageContainer">
+			<div id="popupGallery"></div>
+		  	<div id="leftRail">
+				<!--content-->
+
+
+
+	
+	
+	
+		<h1 id="storyHeadline">
+			
+				Cuccinelli says he may have helped donor Williams apply for state grants 
+			
+		</h1>
+		<p id="readin">
+			
+				The attorney general may have assisted the CEO of Star Scientific in applying for state grants.
+			
+		</p><br />
+		
+		<!-- NDN Top Video -->
+		<div id="ndn-video-top-600x338" class="ndn-widget" style="display:none;"></div>
+		
+<!--		<dti:story:element:exist field="WebVideo">
+			<div id="videoContainer">
+				<div id="videoLoading">loading</div>
+				#[w ##class(csp.trt.assets.csp.customclasses.globalclasses).embedVideo(gStory.%Id(),"620")]#
+				<script type="text/javascript">
+					jQuery("#embedVideo").load(function() {
+						jQuery("#videoLoading").hide();
+						jQuery("#embedVideo").unbind("load");
+					});
+				</script>
+			</div>
+		<dti:else>
+-->			<div id='singleImg'><div id='singleImgContainer'><div class='slideshowCaption'><p><span>MATT GENTRY | The Roanoke Times</span></p><br /><p>Virginia Commonwealth's Attorney Ken Cuccinelli speaks to Boys State convention participants at Radford University on Tuesday.
+</p></div><img src='http://www.roanoke.com/csp/cms/sites/dt.common.streams.StreamServer.cls?STREAMOID=OSGTJlTZLhVfaafJbTxBzs$daE2N3K4ZzOUsqbU5sYvoksamwBuPIE4zbtNIIIVPWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&amp;CONTENTTYPE=image/jpeg' /></div></div><div id='slideshowCaptionToggle'>Turn captions <span>on</span></div><div class='clear'></div>
+<!--		</dti:story:element:exist>
+-->		
+		<div id="storySidebar">
+			<div id="socialMedia">
+				<span id="fb"></span>
+				<span id="tw"></span>
+				<span id="pnt"></span>
+				<span id="em"></span>
+				<span id="print">
+					<form>
+
+
+						<input type="image" value="Print" onclick="window.print();return false;" src="/csp/cms/sites/TRT/assets/images/socialIcons/icon_tools_print.png"/>
+					</form> 
+				</span>	
+				<div class="clear"></div>
+			</div>
+			<div class='railHeader' style='height:14px;'>RELATED COVERAGE</div><div class='sidebarContainer'><ul><li><a href='/news/politics/2085328-12/cuccinelli-broke-no-laws-in-late-filings-prosecutor.html'>Cuccinelli broke no laws in late filings, prosecutor says </a><br />July 18, 2013</li></ul><ul><li><a href='/news/politics/2086205-12/emails-mcdonnell-set-up-cabinet-meeting-for-donor.html'>Emails: McDonnell set up Cabinet meeting for donor Williams </a><br />July 18, 2013</li></ul></div>
+			
+			
+		</div>
+		<div id="storyContent">
+			<div id="byline"><span class='by'>by</span><div class='author'><a href='mailto:david.ress@roanoke.com'>David Ress</a> | 981-3253</div><div class='clear'></div></div>
+			<p id="storyDate">Friday, July 19, 2013</p><br />
+			
+			<div id="storyBody"><p>  Attorney General Ken Cuccinelli says he may have helped a businessman who gave him thousands of dollars in gifts in an effort to get grants from a state agency.</p>
+<p>The businessman, Jonnie Williams Sr., chief executive officer of Star Scientific, never did get any state grants, however.</p>
+<p>The disclosure came in a footnote to a special investigation report that found Cuccinelli did not violate ethics law by failing to report all of Williams’ more than $19,000 of gifts or all his holdings in stock in William’s company Star Scientific.</p>
+<p>Star sued the state to reverse a $1.7 million tax bill in 2011, shortly before Cuccinelli made a second, $10,000 investment in its shares and before the attorney general asked Williams if his family could stay for a third time at Williams’ Smith Mountain Lake vacation home.</p>
+<p>Cuccinelli has said he never talked to Williams about the lawsuit, though he has said Williams had earlier complained about the disputed taxes. </p>
+<p>The attorney general told the ethics investigators “that he may have suggested that Williams contact a certain attorney at a Richmond law firm ‘to assist him and his company with the Tobacco Fund,’ ” according to a report issued by Richmond Commonwealth’s Attorney Michael Herring, quoting an investigators’ findings.</p>
+<p>Cuccinelli said he couldn’t remember exactly when this occurred, the report added.</p>
+<p>Cuccinelli was referring to the state’s Tobacco Indemnity Fund, which was set up after the national settlement with cigarette companies in 1998, spokeswoman Anna Nix said. </p>
+<p>The settlement was mainly intended to compensate states for the cost of caring for people with tobacco-related disease, but Virginia used some proceeds to help tobacco-producing regions cope with a likely blow to their economies from slumping sales of leaf. Star, which started as a discount cigarette maker in Mecklenburg County, is now in the diet supplement business.</p>
+<p>“Ken Cuccinelli was asked by Jonnie Williams if he knew anything about the grant process. Ken said he did not and referred him to Jerry Kilgore,” Nix said. Kilgore, a former attorney general, is now Williams’ lawyer. Williams had given more than $27,000 to Kilgore’s unsuccessful 2005 bid to be governor.</p>
+<p>Neal Noyes, executive director of the state’s Tobacco Indemnity Fund, said, “There has been no relationship at any time” between the fund and Star.</p>
+<p>After interviewing members of Cuccinelli’s staff, the ethics investigators found no evidence that Cuccinelli’s personal financial interest in Star affected his judgment.</p>
+<p>The investigators said they could not confirm “any suspicion that the pace and or substance of the litigation” was affected by Cuccinelli’s stockholdings or his relationship with Williams.</p>
+<p>The attorney general’s office’s only response was a filing that said Star’s view that the assessment should be overturned is “a legal opinion to which no response is required.”</p>
+<p>For nearly two years after that, the attorney general’s office did not seek a hearing or move to dismiss the case. In May, after Cuccinelli finally disclosed his stockholdings in Star, the attorney general’s office found two Richmond attorneys who volunteered to take on the case.</p>
+<p>Cuccinelli told the investigators he first met Williams when the businessman lent his private jet to Cuccinelli for a trip to New York for an event in December 2009, which Cuccinelli attended in place of Gov. Bob McDonnell. </p>
+<p>Beginning the next month, Cuccinelli stayed several times at Williams’ Goochland County mansion, just outside Richmond, as he was settling into his new job as Attorney General. </p>
+<p>In October, Cuccinelli made a $10,000 investment in Star shares. </p>
+<p>Though he has reported no other such large investments in one company, he told investigators he was interested in the purported science around Star’s tobacco-derived diet supplements because of his engineering background. He also asked Williams if his family could stay at Williams’ Smith Mountain Lake home for Thanksgiving, which they did.</p>
+<p>The next year, Cuccinelli bought another $10,000 worth of stock. In both 2011 and 2012 he asked if his family could again vacation at Williams’ Smith Mountain Lake home, which they did.</p>
+<p>The share purchase and the 2012 vacation stay came after Star sued the state to reverse a tax assessment that has climbed to more than $1.7 million. </p>
+<p>“Ken Cuccinelli avoided prosecution for disguising his conflict of interest with Star Scientific and Jonnie Williams because of Virginia’s extraordinarily weak ethics laws,” Democratic Party spokesman Brian Coy said about Herring’s report. “Given his pattern of ‘forgetting’ to disclose stocks and gifts from financial patrons whose lawsuits over unpaid taxes are sitting in his office, it’s no wonder that Cuccinelli won’t accept Terry McAuliffe’s proposal to ban gifts and give our ethics laws real teeth.” </p>
+<p>In addition to Williams’ gifts to Cuccinelli, he and Star have given more than $350,000 to McDonnell, his family and his campaign funds and political action committee since 2009. </p>
+<p>The ethics investigators said they found no evidence that Williams’ gifts to Cuccinelli affected his investigation into allegations by the ex-chef at the Executive Mansion about the governor’s ties to the businessman.</p></div>
+		</div>
+		
+		<div class="clear"></div>
+	
+	
+	
+	<!-- NDN Bottom Video -->
+	<div id="ndn-video-bottom-600x338" class="ndn-widget" style="display:none;"></div>
+	
+	<!-- NDN Perfect Pixel JS -->
+	<script type="text/javascript" src="http://dmeserv.newsinc.com/repub/roanoketimes_91270/dynamicWidgets.js"></script>
+	<script type="text/javascript">
+		NDNDynVideoWidgets();
+	</script>
+	
+	
+	
+	<script type="text/javascript">
+		var commentsAvailable = false;
+	</script>
+	
+		<script type="text/javascript">
+			commentsAvailable = true;
+		</script>
+		<iframe src="http://blogs.roanoke.com/timessquare/wp-content/themes/StandardBlogs/ajaxIE.php" border="0" style="" width="1" height="1" id="myIFrame"></iframe>
+		<div id="commentsContainer">
+			<div id="commentsLoading">loading<br />comments</div>
+			<div id="comments"></div>
+		</div>
+	
+	
+	<script type="text/javascript" src="/csp/cms/sites/TRT/assets/js/plugins/iecors/jquery.iecors2.js"></script>
+	<script type="text/javascript" src="/csp/cms/sites/TRT/assets/js/plugins/jqueryEasing/jquery.easing.1.3.js"></script>
+	<script type="text/javascript">
+		var shareLink = "http://www.roanoke.com/news/politics/2086853-12/cuccinelli-says-he-may-have-helped-donor-williams.html";
+		var shareImg = "http://www.roanoke.com/csp/cms/sites/dt.common.streams.StreamServer.cls?STREAMOID=OSGTJlTZLhVfaafJbTxBzs$daE2N3K4ZzOUsqbU5sYvoksamwBuPIE4zbtNIIIVPWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg";
+		var storyDesc = "  Attorney General Ken Cuccinelli says he may have helped a businessman who gave him thousands of dollars in gifts in an effort to get grants from a state agency.";
+		
+		stWidget.addEntry({
+			 "service":"facebook",
+			 "element":document.getElementById('fb'),
+			 "url": shareLink,
+			 "title":"The Roanoke Times",
+			 "type":"large",
+			 "image": shareImg,
+			 "summary": storyDesc
+		});
+	
+		stWidget.addEntry({
+			 "service":"twitter",
+			 "element":document.getElementById('tw'),
+			 "url": shareLink,
+			 "title":"The Roanoke Times",
+			 "type":"large",
+			 "image": shareImg,
+			 "summary": storyDesc
+		});
+	
+		stWidget.addEntry({
+			 "service":"pinterest",
+			 "element":document.getElementById('pnt'),
+			 "url": shareLink,
+			 "title":"The Roanoke Times",
+			 "type":"large",
+			 "image": shareImg,
+			 "summary": storyDesc
+		});
+	
+		stWidget.addEntry({
+			 "service":"email",
+			 "element":document.getElementById('em'),
+			 "url": shareLink,
+			 "title":"The Roanoke Times",
+			 "type":"large",
+			 "image": shareImg,
+			 "summary": storyDesc
+		});
+		
+		var newComment = 0;
+		
+		jQuery(window).load(function() {
+			setTimeout(function() {
+				if (commentsAvailable == true) {
+					jQuery("#comments").fadeOut();
+					getCommentsPostMessage();
+				};
+//					jQuery("#comments").fadeOut();
+//					if ("withCredentials" in new XMLHttpRequest()) {
+//						getCommentsPostMessage();
+//					} else if (window.XDomainRequest) {
+//						if (jQuery.browser.msie && jQuery.browser.version <= 9.0) {
+//							getCommentsPostMessage();
+//						} else {
+//							getCommentsPostMessage();
+//						}
+//					} else {
+//						getCommentsPostMessage();
+//					}
+			}, 500);
+		});
+		
+		
+		function getCommentsPostMessage() {
+			var domain = "http://blogs.roanoke.com";
+			var iframe = document.getElementById('myIFrame').contentWindow;
+
+			//console.log("sending");
+			var message = "http://blogs.roanoke.com/timessquare/?p=2781";
+			//console.log("blog.local: sending message: " + message);
+			iframe.postMessage(message,domain);
+		}
+		
+		
+		function postCommentPostMessage(formData) {
+			var domain = "http://blogs.roanoke.com";
+			var iframe = document.getElementById('myIFrame').contentWindow;
+
+			var message = "POST**" + formData;
+			////console.log("blog.local: sending message: " + message);
+			iframe.postMessage(message,domain);
+		}
+		
+			
+		if (window.addEventListener) {
+			window.addEventListener("message",function(event) {
+				if (event.origin !== "http://blogs.roanoke.com") return;
+				if (event.data == "posted") {
+					newComment = 1;
+					getCommentsPostMessage();
+				} else if (event.data === '0') {
+					//console.log('Not connect.\n Verify Network.');
+				} else if (event.data == '403') {
+					jQuery("#processing").after("<div id='ajaxError'>It appears you are too fast.<br />Please wait a few seconds and you will be able to re-submit your comment.</div>");
+					jQuery("#processing").fadeOut("slow", function() {
+						jQuery("#ajaxError").delay(8000).fadeOut("slow");
+					});
+				} else if (event.data == '404') {
+					//console.log('Requested page not found. [404]');
+				} else if (event.data == '500LO') {
+					jQuery("#processing").after("<div id='ajaxError'>Error: It appears you may have tried submitting a duplicate comment.<br />Please check your comment and try again.</div>");
+					jQuery("#processing").fadeOut("slow", function() {
+						jQuery("#ajaxError").delay(5000).fadeOut("slow");
+					});
+				} else if (event.data == '500LI') {
+					jQuery("#processingLoggedIn").after("<div id='ajaxErrorLoggedIn'>Error: It appears you may have tried submitting a duplicate comment.<br />Please check your comment and try again.</div>");
+					jQuery("#processingLoggedIn").fadeOut("slow", function() {
+						jQuery("#ajaxErrorLoggedIn").delay(5000).fadeOut("slow");
+					});
+				} else if (event.data === 'parsererror') {
+					//console.log('Requested JSON parse failed.');
+				} else if (event.data === 'timeout') {
+					//console.log('Time out error.');
+				} else if (event.data === 'abort') {
+					//console.log('Ajax request aborted.');
+				} else if (event.data == 'uncaughterror') {
+					//console.log('Uncaught Error.\n' + jqXHR.responseText);
+				} else {
+					//console.log("success");
+					jQuery("#commentsLoading").fadeOut();
+					jQuery("#comments").html(event.data).fadeIn("slow", function() {
+						if (newComment == 1) {
+							addComment();
+							newComment = 0;
+						}
+					});
+					getCommentsIE();
+				}
+			},false);
+		} else {
+			window.attachEvent("onmessage",function(event) {
+				if (event.origin !== "http://blogs.roanoke.com") return;
+				if (event.data == "posted") {
+					newComment = 1;
+					getCommentsPostMessage();
+				} else if (event.data === '0') {
+					//console.log('Not connect.\n Verify Network.');
+				} else if (event.data == '403') {
+					jQuery("#processing").after("<div id='ajaxError'>It appears you are too fast.<br />Please wait a few seconds and you will be able to re-submit your comment.</div>");
+					jQuery("#processing").fadeOut("slow", function() {
+						jQuery("#ajaxError").delay(8000).fadeOut("slow");
+					});
+				} else if (event.data == '404') {
+					//console.log('Requested page not found. [404]');
+				} else if (event.data == '500LO') {
+					jQuery("#processing").after("<div id='ajaxError'>Error: It appears you may have tried submitting a duplicate comment.<br />Please check your comment and try again.</div>");
+					jQuery("#processing").fadeOut("slow", function() {
+						jQuery("#ajaxError").delay(5000).fadeOut("slow");
+					});
+				} else if (event.data == '500LI') {
+					jQuery("#processingLoggedIn").after("<div id='ajaxErrorLoggedIn'>Error: It appears you may have tried submitting a duplicate comment.<br />Please check your comment and try again.</div>");
+					jQuery("#processingLoggedIn").fadeOut("slow", function() {
+						jQuery("#ajaxErrorLoggedIn").delay(5000).fadeOut("slow");
+					});
+				} else if (event.data === 'parsererror') {
+					//console.log('Requested JSON parse failed.');
+				} else if (event.data === 'timeout') {
+					//console.log('Time out error.');
+				} else if (event.data === 'abort') {
+					//console.log('Ajax request aborted.');
+				} else if (event.data == 'uncaughterror') {
+					//console.log('Uncaught Error.\n' + jqXHR.responseText);
+				} else {
+					//console.log("success");
+					jQuery("#commentsLoading").fadeOut();
+					jQuery("#comments").html(event.data).fadeIn("slow", function() {
+						if (newComment == 1) {
+							addComment();
+							newComment = 0;
+						}
+					});
+					getCommentsIE();
+				}
+			});
+		}
+		
+		
+		function getComments() {
+		
+			var commentLinkURL = "http://blogs.roanoke.com/timessquare/?p=2781";
+			if (commentLinkURL != "http://blogs.roanoke.com/timessquare/none/") {
+				jQuery.ajax({
+					url: commentLinkURL,
+					type: "Get",
+					cache: false,
+					dataType: "html",
+					xhrFields: {withCredentials: true},
+					error: function(jqXHR, exception) {
+						if (jqXHR.status === 0) {
+							//console.log('Not connect.\n Verify Network.');
+						} else if (jqXHR.status == 404) {
+							//console.log('Requested page not found. [404]');
+						} else if (jqXHR.status == 500) {
+							//console.log('Internal Server Error [500].');
+						} else if (exception === 'parsererror') {
+							//console.log('Requested JSON parse failed.');
+						} else if (exception === 'timeout') {
+							//console.log('Time out error.');
+						} else if (exception === 'abort') {
+							//console.log('Ajax request aborted.');
+						} else {
+							//console.log('Uncaught Error.\n' + jqXHR.responseText);
+						}
+					},
+					success: function(data) {
+						var comments = jQuery(data).find("#comments").clone().html();
+						jQuery("#commentsLoading").fadeOut();
+						jQuery("#comments").html(comments);
+						jQuery("#comments").fadeIn("slow", function() {
+							if (newComment == 1) {
+								addComment();
+								newComment = 0;
+							}
+						});
+						if ( jQuery.browser.msie ) {
+							document.execCommand("BackgroundImageCache", false, true)
+						}
+						
+						var commentform = jQuery('#commentform'); // find the comment form
+						var respond = jQuery("#respond");
+						respond.prepend('<div id="comment-status" ></div>'); // add info panel before the form to provide feedback or errors
+						var statusdiv = jQuery('#comment-status'); // define the infopanel
+						
+						var errorBox = jQuery("#commentErrorContainer");
+						var commentErrors = errorBox.find("p");
+						var commentInputs = commentform.find("input[aria-required], textarea[aria-required]");
+						var textareas = commentform.find("textarea");
+						var loggedIn = commentform.find("p.logged-in-as").length;
+						if (loggedIn == 1) {
+							jQuery("form#commentform").prepend("<div id='processingLoggedIn'>processing</div>");
+						}
+						
+						commentInputs.eq(0).blur(function() {
+							if (jQuery(this).val() != "") {
+								jQuery(this).css({"border-color":"lightgray","background-color":"#fff"});
+								commentErrors.eq(0).hide();
+								if (loggedIn == 0) {
+									if (commentErrors.eq(0).is(":hidden") && commentErrors.eq(1).is(":hidden") && commentErrors.eq(2).is(":hidden")) {
+										errorBox.hide();
+									}
+								} else {
+									if (commentErrors.eq(0).is(":hidden")) {
+										errorBox.hide();
+									}
+								}
+							}
+						});
+						
+						if (loggedIn == 0) {
+							commentInputs.eq(1).blur(function() {
+								if (validateEmail(jQuery(this)) == 1) {
+									jQuery(this).css({"border-color":"lightgray","background-color":"#fff"});
+									commentErrors.eq(1).hide();
+									if (commentErrors.eq(0).is(":hidden") && commentErrors.eq(1).is(":hidden") && commentErrors.eq(2).is(":hidden")) {
+										errorBox.hide();
+									}
+								}
+							});
+							
+							commentInputs.eq(2).blur(function() {
+								if (jQuery(this).val() != "") {
+									jQuery(this).css({"border-color":"lightgray","background-color":"#fff"});
+									commentErrors.eq(2).hide();
+									if (commentErrors.eq(0).is(":hidden") && commentErrors.eq(1).is(":hidden") && commentErrors.eq(2).is(":hidden")) {
+										errorBox.hide();
+									}
+								}
+							});
+						}
+						
+						commentform.submit(function(e){
+							e.preventDefault();
+							if (loggedIn == 0) {
+								var numErrors = 3;
+								commentInputs.each(function(i) {
+									if (validateEmail(jQuery(this)) == 0 && i == 1) {
+										jQuery(this).css({"border-color":"red","background-color":"#ffdfdf"});
+										errorBox.show();
+										commentErrors.eq(i).show();
+									} else if (jQuery(this).val() == "") {
+										jQuery(this).css({"border-color":"red","background-color":"#ffdfdf"});
+										errorBox.show();
+										commentErrors.eq(i).show();
+									} else {
+										numErrors--;
+									}
+								});
+							} else {
+								var numErrors = 1;
+								commentInputs.each(function(i) {
+									if (jQuery(this).val() == "") {
+										jQuery(this).css({"border-color":"red","background-color":"#ffdfdf"});
+										errorBox.show();
+										commentErrors.eq(i).show();
+									} else {
+										numErrors--;
+									}
+								});
+							}
+							
+							if (numErrors == 0) {
+								if (loggedIn == 0) {
+									jQuery("#processing").fadeIn("slow");
+								} else {
+									jQuery("#processingLoggedIn").fadeIn("slow");
+								}
+								//serialize and store form data in a variable
+								if (textareas.length == 2) {
+									var textarea1 = jQuery(textareas[0]).val();
+									jQuery(textareas[1]).val(textarea1);
+								}
+								var formdata=commentform.serialize();
+								//Extract action URL from commentform
+								var formurl = "http://blogs.roanoke.com/timessquare/wp-comments-post-custom.php";
+								//Post Form with data
+								$.ajax({
+									type: 'post',
+									url: formurl,
+									data: formdata,
+									xhrFields: {withCredentials: true},
+									error: function(jqXHR, exception) {
+										if (jqXHR.status === 0) {
+											//console.log('Not connect.\n Verify Network.');
+										} else if (jqXHR.status == 403) {
+											jQuery("#processing").after("<div id='ajaxError'>It appears you are too fast.<br />Please wait a few seconds and you will be able to re-submit your comment.</div>");
+											jQuery("#processing").fadeOut("slow", function() {
+												jQuery("#ajaxError").delay(8000).fadeOut("slow");
+											});
+										} else if (jqXHR.status == 404) {
+											//console.log('Requested page not found. [404]');
+										} else if (jqXHR.status == 500) {
+											if (loggedIn == 0) {
+												jQuery("#processing").after("<div id='ajaxError'>Error: It appears you may have tried submitting a duplicate comment.<br />Please check your comment and try again.</div>");
+												jQuery("#processing").fadeOut("slow", function() {
+													jQuery("#ajaxError").delay(5000).fadeOut("slow");
+												});
+											} else {
+												jQuery("#processingLoggedIn").after("<div id='ajaxErrorLoggedIn'>Error: It appears you may have tried submitting a duplicate comment.<br />Please check your comment and try again.</div>");
+												jQuery("#processingLoggedIn").fadeOut("slow", function() {
+													jQuery("#ajaxErrorLoggedIn").delay(5000).fadeOut("slow");
+												});
+											}
+										} else if (exception === 'parsererror') {
+											//console.log('Requested JSON parse failed.');
+										} else if (exception === 'timeout') {
+											//console.log('Time out error.');
+										} else if (exception === 'abort') {
+											//console.log('Ajax request aborted.');
+										} else {
+											//console.log('Uncaught Error.\n' + jqXHR.responseText);
+										}
+									},
+									success: function(data, textStatus){
+										if(textStatus=="success") {
+											//statusdiv.html('<p class="ajax-success" >Thanks for your comment. We appreciate your response.</p>');
+											newComment = 1;
+											getComments();
+										} else {
+											//console.log("moderated?");
+											//statusdiv.html('<p class="ajax-error" >Please wait a while before posting your next comment</p>');
+											//commentform.find('textarea[name=comment]').val('');
+										}
+									}
+								});
+								return false;
+							} else {
+								return false;
+							}
+						});
+					}
+				});
+			}
+		}
+		
+		
+		function getCommentsIE() {
+			if ( jQuery.browser.msie ) {
+				document.execCommand("BackgroundImageCache", false, true)
+			}
+		
+			var commentform = jQuery('#commentform'); // find the comment form
+			var respond = jQuery("#respond");
+			respond.prepend('<div id="comment-status" ></div>'); // add info panel before the form to provide feedback or errors
+			var statusdiv = jQuery('#comment-status'); // define the infopanel
+			
+			var errorBox = jQuery("#commentErrorContainer");
+			var commentErrors = errorBox.find("p");
+			var commentInputs = commentform.find("input[aria-required], textarea[aria-required]");
+			var textareas = commentform.find("textarea");
+			var loggedIn = commentform.find("p.logged-in-as").length;
+			if (loggedIn == 1) {
+				jQuery("form#commentform").prepend("<div id='processingLoggedIn'>processing</div>");
+			}
+			
+			commentInputs.eq(0).blur(function() {
+				if (jQuery(this).val() != "") {
+					jQuery(this).css({"border-color":"lightgray","background-color":"#fff"});
+					commentErrors.eq(0).hide();
+					if (loggedIn == 0) {
+						if (commentErrors.eq(0).is(":hidden") && commentErrors.eq(1).is(":hidden") && commentErrors.eq(2).is(":hidden")) {
+							errorBox.hide();
+						}
+					} else {
+						if (commentErrors.eq(0).is(":hidden")) {
+							errorBox.hide();
+						}
+					}
+				}
+			});
+			
+			if (loggedIn == 0) {
+				commentInputs.eq(1).blur(function() {
+					if (validateEmail(jQuery(this)) == 1) {
+						jQuery(this).css({"border-color":"lightgray","background-color":"#fff"});
+						commentErrors.eq(1).hide();
+						if (commentErrors.eq(0).is(":hidden") && commentErrors.eq(1).is(":hidden") && commentErrors.eq(2).is(":hidden")) {
+							errorBox.hide();
+						}
+					}
+				});
+				
+				commentInputs.eq(2).blur(function() {
+					if (jQuery(this).val() != "") {
+						jQuery(this).css({"border-color":"lightgray","background-color":"#fff"});
+						commentErrors.eq(2).hide();
+						if (commentErrors.eq(0).is(":hidden") && commentErrors.eq(1).is(":hidden") && commentErrors.eq(2).is(":hidden")) {
+							errorBox.hide();
+						}
+					}
+				});
+			}
+			
+			commentform.submit(function(e){
+				e.preventDefault();
+				if (loggedIn == 0) {
+					var numErrors = 3;
+					commentInputs.each(function(i) {
+						if (validateEmail(jQuery(this)) == 0 && i == 1) {
+							jQuery(this).css({"border-color":"red","background-color":"#ffdfdf"});
+							errorBox.show();
+							commentErrors.eq(i).show();
+						} else if (jQuery(this).val() == "") {
+							jQuery(this).css({"border-color":"red","background-color":"#ffdfdf"});
+							errorBox.show();
+							commentErrors.eq(i).show();
+						} else {
+							numErrors--;
+						}
+					});
+				} else {
+					var numErrors = 1;
+					commentInputs.each(function(i) {
+						if (jQuery(this).val() == "") {
+							jQuery(this).css({"border-color":"red","background-color":"#ffdfdf"});
+							errorBox.show();
+							commentErrors.eq(i).show();
+						} else {
+							numErrors--;
+						}
+					});
+				}
+				
+				if (numErrors == 0) {
+//					if (jQuery.browser.msie && jQuery.browser.version <= 9.0) {
+						if (loggedIn == 0) {
+							jQuery("#processing").fadeIn("slow");
+						} else {
+							jQuery("#processingLoggedIn").fadeIn("slow");
+						}
+						if (textareas.length == 2) {
+							var textarea1 = jQuery(textareas[0]).val();
+							jQuery(textareas[1]).val(textarea1);
+						}
+						var formdata=commentform.serialize();
+						postCommentPostMessage(formdata);
+//					} else {
+//						if (loggedIn == 0) {
+//							jQuery("#processing").fadeIn("slow");
+//						} else {
+//							jQuery("#processingLoggedIn").fadeIn("slow");
+//						}
+//						//serialize and store form data in a variable
+//						if (textareas.length == 2) {
+//							var textarea1 = jQuery(textareas[0]).val();
+//							jQuery(textareas[1]).val(textarea1);
+//						}
+//						var formdata=commentform.serialize();
+//						//Extract action URL from commentform
+//						var formurl = "http://blogs.roanoke.com/timessquare/wp-comments-post-custom.php";
+//						//Post Form with data
+//						$.ajax({
+//							type: 'post',
+//							url: formurl,
+//							data: formdata,
+//							xhrFields: {withCredentials: true},
+//							error: function(jqXHR, exception) {
+//								if (jqXHR.status === 0) {
+//									//console.log('Not connect.\n Verify Network.');
+//								} else if (jqXHR.status == 403) {
+//									jQuery("#processing").after("<div id='ajaxError'>It appears you are too fast.<br />Please wait a few seconds and you will be able to re-submit your comment.</div>");
+//									jQuery("#processing").fadeOut("slow", function() {
+//										jQuery("#ajaxError").delay(8000).fadeOut("slow");
+//									});
+//								} else if (jqXHR.status == 404) {
+//									//console.log('Requested page not found. [404]');
+//								} else if (jqXHR.status == 500) {
+//									if (loggedIn == 0) {
+//										jQuery("#processing").after("<div id='ajaxError'>Error: It appears you may have tried submitting a duplicate comment.<br />Please check your comment and try again.</div>");
+//										jQuery("#processing").fadeOut("slow", function() {
+//											jQuery("#ajaxError").delay(5000).fadeOut("slow");
+//										});
+//									} else {
+//										jQuery("#processingLoggedIn").after("<div id='ajaxErrorLoggedIn'>Error: It appears you may have tried submitting a duplicate comment.<br />Please check your comment and try again.</div>");
+//										jQuery("#processingLoggedIn").fadeOut("slow", function() {
+//											jQuery("#ajaxErrorLoggedIn").delay(5000).fadeOut("slow");
+//										});
+//									}
+//								} else if (exception === 'parsererror') {
+//									//console.log('Requested JSON parse failed.');
+//								} else if (exception === 'timeout') {
+//									//console.log('Time out error.');
+//								} else if (exception === 'abort') {
+//									//console.log('Ajax request aborted.');
+//								} else {
+//									//console.log('Uncaught Error.\n' + jqXHR.responseText);
+//								}
+//							},
+//							success: function(data, textStatus){
+//								if(textStatus=="success") {
+//									//statusdiv.html('<p class="ajax-success" >Thanks for your comment. We appreciate your response.</p>');
+//									newComment = 1;
+//									getCommentsPostMessage();
+//								} else {
+//									//console.log("moderated?");
+//									//statusdiv.html('<p class="ajax-error" >Please wait a while before posting your next comment</p>');
+//									//commentform.find('textarea[name=comment]').val('');
+//								}
+//							}
+//						});
+//						return false;
+//					}
+				} else {
+					return false;
+				}
+			});
+		}
+		
+		function validateEmail(email) {
+			var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+			var x = email.val();
+			if (reg.test(x) == false) {
+				return 0;
+			} else {
+				return 1;
+			}
+		}
+		
+		function addComment(){
+			jQuery('html,body').animate({scrollTop: jQuery("#respond").offset().top - 350},1500,"easeOutQuint");
+			// Stop the animation if the user scrolls. Defaults on .stop() should be fine
+			jQuery('html,body').bind("scroll mousedown DOMMouseScroll mousewheel keyup", function(e){
+				if ( e.which > 0 || e.type === "mousedown" || e.type === "mousewheel"){
+					 jQuery('html,body').stop().unbind('scroll mousedown DOMMouseScroll mousewheel keyup'); 
+					 // This identifies the scroll as a user action, stops the animation, then unbinds the event straight after (optional)
+				}
+			}); 
+		}
+		
+	</script>
+
+		<!-- InstanceBeginEditable name="body" -->
+		<!-- InstanceEndEditable -->
+        	</div>
+			<div id="rightRail">
+				
+					
+<!-- FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/rightRailIncludes/weather.csp -->
+
+	<div id="weatherWidgetTop">
+		Monday, September 30, 2013
+
+	</div>
+	<script type="text/javascript" src="http://ww2.roanoke.com/js/2008/severewxdti.js"></script>
+	<div id="weatherWidget">
+		<div id="weatherWidgetBlog">
+			<div class='blogIcon'><img src='/csp/cms/sites/TRT/assets/images/general/blogIcons/24.jpg' width='30' height='35' /></div><p style='margin:0;'>Weather Journal</p><a href='http://blogs.roanoke.com/weatherjournal/?p=73553'> Mon PM webcast; some tropical trouble?</a><p class='timestamp'>10 hours ago</p>
+		</div>
+		<script type="text/javascript" src="http://dale.roanoke.com/dtiweather-roanoke.js"></script>
+	</div>
+<!--/FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/rightRailIncludes/weather.csp, took .017747 -->
+
+					
+<!-- FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/ads/oas/oasRightAds.csp -->
+<script type="text/javascript">
+	var scrollFuncs = {};
+	var adArr = new Array();
+	var frameArr = {};
+	var autoScrollFuncs = {};
+</script>
+
+<!--Daily Deal-->
+<div class="rightAds">
+	<div id="dailyDeal">
+		<script type="text/javascript">
+		<!--
+			OAS_AD('Position1');
+		//-->
+		</script>
+	</div>
+	<div class="clear"></div>
+</div>
+
+
+
+	<!--Right Big box 1-->
+	<div class="rightAds">
+		<div id="right1">
+			<script type="text/javascript">
+			<!--
+				OAS_AD('Right1');
+			//-->
+			</script>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<!--Right Big box 2-->
+	<div class="rightAds">
+		<div id="right2">
+			<script type="text/javascript">
+			<!--
+				OAS_AD('Right2');
+			//-->
+			</script>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+
+
+
+
+<!--Promo 1-->
+<!--<div class="rightAds">
+	<div id="promo1">
+		<script type="text/javascript">-->
+		<!--
+			OAS_AD('x01');
+		//-->
+<!--		</script>
+	</div>
+	<div class="clear"></div>
+</div>-->
+
+
+
+	<!--Widgets-->
+	<div class="rightAds">
+		<div id="bottomRight">
+			<script type="text/javascript">
+			<!--
+				OAS_AD('BottomRight');
+			//-->
+			</script>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+
+<!--/FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/ads/oas/oasRightAds.csp, took .000114 -->
+
+					
+<!-- FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/rightRailIncludes/shareTip.csp -->
+
+	<div id="shareTip">
+		<div id="shareTipText">Your news, photos, opinions</div>
+		<div id="shareTipBtn" onclick="javascript:contactForm('default')"></div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+	
+<div id="emailSubscribe">
+<form action='http://subscribe.delivra.com/subscribe.ashx' method='POST'>
+
+
+		<div id="emailSubscribeText">Sign up for free daily news by email</div>
+			<div id="emailSubscribeInput">
+				<input type='text' value='Your Email' id='youremail' name='email' align='left' size='29' onclick="ClearInput('Your Email', this.id)" onblur="restoreDefaultValue('Your Email', this.id)"/>
+				<input type='image' border='0' height='28' width='68' title='subscribe' alt='subscribe' src='/csp/cms/sites/TRT/assets/images/general/subscribeBtn.png' name='subscribe' id='imgBtn'/>
+			  </div>
+		<div class="clear"></div>
+	
+	<input type='hidden' name='list' value='roanoke-daily-dti'/>
+	<input type='hidden' name='demographics' value=''/>
+	<input type='hidden' name='confirm' value='none'/>
+	<input type='hidden' name='showconfirm' value='T'/>
+</form>
+</div>
+<div class="clear"></div>
+<!--/FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/rightRailIncludes/shareTip.csp, took .000185 -->
+
+					
+<!-- FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/rightRailIncludes/obits.csp -->
+<div class="railHeader">LATEST OBITUARIES</div>
+<div id="obits">
+	<div class='activeObitsPage obitPage'><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=christine-crutchfield-amos&pid=167204147&fhid=10911&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>AMOS</span>,   Christine Crutchfield</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=joseph-arthur-ayares&pid=167252774&fhid=10966&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>AYARES</span>,   Joseph Arthur</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=rex-lee-bentley&pid=167252787&fhid=10966&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>BENTLEY</span>,   Rex Lee</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=robert-douglas-browning&pid=167252783&fhid=15117&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>BROWNING</span>,   Robert Douglas</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=david-hall-burrows&pid=167252796&fhid=15117&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>BURROWS</span>,   David Hall</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=laura-l-anderson-calloway&pid=167252785&fhid=3865&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>CALLOWAY</span>,   Laura L. Anderson</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=mildred-scott-carwile&pid=167252789&fhid=5971&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>CARWILE</span>,   Mildred Scott</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=bobby-ray-caviness&pid=167252775&fhid=10966&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>CAVINESS</span>,   Bobby Ray</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=john-canada-cosby&pid=167252778&fhid=11648&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>COSBY</span>,   John Canada</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=daniel-ira-devilbiss&pid=167204141&fhid=10857&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>DeVILBISS</span>,   Daniel Ira</a></div></div>
+
+<div class='obitPage'><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=willis-franklin-edwards&pid=167204101&fhid=11324&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>EDWARDS</span> Sr.,   Willis Franklin</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=margie-carner-elmore&pid=167252797&fhid=2158&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>ELMORE</span>,   Margie Carner</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=charles-stanley-hackett&pid=167252779&fhid=11325&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>HACKETT</span>,   Charles Stanley</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=george-alvis-harman&pid=167204152&fhid=10539&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>HARMAN</span> III,   George Alvis</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=wilford-harris&pid=167204103&fhid=10087&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>HARRIS</span>,   Wilford</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=joanne-p-hilton&pid=167252771&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>HILTON</span>,   JoAnne P.</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=ira-wingfield-hoover&pid=167252781&fhid=10541&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>HOOVER</span>,   Ira Wingfield</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=ray-wendell-horton&pid=167252784&fhid=10541&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>HORTON</span> Jr.,   Ray Wendell</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=lisa-m-jirousek&pid=167252780&fhid=10969&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>JIROUSEK</span>,   Lisa M.</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=dorothy-lee-mackenhimer&pid=167204100&fhid=10412&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>MACKENHIMER</span>,   Dorothy Lee</a></div></div>
+
+<div class='obitPage'><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=miles-walter-markham&pid=167252761&fhid=28782&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>MARKHAM</span>,   Miles Walter</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=oscar-harold-mcghee&pid=167252782&fhid=5754&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>McGHEE</span>,   Oscar Harold</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=nancy-mcgreevey&pid=167252798&fhid=10412&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>McGREEVEY</span>,   Nancy</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=ray-lee-mitchell&pid=167252758&fhid=10539&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>MITCHELL</span>,   Ray Lee</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=kerry-i-nichols&pid=167252764&fhid=10554&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>NICHOLS</span>,   Kerry I.</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=gladys-richards-pendleton&pid=167252762&fhid=10946&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>PENDLETON</span>,   Gladys Richards</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=charles-kenneth-perdue&pid=167252763&fhid=5575&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>PERDUE</span>,   Charles Kenneth</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=roxie-odell-reynolds&pid=167204138&fhid=10952&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>REYNOLDS</span>,   Roxie Odell</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=charles-blake-roberts&pid=167204157&fhid=10567&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>ROBERTS</span>,   Charles Blake</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=alexander-louis-robinson&pid=167252766&fhid=10911&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>ROBINSON</span>,   Alexander Louis</a></div></div>
+
+<div class='obitPage'><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=richard-saunders&pid=167252752&fhid=5575&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>SAUNDERS</span>,   Richard</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=flora-mae-wilson-simmons&pid=167252753&fhid=5575&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>SIMMONS</span>,   Flora Mae Wilson</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=charles-michael-southern&pid=167252777&fhid=10551&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>SOUTHERN</span>,   Charles Michael</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=beatrice-lawson-spivey&pid=167204121&fhid=10541&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>SPIVEY</span>,   Beatrice Lawson</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=a-edgar-stump&pid=167252786&fhid=10412&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>STUMP</span>,   A. Edgar</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=margaret-wilson-thomas&pid=167252770&fhid=10911&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>THOMAS</span>,   Margaret Wilson</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=macyl-lively-walker&pid=167252757&fhid=10969&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>WALKER</span>,   Macyl Lively</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=james-byron-way&pid=167252754&fhid=10836&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>WAY</span> Sr.,   James Byron</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=mildred-jean-mitchem-williams&pid=167252765&fhid=10923&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>WILLIAMS</span>,   Mildred Jean Mitchem</a></div><div><a href='http://www.legacy.com/obituaries/roanoke/obituary.aspx?n=arthur-lee-wilson&pid=167252788&fhid=10745&utm_source=rcom&utm_medium=widget&utm_campaign=obitwidget'><span>WILSON</span>,   Arthur Lee</a></div></div>
+
+
+	<div id="obitsPagination">
+		<div class="obitsPagin">1</div>
+		<div class="obitsPagin">2</div>
+		<div class="obitsPagin">3</div>
+		<div class="obitsPagin">4</div>
+		<div class="obitsPagin">5</div>
+		<a href="http://obits.roanoke.com/obituaries/roanoke/" class="moreLink" style="margin:0;">[SEARCH OBITUARIES]</a>
+	</div>
+	<div class="clear"></div>
+</div>
+<!--/FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/rightRailIncludes/obits.csp, took .1236 -->
+
+					
+<!-- FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/rightRailIncludes/mostPopular.csp -->
+<div class="railHeader">MOST READ</div>
+<div id="mostPopular">
+	<div id="mostPopularSidebarRight">
+		
+			<h3>
+				<span>1.</span>
+				<span>
+					
+					
+					
+						<a href="/news/2264124-12/driver-in-fatal-floyd-county-crash-identified.html" >
+							
+								 Driver in fatal Floyd County crash identified
+							
+						</a>
+					
+				</span>
+			</h3>
+		
+			<h3>
+				<span>2.</span>
+				<span>
+					
+					
+					
+						<a href="/news/2261737-12/3-killed-after-crash-in-floyd-county.html" >
+							
+								 3 killed after crash in Floyd County
+							
+						</a>
+					
+				</span>
+			</h3>
+		
+			<h3>
+				<span>3.</span>
+				<span>
+					
+					
+					
+						<a href="/opinion/commentary/2256292-12/vmi-misses-the-point.html" >
+							
+								<span class='summaryLabel'>COMMENTARY:</span> VMI misses the point
+							
+						</a>
+					
+				</span>
+			</h3>
+		
+			<h3>
+				<span>4.</span>
+				<span>
+					
+					
+					
+						<a href="/news/obamacare/2239236-12/navigators-help-public-apply-affordable-care-act.html" >
+							
+								 Navigators help public apply Affordable Care Act 
+							
+						</a>
+					
+				</span>
+			</h3>
+		
+			<h3>
+				<span>5.</span>
+				<span>
+					
+					
+					
+						<a href="/news/2262104-12/congressional-gridlock-could-shut-down-blue-ridge-parkway.html" >
+							
+								 Congressional gridlock could shut down Blue Ridge Parkway
+							
+						</a>
+					
+				</span>
+			</h3>
+		
+			<h3>
+				<span>6.</span>
+				<span>
+					
+					
+					
+						<a href="/news/nrv/2260024-12/pulaski-county-filling-industrial-vacancies.html" >
+							
+								 Pulaski County filling industrial vacancies 
+							
+						</a>
+					
+				</span>
+			</h3>
+		
+			<h3>
+				<span>7.</span>
+				<span>
+					
+					
+					
+						<a href="/living/2031235-12/where-are-those-familiar-tv-faces-now.html" >
+							
+								 Where are those familiar TV faces now?
+							
+						</a>
+					
+				</span>
+			</h3>
+		
+			<h3>
+				<span>8.</span>
+				<span>
+					
+					
+					
+						<a href="/news/2258836-12/young-bear-hit-killed-on-i-581.html" >
+							
+								 Young bear hit, killed on I-581
+							
+						</a>
+					
+				</span>
+			</h3>
+		
+			<h3>
+				<span>9.</span>
+				<span>
+					
+					
+					
+						<a href="/news/2264694-12/searchers-revisit-nelson-county-in-case-of-missing.html" >
+							
+								 Searchers revisit Nelson County in case of missing teen girl 
+							
+						</a>
+					
+				</span>
+			</h3>
+		
+			<h3>
+				<span>10.</span>
+				<span>
+					
+					
+					
+						<a href="/news/2261423-12/damages-still-issue-in-2010-crash-of-fire.html" >
+							
+								 Damages still issue in 2010 crash of fire truck in Rocky Mount
+							
+						</a>
+					
+				</span>
+			</h3>
+		
+		<div class="clear"></div>
+	</div>
+</div>
+<!--/FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/rightRailIncludes/mostPopular.csp, took .024153 -->
+
+					
+<!-- FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/ads/oas/oasRightAdsBottom.csp -->
+<!--Promo 2-->
+<!--<div class="rightAds">
+	<div id="promo2">
+		<script type="text/javascript">-->
+		<!--
+//			OAS_AD('x02');
+		//-->
+<!--		</script>
+	</div>
+	<div class="clear"></div>
+</div>-->
+<!--/FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/ads/oas/oasRightAdsBottom.csp, took .00011 -->
+
+				
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+<!-- FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/wrapper/footer.csp -->
+<!--<csp:if condition='((gSection.name = "home") && (adNum = 2))'>
+<csp:else>
+	<div class="pageExtension">
+		<div id="bottomAd">
+			<script type="text/javascript">-->
+			<!--
+				OAS_AD('Bottom');
+			//-->
+<!--			</script>
+		</div>
+	</div>
+</csp:if>-->
+<div id="footerContainer">
+	<div class="footerLinks">
+		<div id="div-footerLeftLinks">
+			<script type="text/javascript">
+			copyrightDate();
+		</script>
+		<h5>THE ROANOKE TIMES</h5>
+			<div class="clear"></div>
+			<a href="http://www.roanoke.com/"><img src="/csp/cms/sites/TRT/assets/images/general/roanokeLogoBottom.png"/></a>
+		</div>	
+		<div id="div-footerRightLinks">
+			<ul>
+				<li><a href="/privacypolicy/">Privacy policy, terms and conditions </a></li>
+				<li><a href="/sitemap/">Site map </a></li>
+				<li><a href="/contactus/">Contact us </a></li>
+				<li><a href="/careers/">Work for us </a></li>
+				<li><a href="http://www.smithmountainlake.com/chamber/" target="_blank">Smith Mountain Lake Visitor Guide</a></li>
+			</ul>
+			
+	<span><a href="javascript:mobileSite()">MOBILE SITE</a>  |  <a href="http://www.roanoke.com/">STANDARD SITE</a></span>	
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	function mobileSite() {
+		setCookie("fullSite",1,-1);
+		window.location = "http://m.roanoke.com/mhome";
+	}
+</script>
+<script type="text/javascript">
+	setTimeout(function(){
+		var a=document.createElement("script");
+		var b=document.getElementsByTagName("script")[0];
+		a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/9441.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;
+		a.type="text/javascript";
+		b.parentNode.insertBefore(a,b)
+	}, 1);
+</script>
+<!--/FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/wrapper/footer.csp, took .000209 -->
+
+	</div>
+
+<!-- FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/feedback.csp -->
+<script type='text/javascript'> 
+var _ues = { 
+host:'theroanoketimes.userecho.com', 
+forum:'14166', 
+lang:'en', 
+tab_corner_radius:5, 
+tab_font_size:20, 
+tab_image_hash:'ZmVlZGJhY2s%3D', 
+tab_chat_hash:'Y2hhdA%3D%3D', 
+tab_alignment:'right', 
+tab_text_color:'#FFFFFF', 
+tab_text_shadow_color:'#00000055', 
+tab_bg_color:'#b07e2c', 
+tab_hover_color:'#e7b25b',
+tab_top:'45%',
+no_dialog:true
+}; 
+ 
+(function() { 
+    var _ue = document.createElement('script'); _ue.type = 'text/javascript'; _ue.async = true; 
+    _ue.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.userecho.com/js/widget-1.4.gz.js'; 
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(_ue, s); 
+  })(); 
+</script>
+<!--/FileInclude:Normal, /csp/cms/sites/TRT/assets/csp/feedback.csp, took .000184 -->
+
+</body>
+
+<!-- InstanceEnd --></html>

@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<!--[if IE 6]><html class="ie ie6 oldie" lang="en-US"><![endif]-->
+<!--[if IE 7]><html class="ie ie7 oldie" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="ie ie8 oldie" lang="en-US"><![endif]-->
+<!--[if IE 9]><html class="ie ie9" lang="en-US"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en-US"><!--<![endif]-->
+<head>
+
+<!-- Meta Tags -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<!-- Title, Keywords and Description -->
+<title>[UNStories #6] Greenland: The Lookout for Nuclear Explosions | UNStories</title>
+<meta name="keywords" content="Feature, News &amp; Politics (UN), Peace &amp; Security, Science &amp; Technology, English" />
+<meta name="description" content="At a remote outpost in Qaanaaq, northern Greenland, one operator runs an infrasound station year round which detects atomic activity. Script in English [PDF]" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="shortcut icon" href="http://s.wordpress.org/favicon.ico" />
+<link rel="pingback" href="http://blogs.un.org/unstories/xmlrpc.php" />
+<script type="text/javascript">
+var themeSettings = {
+		infoToggle: 100,
+ajaxVideoForListLargeView: true,
+ajaxLoadForHomeFeatured: true
+	},
+	ajaxurl = 'http://blogs.un.org/unstories/wp-admin/admin-ajax.php',
+	ajaxerror = "Something\'s error. Please try again later!";
+</script>
+<link rel="alternate" type="application/rss+xml" title="UNStories &raquo; Feed" href="http://blogs.un.org/unstories/feed/" />
+<link rel="alternate" type="application/rss+xml" title="UNStories &raquo; Comments Feed" href="http://blogs.un.org/unstories/comments/feed/" />
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.3 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-4803886-15']);
+				            _gaq.push(['_setDomainName','un.org'],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel='stylesheet' id='ayvpp-admin-css'  href='http://blogs.un.org/unstories/wp-content/plugins/automatic-youtube-video-posts/css/style.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://blogs.un.org/unstories/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://blogs.un.org/unstories/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<link rel='stylesheet' id='dp-fonts-css'  href='http://fonts.googleapis.com/css?family=Arimo%3A400%2C700%7CDroid+Serif%3A400%2C700%7COpen+Sans%3A600%2C700&#038;ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dp-style-css'  href='http://blogs.un.org/unstories/wp-content/themes/detube/style.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dp-responsive-css'  href='http://blogs.un.org/unstories/wp-content/themes/detube/responsive.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='video-js-css-css'  href='http://blogs.un.org/unstories/wp-content/plugins/video-embed-thumbnail-generator/video-js/video-js.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='video-js-kg-skin-css'  href='http://blogs.un.org/unstories/wp-content/plugins/video-embed-thumbnail-generator/video-js/kg-video-js-skin.css?ver=4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='kgvid_video_styles-css'  href='http://blogs.un.org/unstories/wp-content/plugins/video-embed-thumbnail-generator/css/kgvid_styles.css?ver=4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css'  href='http://blogs.un.org/unstories/wp-content/themes/detube/custom.css?ver=3.5.2' type='text/css' media='all' />
+<script type="text/javascript">var ayvpp_root = "http://blogs.un.org/unstories";</script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://p.jwpcdn.com/6/5/jwplayer.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/themes/detube/js/modernizr.min.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/themes/detube/js/jquery.easing.js?ver=1.3'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/themes/detube/js/jquery.plugins.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/themes/detube/js/jquery.jplayer.min.js?ver=2.1.0'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/themes/detube/js/jquery.jcarousel.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/themes/detube/js/theme.js?ver=1.0'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-includes/js/comment-reply.min.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/plugins/video-embed-thumbnail-generator/video-js/video.js?ver=4.1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajaxurl":"http:\/\/blogs.un.org\/unstories\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/plugins/video-embed-thumbnail-generator/js/kgvid_video_embed.js?ver=4.15'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.un.org/unstories/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.un.org/unstories/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.2" />
+<link rel='canonical' href='http://blogs.un.org/unstories/2013/09/09/unstories-6-greenland-the-lookout-for-nuclear-explosions/' />
+<link rel='shortlink' href='http://wp.me/p3Lwl3-63' />
+<link rel="stylesheet" type="text/css" href="http://blogs.un.org/unstories/wp-content/plugins/wp-recaptcha/recaptcha.css" /><script type="text/javascript">jwplayer.defaults = { "ph": 2 };</script>
+            <script type="text/javascript">
+            if (typeof(jwp6AddLoadEvent) == 'undefined') {
+                function jwp6AddLoadEvent(func) {
+                    var oldonload = window.onload;
+                    if (typeof window.onload != 'function') {
+                        window.onload = func;
+                    } else {
+                        window.onload = function() {
+                            if (oldonload) {
+                                oldonload();
+                            }
+                            func();
+                        }
+                    }
+                }
+            }
+            </script>
+
+            <script type="text/javascript">videojs.options.flash.swf = "http://blogs.un.org/unstories/wp-content/plugins/video-embed-thumbnail-generator/video-js/video-js.swf?4.1.0"</script>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="[UNStories #6] Greenland: The Lookout for Nuclear Explosions" />
+<meta property="og:url" content="http://blogs.un.org/unstories/2013/09/09/unstories-6-greenland-the-lookout-for-nuclear-explosions/" />
+<meta property="og:description" content="At a remote outpost in Qaanaaq, northern Greenland, one operator runs an infrasound station year round which detects atomic activity. Script in English [PDF]" />
+<meta property="og:site_name" content="UNStories" />
+<meta property="og:image" content="http://i1.wp.com/blogs.un.org/unstories/files/2013/09/unstories-6-greenland-the-lookout-for-nuclear-explosions.jpg?fit=400%2C400" />
+<meta property="og:site_name" content="UNStories" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://blogs.un.org/unstories/2013/09/09/unstories-6-greenland-the-lookout-for-nuclear-explosions/" />
+<meta property="og:title" content="[UNStories #6] Greenland: The Lookout for Nuclear Explosions | UNStories" />
+<meta property="og:description" content="At a remote outpost in Qaanaaq, northern Greenland, one operator runs an infrasound station year round which detects atomic activity. Script in English [PDF]" />
+<meta property="og:image" content="http://i1.wp.com/blogs.un.org/unstories/files/2013/09/unstories-6-greenland-the-lookout-for-nuclear-explosions.jpg?fit=1024%2C1024" />
+
+<!-- Generated CSS BEGIN -->
+<style type='text/css'>
+body{background:#EEE url("http://blogs.un.org/unstories/wp-content/themes/detube/patterns/furley.png") repeat center top fixed;}
+
+</style>
+<!-- Generated CSS END -->
+</head>
+
+<body class="single single-post postid-375 single-format-standard full-wrap">
+
+<div id="page">
+    <div id="unbrandbar">
+        <div id="unbbcontainer">
+            <div id="unbbwelcome"> <img src="http://www.un.org/en/images/en_unicon_k.png" height="18" width="21" alt="" class="unicon" align="left"/>
+                <span class="welcome"><a href="http://www.un.org/en/index.shtml">Welcome to the United Nations. It's your world.</a></span>
+            </div><!-- #unbbwelcome
+            <div id="languages">
+                <ul>
+                  <li lang="ar" xml:lang="ar" id="arabic"><a href="/ar/">عربي</a></li>
+                  <li lang="zh-cn" xml:lang="zh-cn" id="chinese"><a href="/zh/">中文</a></li>
+                  <li lang="en"  xml:lang="en" id="english">English</li>
+                  <li lang="fr" xml:lang="fr"><a href="/fr/">Fran&ccedil;ais</a></li>
+                  <li lang="ru" xml:lang="ru"><a href="/ru/">Русский</a></li>
+                  <li lang="es" xml:lang="es"><a href="/es/">Espa&ntilde;ol</a></li>
+                </ul>
+            </div><!-- #languages -->
+      </div><!-- #unbbcontainer -->
+    </div><!-- #unbrandbar -->
+<header id="header"><div class="wrap cf">
+	<div id="branding" class="image-branding" role="banner">
+					<div id="site-title"><a rel="home" href="http://blogs.un.org/unstories">UNStories</a></div>
+				
+					<a id="site-logo" rel="home" href="http://blogs.un.org/unstories"><img src="http://blogs.un.org/unstories/files/2013/06/unstories-logo.png" alt="UNStories"/></a>
+				
+					<div id="site-description" class="hidden">Video series tailored for the web</div>
+			</div><!-- end #branding -->
+	
+			<div id="guest-nav" class="user-nav">
+			<a class="btn likes-page-link btn-red" href="http://blogs.un.org/unstories/">Home</a>
+		</div><!-- end #login-nav -->
+		
+		
+</div></header><!-- end #header-->
+
+<div id="main-nav"><div class="wrap cf">
+
+	<ul id="menu-main-navigation" class="menu"><li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="http://blogs.un.org/unstories/" >Home</a></li>
+<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-174"><a href="http://blogs.un.org/unstories/browse/" >Browse</a></li>
+<li id="menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177"><a href="http://blogs.un.org/unstories/contact-us/" >Contact Us</a></li>
+</ul></div></div><!-- end #main-nav -->
+
+
+<div id="main"><div class="wrap cf">
+	
+	<div id="headline" class="cf">
+	<div class="inner">
+		<h1 class="entry-title">[UNStories #6] Greenland: The Lookout for Nuclear Explosions</h1>
+	
+		<div id="actions">
+			<span class="dp-like-post"><a class="like" href="javascript:void(0);" data-pid="375">Like?</a></span>			
+						<div class="dropdown dp-share">
+				<a class="dropdown-handle" href="#">Share</a>
+				
+				<div class="dropdown-content">
+							<div class="addthis_toolbox addthis_default_style" addthis:url='http://wp.me/p3Lwl3-63'>
+		<ul>
+			<li><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a></li>
+			<li><a class="addthis_button_tweet"></a></li>
+			<li><a class="addthis_button_google_plusone" g:plusone:size="medium"></a></li>
+			<li><a class="addthis_button_pinterest_pinit"></a></li>
+			<li><a class="addthis_counter addthis_pill_style"></a></li>
+		</ul>
+	</div>
+				</div>
+			</div>
+					</div>
+	</div><!-- end #headline>.inner -->
+	</div><!-- end #headline -->
+	
+	<div id="content" role="main">
+				
+		<div class="post-375 post type-post status-publish format-standard hentry category-feature category-news-politics category-peace-security category-science-tech tag-en-2" id="post-375">
+		
+		<div id="video">
+			<div id="screen">
+				<div class="video-wrap"><iframe width="560" height="315" src="//www.youtube.com/embed/A-CUHqAGTL4?list=PLwoDFQJEq_0Y57bsPH-5zcRnDlXJRz87x&wmode=opaque&rel=0&showinfo=0&modestbranding=0&iv_load_policy=3" frameborder="0" allowfullscreen></iframe></div>			</div><!-- end #screen -->
+		</div><!-- end #video-->
+
+		
+		<div id="details" class="section-box">
+			<div class="section-content">
+			<div id="info" data-height="150">
+				<p class="entry-meta">
+					<span class="author">Added by <a href="" title="Posts by " rel="author"></a></span>
+					<span class="time">on September 9, 2013</span>
+					
+									</p>
+
+				<div class="entry-content rich-content">
+					<p>At a remote outpost in Qaanaaq, northern Greenland, one operator runs an infrasound station year round which detects atomic activity. <a href="http://blogs.un.org/unstories/files/2013/09/UNS-Greenland-ENG.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','http://blogs.un.org/unstories/files/2013/09/UNS-Greenland-ENG.pdf']);">Script in English [PDF]</a></p>
+									</div><!-- end .entry-content -->
+			
+				<div id="extras">
+					<h4>Category:</h4> <a href="http://blogs.un.org/unstories/category/feature/" title="View all posts in Feature" rel="category tag">Feature</a>, <a href="http://blogs.un.org/unstories/category/news-politics/" title="View all posts in News &amp; Politics (UN)" rel="category tag">News &amp; Politics (UN)</a>, <a href="http://blogs.un.org/unstories/category/peace-security/" title="View all posts in Peace &amp; Security" rel="category tag">Peace &amp; Security</a>, <a href="http://blogs.un.org/unstories/category/science-tech/" title="View all posts in Science &amp; Technology" rel="category tag">Science &amp; Technology</a>					<h4>Tags:</h4><a href="http://blogs.un.org/unstories/tag/en-2/" rel="tag">English</a>				</div>
+			</div><!-- end #info -->
+			</div><!-- end .section-content -->
+			
+			<div class="info-toggle">
+				<a href="#" class="info-more">Show more</a>
+				<a href="#" class="info-less">Show less</a>
+			</div>
+		</div><!--end #deatils-->
+		
+		</div><!-- end #post-375 -->
+		
+			
+	<div class="section-box related-posts">
+		<div class="section-header"><h3 class="section-title">You may also like</h3></div>
+			
+		<div class="section-content grid-mini"><div class="nag cf">
+				<div id="post-343" class="post-343 post type-post status-publish format-standard hentry category-economic-social category-feature category-news-politics tag-en-2 item cf item-video">
+		
+	<div class="thumb">
+		<a class="clip-link" data-id="343" title="[UN Stories #5] Malala Day: An Education for All Children" href="http://blogs.un.org/unstories/2013/08/29/un-stories-5-malala-day-an-education-for-all-children/">
+			<span class="clip">
+				<img src="http://i0.wp.com/blogs.un.org/unstories/files/2013/08/p343.jpg?resize=160%2C90" alt="[UN Stories #5] Malala Day: An Education for All Children" /><span class="vertical-align"></span>
+			</span>
+							
+			<span class="overlay"></span>
+		</a>
+	</div>			
+		<div class="data">
+			<h2 class="entry-title"><a href="http://blogs.un.org/unstories/2013/08/29/un-stories-5-malala-day-an-education-for-all-children/" rel="bookmark" title="Permalink to [UN Stories #5] Malala Day: An Education for All Children">[UN Stories #5] Malala Day: An Education for All Children</a></h2>
+			
+			<p class="entry-meta">
+				<span class="author vcard">
+				<a class="url fn n" href="" title="View all posts by " rel="author"></a>				</span>
+				
+				<time class="entry-date" datetime="2013-08-29T13:46:57+00:00">3 weeks ago</time></a>
+			</p>
+					
+			<p class="stats"><span class="views"><i class="count">37</i> <span class="suffix">Views</span></span><span class="comments"><i class="count">0</i> <span class="suffix">Comments</span></span><span class="dp-post-likes likes"><i class="count" data-pid="343">0</i> <span class="suffix">Likes</span></span></p>
+
+			<p class="entry-summary">Script in English [PDF] Malala Yousafzai was shot and almost killed by Taliban militants in Pakistan on her way home from school, yet her survival only made her a greater global advocate for universal education.</p>
+		</div>
+	</div><!-- end #post-343 -->	<div id="post-332" class="post-332 post type-post status-publish format-standard hentry category-feature category-news-politics tag-en-2 item cf item-video">
+		
+	<div class="thumb">
+		<a class="clip-link" data-id="332" title="[UNStories #4] Haiti: Women Take On New Businesses" href="http://blogs.un.org/unstories/2013/07/31/unstories-4-haiti-women-take-on-new-businesses/">
+			<span class="clip">
+				<img src="http://i1.wp.com/blogs.un.org/unstories/files/2013/07/unstories-4-haiti-women-take-on-new-businesses.jpg?resize=160%2C90" alt="[UNStories #4] Haiti: Women Take On New Businesses" /><span class="vertical-align"></span>
+			</span>
+							
+			<span class="overlay"></span>
+		</a>
+	</div>			
+		<div class="data">
+			<h2 class="entry-title"><a href="http://blogs.un.org/unstories/2013/07/31/unstories-4-haiti-women-take-on-new-businesses/" rel="bookmark" title="Permalink to [UNStories #4] Haiti: Women Take On New Businesses">[UNStories #4] Haiti: Women Take On New Businesses</a></h2>
+			
+			<p class="entry-meta">
+				<span class="author vcard">
+				<a class="url fn n" href="" title="View all posts by " rel="author"></a>				</span>
+				
+				<time class="entry-date" datetime="2013-07-31T07:41:39+00:00">1 month ago</time></a>
+			</p>
+					
+			<p class="stats"><span class="views"><i class="count">26</i> <span class="suffix">Views</span></span><span class="comments"><i class="count">0</i> <span class="suffix">Comments</span></span><span class="dp-post-likes likes"><i class="count" data-pid="332">4</i> <span class="suffix">Likes</span></span></p>
+
+			<p class="entry-summary">Haitians are rebuilding their homes and their livelihoods after the devastating earthquake struck in 2010.
+ Script in English [PDF]</p>
+		</div>
+	</div><!-- end #post-332 -->	<div id="post-283" class="post-283 post type-post status-publish format-standard hentry category-feature category-news-politics tag-en-2 item cf item-video">
+		
+	<div class="thumb">
+		<a class="clip-link" data-id="283" title="[UN Stories #3] India: No Toilet, No Bride" href="http://blogs.un.org/unstories/2013/07/22/un-stories-3-india-no-toilet-no-bride/">
+			<span class="clip">
+				<img src="http://i1.wp.com/blogs.un.org/unstories/files/2013/07/un-stories-3-india-no-toilet-no-bride.jpg?resize=160%2C90" alt="[UN Stories #3] India: No Toilet, No Bride" /><span class="vertical-align"></span>
+			</span>
+							
+			<span class="overlay"></span>
+		</a>
+	</div>			
+		<div class="data">
+			<h2 class="entry-title"><a href="http://blogs.un.org/unstories/2013/07/22/un-stories-3-india-no-toilet-no-bride/" rel="bookmark" title="Permalink to [UN Stories #3] India: No Toilet, No Bride">[UN Stories #3] India: No Toilet, No Bride</a></h2>
+			
+			<p class="entry-meta">
+				<span class="author vcard">
+				<a class="url fn n" href="" title="View all posts by " rel="author"></a>				</span>
+				
+				<time class="entry-date" datetime="2013-07-22T09:20:18+00:00">2 months ago</time></a>
+			</p>
+					
+			<p class="stats"><span class="views"><i class="count">55</i> <span class="suffix">Views</span></span><span class="comments"><i class="count">0</i> <span class="suffix">Comments</span></span><span class="dp-post-likes likes"><i class="count" data-pid="283">4</i> <span class="suffix">Likes</span></span></p>
+
+			<p class="entry-summary">Nearly half of India's 1.2 billion people don't have access to toilets, especially in rural villages.
+
+Script in English [PDF]</p>
+		</div>
+	</div><!-- end #post-283 -->	<div id="post-224" class="post-224 post type-post status-publish format-standard hentry category-feature category-news-politics tag-en-2 item cf item-video">
+		
+	<div class="thumb">
+		<a class="clip-link" data-id="224" title="[UN Stories #2] Syrian Refugees: A Growing Crisis" href="http://blogs.un.org/unstories/2013/06/27/un-stories-2-syrian-refugees-a-growing-crisis/">
+			<span class="clip">
+				<img src="http://i2.wp.com/blogs.un.org/unstories/files/2013/06/un-stories-2-syrian-refugees-a-growing-crisis.jpg?resize=160%2C90" alt="[UN Stories #2] Syrian Refugees: A Growing Crisis" /><span class="vertical-align"></span>
+			</span>
+							
+			<span class="overlay"></span>
+		</a>
+	</div>			
+		<div class="data">
+			<h2 class="entry-title"><a href="http://blogs.un.org/unstories/2013/06/27/un-stories-2-syrian-refugees-a-growing-crisis/" rel="bookmark" title="Permalink to [UN Stories #2] Syrian Refugees: A Growing Crisis">[UN Stories #2] Syrian Refugees: A Growing Crisis</a></h2>
+			
+			<p class="entry-meta">
+				<span class="author vcard">
+				<a class="url fn n" href="" title="View all posts by " rel="author"></a>				</span>
+				
+				<time class="entry-date" datetime="2013-06-27T09:01:41+00:00">2 months ago</time></a>
+			</p>
+					
+			<p class="stats"><span class="views"><i class="count">60</i> <span class="suffix">Views</span></span><span class="comments"><i class="count">0</i> <span class="suffix">Comments</span></span><span class="dp-post-likes likes"><i class="count" data-pid="224">8</i> <span class="suffix">Likes</span></span></p>
+
+			<p class="entry-summary">About five thousand Syrians are fleeing to neighbouring countries each day, according to the UN Refugee Agency, UNHCR.
+
+Script in English [PDF]</p>
+		</div>
+	</div><!-- end #post-224 -->		</div></div>
+	</div><!-- end .related-posts -->
+
+        
+
+								
+
+		
+	<p class="comments-closed">Comments are closed.</p>
+
+			</div><!-- end #content -->
+
+	
+<div id="sidebar" role="complementary">
+	<div id="search-3" class="widget widget_search">
+<div class="searchform-div">
+	<form method="get" class="searchform" action="http://blogs.un.org/unstories/">
+		<div class="search-text-div"><input type="text" name="s" class="search-text" value="" placeholder="Search..." /></div>
+		<div class="search-submit-div btn"><input type="submit" class="search-submit" value="Search" /></div>
+	</form><!--end #searchform-->
+</div></div><div id="text-2" class="widget widget_text"><div class="widget-header"><h3 class="widget-title">ABOUT UN STORIES</h3></div>			<div class="textwidget"><p>UNStories is a video series tailored for the web. You can download stories, share on mobile devices, embed on your pages, and post on social media platforms. Each story is approximately 2 minutes in length and is available in the six official languages of the United Nations free-of-charge. A spin-off of United Nations Television’s “UN in Action” series, UNStories highlights the work of the United Nations and its Agencies, Funds and Programmes. </p>
+<p>Each month 3-4 stories will be released, except during the month of August when the production team will analyse, critique and set up shows for the new season which begins each September. </p>
+</div>
+		</div><div id="tag_cloud-2" class="widget widget_tag_cloud"><div class="widget-header"><h3 class="widget-title">TAGS</h3></div><div class="tagcloud"><a href='http://blogs.un.org/unstories/tag/en-2/' class='tag-link-8' title='7 topics' style='font-size: 22pt;'>English</a>
+<a href='http://blogs.un.org/unstories/tag/es/' class='tag-link-9' title='7 topics' style='font-size: 22pt;'>Español</a>
+<a href='http://blogs.un.org/unstories/tag/fr/' class='tag-link-10' title='7 topics' style='font-size: 22pt;'>Français</a>
+<a href='http://blogs.un.org/unstories/tag/%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9/' class='tag-link-15' title='7 topics' style='font-size: 22pt;'>Русский</a>
+<a href='http://blogs.un.org/unstories/tag/%d8%b9%d8%b1%d8%a8%d9%8a/' class='tag-link-16' title='6 topics' style='font-size: 8pt;'>عربي</a>
+<a href='http://blogs.un.org/unstories/tag/%e4%b8%ad%e6%96%87/' class='tag-link-17' title='7 topics' style='font-size: 22pt;'>中文</a></div>
+</div>		<div id="most-viewed-posts-2" class="widget widget_most_viewed_entries">		<div class="widget-header"><h3 class="widget-title">Most Viewed Posts</h3></div>		<ul>
+						<li><a href="http://blogs.un.org/unstories/2013/09/09/unstories-6-greenland-the-lookout-for-nuclear-explosions/" title="[UNStories #6] Greenland: The Lookout for Nuclear Explosions">[UNStories #6] Greenland: The Lookout for Nuclear Explosions (353)</a></li>
+						<li><a href="http://blogs.un.org/unstories/2013/06/20/un-stories-1378-south-africa-rhinos-under-threat/" title="[UN Stories #1] South Africa: Rhinos Under Threat">[UN Stories #1] South Africa: Rhinos Under Threat (213)</a></li>
+						<li><a href="http://blogs.un.org/unstories/2013/06/20/un-stories-english/" title="UN Stories [English]">UN Stories [English] (84)</a></li>
+						<li><a href="http://blogs.un.org/unstories/2013/06/20/un-stories-1378-%d8%a7%d9%84%d9%84%d8%a7%d8%ac%d8%a6%d9%88%d9%86-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%88%d9%86-%d8%a3%d8%b2%d9%85%d8%a9-%d9%85%d8%aa%d8%b5%d8%a7%d8%b9%d8%af%d8%a9/" title="[UN Stories #1] اللاجئون السوريون: أزمة متصاعدة">[UN Stories #1] اللاجئون السوريون: أزمة متصاعدة (82)</a></li>
+						<li><a href="http://blogs.un.org/unstories/2013/06/20/un-stories-1378-afrique-du-sud-menace-sur-les-rhinoceros/" title="[UN Stories #1] Afrique du Sud: Menace Sur Les Rhinocéros">[UN Stories #1] Afrique du Sud: Menace Sur Les Rhinocéros (69)</a></li>
+				</ul>
+		</div>		</div><!--end #sidebar-->
+</div></div><!-- end #main -->
+	
+		
+	<footer id="footer">
+				<div id="footbar"><div class="wrap cf">
+			<div class="widget-col widget-col-links widget-col-1">
+				<div id="text-3" class="widget widget_text"><div class="widget-header"><h3 class="widget-title">RELATED LINKS</h3></div>			<div class="textwidget"><ul>
+<li><a href="http://www.unmultimedia.org/tv/21stcentury/index.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.unmultimedia.org/tv/21stcentury/index.html']);">21st Century </a></li>
+<li><a href="http://www.unmultimedia.org/tv/unia/index.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.unmultimedia.org/tv/unia/index.html']);">UN In Action </a></li>
+<li><a href="http://www.webtv.un.org" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.webtv.un.org']);">UN Web TV</a></li>
+</ul></div>
+		</div>			</div>
+			<div class="widget-col widget-col-links widget-col-2">
+				<div id="archives-3" class="widget widget_archive"><div class="widget-header"><h3 class="widget-title">ARCHIVES</h3></div>		<ul>
+			<li><a href='http://blogs.un.org/unstories/2013/09/' title='September 2013'>September 2013</a>&nbsp;(6)</li>
+	<li><a href='http://blogs.un.org/unstories/2013/08/' title='August 2013'>August 2013</a>&nbsp;(7)</li>
+	<li><a href='http://blogs.un.org/unstories/2013/07/' title='July 2013'>July 2013</a>&nbsp;(11)</li>
+	<li><a href='http://blogs.un.org/unstories/2013/06/' title='June 2013'>June 2013</a>&nbsp;(18)</li>
+		</ul>
+</div>			</div>
+			<div class="widget-col widget-col-links widget-col-3">
+							</div>
+			<div class="widget-col widget-col-links widget-col-4">
+							</div>
+			<div class="widget-col widget-col-5">
+							</div>
+		</div></div><!-- end #footbar -->
+		
+		<div id="colophon" role="contentinfo"><div class="wrap cf">
+			<div id="social-nav"><span class="desc">Follow us elsewhere</span><ul><li class="twitter"><a href="https://twitter.com/un" title="Follow us on Twitter">Follow us on Twitter</a></li><li class="facebook"><a href="https://www.facebook.com/unitednations" title="Become a fan on Facebook">Become a fan on Facebook</a></li><li class="rss"><a href="http://blogs.un.org/unstories/feed/" title="Subscriber to RSS Feed">Subscriber to RSS Feed</a></li></ul></div><!-- end #social-nav -->			
+			<div id="footer-nav"><ul id="menu-footer" class="menu"><li id="menu-item-176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176"><a href="http://www.un.org/en/aboutun/copyright/" >Copyright</a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-169"><a href="http://www.un.org/en/aboutun/terms/" >Terms of Use</a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-170"><a href="http://www.un.org/en/aboutun/privacy/" >Privacy Notice</a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-171"><a href="http://www.un.org/en/siteindex/" >Site Index</a></li>
+<li id="menu-item-172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-172"><a href="http://www.un.org/en/aboutun/fraudalert/" >Fraud Alert</a></li>
+<li id="menu-item-173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-173"><a href="http://www.un.org/en/aboutun/help/" >Help</a></li>
+</ul></div><!-- end #footer-nav -->			
+			<p id="copyright">Copyright 2013 © <a href="http://blogs.un.org/unstories">UNStories</a> All rights reserved.</p>			
+			<p id="credits">UN Web Services Section, <a href="http://www.un.org/en/hq/dpi/">Department of Public Information</a>, &copy; <a href="http://www.un.org">United Nations</a></p>		</div></div><!-- end #colophon -->
+	</footer><!-- end #footer -->
+	
+</div><!-- end #page -->
+
+		<div style="display:none">
+	</div>
+<script type="text/javascript">
+(function($) {
+	$('.dp-like-post .like, .dp-like-post .liked').on('click', function() {
+		el = $(this);
+
+		actionType = el.hasClass('liked') ? 'remove_like' : 'like';
+		
+		var data = {
+			action: 'like_post', 
+			action_type: actionType, 
+			like_id: el.attr('data-lid'),
+			post_id: el.attr('data-pid'), 
+			user_id: el.attr('data-uid'),
+			label: el.text(),
+			nonce: '4296c7bf64'
+		};
+		
+		$.ajax({
+			url: 'http://blogs.un.org/unstories/wp-admin/admin-ajax.php',
+			type: 'POST',
+			data: data,
+			dataType: 'json',
+			error: function(){
+				alert('Something error. please try again later!');
+				el.removeClass('liking');
+			},
+			beforeSend: function(){
+				el.addClass('liking');
+			},
+			success: function(r){				
+				if(r.error != '') {
+					alert(r.error);
+					return false;
+				}
+				
+				if(actionType == 'like')
+					el.stop().attr('data-lid', r.id).removeClass('like').addClass('liked');
+				else if(actionType == 'remove_like')
+					el.stop().removeAttr('data-lid').removeClass('liked').addClass('like');
+				
+				$('.dp-post-likes').each(function(){
+					var count = $(this).find('.count');
+					if(count.attr('data-pid') == el.attr('data-pid'))
+						$(count).text(r.likes);
+				});
+				
+				el.removeClass('liking').text(r.label);
+			}
+		});
+		
+		return false;
+	});
+})(jQuery);
+</script>
+	<script>
+			// List of Themes, Classes and Regular expressions
+		var template_name = 'detube';
+		switch(template_name) {
+			case 'twentyeleven' :
+					var classes = ['entry-meta'];
+					var regex = ' by <a(.*?)\/a>;<span class="sep"> by <\/span>';
+					break;
+			case 'twentyten' :
+					var classes = ['entry-meta'];
+					var regex = ' by <a(.*?)\/a>;<span class="meta-sep">by<\/span>';
+					break;
+			case 'object' :
+					var classes = ['post-details', 'post'];
+					var regex = ' by <span(.*?)\/span>;<p class="post-details">by';
+					break;
+			case 'theme-revenge' :
+					var classes = ['post-entry-meta'];
+					var regex = 'By <a(.*?)\/a> on';
+					break;
+			case 'Magnificent' :
+					var classes = ['meta-info'];
+					var regex = '<span>by<\/span> <a(.*?)\/a>;Posted by <a(.*?)\/a> on ';
+					break;
+			case 'wp-clearphoto' :
+					var classes = ['meta'];
+					var regex = '\\|\\s*<\/span>\\s*<span class="meta-author">\\s*<a(.*?)\/a>';
+					break;
+			case 'wp-clearphoto1' :
+					var classes = ['meta'];
+					var regex = '\\|\\s*<\/span>\\s*<span class="meta-author">\\s*<a(.*?)\/a>';
+					break;
+			default:
+					var classes = ['entry-meta'];
+					var regex = ' by <a(.*?)\/a>;<span class="sep"> by <\/span>; <span class="meta-sep">by<\/span>;<span class="meta-sep"> by <\/span>';
+		}
+				if (typeof classes[0] !== 'undefined' && classes[0] !== null) {
+				for(var i = 0; i < classes.length; i++) {
+					var elements = document.querySelectorAll('.'+classes[i]);
+					for (var j = 0; j < elements.length; j++) {
+						var regex_array = regex.split(";");
+						for(var k = 0; k < regex_array.length; k++) {
+							 if (elements[j].innerHTML.match(new RegExp(regex_array[k], "i"))) {
+								 var replaced_txt = elements[j].innerHTML.replace(new RegExp(regex_array[k], "i"), '');
+								 elements[j].innerHTML = replaced_txt;
+							 }
+						}
+					}			
+				}
+			}
+						
+		</script>
+	<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.36.0-2013.06.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/blogs.un.org\/unstories\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201339'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var viewsCacheL10n = {"admin_ajax_url":"http:\/\/blogs.un.org\/unstories\/wp-admin\/admin-ajax.php","post_id":"375"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/plugins/wp-postviews/postviews-cache.js?ver=1.64'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2013Sepaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-includes/js/jquery/jquery.masonry.min.js?ver=2.1.05'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://blogs.un.org/unstories/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://s7.addthis.com/js/300/addthis_widget.js'></script>
+
+	<script src="http://stats.wordpress.com/e-201339.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:2.3.3',blog:'55654737',post:'375',tz:'-4'});
+	var load_cmc = function(){linktracker_init(55654737,375,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+</body>
+</html>
+<!-- Dynamic page generated in 4.976 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2013-09-25 11:29:01 -->
+
+<!-- super cache -->

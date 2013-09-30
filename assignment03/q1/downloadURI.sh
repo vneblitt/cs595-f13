@@ -8,7 +8,7 @@
 #echo $i
 #done
 
-mylinks=`cat testURIs.txt`
+mylinks=`cat uniqueURIs2.txt`
 for link in $mylinks
 do
 	filename=`echo -n $link | md5`

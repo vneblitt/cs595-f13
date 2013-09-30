@@ -1,0 +1,316 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	
+<title>The United Nations at a Glance</title>
+<meta name="dc.title" content="The United Nations at a Glance" />
+<meta name="description" content="This is the site for the United Nations at a Glance. Here you will find information and links on history, members, visitis, employement and other details." />
+<meta name="dc.description" content="This is the site for the United Nations at a Glance. Here you will find information and links on history, members, visitis, employement and other details." />
+<meta name="keywords" content="bodies, history, visits, employment, address, members, budget, information" />
+<meta name="dc.subject" content="bodies, history, visits, employment, address, members, budget, information" />
+<meta name="dc.language" content="EN" />
+<link href="/css/global_en.css" rel="stylesheet" type="text/css" />
+<link href="/en/aboutun/css/styles2.css" rel="stylesheet" type="text/css" />
+<link href="/en/aboutun/css/jQuery.YMslider.core-min.css" rel="stylesheet" type="text/css" />
+<link href="/en/aboutun/css/jQuery.YMslider.default.css?iuroz" rel="stylesheet" type="text/css" />
+<link href="/css/print.css" rel="stylesheet" type="text/css" media="print"/>
+<script language="javascript" src="/javascripts/matching_columns.js" type="text/javascript"></script>
+<script type="text/javascript" src="/common/scripts/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/common/scripts/jquery/jQuery.YMslider-min.js"></script>
+<script type="text/javascript" src="/common/scripts/jquery/jquery.randomchild.js"></script>
+<script type="text/javascript">
+			$(document).ready(function(){
+				$('.random').randomChild();
+			});
+		</script>
+        
+<script type="text/javascript">
+        $(function(){ // jQuery native function to check if DOM's ready
+                $('#slider').YMslider(); // There you go !
+        });
+</script>
+
+<style type="text/css">
+<!--
+li#home a { /* Highlight menu button */
+	border-top: 1px solid #B8C2DC;
+	background-color:#FFF;
+	border-left:3px solid #2543A1;
+	font-weight: bold;
+	padding-left:.4em !important;
+}
+
+div#slidecontainer
+{float:left;
+width:300px}
+
+.clear
+{clear:both}
+
+#slider, #slider object, #slider embed, #slider iframe, #slider .controls{width:300px}
+
+ol li
+{list-style:none}
+
+div#goals
+{float:right;
+margin-left:10px}
+
+/*div#slider
+{width:300px;
+margin-right:10px;
+float:left}
+
+#slider a{
+	display:block;
+}*/
+-->
+</style>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4803886-1']);
+  _gaq.push(['_setDomainName', 'un.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head>
+
+<body><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-LQCS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-LQCS');</script>
+<!-- End Google Tag Manager -->
+
+<div id="skiplink">
+		<ul>
+            <li><a href="#mainnav">Skip to main navigation</a> </li>
+            <li><a href="#content">Skip to content</a></li>
+		</ul>
+</div>
+
+<div id="main">
+	<div id="brandbar">
+	  
+<img src="/en/images/unicon.jpg" height="18" width="21" alt="" class="unicon" align="left"/>
+<span class="welcome"><a href="/en/index.shtml">Welcome to the United Nations. It's your world.</a></span>
+<div>
+	<form id="searchfrm" name="gs" method="get" action="http://search.un.org/search" >
+    <input type="hidden" name="ie" value="utf8" />
+    <input type="hidden" name="site" value="un_org" />
+    <input type="hidden" name="output" value="xml_no_dtd" />
+    <input type="hidden" name="client" value="UN_Website_en" />
+    <input type="hidden" name="num" value="10" />
+	<input name="lr" type="hidden" value="lang_en" />
+    <input type="hidden" name="proxystylesheet" id="proxystylesheet" value="UN_Website_en" />
+    <input type="hidden" name="oe" value="utf8" />
+    <label for="search">UN Search</label>
+    <input class="textbox" type="text" name="q" id="search" size="22" onfocus="this.value='';" value="Search UN Website" />
+    <input class="button" type="submit" name="Submit" value="Go" />
+ </form>
+</div>
+   
+    </div> 
+<div id="languages">
+	<ul><li id="arabic" lang="ar" xml:lang="ar"><a href="/ar/aboutun/">عربي</a></li>
+	  <li id="chinese" lang="zh-cn" xml:lang="zh-cn"><a href="/zh/aboutun/">中文</a></li>
+	  <li id="english" lang="en" xml:lang="en">English</li>
+	  <li lang="fr" xml:lang="fr"><a href="/fr/aboutun/">Fran&ccedil;ais</a></li>
+	  <li lang="ru" xml:lang="ru"><a href="/ru/aboutun/">Русский</a></li>
+	  <li lang="es" xml:lang="es"><a href="/es/aboutun/">Espa&ntilde;ol</a></li>
+	</ul>
+</div>
+
+<div id="topbanner">
+	  <h1 id="hiddentitle"><span></span>UN at Glance</h1>
+</div>
+
+<div id="mainnav"><a name="navigation"></a> 
+		<ul>
+  <li ><a href="/en/">UN Home </a></li>
+  <li id="home"><a href="/en/aboutun/index.shtml">Main page </a></li>
+  <li><a href="/en/documents/charter/index.shtml">UN Charter </a></li>
+  <li class="nolink">Structure and organisation
+    <ul>
+      <li><a href="http://www.un.org/en/mainbodies/">Main Bodies </a></li>
+      <li><a href="http://www.un.org/en/aboutun/structure/">Agencies, Programmes and Subsidiary Bodies </a></li>
+      <li><a href="http://www.un.org/en/mainbodies/secretariat/">Secretariat </a></li>
+    </ul>
+  </li>
+  <li><a href="/en/members/index.shtml">Member States </a></li>
+  <li><a href="/en/aboutun/history/index.shtml">History </a></li>
+  <li id="flag"><a href="/Depts/dhl/maplib/flag.htm">Emblem and flag </a></li>
+  <li id="off"><a href="languages.shtml">Official languages </a></li>
+  <li id="obs"><a href="/observances/">UN Observances </a></li>
+  <li id="quiz"><a href="/en/aboutun/quiz.shtml">Test your knowledge </a></li>
+  <li class="nolink">Visit the UN 
+    <ul>
+      <li><a href="http://www.un.org/tours/">New York </a></li>
+      <li><a href="http://www.unog.ch/visit/visiten.htm">Geneva </a></li>
+      <li><a href="http://www.unvienna.org/unov/en/vic.html">Vienna </a></li>
+    </ul>
+  </li>
+  <li><a href="/en/faq/">FAQ </a></li>
+  <li id="links"><a href="links.shtml">More about the UN </a></li>
+  <li><a href="/en/employment/">Employment </a></li>
+  <li id="staff"><a href="/en/aboutun/staff.shtml">Staff Services </a></li>
+</ul>
+
+</div>
+	
+<div id="content" class="column">
+  <div class="clear">  
+    <div id="slidecontainer" style="width:300px">
+      <ol id="slider">
+    <li title="1">    
+      <a href="/en/aboutun/unhistory/"><img src="images/sanfrancisco.jpg" alt="Signature of the UN Charter in 1945" /></a>
+          <div class="caption">The UN was founded on 24 October 1945. </div>
+    
+    </li>  
+      <li title="2">            <a href="/en/members/"><img src="images/flags.jpg" alt="Flags of Member States in front of UN Headquarters"  /></a>
+        <div class="caption">The UN has 193 Members States. </div>
+      </li>  
+      <li title="3">            <a href="/en/peacekeeping/"><img src="images/peacekeepers.jpg" alt="UN Peacekeepers in Haïti" /></a>
+        <div class="caption">There are currently more than 100,000 UN peacekeepers in 16 peace operations. </div>
+      </li>  
+    <li title="4">       
+    <a href="/en/aboutun/languages.shtml/"><img src="images/interpreters.jpg" alt="Interpreters in the interpretation booth" /></a>
+          <div class="caption">Arabic, Chinese, English, French, Russian and Spanish are the UN official languages.</div>
+    
+    </li>  
+      </ol>
+
+   
+</div>
+    <div id="diduknow">
+<h3> <img src="images/diduknow.gif" alt="" width="95" height="112" align="right" />Did You Know?</h3>
+        
+<ul class="random">
+                  <li>UNICEF and its partners vaccinate 58 per cent of the world’s children, saving 2.5 million lives a year.<br />
+                    <br />
+          Download ten facts about the UN<br />
+as a <a href="/en/aboutun/images/Every Day poster.JPG">poster</a> or a printable <a href="/en/aboutun/pdf/E 2013EveryDay_Web.pdf">card<img src="/common/images/icons/ico_pdf.gif" width="14" height="14" alt="PDF document" /></a></li>
+                  <li>UN relief agencies assist over 34 million refugees and others
+                  fleeing war, famine or persecution.<br />
+                    <br />
+                   Download ten facts about the UN<br />
+as a <a href="/en/aboutun/images/Every Day poster.JPG">poster</a> or a printable <a href="/en/aboutun/pdf/E 2013EveryDay_Web.pdf">card<img src="/common/images/icons/ico_pdf.gif" width="14" height="14" alt="PDF document" /></a></li>
+                  <li>Since 1945, the UN has assisted in negotiating more than
+                  170 peace settlements that have ended regional conflicts.<br />
+                    <br />
+                   Download ten facts about the UN<br />
+as a <a href="/en/aboutun/images/Every Day poster.JPG">poster</a> or a printable <a href="/en/aboutun/pdf/E 2013EveryDay_Web.pdf">card<img src="/common/images/icons/ico_pdf.gif" width="14" height="14" alt="PDF document" /></a></li>
+                  <li>The UN combats climate change; works with 140 nations to prevent harmful mercury emissions.<br />
+                    <br />
+                   Download ten facts about the UN<br />
+as a <a href="/en/aboutun/images/Every Day poster.JPG">poster</a><img src="/common/images/icons/ico_pdf.gif" width="14" height="14" alt="PDF document" /> or a printable <a href="/en/aboutun/pdf/E 2013EveryDay_Web.pdf">card<img src="/common/images/icons/ico_pdf.gif" width="14" height="14" alt="PDF document" /></a></li>
+                  <li>The UN World Food Programme provides food to 90 million people in<br />
+                    75 countries.<br />
+                    <br />
+                   Download ten facts about the UN<br />
+as a <a href="/en/aboutun/pdf/2012 English Every Day Poster_Web.pdf">poster</a> or a printable <a href="/en/aboutun/pdf/E 2013EveryDay_Web.pdf">card<img src="/common/images/icons/ico_pdf.gif" width="14" height="14" alt="PDF document" /></a></li>
+                  <li>The UN promotes maternal health,  saving the lives of 30 million women a year.<br />
+<br />
+                    <br />
+                   Download ten facts about the UN<br />
+as a <a href="/en/aboutun/images/Every Day poster.JPG">poster</a> or a printable <a href="/en/aboutun/pdf/E 2013EveryDay_Web.pdf">card<img src="/common/images/icons/ico_pdf.gif" width="14" height="14" alt="PDF document" /></a></li>
+                  <li>The UN keeps peace with 120,000  peacekeepers in 16 operations on 4 continents.<br />
+                    <br />
+                   Download ten facts about the UN<br />
+as a <a href="/en/aboutun/images/Every Day poster.JPG">poster</a> or a printable <a href="/en/aboutun/pdf/E 2013EveryDay_Web.pdf">card<img src="/common/images/icons/ico_pdf.gif" width="14" height="14" alt="PDF document" /></a></li>
+                  <li>The UN advances democracy,  assisting some 50 countries a year with their elections.<br />
+                    <br />
+                   Download ten facts about the UN<br />
+as a <a href="/en/aboutun/images/Every Day poster.JPG">poster</a> or a printable <a href="/en/aboutun/pdf/E 2013EveryDay_Web.pdf">card<img src="/common/images/icons/ico_pdf.gif" width="14" height="14" alt="PDF document" /></a></li>
+</ul>
+      </div>
+  </div>  
+  <div class="clear">
+    
+    <p>The United Nations is an international organization founded in 1945 after the Second World War by 51 countries committed to maintaining international peace and security, developing friendly relations among nations and promoting social progress, better living standards and human rights. </p>
+    <div id="goals">
+      <h3>The UN has 4  main purposes</h3>
+      <ul>
+        <li> To keep peace throughout the world; </li>
+        <li>To develop friendly relations among nations; </li>
+        <li>To help nations work together to improve the lives of poor people, to conquer hunger, disease and illiteracy, and to encourage respect for each other’s rights and freedoms; </li>
+        <li>To be a centre for harmonizing the actions of  nations to achieve these goals.</li>
+      </ul>
+    </div>
+    <p>Due to its unique international character, and the powers  vested in its founding Charter, the Organization can take action on a wide range of issues, and provide a forum for its 193 Member States to express their views, through the General Assembly, the Security Council, the Economic and Social Council and other bodies and committees. </p>
+    <p>The work of the United Nations reaches every corner of the globe. Although best known for peacekeeping, peacebuilding, conflict prevention and humanitarian assistance, there are many other ways the United Nations and its System (specialized agencies, funds and programmes) affect our lives and make the world a better place. The Organization works on a broad range of fundamental issues, from sustainable development, environment and refugees protection, disaster relief, counter terrorism, disarmament and non-proliferation, to promoting democracy, human rights, gender equality and the advancement of women, governance, economic and social development and international health, clearing landmines, expanding food production, and more, in order to achieve its goals and coordinate efforts for a safer world for this and future generations. </p>
+</div>
+</div>
+    <!-- This is the bottom navigation menu file for the global issues page: server-side include -->
+
+<div id="global_issues_footer">
+
+
+
+
+<div id="your_un">   
+<h3>Your United Nations</h3>
+            <ul>
+            	<li><a href="http://www.un.org/sg/">Secretary-General </a></li>
+              <li><a href="/en/aboutun/index.shtml">UN at a Glance </a></li>
+           	  <li><a href="/en/documents/charter/index.shtml">UN Charter </a></li>
+           	  <li><a href="/en/aboutun/structure/index.shtml">Structure and Organization </a></li>
+              <li><a href="/en/members/index.shtml">Member States </a></li>
+              <li><a href="http://unic.un.org/">UN Information Centres </a></li>
+              <li><a href="/en/documents/index.shtml" >Documents </a></li>
+              <li><a href="/en/faq/index.shtml">Frequently Asked Questions </a></li>
+</ul>
+</div>
+   
+<div id="main_bodies">   
+<h3>Main Bodies</h3>
+            <ul>
+           	  	<li><a href="http://www.un.org/ga/">General Assembly </a></li>
+            	<li><a href="http://www.un.org/Docs/sc/">Security Council </a></li>
+            	<li><a href="http://www.un.org/ecosoc/">Economic &amp; Social Council </a></li>
+            	<li><a href="/en/mainbodies/trusteeship/">Trusteeship Council </a></li>
+            	<li><a href="http://www.icj-cij.org/">International Court of Justice </a></li>
+                <li><a href="/en/mainbodies/secretariat/">Secretariat </a></li>
+</ul>
+</div>
+       
+<div id="un_and"> 
+<h3>The UN and . . .</h3>
+                <ul>
+                  <li><a href="/en/civilsociety/index.shtml">Civil Society </a></li>
+                  <li><a href="http://business.un.org/en">Business Partnerships</a> </li>
+                  <li><a href="http://www.unglobalcompact.org/">Global Compact </a> </li>
+                  <li><a href="http://www.un.org/partnerships/">Partnerships </a></li>
+                  <li><a href="/en/ruleoflaw/index.shtml">Rule of Law </a></li>
+                  <li><a href="http://www.un.org/Pubs/CyberSchoolBus/">CyberSchoolBus </a></li>
+</ul>
+</div>
+                
+</div>
+
+<div id="footer"><ul>
+        <li><a href="/en/aboutun/copyright/">Copyright </a> |</li> 
+        <li><a href="/en/aboutun/terms/">Terms of Use </a> |</li> 
+        <li><a href="/en/aboutun/privacy/">Privacy Notice </a> | </li> 
+        <li><a href="/en/siteindex/">Site Index </a> |</li> 
+        <li><a href="/en/aboutun/fraudalert/">Fraud Alert </a> |</li> 
+		<li><a href="/en/aboutun/help/">Help </a> </li> 
+</ul> </div>
+
+</div>
+ </body>
+</html>

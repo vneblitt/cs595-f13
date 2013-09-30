@@ -1,0 +1,461 @@
+                                      	<!DOCTYPE html>
+<html lang="en" xml:lang="en"
+xmlns="http://www.w3.org/1999/xhtml"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:perc="http://percussion.com/"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                             <head>
+      <title>Social Security Ticket to Work Program</title>
+      <script type="text/javascript">
+          var percGlobalErrors = [];         
+          window.onerror=function(msg, url, linenumber){
+		  		var jsErrorMsg = 'JavaScript error -- ' + msg;  
+                percGlobalErrors.push(jsErrorMsg);
+                return false;
+          }
+      </script>
+      <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+      <meta name="generator" content="Percussion"/>
+            <link rel="stylesheet" href="/web_resources/cm/css/perc_decoration.css" type="text/css" media="all" />
+            <link rel="stylesheet" href="/web_resources/cm/themes/smoothness/jquery-ui-1.8.9.custom.css" type="text/css" media="all" />
+            <link rel="stylesheet" href="/web_resources/themes/TTWtheme/styles.css" type="text/css" media="all" />
+            	        	        <script type="text/javascript" src="/web_resources/cm/jslib/jquery.js"></script>
+	        <script type="text/javascript" src="/web_resources/widgets/navBar/js/superfish.js"></script>
+	        <script type="text/javascript" src="/web_resources/cm/jslib/jquery-ui.js"></script>
+	        <script type="text/javascript" src="/web_resources/widgets/image/tinyLightbox/jquery.tinyLightbox.js"></script>
+	        <script type="text/javascript" src="/web_resources/cm/common/js/PercGlobalVariables.js"></script>
+	        <script type="text/javascript" src="/web_resources/cm/common/js/perc_common_ui.js"></script>
+	        <script type="text/javascript" src="/web_resources/widgets/navBar/js/hoverIntent.js"></script>
+	        <script type="text/javascript" src="/web_resources/cm/jslib/jquery.cookie.js"></script>
+	        <script type="text/javascript" src="/web_resources/cm/jslib/perc_membership.js"></script>
+	        <script type="text/javascript" src="/web_resources/widgets/navBar/js/navbar.js"></script>
+	        <script type="text/javascript" src="/web_resources/widgets/image/tinyLightbox/jquery.tinyLightbox.original.js"></script>
+	        	  	        <meta property="dcterms:type" content="page"/>
+      <meta property="dcterms:source" content="HomePg"/>
+      <meta property="dcterms:created" datatype="xsd:dateTime" content="2013-03-22T16:50:15"/> 
+      <meta property="dcterms:alternative" content="Home"/>
+      			  	  			  	  		 	  	  	          	<meta name="description" content="Choosing to work can change your life. If you have a disability and want to work, Social Security's Ticket to Work program may be right for you. We will connect you with the right people to help you explore your options, prepare for work, or gain experience while staying in control of your benefit choices. If you are age 18 through 64 and receive Social Security disability benefits you already qualify." />
+<meta name="keywords" content="ticket to work, disability employment, social security, employment networks, partnership plus, career training, jobs, disabled, financial independence, youth in transition, ssi, ssdi, office of employment support programs, vocational rehabilitation, wise webinars, social security disability insurance, supplemental security income, work incentives, timely progress review" />
+<meta name="rating" content="general" />
+<meta name="copyright" content="2013, Social Security" />
+<meta name="revisit-after" content="7 Days" />
+<meta name="expires" content="never">
+<meta name="distribution" content="global" />
+<meta name="robots" content="index" />
+<script src="/web_resources/themes/TTWtheme/js/main.js" type="text/javascript"></script>
+<script>
+$(document).ready(function(){	
+$('li.url-warning a,a.url-warning').click(warning);
+$('li.secure-warning a,a.secure-warning').click(secure_warning);
+});
+</script>
+          	<script src="/web_resources/themes/TTWtheme/js/main.js" type="text/javascript"></script>
+<script src="/web_resources/themes/TTWtheme/js/jquery_cycle.js" type="text/javascript"></script>
+<script src="/web_resources/themes/TTWtheme/js/slideshow.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function(e) {
+$('.gotoSlide').attr('tabindex','0');
+$('#gotoSlide1').keypress(function(e) {         if(e.keyCode==13){                         gotoSlide(1);}}); $('#gotoSlide2').keypress(function(e) {         if(e.keyCode==13){                         gotoSlide(2); }}); $('#gotoSlide3').keypress(function(e) {         if(e.keyCode==13){                         gotoSlide(3); }}); $('#gotoSlide4').keypress(function(e) {         if(e.keyCode==13){                         gotoSlide(4); }}); $('#gotoSlide5').keypress(function(e) {         if(e.keyCode==13){                         gotoSlide(5); }});
+});
+</script>
+  
+      <script type="text/javascript">
+   (function() {
+   jQuery.getDeliveryServiceBase = function(){ return 'http://10.36.172.163:9980';};
+   jQuery.getCm1License = function(){ return '2012-2707';};
+   jQuery.getCm1Version = function(){ return '3.1.6';};
+   })();
+</script>
+      	           <script type="text/javascript">
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-21243068-1']);
+     _gaq.push(['_setCustomVar', 1, 'site', 'chooseworktest', 3]);
+     _gaq.push(['_trackPageview']);
+    
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+               ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js?key=AIzaSyDD_Kz0ylMM8je5F-cMJKCnYb6RdifwGTc';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+   </script>
+                       
+   </head>
+   <body>
+      <input type="hidden" id="perc_linkback_id" value="211-101-320"/>
+      	  	    	
+  	    	
+  <div  class="perc-region perc-noAutoResize  perc-fixed  perc-vertical  hspan_12   holder "  noAutoResize="true" id="holder"> <div class=" perc-vertical "> <div  class="perc-region perc-noAutoResize  perc-fixed  perc-vertical    top_nav_bg "  noAutoResize="true" id="global_nav"> <div class=" perc-vertical "> <div  class="perc-region perc-noAutoResize  perc-fixed  perc-horizontal ui-helper-clearfix    top_nav "  noAutoResize="true" id="top_nav"> <div class=" perc-horizontal ui-helper-clearfix "> <div  class="perc-region perc-region-leaf perc-noAutoResize  perc-fixed  perc-vertical    top_nav_left "  noAutoResize="true" id="top_nav_left"> <div class=" perc-vertical ">     <div class="perc-widget" >
+  	
+    
+   <div >
+                     <div class="rxbodyfield"><div id="topMenu"><ul><li class="skip"><a href="#viewer">Skip to main content</a></li><li class="nav_line"><a href="http://www.ssa.gov">Social Security</a></li><li class="nav_line"><a href="http://www.ssa.gov/work/">Social Security's Work Site</a></li><li class="nav_lineX"><a href="index.html">For Beneficiaries</a></li><li class="nav_line"><a href="http://www.yourtickettowork.com/">For Service Providers</a></li></ul></div></div>
+         </div>
+     
+    
+  </div>
+ </div></div> <div  class="perc-region perc-region-leaf perc-noAutoResize  perc-fixed  perc-vertical    top_nav_right "  noAutoResize="true" id="top_nav_right"> <div class=" perc-vertical ">     <div class="perc-widget" >
+  	
+            
+                    			 			            <div id="topMenu" >
+<div class="text_size">Text: <a href="javascript: decrease();">(-A)</a> <a href="javascript: regular()">(A)</a> <a href="javascript: increase();">(+A)</a></div>
+</div>
+               
+    
+  </div>
+ </div></div>  </div></div>  </div></div> <div  class="perc-region perc-noAutoResize  perc-fixed  perc-vertical    logo_header "  noAutoResize="true" id="logo_header"> <div class=" perc-vertical "> <div  class="perc-region perc-noAutoResize  perc-fixed  perc-horizontal ui-helper-clearfix    home_top_bg "  noAutoResize="true" id="home_top_bg"> <div class=" perc-horizontal ui-helper-clearfix "> <div  class="perc-region perc-region-leaf perc-noAutoResize  perc-fixed  perc-vertical    span-1 "  noAutoResize="true" id="logo-region"> <div class=" perc-vertical ">     <div class="perc-widget" >
+  	
+    
+   <div class="noMargin">
+                     <div class="rxbodyfield" xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:st2="urn:www.microsoft.com/smarttags2" xmlns:w="urn:www.microsoft.com/word" xmlns:x="urn:www.microsoft.com/excel"><p><a href="/index.html" title="Home"><img alt="Ticket to Work logo" height="108" src="/Assets/uploads/images/home_top_bar.jpg" title="Ticket to Work" width="629" /></a></p></div>
+         </div>
+     
+    
+  </div>
+ </div></div> <div  class="perc-region perc-region-leaf perc-noAutoResize  perc-fixed  perc-vertical    span-2 "  noAutoResize="true" id="social-links"> <div class=" perc-vertical ">     <div class="perc-widget" >
+  	
+            
+                    			 			            <div class="smMenu_container">
+<div class="search_container">
+    		<div class="search">
+				<form action="/nutch/searchresult.jsp" method="post">
+				<input name="query" type="text" id="Name" class="small-form_bg_sub" onfocus="checkInputFocus(this)" onblur="checkInputBlur(this)" title="Search Site: Please enter your search terms." />
+    			<input type="submit" value="" class="submit_sub" title="Search Button" />
+				<div id="brclear"></div>
+				</form>  
+			</div>
+		</div>
+
+<div id="smText">Connect with Us:</div>
+<div id="smMenu">
+<ul>
+<li class="sm_icons"><a href="/signup/jsp/signup.jsp" onclick="secure_warning();" title="Sign Up for Email Updates"><img alt="Sign Up for Email Updates" height="21" src="/web_resources/themes/TTWtheme/images/email_btn.jpg" width="21" /></a></li>
+<li class="sm_icons"><a href="http://www.facebook.com/choosework" title="Ticket to Work on Facebook"><img alt="Ticket to Work on Facebook" height="21" src="/web_resources/themes/TTWtheme/images/facebook_btn.jpg" width="21" /></a></li>
+<li class="sm_icons"><a href="http://twitter.com/chooseworkSSA" title="Ticket to Work on Twitter"><img alt="Ticket to Work on Twitter" height="21" src="/web_resources/themes/TTWtheme/images/twitter_btn.jpg" width="21" /></a></li>
+<li class="sm_icons"><a href="http://www.youtube.com/user/choosework" title="Ticket to Work on YouTube"><img alt="Ticket to Work on YouTube" height="21" src="/web_resources/themes/TTWtheme/images/youtube_btn.jpg" width="21" /></a></li>
+</ul>
+</div>
+</div>
+               
+    
+  </div>
+ </div></div> <div  class="perc-region perc-region-leaf perc-noAutoResize  perc-fixed  perc-vertical    span-3 "  noAutoResize="true" id="ssa_logo"> <div class=" perc-vertical ">     <div class="perc-widget" >
+  	
+    
+            <div  data="{ deliveryurl : 'http://10.36.172.163:9980'}">  
+                                   <img src="/Assets/uploads/images/ssa_logo.jpg" title="Social Security Administration logo" alt="The Seal of the United States Social Security Administration" height="108" width="94" />
+                                    </div>
+    
+    
+    
+  </div>
+ </div></div>  </div></div>  </div></div> <div  class="perc-region perc-noAutoResize  perc-fixed  perc-vertical    navbar "  noAutoResize="true" id="navbar"> <div class=" perc-vertical "> <div  class="perc-region perc-region-leaf perc-noAutoResize  perc-fixed  perc-vertical    mainMenu "  noAutoResize="true" id="mainMenu"> <div class=" perc-vertical "> <div class="perc-widget" >
+  	
+    
+    <div class=" perc-navbar" >
+        <ul class="sf-menu perc-navbar-sfhorizontal">
+                                                                                                     <li class="current nav-level-1 nav-entry-1 list-position-1 mainMenu navHome">				<a href="/index.html" target="">Home</a>                                                                                            
+                                            </li>                    
+            
+                                                                            <li class="nav-level-2 nav-entry-1 list-position-1 mainMenu">				<a href="/about/index.html" target="">About Ticket to Work</a>                                                                                                                </li>
+            
+                                                                                <li class="nav-level-2 nav-entry-2 list-position-2 ">				<a href="/resource/jsp/searchByState.jsp" target="">Find Help</a>                                        </li>
+            
+                                                                                <li class="nav-level-2 nav-entry-3 list-position-3 secure-warning">				<a href="/wise/jsp/wise.jsp" target="">WISE Webinars</a>                                        </li>
+            
+                                                                                <li class="nav-level-2 nav-entry-4 list-position-4 ">				<a href="/blog/jsp/bloglist.jsp" target="">Blog</a>                                        </li>
+            
+                                                                                <li class="nav-level-2 nav-entry-5 list-position-5 hideNav">				<a href="#" target="">Blog</a>                                        </li>
+            
+                                                                                <li class="nav-level-2 nav-entry-6 list-position-6 ">				<a href="/document-library/index.html" target="">Document Library</a>                                                                </li>
+            
+                                                                                <li class="nav-level-2 nav-entry-7 list-position-7 ">				<a href="/contact/index.html" target="">Contact Us</a>                                                </li>
+            
+                                                                                <li class="nav-level-2 nav-entry-8 list-position-8 hideNav">				<a href="#" target="">debs test blog</a>                                        </li>
+            
+                            
+                        
+                        </ul>
+        <div style="clear:both"></div>
+    </div>
+    
+    
+  </div>
+ </div></div>  </div></div> <div  class="perc-region perc-noAutoResize  perc-fixed  perc-vertical    home_gfx_bg "  noAutoResize="true" id="image_slider"> <div class=" perc-vertical "> <div  class="perc-region perc-noAutoResize  perc-fixed  perc-horizontal ui-helper-clearfix    slider_container "  noAutoResize="true" id="slider_container"> <div class=" perc-horizontal ui-helper-clearfix "> <div  class="perc-region perc-region-leaf perc-noAutoResize  perc-fixed  perc-vertical    message "  noAutoResize="true" id="message"> <div class=" perc-vertical ">     <div class="perc-widget" >
+  	
+            
+                    			 			            <div class="home_gfx_hdr">
+<img src="/web_resources/themes/TTWtheme/images/spacer.gif" width="418" height="77" alt="Choose Fulfillment. Choose Earnings. Choose Work." />
+</div>
+               
+    
+  </div>
+    <div class="perc-widget" >
+  	
+    
+   <div class="home_gfx_text">
+                     <div class="rxbodyfield"><div class="home_gfx_text"><p>Social Security's Ticket to Work program offers people with disabilities an opportunity to achieve greater independence by providing choices in employment services and access to meaningful work.</p></div></div>
+         </div>
+     
+    
+  </div>
+    <div class="perc-widget" >
+  	
+    
+   <div >
+                     <div class="rxbodyfield"><div id="homeBTNs"><ul><li class="tab1"><a href="/about/index.html" title="About Ticket to Work">LEARN MORE</a></li><li class="tab2"><a href="/about/success-stories/index.html" title="Success Stories">VIEW SUCCESS STORIES</a></li></ul></div></div>
+         </div>
+     
+    
+  </div>
+ </div></div> <div  class="perc-region perc-region-leaf perc-noAutoResize  perc-fixed  perc-vertical    easil "  noAutoResize="true" id="easil"> <div class=" perc-vertical ">   	    <div class="perc-widget" >
+  	
+            
+                    			 			            <div class="home_gfx_images"><!--for 508 this is a redundant list of contents of the image slider which will allow return visitors to know if content has been updated with option to skip ***will need to be updated with every image slider update***-->
+<div class="hidden">Brief description of the image slider content: 
+<ul>
+<li>Slide 1: Register for a free webinar on Wednesday, October 23 at 3:00 PM EDT.</li>
+<li>Slide 2: Learn the truth about the biggest Ticket to Work program myths.</li>
+<li>Slide 3: An Employment Network can help you explore your options and meet your employment goals.</li>
+<li>Slide 4: Tune in for Ticket Talk, Ticket to Work's Podcast Series!</li>
+<li>Slide 5: Meet Rob and learn about his success with the Ticket program</li>
+</ul>
+</div>
+<!--close hidden content for screen-readers-->
+<div id="slideshow">
+<div id="slide1">
+<div><img alt="Image of woman watching webinar on her laptop" height="173" src="/Assets/uploads/images/image-slider/generic-webinar-banner-NO-FB-icon-461x173.jpg" title="Ticket to Work Webinar" width="461" </a></div>
+<p><a href="/wise/jsp/wise.jsp" onclick="secure_warning();" title="Register for WISE Webinar"><strong>Ticket to Work: Free Support Services for People Who Have a Disability and Are Ready to Work. </strong>Register today for a free webinar on Wednesday, October 23 at 3:00 PM EDT.</a></p>
+</div>
+<div id="slide2">
+<div><img alt="photo of a magnifying glass inspecting the word FACTS" height="173" src="/Assets/uploads/images/image-slider/myths-banner_v1_461x173.jpg" title="photo" width="461" </a></div>
+<p><a href="/Assets/docs-materials/SSA_3_Biggest_Myths_Flyer-Final-2.pdf" title="3 Biggest Myths Flyer download"><strong>Ticket to Work Truths</strong> <br />Confused about the Ticket to Work program? Worried how work will affect your benefits? Learn the truth about the biggest program myths.</a></p>
+</div>
+<div id="slide3">
+<div><img alt="Image of the Choosing the Right EN banner" height="173" src="/Assets/uploads/images/image-slider/Choose-the-Right-EN-banner-461x173.jpg" title="Choose-the-Right-EN-banner-461x173.jpg" width="461" </a></div>
+<p><a href="/Assets/docs-materials/TTW_Choosing_EN.pdf" title="TTW_Choosing_EN.pdf"</a><strong>An&nbsp;Employment Network can help you explore your options and meet your goals.</strong><br /> Be sure to&nbsp;choose an&nbsp;EN&nbsp;that's&nbsp;right&nbsp;for you!</a></p>
+</div>
+<div id="slide4">
+<div><img alt="graphic of Ticket to Work logo and podcast title Ticket Talk" height="173" src="/Assets/uploads/images/image-slider/SSA-podcast-banner-461x173.jpg" title="SSA-podcast-banner-461x173.jpg" width="461"</a></div>
+<p><a href="http://www.choosework.net/blog/jsp/bloglist.jsp?category=27"><strong>Tune in for Ticket Talk, Ticket to Work's Podcast Series!</strong></a></p>
+</div>
+<div id="slide5">
+<div><img alt="photos of Rob McClain" height="173" src="/Assets/uploads/images/image-slider/rob_mcclain_banner_461x173.jpg" title="Rob McClain's banner image" width="461" </a></div>
+<p><a href="/about/success-stories/video-story_robby-m.html" title="Success Stories"</a><strong>Meet Rob!</strong><br />Learn about his experience and success with the Ticket to Work program.</a></p>
+</div>
+</div>
+<div id="nextSlide" onclick="nextSlide(); return false;">&nbsp;</div>
+<div id="gotoBtns">
+<div id="gotoSlide1" class="gotoSlide" onclick="gotoSlide(1); return false;">&nbsp;</div>
+<div id="gotoSlide2" class="gotoSlide" onclick="gotoSlide(2); return false;">&nbsp;</div>
+<div id="gotoSlide3" class="gotoSlide" onclick="gotoSlide(3); return false;">&nbsp;</div>
+<div id="gotoSlide4" class="gotoSlide" onclick="gotoSlide(4); return false;">&nbsp;</div>
+<div id="gotoSlide5" class="gotoSlide" onclick="gotoSlide(5); return false;">&nbsp;</div>
+</div>
+               
+    
+  </div>
+
+   </div></div>  </div></div>  </div></div> <div  class="perc-region perc-noAutoResize  perc-fixed  perc-vertical    home_middle_bg "  noAutoResize="true" id="home_middle_bg"> <div class=" perc-vertical "> <div  class="perc-region perc-noAutoResize  perc-fixed  perc-horizontal ui-helper-clearfix    middle-container "  noAutoResize="true" id="container"> <div class=" perc-horizontal ui-helper-clearfix "> <div  class="perc-region perc-region-leaf perc-noAutoResize  perc-fixed  perc-vertical    span-4 "  noAutoResize="true" id="home-left-col"> <div class=" perc-vertical ">     <div class="perc-widget" >
+  	
+    
+   <div >
+                     <div class="rxbodyfield"><div class="sub_nav_links"><div class="resourcesHDR">FIND HELP</div><div class="resourcesItem"><a href="/resource/jsp/searchByState.jsp" title="Find Resources in Your Area Using Resource Map"><img alt="Find Resources in Your Area Using Resource Map" src="/web_resources/themes/TTWtheme/images/us_map.png" width="205" /></a><br /><div class="home_resources_btn"><a href="/resource/jsp/searchByState.jsp" title="Find Resources in Your Area Using Our Resource Map">FIND RESOURCES IN YOUR AREA<br /> USING OUR RESOURCE MAP</a></div></div></div></div>
+         </div>
+     
+    
+  </div>
+    <div class="perc-widget" >
+  	
+            
+                    			 			            <div class="wise_nav">
+<p class="wise_hdr">Attend a Work Incentives Seminar Event (WISE)</p>
+<p class="callout_text">If you are interested in<br />learning about the<br />Ticket to Work Program,<br />attend a FREE webinar.</p>
+<p class="wise_hdr"><span class="secure-warning"><a href="/wise/jsp/wise.jsp" onclick="secure_warning();" title="Register for WISE Webinars">REGISTER NOW!</a></span></p>
+</div>
+<div class="wise_nav_bottom"><img height="12" src="/web_resources/themes/TTWtheme/images/callout_wise_bottom.jpg" alt="" width="247" /></div>
+               
+    
+  </div>
+    <div class="perc-widget" >
+  	
+            
+                    			 			            <div class="callout_nav_top"><img height="8" src="/web_resources/themes/TTWtheme/images/callout_top.gif" alt="" width="247" /></div>
+<div class="callout_nav_bg">
+<div id="contactMenu">
+<ul>
+<li class="contact_nav_hdr">Connect with Us</li>
+<li class="contact_nav_phone">Call 1-866-968-7842(V)<br />866-833-2967(TTY)<br /><span>M - F 8:00 AM - 8:00 PM EST</span></li>
+<li class="contact_nav_listserve"><span class="secure-warning"><a href="/signup/jsp/signup.jsp" onclick="secure_warning();">Sign Up for Email Updates</a></span></li>
+<li class="contact_nav_faq"><a href="/about/frequently-asked-questions/index.html" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+<li class="contact_nav_facebook"><a href="http://www.facebook.com/choosework">Become a Fan on Facebook!</a></li>
+<li class="contact_nav_email"><a href="mailto:support@chooseworkttw.net">Send Us a Message</a></li>
+</ul>
+</div>
+</div>
+<div class="callout_nav_bottom"><img height="8" src="/web_resources/themes/TTWtheme/images/callout_bottom.gif" alt="" width="247" /></div>
+               
+    
+  </div>
+ </div></div> <div  class="perc-region perc-region-leaf perc-noAutoResize  perc-fixed  perc-vertical    span-5 "  noAutoResize="true" id="home-right-col"> <div class=" perc-vertical ">     <div class="perc-widget" >
+  	
+    
+            <div class="content_top" data="{ deliveryurl : 'http://10.36.172.163:9980'}">  
+                                   <img src="/Assets/uploads/images/content_top.png" title="graphic-element-content-top" alt="" height="20" width="691" />
+                                    </div>
+    
+    
+    
+  </div>
+    <div class="perc-widget" >
+  	
+    
+   <div class="content_bg">
+                     <div class="rxbodyfield" xmlns:o="urn:www.microsoft.com/office" xmlns:st1="urn:www.microsoft.com/smarttags" xmlns:st2="urn:www.microsoft.com/smarttags2" xmlns:w="urn:www.microsoft.com/word" xmlns:x="urn:www.microsoft.com/excel"><a id="viewer" name="viewer"></a> <div id="viewer"><h1>Explore your options as a Social Security beneficiary</h1><p>Choosing to work can change your life. If you have a disability and want to work, the Ticket to Work program may be right for you. We will connect you with the right people to help you explore your options, prepare for work, or gain experience while staying in control of your benefit choices. If you are age 18 through 64 and receive Social Security Disability Insurance (SSDI) or Supplemental Security Income (SSI) you already qualify. As you explore your work options, you may be asking:</p><ul><li>How will work and income affect my benefits?</li><li>What will happen to my health insurance coverage if I choose to work?</li><li>What will happen if I try to work, but have to stop working because of my disability?</li></ul><p>Get answers to your questions, access information and resources, and receive expert advice on Work Incentives and the Ticket to Work program. <strong><a href="/about/index.html" title="About Ticket to Work">LEARN MORE &gt;</a></strong></p></div></div>
+         </div>
+     
+    
+  </div>
+    <div class="perc-widget" >
+  	
+    
+            <div class="content_bottom" data="{ deliveryurl : 'http://10.36.172.163:9980'}">  
+                                   <img src="/Assets/uploads/images/content_bottom.gif" title="graphic-element-content-bottom" alt="" height="20" width="691" />
+                                    </div>
+    
+    
+    
+  </div>
+    <div class="perc-widget" >
+  	
+    
+   <div >
+                     <div class="rxbodyfield"><div id="ivr-call"><h2>Did You Receive a Call from 1-855-835-0010?</h2><div class="text">The phone call you received was from Social Security's Ticket to Work program. Ticket to work is a free and voluntary Social Security program that helps people who receive disability benefits return to work or work for the first time. The call refers eligible beneficiaries to Ticket to Work's Help line at 1-866-968-7842 (V) or 1-866-833-2967 (TTY) and to <a href="http://choosework.net/mycall/">http://choosework.net/mycall/</a>. One of Social Security's contractors manages this site and the Help Line.</div><br /><div class="text">Visit <a href="http://choosework.net/mycall/">http://choosework.net/mycall/</a> to sign up for free information. Or, contact one of our representatives through the Ticket to Work Help Line. Be one of the many people who have connected with us for important information about work as a path to financial independence!</div></div></div>
+         </div>
+     
+    
+  </div>
+    <div class="perc-widget" >
+  	
+    
+            <div class="content_top" data="{ deliveryurl : 'http://10.36.172.163:9980'}">  
+                                   <img src="/Assets/uploads/images/content_top.png" title="graphic-element-content-top" alt="" height="20" width="691" />
+                                    </div>
+    
+    
+    
+  </div>
+    <div class="perc-widget" >
+  	
+    
+   <div >
+                     <div class="rxbodyfield"><div class="content_bg"><div><h2>Choose an option below that best represents your interests:</h2></div><div class="homeCALLOUTS_container"><div class="home_callouts_buckets1"><div><img alt="SSA Callout Image" height="117" src="/web_resources/themes/TTWtheme/images/home_callout_gfx_ssa.png" width="209" /></div><div class="home_callouts_box"><div class="home_callouts_tops"><img alt="" height="8" src="/web_resources/themes/TTWtheme/images/home_callout_top.png" width="200" /></div><div class="home_callouts_bg"><div class="home_callouts_text"><p class="home_callouts_hdr">Social Security's Work Site</p><p class="home_callouts_copy"><strong>Click below to:</strong></p><p class="home_callouts_copy">Get an overview of the Ticket to Work program for Beneficiaries and Service Providers</p></div><div class="home_callouts_btn1"><a href="http://www.yourtickettowork.com/" title="For Service Providers">VISIT WEBSITE</a></div><div class="brclear"> </div></div><div class="home_callouts_bottoms"><img alt="" height="8" src="/web_resources/themes/TTWtheme/images/home_callout_bottom.png" width="200" /></div></div></div><div class="home_callouts_buckets1"><div><img alt="Beneficiaries Callout Image" height="117" src="/web_resources/themes/TTWtheme/images/home_callout_gfx_beneficiaries.png" width="209" /></div><div class="home_callouts_box"><div class="home_callouts_tops"><img alt="" height="8" src="/web_resources/themes/TTWtheme/images/home_callout_gray_top.png" width="200" /></div><div class="home_callouts_gray_bg"><div class="home_callouts_text"><p class="home_callouts_hdr">For Beneficiaries</p><p class="home_callouts_copy"><strong>Click below if you:</strong></p><p class="home_callouts_copy">Want to return to work, or are currently working<br /><br /></p></div><div class="home_callouts_btn2"><a href="/about/index.html" title="About Ticket to Work">LEARN MORE</a></div><div class="brclear"> </div></div><div class="home_callouts_bottoms"><img alt="" height="8" src="/web_resources/themes/TTWtheme/images/home_callout_gray_bottom.png" width="200" /></div></div></div><div class="home_callouts_buckets2"><div><img alt="Service Providers Callout Image" height="117" src="/web_resources/themes/TTWtheme/images/home_callout_gfx_providers.png" width="209" /></div><div class="home_callouts_box"><div class="home_callouts_tops"><img alt="" height="8" src="/web_resources/themes/TTWtheme/images/home_callout_top.png" width="200" /></div><div class="home_callouts_bg"><div class="home_callouts_text"><p class="home_callouts_hdr">For Service Providers</p><p class="home_callouts_copy"><strong>Click below if you:</strong></p><p class="home_callouts_copy">Are an Employment Network or an organization interested in becoming an EN, or a Vocational Rehabilitation agency</p></div><div class="home_callouts_btn1"><a href="http://www.yourtickettowork.com/" title="For Service Providers">VISIT WEBSITE</a></div><div class="brclear"> </div></div><div class="home_callouts_bottoms"><img alt="" height="8" src="/web_resources/themes/TTWtheme/images/home_callout_bottom.png" width="200" /></div></div></div></div></div></div>
+         </div>
+     
+    
+  </div>
+    <div class="perc-widget" >
+  	
+    
+            <div class="content_bottom" data="{ deliveryurl : 'http://10.36.172.163:9980'}">  
+                                   <img src="/Assets/uploads/images/content_bottom.gif" title="graphic-element-content-bottom" alt="" height="20" width="691" />
+                                    </div>
+    
+    
+    
+  </div>
+ </div></div>  </div></div>  </div></div> <div  class="perc-region  perc-fixed  perc-vertical    sitemap_bg "  noAutoResize="false" id="sitemap_bg"> <div class=" perc-vertical "> <div  class="perc-region perc-region-leaf perc-noAutoResize  perc-fixed  perc-vertical    sitemap "  noAutoResize="true" id="sitemap"> <div class=" perc-vertical ">     <div class="perc-widget" >
+  	
+            
+                    			 			            <div id="sitemapMenu">
+<ul>
+<li>
+<div id="sitemapLinks">
+<ul>
+<li class="footer_nav_hdr">About the<br />Ticket Program</li>
+<li><a href="/about/index.html" title="About Ticket to Work">Overview</a></li>
+<li><a href="/about/how-it-works/index.html" title="How It Works">How It Works</a> </li>
+<li><a href="/about/making-progress/index.html" title="Making Progress">Making Progress</a></li>
+<li><a href="/about/work-incentives/index.html" title="Work Incentives">Work Incentives</a></li>
+<li><a href="/about/what-is-a-wipa/index.html" title="What is a WIPA">What is a WIPA?</a></li>
+<li><a href="/about/schedule-a/index.html" title="Schedule A">Schedule A</a></li>
+<li><a href="/about/frequently-asked-questions/index.html" title="Frequently Asked Questions">FAQs</a></li>
+<li><a href="/about/success-stories/index.html" title="Success Stories">Success Stories</a></li>
+<li><a href="/about/additional-government-resources/index.html" title="Additional Government Resources">Additional Government Resources</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div id="sitemapLinks">
+<ul>
+<li class="footer_nav_hdr">Find Help</li>
+<li><a href="/resource/jsp/searchByState.jsp" title="Search for Help">Search for Help</a></li>
+<li><a href="/enreport/jsp/ensearch.jsp" title="EN Profile">EN Profile</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div id="sitemapLinks">
+<ul>
+<li class="footer_nav_hdr">WISE Webinars</li>
+<li><a href="/wise/jsp/wise.jsp" onclick="secure_warning();" title="WISE Registration">WISE Registration</a></li>
+<li><a href="http://www.ilr.cornell.edu/edi/m-wise-webinars.cfm">WISE Videos</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div id="sitemapLinks">
+<ul>
+<li class="footer_nav_hdr">Blog</li>
+<li><a href="/blog/jsp/bloglist.jsp">Choose Work Blog</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div id="sitemapLinks">
+<ul>
+<li class="footer_nav_hdr">Library</li>
+<li><a href="/document-library/index.html" title="Document Libary">Ticket to Work Documents</a></li>
+<li><a href="http://ssa.gov/work/formsandpubs.html" title="Forms and Publications">Forms and Publications (Social Security Work Site)</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div id="sitemapLinks">
+<ul>
+<li class="footer_nav_hdr">Contact Us</li>
+<li><a href="/contact/index.html" title="Contact Us">Contact Information</a></li>
+<li><a href="/signup/jsp/signup.jsp" onclick="secure_warning();" title="Email Updates">Sign Up for Email Updates</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+               
+    
+  </div>
+ </div></div>  </div></div> <div  class="perc-region perc-noAutoResize  perc-fixed  perc-vertical   vspan_2  footer_bg "  noAutoResize="true" id="footer_bg"> <div class=" perc-vertical "> <div  class="perc-region perc-region-leaf perc-noAutoResize  perc-fixed  perc-vertical    footer "  noAutoResize="true" id="footer"> <div class=" perc-vertical ">     <div class="perc-widget" >
+  	
+    
+   <div >
+                     <div class="rxbodyfield"><a href="/wisestaff/">Staff Login</a> | <a href="/comments-policy.html" title="Comments Policy">Comments Policy</a> | <a href="/disclaimer.html" title="Disclaimer">Disclaimer</a> | <a href="/privacy-security.html" title="Privacy &amp; Security Notice">Privacy &amp; Security Notice</a> | <a href="/accessibility.html" title="Accessibility">Accessibility</a> | <a href="http://www.ssa.gov/foia/">FOIA</a> | <a href="http://www.ssa.gov/nofear/">No FEAR Act</a> | <a href="http://www.usa.gov/">USA.gov</a> | <a href="https://www.disability.gov">Disability.gov</a> | <a href="http://www.benefits.gov">Benefits.gov</a></div>
+         </div>
+     
+    
+  </div>
+ </div></div>  </div></div>  </div></div>      	
+       	<script>$('.perc-navbar.subMenu .current').last().addClass('active');
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21243068-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+     </body>
+ </html>

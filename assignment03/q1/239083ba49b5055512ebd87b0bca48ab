@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<![endif]-->
+<!--[if gt IE 8]>
+<!--  -->
+<html class="no-js no-ie" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="width=device-width,initial-scale=1.0, maximum-scale=1.0" name="viewport">
+<meta content="OCZpmahYZGXL5ve4bMu5WPjG6ZYBVjvhlK17ISkU5A0" name="google-site-verification">
+<meta content="274570255977962" property="fb:app_id">
+<title>Legendary Harvard Crew Coach Harry Parker – 60 Minutes Sports Preview | Showtime Sports</title>
+<meta content="Harvard Crew Coach Harry Parker lost his race with cancer on June 25th, but continued his incredible winning ways until the end. Over 51 seasons, he accumulated one of the greatest coaching records in U.S. collegiate sports history. Correspondent Sharyn A" name="description">
+<meta content="Showtime, Sports, Boxing, MMA, NFL, Nascar, MLB, Fights, showtime, sports, videos" name="keywords">
+<meta content="sports:videos:video:legendary harvard crew coach harry parker 60 minutes sports preview" name="page-tracking">
+<meta content="Showtime Sports" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="Legendary Harvard Crew Coach Harry Parker – 60 Minutes Sports Preview | Showtime Sports" property="og:title">
+<meta content="http://sports.sho.com/media/BAhbB1sHOgZmSSIvYXNzZXRzL3ZpZGVvcy8xNTIyLzEzNzgzMTA3OTIvb3JpZ2luYWwuanBnBjoGRVRbCDoGcDoKdGh1bWJJIgk1MDB4BjsGRg/1003022_1_3369341_ext02.jpg" property="og:image">
+<meta content="Harvard Crew Coach Harry Parker lost his race with cancer on June 25th, but continued his incredible winning ways until the end. Over 51 seasons, he accumulated one of the greatest coaching records in U.S. collegiate sports history. Correspondent Sharyn A" property="og:description">
+<meta content="http://sports.sho.com/videos/1522" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Legendary Harvard Crew Coach Harry Parker – 60 Minutes Sports Preview | Showtime Sports" property="twitter:title">
+<meta content="http://sports.sho.com/media/BAhbB1sHOgZmSSIvYXNzZXRzL3ZpZGVvcy8xNTIyLzEzNzgzMTA3OTIvb3JpZ2luYWwuanBnBjoGRVRbCDoGcDoKdGh1bWJJIg0xMjB4MTIwIwY7BkY/1003022_1_3369341_ext02.jpg" property="twitter:image">
+<meta content="Harvard Crew Coach Harry Parker lost his race with cancer on June 25th, but continued his incredible winning ways until the end. Over 51 seasons, he accumulated one of the greatest coaching records in U.S. collegiate sports history. Correspondent Sharyn A" property="twitter:description">
+<meta content="http://sports.sho.com/videos/1522" property="twitter:url">
+<link href="/img/shotime_favicon.png" rel="shortcut icon">
+<script>
+  var hash = window.location.hash;
+  var url_map = {
+    '#/boxing' : '/boxing',
+    '#/boxing/events' : '/boxing',
+    '#/boxing/videos' : '/videos/boxing',
+    '#/boxing/photos' : '/photosets',
+    '#/boxing/tvschedule' : '/',
+  
+    '#/baseball' : '/programs/the-franchise',
+    '#/baseball/about' : '/programs/the-franchise',
+    '#/baseball/videos' : '/videos/baseball',
+    '#/baseball/photos' : '/programs/the-franchise',
+    '#/baseball/specials/the-franchise/giants' : '/programs/the-franchise',
+  
+    '#/football' : '/programs/inside-the-nfl',
+    '#/football/about' : '/programs/inside-the-nfl',
+    '#/football/videos' : '/videos/football',
+    '#/football/photos' : '/programs/inside-the-nfl',
+    '#/football/tvschedule' : '/',
+    '#/football/specials/army-navy/a-game-of-honor' : '/programs/a-game-of-honor',
+  
+    '#/mma' : '/mma',
+    '#/mma/events' : '/mma',
+    '#/mma/videos' : '/videos/mma',
+    '#/mma/photos' : '/photosets',
+    '#/mma/tvschedule' : '/',
+  
+    '#/nascar' : '/programs/inside-nascar',
+    '#/nascar/about' : '/programs/inside-nascar',
+    '#/nascar/videos' : '/videos/nascar',
+    '#/nascar/tvschedule' : '/',
+  
+    '#/specials/all-access' : '/programs/all-access',
+    '#/specials/all-access/canelo-vs-lopez' : '/programs/all-access',
+    '#/specials/all-access/ronda-rousey' : '/programs/all-access',
+  
+    '#/tvschedule' : '/'
+  };
+  
+  if (url_map[hash]) {
+    window.location = url_map[hash];
+  }
+  else if (url_map[hash.substr(0, (hash.length - 1))]) {
+    window.location = url_map[hash.substr(0, (hash.length - 1))];
+  }
+  else if (hash.match(/videos\/\d+\/?/)) {
+    window.location =  hash.match(/videos\/\d+\/?/);
+  }
+  else if (hash.match(/events\/.+\/?/)) {
+    window.location = hash.match(/events\/.+\/?/);
+  }
+  else if (hash.match(/photos\/.+\/?/)) {
+    window.location = '/photosets';
+  }
+  else if (window.location.pathname === '/chat') {
+    window.location = '/live';
+  }
+</script>
+<link href="/assets/application-9cd3b02c891d1d0a4210077dcfc4d1ed.css" media="screen" rel="stylesheet" type="text/css" />
+<script src="//use.typekit.com/wsa6qeq.js"></script>
+<script src="/assets/header-70cf898fc7d240a322faa8c74b5a2282.js" type="text/javascript"></script>
+</head>
+<body class="sixty-min videos preload ga_track_scroll_event" data-ga-tracking="Body, Scroll, Scrolling!!!">
+<div id="fb-root"></div>
+<script>
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=274570255977962";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+  
+  // Just for the main nav stuff.
+  function shareMainSite() {
+    var obj = {
+      method: "feed",
+      link: "http://sports.sho.com",
+      picture: "http://sports.sho.com/media/BAhbB1sHOgZmSSIvYXNzZXRzL3ZpZGVvcy8xNTIyLzEzNzgzMTA3OTIvb3JpZ2luYWwuanBnBjoGRVRbCDoGcDoKdGh1bWJJIgk1MDB4BjsGRg/1003022_1_3369341_ext02.jpg",
+      name: "Showtime Sports",
+      caption: "The Official Website of Showtime Sports",
+      description: "The official site of Showtime Sports, home to Showtime Championship Boxing and more."
+    };
+    function callback(response) {
+    }
+  
+    FB.ui(obj, callback);
+  }
+  // subpages
+  function sharePage() {
+    var obj = {
+      method: "feed",
+      link: "http://sports.sho.com/videos/1522",
+      picture: "http://sports.sho.com/media/BAhbB1sHOgZmSSIvYXNzZXRzL3ZpZGVvcy8xNTIyLzEzNzgzMTA3OTIvb3JpZ2luYWwuanBnBjoGRVRbCDoGcDoKdGh1bWJJIgk1MDB4BjsGRg/1003022_1_3369341_ext02.jpg",
+      name: "Legendary Harvard Crew Coach Harry Parker – 60 Minutes Sports Preview | Showtime Sports",
+      caption: "Legendary Harvard Crew Coach Harry Parker – 60 Minutes Sports Preview | Showtime Sports",
+      description: "Harvard Crew Coach Harry Parker lost his race with cancer on June 25th, but continued his incredible winning ways until the end. Over 51 seasons, he accumulated one of the greatest coaching records in U.S. collegiate sports history. Correspondent Sharyn A"
+    };
+    function callback(response) {
+    }
+  
+    FB.ui(obj, callback);
+  }
+</script>
+<div class="container">
+<header>
+<h1>
+<a href="/">ShoSports</a>
+</h1>
+<nav>
+<h3 class="show-main-nav">Menu</h3>
+<div class="subnav basic">
+<ul>
+<li>
+<a href="/boxing">All Boxing</a>
+</li>
+<li>
+<a href="/programs">All Shows</a>
+</li>
+<li>
+<a href="/documentaries">All Documentaries</a>
+</li>
+<li>
+<a href="/videos">All Videos</a>
+</li>
+<li>
+<a href="/photosets">All Photos</a>
+</li>
+<li>
+<a href="http://sho.com/">Sho.com</a>
+</li>
+<li>
+<a href="/live">Live</a>
+</li>
+<li>
+<p>Socialize:</p>
+<a class="nav-facebook main-facebook-share" href="#">
+<span>Facebook</span>
+</a>
+<a class="twitter-tweet main-twitter-tweet" href="https://twitter.com/share" text="Legendary Harvard Crew Coach Harry Parker – 60 Minutes Sports Preview | Showtime Sports">
+<span>Twitter</span>
+</a>
+</li>
+</ul>
+</div>
+
+<ul class="main-nav">
+<li class="fights-link events-link top-level">
+<span>Fights</span>
+<div class="subnav fights">
+<ul class="index-links">
+<li>
+<a href="/boxing">All Boxing</a>
+</li>
+<li>
+<a href="/mma">All MMA</a>
+</li>
+</ul>
+<ul class="upcoming-fights">
+<li>
+<h4>Boxing</h4>
+</li>
+<li class="featured-fight">
+<a href="/events/hoplkins-vs-murat"><img alt="Main-nav-small" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/events/174/1376947726/main-nav-small.jpg" />
+<span class="caption">
+Hopkins vs. Murat
+<span>Oct 26</span>
+</span>
+</a></li>
+</ul>
+<ul class="show-callouts">
+<li>
+<h4>More</h4>
+</li>
+<li class="show-1">
+<a href="/shobox"><img height="82" src="/img/nav/fights/sho-box.jpg" width="146">
+<span class="caption">
+<span>ShoBox</span>
+</span>
+</a></li>
+</ul>
+</div>
+
+</li>
+<li class="programs-link top-level allprograms-link">
+<span>Shows</span>
+<div class="subnav programs">
+<ul class="index-links">
+<li>
+<a href="/programs">All Shows</a>
+</li>
+<li>
+<a href="/programs/all-access/mayweather-canelo">All Access</a>
+</li>
+<li>
+<a href="/programs/inside-the-nfl/2013">Inside the NFL</a>
+</li>
+<li>
+<a href="/programs/jim-rome/season-2">Jim Rome on Showtime</a>
+</li>
+<li>
+<a href="/programs/60-minutes-sports/2013">60 Minutes Sports</a>
+</li>
+<li>
+<a href="/programs/the-franchise/the-miami-marlins">The Franchise </a>
+</li>
+</ul>
+<ul class="show-callouts">
+<li>
+<h4>New in Shows</h4>
+</li>
+<li class="show-1">
+<a href="/videos/1557"><img alt="Main-nav-square" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1557/1380229485/main-nav-square.jpg" />
+<span class="caption">
+60 Minutes Sports
+<span>Watch Preview of the Next 60 Minutes Sports</span>
+</span>
+</a></li>
+<li class="show-2">
+<a href="/videos/1556"><img alt="Main-nav-square" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1556/1380194288/main-nav-square.jpg" />
+<span class="caption">
+All Access
+<span>Full Episode: All Access: Mayweather vs. Canelo: Epilogue</span>
+</span>
+</a></li>
+<li class="show-3">
+<a href="/videos/1555"><img alt="Main-nav-square" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1555/1380144856/main-nav-square.jpg" />
+<span class="caption">
+Inside the NFL
+<span>Extended Picks for Week Four</span>
+</span>
+</a></li>
+<li class="show-4">
+<a href="/videos/1553"><img alt="Main-nav-square" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1553/1380144713/main-nav-square.jpg" />
+<span class="caption">
+Inside the NFL
+<span>Pick Six for Week Four</span>
+</span>
+</a></li>
+<li class="show-5">
+<a href="/videos/1552"><img alt="Main-nav-square" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1552/1380120347/main-nav-square.jpg" />
+<span class="caption">
+All Access
+<span>Watch Preview: All Access: Mayweather vs. Canelo: Epilogue</span>
+</span>
+</a></li>
+</ul>
+</div>
+
+</li>
+<li class="documentaries-link top-level">
+<span>Documentaries</span>
+<div class="subnav documentaries">
+<ul class="index-links">
+<li>
+<a href="/documentaries">All Documentaries</a>
+</li>
+<li>
+<a href="/documentaries/LT/2013">LT: The Life &amp; Times</a>
+</li>
+<li>
+<a href="/documentaries/30-days-in-may/2013">30 Days In May</a>
+</li>
+<li>
+<a href="/documentaries/a-game-of-honor/a-game-of-honor">A Game of Honor</a>
+</li>
+</ul>
+<ul class="show-callouts">
+<li>
+<h4>New in Documentaries</h4>
+</li>
+<li class="show-1">
+<a href="/videos/1548"><img alt="Main-nav-square" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1548/1379702009/main-nav-square.jpg" />
+<span class="caption">
+LT: The Life &amp; Times
+<span>Reporting from the Red Carpet: LT: The Life &amp; Times</span>
+</span>
+</a></li>
+<li class="show-2">
+<a href="/videos/1500"><img alt="Main-nav-square" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1500/1376686016/main-nav-square.jpg" />
+<span class="caption">
+LT: The Life &amp; Times
+<span>Watch Video: Lawrence Taylor Documentary</span>
+</span>
+</a></li>
+<li class="show-3">
+<a href="/videos/1382"><img alt="Main-nav-square" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1382/1367512309/main-nav-square.jpg" />
+<span class="caption">
+30 Days In May
+<span>30 DAYS IN MAY – Online Preview of the Documentary Film</span>
+</span>
+</a></li>
+<li class="show-4">
+<a href="/videos/1375"><img alt="Main-nav-square" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1375/1367512231/main-nav-square.jpg" />
+<span class="caption">
+30 Days In May
+<span>Preview Clip: Concert</span>
+</span>
+</a></li>
+<li class="show-5">
+<a href="/videos/1374"><img alt="Main-nav-square" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1374/1367512222/main-nav-square.jpg" />
+<span class="caption">
+30 Days In May
+<span>Preview Clip: Release</span>
+</span>
+</a></li>
+</ul>
+</div>
+
+</li>
+<li class="videos-link top-level">
+<span>Videos</span>
+<div class="subnav videos">
+<ul class="index-links">
+<li>
+<a href="/videos">All Videos</a>
+</li>
+<li>
+<a href="/videos/boxing">Boxing</a>
+</li>
+<li>
+<a href="/videos/mma">MMA</a>
+</li>
+<li>
+<a href="/videos/football">Football</a>
+</li>
+<li>
+<a href="/videos/nascar">NASCAR</a>
+</li>
+<li>
+<a href="/videos/baseball">Baseball</a>
+</li>
+</ul>
+<ul class="show-callouts">
+<li>
+<h4>New in Video</h4>
+</li>
+<li class="show-1">
+<a href="/videos/1557"><img alt="Main-nav-short" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1557/1380229486/main-nav-short.jpg" />
+<span class="caption">
+<span>Watch Preview of the Next 60 Minutes Sports</span>
+</span>
+</a></li>
+<li class="show-2">
+<a href="/videos/1556"><img alt="Main-nav-short" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1556/1380194288/main-nav-short.jpg" />
+<span class="caption">
+<span>Full Episode: All Access: Mayweather vs. Canelo: Epilogue</span>
+</span>
+</a></li>
+<li class="show-3">
+<a href="/videos/1555"><img alt="Main-nav-short" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1555/1380144857/main-nav-short.jpg" />
+<span class="caption">
+<span>Extended Picks for Week Four</span>
+</span>
+</a></li>
+<li class="show-4">
+<a href="/videos/1553"><img alt="Main-nav-short" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1553/1380144714/main-nav-short.jpg" />
+<span class="caption">
+<span>Pick Six for Week Four</span>
+</span>
+</a></li>
+<li class="show-5">
+<a href="/videos/1552"><img alt="Main-nav-short" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1552/1380120347/main-nav-short.jpg" />
+<span class="caption">
+<span>Watch Preview: All Access: Mayweather vs. Canelo: Epilogue</span>
+</span>
+</a></li>
+<li class="show-6">
+<a href="/videos/1551"><img alt="Main-nav-short" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1551/1380111370/main-nav-short.jpg" />
+<span class="caption">
+<span>Watch a Preview: 7-On-7</span>
+</span>
+</a></li>
+</ul>
+</div>
+
+</li>
+<li class="photos-link top-level">
+<span>Photos</span>
+<div class="subnav photos">
+<ul class="index-links">
+<li>
+<a href="/photosets">All Photos</a>
+</li>
+</ul>
+<ul class="show-callouts">
+<li>
+<h4>New in Photos</h4>
+</li>
+<li class="show-1">
+<a href="/photosets/583"><img alt="Main-nav-short" src="http://d2v2dqapb4qqyg.cloudfront.net/photosets/photos/72157635878489173/main-nav-short.jpg" />
+<span class="caption">
+<span>Tattoos of Fantasy Football Losers</span>
+</span>
+</a></li>
+<li class="show-2">
+<a href="/photosets/582"><img alt="Main-nav-short" src="http://d2v2dqapb4qqyg.cloudfront.net/photosets/photos/72157635538067244/main-nav-short.jpg" />
+<span class="caption">
+<span>Fight Night: Mayweather vs. Canelo</span>
+</span>
+</a></li>
+<li class="show-3">
+<a href="/photosets/581"><img alt="Main-nav-short" src="http://d2v2dqapb4qqyg.cloudfront.net/photosets/photos/72157635504177015/main-nav-short.jpg" />
+<span class="caption">
+<span>Weigh-In: Mayweather vs. Canelo</span>
+</span>
+</a></li>
+<li class="show-4">
+<a href="/photosets/580"><img alt="Main-nav-short" src="http://d2v2dqapb4qqyg.cloudfront.net/photosets/photos/72157635502821004/main-nav-short.jpg" />
+<span class="caption">
+<span>Undercard Press Conference: Mayweather vs. Canelo</span>
+</span>
+</a></li>
+<li class="show-5">
+<a href="/photosets/579"><img alt="Main-nav-short" src="http://d2v2dqapb4qqyg.cloudfront.net/photosets/photos/72157635496424536/main-nav-short.jpg" />
+<span class="caption">
+<span>Undercard Workout: Mayweather vs. Canelo</span>
+</span>
+</a></li>
+<li class="show-6">
+<a href="/photosets/578"><img alt="Main-nav-short" src="http://d2v2dqapb4qqyg.cloudfront.net/photosets/photos/72157635491047616/main-nav-short.jpg" />
+<span class="caption">
+<span>Final Press Conference: Mayweather vs. Canelo</span>
+</span>
+</a></li>
+</ul>
+</div>
+
+</li>
+<li class="schedule-link top-level">
+<span>
+<a href="/tvschedule">Schedule</a>
+</span>
+</li>
+<li class="sho-link top-level">
+<span>
+<a href="http://www.sho.com/">Sho.com</a>
+</span>
+</li>
+<li class="sho-link top-level">
+<span>
+<a href="/live">Live</a>
+</span>
+</li>
+</ul>
+</nav>
+</header>
+<div class="inpage-nav sho-red">
+<h2>Videos</h2>
+</div>
+
+<div class="nomasonry-container single-video sixty-min">
+<div class="single-video-container">
+<div class="video-player sport-video">
+<div style="display:none"></div>
+<script language="JavaScript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js" type="text/javascript"></script>
+<object class="BrightcoveExperience" id="myExperience">
+<param name="bgcolor" value="#FFFFFF">
+<param name="width" value="1067">
+<param name="height" value="606">
+<param name="forceHTML5" value="true">
+<param name="playerID" value="2059090081001">
+<param name="playerKey" value="AQ~~,AAAAAAAA9pg~,GnOHJwU2r3so0s69pKdxXy9WN6ulGIT3">
+<param name="isVid" value="true">
+<param name="isUI" value="true">
+<param name="dynamicStreaming" value="true">
+<param name="@videoPlayer" value="2649413749001">
+<param name="wmode" value="transparent">
+</object>
+<script>
+  brightcove.createExperiences();
+</script>
+</div>
+<div class="video-info">
+<h3 class="video-title">Legendary Harvard Crew Coach Harry Parker – 60 Minutes Sports Preview</h3>
+<ul class="video-tags">
+<li>Tags:</li>
+<li>
+<a href="/videos/filtered/Season/33">60 Minutes Sports</a>
+</li>
+</ul>
+<div class="social-widget">
+<h3 class="social-links-header">Share this page</h3>
+<ul class="social-links">
+<li class="like-button">
+<fb:like colorscheme="dark" font="arial" layout="button_count" send="false" show_faces="false" width="450"></fb:like>
+</li>
+<li>
+<a class="event-tweet subpage-twitter-tweet twitter-share-button" href="https://twitter.com/share"></a>
+<span class="icon-title">Tweet this!</span>
+</li>
+<li>
+<a class="subpage-facebook-share event-facebook" href="#"></a>
+<span class="icon-title">Like this on Facebook!</span>
+</li>
+<li>
+<a class="event-googleplus subpage-google-plus" href="http://sports.sho.com/videos/1522"></a>
+<span class="icon-title">Google+ this!</span>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+<div class="related-videos-container">
+<h4>Related Videos</h4>
+<ul class="related-videos">
+<li class="related-video sixty-min">
+<a href="/videos/1557"><div class="video-icon"></div>
+<div class="item-thumbnail">
+<img alt="Related-video" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1557/1380229488/related-video.jpg" />
+</div>
+<div class="item-content">
+<h5>
+<a href="/videos/1557">Watch Preview of the Next 60 Minutes Sports
+</a></h5>
+</div>
+</a></li>
+<li class="related-video sixty-min">
+<a href="/videos/1551"><div class="video-icon"></div>
+<div class="item-thumbnail">
+<img alt="Related-video" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1551/1380111372/related-video.jpg" />
+</div>
+<div class="item-content">
+<h5>
+<a href="/videos/1551">Watch a Preview: 7-On-7
+</a></h5>
+</div>
+</a></li>
+<li class="related-video sixty-min">
+<a href="/videos/1550"><div class="video-icon"></div>
+<div class="item-thumbnail">
+<img alt="Related-video" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1550/1380052653/related-video.jpg" />
+</div>
+<div class="item-content">
+<h5>
+<a href="/videos/1550">Fantasy Football with Matthew Berry: 60 Minutes Sports Preview
+</a></h5>
+</div>
+</a></li>
+<li class="related-video sixty-min">
+<a href="/videos/1527"><div class="video-icon"></div>
+<div class="item-thumbnail">
+<img alt="Related-video" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1527/1378487950/related-video.jpg" />
+</div>
+<div class="item-content">
+<h5>
+<a href="/videos/1527">Joe Paterno &amp; The Sandusky Trial
+</a></h5>
+</div>
+</a></li>
+<li class="related-video sixty-min">
+<a href="/videos/1526"><div class="video-icon"></div>
+<div class="item-thumbnail">
+<img alt="Related-video" src="http://d2v2dqapb4qqyg.cloudfront.net/assets/videos/1526/1378488247/related-video.jpg" />
+</div>
+<div class="item-content">
+<h5>
+<a href="/videos/1526">Jerry Sandusky: “He Was an Icon”
+</a></h5>
+</div>
+</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+<footer>
+<div class="upcoming_shows">
+<span class="coming_up">Coming up on Showtime:</span>
+<ul class="show-links"></ul>
+</div>
+
+<ul class="brand-links">
+<li>
+<a href="http://www.sho.com/sho/about">About</a>
+</li>
+<li>
+<a href="http://www.sho.com/sho/order/home">Order</a>
+</li>
+<li>
+<a href="http://store.sho.com/">Shop</a>
+</li>
+<li>
+<a href="http://www.sho.com/sho/about/careers">Careers</a>
+</li>
+<li>
+<a href="http://sho.com/contact">Contact</a>
+</li>
+</ul>
+<p class="legal-copy">
+&copy; 2013 Showtime Networks Inc. All rights reserved.
+<a href="http://www.sho.com/sho/about/privacy">Privacy Policy</a>
+|
+<a href="http://www.sho.com/sho/about/terms">Terms of Use</a>.
+<a href="http://www.sho.com/sho/about/closed-captioning">Closed Captioning</a>.
+<br>
+This website is intended for viewing solely in the United States and its territories and possessions.
+</p>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<div class="reveal-modal" id="roadblock-container">
+<div id="top-bar">
+<a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="roadblock">
+<h3>A Message From Showtime to Time Warner Cable and Bright House Networks Customers</h3>
+<div class="reveal-modal-body">
+<p>Time Warner Cable has dropped SHOWTIME!</p>
+</div>
+<a class="more_info" href="http://sho.com/timewarnercable">More Information</a>
+<a class="continue">Continue to sports.sho.com</a>
+</div>
+</div>
+
+<script src="/assets/footer-aadc01fd967c9ecfae220e1de2a4cc99.js" type="text/javascript"></script>
+<script src="http://www.sho.com/ROOT/lib/js/sho/analytics/pagetracker.js"></script>
+<script src="http://www.sho.com/ROOT/lib/js/vendor/omniture/s_code.js"></script>
+<script src="/assets/omniture_tracking-79c523bb5e2dda39da70dfdd430aec07.js" type="text/javascript"></script>
+</body>
+</html>

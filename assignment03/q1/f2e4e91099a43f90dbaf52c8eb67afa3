@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- DESKTOP to MOBILE : works if you publish mobile page in subdirectory "m" -->
+    <script type="text/javascript">
+        if (document.location.href.indexOf('template=desktop') === -1) {
+            if (!(document.cookie.indexOf("sd=") == 0 || document.cookie.indexOf("; sd=") >= 0 )) {
+                if (window.screen.width*window.screen.height/Math.pow((window.devicePixelRatio == undefined || navigator.userAgent.match(/(iPhone|iPod)/i) ? 1 : window.devicePixelRatio),2) < 480000) {
+                    // checking if it's an iframe
+                    var iframe_param = document.location.href.indexOf('template=iframe') !== -1 ? window.location.search : '';
+                    window.location="m/" + iframe_param;
+                }
+            }
+            if ((document.cookie.indexOf("sd=1") == 0 || document.cookie.indexOf("; sd=1") >= 0 )) {
+                document.cookie= "sd=;expires=Thu, 01 Jan 1970 00:00:01 GMT;domain=.washingtonpost.com;"; // clear cookie
+            }
+        }
+    </script>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+
+    <title>Deadliest U.S. shootings - The Washington Post</title>
+
+    <meta name="twitter:title"          content="Deadliest U.S. shootings" />
+    <meta property="og:title"           content="Deadliest U.S. shootings" />
+    <meta name="description"            content="At least 13 people including a gunman are confirmed dead in Monday’s shooting at the Navy Yard, more than the amount of people killed in an Aurora, Colo., movie theater in 2012." />
+    <meta property="og:description"     content="At least 13 people including a gunman are confirmed dead in Monday’s shooting at the Navy Yard, more than the amount of people killed in an Aurora, Colo., movie theater in 2012."/>
+    <meta name="twitter:description"    content="At least 13 people including a gunman are confirmed dead in Monday’s shooting at the Navy Yard, more than the amount of people killed in an Aurora, Colo., movie theater in 2012.">
+    <meta name="keywords"               content="deadliest us shootings, deadliest shootings, shootings, us shootings, aurora shootings, theater shootings; navy yard shooting; fort hood shooting;" />
+    <link rel="canonical"               href="http://www.washingtonpost.com/wp-srv/special/nation/deadliest-us-shootings/" />
+    <meta property="og:url"             content="http://www.washingtonpost.com/wp-srv/special/nation/deadliest-us-shootings/"/>
+    <meta name="twitter:url"            content="http://www.washingtonpost.com/wp-srv/special/nation/deadliest-us-shootings/" />
+    <link rel="shorturl"                href="http://wapo.st/PsjZCN" />
+    <meta property="og:image"           content="http://www.washingtonpost.com/wp-srv/special/nation/deadliest-us-shootings/images/deadliest-us-shootings-296promo.jpg" />
+    <meta name="twitter:image"          content="http://www.washingtonpost.com/wp-srv/special/nation/deadliest-us-shootings/images/deadliest-us-shootings-296promo.jpg" />
+
+    <meta name="twitter:site"           content="@postgraphics" />
+    <meta property="article:publisher"  content="https://www.facebook.com/washingtonpost" />
+    <meta property="article:author"     content="https://www.facebook.com/postgraphics" />
+    <!--<meta name="twitter:creator"    content="@username" />-->
+    <meta name="twitter:card"           content="summary_large_image" />
+    <meta property="fb:app_id"          content="41245586762" />
+    <meta property="og:site_name"       content="Washington Post" />
+    <meta property="fb:admins"          content="1244584375" />
+    <meta property="fb:admins"          content="4403963" />
+    <meta property="fb:admins"          content="2724956" />
+    <meta property="fb:admins"          content="500835072" />
+    <meta property="fb:admins"          content="1513210492" />
+
+    <script type="text/javascript" charset="utf-8">
+        var wp_content_type = 'interactive graphics';
+        var thisNode = 'national',
+            navNode = thisNode,
+            commercialNode = thisNode,
+            wp_channel = 'national', // this should be top level section node only
+            wp_section = wp_channel,
+            wp_page_name = 'wp - ' + document.location.pathname;
+            //var wp_subsection = 'sports - nationals'; // top level - subsection level, usually only used for sports
+            //var wp_hierarchy = 'sports|nationals'; // top level|subsection level, usually only used for sports
+            TWP = window.TWP || {};TWP.Data = {};TWP.base = 'http://www.washingtonpost.com';eidosBase = TWP.base;TWP.SocialConfig;
+    </script>
+
+    <link type="text/css" rel="stylesheet" href="http://css.wpdigital.net/wpost/css/combo?context=eidos&c=true&m=true&r=/2.0.0/reset.css&r=/2.0.0/structure.css&r=/2.0.0/header.css&r=/2.0.0/footer.css&r=/2.0.0/right-rail.css&r=/2.0.0/rules.css&r=/2.0.0/forms.css&r=/2.0.0/base.css&r=/2.0.0/flipper.css&r=/2.0.0/modules.css&r=/2.0.0/wsodEWA.css&r=/2.0.0/ads.css&r=/2.0.0/fonts/font_FranklinITCProBold.css" charset="utf-8">
+    <link type="text/css" rel="stylesheet" href="http://css.wpdigital.net/wp-srv/graphics/css/pretty-comments.css" charset="utf-8">
+    <link type="text/css" rel="stylesheet" href="http://css.wpdigital.net/wp-srv/graphics/css/staticbase-2.0.css" charset="utf-8">
+
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/css/font-awesome.min.css" rel="stylesheet">
+    <!--[if lte IE 7]><link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/css/font-awesome-ie7.min.css" rel="stylesheet"><![endif]-->
+    <link type="text/css" rel="stylesheet" href="http://www.washingtonpost.com/wp-srv/graphics/css/stepper.css" charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/mass-shootings.css?v290">
+
+    <script type="text/javascript" src="http://js.washingtonpost.com/1h/twp-internal.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/ad/generic_ad.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/ad/wp.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/graphics/js/twp.module.staticbase-1.0.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/graphics/js/twp.util.js"></script>
+
+</head>
+<!--[if lt IE 7]><body class="ie6 static"><![endif]-->
+<!--[if IE 7]><body class="ie7 static"><![endif]-->
+<!--[if IE 8]><body class="ie8 static"><![endif]-->
+<!--[if gt IE 8]><!--><body class="static"><!--<![endif]-->
+    <!-- hide body initially for iframe -->
+    <script>if (document.location.href.indexOf('template=iframe') !== -1) {document.body.style.display = 'none';wp_page_name += ' - iframe';}</script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/graphics/js/ipad.js"></script>
+
+    <div id="shell">
+        <!-- Example: data-config="section=homepage" -->
+        <!-- can also add subsection and turn off hot topics, ex: data-config="section=sports&subsection=redskins&hotTopics=false" -->
+        <div id="header-v3" class="external nomobile" data-config="section=national"></div>
+
+        <div id="slug_leaderboard" class="nomobile">
+            <div class="ad-marker">
+                <script type="text/javascript">if(document.location.href.indexOf('template=ipad') == -1 && document.location.href.indexOf('template=iframe') == -1){ placeAd2(commercialNode+'','leaderboard',false,''); }</script>
+            </div>
+        </div>
+
+        <div id="pre-content"></div>
+        <div id="content">
+
+            <!-- left column -->
+            <div class="wp-column ten pr10">
+
+                <!-- social media include -->
+                <div id="wp-graphics-social-tools" class="nomobile"></div>
+                <link type="text/css" rel="stylesheet" href="http://www.washingtonpost.com/wp-srv/graphics/css/social-toolbar.css" charset="utf-8">
+                <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/graphics/js/social-toolbar.js"></script>
+
+                <!-- content -->
+                <h1 class="franklin">Deadliest U.S. shootings</h1>
+                <div class="module byline">
+                    <h3><span class="timestamp updated processed"><span id="update-time" class="time special">Updated Sept. 23, 2013</span></span></h3>
+                </div>
+                <p class="body">At least 13 people including a gunman are confirmed dead in the Sept. 16 shooting at the Navy Yard, more than the amount of people killed in an Aurora, Colo., movie theater in 2012. <a href="http://www.washingtonpost.com/blogs/liveblog/wp/2013/09/16/shooting-at-washington-navy-yard/">Follow our liveblog</a>.</p>
+
+                <div class="main-content">
+                    <!-- main content goes in here -->
+
+                    <div class="stepper-nav cf mb20">
+                        <ul id="pager-wrap" class="filter-menu left mr10"></ul>
+                        <a id="next-panel" class="next-btn" href="#"><span class="text">Next</span><i class="icon-caret-right"></i></a>
+                    </div>
+                    <div class="posrel">
+                        <div id="panel_graphic_custom"></div>
+                        <div id="map" class="posabs"></div>
+                    </div>
+
+                    <!-- end main-content -->
+                    <p class="credit border-top">
+                         CORRECTION: A previous version of this graphic incorrectly listed an assault rifle as one of the weapons used in the Washington Navy Yard shooting.
+                    </p><p class="credit">SOURCE: Associated Press and other news reports, Violence Policy Center, Brady Campaign to Prevent Gun Violence, Law Center to Prevent Gun Violence. GRAPHIC: The Washington Post.<br/><br/>
+                    Note: Several of these gunmen killed other people in the hours or days preceding their mass shootings.
+                    </p>
+                </div>
+
+                <!-- comments -->
+                <div id="wp-graphics-comments-wrapper" class="pretty-comments pt10 nomobile">
+                    <div id="echo_container" class="echo_container count submitbox stream comment-vars"
+                             guid=""
+                             maxitemstop="5"
+                             sectionid="/conversations"
+                             isallcomments="true"
+                    >
+                    </div>
+                    <script type="text/javascript">jQuery('#echo_container').attr('guid',jQuery('link[rel=canonical]').eq(0).attr('href'));</script>
+                    <script src="http://js.washingtonpost.com/1d/twp-comments.js"></script>
+                </div>
+                <!-- end comments -->
+            </div>
+            <!-- end left column -->
+
+            <!-- right rail -->
+            <div class="wp-column six end">
+                <div id="right-rail" class="right-rail background nomobile" style="min-height:550px">
+                    <div class="pl10 pr10">
+                        <div id="slug_flex_ss_bb_hp" style="display:none">
+                            <div id="wpni_adi_flex_ss_bb_hp" class="ads slug flex_ss_bb_hp rr">
+                                <script type="text/javascript">if(document.location.href.indexOf('template=ipad') == -1 && document.location.href.indexOf('template=iframe') == -1){ placeAd2(commercialNode,"flex_ss_bb_hp",false,""); }</script>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="module p10">
+                        <!-- search query bulleted list -->
+                        <p class="heading heading2 module-title">Related stories</p>
+                        <div class="module s12 no-border">
+                            <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/graphics/js/site-search-tools.js?130717"></script>
+                            <script type="text/javascript">
+                                jQuery(document).ready(function() {
+                                    try {
+                                        jQuery.queryToUL({
+                                            // custom query is optional, uncomment and customize to override auto-generated query
+                                            // query: 'http://apps.washingtonpost.com/national/proxy/methode/sitesearch/?fq=primarysection:Politics%20source:%22The%20Washington%20Post%22&q=%22obama%22&start=0&rows=8&fl=contenturl,headline,byline,blurb&wt=json&omitHeader=true&json.wrf=storyCallback&tracking=relatedcontent',
+                                            container:'#relatedHeadlines',
+                                            callback: 'storyCallback',
+                                            items: 8, // optional - how many items? 8 is default
+                                            s1: 2   // optional - how many s1 modules on top of bulleted list? 0 is default
+                                        });
+                                    } catch (e) {}
+                                });
+                            </script>
+                            <div id="relatedHeadlines"></div>
+                        </div>
+                        <!-- end search query bulleted list -->
+                    </div>
+                </div>
+            </div>
+            <!-- end right rail -->
+
+            <div class="clear"></div>
+        </div>
+        <!-- end #content -->
+        <div id="footer-v3" class="external nomobile"></div>
+    </div>
+
+    <!-- icanhaz templates -->
+    <script id="panel" type="text/html">
+        <div class="content-panel cf incident-item pt20 pb20">
+            <div class="shooting-content right margin-right">
+                <p class="franklin body ranking left strong">{{ ranking }}</p>
+                <p class="franklin body death-count left strong pl5">{{ deathCount }}</p>
+                <div class="clear"></div>
+                <div class="death-icons cf margin-bottom"></div>
+                <p class="franklin body date-location strong">{{ dateLocation }}</p>
+                <p class="franklin body description">{{ blurb }}</p>
+                <div class="guns-used"></div>
+            </div>
+        </div>
+    </script>
+    <script id="deathCount" type="text/html">
+        <div class="person-icon {{ victimType }}"></div>
+    </script>
+    <script id="gunCount" type="text/html">
+        <div class="gun-icon {{ gunType }}"></div>
+    </script>
+
+    <!-- end #shell -->
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/special/graphics/js/simpletable.js?v28"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/graphics/js/raphael-min.2.1.0.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/special/nation/us-mass-shootings-2012/js/proj4js-compressed.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/special/nation/us-mass-shootings-2012/js/SRORG29.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/special/nation/us-mass-shootings-2012/js/geojson-to-raphael.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/graphics/js/ICanHaz.min.js"></script>
+    <script src="http://js.washingtonpost.com/wp-srv/graphics/js/jquery.cycle.all.min.js"></script>
+    <script src="http://js.washingtonpost.com/wp-srv/graphics/js/twp.module.stepper.js"></script>
+    <script type="text/javascript" src="js/mass-shootings.js?v290"></script>
+    <script type="text/javascript" src="js/map.js?v323"></script>
+
+    <!-- comscore -->
+    <script type="text/javascript" src="http://js.washingtonpost.com/wpost/js/combo?token=20130419104100&c=true&m=true&context=eidos&r=/site_traffic/comscore.js"></script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1" /></noscript>
+
+    <!-- omniture -->
+    <script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=J05531"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wpost/js/combo?c=true&amp;m=false&amp;context=wp-static&amp;r=/ad/audsci.js&amp;r=/js/vendor/quantcast.js"></script>
+    <noscript><img src="http://pixel.quantserve.com/pixel/p-5cYn7dCzvaeyA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
+    <script language="JavaScript" src="http://js.washingtonpost.com/wp-srv/javascript/omniture/omniture-utils.js"></script>
+    <script>try{echoOmniture()}catch(e){}</script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/javascript/placeSiteMetrix.js"></script>
+    <script type="text/javascript">placeSiteMetrix();</script>
+</body>
+</html>

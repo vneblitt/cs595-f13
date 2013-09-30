@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Ask Me Another in Washington DC</title>
+
+<meta name="keywords" content="ticket buy sell tickets events event registration">
+<meta name="description" content="Brown Paper Tickets - The first and only fair trade ticketing company!">
+<meta name="Generator" content="Copyright (c) 2000-2010 Brown Paper Tickets. All rights reserved." />
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<meta name="description" content="NPR&#39;s hour of puzzles, word games and trivia is going on the road to the nation&#39;s capital!" />
+<link rel="image_src" href="/g/e/267587-250.gif" />
+<meta property="og:image" content="/g/e/267587-250.gif"/>
+
+<link rel="stylesheet" type="text/css" href="/defs.css" />
+
+<style type="text/css">
+.loginbox {
+	padding: 20px 40px 15px 15px;
+	left: 15px;
+	top: 0px;
+	position: absolute;
+	background: #efefef;
+	color: #000000;
+	font-weight: bold;
+	z-index: 10;
+	border: 1px solid #d1d2d4;
+}
+
+a.lang, a:link.lang, a:visited.lang, a:active.lang {
+text-decoration: none;
+font-weight: bold; 
+color: #d1d2d4;
+padding: 2px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px; 
+border-radius: 3px;
+} 
+	
+a:hover.lang {
+text-decoration: none;
+font-weight: bold;
+background: #d1d2d4;
+color: #707070;
+padding: 2px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px; 
+border-radius: 3px;
+}
+
+a.lang_sel, a:link.lang_sel, a:visited.lang_sel, a:active.lang_sel {
+text-decoration: none;
+font-weight: bold; 
+color: #ffffff;
+padding: 2px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px; 
+border-radius: 3px;
+} 
+	
+a:hover.lang_sel {
+text-decoration: none;
+font-weight: bold;
+background: #d1d2d4;
+color: #707070;
+padding: 2px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px; 
+border-radius: 3px;
+}
+
+a:link.whiteblue, a:visited.whiteblue, a:active.whiteblue {
+text-decoration: none;
+font-weight: bold; 
+padding: 2px;
+color: #FFFFFF;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px; 
+border-radius: 3px;
+}
+	
+a:hover.whiteblue {
+text-decoration: none;
+font-weight: bold;
+padding: 2px;
+color: #12b7c6;
+background: #efefef;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px; 
+border-radius: 3px;
+}
+
+DIV.menudropdown {
+	margin-top: 0px; 
+	padding: 10px;
+	position: absolute;
+	top: 100%;
+	left: -2px;
+	width: 250px;
+	background: #d9d9d9;
+	border-top: solid #6d6e71 3px;
+	border-left: solid #6d6e71 2px;
+	border-right: solid #6d6e71 2px;
+	border-bottom: solid #6d6e71 2px;
+	color: #000000;
+	font-weight: bold;
+	z-index: 11;
+	visibility: hidden;
+	-webkit-border-bottom-left-radius: 6px; 
+	-webkit-border-bottom-right-radius: 6px;
+	-moz-border-radius: 0px 0px 6px 6px; 
+	border-radius: 0px 0px 6px 6px;
+}
+
+
+a:link.plainblue, a:visited.plainblue, a:active.plainblue {
+	text-decoration: none;
+	font-weight: bold; 
+	color: #12b7c6;
+}
+	
+a:hover.plainblue {
+	text-decoration: underline;
+	font-weight: bold;
+	color: #12b7c6;
+	background: none;
+}
+
+.suggestion_notover_link {
+	background-color: #FFFFFF;
+	padding: 6px;
+}
+
+.suggestion_over_link {
+	background-color: #DBF1F4;
+	padding: 6px;
+	cursor: pointer;
+}
+
+#suggestions {
+	position: absolute;
+	right: 0px;
+	background-color: #FFFFFF; 
+	color: #707070;
+	font-weight: bold;
+	text-align: left;
+	white-space: nowrap;
+	margin: -1px 0px 0px 0px;
+	font-size: 12px;
+	z-index: 1000000;
+	display: none;
+	-moz-box-shadow: 2px 2px 1px 1px #888888;
+	-webkit-box-shadow: 2px 2px 1px 1px #888888;
+	box-shadow: 2px 2px 1px 1px #888888;
+	border: solid #999999 1px;
+}
+
+
+a:link.findcreate, a:visited.findcreate, a:active.findcreate {
+	color: #ffffff;
+	background: #1fbac8;
+	font-size: 12px;
+	display: block;
+	padding: 6px 8px 6px 8px;
+	text-decoration: none;
+	font-weight: bold; 
+	height: 100%;
+}
+	
+a:hover.findcreate {
+	color: #ffffff;
+	background: #1edced; 
+	font-size: 12px;
+	display: block;
+	padding: 6px 8px 6px 8px;
+	text-decoration: none;
+	font-weight: bold; 
+	height: 100%;
+}
+
+</style>
+</head>
+<body   STYLE="padding: 0px; background: #6d6e71;">
+<script src="/scripts.js" type="text/javascript" language="javascript"></script>
+<script src="/jquery/jquery.js" type="text/javascript"></script>
+<div STYLE="z-index: 2000000; width: 100%;">
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+	<TR>
+		<TD STYLE="margin-left: auto; margin-right: auto; background: #58585a;"><TABLE WIDTH=980px CELLPADDING=0 CELLSPACING=0 BORDER=0 STYLE="margin-left: auto; margin-right: auto;">
+			<TR>
+				<TD>&nbsp;</TD>
+					<TD WIDTH=300px VALIGN=CENTER STYLE="background: #58585a; color: #bdbec0; padding: 4px 15px 4px 15px;"><B>View site in <a href="http://www.brownpapertickets.com/setlanguage.html?language=en_US" option value="english" CLASS=lang_sel>English</a>,
+	<a href="http://es.brownpapertickets.com/" option value="spanish" CLASS=lang>Espa&#241;ol</a>, or <a href="http://fr.brownpapertickets.com" option value="french" CLASS=lang>Fran&#231;ais</a></B></TD></TR>
+			</TR></TABLE></TD></TR>
+	<TR>
+		<TD WIDTH=100% STYLE="background: #d1d2d4; border-bottom: solid #b2b4b6 1px;" VALIGN=TOP>
+			<TABLE WIDTH=980px CELLPADDING=0 CELLSPACING=0 BORDER=0 STYLE="margin-left: auto; margin-right: auto;">
+				<TR>
+					<TD HEIGHT=50px ROWSPAN=2 VALIGN=CENTER ALIGN=LEFT WIDTH=195px STYLE="padding-left: 4px;"><A HREF="http://www.brownpapertickets.com" CLASS=plain><IMG SRC="/g/6/BPT_logo_drop_small.png" WIDTH=192px HEIGHT=50px BORDER=0></A></TD>
+					<TD HEIGHT=50px ROWSPAN=2 VALIGN=CENTER STYLE="color: #707070; font-size: 12px;"><B>The fair-trade ticketing company.</B></TD>
+					<TD WIDTH=290px HEIGHT=30px STYLE="background: #12b7c6; padding: 4px 15px 4px 15px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomleft: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-left-radius: 10px; -webkit-border-bottom-right-radius: 10px;" ALIGN=LEFT>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+	<TR>
+		<TD ALIGN=LEFT VALIGN=CENTER>
+			<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+				<TR>
+					<TD VALIGN=CENTER><A HREF="https://www.brownpapertickets.com/join.html" CLASS=whiteblue>Sign Me Up!</A></TD>
+					<TD VALIGN=CENTER><B>&nbsp;|&nbsp;</B></TD>
+					<TD VALIGN=CENTER><A HREF="https://www.brownpapertickets.com/login.html" onClick="showLogin(); document.getElementById('headerlogin').focus(); return false;" CLASS=whiteblue>Log In</A></TD>
+					<TD ALIGN=CENTER VALIGN=CENTER WIDTH=15px><DIV ID=loginarrow STYLE="cursor: pointer;" onClick="showLogin(); return false;"><IMG SRC="/g/smallarrowdown.gif"></DIV></TD></TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+</TD>
+					<TD WIDTH=10px>&nbsp;</TD></TR>
+				<TR>
+					<TD VALIGN=TOP ALIGN=LEFT HEIGHT=30px;><div STYLE="position: relative; width: 290px; background: #ff0000;">
+<div CLASS=loginbox ID=loginbox STYLE="display: none;"> <!--Start login box-->
+<FORM ACTION="https://www.brownpapertickets.com/login.html" ID="header_login_form" METHOD=POST accept-charset="utf-8">
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+	<TR>
+		<TD NOWRAP STYLE="padding-bottom: 8px;"><INPUT TYPE="text" NAME="login_qALxELi33R" VALUE="Email or login" CLASS="small_form_input" ID="headerlogin" AUTOCOMPLETE="off" STYLE="display: inline; width: 175px; border: 1px solid #d1d2d4; color: #707070; font-weight: normal; font-family: Helvetica, Arial, Sans-serif;" onKeydown="if (this.value==this.defaultValue) this.value='';" onBlur="if (this.value=='') this.value=this.defaultValue;"></TD>
+	<TR>
+		<TD NOWRAP NOWRAP STYLE="padding-bottom: 12px;"><INPUT TYPE="text" NAME="not_a_valid_field" VALUE="Password" ID="header_password_plain_text" CLASS="small_form_input" AUTOCOMPLETE="off" STYLE="display: inline; width: 175px; border: 1px solid #d1d2d4; color: #707070; font-weight: normal; font-family: Helvetica, Arial, Sans-serif;" onFocus="showHeaderPassword();">
+<INPUT TYPE="password" NAME="pass_vBnYumxX7Z" ID="header_password_password" CLASS="small_form_input" AUTOCOMPLETE="off" STYLE="display: none; width: 175px; border: 1px solid #d1d2d4; color: #707070; font-weight: normal; font-family: Helvetica, Arial, Sans-serif;" onBlur="hideHeaderPassword();"></TD></TR>
+</TABLE>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+	<TR>
+		<TD STYLE="font-size: 1em; font-weight: bold; margin: 0px;">
+<DIV onClick=" document.getElementById('header_login_form').submit();" CLASS=bluelink><div STYLE="display: none; height: 1px; width: 1px; overflow: hidden;"><INPUT TYPE="submit" VALUE="Submit"></div>Go</div>
+</TD>
+		<TD STYLE="padding-left: 15px;"><A HREF="https://www.brownpapertickets.com/findpassword.html" CLASS=sgr>Forget your login?</A></TD></TR>
+</TABLE>
+</FORM>
+</div>
+</div></TD></TR>
+			</TABLE>
+	</TD></TR>
+</TABLE>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+	<TR>
+		<TD STYLE="background: #ffffff; width: 100%;">
+
+
+<TABLE WIDTH=980px CELLPADDING=0 CELLSPACING=0 BORDER=0 STYLE="margin-left: auto; margin-right: auto;">
+	<TR>
+		<TD ALIGN=RIGHT VALIGN=CENTER STYLE="padding-right: 10px; padding-top: 10px;" border=1><TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+			<TR>
+				<TD NOWRAP>
+					<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+						<TR>
+							<TD VALIGN=CENTER STYLE="height: 100%;"><A HREF="http://www.brownpapertickets.com/browse.html" CLASS=findcreate STYLE="border-right: 1px dotted #efefef;">Find An Event</A></TD>
+							<TD VALIGN=CENTER STYLE="height: 100%;"><A HREF="http://www.brownpapertickets.com/createevent.html" CLASS=findcreate STYLE="border-right: 1px dotted #efefef;">Create Your Event</A></TD>
+							<TD VALIGN=CENTER STYLE="height: 100%;"><A HREF="http://www.brownpapertickets.com/faq.html" CLASS=findcreate>Help</A></TD></TR>
+					</TABLE>
+				</TD>
+				<TD WIDTH=15px>&nbsp;</TD>
+				<TD><FORM ACTION="/browse.html" NAME="search" ID="search" METHOD=POST>
+					<INPUT TYPE="hidden" NAME="formsubmitted" VALUE="1">
+					<INPUT TYPE="hidden" NAME="reset" VALUE="1">
+					<INPUT TYPE="hidden" NAME="secretkeywords" ID="secretkeywords" VALUE="">
+					<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+						<TR>
+							<TD ALIGN=LEFT STYLE="padding: 2px 0px 2px 0px;">
+								<div STYLE="border: 1px solid #999999; padding: 4px; margin: 0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; width: 215px;">
+								<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+									<TR>
+										<TD><input type="text" name="keywords" id="keywords" value="Search events..." onFocus="if (this.value==this.defaultValue) this.value='';" onBlur="if (this.value=='') this.value=this.defaultValue; setTimeout(function(){document.getElementById('suggestions').style.display = 'none';},200);" onkeyup="suggest(this.value)" autocomplete="off" STYLE="background: #ffffff; color: #707070; border: 0; font-weight: bold; font-size: 12px; padding: 0px; height: 14px; width: 100%;" CLASS=nohighlight></TD><TD VALIGN=CENTER ALIGN=RIGHT WIDTH=35px STYLE="padding-right: 5px;"><input type="image" value="Search Events" SRC="/g/6/BPT_mag_glass.png" HEIGHT=14px WIDTH=20px>
+										</TD></TR>
+								</TABLE></div><div STYLE="position: relative;"><DIV ID="suggestions"></DIV></div>
+							
+						</TD></TR>
+					</TABLE>
+				</FORM></TD></TR></TABLE>
+</TD></TR>
+</TABLE>
+</div>
+<div STYLE="width: 100%; height: 4px;"></div>
+
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=980px STYLE="margin-left: auto; margin-right: auto;">
+
+		<TD ALIGN=LEFT VALIGN=TOP STYLE="padding-left: 10px">
+
+<script type="text/javascript">
+if (window.top.location != window.location) {
+	window.top.location = window.location;
+}
+</script>
+
+<script src="/widget.js?event=461107" type="text/javascript" language="javascript"></script>
+<link rel="stylesheet" type="text/css" href="/widget.css" />
+
+<script>
+function insecureRedirect() {
+
+	var spliturl = location.href.split(':');
+
+	if (spliturl[0] == 'https') {
+	
+		location.href = 'http:' + spliturl[1];
+	}
+}
+
+insecureRedirect();
+</script>
+
+
+<STYLE>
+div.bpt_ticket_widget {
+	margin: 0px 8px 5px 0px; 
+}
+
+button.askbutton {
+	font-family: Helvetica, Arial, Sans-serif ;
+	font-size: 12px;
+	border: 0px ;
+	font-weight: bold; 
+	color: #ffffff;
+	background: #12b7c6;
+	padding: 4px 20px 4px 5px;
+	cursor: pointer ;
+}
+
+button.askbutton:hover {
+	font-family: Helvetica, Arial, Sans-serif ;
+	font-size: 12px ;
+	border: 0px ;
+	background: #2099a4;
+	padding: 4px 20px 4px 5px;
+	cursor: pointer ;
+}
+
+.fbshareicon {
+	display: block;
+	width: 32px;
+	height: 32px;
+	background: url('/g/fl/facebook_32.png') bottom;
+	padding-right: 2px;
+	text-decoration: none; 
+	border: 0px;
+}
+.fbshareicon:hover {
+	background: url('/g/6/facebook_32_rollover.png') bottom;
+}
+.twshareicon {
+	display: block;
+	width: 32px;
+	height: 32px;
+	background: url('/g/fl/twitter_32.png') bottom;
+	padding-right: 2px;
+	text-decoration: none; 
+	border: 0px;
+}
+.twshareicon:hover {
+	background: url('/g/6/twitter_32_rollover.png') bottom;
+}
+.lishareicon {
+	display: block;
+	width: 32px;
+	height: 32px;
+	background: url('/g/fl/linkedin_32.png') bottom;
+	text-decoration: none; 
+	border: 0px;
+}
+.lishareicon:hover {
+	background: url('/g/6/linkedin_32_rollover.png') bottom;
+}
+	
+a:link.attendeelink, a:visited.attendeelink, a:active.attendeelink {
+	text-decoration: none;
+	font-weight: bold; 
+	color: #1fbac8;
+	font-size: 12px;
+	display: block;
+}
+	
+a:hover.attendeelink {
+	text-decoration: underline;
+	font-weight: bold;
+	color: #1fbac8;
+	font-size: 12px;
+	display: block;
+}
+
+#dsq-content {
+	background: #d0e4ec !important;
+}
+
+.dsq-comment-body {
+	background: #d0e4ec !important;
+}
+
+.dsq-options {
+	display: none !important;
+}
+
+.dsq-dc-logo {
+	display: none !important;
+}
+
+#dsq-content #dsq-authenticate .dsq-login-buttons {
+	background: none !important;
+	background-image: none !important;
+	margin-bottom: 0 !important;
+}
+
+#dsq-subscribe a {
+	display: none !important;
+}
+
+#dsq-content #dsq-global-toolbar {
+	display: none !important;
+}
+
+#disqus_thread { clear: both !important; }
+
+</STYLE>
+<div class=bpt_preloaded_images><img src="/g/6/facebook_32_rollover.png" /></div>
+<div class=bpt_preloaded_images><img src="/g/6/twitter_32_rollover.png" /></div>
+<div class=bpt_preloaded_images><img src="/g/6/linkedin_32_rollover.png" /></div>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+	<TR>
+		<TD CLASS=newbox>
+			<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+
+			<TR>
+				<TD CLASS=newboxbottom>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+	<TR>
+
+		<TD VALIGN=TOP>
+<!--Main Box Start-->
+<div STYLE="color: #552502; font-size: 18px; font-weight: bold; padding-bottom: 3px;">Ask Me Another in Washington DC</div>
+<div STYLE="color: #707070; font-size: 12px; font-weight: bold; padding-bottom: 5px; line-height: 150%;">NPR Headquarters<BR>Washington, DC</div>
+		</TD>
+		<TD VALIGN=TOP ALIGN=RIGHT>
+			<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+				<TR>
+					<TD CLASS=bpt_share_title_event VALIGN=CENTER NOWRAP><B>Share this event: </B></TD>
+					<TD HEIGHT=32px WIDTH=32px><A HREF="http://www.brownpapertickets.com/sharefacebook.html?e=461107" TITLE="Submit to Facebook!" onClick="window.open('http://www.brownpapertickets.com/sharefacebook.html?e=461107', 'sharefacebook', 'toolbar=no, location=no, directories=no, status=no, menubar=no, copyhistory=no, scrollbars=yes, resizable=yes, width=550, height=500'); return false;" target="sharefacebook" CLASS=fbshareicon></A></TD>
+					<TD HEIGHT=32px WIDTH=32px><A HREF="http://twitter.com/home?status=Check+out+Ask+Me+Another+in+Washington+DC%21+http%3a%2f%2fbpt%2eme%2fe%2f461107" TITLE="Submit to Twitter!" TARGET=_blank CLASS=twshareicon></A></TD>
+					<TD HEIGHT=32px WIDTH=32px><A HREF="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fwww%2ebrownpapertickets%2ecom%2fevent%2f461107&title=Check+out+Ask+Me+Another+in+Washington+DC%2e&source=Brown+Paper+Tickets" TARGET=_blank CLASS=lishareicon></A></TD></TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+	<TR>
+
+		<TD VALIGN=TOP>
+<DIV ID="bpt_eventbody"><DIV CLASS="bpt_ticket_widget">
+<FORM ACTION="http://www.brownpapertickets.com/addtocart/461107" METHOD=POST>
+<INPUT TYPE="hidden" NAME="event_id" VALUE="461107">
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+	<TR>
+		<TD CLASS="bpt_widget_box_top"><TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0><TR><TD CLASS="bpt_widget_box_tab">Get Tickets</TD></TR></TABLE></TD></TR>
+	<TR>
+		<TD CLASS="bpt_widget_box_body">
+
+
+
+<INPUT TYPE="hidden" NAME="date_id" ID="bpt_date_list" VALUE="895402">
+			<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+				<TR>
+					<TD VALIGN=TOP WIDTH=200px><TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0 BORDER=0 CLASS=bpt_widget_price_table>
+						<TR>
+							<TD CLASS=bpt_widget_date_price_titles HEIGHT=20px>Date</TD></TR>
+						<TR>
+							<TD VALIGN=CENTER CLASS=bpt_widget_date><B>Oct 10, 2013 7:00 PM</B>
+</TD></TR>
+
+						</TABLE>
+					</TD>
+					<TD VALIGN=TOP>
+						<DIV STYLE="width: 100%; padding: 0px;">
+<DIV NAME="bpt_widget_date" ID="bpt_date_895402" CLASS="bpt_widget_price_block_first">
+<DIV NAME="bpt_widget_date_waiting" ID="bpt_date_waiting_895402" CLASS="bpt_widget_date_waiting"><BR><BR><BR><IMG SRC="https://www.brownpapertickets.com/g/6/BPT_loading.gif"></DIV>
+<DIV NAME="bpt_widget_date_prices" ID="bpt_date_prices_895402">
+<TABLE WIDTH=100% CELLSPACING=0 CELLSPACING=0 BORDER=0 CLASS=bpt_widget_price_table>
+	<TR>
+		<TD NOWRAP CLASS=bpt_widget_date_price_titles HEIGHT=20px">Admission Level</TD>
+		<TD CLASS=bpt_widget_date_price_titles HEIGHT=20px>Price</TD>
+		
+		<TD CLASS=bpt_widget_date_price_titles ALIGN=CENTER HEIGHT=20px>Quantity</TD></TR>
+	<TR>
+		<TD CLASS=bpt_widget_price_border VALIGN=CENTER><B>General</B></TD>
+		<TD CLASS=bpt_widget_price_border VALIGN=CENTER>&#36;15.00  (&#36;16.52 w/service fee)</TD>
+		
+		<TD CLASS=bpt_widget_price_border VALIGN=CENTER ALIGN=RIGHT><SELECT NAME="price_2570629" CLASS=bpt_widget_input><OPTION VALUE="0">0</OPTION>
+<OPTION VALUE="1" >1</OPTION>
+<OPTION VALUE="2" >2</OPTION>
+</SELECT></TD></TR>
+
+</TABLE>
+</DIV>
+</DIV>
+						</DIV>
+					</TD>
+				<TR>
+				<TR>
+					<TD>&nbsp;</TD>
+					<TD>
+						<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0 BORDER=0 CLASS=bpt_widget_price_table>
+							<TR>
+								<TD VALIGN=CENTER NOWRAP><div CLASS="bpt_widget_widget_delivery_title">Delivery</div></TD></TR>
+							<TR>
+								<TD VALIGN=CENTER> <DIV STYLE="float: left;" ID="bpt_delivery_title">(<SPAN ID="bpt_current_country_name">United States</SPAN> - <A HREF="http://www.brownpapertickets.com/event/461107?change_country=1&show_widget=1" CLASS=bpt_widget_small_a>Change Country</A>)</DIV><INPUT TYPE="hidden" NAME="country_id" ID="country_id" VALUE="228"></TD></TR>
+							<TR>
+								<TD VALIGN=CENTER><DIV ID="bpt_shippingoptions"><DIV ID="bpt_shipping_divs_895402" STYLE="position: relative; display: inline;"><SELECT ID="shipping_select_895402" NAME="shipping_895402" CLASS=bpt_input><OPTION VALUE="4">Will-Call (No additional fee!)</OPTION>
+</SELECT></DIV>
+</DIV></TD>
+							</TR>
+						</TABLE>
+					</TD>
+				</TR>
+			</TABLE>
+		
+		</TD></TR>
+		
+		<TR>
+			<TD CLASS="bpt_widget_box_bottom">
+		
+		
+		<TABLE WIDTH=100%>
+			<TR>
+				<TD ALIGN=RIGHT><TABLE><TR><TD VALIGN=BOTTOM><TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 CLASS=paymentoptions><TR><TD><IMG SRC="https://www.brownpapertickets.com/g/6/visa_icon.png" HEIGHT=11px WIDTH=31px /></TD><TD><IMG SRC="https://www.brownpapertickets.com/g/6/mc_icon.png" HEIGHT=23px WIDTH=37px /></TD><TD><IMG SRC="https://www.brownpapertickets.com/g/6/discover_icon.png" HEIGHT=20px WIDTH=35px /></TD><TD><IMG SRC="https://www.brownpapertickets.com/g/6/amex_icon.png" HEIGHT=17px WIDTH=54px /></TD></TR></TABLE></TD><TD>&nbsp;</TD><TD>
+<div class=bpt_preloaded_images><img src="http://www.brownpapertickets.com/g/6/BPT_button_bottom_rollover.png" /></div>
+<table cellpadding=0 cellspacing=0 border=0>
+	<tr>
+		<td NOWRAP><BUTTON TYPE="submit"  CLASS=bpt_orangebutton>Add to Cart</BUTTON></td>
+	</tr>
+</table>
+</TD></TR></TABLE></TD></TR>
+
+		</TABLE>
+</TD></TR>
+</TABLE>
+</FORM>
+</DIV>
+<STYLE>
+.paymentoptions td {
+padding: 0px 15px 0px 0px;
+}
+</STYLE>
+</DIV>
+<BR>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+	<TR>
+<TD STYLE="padding-right: 15px;" WIDTH=225px VALIGN=TOP><CENTER><TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0><TR><TD VALIGN=BOTTOM><IMG SRC="/g/e/267587-250.gif"><BR></TD></TR></TABLE></CENTER></TD>
+
+		<TD VALIGN=TOP STYLE="color: #777777; font-family: Helvetica, Arial, Sans-serif;"><div STYLE="width: 100%; border-bottom: solid 1px #eceded; padding-bottom 5px;"><H1 STYLE="padding-bottom: 5px; color: #552502;">Event</H1></div>
+<div STYLE="color: #dd7727; font-size: 12px; font-weight: bold; padding-top: 5px; padding-bottom: 10px;">Ask Me Another in Washington DC</div>
+Puzzlemaster Will Shortz and Wait Wait... Don't Tell Me! host Peter Sagal walk into a bar... <BR><BR>No, it's not the start of a joke. It's the essence of Ask Me Another, NPR and WNYC's rambunctious hour that blends brainteasers and local pub trivia night with comedy and music. Host Ophira Eisenberg invites in-studio guests and listeners alike to stretch their noggins, tickle their funny bones, and enjoy witty banter and guitar riffs from house musician Jonathan Coulton.<BR><BR>Join Ask Me Another LIVE as we take the show on the road to our nation's capital - Washington, DC!<BR><BR>On Thursday, October 10th, join Ophira, Jonathan and special guests at NPR's Studio 1, located at 1111 North Capitol St., NE. Come check out the new performance space at NPR's new building.<BR><BR>Doors at 6PM<BR><BR>Event starts at 7PM<BR><BR>Tickets are $15.00. An additional $1.52 facility fee will be added to the price of each ticket.<BR><BR>Following the show, Ophira will be signing copies of her book Screw Everyone: Sleeping My Way to Monogamy. Jonathan will also be signing copies of his most recent albums. All items will be available for purchase in the NPR Shop before and after the show.<BR><BR>--<BR><BR>Metro Directions<BR><BR>Take the Red Line Metro to the Noma-Gallaudet U (New York Ave) Metro Station. Take the South exit from the Metro (M Street) and walk West up M Street to North Capitol Street. Talk a LEFT on North Capitol Street and walk two blocks south to the corner of North Capitol Street and L Street. NPR will be located on the left-hand side.<BR><BR><BR>NPR Event Parking Lot<BR><BR>The NPR Event Parking Lot is located on the south side of L Street NE, east of North Capitol Street and across the street from the main NPR entrance. The lot is fenced in with two black NPR Event Parking banners located on the fence. All guests arriving before 6pm must notify the parking attendant that they are attending the NPR Event. Guests arriving after 6pm will not need to see the parking attendant. The gate to the lot will remain open throughout the event and parking is free of charge.
+</TD></TR>
+</TABLE>
+
+<BR><H1 STYLE="padding-bottom: 5px; color: #552502;">Discussion</H1>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%><TR><TD STYLE="padding: 10px 20px 10px 15px; background: #d0e4ec; -webkit-border-radius: 18px; -moz-border-radius: 18px; border-radius: 18px;">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_config = function () {
+
+    // The generated payload which authenticates users with Disqus
+    this.page.remote_auth_s3 = 'e30= 98bcfe1a8f0d2c9fedbdd5582ef7c844ee67be91 1380547727';
+    this.page.api_key = 'kEKtIJuARTa9QWhR2IxLZOcuXOdJJa74a9QO6aRIJDMItS1QKFJHbWmY4ihWAWod';
+    this.sso = {
+          name:   "BPT",
+          button:  "http://www.brownpapertickets.com/g/6/BPT_disqussignin.png",
+          icon:     "http://www.brownpapertickets.com/favicon.ico",
+          url:        "https://www.brownpapertickets.com/disquslogin.html",
+          logout:  "https://www.brownpapertickets.com/disquslogout.html?event=461107",
+          width:   "600",
+          height:  "700"
+    };
+    this.language = "en";
+};
+
+    var disqus_shortname = 'brownpapertickets';
+    var disqus_url = 'http://www.brownpapertickets.com/event/461107';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+</TD></TR>
+</TABLE>
+<!--Main Box End-->
+		</TD>
+		<TD WIDTH=15px><IMG SRC="/g/6/BPT_empty_px.png" WIDTH=15px></TD>
+		<TD VALIGN=TOP WIDTH=225px>
+<!--Side Box Start-->
+
+<H1 STYLE="padding-bottom: 5px; padding-top: 10px; color: #552502; border-bottom: solid 1px #eceded;">Location</H1><div STYLE="padding-top: 5px; color: #777777; font-family: Helvetica, Arial, Sans-serif;"><FONT STYLE="color: #dd7727; font-weight: bold;">NPR Headquarters</FONT> <A HREF="http://www.brownpapertickets.com/venue/172517" STYLE="font-size: 10px;">(View)</A><BR>
+1111 North Capitol St., NE<BR>
+Washington, DC 20002<BR>
+United States</div>
+<BR>
+
+<IFRAME SRC="/eventmap/461107" HEIGHT=245px WIDTH=225px frameborder="0" border="0" cellspacing="0" scrolling="no" horizontalscrolling="no" verticalscrolling="no" STYLE="border:0px; overflow-x: hidden; overflow-y: hidden; background: #ffffff;"></IFRAME>
+<BR>
+<H1 STYLE="padding-top: 20px; padding-bottom: 5px; color: #552502; border-bottom: solid 1px #eceded;">Categories</H1><div STYLE="padding-top: 5px; color: #777777; font-weight: bold;">
+<TABLE>
+<TR>
+		<TD><A HREF="http://www.brownpapertickets.com/browse.html?category_id=100009">Comedy</A> &gt; <A HREF="http://www.brownpapertickets.com/browse.html?category_id=200051">Other</A></TD></TR>
+</TABLE>
+<BR><TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+	<TR>
+		<TD>
+<TABLE>
+	<TR>
+		<TD STYLE="font-weight: normal; font-family: Helvetica, Arial, Sans-serif;"><B>Kid Friendly:</B> Yes!</TD></TR>	<TR>
+		<TD STYLE="font-weight: normal; font-family: Helvetica, Arial, Sans-serif;"><B>Dog Friendly:</B> No</TD></TR>	<TR>
+		<TD STYLE="font-weight: normal; font-family: Helvetica, Arial, Sans-serif;"><B>Non-Smoking:</B> Yes!</TD></TR>	<TR>
+		<TD STYLE="font-weight: normal; font-family: Helvetica, Arial, Sans-serif;"><B>Wheelchair Accessible:</B> Yes!</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</div>
+<H1 STYLE="padding-top: 20px; padding-bottom: 5px; color: #552502; border-bottom: solid 1px #eceded;">Contact</H1><div STYLE="padding-top: 5px; color: #777777; font-weight: bold;">
+<TABLE><TR><TD><TABLE CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD STYLE="font-weight: normal; font-family: Helvetica, Arial, Sans-serif;"><B>Owner:</B> <A HREF="http://www.brownpapertickets.com/producer/102568">NPR</A></TD></TR>
+	<TR>
+		<TD NOWRAP STYLE="font-weight: normal; font-family: Helvetica, Arial, Sans-serif;"><B>On BPT Since:</B> Oct 04, 2011</TD></TR>
+ <TR>
+		<TD>&nbsp;</TD></TR>
+	<TR>
+		<TD STYLE="font-family: Helvetica, Arial, Sans-serif;"><B>Ask Me Another</TD></TR>
+	<TR>
+		<TD STYLE="font-family: Helvetica, Arial, Sans-serif;"><B><A HREF="mailto:askmeanother@npr.org">askmeanother@npr.org</A></TD></TR>
+	<TR>
+		<TD STYLE="font-family: Helvetica, Arial, Sans-serif;"><A HREF="http://askmeanother.npr.org">http://askmeanother.npr.or...</A></TD></TR>
+
+ <TR>
+		<TD>&nbsp;</TD></TR>
+	<TR>
+		<TD><A HREF="http://twitter.com/NPRAskMeAnother" CLASS=plain><IMG SRC="/g/6/BPT_twitter_wide.png" HEIGHT=20px WIDTH=74px BORDER=0></A></TD></TR>
+	<TR>
+		<TD><A HREF="http://facebook.com/npraskmeanother" CLASS=plain><IMG SRC="/g/6/BPT_facebook_wide.png" HEIGHT=20px WIDTH=74px BORDER=0></A></TD></TR>
+
+
+</TABLE></TD></TR></TABLE>
+
+<BR>
+<FORM ACTION="/event/461107" METHOD=POST accept-charset="utf-8">
+<TABLE>
+	<TR>
+		<TD><TEXTAREA NAME="question" COLS=20 ROWS=3 onFocus="if (this.value==this.defaultValue) this.value='';" onBlur="if (this.value=='') this.value=this.defaultValue;">Ask a question...</TEXTAREA></TD></TR>
+	<TR>
+		<TD><BUTTON CLASS=askbutton>Ask!</BUTTON></TD></TR>
+</TABLE>
+</FORM>
+</div>
+
+<H1 STYLE="padding-top: 20px; padding-bottom: 5px; color: #552502; border-bottom: solid 1px #eceded;">Remind Me</H1><div STYLE="padding-top: 5px; color: #666666; font-weight: bold;">
+<INPUT TYPE="hidden" NAME="e_id" VALUE="461107">
+
+<TABLE>
+	<TR>
+		<TD STYLE="font-family: Helvetica, Arial, Sans-serif;"><B>Outlook/iCal/Sunbird</B></TD></TR>
+	<TR>
+		<TD><FORM><BUTTON onClick="parent.location='http://www.brownpapertickets.com/icalevent/461107-BPT.ics'; return false;" CLASS=askbutton>Add to Calendar</BUTTON></FORM></TD></TR>
+</TABLE><BR>
+<TABLE>
+	<TR>
+		<TD STYLE="font-family: Helvetica, Arial, Sans-serif;">
+<FORM ACTION="http://www.google.com/calendar/event" METHOD=GET accept-charset="utf-8">
+<INPUT TYPE="hidden" NAME="action" VALUE="TEMPLATE">
+<INPUT TYPE="hidden" NAME="text" VALUE="Ask Me Another in Washington DC">
+<INPUT TYPE="hidden" NAME="details" VALUE="NPR&#39;s hour of puzzles, word games and trivia is going on the road to the nation&#39;s capital!">
+<INPUT TYPE="hidden" NAME="location" VALUE="NPR Headquarters 1111 North Capitol St., NE, Washington, DC 20002 United States">
+<INPUT TYPE="hidden" NAME="trp" VALUE="false">
+<INPUT TYPE="hidden" NAME="sprop" VALUE="website:http://www.brownpapertickets.com/event/461107">
+Google Calendar
+<INPUT TYPE="hidden" NAME="dates" VALUE="20131010T230000Z/20131011T010000Z">
+<div STYLE="padding-top: 2px;"></div></TD>
+	<TR>
+		<TD STYLE="font-family: Helvetica, Arial, Sans-serif;"><BUTTON CLASS=askbutton>Post to Google</BUTTON></TD></TR>
+</TABLE><BR>
+</FORM>
+<FORM ACTION="http://www.brownpapertickets.com/event/461107" METHOD=POST accept-charset="utf-8">
+<INPUT TYPE="hidden" NAME="e_id" VALUE="461107">
+<INPUT TYPE="hidden" NAME="setremind" VALUE="1">
+<TABLE>
+	<TR>
+		<TD STYLE="font-family: Helvetica, Arial, Sans-serif;"><B>Email me <SELECT NAME="remind">
+<OPTION VALUE="1" >1</OPTION>
+<OPTION VALUE="2" >2</OPTION>
+<OPTION VALUE="3" >3</OPTION>
+<OPTION VALUE="4" >4</OPTION>
+<OPTION VALUE="5" >5</OPTION>
+<OPTION VALUE="6" >6</OPTION>
+<OPTION VALUE="7" SELECTED>7</OPTION>
+<OPTION VALUE="8" >8</OPTION>
+<OPTION VALUE="9" >9</OPTION>
+<OPTION VALUE="10" >10</OPTION>
+<OPTION VALUE="11" >11</OPTION>
+<OPTION VALUE="12" >12</OPTION>
+<OPTION VALUE="13" >13</OPTION>
+<OPTION VALUE="14" >14</OPTION>
+<OPTION VALUE="15" >15</OPTION>
+<OPTION VALUE="16" >16</OPTION>
+<OPTION VALUE="17" >17</OPTION>
+<OPTION VALUE="18" >18</OPTION>
+<OPTION VALUE="19" >19</OPTION>
+<OPTION VALUE="20" >20</OPTION>
+<OPTION VALUE="21" >21</OPTION>
+<OPTION VALUE="22" >22</OPTION>
+<OPTION VALUE="23" >23</OPTION>
+<OPTION VALUE="24" >24</OPTION>
+<OPTION VALUE="25" >25</OPTION>
+<OPTION VALUE="26" >26</OPTION>
+<OPTION VALUE="27" >27</OPTION>
+<OPTION VALUE="28" >28</OPTION>
+<OPTION VALUE="29" >29</OPTION>
+<OPTION VALUE="30" >30</OPTION>
+<OPTION VALUE="31" >31</OPTION>
+<OPTION VALUE="32" >32</OPTION>
+<OPTION VALUE="33" >33</OPTION>
+<OPTION VALUE="34" >34</OPTION>
+<OPTION VALUE="35" >35</OPTION>
+<OPTION VALUE="36" >36</OPTION>
+<OPTION VALUE="37" >37</OPTION>
+<OPTION VALUE="38" >38</OPTION>
+<OPTION VALUE="39" >39</OPTION>
+<OPTION VALUE="40" >40</OPTION>
+<OPTION VALUE="41" >41</OPTION>
+<OPTION VALUE="42" >42</OPTION>
+<OPTION VALUE="43" >43</OPTION>
+<OPTION VALUE="44" >44</OPTION>
+<OPTION VALUE="45" >45</OPTION>
+<OPTION VALUE="46" >46</OPTION>
+<OPTION VALUE="47" >47</OPTION>
+<OPTION VALUE="48" >48</OPTION>
+<OPTION VALUE="49" >49</OPTION>
+<OPTION VALUE="50" >50</OPTION>
+<OPTION VALUE="51" >51</OPTION>
+<OPTION VALUE="52" >52</OPTION>
+<OPTION VALUE="53" >53</OPTION>
+<OPTION VALUE="54" >54</OPTION>
+<OPTION VALUE="55" >55</OPTION>
+<OPTION VALUE="56" >56</OPTION>
+<OPTION VALUE="57" >57</OPTION>
+<OPTION VALUE="58" >58</OPTION>
+<OPTION VALUE="59" >59</OPTION>
+<OPTION VALUE="60" >60</OPTION>
+
+</SELECT> days before.
+<INPUT TYPE="hidden" NAME="start_date" VALUE="895402"></B></TD>
+	<TR>
+		<TD><BUTTON CLASS=askbutton>Save Reminder</BUTTON></TD></TR>
+</TABLE>
+</FORM>
+</div>
+
+
+<!--Side Box End-->
+
+</TD></TR>
+</TABLE>	
+<!--body end-->
+</TD></TR>
+			</TABLE>
+	</TD></TR>
+</TABLE>
+<BR>
+
+
+</TD></TR>
+</TABLE>
+</CENTER>
+<div STYLE="border-top: 1px solid #707070; height: 2px; width: 100%;"></div>
+</TD></TR>
+</TABLE>
+</DIV>
+<div STYLE="width: 100%; background: #58585a;">
+<CENTER>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=980px>
+	<TR>
+		<TD VALIGN=TOP STYLE="padding: 15px 0px 25px 25px;"><TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			<TR>
+				<TD ALIGN=LEFT STYLE="font-size: 18px; color: #dd7727; font-weight: bold; padding-bottom: 10px; border-bottom: dashed #eceded 1px; font-family: Helvetica, Arial, Sans-serif;">Contact us</TD></TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="padding-top: 10px; color: #a7a9ac; font-weight: bold; line-height: 20px; height: 20px;">Email</TD></TR>
+			<TR>
+				<TD ALIGN=LEFT><A HREF="mailto:support@brownpapertickets.com" CLASS=footerblue>support@brownpapertickets.com</A></TD></TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="padding-top: 10px; color: #a7a9ac; font-weight: bold;">24/7 Customer Service</TD></TR>
+			<TR>
+				<TD ALIGN=LEFT NOWRAP STYLE="color: #eceded; height: 20px;" VALIGN=CENTER><SPAN STYLE="color: #ffffff; font-weight: bold;">1-800-838-3006</SPAN> US, Canada, Puerto Rico</TD></TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="font-size: 18px; color: #dd7727; font-weight: bold; padding-top: 15px; padding-bottom: 10px; border-bottom: dashed #eceded 1px;">Resources</TD></TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="padding-top: 10px;"><a href="/apidocs/index.html" CLASS=footerblue STYLE="display: block;">Developer Center</a></TD></TR>
+			<TR>
+				<TD ALIGN=LEFT><a href="/media.html" CLASS=footerblue STYLE="display: block;">Media Center</a></TD></TR>
+			</TABLE>
+		</TD>
+		<TD VALIGN=TOP STYLE="padding: 15px 0px 15px 15px;"><TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			<TR>
+				<TD ALIGN=LEFT STYLE="font-size: 18px; color: #dd7727; font-weight: bold; padding-bottom: 10px; border-bottom: dashed #eceded 1px; font-family: Helvetica, Arial, Sans-serif;">Ticket Buyers</TD></TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="padding-top: 10px;"><a href="/trackorder.html" CLASS=footerblue STYLE="display: block;">Track Your Order</a></TD></TR>
+			<TR>
+				<TD ALIGN=LEFT><a href="/browse.html" CLASS=footerblue STYLE="display: block;">Browse Events</a></TD></TR>
+			<TR>
+				<TD ALIGN=LEFT><a href="/locations.html" CLASS=footerblue STYLE="display: block;">Locations</a></TD></TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="font-size: 18px; color: #dd7727; font-weight: bold; padding-top: 15px; padding-bottom: 10px; border-bottom: dashed #eceded 1px;">Event Producers</TD></TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="padding-top: 10px; color: #552502; font-weight: bold;"><a href="/createevent.html" CLASS=footerblue STYLE="display: block;">Create an Event</a></TD></TR>
+			<TR>
+				<TD ALIGN=LEFT><a href="http://www.brownpapertickets.com/pricing.html" CLASS=footerblue STYLE="display: block;">Pricing</a></TD></TD></TR>
+			<TR>
+				<TD ALIGN=LEFT><a href="http://www.brownpapertickets.com/services.html" CLASS=footerblue STYLE="display: block;">Services</a></TD></TD></TR>
+			<TR>
+				<TD ALIGN=LEFT><a href="http://www.brownpapertickets.com/bulk/index.html" CLASS=footerblue STYLE="display: block;">Buy Pre-Printed Tickets</a></TD></TD></TR>
+			<TR>
+				<TD ALIGN=LEFT><a href="http://www.brownpapertickets.com/venues.html" CLASS=footerblue STYLE="display: block;">The Venue List</a></TD></TD></TR>
+			</TABLE>
+		</TD>
+		<TD VALIGN=TOP STYLE="padding: 15px 0px 15px 15px;"><FORM ACTION="https://www.brownpapertickets.com/mailinglist.html" METHOD=POST><INPUT TYPE="hidden" NAME="final" VALUE="1"><INPUT TYPE="hidden" NAME="daily" VALUE="d"><INPUT TYPE="hidden" NAME="location" VALUE="z"><INPUT TYPE="hidden" NAME="type" VALUE="n"><TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+			<TR>
+				<TD COLSPAN=2 ALIGN=LEFT STYLE="font-size: 18px; color: #dd7727; font-weight: bold; padding-bottom: 10px; border-bottom: dashed #eceded 1px; font-family: Helvetica, Arial, Sans-serif;">Join the mailing list</TD></TR>
+			<TR>
+				<TD ALIGN=LEFT><TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+					<TR>
+						<TD ALIGN=LEFT STYLE="color: #eceded; padding-top: 10px; max-width: 250px; font-size: 10px;">Get spam-free daily notifications of new events in your neighborhood!</TD></TR>
+					<TR>
+						<TD ALIGN=LEFT STYLE="padding-top: 20px;"><INPUT TYPE="text" NAME="email" VALUE="Your email address" SIZE=25 STYLE="color: #12b7c6; font-weight: bold;" onFocus="if (this.value==this.defaultValue) this.value='';" onBlur="if (this.value=='') this.value=this.defaultValue;"></TD></TR>
+					</TABLE>
+					<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+					<TR>
+						<TD ALIGN=LEFT STYLE="padding-top: 5px;"><INPUT TYPE="text" NAME="zip" VALUE="ZIP/Post Code" SIZE=15 STYLE="color: #12b7c6; font-weight: bold;" onFocus="if (this.value==this.defaultValue) this.value='';" onBlur="if (this.value=='') this.value=this.defaultValue;"></TD>
+				<TD STYLE="padding-top: 5px; padding-left: 5px;">
+<table cellpadding=0 cellspacing=0 border=0>
+	<tr>
+		<td NOWRAP><BUTTON TYPE="submit"  CLASS=bpt_flatorangebutton>Join!</BUTTON></td>
+	</tr>
+</table>
+</TD></TR>
+					</TABLE>
+				</TD>
+			</TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="padding-top: 15px;"><A HREF="/mailinglist.html" CLASS=footerblue>Customize your mailing list</A></TD></TR>
+			</TABLE></FORM>
+		</TD>
+		<TD VALIGN=TOP WIDTH=200px ALIGN=RIGHT STYLE="padding: 15px 25px 15px 15px;"><TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+			<TR>
+				<TD ALIGN=LEFT COLSPAN=2 ALIGN=LEFT STYLE="font-size: 18px; color: #dd7727; font-weight: bold; padding-bottom: 10px; border-bottom: dashed #eceded 1px; font-family: Helvetica, Arial, Sans-serif;">Connect with us</TD></TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="padding-top: 10px;">
+					<div STYLE="background: #6d6e71; width: 200px; height: 30px;" onMouseOver="this.style.background='#efefef';" onMouseOut="this.style.background='#6d6e71';">
+						<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+							<TR>
+								<TD ALIGN=LEFT STYLE="background: #58585a;" HEIGHT=30px WIDTH=30px;>
+									<A HREF="http://www.brownpapertickets.com/followfacebook.html" CLASS=plain STYLE="display: block;"><IMG SRC="/g/6/BPT_footer_facebook.png" BORDER=0></A>
+								</TD>
+								<TD ALIGN=LEFT HEIGHT=30px VALIGN=CENTER>
+									<A HREF="http://www.brownpapertickets.com/followfacebook.html" CLASS=plain STYLE="display: block; line-height: 30px; height: 30px; padding-left: 10px; font-family: Helvetica, Arial, Sans-serif;">Friend us on Facebook</A>
+								</TD>
+							</TR>
+						</TABLE>
+					</div>
+				</TD>
+			</TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="padding-top: 4px;">
+					<div STYLE="background: #6d6e71; width: 200px; height: 30px;" onMouseOver="this.style.background='#efefef';" onMouseOut="this.style.background='#6d6e71';">
+						<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+							<TR>
+								<TD ALIGN=LEFT STYLE="background: #58585a;" HEIGHT=30px WIDTH=30px;>
+									<A HREF="http://www.brownpapertickets.com/followtwitter.html" CLASS=plain STYLE="display: block;"><IMG SRC="/g/6/BPT_footer_twitter.png" BORDER=0></A>
+								</TD>
+								<TD ALIGN=LEFT HEIGHT=30px VALIGN=CENTER>
+									<A HREF="http://www.brownpapertickets.com/followtwitter.html" CLASS=plain STYLE="display: block; line-height: 30px; height: 30px; padding-left: 10px; font-family: Helvetica, Arial, Sans-serif;">Follow us on Twitter</A>
+								</TD>
+							</TR>
+						</TABLE>
+					</div>
+				</TD>
+			</TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="padding-top: 4px;">
+					<div STYLE="background: #6d6e71; width: 200px; height: 30px;" onMouseOver="this.style.background='#efefef';" onMouseOut="this.style.background='#6d6e71';">
+						<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+							<TR>
+								<TD ALIGN=LEFT STYLE="background: #58585a;" HEIGHT=30px WIDTH=30px;>
+									<A HREF="http://www.brownpapertickets.com/followyoutube.html" CLASS=plain STYLE="display: block;"><IMG SRC="/g/6/BPT_footer_youtube.png" BORDER=0></A>
+								</TD>
+								<TD ALIGN=LEFT HEIGHT=30px VALIGN=CENTER>
+									<A HREF="http://www.brownpapertickets.com/followyoutube.html" CLASS=plain STYLE="display: block; line-height: 30px; height: 30px; padding-left: 10px; font-family: Helvetica, Arial, Sans-serif;">Watch us on YouTube</A>
+								</TD>
+							</TR>
+						</TABLE>
+					</div>
+				</TD>
+			</TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="padding-top: 4px;">
+					<div STYLE="background: #6d6e71; width: 200px; height: 30px;" onMouseOver="this.style.background='#efefef';" onMouseOut="this.style.background='#6d6e71';">
+						<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+							<TR>
+								<TD ALIGN=LEFT STYLE="background: #58585a;" HEIGHT=30px WIDTH=30px;>
+									<A HREF="http://community.brownpapertickets.com/wp/" CLASS=plain STYLE="display: block;"><IMG SRC="/g/6/BPT_footer_rss.png" BORDER=0></A>
+								</TD>
+								<TD ALIGN=LEFT HEIGHT=30px VALIGN=CENTER>
+									<A HREF="http://community.brownpapertickets.com/wp/" CLASS=plain STYLE="display: block; line-height: 30px; height: 30px; padding-left: 10px; font-family: Helvetica, Arial, Sans-serif;">Read our blog</A>
+								</TD>
+							</TR>
+						</TABLE>
+					</div>
+				</TD>
+			</TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="padding-top: 4px;">
+					<div STYLE="background: #6d6e71; width: 200px; height: 30px;" onMouseOver="this.style.background='#efefef';" onMouseOut="this.style.background='#6d6e71';">
+						<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+							<TR>
+								<TD ALIGN=LEFT STYLE="background: #58585a;" HEIGHT=30px WIDTH=30px;>
+									<A HREF="http://www.brownpapertickets.com/aboutus.html" CLASS=plain STYLE="display: block;"><IMG SRC="/g/6/BPT_footer_meet.png" BORDER=0></A>
+								</TD>
+								<TD ALIGN=LEFT HEIGHT=30px VALIGN=CENTER>
+									<A HREF="http://www.brownpapertickets.com/aboutus.html" CLASS=plain STYLE="display: block; line-height: 30px; height: 30px; padding-left: 10px; font-family: Helvetica, Arial, Sans-serif;">Get to know us</A>
+								</TD>
+							</TR>
+						</TABLE>
+					</div>
+				</TD>
+			</TR>
+			<TR>
+				<TD ALIGN=LEFT STYLE="padding-top: 4px;">
+					<div STYLE="background: #6d6e71; width: 200px; height: 30px;" onMouseOver="this.style.background='#efefef';" onMouseOut="this.style.background='#6d6e71';">
+						<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+							<TR>
+								<TD ALIGN=LEFT STYLE="background: #58585a;" HEIGHT=30px WIDTH=30px;>
+									<A HREF="http://community.brownpapertickets.com/Doers" CLASS=plain STYLE="display: block;"><IMG SRC="/g/6/BPT_footer_doers.png" BORDER=0></A>
+								</TD>
+								<TD ALIGN=LEFT HEIGHT=30px VALIGN=CENTER>
+									<A HREF="http://community.brownpapertickets.com/Doers" CLASS=plain STYLE="display: block; line-height: 30px; height: 30px; padding-left: 10px; font-family: Helvetica, Arial, Sans-serif;">Meet the Doers</A>
+								</TD>
+							</TR>
+						</TABLE>
+					</div>
+				</TD>
+			</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+</CENTER>
+</div>
+<CENTER>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=980px>
+	<TR>
+		<TD VALIGN=CENTER ALIGN=LEFT STYLE="color: #eceded; padding-left: 25px; height: 40px; font-size: 10px;">Use of Brown Paper Tickets is subject to our <A HREF="/legal.html" target="legal" ONCLICK="window.open(&#39;http://www.brownpapertickets.com/legal.html&#39;, &#39;legal&#39;, &#39;toolbar=no, location=no, directories=no, status=no, menubar=no, copyhistory=no, scrollbars=yes, resizable=yes, width=550, height=400&#39;)" STYLE="font-size: 10px;">Terms &amp; Conditions</A>.  All rights reserved.  &copy; 2011-2012</TD>
+		<TD VALIGN=CENTER ALIGN=RIGHT STYLE="padding-right: 25px;"><A HREF="http://m.bpt.me" STYLE="margin-right: 20px;" CLASS=footerlang>Mobile</A> <A HREF="http://www.brownpapertickets.com/setlanguage.html?language=en_US" CLASS=footerlangsel>EN</A> <A HREF="http://es.brownpapertickets.com" CLASS=footerlang>ES</A> <A HREF="http://fr.brownpapertickets.com" CLASS=footerlang>FR</A></TD></TR>
+</TABLE>
+</CENTER>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.brownpapertickets.com/piwik/" : "http://stats.brownpapertickets.com/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="https://stats.brownpapertickets.com/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+</body>
+</html>
+

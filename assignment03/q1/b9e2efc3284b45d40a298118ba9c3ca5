@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The Library of Congress Shop > Books & Media&nbsp;>&nbsp;Book Festival</title>
+<meta http-equiv="Content-Language" content="en-us" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta name="keywords" content="library shop store congress prints clothing posters maps photographs music games puzzles cards journals stationary books documents jewelry" />
+<meta name="description" content="Library of Congress Shop" />
+
+<style type="text/css">
+@import url(ss/lcstore_results_ss.css);
+</style>
+<meta name="google-site-verification" content="ebu7cTCSzaCIGC9O5_7aP7l8IbsXSEHbVKJs0eaapKo" />
+</head>
+
+<!--stopindex-->
+<body><a id="skip" href="#page_content">&nbsp;</a>
+
+<div id="container">
+
+<!-- 
+
+<div id="topnav">
+    <ul id="menu">
+      <li id="logo_lc" title="The Library of Congress"><a href="http://www.loc.gov/"></a></li> 
+	  <li id="logo" title="SHOP"><a href="http://www.loc.gov/"></a></li>
+	 <li id="searchmenu"><img src='images/home_on.gif' alt='Shop Home' width='16' height='13' />&nbsp;<span>Shop Home</span>&nbsp;|&nbsp;<img src='images/cart_icon.gif' alt='View Cart' width='16' height='13' />&nbsp;<a href='http://order.store.yahoo.net/cgi-bin/wg-order?locshop'>View Cart</a>&nbsp;|&nbsp;
+      <img src='images/contact_icon.gif' alt='Contact' width='16' height='13' />&nbsp;<a href='index.php?action=cMain.showContact&amp;PHPSESSID=c585350084ebaa1a49bda838dd23e361&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Contact</a></li>
+    </ul>
+  </div>
+
+-->
+
+  <div id="topnav">
+  
+	<ul id="menu">
+    	<li id="logo_lc" title="The Library of Congress"><a href="http://www.loc.gov/"></a></li> 
+		<li id="logo" title="SHOP"><a href="index.php?action=cMain.showHome&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5"></a></li>
+		<li id="searchmenu">
+<img src='images/home_icon.gif' alt='Shop Home' width='16' height='13' />&nbsp;<a href='index.php?action=cMain.showHome&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Shop Home</a>&nbsp;|
+<img src='images/cart_icon.gif' alt='View Cart' width='16' height='13' />&nbsp;<a href='http://order.store.yahoo.net/cgi-bin/wg-order?locshop'>View Cart</a>&nbsp;|
+<img src='images/contact_icon.gif' alt='Contact' width='16' height='13' />&nbsp;<a href='index.php?action=cMain.showContact&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Contact</a><!--		
+		<img src='images/home_on.gif' alt='Shop Home' width='16' height='13' />&nbsp;<span>Shop Home</span>&nbsp;|
+		&nbsp;<img src='images/cart_icon.gif' alt='View Cart' width='16' height='13' />&nbsp;<a href='http://order.store.yahoo.net/cgi-bin/wg-order?locshop'>View Cart</a>&nbsp;|&nbsp;
+      	<img src='images/contact_icon.gif' alt='Contact' width='16' height='13' />&nbsp;<a href='index.php?action=cMain.showContact&amp;PHPSESSID=c585350084ebaa1a49bda838dd23e361&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Contact</a></li>
+-->		
+	</ul>
+	
+	<!--
+    <a href="index.php?action=cMain.showHome&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5"><img src="images/logo.gif" alt="The Library of Congress Shop" /></a>
+    <span>
+
+    </span>
+	-->
+  </div>
+  <div id="crumb_nav">
+	  <div id="crumb"><a href="http://www.loc.gov/">The Library of Congress</a>&nbsp;>&nbsp;<a href='index.php?action=cMain.showHome&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Shop Home</a>&nbsp;>&nbsp;<a href='index.php?action=cCatalog.showCategory&cid=1&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Books & Media</a><span>&nbsp;>&nbsp;Book Festival</span></div>
+  </div>
+  <div id="content">
+<!--startindex-->
+<!--stopindex-->
+    <div id="left_nav">
+      <div id="sub_search">
+        <form id="prod_search" action="http://search.loc.gov:8765/shop/query.html"><input type="hidden" name="PHPSESSID" value="da65366272aa1aa7a43507692b2683b5" />
+          <label for="search_products">Search for products</label> 
+          <br />
+          <input name="qt" id="search_products" size="15" type="text" />
+          <input type="image" class="button" value="submit" src="images/go.gif?PHPSESSID=da65366272aa1aa7a43507692b2683b5" alt="go" />
+          <input type="hidden" name="ws" value="0" />
+          <input type="hidden" name="la" value="en" />
+          <input type="hidden" name="qm" value="0" />
+          <input type="hidden" name="st" value="1" />
+          <input type="hidden" name="nh" value="10" />
+          <input type="hidden" name="imo" value="1" />
+          <input type="hidden" name="qfr" value="1" />
+          <input type="hidden" name="lk" value="1" />
+          <input type="hidden" name="col" value="shop" />
+          <input type="hidden" name="rf" value="0" />
+          <input type="hidden" name="ht" value="0" />		  
+          <input type="hidden" name="oq" value="" />
+          <input type="hidden" name="rq" value="0" />
+          <input type="hidden" name="si" value="0" />
+          <input type="hidden" name="ht" value="0"/>
+        </form>
+      </div>		  
+      <div id="left_nav_products">
+        <h3>Shop by product type</h3>
+        <ul id="prod_links">
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=4&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Apparel & Accessories</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=1&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Books & Media</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=13&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Desk & Stationery</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=7&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>For Children</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=5&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Gift Certificates</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=8&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Gift Ideas</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=3&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Home</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=6&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Jewelry</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=77&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Prints, Photographs- Special Order</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=76&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Prints, Posters, Photographs - Quick Ship</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=35&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><span>Sale</span></a></li>
+        </ul>
+      </div>
+      <div id="left_nav_theme">
+        <h3>Shop by theme</h3>
+        <ul id="theme_links">
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=20&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>All New Arrivals!</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=28&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Book Lovers</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=26&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Civil War in America</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=65&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Classic Novels & Stories</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=58&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Exhibits at the Library of Congress</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=33&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>History and Politics</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=22&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Holidays</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=25&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>I Cannot Live Without Books</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=56&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Library Signature Collection</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=23&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Library of Congress Publishing</a></li>
+          <li><a href='index.php?action=cCatalog.showCategory&amp;cid=21&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Wise Owl</a></li>
+        </ul>
+      </div>
+      <!-- closing left_nav div tag -->
+    </div>
+		<a name='page_content'></a><!--startindex-->
+
+<div id="image_table">
+<table summary="Table that highlights items for sale including links to specific categories such as top sellers, holiday items, and National Book Festival items">
+  <tr>
+    <th scope="col" colspan="3">
+      <h2>BOOK FESTIVAL</h2>
+          </th>
+  </tr>
+
+  <tr>
+    <td>
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4965&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><img src='images/catalog/items/thumbs/thumb_213030236.jpg' alt='2013 Book Festival T-Shirt' /></a><br />
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4965&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>2013 Book Festival T-Shirt</a><br />
+    </td>
+    <td>
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4966&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><img src='images/catalog/items/thumbs/thumb_213030241.jpg' alt='2013 Children&#039;s Book Festival T-Shirt' /></a><br />
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4966&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>2013 Children's Book Festival T-Shirt</a><br />
+    </td>
+    <td>
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4581&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><img src='images/catalog/items/thumbs/thumb_21509647.jpg' alt='2013 National Book Festival Patch' /></a><br />
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4581&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>2013 National Book Festival Patch</a><br />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=965&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><img src='images/catalog/items/thumbs/thumb_21301010.jpg' alt='Author Tote Bag' /></a><br />
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=965&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Author Tote Bag</a><br />
+    </td>
+    <td>
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4580&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><img src='images/catalog/items/thumbs/thumb_21502235.jpg' alt='Books That Shaped America Bookmark' /></a><br />
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4580&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Books That Shaped America Bookmark</a><br />
+    </td>
+    <td>
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4983&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><img src='images/catalog/items/thumbs/thumb_21407193.jpg' alt='Books That Shaped America Desk calendar 2014' /></a><br />
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4983&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Books That Shaped America Desk calendar 2014</a><br />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=515&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><img src='images/catalog/items/thumbs/thumb_21303014.jpg' alt='I Cannot Live Without Books T-shirt' /></a><br />
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=515&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>I Cannot Live Without Books T-shirt</a><br />
+    </td>
+    <td>
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4857&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><img src='images/catalog/items/thumbs/thumb_213030231.jpg' alt='Keep Calm and Read On' /></a><br />
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4857&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Keep Calm and Read On</a><br />
+    </td>
+    <td>
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4930&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><img src='images/catalog/items/thumbs/thumb_21407093.jpg' alt='LOC 2014 Monthly Planner' /></a><br />
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4930&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>LOC 2014 Monthly Planner</a><br />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4358&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><img src='images/catalog/items/thumbs/thumb_21301045.jpg' alt='Library Book Bag' /></a><br />
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4358&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Library Book Bag</a><br />
+    </td>
+    <td>
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4416&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><img src='images/catalog/items/thumbs/thumb_21504089.jpg' alt='Personal Library Kit' /></a><br />
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4416&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Personal Library Kit</a><br />
+    </td>
+    <td>
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4630&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'><img src='images/catalog/items/thumbs/thumb_21507127.jpg' alt='Reading Rubber Duck' /></a><br />
+      <a href='index.php?action=cCatalog.showItem&cid=1&scid=536&iid=4630&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5'>Reading Rubber Duck</a><br />
+    </td>
+  </tr>
+</table>
+</div><!--stopindex-->
+  <!-- closing content div tag -->
+  </div>
+
+  <div id="footer">
+    <a href="index.php?action=cMain.showStoreInfo&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5">Shop Info</a>&nbsp;|&nbsp;<a href="index.php?action=cMain.showPrivacyPolicy&amp;PHPSESSID=da65366272aa1aa7a43507692b2683b5">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://www.loc.gov/homepage/legal.html">Legal</a><span>Order by phone: (888) 682-3557 | Order by fax: (202) 707-1771</span>
+  </div>
+</div>
+<script type='text/javascript' src='http://cdn.loc.gov/js/global/metrics/sc/v25.2/2.0/s_code.js'></script></body>
+</html>
+
+<!--startindex-->

@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+ <meta name="date" content = "Apr 23, 2013 12:00:00 AM"/>
+ <meta name="last-modified" content="Aug 19, 2013 8:29:42 AM"/>
+ <meta name="last-published" content="Sep 30, 2013 8:55:45 AM"/>
+ <meta name="prior-publish" content="Sep 30, 2013 12:15:01 AM"/>
+ <meta name="cms-ct" content="vtGeneric"/>
+ <meta name="cms-id" content="333-98854-224405"/>
+ <meta name="generator" content="Ensemble: http://www.ensemble.cms.vt.edu/"/>
+ <title> 2013 Faculty/Staff Award recipients | Virginia Tech News | 
+Virginia Tech </title>
+ <script type="text/javascript" src="/global_assets/js/jquery-latest.min.js"></script>
+ <script type="text/javascript" src="/global_assets/js/plugins/vt_jquery_plugins.js"></script>
+ <link href="/global_assets/js/jquery-themes/theme-1/jquery-ui-theme-1.css" rel="stylesheet" type="text/css" />
+ <script type="text/javascript" src="/global_assets/js/quicklinks.js"></script>
+ <script type="text/javascript" src="/global_assets/js/vt_util_scripts.js"></script>
+ <link href="/global_assets/themes/theme1/js/jquery-themes/jquery-ui-theme-custom.css" rel="stylesheet" type="text/css" />
+ <script type="text/javascript" src="/global_assets/themes/theme1/js/vt_util_scripts.js"></script>
+ <link href="/global_assets/themes/theme1/css/vt_sp.css" rel="stylesheet" type="text/css" />
+ <!--[if IE 7]>
+    <link href="/global_assets/themes/theme1/css/ie7_vt_sp.css" rel="stylesheet" type="text/css" />
+ <![endif]-->
+ <!--[if lt IE 7]>
+    <link href="/global_assets/themes/theme1/css/ie6_vt_sp.css" rel="stylesheet" type="text/css" />
+ <![endif]-->
+ <script type="text/javascript" src="/global_assets/themes/theme1/js/theme1.js"></script>
+
+
+  <link href="/global_assets/themes/theme1/css/vt_tp_rev.css" rel="stylesheet" type="text/css" />
+  <!--[if IE 7]>
+    <link href="/global_assets/themes/theme1/css/ie7_vt_tp_rev.css" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <!--[if lt IE 7]>
+    <link href="/global_assets/themes/theme1/css/ie6_vt_tp_rev.css" rel="stylesheet" type="text/css" />
+  <![endif]-->
+
+<link href="/global_assets/themes/theme1/css/theme1_afterPageStyles.css" rel="stylesheet" type="text/css" />
+<link href="/global_assets/themes/theme1/css/theme1_sp_no2ndnav.css" rel="stylesheet" type="text/css" />
+<link href="/global_assets/themes/theme1/css/vt_sp_print.css" rel="stylesheet" type="text/css" media="print" />
+ <link rel="stylesheet" type="text/css" href="/local_assets/www.vtnews.vt.edu/modifyGlobalTemplate.css" />
+ <!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" href="/local_assets/www.vtnews.vt.edu/modifyGlobalTemplateIE7.css" />
+ <![endif]-->
+ <!--[if lt IE 7]>
+  <link rel="stylesheet" type="text/css" href="/local_assets/www.vtnews.vt.edu/modifyGlobalTemplateIE6.css" />
+ <![endif]-->
+ <script type="text/javascript" src="/local_assets/www.vtnews.vt.edu/modifyGlobalJS.js"></script>
+</head>
+<body id="vt_theme_1">
+<div id="vt-cid-224405" class="vt-fid-98854">
+<!-- main wrapper -->
+<div class="wrapper">
+  <!-- bg stuff -->
+  <div class="vt_top_bg">
+    <!-- accessbility skipnav -->
+    <div class="vt_skip">
+      <h1>Skip Menu</h1>
+      <a name="vt-skipto-menu"></a>
+      <ul>
+        <li><a href="#vt-skipto-nav">Skip to Navigation</a></li>
+        <li><a href="#vt-skipto-body">Skip to Main Content</a></li>
+      </ul>
+    </div>
+    <!-- end accessbility skipnav -->
+    <!-- drop shadow -->
+    <div class="vt_drop_shadow">
+      <!-- begin secondary page content body -->
+      <div id="vt_sp_body">
+        <!-- header area -->
+<div id="vt_header">
+    <a href="http://www.vt.edu/" title="Virginia Tech Home" id="vt_home_btn"></a>
+
+<div id="vt_header_unit">
+<div class="vt_vcenter">
+ <div class="vt_brief">
+<p><a href="/index.html">Virginia Tech News</a></p></div></div>
+</div>
+  
+  <script type="text/javascript">
+// <![CDATA[
+function assignURL()  {
+	for(i = 0; i < document.vtsearchform.url.length;i++) {
+	if (document.vtsearchform.url[ i ].checked ) document.vtsearchform.action =  document.vtsearchform.url[ i ].value;
+		document.vtsearchform.submit();
+	}
+}
+// ]]>
+</script>
+    <div id="vt_header_search" title="Search Box and Directory Links">
+		<form name="vtsearchform" method="post" action="http://search.vt.edu/query" onsubmit="assignURL()">
+		<fieldset>
+	   	<span>
+			<input class="vt_search_rb" id="search-people" name="url" value="http://search.vt.edu/people.jsp" onclick="document.vtsearchform.action=this.value" type="radio" />
+			<label for="search-people">People</label>
+			<input class="vt_search_rb" id="search-pages" name="url" value="http://search.vt.edu/query" checked="checked" onclick="document.vtsearchform.action=this.value" type="radio" /> 
+			<label for="search-pages">Pages</label>
+		</span>
+      <input id="vt_search_box" name="q" value="Search Virginia Tech" onclick="clearquery(this,'Search Virginia Tech');" maxlength="50" type="text" />
+	  <input name="sitesearch" value="vt.edu" type="hidden" />
+	  <input name="hl" value="en" type="hidden" />
+	  <input id="vt_go_button" name="sa" src="/global_assets/themes/optimized/images/go.gif" alt="Go" type="image" />
+        <span><a href="http://www.vt.edu/az_index/" id="a-to-z-index">
+				<img src="/global_assets/themes/optimized/images/bullet_white_right.gif" alt="Bullet" width="4" height="9" border="0" />A to Z Index</a> 
+				<a href="http://www.directory.unirel.vt.edu/" id="directory">
+				<img src="/global_assets/themes/optimized/images/bullet_white_right.gif" alt="Bullet" width="4" height="9" border="0" />Directory</a></span>
+     </fieldset>
+	</form>  
+	</div>  
+</div>
+        <!-- end header -->
+        <!-- begin main navigation -->
+        <div id="vt_main_nav">
+          <div class="vt_skip"> <a href="#vt-skipto-menu">Return to Skip Menu</a> <a name="vt-skipto-nav"></a>
+            <h2>Main Navigation</h2>
+          </div>
+          <!-- quicklinks -->
+          <div id="vt_quicklinks"> <a href="javascript:void(0);" id="vt_ql_link">Quicklinks</a>
+            <ul id="vt_ql_list" title="Quicklinks">
+              <li></li>
+            </ul>
+          </div>
+          <!-- quicklinks -->
+          <!-- start navigation list -->
+          <div id="horizontal_main_nav">
+
+<ul>
+  <li id="vt_nav_home">
+    <a href="/index.html" title="Virginia Tech News">Virginia Tech News</a>
+  </li>
+   <li>
+    <a href="/articles/index.html" title="Articles">Articles</a>
+   </li>
+   <li>
+    <a href="/notices/index.html" title="Campus Notices">Campus Notices</a>
+   </li>
+   <li>
+    <a href="/photo-galleries/index.html" title="Photos">Photos</a>
+   </li>
+   <li>
+    <a href="/webcams/index.html" title="Webcams">Webcams</a>
+   </li>
+   <li>
+    <a href="/for-media/index.html" title="Media">Media</a>
+   </li>
+   <li>
+<span>
+<a href="http://www.vtnews.vt.edu/contact/vtnews-contacts.html" title="Contacts"  class="vt_link_url"  onclick="pageTracker._trackPageview('http://www.vtnews.vt.edu/contact/vtnews-contacts.html')">Contacts</a>
+</span>   </li>
+   <li>
+  <a href="http://www.unirel.vt.edu/index.html" title="University Relations">University Relations</a>
+   </li>
+</ul>
+          </div>
+          <!-- end navigation list-->
+        </div>
+        <!-- end main navigation -->
+        <!-- accessibility skip in-page anchor -->
+        <div class="vt_skip"> <a href="#vt-skipto-menu">Return to Skip Menu</a> <a name="vt-skipto-body"></a>
+          <h2>Main Content</h2>
+        </div>
+      <div id="vt_general">
+<div id="vt_with_rb">
+
+
+ <div id="vt_pageTitle">
+  <h2>2013 Faculty/Staff Award recipients</h2>
+ </div>
+<div id="vt_body_col" class="col-lg-6">
+<p>The university congratulates faculty and staff members for their contributions in a number of categories, from advising students to making an impact on outreach and research. Click on the links below to read about each award recipient.</p><h2>2013 Alumni Award</h2><ul><li><span><a href="/articles/2013/04/042313-facstaffaward-jarrott.html" title="Shannon Jarrott receives 2013 Virginia Tech Alumni Award for Outreach Excellence" shape="rect">Shannon Jarrott receives 2013 Alumni Award for Outreach Excellence</a></span>  </li><li><span><a href="/articles/2013/04/042313-facstaffaward-outreachteam.html" title="Virginia Cooperative Extension agents receive 2013 Alumni Award for Outreach Excellence for team achievement" shape="rect">Virginia Cooperative Extension agents receive 2013 Alumni Award for Outreach Excellence (team achievement)</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-tucker.html" title="Lisa Tucker receives Virginia Tech's 2013 Alumni Award for Excellence in Teaching" shape="rect">Lisa Tucker receives 2013 Alumni Award for Excellence in Teaching</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-preston.html" title="Marlene Preston receives Virginia Tech's 2013 Alumni Award for Excellence in Teaching" shape="rect">Marlene Preston receives 2013 Alumni Award for Excellence in Teaching</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-becker.html" title="Andrew Becker receives Virginia Tech's 2013 Alumni Award for Excellence in Undergraduate Academic Advising" shape="rect">Andrew Becker receives 2013 Alumni Award for Excellence in Undergraduate Academic Advising</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-sarin.html" title="Subhash Sarin honored with Virginia Tech's 2013 Alumni Award for Excellence in Graduate Advising" shape="rect">Subhash Sarin honored with 2013 Alumni Award for Excellence in Graduate Advising</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-bugh.html" title="Glenn Bugh honored with Virginia Tech's 2013 Alumni Award for Excellence in International Education" shape="rect">Glenn Bugh honored with 2013 Alumni Award for Excellence in International Education</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-alexander.html" title="Kathleen Alexander receives Virginia Tech's 2013 Alumni Award for Excellence in International Outreach" shape="rect">Kathleen Alexander receives 2013 Alumni Award for Excellence in International Outreach</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-green.html" title="Russell Green receives Virginia Tech's 2013 Alumni Award for Excellence in International Research" shape="rect">Russell Green receives 2013 Alumni Award for Excellence in International Research</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-walters.html" title="Jeffrey Walters receives Virginia Tech's 2013 Alumni Award for Excellence in Research" shape="rect">Jeffrey Walters receives 2013 Alumni Award for Excellence in Research</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-pitt.html" title="Joseph Pitt receives Virginia Tech's 2013 Alumni Award for Excellence in Research" shape="rect">Joseph Pitt receives 2013 Alumni Award for Excellence in Research</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-gagnon.html" title="Jennifer Gagnon receives Virginia Tech's 2013 Alumni Award for Excellence in Extension" shape="rect">Jennifer Gagnon receives 2013 Alumni Award for Excellence in Extension</a></span></li></ul><h2>2013 Edward S. Diggs Award</h2><ul><li><span><a href="/articles/2013/04/042313-facstaffaward-abrahams.html" title="Alan Abrahams receives Virginia Tech's 2013 Diggs Teaching Scholars Award" shape="rect">Alan Abrahams receives 2013 Diggs Teaching Scholars Award</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-rinehart.html" title="Susanna Rinehart receives Virginia Tech's 2013 Diggs Teaching Scholars Award" shape="rect">Susanna Rinehart receives 2013 Diggs Teaching Scholars Award</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-fowler.html" title="Shelli Fowler receives Virginia Tech's 2013 Diggs Teaching Scholars Award" shape="rect">Shelli Fowler receives 2013 Diggs Teaching Scholars Award</a></span></li></ul><h2>2013 President's Award for Excellence</h2><ul><li><span><a href="/articles/2013/04/042313-facstaffaward-bourne.html" title="Dianne Bourne receives Virginia Tech's 2013 President's Award for Excellence" shape="rect">Dianne Bourne receives 2013 President's Award for Excellence</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-osborne.html" title="Leisa Osborne receives Virginia Tech's 2013 President's Award for Excellence" shape="rect">Leisa Osborne receives 2013 President's Award for Excellence</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-parrish.html" title="Alex Parrish receives Virginia Tech's 2013 President's Award for Excellence" shape="rect">Alex Parrish receives 2013 President's Award for Excellence</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-walkergreen.html" title="Diane Walker-Green receives Virginia Tech's 2013 President's Award for Excellence" shape="rect">Diane Walker-Green receives 2013 President's Award for Excellence</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-woodward.html" title="Kelly Woodward receives Virginia Tech's 2013 President's Award for Excellence" shape="rect">Kelly Woodward receives 2013 President's Award for Excellence</a></span></li></ul><h2>2013 Provost Award</h2><ul><li><span><a href="/articles/2013/04/042313-facstaffaward-matuszek.html" title="Elaine Matuszek receives Virginia Tech's 2013 Provost Award for Excellence in Advising" shape="rect">Elaine Matuszek receives 2013 Provost Award for Excellence in Advising</a></span></li></ul><h2>2013 Sporn Award</h2><ul><li><span><a href="/articles/2013/04/042313-facstaffaward-kim.html" title="Kee Jeong Kim receives Virginia Tech's 2013 Sporn Award for Excellence in Teaching Introductory Subjects" shape="rect">Kee Jeong Kim receives 2013 Sporn Award for Excellence in Teaching Introductory Subjects</a></span></li></ul><div><div><div><h2>2013 Virginia Outstanding Faculty Award</h2><ul><li><span><a href="/articles/2013/01/012313-engineering-edwardsschev.html" title="State honors Virginia Tech's Stephen Edwards as Outstanding Faculty" shape="rect">State Council of Higher Education for Virginia honors Stephen Edwards as Outstanding Faculty</a></span></li></ul></div></div><h2>2013 Virginia Scientist of the Year</h2><ul><li><span><a href="/articles/2013/01/011713-cnre-burkhartoutstandingscientist.html" title="Virginia Tech's Harold Burkhart named Virginia's Outstanding Scientist of 2013" shape="rect">Harold Burkhart named Virginia's Outstanding Scientist of 2013</a></span></li><li><span><a href="/articles/2013/01/011813-science-scientistofyear.html" title="Virginia Tech's Patricia M. Dove selected as 2013 Virginia Scientist of the Year" shape="rect">Patricia M. Dove selected as 2013 Virginia Scientist of the Year</a></span></li></ul></div><h2>2013 William E. Wine Award</h2><ul><li><span><a href="/articles/2013/04/042313-facstaffaward-cobb.html" title="Anthony T. ‘Terry’ Cobb receives Virginia Tech's 2013 William E. Wine Award" shape="rect">Anthony T. ‘Terry’ Cobb receives 2013 William E. Wine Award</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-merola.html" title="Joseph Merola receives Virginia Tech's 2013 William E. Wine Award" shape="rect">Joseph Merola receives 2013 William E. Wine Award</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-thorp.html" title="Daniel Thorp receives Virginia Tech's 2013 William E. Wine Award" shape="rect">Daniel Thorp receives 2013 William E. Wine Award</a></span></li></ul><h2>2013 XCaliber Award</h2><ul><li><span><a href="/articles/2013/04/042313-facstaffaward-taylor.html" title="John E. Taylor receives Virginia Tech's 2013 XCaliber Award" shape="rect">John E. Taylor receives 2013 XCaliber Award</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-xcaliberteam.html" title="Three-person interdisciplinary team receives Virginia Tech's 2013 XCaliber Award" shape="rect">Three-person interdisciplinary team receives 2013 XCaliber Award</a></span></li></ul><h2>2013 Staff Career Achievement Award</h2><ul><li><span><a href="/articles/2013/04/042313-facstaffaward-stewart.html" title="Susan Stewart receives Virginia Tech's 2013 Staff Career Achievement Award" shape="rect">Susan Stewart receives 2013 Staff Career Achievement Award</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-spellerberg.html" title="Philip Spellerberg receives Virginia Tech's 2013 Staff Career Achievement Award" shape="rect">Philip Spellerberg receives 2013 Staff Career Achievement Award</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-sheppard.html" title="Darrell Sheppard receives Virginia Tech's 2013 Staff Career Achievement Award" shape="rect">Darrell Sheppard receives 2013 Staff Career Achievement Award</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-lawrence.html" title="Terry Lawrence receives  Virginia Tech's 2013 Staff Career Achievement Award" shape="rect">Terry Lawrence receives 2013 Staff Career Achievement Award</a></span></li><li><span><a href="/articles/2013/04/042313-facstaffaward-bland.html" title="Linda Bland receives Virginia Tech's 2013 Staff Career Achievement Award" shape="rect">Linda Bland receives 2013 Staff Career Achievement Award</a></span></li></ul><br/>
+</div>
+<div id="vt_right_col" class="col-lg-3">
+
+<div class="vt_brief">
+<h2>Downloads available</h2>
+<div class="vt_img_left vt_small_img"> 
+    <span class="top"> </span>
+    <span class="bottom"> </span>
+   	<img src="/awards/2013-facstaff-winners/S_facstaff_tease_image.jpg" alt="2012-13 Faculty Staff Awards" height="139px" width="185px" />
+</div><p>Learn more about all the recipients of the 2013 Faculty/Staff Awards</p><ul><li><a href="http://www.apps.vtnews.vt.edu/2013-facstaff/faculty_staff_2013final.html" target="_blank">Read through a digital book version</a> (opens in a new window)</li><li><a href="/awards/2013-facstaff-winners/2013-awards.pdf">Download a PDF</a></li></ul></div>
+  <hr class="vt_rb_break" />
+<div class="vt_brief">
+<h2>Virginia Tech Honors and Awards</h2>
+<p>Accomplishments by students, faculty, staff, and alumni are listed.</p><ul><li><a href="http://www.vtnews.vt.edu/awards">Visit the site.</a></li></ul></div>
+  </div>	
+</div>
+</div><!-- start the right column region -->
+
+<div id="vt_nav_col" class="small_col">
+<div class="vt_brief">
+<div id="vt_promo_podcast"><h2><a href="http://www.podcasts.vt.edu/">Podcasts</a></h2><ul><li><a href="http://www.podcasts.vt.edu/">Work+Life</a></li><li><a href="http://www.podcasts.vt.edu/">A Touch of Tech</a></li><li><a href="http://www.podcasts.vt.edu/">HokieCast</a></li></ul><p> </p></div><div id="vt_promo_email"><h2><a href="/email/sign-up.html">Email News</a></h2><p><a href="/email/sign-up.html">Sign up to receive daily email news from Virginia Tech</a></p></div><p><a href="http://www.vtnews.vt.edu/email/sign-up.html" id="newsletter_floater"> </a></p><div id="vt_promo_photo"><div class="vt_brief">
+<h2><a href="/photo-galleries/2013/092413-icat-mitchell/mitchell-gallery.html" shape="rect">Photo: Astronaut visit</a><a href="/photo-galleries/2012/122012-campus/campus-gallery.html" shape="rect"></a></h2><div class="vt_linked_image">
+
+<div class="vt_img_center vt_small_img"> 
+    <span class="top"> </span>
+    <span class="bottom"> </span>
+   	
+  <a href="/photo-galleries/2013/092413-icat-mitchell/mitchell-gallery.html" title="Edgar Mitchell" class="vt_link_url" shape="rect"><img src="/photo-galleries/2013/092413-icat-mitchell/S_mitchell-3.jpg" alt="Edgar Mitchell" height="123px" width="185px" /></a>
+
+</div>
+
+</div></div></div><div id="vt_promo_video"><div class="vt_brief">
+<h2><a href="http://www.unirel.vt.edu/audio_video/2013/08/082213-caus-designbuild.html" shape="rect">Video: Building a bridge</a></h2><div class="vt_linked_image">
+
+<div class="vt_img_center vt_small_img"> 
+    <span class="top"> </span>
+    <span class="bottom"> </span>
+   	
+  <a href="http://www.unirel.vt.edu/audio_video/2013/08/082213-caus-designbuild.html" title="bridge built by students" class="vt_link_url" shape="rect"><img src="http://www.unirel.vt.edu/audio_video/2013/08/S_082213-caus-designbuild-image.jpg" alt="bridge built by students" height="121px" width="185px" /></a>
+
+</div>
+
+</div><h2><a href="http://www.unirel.vt.edu/audio_video/2013/09/091013-cnre-biomass.html" shape="rect"></a></h2></div></div><div class="vt_brief vt_fp_promo_icons vt_linked_image vt_img_left vt_large_img"><div class="vt_linked_image">
+
+<div class="vt_img_left vt_large_img">
+	<span class="top"> </span>
+    <span class="bottom"> </span>
+    
+  <a href="http://www.vt.edu/about/rankings/index.html" title="Rankings" class="vt_link_url" shape="rect"><img src="http://www.vt.edu/icon_promos/L_2012-rankings.png" alt="Rankings" height="136px" width="200px" /></a>
+
+</div>
+	
+</div></div><hr class="vt_rb_break" /><div class="vt_brief">
+	<h2 class="vt_rb_title"><a href="/webcams/burruss.html" title="Webcam: Burruss Hall" shape="rect">Webcam: Burruss Hall</a></h2>
+<div class="vt_rb_content"><div class="vt_linked_image">
+
+<div class="vt_img_left vt_large_img">
+	<span class="top"> </span>
+    <span class="bottom"> </span>
+    
+  <a href="/webcams/burruss.html" title="Burruss Hall webcam" class="vt_link_url" shape="rect"><img src="/webcams/L_burruss-teaser.jpg" alt="Burruss Hall webcam" height="128px" width="185px" /></a>
+
+</div>
+	
+</div> </div></div><hr class="vt_rb_break" /><div><div>
+<div id="widget_content80941"> </div>
+<script language="javascript" type="text/javascript" src="/global_assets/php/widgets/widget.php?did=80941&amp;appid=2&amp;type=vtcalendar&amp;title=Event Calendar&amp;cl=aHR0cDovL3d3dy5jYWxlbmRhci52dC5lZHUvbWFpbi5waHA/dmlldz1kYXkmYW1wO2NhbGVuZGFyPWRlZmF1bHQ=&amp;it=1&amp;ni=5&amp;sd=none&amp;ct=60&amp;desc=1&amp;limit_desc=45&amp;st=t2&amp;style=list&amp;displayTitle=true&amp;url=ZGVmYXVsdA==" defer="defer" xml:space="preserve"> </script>
+<noscript>
+<h2>Event Calendar</h2>
+<p>
+<a href="http://calendar.vt.edu/index.php?calendar=default" shape="rect">http://calendar.vt.edu/index.php?calendar=default</a>
+</p>
+</noscript>
+</div></div></div>
+</div>
+  <!-- end right col -->
+        <!-- bottom border fix -->
+        <div id="vt_body_bottom_border"></div>
+        <!-- end bottom border fix -->
+      </div>
+      <!-- end vt_sp_body -->
+    </div>
+    <!-- end drop shadow -->
+  </div>
+  <!-- end bg stuff -->
+</div>
+<!-- end wrapper -->
+<!-- start the footer region with a footer bg image that goes 100% width -->
+<div id="vt_footer_bg">
+
+<div id="vt_footer">
+</div>
+<div id="vt_copyright"><p>© 2013 Virginia Polytechnic Institute and State University</p></div>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-846989-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</div>
+<!-- end footer bg -->
+</div>
+</body>
+</html>

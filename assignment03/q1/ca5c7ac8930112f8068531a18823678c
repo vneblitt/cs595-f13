@@ -1,0 +1,782 @@
+ <!DOCTYPE html><html lang="en">
+    <!--EPA Template, OneEPA Web, 17 November 2010 -->
+    <head>
+        <meta charset="utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=8"/>
+        <title>U.S. and Global Temperature | Climate Change | US EPA</title>
+        <!-- Dc.description meta keyword -->
+        <meta name="DC.description" content="This indicator describes trends in average surface temperature for the United States and the world."/>
+        <meta name="keywords" content=" trend, warmer, temperature, climate, weather, data, indicator, science, global warming,climate change,"/>
+        <!-- Dc.Title meta keyword -->
+        <meta name="DC.title" content="U.S. and Global Temperature"/>
+        <meta name="DC.Subject.epabrm" content=""/>
+        <meta name="DC.type" content="Reports &amp; Assessments,"/>
+        <meta name="DC.Subject.epachannel" content="Science &amp; Technology,"/>
+        <meta name="DC.Subject.epacat" content=""/>
+        <meta name="DC.Subject.epaect" content=""/>
+        <meta name="DC.Subject.epaemt" content="Climate Change,"/>
+        <meta name="DC.Subject.epahealth" content=""/>
+        <meta name="DC.Subject.eparit" content=""/>
+        <meta name="DC.Subject.eparat" content=" Monitoring,Research &amp; Analysis,"/>
+        <meta name="DC.Subject.epaopt" content=""/>
+        <meta name="DC.Subject.epappt" content=""/>
+        <meta name="DC.Subject.eparegulation" content=""/>
+        <meta name="DC.Subject.epasubstance" content="Greenhouse Gases,"/>
+        <meta name="DC.Subject.epaindustry" content=""/>
+        <meta name="DC.audience" content="Research &amp; Technology Community,"/>
+        <meta name="DC.coverage" content=""/>
+        <!-- DC.creator meta keyword -->
+        <meta name="DC.creator" content="US EPA, Climate Change Division"/>
+        <meta name="DC.language" content="en"/>
+        <!-- DC.date.created meta keyword -->
+        <meta name="DC.date.created" content="2011-08-18"/>
+        <!-- DC.date.modified meta keyword -->
+        <meta name="DC.date.modified" content="2012-11-09"/>
+        <!-- DC.date.reviewed meta keyword -->
+        <meta name="DC.date.reviewed" content="2015-11-09"/>
+        <!-- DC.date.archivedate meta keyword -->
+        <meta name="DC.date.archivedate" content="0001-01-01"/>
+        <meta name="viewport" content="width=device-width; initial-scale=1.0"/>
+        <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+        <link type="application/atom+xml" title="EPA.gov News" rel="alternate" href="http://yosemite.epa.gov/opa/admpress.nsf/RSSRecentNews"/><link rel="alternate" type="application/atom+xml" title="EPA.gov Headquarters Press Releases" href="http://yosemite.epa.gov/opa/admpress.nsf/RSSByLocation?open&location=Headquarters" />
+        <link type="application/atom+xml" title="Greenversations, EPA's Blog" rel="alternate" href="http://blog.epa.gov/blog/feed/"/>
+        <link type="application/rdf+xml" title="ICRA labels" rel="meta" href="http://www.epa.gov/labels.rdf"/>     <!--BEGIN local-css-->  <link rel="stylesheet" href="../../../styles/main.css"/>  <!-- END local-css -->
+        <link rel="stylesheet" href="http://www.epa.gov/epafiles/templates/webcms/css/epa.css"/> 
+                <!--[if IE 7]><link rel="stylesheet" href="http://www.epa.gov/epafiles/templates/webcms/css/ie7.css"/><![endif]-->
+				<!--[if lt IE 7]><link rel="stylesheet" href="http://www.epa.gov/epafiles/templates/webcms/css/ie6.css"/><![endif]-->
+                  	 
+        <script type="text/javascript" src="/quickedit/quickedit.js"> </script>
+    </head>
+    <body class="basic">
+        <!--googleoff: index--><p id="sitewidec"></p>
+        <p class="skip">Jump to <a title="Jump to main content" href="#main">main content
+				</a> or 
+				<a title="Jump to area navigation." href="#areanav">area navigation</a>.
+				</p>
+        <div id="header">
+            <!-- START EPA HEADER -->
+            <p>
+                <a title="US EPA Home Page" href="http://www.epa.gov/">
+                    <img src="http://www.epa.gov/epafiles/templates/webcms/css/i/print-epa-logo.gif" alt="US Environmental Protection Agency logo"/>
+                </a>
+            </p>
+            <!-- START AREA SEARCH -->
+            <form method="get" id="EPAsearch" action="http://nlquery.epa.gov/epasearch/epasearch">
+                <fieldset>
+                    <ol>
+						<li id="azindex">
+						    <a title="Alphabetical list of top EPA topics" href="http://www.epa.gov/epahome/quickfinder.htm">A-Z Index</a>
+						</li>
+						<li>
+						    <a href="http://www.epa.gov/search.html">Advanced Search</a>
+						</li>
+						<li>
+						    <fieldset id="search">
+						        <legend>What are you looking for?</legend>
+						        <input value="" name="querytext" id="searchbox"/> 
+						<button id="searchbutton" type="submit" title="Search" >
+						 
+						</button>
+						</fieldset>
+						</li>
+                    </ol>
+                    <input value="epa" type="hidden" name="typeofsearch"/>
+                    <input value="earlink1" type="hidden" name="fld"/>
+                    <input value="Climate Change" type="hidden" name="areaname"/>
+                    <input value="http://www.epa.gov/climatechange/contactus.html" type="hidden" name="areacontacts"/>
+                    <input value="" type="hidden" name="areasearchurl"/>
+                    <input value="epafiles_default.xsl" type="hidden" name="result_template"/>
+                    <input value="sample4filt.hts" type="hidden" name="filter"/>
+                </fieldset>
+            </form>
+            <!-- END AREA SEARCH -->
+            <!-- IA Buckets-->
+            <ul>
+                <li id="learn">
+                    <a title="Learn the Issues" href="http://www.epa.gov/gateway/learn/">Learn the Issues</a>
+                </li>
+                <li id="scitech">
+                    <a title="Science and Technology" href="http://www.epa.gov/gateway/science/">Science &amp; Technology</a>
+                </li>
+                <li id="laws">
+                    <a title="Laws and Regulations" href="http://www.epa.gov/lawsregs/">Laws &amp; Regulations</a>
+                </li>
+                <li id="about">
+                    <a title="About EPA" href="http://www.epa.gov/aboutepa/">About EPA</a>
+                </li>
+            </ul>
+            <!-- END EPA HEADER -->
+        </div>
+        <div id="content">
+            <div id="area">
+                <p>
+                    <a href="http://www.epa.gov/climatechange/contactus.html">Contact Us</a>
+                </p>
+                <!-- START AREA NAME -->
+                <p>Climate Change</p>
+                <!-- END AREA NAME -->
+            </div>
+            <div id="page">
+                <div id="main">
+                    <ul id="breadcrumbs">
+						<li class="first">
+						    <b>You are here:</b>
+						    <a href="http://www.epa.gov/">EPA Home</a>
+						</li>
+						<!-- START BREADCRUMBS -->
+						<li>
+						    <a href="/climatechange/">Climate Change</a>
+						</li>
+						<li>
+						    <a href="/climatechange/science/">Science</a>
+						</li>
+						<li>
+						    <a href="../index.html">Indicators</a>
+						</li>		<li>
+						    <a href="index.html">Weather and Climate</a>
+						</li>
+						<li>U.S. and Global Temperature</li>
+                    </ul>
+                    <!-- END BREADCRUMBS -->
+                    <!-- BEGIN PAGE NAME -->
+                    <!--googleon: index-->
+                    <h1>Climate Change Indicators in the United States</h1>
+                    <!-- END PAGE NAME -->
+                    <!-- BEGIN CONTENT -->
+                    <!-- START TAB's -->
+                    <!-- END TAB's -->
+                    <!-- BEGIN CONTENT AREA -->
+                    <div class="inner-nav" style="width: 755px; margin-left: 2px">
+<ul style="margin: 0px">
+    <li class="nav1">
+						        <a href="../ghg/index.html">Greenhouse Gases</a>
+    <ul style="margin: 0px">
+        <li>
+						                <a class="first" href="../ghg/us-ghg-emissions.html">U.S. Greenhouse Gas Emissions</a>
+						            </li>
+        <li>
+						                <a href="../ghg/global-ghg-emissions.html">Global Greenhouse Gas Emissions</a>
+						            </li>
+        <li>
+						                <a href="../ghg/ghg-concentrations.html">Atmospheric Concentrations of Greenhouse Gases</a>
+						            </li>
+        <li>
+						                <a href="../ghg/climate-forcing.html">Climate Forcing</a>
+						            </li>
+    </ul>
+    </li>
+    <li class="nav2" style="margin: 0px">
+						        <a class="current" href="index.html">Weather and Climate</a>
+    <ul style="margin: 0px">
+        <li>
+						                <a class="first" href="temperature.html">U.S. and Global Temperature</a>
+						            </li>
+        <li>
+						                <a href="high-low-temps.html">High and Low Temperatures</a>
+						            </li>
+        <li>
+						                <a href="precipitation.html">U.S. and Global Precipitation</a>
+						            </li>
+        <li>
+						                <a href="heavy-precip.html">Heavy Precipitation</a>
+						            </li>
+        <li>
+						                <a href="drought.html">Drought</a>
+						            </li>
+        <li>
+						                <a href="cyclones.html">Tropical Cyclone Activity</a>
+						            </li>
+    </ul>
+    </li>
+    <li class="nav3" style="margin: 0px">
+						        <a href="../oceans/index.html">Oceans</a>
+    <ul style="margin: 0px">
+        <li>
+						                <a class="first" href="../oceans/ocean-heat.html">Ocean Heat</a>
+						            </li>
+        <li>
+						                <a href="../oceans/sea-surface-temp.html">Sea Surface Temperature</a>
+						            </li>
+        <li>
+						                <a href="../oceans/sea-level.html">Sea Level</a>
+						            </li>
+        <li>
+						                <a href="../oceans/acidity.html">Ocean Acidity</a>
+						            </li>
+    </ul>
+    </li>
+    <li class="nav4" style="margin: 0px">
+						        <a href="../snow-ice/index.html">Snow and Ice</a>
+    <ul style="margin: 0px">
+        <li>
+						                <a class="first" href="../snow-ice/sea-ice.html">Arctic Sea Ice</a>
+						            </li>
+        <li>
+						                <a href="../snow-ice/glaciers.html">Glaciers</a>
+						            </li>
+        <li>
+						                <a href="../snow-ice/lake-ice.html">Lake Ice</a>
+						            </li>
+        <li>
+						                <a href="../snow-ice/snowfall.html">Snowfall</a>
+						            </li>
+        <li>
+						                <a href="../snow-ice/snow-cover.html">Snow Cover</a>
+						            </li>
+        <li>
+						                <a href="../snow-ice/snowpack.html">Snowpack</a>
+						            </li>
+    </ul>
+    </li>
+    <li class="nav5" style="margin: 0px">
+						        <a href="../society-eco/index.html">Society</a>
+    <ul style="margin: 0px">
+        <li>
+						                <a class="first" href="../society-eco/streamflow.html">Streamflow</a>
+						            </li>
+        <li>
+						                <a href="../society-eco/ragweed.html">Ragweed Pollen Season</a>
+						            </li>
+        <li>
+						                <a href="../society-eco/growing-season.html">Length of Growing Season</a>
+						            </li>
+        <li>
+						                <a href="../society-eco/leaf-bloom-dates.html">Leaf and Bloom Dates</a>
+						            </li>
+        <li>
+						                <a href="../society-eco/bird-ranges.html">Bird Wintering Ranges</a>
+						            </li>
+        <li>
+						                <a href="../society-eco/heat-deaths.html">Heat-Related Deaths</a>
+						            </li>
+    </ul>
+    </li>
+</ul>
+</div>
+<div id="content" style="width: 755px">
+<div id="banner" style="width: 755px">
+						    <img alt="This indicator describes trends in average temperature for the United States and the world." height="99" src="../../../images/indicator_banners/temperature-2012.jpg" width="753" title="This indicator describes trends in average temperature for the United States and the world."/>
+						</div>
+<div id="home-content">
+<div id="indicators-left">
+						        <br/>
+<div id="featured">
+<div class="ui-tabs-panel" id="fragment-1">
+						                <img alt="Combined bar and line graph showing changes in average temperatures for the contiguous 48 states from 1901 to 2012." src="../../../images/indicator_figures/temperature-figure1-2013.gif" title="Combined bar and line graph showing changes in average temperatures for the contiguous 48 states from 1901 to 2012."/>
+<div class="info" style="margin-top: -4px">
+<p style="float:left;"/>
+												<strong>Share this indicator:</strong>
+												<a href="http://twitter.com/home?status=Climate Change Indicators: U.S. and Global Temperature: http://goo.gl/F4879g" style="text-decoration: none" target="_blank">
+												    <img alt="Twitter" src="../../../images/icons/twitter.png" title="Twitter"/>
+												</a>
+												<a href="http://www.facebook.com/sharer.php?u=www.epa.gov/climatechange/science/indicators/weather-climate/temperature.html&amp;t=Figure1" style="text-decoration: none" target="_blank">
+												    <img alt="Facebook" src="../../../images/icons/facebook.png" title="Facebook"/>
+												</a>
+												<a href="http://reddit.com/submit?url=http://www.epa.gov/climatechange/images/indicator_downloads/temperature-download1-2013.png&amp;;title=Climate Change Indicators: U.S. and Global Temperature" style="text-decoration: none" target="_blank">
+												    <img alt="Reddit" src="../../../images/icons/reddit.png" title="Reddit"/>
+												</a>
+						                    </p>
+                                            
+                                             <p style="float:right; margin-top:10px;"/><em>Web update: August 2013</em></p>
+                                            
+<p style="clear:both; margin-top:4px;"/>This figure shows how annual average temperatures in the contiguous 48 states have changed since 1901. Surface data come from land-based weather stations. Satellite measurements cover the lower troposphere, which is the lowest level of the Earth's atmosphere. "UAH" and "RSS" represent two different methods of analyzing the original satellite measurements. This graph uses the 1901 to 2000 average as a baseline for depicting change. Choosing a different baseline period would not change the shape of the data over time.</p>
+<p>
+												<em>Data source: NOAA, 2013<sup>
+												        <a href="../references.html#wc_temperature_fn1">1</a>
+												    </sup>
+												</em>
+						                    </p>
+<p style="text-align: right; padding-right: 10px; clear: both">
+												<img align="middle" alt="" src="../../../images/mag.png"/>
+												<strong>
+												    <a href="../../../images/indicator_downloads/temperature-download1-2013.png">Larger image to save or print</a>
+												</strong>
+						                    </p>
+</div>
+</div>
+<div class="ui-tabs-panel ui-tabs-hide" id="fragment-2">
+						                <img alt="Combined bar and line graph showing changes in average temperatures worldwide from 1901 to 2012." src="../../../images/indicator_figures/temperature-figure2-2013.gif" title="Combined bar and line graph showing changes in average temperatures worldwide from 1901 to 2012."/>
+<div class="info" style="margin-top: -4px">
+<p style="float:left;"/>
+												<strong>Share this indicator:</strong>
+												<a href="http://twitter.com/home?status=Climate Change Indicators: U.S. and Global Temperature: http://goo.gl/nFpz6F" style="text-decoration: none" target="_blank">
+												    <img alt="Twitter" src="../../../images/icons/twitter.png" title="Twitter"/>
+												</a>
+												<a href="http://www.facebook.com/sharer.php?u=www.epa.gov/climatechange/science/indicators/weather-climate/temperature.html&amp;t=Figure2" style="text-decoration: none" target="_blank">
+												    <img alt="Facebook" src="../../../images/icons/facebook.png" title="Facebook"/>
+												</a>
+												<a href="http://reddit.com/submit?url=http://www.epa.gov/climatechange/images/indicator_downloads/temperature-download2-2013.png&amp;;title=Climate Change Indicators: U.S. and Global Temperature" style="text-decoration: none" target="_blank">
+												    <img alt="Reddit" src="../../../images/icons/reddit.png" title="Reddit"/>
+												</a>
+						                    </p>
+                                            
+                                             <p style="float:right; margin-top:10px;"/><em>Web update: August 2013</em></p>
+                                            
+<p style="clear:both; margin-top:4px;"/>This figure shows how annual average temperatures worldwide have changed since 1901. Surface data come from a combined set of land-based weather stations and sea surface temperature measurements. Satellite measurements cover the lower troposphere, which is the lowest level of the Earth's atmosphere. "UAH" and "RSS" represent two different methods of analyzing the original satellite measurements. This graph uses the 1901 to 2000 average as a baseline for depicting change. Choosing a different baseline period would not change the shape of the data over time.</p>
+<p>
+												<em>Data source: NOAA, 2013<sup>
+												        <a href="../references.html#wc_temperature_fn2">2</a>
+												    </sup>
+												</em>
+						                    </p>
+<p style="text-align: right; padding-right: 10px; clear: both">
+												<img align="middle" alt="" src="../../../images/mag.png"/>
+												<strong>
+												    <a href="../../../images/indicator_downloads/temperature-download2-2013.png">Larger image to save or print</a>
+												</strong>
+						                    </p>
+</div>
+</div>
+<div class="ui-tabs-panel ui-tabs-hide" id="fragment-3">
+						                <img alt="Color-coded map showing how average air temperatures changed across the United States from 1901 to 2012." src="../../../images/indicator_figures/temperature-figure3-2013.gif" title="Color-coded map showing how average air temperatures changed across the United States from 1901 to 2012."/>
+<div class="info" style="margin-top: -4px">
+<p style="float:left;"/>
+												<strong>Share this indicator:</strong>
+												<a href="http://twitter.com/home?status=Climate Change Indicators: U.S. and Global Temperature: http://goo.gl/EPjDtI" style="text-decoration: none" target="_blank">
+												    <img alt="Twitter" src="../../../images/icons/twitter.png" title="Twitter"/>
+												</a>
+												<a href="http://www.facebook.com/sharer.php?u=www.epa.gov/climatechange/science/indicators/weather-climate/temperature.html&amp;t=Figure3" style="text-decoration: none" target="_blank">
+												    <img alt="Facebook" src="../../../images/icons/facebook.png" title="Facebook"/>
+												</a>
+												<a href="http://reddit.com/submit?url=http://www.epa.gov/climatechange/images/indicator_downloads/temperature-download3-2013.png&amp;;title=Climate Change Indicators: U.S. and Global Temperature" style="text-decoration: none" target="_blank">
+												    <img alt="Reddit" src="../../../images/icons/reddit.png" title="Reddit"/>
+												</a>
+						                    </p>
+                                            
+                                             <p style="float:right; margin-top:10px;"/><em>Web update: August 2013</em></p>
+                                            
+<p style="clear:both; margin-top:4px;"/>This figure shows how annual average air temperatures have changed in different parts of the United States since the early 20<sup>th</sup> century (since 1901 for the contiguous 48 states, 1905 for Hawaii, and 1918 for Alaska).</p>
+<p>
+												<em>Data source: NOAA, 2013<sup>
+												        <a href="../references.html#wc_temperature_fn3">3</a>
+												    </sup>
+												</em>
+						                    </p>
+<p style="text-align: right; padding-right: 10px; clear: both">
+												<img align="middle" alt="" src="../../../images/mag.png"/>
+												<strong>
+												    <a href="../../../images/indicator_downloads/temperature-download3-2013.png">Larger image to save or print</a>
+												</strong>
+						                    </p>
+</div>
+</div>
+<ul class="ui-tabs-nav">
+    <li class="ui-tabs-nav-item ui-tabs-selected" id="nav-fragment-1">
+						                    <a href="#fragment-1">
+												<img alt="Figure 1. Temperatures in the Contiguous 48 States, 1901–2012" height="150" src="../../../images/indicator_thumbnails/temperature-thumb1-2013.gif" width="150" title="Figure 1. Temperatures in the Contiguous 48 States, 1901–2012"/>
+						                    </a>
+						                </li>
+    <li class="ui-tabs-nav-item" id="nav-fragment-2">
+						                    <a href="#fragment-2">
+												<img alt="Figure 2. Temperatures Worldwide, 1901–2012" height="150" src="../../../images/indicator_thumbnails/temperature-thumb2-2013.gif" width="150" title="Figure 2. Temperatures Worldwide, 1901–2012"/>
+												<br/>
+    </a>
+						                </li>
+    <li class="ui-tabs-nav-item" id="nav-fragment-3">
+						                    <a href="#fragment-3">
+												<img alt="Figure 3. Rate of Temperature Change in the United States, 1901–2012" height="202" src="../../../images/indicator_thumbnails/temperature-thumb3-2013.gif" width="150" title="Figure 3. Rate of Temperature Change in the United States, 1901–2012"/>
+												<br/>
+    </a>
+						                </li>
+</ul>
+</div>
+<div class="printfriendly">
+						            <strong>
+						                <a href="../../../pdfs/print_temperature-2013.pdf">Printer-friendly PDF of all text and figures</a>
+						            </strong>
+						            <span class="fileinfo">(5 pp, 174K, <a href="http://www.epa.gov/epahome/pdf.html">About PDF</a>)</span>
+						        </div>
+</div>
+</div>
+<div id="indicators-right">
+<div class="accordion" style="margin-top: 10px">
+<h5>Key Points</h5>
+<div class="panel">
+<ul>
+    <li>Since 1901, the average surface temperature across the contiguous 48 states has risen at an average rate of 0.14°F per decade (1.4°F per century) (see Figure 1). Average temperatures have risen more quickly since the late 1970s (0.36 to 0.55°F per decade). Seven of the top 10 warmest years on record for the contiguous 48 states have occurred since 1998, and 2012 was the warmest year on record.</li>
+    <li>Worldwide, 2001-2010 was the warmest decade on record since thermometer-based observations began. Global average surface temperature has risen at an average rate of 0.15°F per decade since 1901 (see Figure 2), similar to the rate of warming within the contiguous 48 states. Since the late 1970s, however, the United States has warmed faster than the global rate.</li>
+    <li>Some parts of the United States have experienced more warming than others (see Figure 3). The North, the West, and Alaska have seen temperatures increase the most, while some parts of the Southeast have experienced little change. However, not all of these regional trends are statistically significant.</li>
+</ul>
+</div>
+<h5>Background</h5>
+<div class="panel">
+<p>Temperature is a fundamental measurement for describing the climate, and the temperature in particular places can have wide-ranging effects on human life and ecosystems. For example, increases in air temperature can lead to more intense heat waves, which can cause illness and death, especially in vulnerable populations. Annual and seasonal temperature patterns also determine the types of animals and plants that can survive in particular locations. Changes in temperature can disrupt a wide range of natural processes, particularly if these changes occur more quickly than plant and animal species can adapt.</p>
+<p>Concentrations of heat-trapping greenhouse gases are increasing in the Earth's atmosphere (see the <a href="../ghg/ghg-concentrations.html">Atmospheric Concentrations of Greenhouse Gases</a> indicator). In response, average temperatures at the Earth's surface are rising and are expected to continue rising. However, because climate change can shift the wind patterns and ocean currents that drive the world's climate system, some areas experience more warming than others, and some might experience cooling.</p>
+</div>
+<h5>About the Indicator</h5>
+<div class="panel">
+<p>This indicator examines U.S. and global surface temperature patterns from 1901 to the present. U.S. surface measurements come from weather stations on land, while global surface measurements also incorporate observations from buoys and ships on the ocean, thereby providing data from sites spanning much of the surface of the Earth. For comparison, this indicator also displays satellite measurements that can be used to estimate the temperature of the Earth's lower atmosphere since 1979.</p>
+<p>This indicator shows anomalies, which compare recorded annual temperature values against a long-term average. For example, an anomaly of +2.0 degrees means the average temperature was 2 degrees higher than the long-term average. This indicator uses the average temperature from 1901 to 2000 as a baseline for comparison. Annual anomalies are calculated for each weather station, starting from daily and monthly average temperatures. Anomalies for broader regions have been determined by dividing the country (or the world) into a grid, averaging the data for all weather stations within each cell of the grid, and then averaging the grid cells together (for Figures 1 and 2) or displaying them on a map (Figure 3). This method ensures that the results are not biased toward regions that happen to have many stations close together.</p>
+</div>
+<h5>Indicator Notes</h5>
+<div class="panel">
+<p>Data from the early 20<sup>th</sup> century are somewhat less precise than more recent data because there were fewer stations collecting measurements at the time, especially in the Southern Hemisphere. However, the overall trends are still reliable. Where possible, the data have been adjusted to account for any biases that might be introduced by station moves, development (e.g., urbanization) near the station, changes in instruments and times of measurement, and other changes.</p>
+</div>
+<h5>Data Sources</h5>
+<div class="panel">
+<p>The data for this indicator were provided by the National Oceanic and Atmospheric Administration's National Climatic Data Center, which maintains a large collection of climate data online at: <a href="http://www.ncdc.noaa.gov/oa/ncdc.html">www.ncdc.noaa.gov/oa/<br/>
+ncdc.html</a>. Surface temperature anomalies were calculated based on monthly values from a network of long-term monitoring stations. Satellite data were analyzed by two independent groups—the Global Hydrology and Climate Center at the University of Alabama in Huntsville (UAH) and Remote Sensing Systems (RSS)—resulting in slightly different trend lines.</p>
+</div>
+<h5>Technical Documentation</h5>
+<div class="panel">
+<ul>
+    <li>
+						                    <a href="../../../pdfs/temperature_documentation-2013.pdf">Download related technical information PDF</a>
+						                    <span class="fileinfo">(9 pp, 278K, <a href="http://www.epa.gov/epahome/pdf.html">About PDF</a>)</span>
+						                </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+                    <!--googleoff: index-->
+                    <!-- BEGIN AREA FOOTER -->
+                    <p id="areafooter">
+						<span class="column1 topic"><a href="/climatechange/basics">Basic Information</a></span>
+						<span class="column2 topic"><a href="/climatechange/ghgemissions">Greenhouse Gas Emissions</a></span>
+						<span class="column3 topic"><a href="/climatechange/science">Science</a></span>
+						<span class="column4 topic"><a href="/climatechange/EPAactivities.html">What EPA is Doing</a></span>
+						<span class="column5 topic"><a href="/climatechange/wycd">What You Can Do</a></span>
+						<br/>
+						<span class="column1 blank"><a href="/climatechange/index.html">blank</a></span>
+						<span class="column2"><a href="/climatechange/ghgemissions/gases.html">Overview of Gases</a></span>
+						<span class="column3"><a href="/climatechange/science/overview.html">Overview</a></span>
+						<span class="column4"><a href="/climatechange/EPAactivities/economics.html">Evaluating Policy Options,<br/>Costs, and Benefits</a></span>
+						<span class="column5"><a href="/climatechange/wycd/home.html">At Home</a></span>
+						<br/>
+						<span class="column1 topic postInA"><a href="/climatechange/newsroom.html">Newsroom</a></span>
+						<span class="column2 postInA"><a href="/climatechange/ghgemissions/sources.html">Sources of Emissions</a></span>
+						<span class="column3 postInA"><a href="/climatechange/science/causes.html">Causes of Climate Change</a></span>
+						<span class="column4 "><a href="/climatechange/EPAactivities/regulatory-initiatives.html">Regulatory Initiatives</a></span>
+						<span class="column5 postInA"><a href="/climatechange/wycd/road.html">On the Road</a></span>
+						<br/>
+						<span class="column1 blank postInA"><a href="/climatechange/index.html">blank</a></span>
+						<span class="column2 postInA"><a href="/climatechange/ghgemissions/global.html">Global Data</a></span>
+						<span class="column3 postInA"><a href="/climatechange/science/indicators/">Indicators of Climate Change</a></span>
+						<span class="column4"><a href="/climatechange/EPAactivities/voluntaryprograms.html">Voluntary Programs</a></span>
+						<span class="column5 postInA"><a href="/climatechange/wycd/office.html">In the Office</a></span>
+						<br/>
+						<span class="column1 topic postInA"><a href="/climatechange/links.html">Related Links</a></span>
+						<span class="column2 postInA"><a href="/climatechange/ghgemissions/usinventoryreport.html">National Data</a></span>
+						<span class="column3 postInA"><a href="/climatechange/science/future.html">Future Climate Change</a></span>				<span class="column4"><a href="http://epa.gov/statelocalclimate/">State,  Local, and Tribal Partnerships</a></span>
+						<span class="column5 postInA"><a href="/climatechange/wycd/school.html">At School</a></span>
+						<br/>
+						<span class="column1 blank postTribes"><a href="/climatechange/glossary.html">blank</a></span>
+						<span class="column2 postTribes"><a href="/climatechange/emissions/ghgdata/index.html">Facility Data</a></span>
+						<span class="column3 blank postInA"><a href="/climatechange/index.html">blank</a></span>
+						<span class="column4 blank"><a href="/climatechange/">blank</a></span>
+						<span class="column5 blank postTribes"><a href="/climatechange/index.html">blank</a></span
+						><br/>
+						<span class="column1 topic postTribes"><a href="/climatechange/glossary.html">Glossary</a></span>
+						<span class="column2 postTribes"><a href="/climatechange/ghgemissions/individual.html">Individual Calculator</a></span>
+						<span class="column3 blank postTribes"><a href="/climatechange/index.html">blank</a></span>
+						<span class="column4 blank"><a href="/climatechange/">blank</a></span>
+						<span class="column5 topic postTribes"><a href="/climatechange/index.html">Climate Connections</a></span>
+						<br/>
+						<span class="postTribes column1 blank" style="clear: both"><a href="/climatechange/kids">blank</a></span>
+						<span class="postTribes column2 blank"><a href="/climatechange/">blank</a></span>
+						<span class="column3 topic postEmissions"><a href="/climatechange/impacts-adaptation/index.html">Climate Change Impacts and Adapting to Change</a></span>
+						<span class="column4 postTribes"><a href="/climatechange/EPAactivities/internationalpartnerships.html">Partnering Internationally</a></span>
+						<span class="column5 postTribes"><a href="http://www.epa.gov/cleanenergy/">Clean Energy</a></span>
+						<br/>
+						<span class="postInA postEmissions column1 topic" style="clear: both"><a href="/climatechange/kids/index.html">Students' Site</a></span>
+						<span class="postInA postTribes column2 blank"><a href="/climatechange/">blank</a></span>
+						<span class="postInA postTribes column3 blank"><a href="/climatechange/index.html">blank</a></span>
+						<span class="postInA postTribes column4 blank"><a href="/climatechange/index.html">blank</a></span>
+						<span class="postInA postEmissions column5"><a href="http://www.epa.gov/otaq/climate/index.htm">Climate and Transportation</a></span>
+                        <br/>
+                        <span class="postInA postTribes column1 blank" style="clear: both"><a href="/climatechange/index.html">blank</a></span>
+						<span class="postInA postTribes column2 blank"><a href="/climatechange/index.html">blank</a></span>
+						<span class="postInA postTribes column3 blank"><a href="/climatechange/index.html">blank</a></span>
+						<span class="postInA postTribes column4 blank"><a href="/climatechange/index.html">blank</a></span>
+						<span class="postEmissions column5"><a href="http://water.epa.gov/scitech/climatechange/">Climate and Water</a></span>
+                        <br/>
+                        <span class="postInA postTribes column1 blank" style="clear: both"><a href="/climatechange/index.html">blank</a></span>
+						<span class="postInA postTribes column2 blank"><a href="/climatechange/index.html">blank</a></span>
+						<span class="postInA postTribes column3 blank"><a href="/climatechange/index.html">blank</a></span>
+						<span class="postInA postTribes column4 blank"><a href="/climatechange/index.html">blank</a></span>
+						<span class="postInA postEmissions column5"><a href="http://epa.gov/climatechange/climate-change-waste/">Climate and Waste</a></span>
+                        <br/>
+                        <span class="postInA postTribes column1 blank" style="clear: both"><a href="/climatechange/index.html">blank</a></span>
+                        <span class="postInA postTribes column2 blank"><a href="/climatechange/index.html">blank</a></span>
+                        <span class="postInA postTribes column3 blank"><a href="/climatechange/index.html">blank</a></span>
+                        <span class="postInA postTribes column4 blank"><a href="/climatechange/index.html">blank</a></span>
+                        <span class="postInA postEmissions column5"><a href="http://www.epa.gov/research/climatescience/">EPA Climate Science Research</a></span>
+						<br/>
+						</p>
+                    <!-- END AREA FOOTER -->
+                    <!-- END CONTENT -->
+                </div>
+                <div id="areanav">
+                    <!-- BEGIN AREA MAIN NAVIGATION -->
+                    <h4 class="skip">Area Navigation</h4>
+                    <ul>
+    <li class="separator">
+						    <a href="/climatechange/">Climate Change Home</a>
+						    <hr/>
+    </li>
+    <li>
+						    <a href="/climatechange/basics/">Basic Information</a>
+						</li>
+    <li>
+						    <a href="/climatechange/ghgemissions/">Greenhouse Gas Emissions</a>
+    <ul>
+        <li>
+						            <a href="/climatechange/ghgemissions/gases.html">Overview of Gases</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/ghgemissions/sources.html">Sources of Emissions</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/ghgemissions/global.html">Global Data</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/ghgemissions/usinventoryreport.html">National Data</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/emissions/ghgdata/index.html">Facility Data</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/ghgemissions/individual.html">Individual Calculator</a>
+						        </li>
+    </ul>
+    </li>
+    <li>
+						    <a href="/climatechange/science/">Science</a>
+    <ul>
+        <li>
+						            <a href="/climatechange/science/overview.html">Overview</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/science/causes.html">Causes of Climate Change</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/science/indicators/index.html">Indicators of Climate Change</a>
+						        </li>    <li>
+						            <a href="/climatechange/science/future.html">Future Climate Change</a>
+						        </li> <li><a href="/climatechange/science/multimedia.html">Multimedia Gallery</a></li>	
+    </ul>
+
+    </li>
+    <li>
+						    <a href="/climatechange/impacts-adaptation/">Impacts &amp; Adaptation</a>
+    <ul>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/alaska.html">Alaska</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/islands.html">US Islands</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/southwest.html">Southwest </a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/southeast.html">Southeast </a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/northeast.html">Northeast </a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/northwest.html">Northwest </a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/midwest.html">Midwest </a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/greatplains.html">Great Plains</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/international.html">International</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/health.html">Health </a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/ecosystems.html">Ecosystems </a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/forests.html">Forests </a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/transportation.html">Transportation </a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/energy.html">Energy</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/coasts.html">Coasts </a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/agriculture.html">Agriculture and Food</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/society.html">Society</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/water.html">Water Resources </a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/adapt-overview.html">Adaptation Overview</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/adapt-tools.html">Tools for Public Officials</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/impacts-adaptation/fed-programs.html">Federal and EPA Programs</a>
+						        </li>
+    </ul>
+    </li>
+    <li>
+						    <a href="/climatechange/EPAactivities.html">What EPA is Doing</a>
+    <ul>
+        <li>
+						            <a href="/climatechange/EPAactivities/regulatory-initiatives.html">Regulatory Initiatives</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/EPAactivities/voluntaryprograms.html">Voluntary Programs</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/EPAactivities/economics.html">Evaluating Policies</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/EPAactivities/internationalpartnerships.html">International Partnerships</a>
+						        </li>
+        <li>
+						            <a href="http://epa.gov/statelocalclimate/">Partnering with States and Tribes</a>
+						        </li>
+    </ul>
+    </li>
+    <li>
+						    <a href="/climatechange/wycd/">What You Can Do</a>
+    <ul>
+        <li>
+						            <a href="/climatechange/wycd/home.html">At Home</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/wycd/road.html">On the Road</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/wycd/office.html">At the Office</a>
+						        </li>
+        <li>
+						            <a href="/climatechange/wycd/school.html">At School</a>
+						        </li>
+    </ul>
+    </li>
+    <li>
+						    <a href="/climatechange/newsroom.html">Newsroom</a>
+						</li>
+    <li>
+						    <a href="/climatechange/glossary.html">Glossary</a>
+						</li>
+    <li>
+						    <a href="/climatechange/students/index.html">Students Site</a>
+						</li>
+</ul>
+                </div>
+                <!-- END AREA MAIN NAVIGATION -->
+            </div>
+        </div>
+        <!-- BEGIN FOOTER -->
+        <div id="footer">
+            <ul id="goodies">
+                <li id="rss-news">
+                    <a href="http://www.epa.gov/newsroom/rssfeeds.htm">News Feeds</a>
+                </li>
+                <li id="podcasts">
+                    <a href="http://www.epa.gov/epahome/podcasts.htm">Podcasts</a>
+                </li>
+                <li id="mobile">
+                    <a href="http://m.epa.gov/">EPA Mobile</a>
+                </li>
+                <li id="email-news">
+                    <a href="http://www.epa.gov/newsroom/email_signups.htm">News by Email</a>
+                </li>
+                <li id="widgets">
+                    <a href="http://www.epa.gov/widgets/">Widgets</a>
+                </li>
+            </ul>
+            <ul id="globalfooter">
+                <li>
+                    <a href="http://www.epa.gov/">EPA Home</a>
+                </li>
+                <li>
+                    <a href="http://www.epa.gov/epafiles/usenotice.htm">Privacy and Security Notice</a>
+                </li>
+                <li class="last">
+                    <a href="http://www.epa.gov/climatechange/contactus.html">Contact Us</a>
+                </li>
+            </ul>
+            <p id="wcmswatermark">WCMS</p>
+            <p id="seal">The Seal of the United States Environmental Protection Agency</p>
+        </div>
+        <p class="skip">
+            <a title="Jump to main content." href="#content">Jump to main content.</a>
+        </p>
+        <!-- END FOOTER -->
+        <script type="text/javascript" src="http://www.epa.gov/epafiles/js/third-party/jquery.js"> </script>
+        <script type="text/javascript" src="http://www.epa.gov/epafiles/js/epa-core-v4.js"> </script>    <!-- Begin: page related java script -->        <!-- Begin: page related java script --><script type="text/javascript" src="../../../scripts/main.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.5.3/jquery-ui.min.js" ></script>  
+
+<script type="text/javascript">
+$(document).ready(function(){
+		   
+//inner nav
+   $('.nav1').mouseover(function(){
+		$('.nav1 ul').show();
+	}).mouseout(function(){
+		$('.nav1 ul').hide();   
+   });
+   $('.nav2').mouseover(function(){
+		$('.nav2 ul').show();
+	}).mouseout(function(){
+		$('.nav2 ul').hide();   
+	});
+   $('.nav3').mouseover(function(){
+		$('.nav3 ul').show();
+	}).mouseout(function(){
+		$('.nav3 ul').hide();  
+	});
+   $('.nav4').mouseover(function(){
+		$('.nav4 ul').show();
+		//$('.nav4 a').addClass('active');
+	}).mouseout(function(){
+		$('.nav4 ul').hide();  
+		//$('.nav4 a').removeClass('active');
+	});
+	$('.nav5').mouseover(function(){
+		$('.nav5 ul').show();
+		//$('.nav5 a').addClass('active');
+	}).mouseout(function(){
+		$('.nav5 ul').hide();  
+		//$('.nav5 a').removeClass('active');
+	});
+   
+   $('.inner-nav li ul li:last-child a').addClass('last-item');
+   
+   	//Homepage Accordion
+	$(".accordion h5:first").addClass("active");
+	$(".accordion div:not(:first)").hide();
+	$(".accordion h5").click(function(){
+		$(this).next(".panel").slideToggle("slow").siblings(".panel:visible").slideUp("slow");
+		$(this).toggleClass("active");
+		$(this).siblings("h5").removeClass("active");
+	});
+   
+});
+
+
+$(document).ready(function(){  
+    $("#featured > ul").tabs({fx:{opacity: "toggle"}}).tabs;  
+});
+
+/*$(document).ready(function(){  
+    $("#featured > ul").tabs({fx:{opacity: "toggle"}}).tabs("rotate", 5000, true);  
+});
+*/
+
+</script><!-- End: page related java script --><!-- BEGIN CP Specific tag -->
+        <script type="text/javascript">displayToolkit("0901efcc801e2a31","status|submittoworkflow|viewproperties|createnewpage|multimport"); </script>
+        <script type="text/javascript">quickEditForm("0901efcc801e2a31","/root",false,"../forms/110_basic","","700px","900px","110 Basic","","pencil.gif",""); </script>
+        <!-- END CP Specific tag-->
+    </body>
+</html>

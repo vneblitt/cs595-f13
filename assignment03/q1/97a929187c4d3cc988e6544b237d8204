@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<meta property="og:url" content="http://www.unesco.org" />
+<meta property="og:image" content="https://lh6.googleusercontent.com/-P4wptu3-dtM/AAAAAAAAAAI/AAAAAAAAAAA/XZJt2rGYu-k/s49-c/photo.jpg" />
+<meta property="og:site_name" content="UNESCO" />
+<meta name="description" content="UNESCO encourages international peace and universal respect for human rights by promoting collaboration among nations. Its mission is to contribute to the building of peace, the eradication of poverty, sustainable development and intercultural dialogue." />
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><link rel="shortcut icon" href="http://en.unesco.org/sites/default/files/icon_0.png" type="image/png" />
+<meta property="og:description" content="UNESCO encourages international peace and universal respect for human rights by promoting collaboration among nations. Its mission is to contribute to the building of peace, the eradication of poverty, sustainable development and intercultural dialogue." />
+<meta property="og:type" content="public_figure" />
+<link rel="shortlink" href="http://www.unesco.org" />
+<meta property="og:title" content="UNESCO" />
+<meta content="Learning to Live Together" about="http://en.unesco.org/themes/learning-live-together" property="dc:title" />
+<meta name="keywords" content="unesco, education, science, culture, communication, information, peace, respect, human rights, sustainable development, poverty, intercultural dialogue" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.unesco.org" />
+<meta name="copyright" content="UNESCO" />
+<link rel="publisher" href="http://www.unesco.org" />
+  <title>Learning to Live Together | UNESCO</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://en.unesco.org/sites/default/files/css/css_791YXBaKKm1ORM_7huSKEsIV9tSWq6wmRkERhuXpN6w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://en.unesco.org/sites/default/files/css/css_1WxHe3_m0a_qC28gKwzeXd9LdK_mvxQQD6FlE3UFvDs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://en.unesco.org/sites/default/files/css/css_7maRVbDh1bUm7lT4z6FDzZ1ZZiQSlf5mkOTmahoKExI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://en.unesco.org/sites/default/files/css/css_El1iP3AteSPSmzCf4ACQ6-RC8OlFWZbMBiREibAHBuU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://en.unesco.org/sites/default/files/css/css_qam6xZUGlUHrjJaAo8Y_D5PrW7GMlZFhaMJDxfOctKo.css" media="all" />
+  <script>window.google_analytics_uacct = "UA-6025718-3";</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/jquery.min.js'>\x3C/script>")</script>
+<script src="http://en.unesco.org/sites/default/files/js/js_b0gYJf-p7oHc4hb4753wEL1s0LGUJJfZHT_0yZ_RS-8.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
+<script>window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script>
+<script src="http://en.unesco.org/sites/default/files/js/js_KCd8rbJYUruV1tRJnh4um34UYvyhlrSVCPR1jNko2h8.js"></script>
+<script src="http://en.unesco.org/sites/default/files/js/js_n7uDOkOLVUO3bRItN96p9eIZ2mTpjXS46f6TaVM3ChI.js"></script>
+<script src="http://en.unesco.org/sites/default/files/js/js_I5ilelLdGW-5gVkrxvwqDLjCNdkIrvBHEZ9eDiciGoU.js"></script>
+<script>
+    jQuery(function($) {
+      $.each($('#om-menu-unesco-main-menu .om-leaf'),function() {
+
+        var active = $('.menu a', this).hasClass('active');
+        var active_trail = $('.menu a', this).hasClass('active-trail');
+        
+        if ((active == true) || (active_trail == true)) {
+          $('#om-menu-unesco-main-menu .om-leaf').removeClass('active-trail');
+          $(this).addClass('active-trail');
+        }
+      });
+    }); </script>
+<script src="http://en.unesco.org/sites/default/files/js/js_SQEoMB1d0Svhx8SRmc_9MwVHX8xggYMNNho4ZVko7VE.js"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-6025718-3"]);_gaq.push(["_setDomainName", ".unesco.org"]);_gaq.push(['_setCustomVar', 1, "type", "drupal", 3]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "http://en.unesco.org/sites/default/files/googleanalytics/ga.js?mtl2yk";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="http://en.unesco.org/sites/default/files/js/js_a_XWH2S1EQaU85ypMDyQGiUfzPFez1IOZKxHnhGkv3E.js"></script>
+<script src="http://en.unesco.org/sites/default/files/js/js_qFPbRCYogUtadO4SAZfITYopW3km0he2oHHwSaq_IGc.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"front","theme_token":"QDW5mq3EuvGIJyAIKRVbHQtsn7xQcWDbwroAS5rcDkk","js":{"sites\/all\/modules\/contrib\/google_cse\/google_cse_results.js":1,"https:\/\/www.google.com\/afsonline\/show_afs_search.js":1,"0":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.5.2\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/equalheights\/jquery.equalheights.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.8.11\/jquery-ui.min.js":1,"2":1,"misc\/form.js":1,"sites\/all\/modules\/contrib\/equalheights\/equalheights.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/contrib\/om_maximenu\/js\/om_maximenu.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/stockholmsyndrome\/colorbox_stockholmsyndrome.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/contrib\/dhtml_menu\/dhtml_menu.js":1,"sites\/all\/modules\/unesco\/unesco_site_pages\/js\/unesco_site_pages.more.js":1,"3":1,"sites\/all\/modules\/contrib\/jcarousel\/js\/jquery.jcarousel.min.js":1,"sites\/all\/modules\/contrib\/jcarousel\/js\/jcarousel.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"4":1,"misc\/collapse.js":1,"sites\/all\/themes\/unesco_common\/js\/script.js":1,"sites\/default\/themes\/front\/js\/modernizr.js":1,"sites\/default\/themes\/front\/js\/slides.min.jquery.js":1,"sites\/default\/themes\/front\/js\/jquery.jqzoom-core.js":1,"sites\/default\/themes\/front\/js\/front.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/om_maximenu\/css\/om_maximenu.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/stockholmsyndrome\/colorbox_stockholmsyndrome.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/dhtml_menu\/dhtml_menu.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_help\/ldap_help.css":1,"sites\/all\/modules\/contrib\/om_maximenu\/skin\/no_style\/no_style.css":1,"modules\/locale\/locale.css":1,"sites\/all\/modules\/contrib\/jcarousel\/skins\/default\/jcarousel-default.css":1,"sites\/all\/themes\/unesco_common\/system.menus.css":1,"sites\/all\/themes\/unesco_common\/css\/normalize.css":1,"sites\/all\/themes\/unesco_common\/css\/wireframes.css":1,"sites\/default\/themes\/front\/css\/layouts\/fixed-width.css":1,"sites\/all\/themes\/unesco_common\/css\/page-backgrounds.css":1,"sites\/all\/themes\/unesco_common\/css\/tabs.css":1,"sites\/all\/themes\/unesco_common\/css\/pages.css":1,"sites\/default\/themes\/front\/css\/blocks.css":1,"sites\/all\/themes\/unesco_common\/css\/common_blocks.css":1,"sites\/default\/themes\/front\/css\/navigation.css":1,"sites\/all\/themes\/unesco_common\/css\/views-styles.css":1,"sites\/all\/themes\/unesco_common\/css\/nodes.css":1,"sites\/all\/themes\/unesco_common\/css\/comments.css":1,"sites\/all\/themes\/unesco_common\/css\/forms.css":1,"sites\/all\/themes\/unesco_common\/css\/fields.css":1,"sites\/default\/themes\/front\/css\/print.css":1,"sites\/default\/themes\/front\/css\/front_page.css":1,"sites\/default\/themes\/front\/css\/theme_page.css":1,"sites\/default\/themes\/front\/css\/dashboard.css":1,"sites\/default\/themes\/front\/css\/front.css":1,"sites\/default\/themes\/front\/css\/typography.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"dhtmlMenu":{"nav":"open","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"500"},"effects":{"siblings":"close-all","children":"close-children","remember":"0"},"filter":{"type":"whitelist","list":{"menu-connect-dash-links":"menu-connect-dash-links","menu-dash-links":"menu-dash-links","menu-main-menu-themes":"menu-main-menu-themes","main-menu":0,"management":0,"menu-about-us":0,"menu-correspondence-context-menu":0,"menu-country-resources":0,"menu-footer-info":0,"menu-partnerships":0,"menu-resources":0,"menu-social-media":0,"menu-unescommunity-administrativ":0,"menu-unescommunity-conn-hrm":0,"menu-unescommunity-conn-mng":0,"menu-unescommunity-conn-res":0,"menu-unescommunity-conn-sec":0,"menu-unescommunity-conn-tex":0,"menu-unescommunity-human-resourc":0,"menu-unescommunity-management":0,"menu-unescommunity-resources":0,"menu-unescommunity-secretariat":0,"menu-unescommunity-sports":0,"menu-user-menu-login":0,"navigation":0,"shortcut-set-1":0,"user-menu":0}}},"googleCSE":{"cx":"000136296116563084670:h14j45a1zaw","language":"en","resultsWidth":980,"domain":"www.google.com"},"jcarousel":{"ajaxPath":"http:\/\/en.unesco.org\/jcarousel\/ajax\/views","carousels":{"jcarousel-dom-1":{"view_options":{"view_args":"110545\/all","view_path":"node\/110545","view_base_path":null,"view_display_id":"block","view_name":"site_page_news_infocus","jcarousel_dom_id":1},"wrap":"both","skin":"default","visible":1,"auto":5,"autoPause":1,"start":1,"navigation":"after","scroll":1,"selector":".jcarousel-dom-1"}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});</script>
+  <!--[if lt IE 9]>
+  <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-110545 node-type-theme-page i18n-en page-themes-learning-live-together content-type-theme-page content-type-theme-page-view section-themes om-tools-active section-themes lang-ltr" >
+      <div id="page">
+  <header id="header" role="banner">
+    <nav id="secondary-menu" role="navigation">
+        <div class="header__region region region-header">
+    <div id="block-locale-language" class="block block-locale first odd" role="complementary">
+  <div class="block-wrapper">
+                <div class="content-wrapper">
+      <ul class="language-switcher-locale-url"><li class="en first active"><a href="http://en.unesco.org/themes/learning-live-together" class="language-link active" lang="en" title="Learning to Live Together">English</a></li>
+<li class="fr"><a href="http://fr.unesco.org/themes/apprendre-%C3%A0-vivre-ensemble" class="language-link" lang="fr" title="Apprendre à vivre ensemble">Français</a></li>
+<li class="es"><a href="http://es.unesco.org/node/110545" class="language-link" lang="es">Español</a></li>
+<li class="ru"><a href="http://ru.unesco.org/node/110545" class="language-link" lang="ru">Русский</a></li>
+<li class="ar"><a href="http://ar.unesco.org/node/110545" class="language-link" lang="ar">العربية</a></li>
+<li class="zh last"><a href="http://zh.unesco.org/themes/%E5%AD%A6%E4%BC%9A%E5%85%B1%E5%A4%84" class="language-link" lang="zh" title="学会共处">中文</a></li>
+</ul>    </div>  
+  </div>
+</div><!-- /.block -->
+<div id="block-google-cse-google-cse" class="block block-google-cse even">
+  <div class="block-wrapper">
+                <div class="content-wrapper">
+      
+
+  <form action="http://www.google.com/cse" method="get" id="google-cse-results-searchbox-form" accept-charset="UTF-8"><div><input type="hidden" name="cx" value="000136296116563084670:h14j45a1zaw" />
+<input type="hidden" name="cof" value="FORID:0" />
+<div class="form-item form-type-textfield form-item-query">
+  <label for="edit-query">Enter your keywords </label>
+ <input type="text" id="edit-query" name="query" value="" size="20" maxlength="128" class="form-text" />
+</div>
+<input type="submit" id="edit-sa" name="op" value="Search" class="form-submit" /><input type="hidden" name="safe" value="off" />
+<input type="hidden" name="hl" value="en" />
+<input type="hidden" name="lr" value="lang_en" />
+<input type="hidden" name="form_build_id" value="form-Ne1k1ae7kCHNfQTNwnl-NEztKm1xO236oUoG8Q8nJSw" />
+<input type="hidden" name="form_id" value="google_cse_results_searchbox_form" />
+</div></form>
+<div id="google-cse-results">
+  <noscript>
+    <a href="http://www.google.com/cse?query=&amp;cx=000136296116563084670%3Ah14j45a1zaw&amp;cof=FORID%3A0&amp;sitesearch=&amp;safe=off&amp;hl=en&amp;lr=lang_en">View the results at Google</a>, or enable JavaScript to view them here.  </noscript>
+</div>
+
+    </div>  
+  </div>
+</div><!-- /.block -->
+<div id="block-menu-menu-user-menu-login" class="block block-menu last odd" role="navigation">
+  <div class="block-wrapper">
+              <h2 class="block__title block-title">menu login</h2>
+            <div class="content-wrapper">
+      <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf"><a href="http://www.unesco.org/new/en/" id="menu_login_unesco" class="menu__link menu__link menu_login">UNESCO.org</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/member-states/" id="menu_login_staff" class="menu__link menu__link menu_login">Member States</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf"><a href="http://en.unesco.org/user/login/sso" id="menu_login_member_states" class="menu__link menu__link menu_login">Staff</a></li>
+</ul>    </div>  
+  </div>
+</div><!-- /.block -->
+  </div>
+      
+    </nav>
+  </header>
+  <div id="main">
+    <div id="highlighteds">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="http://en.unesco.org/">Home</a></li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-menu-menu-social-media" class="block block-menu first last odd" role="navigation">
+  <div class="block-wrapper">
+              <h2 class="block__title block-title">Social Media</h2>
+            <div class="content-wrapper">
+      <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf"><a href="https://www.facebook.com/unesco" id="share-facebook" class="menu__link menu__link icons-social-share_facebook">Facebook</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="https://twitter.com/unesco/" id="share-twitter" class="menu__link menu__link icons-social-share_twitter">Twitter</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://itunes.apple.com/us/institution/unesco-united-nations-educational/id435087097" id="share-itunes" class="menu__link menu__link icons-social-share_itunes">iTunes</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.youtube.com/user/unesco" id="share-youtube" class="menu__link menu__link icons-social-share_youtube">YouTube</a></li>
+<li class="menu__item is-expanded last expanded nolink"><span>...</span><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf"><a href="https://plus.google.com/100805478151614737104?prsrc=3" id="share-google" rel="publisher author" class="menu__link menu__link icons-social-share_google" target="_top">Google+</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://vk.com/unesco" id="share-vkontakte" class="menu__link menu__link icons-social-share_vkontakte">vKontakte</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.weibo.com/unesco" id="share-weibo" class="menu__link menu__link icons-social-share_weibo">Weibo</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.linkedin.com/company/unesco" id="share-linkedIn" class="menu__link menu__link icons-social-share_linkedin">LinkedIn</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf"><a href="https://en.unesco.org/rss.xml" id="share-rss" class="menu__link menu__link icons-social-share_rss">Rss</a></li>
+</ul></li>
+</ul>    </div>  
+  </div>
+</div><!-- /.block -->
+  </div>
+    </div>
+    <div id="content" class="column" role="main">
+      <div id="content-wrapper" class="clearfix">
+        <a id="main-content"></a>
+                                                                <div class="region region-content">
+  <div class="region-wrapper">
+    
+
+<article class="node-110545 node node-theme-page view-mode-full clearfix" about="http://en.unesco.org/themes/learning-live-together" typeof="sioc:Item foaf:Document">
+
+  
+  <span class="print-link"></span><h1 id="page-title">Learning to Live Together</h1><div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>In today’s increasingly diverse societies, UNESCO continues to accomplish every day its fundamental humanist mission to support people in understanding each other and working together to build lasting peace.</p>
+ </div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p>Yet, lasting peace rests on a complex and fragile web of daily practices embedded in local settings and the most ephemeral encounters that individuals and communities creatively maintain out of the conviction that they constitute the sustainable conditions for living together in dignity and shared prosperity.</p>
+<p>At a time of increasing global challenges and threats, such as inequality, exclusion, violence and sectarianism worsened by local tensions and conflicts which undermine humanity’s cohesion, learning to live together among all members of the global community becomes more topical than ever before.</p>
+<p>Individuals become interculturally competent through learning and life experience for successful living in the modern complexity of our heterogeneous world and consequently they become prepared to appreciate diversity as well as to manage conflicts in accordance with the values of pluralism and mutual understanding.</p>
+<p>On a daily basis, from its Headquarters and in the Field, UNESCO intervenes to accompany its Member States and all its partners to better understand and address the challenges of our more and more diversified societies, particularly through its intergovernmental Programme for Management of <a href="https://en.unesco.org/themes/social-transformations" rel="nofollow">Social Transformations</a> (MOST) as well the <a href="http://www.unesco.org/new/en/bureau-of-strategic-planning/themes/culture-of-peace-and-non-violence/" rel="nofollow">Culture of Peace and Non-Violence Programme</a> which include, inter alia, initiatives for <a href="http://en.unesco.org/themes/democracy-and-global-citizenship" rel="nofollow">democracy and global citizenship</a>, <a href="http://en.unesco.org/themes/intercultural-dialogue" rel="nofollow">intercultural dialogue</a>, <a href="http://www.unesco.org/new/en/education/themes/leading-the-international-agenda/human-rights-education/" rel="nofollow">education for peace and human rights</a> and <a href="http://en.unesco.org/themes/building-peace-programmes" rel="nofollow">peace-building</a>.</p>
+<p>Furthermore, UNESCO seeks to promote the development and the practice of <a href="http://en.unesco.org/themes/sport-and-anti-doping" rel="nofollow">sporting activities, as well as the fight against doping</a> to foster social integration in different cultural and political contexts, recognizing that sport disregards both geographical borders and social classes.</p>
+<p>The Organization also works to ensure that <a href="https://en.unesco.org/themes/health-education" rel="nofollow">health and education</a> are not the privilege of those who are well-off.</p>
+<p><strong><em>"It is not enough to be connected to each other. We also share our solutions, our experiences and dreams in one great community supported by human rights and fundamental freedoms."</em></strong></p>
+<p>Irina Bokova, Director-General of UNESCO<br /><a href="http://unesdoc.unesco.org/images/0021/002165/216502m.pdf" rel="nofollow">International Conference of National Commissions for UNESCO</a>, Vienna (Austria), 31 May 2012</p>
+ </div></div></div><div class="sharethis-buttons"><div class="sharethis-wrapper"><span st_url="http://en.unesco.org/themes/learning-live-together" st_title="Learning to Live Together" class="st_email"></span>
+<span st_url="http://en.unesco.org/themes/learning-live-together" st_title="Learning to Live Together via @unesco" class="st_twitter" st_via="unesco"></span>
+<span st_url="http://en.unesco.org/themes/learning-live-together" st_title="Learning to Live Together" class="st_facebook"></span>
+<span st_url="http://en.unesco.org/themes/learning-live-together" st_title="Learning to Live Together" class="st_googleplus"></span>
+<span st_url="http://en.unesco.org/themes/learning-live-together" st_title="Learning to Live Together" class="st_sharethis"></span>
+<span st_url="http://en.unesco.org/themes/learning-live-together" st_title="Learning to Live Together" class="st_yammer"></span>
+<span st_url="http://en.unesco.org/themes/learning-live-together" st_title="Learning to Live Together" class="st_vkontakte"></span>
+<span st_url="http://en.unesco.org/themes/learning-live-together" st_title="Learning to Live Together" class="st_sina"></span>
+<script type='text/javascript'>var switchTo5x = false;var __st_loadLate = true;</script><script type='text/javascript' src='http://w.sharethis.com/button/buttons.js'></script><script type='text/javascript'>stLight.options({"publisher":"1356bf57-6e71-4160-bb2d-0897d570162f"});</script></div></div>
+
+  
+  
+</article>
+<div id="block-views-site-page-news-infocus-block" class="block block-views even">
+  <div class="block-wrapper">
+                <div class="content-wrapper">
+      <div class="view view-site-page-news-infocus view-id-site_page_news_infocus view-display-id-block view-dom-id-14a51b86af2e47583748d072502d4fad">
+        
+  
+  
+      <div class="view-content">
+      <ul class="jcarousel jcarousel-view--site-page-news-infocus--block jcarousel-dom-1 jcarousel-skin-default">
+      <li class="jcarousel-item-1 odd">  
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="http://www.unesco.org/new/en/social-and-human-sciences/themes/youth/sv13/news/get_involved_take_action_international_youth_photo_competition/#.UkP8bT_QfDN">Get involved! Take action! International Youth Photo Competition</a></h3>  </div>  
+  <div class="views-field views-field-field-media-image">        <div class="field-content"><a href="http://www.unesco.org/new/en/social-and-human-sciences/themes/youth/sv13/news/get_involved_take_action_international_youth_photo_competition/#.UkP8bT_QfDN"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/infocus_708x368/public/in_focus_photo_isic_1.jpg?itok=MzJ1bpa5" width="708" height="368" alt="" /><div class="field field-name-field-copy field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">© UNESCO</div></div></div></a></div>  </div></li>
+      <li class="jcarousel-item-2 even">  
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="http://www.unesco.org/new/en/media-services/in-focus-articles/the-ark-of-return/">Ark of Return: Winning Design of the Permanent Memorial to Honour the Victims of Slavery</a></h3>  </div>  
+  <div class="views-field views-field-field-media-image">        <div class="field-content"><a href="http://www.unesco.org/new/en/media-services/in-focus-articles/the-ark-of-return/"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/infocus_708x368/public/SlaveryMemorialWinnerInFocus.jpg?itok=Q4xHsJ3_" width="708" height="368" alt="" /><div class="field field-name-field-copy field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">© UNESCO</div></div></div></a></div>  </div></li>
+      <li class="jcarousel-item-3 odd">  
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="http://www.unesco.org/new/en/social-and-human-sciences/themes/anti-doping/sv15/news/100_unesco_countries_adopt_measures_to_reinforce_clampdown_on_doping_in_sport/#.UkQ7AD_QfDM">100 UNESCO countries adopt measures to reinforce clampdown on doping in sport</a></h3>  </div>  
+  <div class="views-field views-field-field-media-image">        <div class="field-content"><a href="http://www.unesco.org/new/en/social-and-human-sciences/themes/anti-doping/sv15/news/100_unesco_countries_adopt_measures_to_reinforce_clampdown_on_doping_in_sport/#.UkQ7AD_QfDM"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/infocus_708x368/public/news-images/infocus_sportconf.jpg?itok=uYoncKlB" width="708" height="368" alt="" /><div class="field field-name-field-copy field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">© UNESCO</div></div></div></a></div>  </div></li>
+      <li class="jcarousel-item-4 even">  
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="http://www.unesco.org/new/en/social-and-human-sciences/themes/anti-doping/sv15/news/fight_against_doping_27_new_projects_supported/">Fight against doping: 27 new projects supported</a></h3>  </div>  
+  <div class="views-field views-field-field-media-image">        <div class="field-content"><a href="http://www.unesco.org/new/en/social-and-human-sciences/themes/anti-doping/sv15/news/fight_against_doping_27_new_projects_supported/"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/infocus_708x368/public/doping_pills_flickr_1.jpg?itok=bQc9IZhW" width="708" height="368" alt="" /><div class="field field-name-field-copy field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">© UNESCO</div></div></div></a></div>  </div></li>
+  </ul>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>  
+  </div>
+</div><!-- /.block -->
+<div id="block-views-site-page-news-block-block" class="block block-views odd">
+  <div class="block-wrapper">
+              <h2 class="block__title block-title">Latest News</h2>
+            <div class="content-wrapper">
+      <div class="view view-site-page-news-block view-id-site_page_news_block view-display-id-block view-dom-id-6c29eb7dd9edc31826dfb764c8764443">
+        
+  
+      <div class="attachment attachment-before">
+      <div class="view view-site-page-news-block view-id-site_page_news_block view-display-id-attachment_1">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last"><div class="row-wrapper">  
+  <div class="views-field views-field-field-media-image">        <div class="field-content"><a href="http://www.unesco.org/new/en/media-services/single-view/news/launching_of_the_us_coalition_of_cities_against_racism_and_discrimination/back/9597/"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/media_featured_327x200/public/st_baptist_alabama_0.jpg?itok=7l3G8eJT" width="327" height="200" alt="" /><div class="field field-name-field-copy field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">© U.S. Department of State / J. Eldridge</div></div></div></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.unesco.org/new/en/media-services/single-view/news/launching_of_the_us_coalition_of_cities_against_racism_and_discrimination/back/9597/">Launching of the U.S. Coalition of Cities against Racism and Discrimination</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p> The U.S. Coalition of Cities against Racism and Discrimination was launched on 12 September 2013 in Birmingham, Alabama (United States of America).</p>
+</div>  </div></div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="clearfix">          <li class="views-row views-row-1 views-row-odd views-row-first"><div class="row-wrapper">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.unesco.org/new/en/media-services/single-view/news/young_people_from_brazil_and_cape_verde_exchange_experiences_in/back/9597/">Young people from Brazil and Cape Verde exchange experiences in sex education and community communication</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">27 September 2013</span>  </div></div></li>
+          <li class="views-row views-row-2 views-row-even"><div class="row-wrapper">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.unesco.org/new/en/media-services/single-view/news/unesco_and_un_alliance_of_civilizations_renew_cooperation_agreement/back/9597/">UNESCO and UN Alliance of Civilizations renew cooperation agreement</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">26 September 2013</span>  </div></div></li>
+          <li class="views-row views-row-3 views-row-odd"><div class="row-wrapper">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.unesco.org/new/en/media-services/single-view/news/winning_design_the_ark_of_return_for_the_permanent_memorial_in_honour_of_the_victims_of_slavery_and_the_transatlantic_slave_trade_unveiled_by_un_secretary_general/back/9597/">Winning design “The Ark of Return” for the Permanent Memorial in Honour of the Victims of Slavery and the Transatlantic Slave Trade unveiled by UN Secretary-General</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">23 September 2013</span>  </div></div></li>
+          <li class="views-row views-row-4 views-row-even views-row-last"><div class="row-wrapper">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.unesco.org/new/en/media-services/single-view/news/100_unesco_countries_adopt_measures_to_reinforce_clampdown_on_doping_in_sport/back/9597/">100 UNESCO countries adopt measures to reinforce clampdown on doping in sport</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">23 September 2013</span>  </div></div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>  
+  </div>
+</div><!-- /.block -->
+<div id="block-views-site-page-event-block-block" class="block block-views even">
+  <div class="block-wrapper">
+              <h2 class="block__title block-title">Events</h2>
+            <div class="content-wrapper">
+      <div class="view view-site-page-event-block view-id-site_page_event_block view-display-id-block view-dom-id-ec01639d43651a487e1dd1a6466053b2">
+        
+  
+      <div class="attachment attachment-before">
+      <div class="view view-site-page-event-block view-id-site_page_event_block view-display-id-attachment_1">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last"><div class="row-wrapper">  
+  <div class="views-field views-field-field-media-image">        <div class="field-content"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/media_featured_327x200/public/ythforum_identity_200px_0.jpg?itok=FsvGZT_M" width="327" height="200" alt="" /><div class="field field-name-field-copy field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">© UNESCO</div></div></div></div>  </div>  
+  <span class="views-field views-field-field-date">        <span class="field-content"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2013-10-29T09:00:00+00:00">29 October 2013</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2013-10-31T18:00:00+00:00">31 October 2013</span></span>  </span>      -  
+  <span class="views-field views-field-field-postal-address">        <span class="field-content">Paris, France</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://en.unesco.org/events/8th-unesco-youth-forum-0">8th UNESCO Youth Forum</a></span>  </div></div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="clearfix">          <li class="views-row views-row-1 views-row-odd views-row-first"><div class="row-wrapper">  
+  <span class="views-field views-field-field-date">        <span class="field-content"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2013-10-07T09:00:00+00:00">07 October 2013</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2013-10-11T18:00:00+00:00">11 October 2013</span></span>  </span>      -  
+  <span class="views-field views-field-field-postal-address">        <span class="field-content">Padang, Indonesia</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://en.unesco.org/events/looking-beyond-disaster-3rd-unesco-youth-forum-asia-and-pacific">Looking Beyond Disaster: 3rd UNESCO Youth Forum in Asia and the Pacific</a></span>  </div></div></li>
+          <li class="views-row views-row-2 views-row-even"><div class="row-wrapper">  
+  <span class="views-field views-field-field-date">        <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2013-10-29T18:30:00+00:00">29 October 2013</span></span>  </span>      -  
+  <span class="views-field views-field-field-postal-address">        <span class="field-content">Paris, France</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://en.unesco.org/events/award-ceremony-2013-unescojuan-bosch-prize-promotion-social-science-research-latin-america">Award Ceremony of the 2013 UNESCO/Juan Bosch Prize for the Promotion of Social Science Research in Latin America and the Caribbean</a></span>  </div></div></li>
+          <li class="views-row views-row-3 views-row-odd"><div class="row-wrapper">  
+  <span class="views-field views-field-field-date">        <span class="field-content"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2013-11-11T09:00:00+00:00">11 November 2013</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2013-11-12T19:00:00+00:00">12 November 2013</span></span>  </span>      -  
+  <span class="views-field views-field-field-postal-address">        <span class="field-content">Jakarta, Indonesia</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://en.unesco.org/events/national-dialogue-social-inclusion-people-living-disabilities-indonesia">National Dialogue on the Social Inclusion of People Living with Disabilities in Indonesia  </a></span>  </div></div></li>
+          <li class="views-row views-row-4 views-row-even views-row-last"><div class="row-wrapper">  
+  <span class="views-field views-field-field-date">        <span class="field-content"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2013-11-19T09:00:00+00:00">19 November 2013</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2013-11-20T20:00:00+00:00">20 November 2013</span></span>  </span>      -  
+  <span class="views-field views-field-field-postal-address">        <span class="field-content">Moscow, Russian Federation</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://en.unesco.org/events/regional-forum-%E2%80%9Cdialogue-way-understanding%E2%80%9D">Regional Forum “Dialogue as a Way to Understanding”</a></span>  </div></div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>  
+  </div>
+</div><!-- /.block -->
+<div id="block-views-site-page-publications-block-1" class="block block-views last odd">
+  <div class="block-wrapper">
+              <h2 class="block__title block-title">Publications</h2>
+            <div class="content-wrapper">
+      <div class="view view-site-page-publications view-id-site_page_publications view-display-id-block_1 clearfix view-dom-id-9b8e17180c28107d605fa0f52b4020d6">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-media-image">        <div class="field-content"><a href="http://unesdoc.unesco.org/images/0018/001893/189394e.pdf"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/portrait_small_100x150/public/cover_Dpl_sharing_water_benefits.jpg?itok=ABLFZfjM" width="100" height="148" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://unesdoc.unesco.org/images/0018/001893/189394e.pdf">Sharing water, sharing benefits: working towards effective transboundary water resources management</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-media-image">        <div class="field-content"><a href="http://www.unesco.org/new/en/social-and-human-sciences/resources/periodicals/diversities/current-issue/"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/portrait_small_100x150/public/diversities_vol14_no2_0.jpg?itok=WDyYk42H" width="100" height="141" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.unesco.org/new/en/social-and-human-sciences/resources/periodicals/diversities/current-issue/">Diversities - New Issue: Language and Superdiversities II</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-media-image">        <div class="field-content"><a href="http://publishing.unesco.org/details.aspx?=&amp;Code_Livre=4953&amp;change=E"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/portrait_small_100x150/public/hr_questions_2012.jpg?itok=thRuO80U" width="100" height="147" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://publishing.unesco.org/details.aspx?=&amp;Code_Livre=4953&amp;change=E">Human Rights: Questions and Answers </a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-media-image">        <div class="field-content"><a href="http://unesdoc.unesco.org/images/0021/002164/216493e.pdf"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/portrait_small_100x150/public/ED-homophobic.jpg?itok=MWq4CIKw" width="100" height="140" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://unesdoc.unesco.org/images/0021/002164/216493e.pdf">Good Policy and Practice in HIV and Health Education </a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>  
+  </div>
+</div><!-- /.block -->
+  </div>  
+</div>
+              </div>
+    </div><!-- /#content -->
+
+    <div id="navigation">
+        <nav id="primary-menu" role="navigation">
+                      <a id="site-logo" href="http://en.unesco.org/" title="Home" rel="home"><span>UNESCO<!--<span id="site-beta">BETA</span>--></span></a>
+                                <hgroup id="name-and-slogan">
+                                                <h1 id="site-name">
+                    <a href="http://en.unesco.org/" title="Home" rel="home"><span>UNESCO</span></a>
+                  </h1>
+                                
+                                  <h2 id="site-slogan">Building peace in the minds of men and women</h2>
+                          
+            </hgroup><!-- /#name-and-slogan -->
+                      <div class="region region-navigation">
+    <div id="block-om-maximenu-om-maximenu-1" class="block block-om-maximenu first last odd">
+  <div class="block-wrapper">
+              <h2 class="block__title block-title">OM Themes Main Menu</h2>
+            <div class="content-wrapper">
+       
+
+  <div id="om-maximenu-unesco-main-menu" class="om-maximenu om-maximenu-no-style om-maximenu-block om-maximenu-row om-maximenu-block-down code-om-u15-976677445">     
+            
+
+<div id="om-menu-unesco-main-menu-ul-wrapper" class="om-menu-ul-wrapper">
+  <ul id="om-menu-unesco-main-menu" class="om-menu">
+                  
+
+   
+  <li id="om-leaf-om-u15-976677445-2" class="om-leaf first leaf-about-us">   
+    <span class="om-link  link-about-us" >About Us</span>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-menu block-menu-id-menu-about-us first last">           
+  <h3 class="title">About us</h3>    <div class="content"><ul class="menu"><li class="menu__item is-leaf first leaf nolink"><span>The Organization</span></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://en.unesco.org/about-us/introducing-unesco" class="menu__link menu__link">Introducing UNESCO</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://en.unesco.org/about-us/unescos-governing-bodies" class="menu__link menu__link">Governing bodies</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/unesco/about-us/who-we-are/director-general/" class="menu__link menu__link">Director General</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/unesco/about-us/who-we-are/secretariat/" class="menu__link menu__link">Secretariat</a></li>
+<li class="menu__item is-leaf leaf nolink"><span>Main Programming Documents</span></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://unesdoc.unesco.org/images/0014/001499/149999e.pdf" class="menu__link menu__link">Medium-Term Strategy (2008 - 2013)</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://unesdoc.unesco.org/images/0021/002152/215286e.pdf" class="menu__link menu__link">Programme and Budget (2012 - 2013)</a></li>
+<li class="menu__item is-leaf leaf nolink"><span>Global Priorities</span></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/africa/" class="menu__link menu__link">Africa</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/unesco/themes/gender-equality/" class="menu__link menu__link">Gender Equality</a></li>
+<li class="menu__item is-leaf leaf nolink"><span>Overarching Objectives</span></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/bureau-of-strategic-planning/themes/culture-of-peace-and-non-violence/" class="menu__link menu__link">Culture of Peace</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/education/themes/leading-the-international-agenda/education-for-sustainable-development/" class="menu__link menu__link">Sustainable Development</a></li>
+<li class="menu__item is-leaf leaf nolink"><span>Priority Groups</span></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/social-and-human-sciences/themes/youth/" class="menu__link menu__link">Youth</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/natural-sciences/priority-areas/small-island-developing-states" class="menu__link menu__link">Small Island Developing States</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/ldc/" class="menu__link menu__link">Least-developed Countries</a></li>
+<li class="menu__item is-leaf leaf nolink"><span>Thematic Issues</span></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/hiv-and-aids/" class="menu__link menu__link">HIV &amp; AIDS</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf"><a href="https://en.unesco.org/post2015/" class="menu__link menu__link">Re-thinking the Development Agenda</a></li>
+</ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u15-976677445-3" class="om-leaf leaf-themes">   
+    <span class="om-link  link-themes" >Themes</span>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-menu_block block-menu_block-id-11 first last">           
+  <h3 class="title">Themes menu</h3>    <div class="content"><div class="menu-block-wrapper menu-block-11 menu-name-menu-main-menu-themes parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-parent is-leaf menu__item is-parent is-leaf first leaf has-children menu-mlid-30195 dhtml-menu dhtml-menu" id="dhtml_menu-30195-1"><a href="http://en.unesco.org/themes/education-21st-century" class="menu__link menu__link">Education for the 21st Century</a></li>
+<li class="menu__item is-parent is-leaf menu__item is-parent is-leaf leaf has-children menu-mlid-30215 dhtml-menu dhtml-menu" id="dhtml_menu-30215-1"><a href="http://en.unesco.org/themes/fostering-freedom-expression" class="menu__link menu__link">Fostering Freedom of Expression</a></li>
+<li class="menu__item is-parent is-leaf menu__item is-parent is-leaf leaf has-children menu-mlid-30235 dhtml-menu dhtml-menu" id="dhtml_menu-30235-1"><a href="http://en.unesco.org/themes/protecting-our-heritage-and-fostering-creativity" class="menu__link menu__link">Protecting Our Heritage and Fostering Creativity</a></li>
+<li class="menu__item is-active is-active-trail is-parent is-leaf menu__item is-active is-active-trail is-parent is-leaf leaf has-children active-trail active menu-mlid-30255 dhtml-menu dhtml-menu" id="dhtml_menu-30255-1"><a href="http://en.unesco.org/themes/learning-live-together" class="menu__link is-active-trail menu__link is-active-trail active-trail active">Learning to Live Together</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-30775 dhtml-menu dhtml-menu" id="dhtml_menu-30775-1"><a href="http://en.unesco.org/themes/building-knowledge-societies" class="menu__link menu__link">Building Knowledge Societies</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-30745 dhtml-menu dhtml-menu" id="dhtml_menu-30745-1"><a href="http://en.unesco.org/themes/one-planet-one-ocean" class="menu__link menu__link">One Planet, One Ocean</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf menu-mlid-30755 dhtml-menu dhtml-menu" id="dhtml_menu-30755-1"><a href="http://en.unesco.org/themes/science-sustainable-future" class="menu__link menu__link">Science for a Sustainable Future</a></li>
+</ul></div>
+</div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u15-976677445-4" class="om-leaf leaf-countries">   
+    <a  class="om-link  link-countries" href="http://en.unesco.org/countries/countries-list">Countries</a>      
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u15-976677445-6" class="om-leaf leaf-partnerships">   
+    <a  class="om-link  link-partnerships" href="http://en.unesco.org/partnerships">Partnerships</a>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-menu block-menu-id-menu--main-menu-partnerships first last">           
+  <h3 class="title">Main Menu Partnerships</h3>    <div class="content"><ul class="menu"><li class="menu__item is-expanded menu__item is-expanded first last expanded"><a href="http://en.unesco.org/partnerships" class="menu__link menu__link">Introducing Partnerships</a><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf"><a href="http://en.unesco.org/partnerships/non-governmental-organizations" class="menu__link menu__link">Non-Governmental Organizations</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://en.unesco.org/partnerships/intergovernmental_organizations" class="menu__link menu__link">Intergovernmental Organizations</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://en.unesco.org/partnerships/private_sector" class="menu__link menu__link">Private Sector</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://en.unesco.org/partnerships/non-governmental-organizations/international-networks" class="menu__link menu__link">International Networks</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf"><a href="http://en.unesco.org/partnerships/medias" class="menu__link menu__link">Media</a></li>
+</ul></li>
+</ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u15-976677445-5" class="om-leaf leaf-join-us">   
+    <a  class="om-link  link-join-us" href="http://en.unesco.org//careers">Join us</a>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-menu block-menu-id-menu-main-menu-join-us first last">           
+  <h3 class="title">Main Menu Join us</h3>    <div class="content"><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf"><a href="http://en.unesco.org/careers" class="menu__link menu__link">Careers</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/unesco/procurement/" class="menu__link menu__link">Procurement</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/fellowships" class="menu__link menu__link">Fellowships</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf"><a href="https://en.unesco.org/careers/internships" class="menu__link menu__link">Internships</a></li>
+</ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u15-976677445-7" class="om-leaf last leaf-resources">   
+    <a  class="om-link  link-resources" href="http://www.unesco.org/new/en/unesco/resources/">Resources</a>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-menu block-menu-id-menu-resources first last">           
+  <h3 class="title">Resources</h3>    <div class="content"><ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf"><a href="http://www.unesco.org/new/en/unesco/resources/publications/" id="menu-resources-bookshop" class="menu__link menu__link menu-resources">Publications</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://portal.unesco.org/en/ev.php-URL_ID=12024&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html" id="menu-resources-conventions" class="menu__link menu__link menu-resources">Conventions</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/media-services/" id="menu-resources-media" class="menu__link menu__link menu-resources">Media services</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://www.unesco.org/new/en/unesco/resources/multimedia/" id="menu-resources-multimedia" class="menu__link menu__link menu-resources">Multimedia</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf"><a href="http://www.uis.unesco.org/Pages/default.aspx" id="menu-resources-statistics" class="menu__link menu__link menu-resources">Statistics</a></li>
+</ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+      </ul><!-- /.om-menu -->    
+</div><!-- /.om-menu-ul-wrapper -->   
+
+
+
+      </div><!-- /#om-maximenu-[menu name] -->   
+
+
+    </div>  
+  </div>
+</div><!-- /.block -->
+  </div>
+        </nav>
+    </div><!-- /#navigation -->
+
+    
+          <aside class="sidebars">
+                <div class="region region-sidebar-second column sidebar">
+  <div class="region-wrapper">
+    <div id="block-views-theme-page-subthemes-block" class="block block-views first odd">
+  <div class="block-wrapper">
+                <div class="content-wrapper">
+      <div class="view view-theme-page-subthemes view-id-theme_page_subthemes view-display-id-block clearfix view-dom-id-3d0df7b2c3a6806105287183450aef46">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first subtheme">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/landscape_small_100x50/public/Learning-Sub-theme1.jpg?itok=_aEYXGVL" width="100" height="56" alt="" /></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://en.unesco.org/themes/social-transformations">Social Transformations</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even subtheme">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/landscape_small_100x50/public/Learning-Sub-theme2.jpg?itok=T6Pd4Q1o" width="100" height="56" alt="" /></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://en.unesco.org/themes/intercultural-dialogue">Intercultural Dialogue</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd subtheme">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/landscape_small_100x50/public/Learning-Sub-theme3.jpg?itok=848TX_10" width="100" height="56" alt="" /></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://en.unesco.org/themes/democracy-and-global-citizenship">Democracy and Global Citizenship</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even subtheme">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/landscape_small_100x50/public/Learning-Sub-theme4.jpg?itok=6aJm_KYn" width="100" height="56" alt="" /></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://en.unesco.org/themes/building-peace-programmes">Building Peace Programmes</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd subtheme">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/landscape_small_100x50/public/Learning-Sub-theme6.jpg?itok=O9q27zC3" width="100" height="56" alt="" /></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://en.unesco.org/themes/sport-and-anti-doping">Sport and Anti-doping</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last subtheme">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/landscape_small_100x50/public/Learning-Sub-theme5.jpg?itok=PHRtpiTd" width="100" height="56" alt="" /></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://en.unesco.org/themes/health-education">Health Education</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>  
+  </div>
+</div><!-- /.block -->
+<div id="block-views-page-second-col-block-1" class="block block-views even">
+  <div class="block-wrapper">
+              <h2 class="block__title block-title">Related Links</h2>
+            <div class="content-wrapper">
+      <div class="view view-page-second-col view-id-page_second_col view-display-id-block_1 view-dom-id-9ff4740292e2d6083e00f16932ccb0d9">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first"><div class="row-wrapper">  
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="http://www.unesco.org/new/en/unesco/events/learning-to-live-together/" title="All Events in Social and Human Sciences" target="_blank">All Events</a></div>  </div></div></li>
+          <li class="views-row views-row-2 views-row-even"><div class="row-wrapper">  
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="http://www.unesco.org/new/en/social-and-human-sciences/resources/online-materials/publications/" title="Publications in Social and Human Sciences" target="_blank">Publications</a></div>  </div></div></li>
+          <li class="views-row views-row-3 views-row-odd"><div class="row-wrapper">  
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="http://www.unesco.org/en/unitwin/access-by-domain/social-and-human-sciences/" title="UNESCO Chairs in Social and Human Sciences" target="_blank">UNESCO Chairs</a></div>  </div></div></li>
+          <li class="views-row views-row-4 views-row-even views-row-last"><div class="row-wrapper">  
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="http://www.unesco.org/new/en/social-and-human-sciences/events/prizes-and-celebrations/unesco-prizes/" title="UNESCO Prizes in Social and Human Sciences" target="_blank">UNESCO Prizes</a></div>  </div></div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>  
+  </div>
+</div><!-- /.block -->
+<div id="block-views-site-page-video-block-block" class="block block-views odd">
+  <div class="block-wrapper">
+              <h2 class="block__title block-title">Videos</h2>
+            <div class="content-wrapper">
+      <div class="view view-site-page-video-block view-id-site_page_video_block view-display-id-block view-dom-id-3cc223cc6405655d884d125e8c5b74a4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-media-video">        <div class="field-content"><a href="/?q=vef/load/ab32c22ffd87d630dae29bf9e2a64b14&amp;width=640px&amp;height=363" class="colorbox-load"><img typeof="foaf:Image" src="http://en.unesco.org/sites/default/files/styles/medium/public/video_embed_field_thumbnails/youtube/yG33qh0siAI.jpg?itok=NC-dwZzg" alt="" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>  
+  </div>
+</div><!-- /.block -->
+<div id="block-block-145" class="block block-block last even">
+  <div class="block-wrapper">
+                <div class="content-wrapper">
+      <p><a href="http://www.unesco.org/donate/"><img src="/sites/default/files/Banner-donate-EN.jpg" /></a></p>
+<p> </p>
+<p><a href="http://www.unesco.org/new/en/unesco/partners-donors/partnering-with-unesco/"><img src="/sites/default/files/banner_mobilizing_resources_en.png" /></a></p>
+    </div>  
+  </div>
+</div><!-- /.block -->
+  </div>  
+</div>
+      </aside><!-- /.sidebars -->
+    
+  </div><!-- /#main -->
+
+  </div><!-- /#page -->
+
+<div id="footer-wrapper">
+    <footer id="footer" class="region region-footer">
+    <div id="block-menu-menu-footer-info" class="block block-menu first last odd" role="navigation">
+  <div class="block-wrapper">
+              <h2 class="block__title block-title">WWW.UNESCO.ORG</h2>
+            <div class="content-wrapper">
+      <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf"><a href="http://en.unesco.org/this-site/disclaimer" class="menu__link menu__link">Disclaimer of use</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://en.unesco.org/content/our-online-privacy-policy" class="menu__link menu__link">Privacy Policy</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf"><a href="http://en.unesco.org/content/terms-use" class="menu__link menu__link">Terms of use</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf"><a href="http://en.unesco.org/feedback/contact-us" class="menu__link menu__link">Contact us</a></li>
+</ul>    </div>  
+  </div>
+</div><!-- /.block -->
+  </footer>
+</div>
+  <script src="http://en.unesco.org/sites/default/files/js/js_Q1k2EyBsIzOdr5OEL59tAKR0qiJpMOvkAUqchqqUz2A.js"></script>
+<script src="https://www.google.com/afsonline/show_afs_search.js"></script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","a11e62fb08","2173914","ZAcBNREFVkJVWkdRC11NIgIXDVdfG1dcXAFsEgIGBjtOWFFO",0,1089,new Date().getTime(),"","","","",""]);</script></body>
+</html>

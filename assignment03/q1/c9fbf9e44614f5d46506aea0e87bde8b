@@ -1,0 +1,555 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]--><head><title>'Fire Tracker': Online Tool To Monitor Blaze Near Yosemite : The Two-Way : NPR</title><meta charset="utf-8" /><!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]--><meta name="robots" content="noarchive,index,follow" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" /><!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><![endif]-->
+<!--dontvalidate-->
+<meta name="date" content="2013-08-26" />
+<!--/dontvalidate-->
+<link rel="canonical" href="http://www.npr.org/blogs/thetwo-way/2013/08/26/215697233/fire-tracker-online-tool-to-monitor-blaze-near-yosemite" /><meta name="description" content="The huge fire is threatening some of San Francisco's power and water services. Southern California Public Radio has put together a multimedia tool to follow the fire and the fight to bring it under control." /><link rel="alternate" type="application/rss+xml" title="News" href="/rss/rss.php?id=1001" /><link rel="alternate" type="application/rss+xml" title="The Two-Way" href="/rss/rss.php?id=103943429" /><meta property="og:title" content="'Fire Tracker': Online Tool To Monitor Blaze Near Yosemite" /><meta property="og:url" content="http://www.npr.org/blogs/thetwo-way/2013/08/26/215697233/fire-tracker-online-tool-to-monitor-blaze-near-yosemite" /><meta property="og:type" content="article" /><meta property="og:description" content="The huge fire is threatening some of San Francisco's power and water services." /><meta property="og:image" content="http://media.npr.org/assets/img/2013/08/26/fire262way-f6029a092f153c5587821399a1cdc9ce2ce72295.jpg" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><link type="text/css" rel="stylesheet" media="screen, print" href="http://s.npr.org/templates/css/generated/fingerprint/newsStory-4a1cee6a5ff7228de1b844c9e95404f2b92fe174.css" /><link type="text/css" rel="stylesheet" media="screen" href="http://www.npr.org/branding/blogs/thetwo-way/branding.css" /><script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/headerAllPages-9888c2c4f0d63d0bfa8088c603d4eb7fee76cac0.js">
+   </script>
+<script type="text/javascript">
+   document.domain="npr.org";
+</script>
+<script>
+   AddNamespace('NPR.serverVars'); jQuery.extend(NPR.serverVars,{"storyId":"215697233","serverType":"prod","facebookAppId":"138837436154588","closeurl":"http:\/\/www.npr.org\/templates\/socialmedia\/close.html"});
+</script>
+
+<!-- START UNDERWRITING -->
+<script type="text/javascript">
+   
+googletag.cmd.push(function(){try{if(DFP.shouldRenderForDevice('desktop')){googletag.defineSlot("/6735/n6735.NPR/News",[[300,250],[300,600]],'ad-desktop').addService(googletag.pubads());}
+if(DFP.shouldRenderForDevice('88')){googletag.defineSlot("/6735/n6735.NPR/News",[88,31],'ad-88').addService(googletag.pubads());}
+googletag.pubads().setTargeting('agg','103943429');googletag.pubads().setTargeting('theme','103943429');googletag.pubads().setTargeting('storyId','215697233');googletag.pubads().setTargeting('blog','103943429');var deviceString='';var ua=navigator.userAgent.toLowerCase();if(ua.indexOf("android")>-1){googletag.pubads().setTargeting('device','android');}
+else if(ua.match(/(iPad|iPhone|iPod)/i)){googletag.pubads().setTargeting('device','ios');}
+if(typeof DFP.queryParameters.sc==='string'&&DFP.queryParameters.sc.length>0){scValue=DFP.queryParameters.sc;}
+else if(typeof document.referrer==='string'&&document.referrer.search('facebook.com')>-1){scValue='fb';}
+else if(typeof DFP.queryParameters.ft==='string'){scValue=DFP.queryParameters.ft;}
+googletag.pubads().setTargeting('sc',scValue);var utm_source=typeof DFP.queryParameters.utm_source==='string'&&DFP.queryParameters.utm_source.length>0?DFP.queryParameters.utm_source:'';var utm_medium=typeof DFP.queryParameters.utm_medium==='string'&&DFP.queryParameters.utm_medium.length>0?DFP.queryParameters.utm_medium:'';googletag.pubads().setTargeting('utm_source',utm_source);googletag.pubads().setTargeting('utm_medium',utm_medium);var orient='';if(NPR.Devices.isOnPhone()||NPR.Devices.isOnTablet()){if(window.orientation==0||window.orientation==180){orient='portrait';}else if(window.orientation==90||window.orientation==-90){orient='landscape';}}
+googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.enableServices();}catch(e){NPR.messaging.exception(e,'Define Google Publisher Tags',NPR.messaging.constants.SPONSORSHIP_ERROR);}});
+</script>
+
+<!-- END UNDERWRITING -->
+</head><body id="news" class="news tmplBlogNewsStory blog catId127602855 off-canvas hide-extras" data-metrics-scroll><a href="#mainContent" id="skiplink">Skip to Main Content</a><script>AddNamespace("NPR.pageInfo");try{(function(){var info={"sessionScope":2,"pageScope":3,"breadcrumbs":["News","The Two-Way"],"primaryTopic":1001,"orgId":"1","topics":[1001,1091,1003,1002],"pageTypeId":1,"internalCampaign":null,"campaignSource":null,"campaignName":null,"aggregations":[1001,1091,1003,1002,215697263,215429985,137467649,127602855,103943429],"aggregationsText":["News","Around the Nation","U.S.","Home Page Top Stories","Yosemite","Rim Fire","wildfires","America","The Two-Way"],"aggExtras":["26Aug2013","Mark+Memmott"],"byline":["Mark Memmott"],"chartbeatAccount":"18888","webHost":"http:\/\/www.npr.org"}
+NPR.pageInfo=$.extend(NPR.pageInfo,info);})();}catch(e){}</script><script type="text/javascript">var pageTrackingCPTV=function(){try{AddNamespace("NPR.metrics");NPR.metrics.pageImpression();}catch(e){NPR.messaging.exception(e,'commonPageTrackView','document.ready',NPR.messaging.constants.METRICS_ERROR);}};if($('docreadybind').length){$('docreadybind').bind('click',pageTrackingCPTV);}else{$(document).ready(pageTrackingCPTV);}</script><header id="globalheader" class="clearfix"><a class="sidebarButton" href="#sidebar" data-action="Toggle OffCanvas" data-metrics='{"action":"Toggle OffCanvas","category":"Global Navigation"}'>
+    <img src="http://media.npr.org/chrome/subnav_toggle.png" alt="subnav toggle" />
+</a>
+
+<a href="/" class="nprhome" data-action="Click Logo" data-metrics='{"action":"Click Header Logo", "category":"Global Navigation"}'>
+    <img src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" alt="NPR" />
+</a>
+
+<div class="inner" data-metrics-category="Global Navigation">    
+    <form action="/search/index.php" method="get" name="searchForm" id="searchForm" class="search">
+    	<input type="search" name="searchinput" id="searchinput" class="textbox searchbox">
+    </form>
+    
+    <a href="#" class="search-toggle">Toggle search</a>
+
+    <nav class="nav-two" id="loginPElm">
+        <ul>
+            <li class="stations"><a href="/templates/stations/stations/" data-metrics='{"action":"Click Business Link"}' data-reveal-id="myModal">Stations</a></li>
+            <li class="donate"><a href="/stations/donate/index.php" data-metrics='{"action":"Click Business Link"}'>Donate</a></li>
+            <li class="nprshop"><a href="http://shop.npr.org" data-metrics='{"action":"Click Business Link"}'>Shop</a></li>
+            <li class="login-reg loggedOut"><a href="/templates/reg/login.php" data-metrics='{"action":"Click Profile Link","label":"Login / Register"}'>Sign In/Register</a></li>
+            <span class="loggedIn">
+	            <li class="userLogin" ><span id="userLogin"></span></li>
+	            <li class="login-reg"><a href="/templates/reg/logout.php" class="logout" data-metrics='{"action":"Click Profile Link","label":"Logout"}'>Logout</a></li>
+            </span>
+        </ul>
+    </nav>
+    
+    <nav class="nav-one">
+        <ul>
+            <li class="news"><a href="/sections/news/" data-metrics='{"action":"Click News"}'>News</a></li>
+            <li class="artslife"><a href="/sections/arts/" data-metrics='{"action":"Click Arts &amp; Life"}'>Arts &amp; Life</a></li>
+            <li class="music"><a href="/music/" data-metrics='{"action":"Click Music"}'>Music</a></li>
+            <li class="listen"><a href="/listen/" data-metrics='{"action":"Click Listen"}'>Listen</a></li>
+        </ul>
+    </nav>
+</div></header><div id="wrapper">
+      <div id="sectionWrap" class="clearfix">
+            <section role="main"><header class="contentheader" data-metrics-category="The Two-Way"><div class="mobileheader">
+    <a class="sidebarButton" href="#sidebar"  data-metrics='{"action":"Toggle OffCanvas","category":"Global Navigation"}'>
+        <img src="http://media.npr.org/chrome/subnav_toggle.png" alt="NPR logo" />
+    </a>
+    
+    <a href="/" class="nprHome" data-metrics='{"action":"Click Logo","category":"Global Navigation"}'>
+        <img src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" alt="NPR">        
+    </a>
+</div><div class="branding">
+      <a href="http://www.npr.org/blogs/thetwo-way/"  data-metrics='{"action":"Click Header Logo","category":"The Two-Way"}' ><img src="http://media.npr.org/branding/blogs/thetwo-way/branding_icon-3914d16efa48264b2ddabe7219af34d0444dbf2e.png" class="icon" alt="The Two-Way" /><img src="http://media.npr.org/branding/blogs/thetwo-way/branding_main-ae5a857b62f0dd73b0ea36869b2018ae0b3d5bba.png" class="main" alt="The Two-Way" /><span class="tag">Breaking News From NPR</span> 
+</a>
+</div>
+
+<!-- END CLASS="BRANDING" -->
+<a href="#" class="toggle"  data-metrics='{"action":"Toggle Category Dropdown"}' ></a><nav data-metrics-all data-metrics-action="Click Theme Navigation">
+  <ul>
+    <li class="catId127602855"><a href="/templates/story/story.php?storyId=127602855">America</a></li>
+    <li class="catId127602464"><a href="/templates/story/story.php?storyId=127602464">International</a></li>
+    <li class="catId127602331"><a href="/templates/story/story.php?storyId=127602331">Economy</a></li>
+    <li class="catId127602405"><a href="/templates/story/story.php?storyId=127602405">Must Reads</a></li>
+    <li class="catId103943429"><a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx?sid=68">Contact Us</a></li>
+  </ul>
+</nav>
+
+<ul class="subscribe">
+  <li class="twitter"><a href="http://twitter.com/nprnews" data-metrics='{"action":"Click Twitter"}'>Follow Mark</a></li>
+  <li class="facebook"><a href="http://www.facebook.com/NPR" data-metrics='{"action":"Click Facebook"}'>Facebook</a></li>
+</ul>
+</header><article class="story story-blogpost"><a name="mainContent"></a><p class="category"><a href="http://www.npr.org/templates/story/story.php?storyId=127602855">America</a></p> <!--googleon: index--><div class="storytitle">
+      <h1>'Fire Tracker': Online Tool To Monitor Blaze Near Yosemite</h1>
+   <input type="hidden" id="title215697233" value="'Fire Tracker': Online Tool To Monitor Blaze Near Yosemite"></input>
+   <input type="hidden" id="modelShortUrl215697233" value="http://n.pr/1fdFf8G"></input>
+   <input type="hidden" id="modelFullUrl215697233" value="http://www.npr.org/blogs/thetwo-way/2013/08/26/215697233/fire-tracker-online-tool-to-monitor-blaze-near-yosemite"></input>
+</div>
+
+<!-- END CLASS="STORYTITLE" -->
+<div id="story-meta">
+      <div id="storybyline" class="  linkLocation">
+            <div class="bucketwrap byline" id="res215697235" previewTitle="bylines">
+                  <p class="byline">by <a rel="author" href="http://www.npr.org/people/104192887/mark-memmott"><span>Mark Memmott</span></a></p>
+      </div>
+      
+<!-- END CLASS="BUCKETWRAP BYLINE" ID="RES215697235" PREVIEWTITLE="BYLINES" -->
+   </div>
+   
+<!-- END ID="STORYBYLINE" CLASS="  LINKLOCATION" -->
+   <div class="dateblock">
+            <time datetime="2013-08-26"><span class="date">August 26, 2013</span><span class="time"> 7:43 AM</span></time>
+   </div>
+</div>
+
+<!-- END ID="STORY-META" -->
+<div id="storytext" class="storytext storylocation linkLocation">
+      <div id="res215703838" class="bucketwrap image large" previewTitle="Some of the flames Saturday as the &quot;Rim Fire&quot; spread near Northern California's Yosemite National Park.">
+            <div class="imagewrap">
+                  <img src="http://media.npr.org/assets/img/2013/08/26/fire262way-f6029a092f153c5587821399a1cdc9ce2ce72295-s6-c30.jpg" data-original="http://media.npr.org/assets/img/2013/08/26/fire262way-f6029a092f153c5587821399a1cdc9ce2ce72295.jpg" class="img lazyOnLoad"  title="Some of the flames Saturday as the &quot;Rim Fire&quot; spread near Northern California's Yosemite National Park." alt="Some of the flames Saturday as the &quot;Rim Fire&quot; spread near Northern California's Yosemite National Park." />         <a href="#" class="enlargebtn" title="Enlarge">Enlarge image</a>         <a href="#" class="enlargebtn enlarge-smallscreen" title="Enlarge">i</a>
+      </div>
+      
+<!-- END CLASS="IMAGEWRAP" -->
+      <div class="captionwrap">
+                  <div class="caption">
+                        <p>Some of the flames Saturday as the "Rim Fire" spread near Northern California's Yosemite National Park.</p>
+         </div>
+         
+<!-- END CLASS="CAPTION" -->
+      </div>
+      
+<!-- END CLASS="CAPTIONWRAP" -->
+      <span class="creditwrap"><span class="credit">Elias Funez </span>/<span class="rightsnotice">MCT /Landov</span></span>      <div class="enlarge_measure">
+                  <div class="img_wrap">
+                        <img data-original="http://media.npr.org/assets/img/2013/08/26/fire262way-f6029a092f153c5587821399a1cdc9ce2ce72295-s40.jpg" title="Some of the flames Saturday as the &quot;Rim Fire&quot; spread near Northern California's Yosemite National Park." alt="Some of the flames Saturday as the &quot;Rim Fire&quot; spread near Northern California's Yosemite National Park." />
+         </div>
+         
+<!-- END CLASS="IMG_WRAP" -->
+      </div>
+      
+<!-- END CLASS="ENLARGE_MEASURE" -->
+      <div class="enlarge_html">
+                  <div class="image_data">
+                        <p class="caption">Some of the flames Saturday as the "Rim Fire" spread near Northern California's Yosemite National Park.</p>             <span class="creditwrap"><span class="credit">Elias Funez </span>/<span class="rightsnotice">MCT /Landov</span></span>
+         </div>
+         
+<!-- END CLASS="IMAGE_DATA" -->
+      </div>
+      
+<!-- END CLASS="ENLARGE_HTML" -->
+   </div>
+   <p>Hundreds of firefighters are "digging trenches, clearing brush and starting back blazes to keep a wildfire raging north of <a href="http://www.nps.gov/yose/index.htm" target="_blank">Yosemite National Park</a> out of several mountain hamlets," The Associated Press writes Monday morning in its latest update on the huge "Rim Fire" that is threatening some of the power and water services to the city of San Francisco.</p>   <p><a href="http://www.npr.org/blogs/thetwo-way/2013/08/25/215427103/wildfire-near-yosemite-spreads-threatens-ancient-trees" target="_blank">As Eyder wrote Sunday</a>, the flames are also endangering some of the area's "beloved ancient sequoias."</p>   <p>According to the AP, "firefighters were hoping to advance on the flames Monday but strong winds were threatening push the blaze closer to Tuolumne City and nearby communities."</p>   <p>Our colleagues from Northern California's KQED are following the Rim Fire closely — in <a href="http://blogs.kqed.org/newsfix/" target="_blank">their News Fix blog</a> and on <a href="http://projects.scpr.org/firetracker/rim-fire/" target="_blank">a multimedia "Fire Tracker</a>" designed by Southern California's KPCC. We'll embed the "graphic summary of the blaze," which is a good gateway to the coverage.</p>   <div id="res215697507" class="bucketwrap statichtml">
+            <p><iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://projects.scpr.org/firetracker/rim-fire/embed"></iframe></p>
+   </div>
+   
+<!-- END ID="RES215697507" CLASS="BUCKETWRAP STATICHTML" -->
+</div>
+<div class="tags">
+      <ul>
+            <li><a href="http://www.npr.org/templates/archives/archive.php?thingId=215697263">Yosemite</a></li>
+      <li><a href="http://www.npr.org/templates/archives/archive.php?thingId=215429985">Rim Fire</a></li>
+      <li><a href="http://www.npr.org/templates/archives/archive.php?thingId=137467649">wildfires</a></li>
+   </ul>
+</div>
+
+<!-- END CLASS="TAGS" -->
+<div class="social clearfix">
+      <ul>
+            <li class="share"><a class="sharemaintab" href="#" data-metrics='{"action":"Toggle Share Tools","category":"Share Tools"}' >Share</a><div class="sharepop">
+      <ul>
+            <li class="facebookLi"><a class="facebook fbStory215697233" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(215697233);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><span class="name">Facebook</span></a></li>
+      <li class="twitterLi"><a class="retweetStory story215697233 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(215697233);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><span class="name">Twitter</span></a></li>
+      <li class="googlePlusLi"><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fthetwo-way%2F2013%2F08%2F26%2F215697233%2Ffire-tracker-online-tool-to-monitor-blaze-near-yosemite" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" data-metrics='{"action":"Like","network":"GooglePlus","type":"socialEvent"}' >Google+</a></li>
+      <li class="email"><a href='javascript:void(0);' class='email eaf_link' data-story-id='215697233'  data-metrics='{"action":"Email a Friend","network":"NPR Site","type":"socialEvent"}' >Email</a></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SHAREPOP" -->
+</li>
+      <li class="comment"><a class="comment-count" href="http://www.npr.org/blogs/thetwo-way/2013/08/26/215697233/fire-tracker-online-tool-to-monitor-blaze-near-yosemite#commentBlock" data-storyid="215697233" data-shortname="npr2way"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><span class="name">Comment</span></a></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SOCIAL CLEARFIX" -->
+<div class="pnnavwrap">
+      <a id="prev_nav" class="prev" href="http://www.npr.org/blogs/thetwo-way/2013/08/26/215692727/reminder-book-news-is-on-vacation"  data-metrics='{"action":"Click Previous Story","category":"Story to Story","label":"http:\/\/www.npr.org\/blogs\/thetwo-way\/2013\/08\/26\/215692727\/reminder-book-news-is-on-vacation"}' >Reminder: 'Book News' Is On Vacation<span class="date">August 26, 2013</span><span class="icon"></span></a>   <a id="next_nav" class="next" href="http://www.npr.org/blogs/thetwo-way/2013/08/26/215704946/did-miley-cyrus-flirt-with-bad-taste-or-dive-right-in"  data-metrics='{"action":"Click Next Story","category":"Story to Story","label":"http:\/\/www.npr.org\/blogs\/thetwo-way\/2013\/08\/26\/215704946\/did-miley-cyrus-flirt-with-bad-taste-or-dive-right-in"}' >Did Miley Cyrus 'Flirt With Bad Taste' Or Dive Right In?<span class="date">August 26, 2013</span><span class="icon"></span></a>
+</div>
+
+<!-- END CLASS="PNNAVWRAP" -->
+<div id="resMore">
+       <!--googleoff: all-->   <div id="relatedstorieswrap">
+            <section id="relatedstories"><h4>More From The Two-Way</h4>
+<div id="resMoreAPI" class="bucketwrap apiquery responsive_more">
+      
+  <article id="story227758791" class="story clearfix"><a href="http://www.npr.org/blogs/thetwo-way/2013/09/30/227758791/multiple-car-bombs-wreak-havoc-in-baghdad-killing-dozens" data-metrics='{"category" : "Story to Story", "action" : "Click Egg Carton", "label" : "http://www.npr.org/blogs/thetwo-way/2013/09/30/227758791/multiple-car-bombs-wreak-havoc-in-baghdad-killing-dozens"}'><div class="storyinfo">
+<h2 class="slug">The Two-Way</h2>
+<h3>Multiple Car Bombs Wreak Havoc In Baghdad, Killing Dozens</h3>
+</div>
+<div class="storyimg"><img src="http://media.npr.org/assets/img/2013/09/30/baghdad_sq-290f3209e77214a4723cc1272a0c8e28aa3200d3.jpg?s=16" alt="Iraqis look at the site of a car bomb attack in Baghdad, where at least 10 car bombs were detonated during the city's rush hour Monday."></div></a></article><article id="story227748578" class="story clearfix"><a href="http://www.npr.org/blogs/thetwo-way/2013/09/30/227748578/remembering-lee-thornton-who-broke-barriers-in-journalism" data-metrics='{"category" : "Story to Story", "action" : "Click Egg Carton", "label" : "http://www.npr.org/blogs/thetwo-way/2013/09/30/227748578/remembering-lee-thornton-who-broke-barriers-in-journalism"}'><div class="storyinfo">
+<h2 class="slug">News</h2>
+<h3>Remembering Lee Thornton, Who Broke Barriers In Journalism</h3>
+</div>
+<div class="storyimg"><img src="http://media.npr.org/assets/img/2013/09/30/leethornton302way_sq-ff9b2165b4e34c549614d78ce31b06a8fb0df11f.jpg?s=16" alt="Lee Thornton."></div></a></article><article id="story227736061" class="story clearfix"><a href="http://www.npr.org/blogs/thetwo-way/2013/09/30/227736061/popes-john-paul-ii-john-xxiii-to-become-saints-next-april" data-metrics='{"category" : "Story to Story", "action" : "Click Egg Carton", "label" : "http://www.npr.org/blogs/thetwo-way/2013/09/30/227736061/popes-john-paul-ii-john-xxiii-to-become-saints-next-april"}'><div class="storyinfo">
+<h2 class="slug">News</h2>
+<h3>Popes John Paul II, John XXIII To Become Saints Next April </h3>
+</div>
+<div class="storyimg"><img src="http://media.npr.org/assets/img/2013/09/30/johnpaulii302way_sq-a27a84ea9d82dc805e038690aa14d316a9170ebe.jpg?s=16" alt="Pope John Paul II in 1982"></div></a></article><article id="story227690951" class="story clearfix last"><a href="http://www.npr.org/blogs/thetwo-way/2013/09/30/227690951/top-stories-looming-shutdown" data-metrics='{"category" : "Story to Story", "action" : "Click Egg Carton", "label" : "http://www.npr.org/blogs/thetwo-way/2013/09/30/227690951/top-stories-looming-shutdown"}'><div class="storyinfo noimg">
+<h2 class="slug">The Two-Way</h2>
+<h3>Top Stories: Looming Shutdown; Justice Suing Over Voter IDs</h3>
+</div></a></article>
+
+</div>
+
+<!-- END ID="RESMOREAPI" CLASS="BUCKETWRAP APIQUERY RESPONSIVE_MORE" -->
+<p class="more"><a href="http://www.npr.org/blogs/thetwo-way/">More From The Two-Way</a></p></section>
+   </div>
+   
+<!-- END ID="RELATEDSTORIESWRAP" -->
+    <!--googleon: all-->
+</div>
+
+<!-- END ID="RESMORE" -->
+<div id="commentBlock">
+      <h3 class="comment-head"><a href="#">Comments <span class="toggle"></span></a></h3>
+   <div id='disqus-npr'
+                                       data-shortname='npr2way'
+                                       data-identifier='215697233'
+                                       data-url='http://www.npr.org/blogs/thetwo-way/2013/08/26/215697233/fire-tracker-online-tool-to-monitor-blaze-near-yosemite'
+                                       data-title=''Fire Tracker': Online Tool To Monitor Blaze Near Yosemite'>
+            <a name="commentBlock">&nbsp</a>      <h5 class="commentBoxNotLoggedIn" id="login-overlay-link">You must be signed in to leave a comment. <a href="/templates/reg/login.php?returnUrl=%2Fblogs%2Fthetwo-way%2F2013%2F08%2F26%2F215697233%2Ffire-tracker-online-tool-to-monitor-blaze-near-yosemite%23commentBlock">Sign In / Register</a></h5>
+      <p data-mod="pre">Please keep your community civil. All comments must follow the <a href="http://npr.org/discussionrules" target="new">NPR.org Community rules</a> and <a href="http://www.npr.org/about/termsofuse.html" target="new">terms of use</a>, and will be moderated prior to posting. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the <a href="http://www.npr.org/about/termsofuse.html" target="new">Terms of Use</a>, <a href="http://www.npr.org/about/privacypolicy.html" target="new">Privacy Policy</a> and <a href="http://npr.org/communityfaq" target="new">Community FAQ</a>.</p>      <div id='disqus_thread'>
+               </div>
+      
+<!-- END ID='DISQUS_THREAD' -->
+      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>      <div>
+                 <form style="display: hidden" action="#" method="POST" id="janrain-form">
+            <input type="hidden" id="janrain-token" name="token" value=""/>
+        </form>
+      </div>
+   </div>
+   
+<!-- END ID='DISQUS-NPR'
+                                       DATA-SHORTNAME='NPR2WAY'
+                                       DATA-IDENTIFIER='215697233'
+                                       DATA-URL='HTTP://WWW.NPR.ORG/BLOGS/THETWO-WAY/2013/08/26/215697233/FIRE-TRACKER-ONLINE-TOOL-TO-MONITOR-BLAZE-NEAR-YOSEMITE'
+                                       DATA-TITLE=''FIRE TRACKER': ONLINE TOOL TO MONITOR BLAZE NEAR YOSEMITE' -->
+</div>
+
+<!-- END ID="COMMENTBLOCK" -->
+ <!--googleoff: index--></article><header class="contentheader reprise" data-metrics-category="The Two-Way"><div class="mobileheader">
+    <a class="sidebarButton" href="#sidebar"  data-metrics='{"action":"Toggle OffCanvas","category":"Global Navigation"}'>
+        <img src="http://media.npr.org/chrome/subnav_toggle.png" alt="NPR logo" />
+    </a>
+    
+    <a href="/" class="nprHome" data-metrics='{"action":"Click Logo","category":"Global Navigation"}'>
+        <img src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" alt="NPR">        
+    </a>
+</div><div class="branding">
+      <a href="http://www.npr.org/blogs/thetwo-way/"  data-metrics='{"action":"Click Header Logo","category":"The Two-Way"}' ><img src="http://media.npr.org/branding/blogs/thetwo-way/branding_icon-3914d16efa48264b2ddabe7219af34d0444dbf2e.png" class="icon" alt="The Two-Way" /><img src="http://media.npr.org/branding/blogs/thetwo-way/branding_main-ae5a857b62f0dd73b0ea36869b2018ae0b3d5bba.png" class="main" alt="The Two-Way" /><span class="tag">Breaking News From NPR</span> 
+</a>
+</div>
+
+<!-- END CLASS="BRANDING" -->
+<a href="#" class="toggle"  data-metrics='{"action":"Toggle Category Dropdown"}' ></a><nav data-metrics-all data-metrics-action="Click Theme Navigation">
+  <ul>
+    <li class="catId127602855"><a href="/templates/story/story.php?storyId=127602855">America</a></li>
+    <li class="catId127602464"><a href="/templates/story/story.php?storyId=127602464">International</a></li>
+    <li class="catId127602331"><a href="/templates/story/story.php?storyId=127602331">Economy</a></li>
+    <li class="catId127602405"><a href="/templates/story/story.php?storyId=127602405">Must Reads</a></li>
+    <li class="catId103943429"><a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx?sid=68">Contact Us</a></li>
+  </ul>
+</nav>
+
+<ul class="subscribe">
+  <li class="twitter"><a href="http://twitter.com/nprnews" data-metrics='{"action":"Click Twitter"}'>Follow Mark</a></li>
+  <li class="facebook"><a href="http://www.facebook.com/NPR" data-metrics='{"action":"Click Facebook"}'>Facebook</a></li>
+</ul>
+</header><footer id="contentfooter" data-metrics-category="The Two-Way"><div class="branding">
+      <a href="http://www.npr.org/blogs/thetwo-way/"  data-metrics='{"action":"Click Footer Logo"}' ><img src="http://media.npr.org/branding/blogs/thetwo-way/branding_icon-3914d16efa48264b2ddabe7219af34d0444dbf2e.png" class="icon" alt="The Two-Way" /><img src="http://media.npr.org/branding/blogs/thetwo-way/branding_main-ae5a857b62f0dd73b0ea36869b2018ae0b3d5bba.png" class="main" alt="The Two-Way" /><span class="tag">Breaking News From NPR</span> 
+</a>
+</div>
+
+<!-- END CLASS="BRANDING" -->
+<div class="modules">
+      <div class="module first">
+            <h3><a href="#"  data-metrics='{"action":"Toggle Footer Dropdown","label":"About","category":"The Two-Way"}' >About</a></h3>
+      <div id="footer_module" class="agglocation linkLocation">
+                  <div id="res163940646" class="bucketwrap listtext">
+                        <div class="bucket">
+                              <p><em>The Two-Way</em> is the place to come for breaking news, analysis and for stories that are just too interesting – or too entertaining – to pass up. It's hosted by <a href="http://www.npr.org/blogs/thetwo-way/2009/05/meet_mark_memmott.html">Mark Memmott</a> and <a href="http://www.npr.org/blogs/thetwo-way/2009/05/meet_mark_memmott.html">Eyder Peralta</a>, who invite you to <a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx?sid=68">get in touch with your questions, comments and leads</a>.</p>
+            </div>
+            
+<!-- END CLASS="BUCKET" -->
+         </div>
+         
+<!-- END ID="RES163940646" CLASS="BUCKETWRAP LISTTEXT" -->
+      </div>
+      
+<!-- END ID="FOOTER_MODULE" CLASS="AGGLOCATION LINKLOCATION" -->
+   </div>
+   
+<!-- END CLASS="MODULE FIRST" -->
+   <div class="module second">
+    <h3><a href="#" data-metrics='{"action":"Toggle Footer Dropdown","label":"Subscribe"}'>Subscribe</a></h3>
+
+    <div>
+        <ul class="subscribe">
+            <li class="twitter"><a href="https://twitter.com/eyderp" data-metrics='{"action":"Click Twitter"}'>Follow Eyder</a></li>
+            <li class="twitter"><a href="https://twitter.com/markmemmottnpr" data-metrics='{"action":"Click Twitter"}'>Follow Mark</a></li>
+            <li class="facebook"><a href="http://www.facebook.com/NPR" data-metrics='{"action":"Click Facebook"}'>Facebook</a></li>
+            <li class="rss"><a href="feed://www.npr.org/rss/rss.php?id=103943429" data-metrics='{"action":"Click RSS"}'>RSS</a></li>
+        </ul>
+    </div>
+</div>
+<!-- end class="module second" -->
+
+<div class="module third">
+    <h3><a href="#" data-metrics='{"action":"Toggle Footer Dropdown","label":"NPR News Twitter"}'>NPR News Twitter</a></h3>
+
+    <div class="promo-bucket twitter-promo" data-metrics-all data-metrics='{"action":"Click Footer Promo"}'>
+        <a href="http://twitter.com/NPRNews" title="Follow @NPRNews"><img class="twitter-bird" src="http://media.npr.org/images/twitter-bird-light-bgs.png"></a>
+        <h4><a href="http://twitter.com/NPRNews" title="Follow @NPRNews">Follow @NPRNews</a></h4>
+    </div>
+</div>
+<!-- end class="module third" -->
+</div>
+
+<!-- END CLASS="MODULES" -->
+</footer>
+<!-- START UNDERWRITING -->
+<!-- BEGIN CommonAdCall.mtpl --><div id="ad-88-wrap">
+    <div id="ad-88">
+                <div class="ad-88-text">Support comes from:</div>
+            <script type="text/javascript">
+            if (DFP.shouldRenderForDevice('88')) {
+                googletag.cmd.push(function() { googletag.display('ad-88'); });
+            }
+            </script>
+    </div>
+</div><!-- END CommonAdCall.mtpl -->
+<!-- END UNDERWRITING -->
+</section>      <section id="navsidebar" role="complementary"><form action="/search/index.php" method="get" name="searchForm" id="searchForm_nav" class="search">
+        <input type="search" name="searchinput" id="searchinput_nav" class="textbox searchbox">
+</form>
+
+<nav id="sideMenu" role="navigation" data-metrics-category="Global Navigation">
+  <ul id="sideMainNav" class="nav-bar">
+    <li class="home"><a href="/" data-metrics='{"action":"Click NPR Home"}'>NPR Home</a></li>
+    <li class="active"><a href="/sections/news/" data-metrics='{"action":"Click News"}'>News</a></li>
+    <li><a href="/sections/arts/" data-metrics='{"action":"Click Arts &amp; Life"}'>Arts &amp; Life</a></li>
+    <li><a href="/music/" data-metrics='{"action":"Click Music"}'>Music</a></li>
+    <li><a href="/listen/" data-metrics='{"action":"Click Listen"}'>Listen</a></li>
+  </ul>
+</nav>
+
+<nav id="loginSidebar" class="nav-two" data-metrics-category="Global Navigation">
+    <ul>
+        <li class="donate"><a href="/stations/donate/index.php" data-metrics='{"action":"Click Business Link"}'>Donate</a></li>
+        <li class="stations" data-metrics='{"action":"Click Business Link"}'><a href="/templates/stations/stations/">Stations</a></li>
+        <li class="nprshop"><a href="http://shop.npr.org" data-metrics='{"action":"Click Business Link"}'>Shop</a></li>
+        <span class="loggedIn">
+                <li class="userLogin" ><span id="userLoginSidebar"></span></li>
+                <li class="login-reg"><a href="/templates/reg/logout.php" class="logout" data-metrics='{"action":"Click Profile Link"}'>Logout</a></li>
+        </span>
+        <li class="login-reg loggedOut"><a href="/templates/reg/login.php" data-metrics='{"action":"Click Profile Link"}'>Sign In / Register</a></li>
+    </ul>
+</nav></section>
+   </div>
+   
+<!-- END ID="SECTIONWRAP" CLASS="CLEARFIX" -->
+   <div id="main_sidebar">
+            
+<!-- START UNDERWRITING -->
+      <!-- BEGIN CommonAdCall.mtpl --><div id="ad-desktop-wrap">
+    <div id="ad-desktop">
+            <script type="text/javascript">
+            if (DFP.shouldRenderForDevice('desktop')) {
+                googletag.cmd.push(function() { googletag.display('ad-desktop'); });
+            }
+            </script>
+    </div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about/place/corpsupport/">Become an NPR sponsor</a></p>
+</div><!-- END CommonAdCall.mtpl -->      
+<!-- END UNDERWRITING -->
+   </div>
+   
+<!-- END ID="MAIN_SIDEBAR" -->
+   <div class="adwrapper housead">
+            <div class="adwrap">
+	<h3><a href="#">Support NPR</a></h3>
+	<div>
+		<img src="http://media.npr.org/images/shop_300x150-04.jpg" alt="Support NPR">
+		<h4><a href="http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150">NPR Shop</a></h4>
+		<p>Support The Programs You Love</p>
+	</div>
+</div>
+   </div>
+   
+<!-- END CLASS="ADWRAPPER HOUSEAD" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<div id="adhesion">
+      <!-- BEGIN CommonAdhesionCall.mtpl --><div id="ad-mobile-wrap">
+    <div id="ad-mobile">
+            <script type="text/javascript">
+              if (DFP.shouldRenderForDevice('mobile')) {
+                var ord = window.ord || Math.floor(Math.random() * 1e16);
+                
+                // use the smaller size for phone, the larger size for tablet
+                var sizes = '640x100';
+                if (Modernizr.mq('only screen and (min-width: 768px)')) {
+                    sizes = '2048x180';
+                }
+                
+                var targets = ';';
+                targets += 'agg=103943429;';
+                targets += 'theme=103943429;';
+                targets += 'storyId=215697233;';
+                targets += 'blog=103943429;';
+                
+                document.write('<scr' + 'ipt type="text/javascript" src="http://ad.doubleclick.net/N6735/adj/n6735.nprmobile/News' + targets + 'sz=' + sizes + ';ord=' + ord + '?"><\/script>');
+              }
+            </script>
+    </div>
+</div> <!-- END CommonAdhesionCall.mtpl -->
+</div>
+
+<!-- END ID="ADHESION" -->
+<footer id="nprfooter"><div class="footer-wrapper">
+      <div class="primary" data-metrics-category="Global Footer" data-metrics-visible="scroll-down end" data-metrics-label="Footer">
+
+    <ul>
+        <li><a href="/" data-action="Click Logo" data-metrics='{"action":"Click Footer Logo"}'></a></li>
+        <li class="news" data-metrics-action="Click News" data-metrics-all>
+            <a href="/sections/news/">News</a>
+            
+            <ul>
+                <li><a href="/sections/us/">U.S.</a></li>
+                <li><a href="/sections/world/">World</a></li>
+                <li><a href="/sections/opinion/">Opinion</a></li>
+                <li><a href="/sections/politics">Politics</a></li>
+                <li><a href="/sections/business/">Business</a></li>
+                <li><a href="/sections/technology/">Technology</a></li>
+                <li><a href="/sections/science/">Science</a></li>
+                <li><a href="/sections/health/">Health</a></li>
+                <li><a href="/sections/sports/">Sports</a></li>
+            </ul>
+        </li>
+        <li class="artslife" data-metrics-action="Click Arts &amp; Life" data-metrics-all>
+            <a href="/sections/arts/">Arts &amp; Life</a>
+        
+            <ul>
+                <li><a href="/books/">Books</a></li>
+                <li><a href="/sections/movies/">Movies</a></li>
+                <li><a href="/sections/pop-culture/">Pop Culture</a></li>
+                <li><a href="/sections/food/">Food</a></li>
+                <li><a href="/sections/performing-arts/">Performing Arts</a></li>
+                <li><a href="/sections/games-humor/">Games &amp; Humor</a></li>
+            </ul>
+        </li>
+        <li class="music" data-metrics-action="Click Music" data-metrics-all>
+            <a href="/music/">Music</a>
+        
+            <ul>
+                <li><a href="/series/100920965/music-articles/">Music Articles</a></li>
+                <li><a href="/sections/music-videos/">Music Videos</a></li>
+                <li><a href="/templates/websites/musicstreams.php">NPR Music Radio</a></li>
+                <li><a href="/templates/artist/artist_index.php?filter=A">Browse Artists A-Z </a></li>
+                    
+                <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
+                <li><a href="/series/alt-latino/">Alt.Latino</a></li>
+                <li><a href="/series/98679384/first-listen/">First Listen</a></li>
+                <li><a href="/sections/concerts/">Live In Concert</a></li>
+                <li><a href="/programs/piano-jazz/">Marian McPartland's <span>Piano Jazz</span></a></li>
+                <li><a href="/series/103063413/the-thistle-and-shamrock/">The Thistle &amp; Shamrock</a></li>
+                <li><a href="/programs/world-cafe/">World Cafe</a></li>
+            </ul>
+        </li>
+        <li class="programs" data-metrics-action="Click Programs" data-metrics-all>
+            <a href="/programs/">Programs</a>
+        
+            <ul>
+                <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
+                <li><a href="http://www.cartalk.com">Car Talk</a></li>
+                <li><a href="http://thedianerehmshow.org">The Diane Rehm Show</a></li>
+                <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                <li><a href="http://hereandnow.wbur.org/">Here &amp; Now</a></li>
+                <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                <li><a href="http://www.onthemedia.org">On The Media</a></li>
+                <li><a href="http://www.onpointradio.org/">On Point</a></li>
+                <li><a href="http://www.sciencefriday.com/">Science Friday</a></li>
+                <li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
+                <li><a href="/programs/tell-me-more/">Tell Me More</a></li>
+                <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                <li><a href="/programs/weekend-edition-saturday/">Weekend Edition <span>Saturday</span></a></li>
+                <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+            </ul>
+        </li>
+        <li class="listen" data-metrics-action="Click Listen" data-metrics-all>
+            <a href="/listen/">Listen</a>
+        
+            <ul>
+                <li><a href="javascript:NPR.Player.openPlayer(0,0,null,NPR.Player.Action.PLAY_NOW, NPR.Player.Type.NEWSCAST, NPR.Player.Mode.FROM_FILE);" class="hourlyNews">Hourly News</a></li>
+                <li><a href="javascript:NPR.Player.openPlayer(0,0,null,NPR.Player.Action.LIVE_STREAM, NPR.Player.Type.PROGRAM_STREAM, NPR.Player.Mode.FROM_FILE);" class="programStream">NPR Program Stream</a></li>
+                <li><a href="/stations/">Find Station Streams</a></li>
+                <li><a href="/rss/podcast/podcast_directory.php">Podcasts</a></li>
+                <li><a href="/about-npr/187046089/ways-to-listen-to-npr">More Ways To Listen</a></li>
+            </ul>
+        </li>
+        <li class="about" data-metrics-action="Click About" data-metrics-all>
+            <a href="/about/">About</a>
+        
+            <ul>
+                <li><a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx">Contact Us</a></li>
+                <li><a href="http://shop.npr.org">NPR Shop</a></li>
+                <li><a href="http://tours.npr.org/npr/Home/">Visit NPR</a></li>
+                <li><a href="http://www.npr.org/about-npr/181953728/work-at-npr">Careers at NPR</a></li>
+                <li><a href="/about/press/">Press Room</a></li>
+                <li><a href="/blogs/thisisnpr/">'This Is NPR' Blog</a></li>
+				<li><a href="/about/support/">Support and Sponsor</a></li>
+                <li><a href="/templates/corrections/corrections.php">Corrections</a></li>
+                <li><a href="/blogs/ombudsman/">NPR Ombudsman</a></li>
+                <li><a href="/about-npr/179881519/rights-and-permissions-information">Permissions</a></li>
+                <li><a href="/email/">Email Newsletters</a></li>
+                <li><a href="/rss/">RSS Feeds</a></li>
+                <li><a href="/api/">The NPR API</a></li>
+			</ul>
+        </li>
+    </ul>
+</div>
+
+<div class="secondary">
+    <p class="copyright">&copy;2013 NPR</p>
+    
+    <ul>
+      <li id="footerContact"><a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx">Contact</a></li>
+      <li><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+      <li><a href="/about-npr/179878450/privacy-policy">Privacy</a></li>
+      <li class="sponsorship-choices"><a href="/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons">Sponsorship Choices</a></li>
+      <li><a href="http://thin.npr.org/">Text-Only</a></li>
+    </ul>
+</div>
+</div>
+</footer><script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/baseStory-ec82bf79c1427a0aa42064fbb6a1541f056b30dc.js">
+   </script>
+</body></html><!--  Burned on demand at 2013-09-30 09:20:17--><!-- LIVE -->

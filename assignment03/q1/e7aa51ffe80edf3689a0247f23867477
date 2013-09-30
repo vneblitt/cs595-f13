@@ -1,0 +1,1361 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://www.w3.org/2002/12/cal/hcal http://www.w3.org/2006/03/hcard"><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+	
+	<!-- L:S content/theme/html_system_head  (0) -->
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<link href="/stylesheets/general.css?1376939526" media="screen" rel="stylesheet" type="text/css" />
+
+	<!-- controller_js -->
+	<script src="//cdn.oreillystatic.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script src="/javascripts/application.js?1376939526" type="text/javascript"></script>
+<script src="//cdn.oreillystatic.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js" type="text/javascript"></script>
+<script src="//cdn.oreillystatic.com/en/assets/1/eventprovider/1/jquery_star_rating_pack.js?03" type="text/javascript"></script>
+<script src="//cdn.oreillystatic.com/en/assets/1/eventprovider/1/jquery.form.min.js" type="text/javascript"></script>
+	<!-- extra_external_javascript -->
+	
+	<!-- extra_styles -->
+	<link href="//cdn.oreillystatic.com/en/assets/1/eventprovider/1/jquery.rating-3.14.css" media="screen" rel="stylesheet" type="text/css" />
+
+	<!-- extra_javascript.untaint -->
+	<script type="text/javascript">
+<!--
+
+      function survey_select_show_hide(what) {
+        var tid = $(what).attr("id") + "_other";
+        if ($(what).val() == "Other (please specify)") {
+          $("input#"+tid).show();
+          $("input#"+tid).focus();
+        } else {
+          $("input#"+tid).hide();
+        }
+      };
+      $(document).ready(function() {
+              $("div.en_rating_wrapper").each(function() {
+          $(this).find("input.en_rating").rating({
+            cancel: 'Remove rating'
+          });
+        });
+      $("input.en_other").each(function() {
+        $(this).keypress(function() {
+          var tid = $(this).attr("id").replace("_other", "");
+          var that = $("input#"+tid);
+          if (that.length > 0) {
+            $(that).attr("checked", "checked");
+          }
+        });
+      });
+      $("select.en_select_other").each(function () {
+        $(this).change(function() {
+          survey_select_show_hide(this);
+        });
+        survey_select_show_hide(this);
+      });
+
+      });
+      function init_eval_js() {
+              $("div.en_grade_buttons").each(function() {
+        $(this).find('input[name="evaluation[grade]"]').rating({
+          captionEl: $(this).parent().find("span.en_grade_label"),
+          cancelValue: ""
+        });
+        $(this).find("label").css("display", "none");
+      });
+
+              $("div.en_rating_wrapper").each(function() {
+          $(this).find("input.en_rating").rating({
+            cancel: 'Remove rating'
+          });
+        });
+      $("input.en_other").each(function() {
+        $(this).keypress(function() {
+          var tid = $(this).attr("id").replace("_other", "");
+          var that = $("input#"+tid);
+          if (that.length > 0) {
+            $(that).attr("checked", "checked");
+          }
+        });
+      });
+      $("select.en_select_other").each(function () {
+        $(this).change(function() {
+          survey_select_show_hide(this);
+        });
+        survey_select_show_hide(this);
+      });
+
+      }
+      
+      function loaded_eval_form(d, thelink) {
+        init_eval_js();
+        d.find('form').submit(function (){
+          $(this).ajaxSubmit({
+            success: function(data){
+              if (/en_eval_dialog_contents/.test(data)) {
+                d.html(data);
+                loaded_eval_form(d, thelink);
+              } else {
+                thelink.parent("div.en_detail_eval").
+                  html(data).
+                  find("a.en_eval_link").each(function() {
+                    
+    activate_reviewing_link($(this));
+                  });
+}
+var propid = thelink.attr('href').match(/\d+$/g); //get proposal ID
+$('div#en_grade_block_'+propid).hide();
+
+            }
+          });
+          $(this).find('input.en_eval_save').attr("disabled", "disabled").
+            after(' <img src="/images/loading.gif" alt="Saving" />');
+          return false;
+        });
+      }
+      
+      function run_eval_dialog(thelink) {
+        
+        var d = $('<div id="en_eval_dialog" class="en_eval_dialog" title="Evaluate session"></div>');
+        d.appendTo(thelink.parent()).load(thelink.attr("href"), function() {
+          loaded_eval_form(d, thelink);
+        });
+       thelink.css('display', 'none');
+
+      }
+      
+      function activate_reviewing_link(thelink) {
+        thelink.click(function() {
+          run_eval_dialog($(this));
+          return false;
+        });
+      }
+      
+      function activate_login_link(thelink) {
+        thelink.attr("href", thelink.attr("href")+"?eval="+thelink.attr('id').
+          replace('en_eval_link_', ''));
+      }
+      
+      $(document).ready(function (){
+        $('a.en_eval_link').each(function() {
+          activate_login_link($(this));
+        });
+      });
+        $(document).ready(function() {
+          $("form.en_comment_form").each(function() {
+            var theform=$(this);
+            $(this).submit(function (){
+              var contents = $('textarea#comment_body').val();
+              if (contents.match( /^[\n\r\s]*$/ )) {
+                alert("Please enter text in the comment box before posting!");
+                return false;
+              }
+              $(theform).find("input.en_comment_form_submit").attr("disabled", "disabled");
+              var ov = $(theform).find("input.en_comment_form_submit").attr("value");
+              $(theform).find("input.en_comment_form_submit").attr("value", "Posting...");
+              if (false) {
+                // if we're not on page 1, don't bother with fanciness
+                return true;
+              }
+              $(this).ajaxSubmit({
+                success: function(data){
+                  if (data != 'FAIL') {
+                    $('div#comments').find('div.en_comments_all').prepend(data);
+                    $(theform)[0].reset();
+                    $(theform).find("input.en_comment_form_submit").attr("disabled", "");
+                    $(theform).find("input.en_comment_form_submit").attr("value", ov);
+                    $('div#comments').find('div.en_comment').eq(0).effect("highlight", {}, 2000);
+                  } else {
+                    alert("Sorry, your comment could not be posted.");
+                    window.location.reload(true);
+                  }
+                }
+              });
+              return false;
+            });
+          });
+        });
+
+//-->
+</script>	
+			<link href="/velocityny2013/public/template/css/287/1379357167"
+		 	media="screen" rel="Stylesheet" type="text/css" />
+	
+	<!-- theme_external_javascript -->
+	<script src="//cdn.oreillystatic.com/en/assets/1/eventprovider/1/2011v1_common.js" type="text/javascript"></script>
+
+			<script src="/velocityny2013/public/template/js/287/1379357167"
+			type="text/javascript"></script>
+	
+	
+
+
+<style>
+.en_eval_link { vertical-align:top; }
+</style>
+	<!-- L:E content/theme/html_system_head  (0) -->
+	<!-- L:S content/theme/html_head  (0) -->
+	<title>
+  
+  
+  
+  
+
+Building For Operations: Velocity New York 2013 - O&#39;Reilly Conferences, October 14 - 16, 2013, New York, NY
+</title>
+
+
+  <!--VWO-->
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=30858,
+settings_tolerance=2000,
+library_tolerance=1500,
+use_existing_jquery=true,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+
+
+<meta property="og:image" content="http://cdn.oreillystatic.com/en/assets/1/eventseries/11/velocity_og200x200.gif" />
+<meta name="twitter:image" content="http://cdn.oreillystatic.com/en/assets/1/eventseries/11/velocity_og_twitter120x120.gif" />
+<meta name="twitter:site" content="@velocityconf" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" /> 
+
+
+
+  <link rel="canonical" href="http://velocityconf.com/ny/public/schedule/detail/30114" />
+  <meta property="og:url" name="twitter:url" content="http://velocityconf.com/ny/public/schedule/detail/30114" />
+  <meta property="og:title" name="twitter:title" content="Building For Operations - Velocity New York 2013" /> 
+  <meta property="og:description" name="twitter:description" content="Stack Overflow is a developer-centered Q&amp;A site handling 3 billion requests per month using a variety of platforms and products to deliver content.  With a small sysadmin team, building our dep..." /> 
+
+
+
+
+
+
+
+
+<link href="//cdn.oreillystatic.com/en/assets/1/eventprovider/1/2013v1_min_css.css" media="screen" rel="Stylesheet" type="text/css" />
+<link href="//cdn.oreillystatic.com/en/assets/1/event/99/velocityny2013_css.css?19" media="screen" rel="Stylesheet" type="text/css" />
+
+
+
+
+<script type="text/javascript">
+<!--
+// js/charbeat_head
+var _sf_startpt=(new Date()).getTime()
+-->
+</script>
+
+
+
+
+  <!--[if lte IE 6]>
+  <script type="text/javascript" src="/javascripts/supersleight-min.js"></script>
+  <![endif]-->
+
+
+
+
+<link rel="apple-touch-icon" href="//cdn.oreillystatic.com/en/assets/1/eventprovider/1/orm-iphone-icon.png" type="image/png" />
+<link href="//cdn.oreillystatic.com/en/assets/1/eventprovider/1/print_css.css" media="print" rel="Stylesheet" type="text/css" />
+
+<meta name="description" content="Stack Overflow is a developer-centered Q&amp;A site handling 3 billion requests per month using a variety of platforms and products to deliver content.  With a small sysadmin team, building our deployments, applications and architecture for ease of management and maintenance is key.  Most of what’s used is an application of widely available open-source, or written in-house and open-sourced for you." />
+<meta name="Category" content="Conferences" />
+
+
+<meta name="search_date" content="2013-10-14" />
+
+
+
+<meta name="author" content="Steven Murawski, Nick Craver, George Beech" />
+
+
+<meta name="Program" content="Operations" />
+
+
+
+<!--for Google Webmaster Tools -->
+<meta name="verify-v1" content = "ejKlkisc2aaHXLk+37fMPNCfcsC5GdJYO2qoBXRRM7g=" />
+
+<!--
+<link rel="image_src" href="http://oreilly.com/images/oreilly/oreilly_large.gif" />
+-->
+
+
+	<!-- L:E content/theme/html_head  (0) -->
+</head>
+<body class='en_c_schedule en_a_detail' id='en_schedule_detail'>
+<div id="en_content" itemscope itemtype="http://data-vocabulary.org/Event">
+<meta itemprop="startDate" datetime="2013-10-14T00:00-00:00" content="October 14, 2013" />
+<meta itemprop="endDate" datetime="2013-10-16T00:00-00:00" content="October 16, 2013"/>
+<meta itemprop="location" content="New York, NY" />
+<meta itemprop="summary" content="Building For Operations - Velocity New York 2013" />
+<div id="en_main_parts">
+
+<div id="en_header"><!-- before_main -->
+<div id="logo"><a href="/velocityny2013/"><img src="//cdn.oreillystatic.com/en/assets/1/event/99/velocityny2013_logo.png" width="182" height="112" alt="Velocity New York" /></a></div>
+<div id="velocity_links">
+		<div class="inner">
+			<div style="padding-top:5px; text-transform:uppercase;"><span class="static">Velocity Conference:</span>&nbsp;&nbsp;<a href="/velocity2013/">Santa Clara</a>&nbsp; &#8226; &nbsp;<a href="http://velocity.oreilly.com.cn/2013/index.php">Beijing</a>&nbsp; &#8226; &nbsp;<span class="current">New York</span>&nbsp; &#8226; &nbsp;<a href="/velocityeu2013/">London</a>
+                        </div>
+		</div>
+</div>
+
+<div id="date_place"><img src="//cdn.oreillystatic.com/en/assets/1/event/99/velocityny2013_location.png" alt="New York, NY" style="padding-right:8px;" /><img src="//cdn.oreillystatic.com/en/assets/1/event/99/velocityny2013_dates.png" alt="October 14-16, 2013" /></div>
+<div id="top_level_nav">
+<ul id="nav">
+<li><a href="/velocityny2013/public/register" class="level_one">Register</a>
+  <ul class="level_two">
+    <li><a href="/velocityny2013/public/register" class="level_two">Pricing &amp; Registration</a></li>
+	<li><a href="/velocityny2013/public/content/all-access" class="level_two">All-Access Pass</a></li>
+	
+	<li><a href="/velocityny2013/public/content/media" class="level_two">Media Registration</a></li>
+	<li><a href="/velocityny2013/public/content/hotel" class="level_two">Venue, Hotel &amp; Travel</a></li>
+    	
+  </ul>
+</li>
+
+<li><a href="/velocityny2013/public/schedule" class="level_one level_main">Program</a>
+  <ul class="level_two">
+    <li><a href="/velocityny2013/public/schedule" class="level_two">Schedule</a></li>
+	<li><a href="/velocityny2013/public/schedule/stype/tutorial" class="level_two">Tutorials</a></li>
+	<li><a href="/velocityny2013/public/schedule" class="level_two" style="cursor:default;">Sessions by Track</a>
+		<ul class="level_three">
+        <li><a href="/velocityny2013/public/schedule/topic/983" class="level_three">Web Performance</a></li>
+        <li><a href="/velocityny2013/public/schedule/topic/984" class="level_three">Operations</a></li>
+		<li><a href="/velocityny2013/public/schedule/topic/985" class="level_three">Mobile Performance</a></li>
+		<li><a href="/velocityny2013/public/schedule/topic/986" class="level_three">Velocity Culture</a></li>
+                <li><a href="/velocityny2013/public/schedule/topic/1073" class="level_three">Sponsored Sessions</a></li>
+      </ul>
+	</li>
+	<li><a href="/velocityny2013/public/schedule/stype/keynote" class="level_two">Keynotes</a></li>
+	<li><a href="/velocityny2013/public/schedule/speakers" class="level_two">Speakers</a></li>
+    <li><a href="/velocityny2013/public/schedule/stype/event" class="level_two">Events</a></li>
+        <li><a href="/velocityny2013/public/schedule/detail/31573" class="level_two">Ignite Velocity</a></li>
+    
+    <li><a href="/velocityny2013/public/content/office-hours" class="level_two">Office Hours</a></li>
+    <li><a href="/velocityny2013/public/content/author-signings" class="level_two">Author Signings</a></li>
+	
+    
+  </ul>
+</li>
+
+<li><a href="/velocityny2013/public/content/sponsors" class="level_one level_main">Sponsor Pavilion</a>
+  <ul class="level_two">
+    <li><a href="/velocityny2013/public/content/sponsors" class="level_two">Sponsors</a></li>
+    <li><a href="/velocityny2013/public/content/exhibitors" class="level_two">Exhibitors</a></li>
+    
+   <li><a href="/velocityny2013/public/content/media-partners" class="level_two">Media Partners</a></li>
+   <li><a href="/velocityny2013/public/content/career-zone" class="level_two">Career Zone</a></li>
+	<li><a href="/velocityny2013/public/content/exhibitor-resource-center" class="level_two">Exhibitor Resource Center</a></li>
+  </ul>
+</li>
+
+<li><a href="/velocityny2013/public/content/contact" class="level_one level_main">Connect</a>
+  <ul class="level_two">
+    <li><a href="/velocityny2013/public/content/contact" class="level_two">Contact Us</a></li>
+    <li><a href="/velocityny2013/user/account" class="level_two">Your Account</a></li>
+	<li class="title"><a class="level_two title">External Links</a></li>
+	<li><a href="http://post.oreilly.com/form/oreilly/signup" class="level_two" target="_blank">Velocity Bulletin &amp; Newsletter</a></li>
+  </ul>
+</li>
+
+<li><a href="/velocityny2013/public/content/about" class="level_one level_main">About</a>
+  <ul class="level_two">
+    <li><a href="/velocityny2013/public/content/about" class="level_two">About Velocity</a></li>
+    <li class="title"><a class="level_two title">External Links</a></li>
+    <li><a href="http://oreilly.com/conferences/diversity.html" class="level_two" target="_blank">Conference Diversity</a></li>
+<li><a href="http://oreilly.com/conferences/code-of-conduct.html" class="level_two" target="_blank">Code of Conduct</a></li>
+  </ul>
+</li>
+
+
+<li><a href="/velocityny2013/user/account" class="level_one level_main">Your Account</a>
+<ul class="level_two">
+  <li><a href="/velocityny2013/user/account" class="level_two">Log in</a></li>
+<li><a href="/velocityny2013/public/content/attendee-directory" class="level_two">Attendee Directory</a></li>
+</ul>
+</li>
+
+</ul>
+</div>
+</div><!-- //en_header -->
+<!-- //theme.id -->
+
+<!-- //theme.id -->
+
+
+<div id="en_menubar">
+
+
+</div><!-- en_menubar -->
+
+
+
+<div id="en_main">
+	<div id="mid">
+	
+	
+<div class="vevent en_session">
+	<div class="user_tools" style="padding-bottom:0;margin-bottom:0;">
+          <div class="en_detail_tools">
+	
+	<div class="en_network_invite">
+	<img src="/images/network_icon.png" width="17" height="14" alt="Network" />
+	<div class="en_network_invite_label">
+		<a href="http://velocityconf.com/velocityny2013/user/network">Join Attendee Network</a>
+	</div>
+	&nbsp;
+</div>
+	
+	
+	<div class="en_session_psched" id="psched30114">
+
+		<a href="/velocityny2013/public/schedule/add/30114" class="en_psched_add" title="Add to your personal schedule"><img src="/images/personal-schedule-icon.png" width="17" height="18" alt="Add to your personal schedule" /></a>
+	<div class="en_psched_add_label"><a href="/velocityny2013/public/schedule/add/30114" class="en_psched_add">Add to Your Schedule</a></div>&nbsp;
+
+
+</div>
+
+	
+			
+	<div id="jump_to_comment"><img src="http://assets.en.oreilly.com/1/eventprovider/1/comment_icon.png" width="17" height="13" alt="comment_icon" /><a href="#new_comment">Add Comment or Question
+</a></div>
+    
+	
+	<!--br /-->
+</div>
+
+          
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="en_article_share onschedule" style="width:auto;">
+  
+    <div class="plusone">
+  <g:plusone size="small" annotation="inline" width="120"></g:plusone>
+  <script type="text/javascript">
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+  </script>
+  </div>
+  
+    <div class="twitter">
+      <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="http://velocityconf.com/velocityny2013/public/schedule/detail/30114" data-text="Building For Operations">Tweet</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+
+
+    
+    <div class="facebook">
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http://velocityconf.com/velocityny2013/public/schedule/detail/30114&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none;overflow:hidden;width:90px;height:21px;" allowTransparency="true"></iframe></div>
+
+
+    <div class="linkedin">
+      <script type="text/javascript">
+        (function() {
+          var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+          li.src = 'https://platform.linkedin.com/in.js';
+          var ls = document.getElementsByTagName('script')[0]; ls.parentNode.insertBefore(li, ls);
+        })();
+      </script>
+     <script type="in/share" data-url="http://velocityconf.com/velocityny2013/public/schedule/detail/30114" data-counter="right"></script>
+    </div>
+
+  </div><!-- //en_article_share -->
+
+
+
+        </div>
+	<h1 class="summary">Building For Operations</h1>
+	<div id="schedule_detail">
+		
+		<div class="en_session_speakers">
+	
+		<a href="/velocityny2013/public/schedule/speaker/156361">Steven Murawski</a> (Stack Exchange), 
+	
+		<a href="/velocityny2013/public/schedule/speaker/156478">Nick Craver</a> (Stack Exchange), 
+	
+		<a href="/velocityny2013/public/schedule/speaker/139947">George Beech</a> (Stack Exchange, Inc.)
+	
+
+
+
+    
+
+
+
+    
+
+</div>
+
+		
+			<div class="session_time">
+	
+	<a href="/velocityny2013/public/schedule/full#s2013-10-15-14:00">2:00pm</a>
+	<a href="/velocityny2013/public/schedule/grid/2013-10-15">Tuesday, 10/15/2013</a>
+	
+</div>
+
+			
+
+<div class="en_session_roominfo">
+	
+		
+			<span class="en_session_topics category">
+				
+					<a href="/velocityny2013/public/schedule/topic/Operations">Operations</a>,
+				
+			</span>
+		
+	
+
+	<span class="en_session_room location">Grand Ballroom West</span>
+	<span class="uf_timing">
+		<abbr class="dtstart dtstamp" title="20131015T1400"></abbr>
+		<abbr class="dtend" title="20131015T1440"></abbr>
+	</span>
+
+	
+		
+	
+
+	
+	
+	
+</div>
+		
+
+
+<div class="en_grade_block" id="en_grade_block_30114" style="border:none;padding:10px 0 0 0;float:none;margin:0;width:100%;clear:none;">
+
+
+
+	
+
+</div>
+		
+
+
+
+
+
+		
+		
+
+                
+
+                
+
+
+
+		<div class="en_session_description description">
+		  <p>The Stack Overflow (Stack Exchange) network is a Q&#38;A network handling billions of requests a month using a variety of platforms to deliver content.  A key to managing infrastructure is building everything with operations in mind.  When deploying or building new applications, servers, and configurations management, monitoring and redundancy, is always kept in mind.</p>
+
+
+	<p>Building for operations includes having management and monitoring ties into every major application or deployed system; this includes basing decisions on which software to use weighing their monitoring and manageability.  When building new applications, APIs for monitoring, exceptions, and overall health is key.  Any configuration that can’t be deployed from source control should at least be checked into it, serving as a backup with bonuses like viewing diffs for every change.</p>
+
+
+	<p>Almost all of what we use to accomplish this is available on the web  (redis, elasticsearch, puppet) and just needs applying, included what we’ve built in-house (SE Status).  This talk will cover how to use these approaches to keep your network up, scale greater, increase redundancy, improve visibility, and reduce the time you spend doing it.</p>
+		</div>
+	</div>
+
+
+
+</div>
+
+
+
+	<div class="en_session_recommendations">
+		<h4>People planning to attend this session also want to see:</h4>
+		<ul>
+		
+			<li><a href="/velocityny2013/public/schedule/detail/29560">Scaling systems configuration at Facebook: the paradigms, design, and software behind managing massive numbers of systems with open source and small teams</a></li>
+		
+			<li><a href="/velocityny2013/public/schedule/detail/29540">VizOps: Data Visualization for Operations</a></li>
+		
+			<li><a href="/velocityny2013/public/schedule/detail/30152">High Velocity Migration</a></li>
+		
+			<li><a href="/velocityny2013/public/schedule/detail/30186">Latency Is The Mind Killer</a></li>
+		
+		</ul>
+	</div>
+
+
+
+
+
+	<div class="vcard en_schedule_session_speaker">
+	
+		<h2 class="fn">Steven Murawski</h2>
+
+		<div id="en_schedule_speaker">
+			
+				<h4 class="org">Stack Exchange</h4>
+			
+
+			<div class="en_speaker_bio note">
+				<p>Steven is a SysAdmin on the technical staff for Stack Exchange (operators of great Q&#38;A sites like Server Fault and Stack Overflow)  and a Microsoft <span class="caps">MVP</span> in PowerShell.</p>
+
+
+	<p>Steven also leads two local user groups, the Greater Milwaukee IT Pro User Community and the Greater Milwaukee Script Club. He speaks regularly to local user groups and can be found at various conferences.</p>
+				
+				<ul>
+				<li><a href="http://stevenmurawski.com/" class="url">Web site</a></li>
+				</ul>
+				
+			</div>
+		</div>
+	</div>
+
+
+	<div class="vcard en_schedule_session_speaker">
+	
+		<div class="en_user_photo">
+			<img src="http://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_156478.jpg"
+				width="75"
+				height="100"
+				alt="Photo of Nick Craver"
+				/>
+		</div>
+	
+		<h2 class="fn">Nick Craver</h2>
+
+		<div id="en_schedule_speaker">
+			
+				<h4 class="org">Stack Exchange</h4>
+			
+
+			<div class="en_speaker_bio note">
+				<p>I’m Nick Craver, a Software Developer for Stack Exchange.  My day to day job keeps me fairly busy, keeping Stack Overflow and the rest of our network running.</p>
+
+
+	<p>When time permits, I’ll try to share some of our lessons learned so that it may save you some time and/or headaches.  In the mean time, you can find me on twitter (@Nick_Craver), Stack Overflow and occasionally, Google+.</p>
+				
+				<ul>
+				<li><a href="http://nickcraver.com/" class="url">Web site</a></li>
+				</ul>
+				
+			</div>
+		</div>
+	</div>
+
+
+	<div class="vcard en_schedule_session_speaker">
+	
+		<div class="en_user_photo">
+			<img src="http://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_139947.jpg"
+				width="75"
+				height="100"
+				alt="Photo of George Beech"
+				/>
+		</div>
+	
+		<h2 class="fn">George Beech</h2>
+
+		<div id="en_schedule_speaker">
+			
+				<h4 class="org">Stack Exchange, Inc.</h4>
+			
+
+			<div class="en_speaker_bio note">
+				<p>I&#8217;m currently working as a systems administrator at Stack Exchange, making the internet better. I have about 11 years of experience running all sizes of networks from 1 man shops, to giant networks that span countries. I enjoy working with Windows, and *nix systems equally.</p>
+				
+				<ul>
+				<li><a href="http://brokenhaze.com/" class="url">Web site</a></li>
+				</ul>
+				
+			</div>
+		</div>
+	</div>
+
+
+
+<div class="en_comment_block">
+	
+		
+<h3>Leave a Comment or Question</h3>
+			
+		
+        <p>Help us make this conference the best it can be <em>for you</em>. Have questions you'd like this speaker to address? Suggestions for issues that deserve extra attention? Feedback that you'd like to share with the speaker and other attendees?
+	    
+	    
+		<br /><br /><b><a href="http://velocityconf.com/velocityny2013/public/schedule/add_proposal_comment/30114" name="new_comment" id="new_comment">Join the conversation here</a></b>
+				(requires login)
+		</p>
+	
+	
+	
+		<div id="comments" class="en_comments">
+	
+	
+	<div class="en_comments_all">
+		
+	</div>
+	
+</div>
+
+	
+</div>
+
+
+
+<!--99-->
+
+
+
+<div id="en_grid_dates">
+	<h3>Schedule views</h3>
+<ul>
+	<li><a href="/velocityny2013/public/schedule/grid/2013-10-14">Mon 14 Oct</a></li><li><a href="/velocityny2013/public/schedule/grid/2013-10-15">Tue 15 Oct</a></li><li><a href="/velocityny2013/public/schedule/grid/2013-10-16">Wed 16 Oct</a></li><li><a href="/velocityny2013/public/schedule/full" id="en_in_full_link">Full listing</a></li><li><a href="/velocityny2013/public/schedule/personal" id="en_in_personal_link">Personal schedule</a></li>
+</ul>
+</div>
+
+
+
+
+</div> <!-- /mid -->
+
+</div><!-- en_main -->
+
+
+
+          
+            <div id="right_col">
+            <div id="sponsors">
+
+<h2 style="margin-left:0;margin-top:0;font-weight:normal;">Sponsors</h2>
+
+
+
+<div class="sponsor_list_heading">Elite Sponsor</div>
+
+<ul class="plain sponsorList"><li><a href="http://www.edgecast.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/edgecast-2.gif" data-img-alt="EdgeCast Networks" data-img-width="120" data-img-height="15">EdgeCast Networks</a></li></ul><div class="sponsor_list_heading">Platinum Sponsors</div>
+
+<ul class="plain sponsorList"><li><a href="http://www.dropbox.com/jobs" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/dropbox.gif" data-img-alt="Dropbox" data-img-width="120" data-img-height="33">Dropbox</a></li><li><a href="http://www.keynote.com" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/keynote_2.gif" data-img-alt="Keynote Systems" data-img-width="120" data-img-height="38">Keynote Systems</a></li></ul><div class="sponsor_list_heading">Partner Sponsors</div>
+
+<ul class="plain sponsorList"><li><a href="http://www.appdynamics.com/free" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/appdynamics.png" data-img-alt="AppDynamics" data-img-width="120" data-img-height="95">AppDynamics</a></li><li><a href="http://www.compuware.com" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/compuware_apm.gif" data-img-alt="Compuware Corporation" data-img-width="120" data-img-height="40">Compuware Corporation</a></li><li><a href="http://www.google.com" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/google_2.gif" data-img-alt="Google" data-img-width="120" data-img-height="40">Google</a></li><li><a href="http://www.neustar.biz/enterprise" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/neustar1.gif" data-img-alt="Neustar" data-img-width="120" data-img-height="24">Neustar</a></li><li><a href="http://www.newrelic.com" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/newrelic1.gif" data-img-alt="New Relic" data-img-width="120" data-img-height="22">New Relic</a></li></ul><div class="sponsor_list_heading">Silver Sponsors</div>
+
+<ul class="plain sponsorList"><li><a href="http://www.a10networks.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/a10-networks.gif" data-img-alt="A10 Networks" data-img-width="120" data-img-height="43">A10 Networks</a></li><li><a href="http://www.activestate.com" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/activestate-1.gif" data-img-alt="ActiveState" data-img-width="120" data-img-height="34">ActiveState</a></li><li><a href="http://www.aerospike.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/aerospike.gif" data-img-alt="Aerospike" data-img-width="120" data-img-height="21">Aerospike</a></li><li><a href="http://www.appfirst.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/appfirst-1.gif" data-img-alt="AppFirst" data-img-width="120" data-img-height="35">AppFirst</a></li><li><a href="http://www.appneta.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/appneta.gif" data-img-alt="AppNeta" data-img-width="120" data-img-height="24">AppNeta</a></li><li><a href="http://www.automic.com" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/automic.gif" data-img-alt="Automic Software" data-img-width="120" data-img-height="35">Automic Software</a></li><li><a href="http://www.catchpoint.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/catchpoint.gif" data-img-alt="Catchpoint" data-img-width="120" data-img-height="43">Catchpoint</a></li><li><a href="http://www.cfengine.com" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/cfengine.gif" data-img-alt="CFEngine" data-img-width="120" data-img-height="31">CFEngine</a></li><li><a href="https://www.crittercism.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/crittercism.gif" data-img-alt="Crittercism" data-img-width="120" data-img-height="47">Crittercism</a></li><li><a href="http://www.dell.com/software" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/dellsoftware.gif" data-img-alt="Dell Software" data-img-width="120" data-img-height="52">Dell Software</a></li><li><a href="http://www.dyn.com" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/dynlogo.gif" data-img-alt="Dyn Inc." data-img-width="120" data-img-height="47">Dyn Inc.</a></li><li><a href="http://www.fastly.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/fastly_red_65thick.gif" data-img-alt="Fastly" data-img-width="120" data-img-height="57">Fastly</a></li><li><a href="http://www.ibm.com/ibm/devops/us/en/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/IBM_white_on_black.gif" data-img-alt="IBM" data-img-width="120" data-img-height="66">IBM</a></li><li><a href="http://www.limelight.com" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/limelight.gif" data-img-alt="Limelight Networks, Inc." data-img-width="120" data-img-height="26">Limelight Networks, Inc.</a></li><li><a href="http://www.neotys.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/neotys.gif" data-img-alt="Neotys" data-img-width="120" data-img-height="28">Neotys</a></li><li><a href="http://www.opscode.com" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/opscode-1.gif" data-img-alt="Opscode" data-img-width="120" data-img-height="57">Opscode</a></li><li><a href="http://www.pagerduty.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/pagerduty-1.gif" data-img-alt="PagerDuty" data-img-width="120" data-img-height="25">PagerDuty</a></li><li><a href="http://www.soasta.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/soasta_2.gif" data-img-alt="SOASTA" data-img-width="120" data-img-height="24">SOASTA</a></li><li><a href="https://www.spotify.com/us/video-splash/?utm_source=spotify&utm_medium=web&utm_campaign=start" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/spotify.gif" data-img-alt="Spotify" data-img-width="77" data-img-height="100">Spotify</a></li><li><a href="http://www.verisigninc.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/verisign.gif" data-img-alt="Verisign" data-img-width="120" data-img-height="99">Verisign</a></li></ul><div class="sponsor_list_heading">Ignite Sponsor</div>
+
+<ul class="plain sponsorList"><li><a href="http://www.catchpoint.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/catchpoint.gif" data-img-alt="Catchpoint" data-img-width="120" data-img-height="43">Catchpoint</a></li></ul><div class="sponsor_list_heading">Supporters</div>
+
+<ul class="plain sponsorList"><li><a href="http://www.appurify.com" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/appurify.gif" data-img-alt="Appurify" data-img-width="120" data-img-height="25">Appurify</a></li><li><a href="www.carpathia.com" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/carpathia.gif" data-img-alt="Carpathia Hosting" data-img-width="120" data-img-height="26">Carpathia Hosting</a></li><li><a href="https://github.com/" target="_blank" data-defer="view" data-img-src="//cdn.oreillystatic.com/conferences/images/logos/github-1.gif" data-img-alt="GitHub" data-img-width="120" data-img-height="32">GitHub</a></li></ul>
+
+
+
+<script type="text/javascript" charset="utf-8">
+	( function( $ ) {
+		if ( typeof $.proxy == 'undefined' ) {
+			$.proxy = function( callback, context ) {
+				var proxy = function() {
+					callback.apply( context, arguments );
+				}
+			
+				return proxy;
+			};
+		}
+		
+		var vController = function() {
+			this.init();
+		};
+		
+		vController.prototype = {
+			init: function() {
+				var that = this;
+				var s = $( '[data-defer="view"]' );
+			
+				s.each( function() {
+					var t = $( this ), p = t.parent(), w = Number( t.attr( "data-img-width" ) ), h = Number( t.attr( "data-img-height" ) );
+					p.css( { width: w, height: h } );
+				});
+			
+				this.objs = [];
+				var w = $( window ), top = w.scrollTop(), bottom = top + w.height(), i;
+				
+				s.each( function() {
+					var t = $( this ), p = t.parent(), off = p.offset();
+					var o = {
+						a: t,
+						p: p,
+						top: off.top,
+						bottom: off.top + p.innerHeight()
+					};
+					
+					if ( o.top < bottom && o.bottom > top ) {
+						that.load( o );
+					}
+					else {
+						that.objs.push( o );
+					}
+				});
+				
+				$( window ).scroll( $.proxy( this.scroll, this ) );
+			},
+			
+			scroll: function() {
+				var w = $( window ), top = w.scrollTop(), bottom = top + w.height(), i;
+				
+				for ( i = this.objs.length - 1; i >= 0; i-- ) {
+					if ( this.objs[i].top < bottom ) {
+						this.load( this.objs[i] );
+					}
+				}
+			},
+			
+			load: function( o ) {
+				var t = o.a;
+				var c = $( "<img />" );
+				var f = function() { t.html( c ); };
+			
+				c.load( f );
+				c.attr( "src", t.attr( "data-img-src" ) );
+				c.attr( "alt", t.attr( "data-img-alt" ) );
+				c.attr( "border", 0 );
+			}
+		};
+		
+		$( function() {
+			var vC = new vController();
+			
+		})
+	}) ( jQuery );
+</script>
+
+<h3>Sponsorship Opportunities</h3>
+<p>For information on exhibition and sponsorship opportunities at the conference, contact Gloria Lombardo at (203) 381-9245 or <a href="mailto:glombardo@oreilly.com">glombardo@oreilly.com</a></p>
+
+
+
+<h3>Media Partner Opportunities</h3>
+<p>For media partnerships, contact <a href="mailto:mediapartners@oreilly.com">mediapartners@ oreilly.com</a></p>
+
+<h3>Press and Media</h3>
+<p>For media-related inquiries, contact Maureen Jennings at <a href="mailto:maureen@oreilly.com">maureen@oreilly.com</a></p> 			
+				
+<h3>Contact Us</h3>
+<p>View a complete list of <a href="/velocityny2013/public/content/contact">Velocity contacts</a></p>
+
+</div><!-- /sponsors -->
+            </div><!-- div#right_col -->
+          	
+
+<div id="en_footerwrap">
+<div id="en_footer"><!-- after_main -->
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css" media="screen">
+	div.banner_ad a[data-defer="random"] { display: none; }
+</style>
+<div class="banner_ad">
+	
+
+<div class="banners">
+<a href="http://www.youtube.com/watch?v=emuRI9QEkO0" target="_blank" data-defer="random" data-img-src="//cdn.oreillystatic.com/en/assets/1/eventseries/11/velocity_keynote_banner.jpg" data-img-width="728" data-img-height="90" data-img-alt="Keynote - Velocity NY 2013">Keynote - Velocity NY 2013</a>
+<a href="http://answers.oreilly.com" target="_blank" data-defer="random" data-img-src="//cdn.oreillystatic.com/en/assets/1/eventprovider/1/answers-banner728x90.png" data-img-width="728" data-img-height="90" data-img-alt="O'Reilly Answers">O'Reilly Answers</a>
+<a href="http://oreilly.com/go/conference-ug" target="_blank" data-defer="random" data-img-src="//cdn.oreillystatic.com/conferences/velocity/assets2012/banner-camp/banner_oreilly_ug.png" data-img-width="728" data-img-height="90" data-img-alt="O'Reilly User Groups">O'Reilly User Groups</a>
+</div>
+
+
+
+</div> <!-- .banner_ad -->
+<script language="javascript" type="text/javascript">
+<!--
+	// Initialize Banners
+	$( function () {
+			$( "div.banner_ad" ).each( function ( i, e ) {
+					var banners = new Array();
+					$( e ).find( 'a[data-defer="random"]' ).each( function( i0, e0 ) {
+							banners.push( $( e0 ) );
+						});
+					
+					var b = banners[ Math.floor( Math.random() * banners.length ) ];
+					var i = $( "<img />" );
+					i.load( function() { b.html( i ); b.fadeIn( 1000 ); } );
+					i.attr( "src", b.attr( "data-img-src" ) );
+					i.attr( "alt", b.attr( "data-img-alt" ) );
+				});
+		});
+//-->
+</script>
+
+
+<div id="footer_logo">
+<a href="http://oreilly.com/"><img height="35" border="0" width="155" src="//cdn.oreillystatic.com/en/assets/1/eventprovider/1/oreilly-logo-footer-transparent.png" alt="O'Reilly Media" /></a>
+<br /><br />
+&copy;2013, O'Reilly Media, Inc.<br />(800) 889-8969 or (707) 827-7019 <br />Monday-Friday 7:30am-5pm PT<br /> All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.<br />
+<a href="mailto:conf-webmaster@oreilly.com" class="webmaster">conf-webmaster@oreilly.com</a>
+</div> 
+
+<div class="footercol">
+<ul>
+  <li><strong>Velocity</strong></li>
+  <li><a href="/velocityny2013/public/content/about">About</a></li>
+  
+  <li><a href="/velocityny2013/public/register">Register for Velocity</a></li>
+  <li><a href="/velocityny2013/public/content/hotel">Venue, Hotel &amp; Travel</a></li>
+  
+  
+  <li><a href="/velocityny2013/public/content/sitemap">Sitemap</a></li>
+  <li><a href="/velocity2013/" target="_blank">Velocity Santa Clara 2013</a></li>
+  <li><a href="http://velocity.oreilly.com.cn/2013/" target="_blank">Velocity China 2013</a></li>
+  <li><a href="/velocityeu2013" target="_blank">Velocity Europe 2013</a></li>
+  <li><a href="http://oreilly.com/conferences/diversity.html" target="_blank">Diversity</a></li>
+  <li><a href="http://oreilly.com/conferences/code-of-conduct.html" target="_blank">Code of Conduct</a></li>
+  <li><a href="http://oreilly.com/oreilly/privacy.html" target="_blank">Privacy Policy</a></li>
+</ul>
+</div>
+
+<div class="footercol">
+<ul>
+  <li><strong>Stay Connected</strong></li>
+  <li><a href="/velocityny2013/public/content/contact">Contact Us</a></li>
+  <li><a href="http://post.oreilly.com/form/oreilly/signup" target="_blank">Velocity Bulletin</a></li>
+  <li><a href="http://twitter.com/velocityconf" target="_blank">Twitter</a></li>
+  <li><a href="http://www.facebook.com/velocityconf" target="_blank">Facebook</a></li>
+  <li><a href="http://www.linkedin.com/groups?gid=1303037" target="_blank">LinkedIn</a></li>
+</ul>
+</div>
+
+<div class="footercol">
+<ul>
+  <li><strong>More O'Reilly Sites</strong></li>
+  <li><a href="http://conferences.oreillynet.com/" target="_blank">O'Reilly Conferences</a></li>
+  <li><a href="http://oreilly.com" target="_blank">oreilly.com</a></li>
+  <li><a href="http://radar.oreilly.com" target="_blank">O'Reilly Radar</a></li>
+  <li><a href="http://shop.oreilly.com/category/videos.do" target="_blank">O'Reilly Video</a></li>
+  <li><a href="http://answers.oreilly.com/" target="_blank">O'Reilly Answers</a></li>
+  <li><a href="http://oreilly.com/webcasts/index.html" target="_blank">O'Reilly Webcasts</a></li>
+  <li><a href="http://oreillyschool.com/" target="_blank">School of Technology</a></li>
+  <li><a href="http://igniteshow.com" target="_blank">Ignite</a></li>
+</ul>
+</div>	
+</div>
+</div>
+
+
+</div><!-- en_main_parts -->
+
+
+<style>
+#yt-popup-overlay { display:none; position:absolute; z-index:200;
+    top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.4); background:none\9;
+    /* IE8 and below */ } #yt-popup-overlay .popup { overflow:hidden;
+    margin:140px auto 0; background-color:#f9f9f9; text-align:center; width:620px;
+    -webkit-border-radius:8px; -moz-border-radius:8px; border-radius:8px; -webkit-box-shadow:0px
+    0px 15px rgba(0, 0, 0, 0.3); -moz-box-shadow:0px 0px 15px rgba(0, 0, 0,
+    0.3); box-shadow:0px 0px 15px rgba(0, 0, 0, 0.3); border:3px solid #ddd\9;
+    /* IE8 and below */ } #yt-popup-overlay .popup .popup-header {
+    font-weight: bold; font-size: 20px; padding:10px 10px 15px; } #yt-popup-overlay .popup .popup-header
+    a.close { font-size:16px; line-height:19px; color:#999; display:block;
+    padding-right:24px; float:right; background:transparent url('//cdn.oreillystatic.com/oreilly/images/close-icon-19x19.png')
+    right 0 no-repeat; } #yt-popup-overlay .popup .popup-header a.close:hover
+    { color:#666; text-decoration:none; background:transparent url('//cdn.oreillystatic.com/oreilly/images/close-icon-19x19.png')
+    right -100px no-repeat; }  #yt-popup-overlay .popup
+    .popup-header p { margin:0 40px; padding:0; font-size:20px; line-height:28px;
+    font-weight:normal; } #yt-popup-overlay .popup-window { margin:10px; text-align:left;} #yt-popup-overlay #yt-popup-frame {display:block; border:none; padding:0; margin:0 auto; width:600px; height:335px;
+    text-align:left;}
+</style>
+<div id="yt-popup-overlay">
+<div id="yt-popup" class="popup">
+<div class="popup-header"><a class="close" href="#">close</a></div>
+<div class="popup-window">&nbsp;</div>
+</div>
+</div>
+<script type="text/javascript">
+$(function() {
+    var ytPopupOverlay = $('#yt-popup-overlay'),
+        ytPopup = $('#yt-popup'),
+        ytPopupClose = ytPopup.find('a.close'),
+        ytPopupLoad = 0;
+
+    ytPopupOverlay.prependTo('body');
+
+    $('#yt-popup-frame').load(function() {
+        if (ytPopupLoad < 2) {
+            ytPopupLoad++;
+        } else {
+            $('#yt-popup-frame').css('opacity', 0);
+            //$('#yt-popup-overlay').animate({ opacity: 0 }, 200);
+            ytClosePopup();
+        }
+        //console.log(ytPopupLoad);
+    });
+
+    function startYTPopup(conf) {
+        var ytPopup = $('#yt-popup');
+        ytShowPopup(); 
+    } //startYTPopup()
+
+    function ytClosePopup() {
+        ytPopupOverlay.animate({
+            'opacity': 0
+        }, 300, function() {
+            ytPopupOverlay.css('display', 'none');
+            $('#yt-popup-frame').remove();
+        });
+        ytPopupLoad = 1;
+    } //ytClosePopup()
+    ytPopupOverlay.click(function() {
+        ytClosePopup();
+    });
+
+    ytPopupClose.click(function(e) {
+        e.preventDefault();
+        ytClosePopup();
+    });
+
+    $(document).keydown(function(e) {
+        if (e.which == 27) { //escape key
+            ytClosePopup();
+        }
+    });
+
+    ytPopup.click(function(event) {
+        event.stopPropagation();
+    });
+
+    function ytShowPopup() {
+        ytPopup.css('margin-top', ($(window).scrollTop() + 140) + "px");
+        ytPopupOverlay.css({
+            'opacity': 0,
+            'display': 'block',
+            'height': jQuery('html').height()
+        }).animate({
+            'opacity': 1
+        }, 200);
+        $('#yt-popup-frame').css({"opacity": 1, "background": "white url('http://cdn.oreillystatic.com/en/assets/1/eventprovider/1/loading-hex999_120x40.gif') center center no-repeat"});
+    } //ytShowPopup()
+    $('a.yt_link').on('click', function(evt) {
+        var conf_video = $(this).data('url'),
+            selected_div = $('#popup_content');
+        evt.preventDefault();
+        startYTPopup();
+        $('.popup-window').append('<iframe src="'+ conf_video +'" id="yt-popup-frame" frameborder="0" height="335" width="600"></iframe>') 
+        
+    });
+});
+</script>
+
+
+
+</div><!-- en_content -->
+
+<!-- included in later in the scripts_functions.js in after_main --> 
+
+
+<script type="text/javascript">
+<!--
+$(document).ready(function() {
+
+  /* On click */
+  $("#stay_connected .title").toggle(function() {
+    var title = $(this);
+    title.siblings(".content").slideDown(50, function() {title.addClass("active");});
+  }, function() {
+    var title = $(this);
+    $(this).siblings(".content").slideUp(50, function() {title.removeClass("active");});
+  });
+
+
+
+
+  
+
+
+
+
+
+
+
+});
+
+
+-->
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- Google Code for Remarketing Tag -->
+
+<!--------------------------------------------------
+
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+
+--------------------------------------------------->
+
+<script type="text/javascript">
+
+/* <![CDATA[ */
+
+var google_conversion_id = 1065103245;
+
+var google_custom_params = window.google_tag_params;
+
+var google_remarketing_only = true;
+
+/* ]]> */
+
+</script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+
+</script>
+
+<noscript>
+
+<div style="display:inline;">
+
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065103245/?value=0&amp;guid=ON&amp;script=0"/>
+
+</div>
+
+</noscript>
+
+
+<!-- effects -->
+<script src="//cdn.oreillystatic.com/en/assets/1/eventprovider/1/scripts_functions2013.js?01" type="text/javascript"></script>
+
+
+
+<!-- site catalyst -->
+
+<script language="JavaScript" type="text/javascript">
+<!--
+var localScAcct = "orvelocityny"; 
+//!-->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--//
+ /* Specify the Report Suite ID(s) to track here */ 
+/* localScAcct is specified in content/scripts/sitecatalyst_cfg */
+//var globalScAcct = "ororeillyglobaldev";
+var globalScAcct = "orglobal";
+
+var s_account = localScAcct + "," + globalScAcct;
+/*s_code.js must be called via the current protocol to avoid mixed content warnings */
+var s_code_protocol;
+var s_code_url = "cdn.oreillystatic.com/assets/js/s_code.js";
+if (window.location.protocol == "https:"){
+document.write('<script id="s_code_script" type="text/javascript" src="https://' + 'cdn.oreillystatic.com/assets/js/s_code.js' + '"><' + '/script>');
+}else{
+document.write('<script id="s_code_script" type="text/javascript" src="http://' + 'cdn.oreillystatic.com/assets/js/s_code.js' + '"><' +'/script>');
+}
+//!-->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+var myChannel, myPageName, myTitle, mySeries, myEvent, myEventTitle, mySection, mySection2, mySection3, myLoggedStatus,myEventPhase,localScAcct,myPubDate,mySystemPageType;
+
+if(typeof(myTitleAppend) == 'undefined')
+var myTitleAppend = "";
+else myTitleAppend = ": " + myTitleAppend;
+
+myChannel = "confs";
+
+myTitle       = "building for operations" + myTitleAppend;
+
+
+mySection   = new Array(myChannel);
+mySeries = "velocity";
+
+mySection.push(mySeries);
+mySection2 = mySection.slice(); 
+
+myEventPhase = "registration"; 
+
+var myEventStartDate = new Date ("October 14, 2013");
+var today            = new Date();
+if (today > myEventStartDate){
+     myEventPhase = "post-conference";
+}
+
+myPubDate = "10/15/2013";
+myEventTitle = "Velocity New York 2013";
+myEvent      = "velocityny2013";
+mySection2.push(myEvent)
+
+mySection3 = mySection2.slice(); 
+mySystemPageType = "schedule";
+
+
+mySection3.push(mySystemPageType)
+myPageName   = myChannel + ":" + myEvent + " " + myTitle;
+mySection    = mySection.join(":");
+mySection2   = mySection2.join(":");
+mySection3   = mySection3.join(":");
+
+myLoggedStatus = "logged out";
+
+/* You may give each page an identifying name, server, and channel on
+the next lines..... */
+s.pageName = myPageName.toLowerCase(); 
+//s.server   = ""; OK TO DELETE THIS LINE?
+s.channel  = myChannel;
+//s.pageType = "";OK TO DELETE THIS LINE?
+s.prop1  = mySection;
+s.prop2  = mySection2;
+s.prop3  = mySection3;
+s.prop4  = mySystemPageType; //not using this currently
+s.prop5  = myTitle;
+s.prop7  = myPubDate;
+s.prop15 = s.eVar24 = myLoggedStatus;
+s.prop29 = myEventPhase;//this has more work to do.
+s.prop38 = myEventTitle;
+
+/* Conversion Variables */
+s.campaign="";
+s.state="";
+s.zip="";
+s.events="";  // need way to distinguish amongst these
+s.products="";     // only put products on for purchases.
+s.purchaseID="";
+s.eVar1="";
+s.eVar2="";
+s.eVar3="";
+s.eVar4="";
+s.eVar5="";
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://ororeillyglobaldev.122.2O7.net/b/ss/ororeillyglobaldev/1/H.20.2--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.2. -->
+
+
+<!-- crazy egg heatmap -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName('script')[0]; a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6381.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3144621-21']);
+  _gaq.push(['_setSiteSpeedSampleRate', 50]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- js/chartbeat_footer --> 
+<script type="text/javascript">
+	var _sf_async_config={uid:1632,domain:"velocityconf.com"};
+	(function(){
+		function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+			(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+			"js/chartbeat.js");
+			document.body.appendChild(e);
+		}
+		
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	})();
+</script>
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","61e2f91637","349946","dAxbFxYNWlpXRBxEEFUPXABLEVVeV1JGWAAYB1AXBQta",0,697,new Date().getTime(),"","","","",""]);</script></body>
+</html>

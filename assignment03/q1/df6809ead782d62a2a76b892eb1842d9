@@ -1,0 +1,2214 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]--><head><title>NPR : National Public Radio : News &amp; Analysis, World, US, Music &amp; Arts : NPR</title><meta charset="utf-8" /><!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]--><meta name="robots" content="noarchive,index,follow" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" /><!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><![endif]-->
+<!--dontvalidate-->
+<meta name="date" content="2013-09-30" />
+<!--/dontvalidate-->
+<link rel="canonical" href="http://www.npr.org/" /><meta name="description" content="NPR delivers breaking national and world news. Also top stories from business, politics, health, science, technology, music, arts and culture. Subscribe to podcasts and RSS feeds." /><link rel="alternate" type="application/rss+xml" title="Home Page Top Stories" href="/rss/rss.php?id=1002" /><link rel="alternate" type="application/rss+xml" title="NPR News" href="/rss/rss.php?id=1001" /><link rel="alternate" type="application/rss+xml" title="NPR Music" href="/rss/rss.php?id=1039" /><link rel="alternate" type="application/rss+xml" title="NPR Books" href="/rss/rss.php?id=1032" /><link rel="alternate" type="application/rss+xml" title="Morning Edition" href="/rss/rss.php?id=3" /><link rel="alternate" type="application/rss+xml" title="All Things Considered" href="/rss/rss.php?id=2" /><link rel="alternate" type="application/rss+xml" title="Wait Wait... Don't Tell Me!" href="/rss/rss.php?id=35" /><link type="text/css" rel="stylesheet" media="screen, print" href="http://s.npr.org/templates/css/generated/fingerprint/newsHp2-92652a12f29201d5c4b9f38f83eabcaaeb87c1cd.css" /><script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/homepageFonts-6dd4ee0f11a808042a66e55ecbdab315148663d1.js">
+   </script>
+<script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/headerAllPages-9888c2c4f0d63d0bfa8088c603d4eb7fee76cac0.js">
+   </script>
+<script type="text/javascript">
+   document.domain="npr.org";
+</script>
+<script>
+   AddNamespace('NPR.serverVars'); jQuery.extend(NPR.serverVars,{"storyId":1002,"serverType":"prod","refresh":600,"facebookAppId":"138837436154588","closeurl":"http:\/\/www.npr.org\/templates\/socialmedia\/close.html"});
+</script>
+
+<!-- START UNDERWRITING -->
+<script type="text/javascript">
+   
+googletag.cmd.push(function(){try{googletag.pubads().setTargeting('storyId','1002');var deviceString='';var ua=navigator.userAgent.toLowerCase();if(ua.indexOf("android")>-1){googletag.pubads().setTargeting('device','android');}
+else if(ua.match(/(iPad|iPhone|iPod)/i)){googletag.pubads().setTargeting('device','ios');}
+if(typeof DFP.queryParameters.sc==='string'&&DFP.queryParameters.sc.length>0){scValue=DFP.queryParameters.sc;}
+else if(typeof document.referrer==='string'&&document.referrer.search('facebook.com')>-1){scValue='fb';}
+else if(typeof DFP.queryParameters.ft==='string'){scValue=DFP.queryParameters.ft;}
+googletag.pubads().setTargeting('sc',scValue);var utm_source=typeof DFP.queryParameters.utm_source==='string'&&DFP.queryParameters.utm_source.length>0?DFP.queryParameters.utm_source:'';var utm_medium=typeof DFP.queryParameters.utm_medium==='string'&&DFP.queryParameters.utm_medium.length>0?DFP.queryParameters.utm_medium:'';googletag.pubads().setTargeting('utm_source',utm_source);googletag.pubads().setTargeting('utm_medium',utm_medium);var orient='';if(NPR.Devices.isOnPhone()||NPR.Devices.isOnTablet()){if(window.orientation==0||window.orientation==180){orient='portrait';}else if(window.orientation==90||window.orientation==-90){orient='landscape';}}
+googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.enableServices();}catch(e){NPR.messaging.exception(e,'Define Google Publisher Tags',NPR.messaging.constants.SPONSORSHIP_ERROR);}});
+</script>
+
+<!-- END UNDERWRITING -->
+</head><body id="news" class="news tmplHomePage agg off-canvas hide-extras" data-metrics-scroll><a href="#mainContent" id="skiplink">Skip to Main Content</a><script>AddNamespace("NPR.pageInfo");try{(function(){var info={"sessionScope":2,"pageScope":3,"breadcrumbs":["Home Page Top Stories"],"primaryTopic":1002,"orgId":"1","topics":[1002],"pageTypeId":2,"internalCampaign":null,"campaignSource":null,"campaignName":null,"aggregations":[1002],"aggregationsText":["Home Page Top Stories"],"chartbeatAccount":"18888","webHost":"http:\/\/www.npr.org"}
+NPR.pageInfo=$.extend(NPR.pageInfo,info);})();}catch(e){}</script><script type="text/javascript">var pageTrackingCPTV=function(){try{AddNamespace("NPR.metrics");NPR.metrics.pageImpression();}catch(e){NPR.messaging.exception(e,'commonPageTrackView','document.ready',NPR.messaging.constants.METRICS_ERROR);}};if($('docreadybind').length){$('docreadybind').bind('click',pageTrackingCPTV);}else{$(document).ready(pageTrackingCPTV);}</script><header id="globalheader" class="clearfix"><div class="header-inner">
+    <div class="header header-primary">
+        <a href="/" class="nprhome" data-metrics='{"action":"Click Header Logo", "category":"Global Navigation"}'>
+            <img src="http://media.npr.org/chrome/news/npr-home.png" width="145" height="48" alt="NPR" />
+        </a>
+
+        <nav class="nav nav-utility">
+            <ul>
+                <li class="donate"><a href="/stations/donate/index.php" data-metrics='{"action":"Click Business Link"}'><span class="tablet-only">Donate</span><span class="desktop-up">Support Public Radio</span></a></li>
+                <li class="stations"><a href="/stations" data-metrics='{"action":"Click Business Link"}' data-reveal-id="myModal">Find Stations</a></li>
+                <li class="nprshop"><a href="http://shop.npr.org" data-metrics='{"action":"Click Business Link"}'>NPR Shop</a></li>
+                <li class="login-reg loggedOut"><a href="/templates/reg/login.php" data-metrics='{"action":"Click Profile Link","label":"Login / Register"}'>Sign In/Register</a></li>
+            </ul>
+                        
+            <ul class="loggedIn">
+	            <li class="userLogin" ><span id="userLogin"></span></li>
+	            <li class="login-reg"><a href="/templates/reg/logout.php" class="logout" data-metrics='{"action":"Click Profile Link","label":"Logout"}'>Logout</a></li>
+            </ul>
+
+            <form action="/search/index.php" method="get" name="searchForm" id="searchForm" class="search">
+                <label for="searchinput">Search</label>
+                <input type="search" name="searchinput" id="searchinput" class="textbox searchbox">
+            </form>
+        </nav>
+    </div>
+    <nav class="nav nav-primary" data-metrics-category="Global Navigation" >
+        <div class="nav-primary-inner">
+            <ul>
+                <li class="topics"><a data-metrics='{"action":"Toggle Topics Drawer"}'>Topics</a></li>
+                <li class="programs has-more">
+                    <a class="nav-drawer-link"  data-metrics='{"action":"Toggle Program Drawer"}'>Programs <b class="icn-caret"></b></a>
+                </li>
+                <li class="stream"><a></a></li>
+                <li class="listen has-more">
+                    <a class="nav-drawer-link"  data-metrics='{"action":"Toggle Listen Drawer"}'>Listen <b class="icn-caret"></b></a>
+                </li>
+                <li class="news-updates">
+                    <a class="nav-drawer-link" data-metrics='{"action":"Toggle News Updates Drawer"}' >News Updates<b class="icn-caret"></b></a>
+                </li>
+            </ul>
+
+            <div class="header-sponsor" id="ad-88">
+                <div class="ad-88-text">Support comes from</div>
+                
+            	<script type="text/javascript">
+            	<!--
+            	try {
+            	    googletag.cmd.push(function() { googletag.display('ad-88'); });
+            	} catch(e){
+            	    NPR.messaging.warning('Problem fetching/rendering ad server code: ' + e.message,'googletag.display',NPR.messaging.constants.SPONSORSHIP_ERROR);
+            	}
+            	// -->
+            	</script>
+            </div>
+        </div> <!-- /.nav-primary-inner -->
+    </nav> <!-- /.nav-primary -->
+</div> <!-- /.header-inner -->
+
+<nav class="drawers" data-metrics-category="Listen Drawer">
+    <div class="drawer drawer-listen">
+        <div class="col col-one">
+            <div class="nav-split">
+                <section>
+                    <h2>latest news</h2>
+                    <div class="audio-content content-stream">
+                        <a class="latest-news-link" data-audio="/npr/news/newscast" data-audio-desktop="[0,0,null,1,4,0]" data-metrics='{"action":"Play Hourly News"}'><b class="icn-media"></b></a>
+                        <div class="program-info-container">
+                            <p class="program-title">NPR Newscast</p>
+                            <p class="program-info">4min 45sec</p>
+                        </div>
+                    </div>
+
+                </section>
+                <section class="listen-latest-programs">
+                    <h2>latest program</h2>
+                    <div class="audio-content content-stream listen-latest-program">
+                        <a data-metrics='{"action":"Listen to Latest Show"}'><b class="icn-media"></b></a>
+                        <div class="program-info-container">
+                            <p class="program-title"></p>
+                            <p class="program-info"></p>
+                        </div>
+                    </div>
+                    <a class="link-all" href="/programs/" data-metrics='{"action":"Click All Programs"}'>all programs <b class="icn-caret"></b></a>
+
+                </section>
+            </div>
+            <div class="nav-split">
+
+            </div>
+        </div>
+        <div class="col col-two">
+            <section class="apps" data-metrics-all data-metrics-action="Click Apps">
+                <h2>apps</h2>
+                <p><a href="/services/mobile/iphone.php"><b class="app-icn listen-apple"></b> NPR News for iPhone</a></p>
+                <p><a href="/services/mobile/ipad.php"><b class="app-icn listen-apple"></b> NPR iPad app</a></p>
+                <p><a href="/services/mobile/iphone-music.php"><b class="app-icn listen-apple"></b> NPR Music app ( for iPhone and iPad )</a></p>
+                <p><a href="/services/mobile/android.php"><b class="app-icn listen-android"></b> NPR News Android App</a></p>
+                <a class="link-all" href="/services/mobile/">more apps<b class="icn-caret"></b></a>
+
+            </section>
+            <section>
+                <h2>podcasts</h2>
+                <div class="podcast-content" data-metrics-all data-metrics-action="Click Featured Podcast">
+                    <a href="/rss/podcast/podcast_detail.php?siteId=94411890" >
+                        <img src="http://media.npr.org/images/podcasts/thumbnail/npr_planet_money_75.png" alt="Planet Money" />
+                        <div class="program-info-container">
+                            <p class="program-type">economy</p>
+                            <p class="program-title">Planet Money Podcast</p>
+                            <p class="program-info">On NPR's Planet Money, you'll meet high rollers, brainy economists and regular folks -- all trying to make sense of our rapidly changing global economy.</p>
+                        </div>
+                    </a>
+                </div>
+                <a class="link-all" href="/rss/podcast/podcast_directory.php" data-metrics='{"action":"Click Find Podcasts"}'>all podcasts <b class="icn-caret"></b></a>
+            </section>
+		</div>
+	</div>
+
+     <div class="drawer drawer-programs" data-metrics-all  data-metrics-action="Click Program">
+        <div class="col-wrap">
+            <section class="col col-news-talk" >
+                <h1>News &amp; Conversations</h1>
+                <ul>
+                    <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                    <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                    <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                    <li><a href="http://hereandnow.wbur.org/" target="_blank">Here &amp; Now</a></li>
+                    <li><a href="http://thedianerehmshow.org" target="_blank">The Diane Rehm Show</a></li>
+                    <li><a href="http://www.onthemedia.org" target="_blank">On The Media</a></li>
+                    <li><a href="http://www.onpointradio.org/" target="_blank">On Point</a></li>
+                    <li><a href="http://sciencefriday.com/" target="_blank">Science Friday</a></li>
+                    <li><a href="/programs/tell-me-more/">Tell Me More</a></li>
+                    <li><a href="/programs/weekend-edition-saturday/">Weekend Edition Saturday</a></li>
+                    <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+                </ul>
+            </section> <!-- /.col-news-talk -->
+
+            <section class="col col-entertainment-culture">
+                <h1>Storytelling &amp; Humor</h1>
+                <ul>
+                    <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
+                    <li><a href="http://www.cartalk.com" target="_blank">Car Talk</a></li>
+                    <li><a href="http://www.radiolab.org" target="_blank">Radiolab</a></li>
+                    <li><a href="http://snapjudgment.org" target="_blank">Snap Judgment</a></li>
+                    <li><a href="http://storycorps.org" class="storycorps" target="_blank">StoryCorps</a></li>
+                    <li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
+                    <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                </ul>
+            </section> <!-- /.col-entertainment-culture -->
+
+            <section class="col col-music">
+                <h1>Music</h1>
+                <ul>
+                    <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
+                    <li><a href="/series/alt-latino/">Alt.Latino</a></li>
+                    <li><a href="/series/98679384/first-listen">First Listen</a></li>
+                    <li><a href="/blogs/microphonecheck/">Microphone Check</a></li>
+                    <li><a href="http://www.fromthetop.org/">From The Top</a></li>
+                    <li><a href="http://www.npr.org/programs/jazzset/">JazzSet</a></li>
+                    <li><a href="/programs/piano-jazz/">Piano Jazz</a></li>
+                    <li><a href="/series/150560513/song-travels">Song Travels</a></li>
+                    <li><a href="/series/103063413/the-thistle-and-shamrock">The Thistle &amp; Shamrock</a></li>
+                    <li><a href="/programs/world-cafe/">World Cafe</a></li>
+                </ul>
+            </section> <!-- /.col-music -->
+
+            <section class="col col-also">
+                <h1>Also Heard on NPR Stations</h1>
+                <ul class="also">
+                    <li><a href="http://prairiehome.publicradio.org" target="_blank">A Prairie Home Companion <b>(APM)</b></a></li>
+                    <li><a href="http://marketplace.publicradio.org" target="_blank">Marketplace <b>(APM)</b></a></li>
+                    <li><a href="http://www.thisamericanlife.org" target="_blank">This American Life <b>(PRI)</b></a></li>
+                    <li><a href="/programs/">Public Radio Programs A To Z</a></li>
+                </ul>
+            </section> <!-- /.col-special-series -->
+        </div> <!-- ..col-wrap -->
+    </div>
+
+    <div id="desktopNewsUpdatesDrawer" class="drawer drawer-news-updates">
+        <ul>
+        </ul>
+        <div class="nib-newscast newscast">
+            <a class="latest-news-link" data-audio="/npr/news/newscast" data-audio-desktop="[0,0,null,1,4,0]" data-metrics='{"action" : "Play Inline Audio", "category" : "Newscast Audio NIB"}'><b class="icn-media"></b><div class="stream-meta-view">
+                <div class="stream-program-meta-view">
+                    <h2 class="alpha newscast_title">NPR Newscast</h2>
+                    <h3 class="alpha newscast_program">4min 45sec</h3>
+                </div>
+
+                <!-- END CLASS="STREAM-PROGRAM-META-VIEW" -->
+            </div>
+
+                <!-- END CLASS="STREAM-META-VIEW" -->
+            </a>
+        </div>
+    </div>
+</nav> <!-- /.drawers -->
+</header><div id="wrapper">
+      <div id="sectionWrap" class="clearfix">
+            <section role="main"><header class="contentheader" data-metrics-category="homepage"><div class="mobileheader">
+    <a class="sidebarButton" href="#sidebar"  data-metrics='{"action":"Toggle OffCanvas","category":"Global Navigation"}'>
+        <img src="http://media.npr.org/chrome/subnav_toggle.png" alt="NPR logo" width="44" height="42" />
+    </a>
+    
+    <a href="/" class="nprHome" data-metrics='{"action":"Click Logo","category":"Global Navigation"}'>
+        <img src="http://media.npr.org/chrome/news/npr-home.png" alt="NPR">        
+    </a>  
+    
+    <div class="news-updates">
+        <h2 data-metrics='{"action":"Toggle News Updates Drawer"}'>News Updates</h2>
+        <b class="icn-caret" data-metrics='{"action":"Toggle News Updates Drawer"}'></b>
+    </div>
+    
+    <div class="drawer drawer-news-updates">
+        <ul>
+        </ul>
+    </div>
+</div>
+    
+<nav class="mobileheader-nav">
+    <ul>
+        <li class="program-stream"><a data-audio="http://nprdmp.ic.llnwd.net/stream/nprdmp_live01_mp3" data-audio-desktop='[0,0,null,3,"live1",0]' data-metrics='{"action":"Play Program Stream"}'><b class="icn-media"></b>24-hour Program Stream</a></li>
+        <li class="listen has-more"><a data-metrics='{"action":"Toggle Listen Drawer"}'>Listen <b class="icn-caret"></b></a></li>
+    </ul>
+    
+    <div class="drawer drawer-listen" data-metrics-category="Listen Drawer">
+        <section>
+            <h2>latest news</h2>
+            <div class="audio-content content-stream">
+                <a class="latest-news-link" data-audio="/npr/news/newscast" data-audio-desktop="[0,0,null,1,4,0]" data-metrics='{"action":"Play Hourly News"}'><b class="icn-media"></b></a>
+                <div class="program-info-container">
+                    <p class="program-title">NPR Newscast</p>
+                    <p class="program-info">4min 45sec</p>
+                </div>
+            </div>
+        </section>
+        <section class="link">
+            <a href="/stations" data-metrics='{"action":"Click Find Stations"}'><b class="icn-station"></b>find stations</a>
+        </section>
+        <section class="link">
+            <a href="/services/mobile/" data-metrics='{"action":"Click Apps"}'>npr apps for apple and android</a>
+        </section>
+        <section class="link">
+            <a href="/rss/podcast/podcast_directory.php" data-metrics='{"action":"Click Find Podcasts"}'>find podcasts</a>
+        </section>
+    </div> 
+</nav>
+</header><div id="contentWrap">
+      <div class="homepage-featured">
+            <div class="homepage-featured-table">
+                  <div class="stories-wrap stories-wrap-one" data-metrics-category="Curated List">
+                        <!-- BEGIN HomePageListStorySection.mtpl --><section class="attachment-group">
+  <!-- BEGIN HomePageListStoryHigh.mtpl --><article class="hp-item volume-high post-type-audio has-attachment has-image" id="story227719417">
+
+  
+    <div class="story-wrap-outer">
+
+    
+<div class="story-wrap">
+    
+         <figure class="head-image">
+            <div class="bucketwrap homeLarge">
+                <a href="http://www.npr.org/blogs/thetwo-way/2013/09/30/227719417/are-you-ready-for-some-shutdown-heres-mondays-schedule" data-metrics='{"action" : "Click Story 1"}'>  
+        		  <img src="http://media.npr.org/assets/img/2013/09/30/capitol302way_wide-4ecc6e3912ab1abc2618620cb3eea7beb05d6cff-s5-c15.jpg" data-original="http://media.npr.org/assets/img/2013/09/30/capitol302way_wide-4ecc6e3912ab1abc2618620cb3eea7beb05d6cff-s5.jpg" class="lazyOnLoad"  title="Are You Ready For Some Shutdown?" alt="Are You Ready For Some Shutdown?" />
+                </a>  
+
+        		<div class="credit-caption">     
+				        <div class="caption">
+				            <p>Inside the Capitol, lawmakers are battling over health care and the budget. Outside, many government services may come to a stop at midnight. 
+				                <b class="credit">Win McNamee/Getty Images</b>
+    				            <b class="hide-caption"><b>hide caption</b></b>
+                            </p>
+				        </div>
+                    
+				        <b class="toggle-caption">i<b>toggle caption</b></b>
+				    
+				    <b class="credit">Win McNamee/Getty Images</b>
+				</div>
+            </div>
+        </figure>
+        
+  <div class="story-text">    
+    
+    <h2 class="slug ttwnb"><a href="http://www.npr.org/blogs/thetwo-way/" data-metrics='{"action":"Click Slug"}'>The Two-Way - News Blog</a></h2>
+
+    <a href="http://www.npr.org/blogs/thetwo-way/2013/09/30/227719417/are-you-ready-for-some-shutdown-heres-mondays-schedule" data-metrics='{"action" : "Click Story 1"}'>  
+
+    <h1 class="title">Are You Ready For Some Shutdown?</h1>
+
+    <p class="teaser">
+                                 
+          The Democratic-led Senate is expected to reject the latest plan from the Republican-led House Monday afternoon. With a midnight deadline looming, it's looking as if a partial government shutdown can't be avoided.</p>
+      </a>
+  </div>  <!-- /.story-text -->
+  
+  </div> <!-- /.story-wrap --> 
+  
+    <!-- BEGIN HomePageListStoryAudio.mtpl -->
+<div class="audio-player">
+    <a href="#" data-audio="/npr/me/2013/09/20130930_me_01" data-audio-desktop="[227719417, 227698482, null, 1, 1, 1]" data-metrics='{"action" : "Play Inline Audio", "category" : "Segment Audio", "label" : "/npr/me/2013/09/20130930_me_01"}'   >
+        <b class="icn-media"></b> 
+        
+        <b class="time-progress"></b>
+        
+        	<b class="call-to-action">Listen</b>
+        
+       <b class="loading">Loading</b>
+       <b class="playing">Playing&hellip;</b>
+
+        <b class="audio-info">
+            
+               <b class="time-total">4 min 21 sec</b>
+            
+        </b>
+    </a>
+</div>
+<!-- END HomePageListStoryAudio.mtpl -->
+
+  </div> <!-- /.story-wrap-outer -->   
+
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/blogs/thetwo-way/" data-metrics='{"action":"Click Filed Under"}'>The Two-Way - News Blog</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/sections/news/" data-metrics='{"action":"Click Filed Under"}'>News</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title227719417" value="Are You Ready For Some Shutdown?">
+        <input type="hidden" id="modelShortUrl227719417" value="http://n.pr/19PSGIW">
+        <input type="hidden" id="modelFullUrl227719417" value="http://www.npr.org/blogs/thetwo-way/2013/09/30/227719417/are-you-ready-for-some-shutdown-heres-mondays-schedule">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="227719417" data-shortname="npr2way" title="View comments" href="http://www.npr.org/blogs/thetwo-way/2013/09/30/227719417/are-you-ready-for-some-shutdown-heres-mondays-schedule#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory227719417" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(227719417);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story227719417 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(227719417);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div>  
+
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryHigh.mtpl --><!-- BEGIN HomePageListStoryAttachment.mtpl --><article class="hp-item attachment volume-low ">
+  <a class="story-wrap" href="http://www.npr.org/2013/09/30/227292952/a-short-history-of-government-shutdowns" data-metrics='{"action" : "Click Attached Story 1"}'>
+    
+  <div class="story-text">       
+    <h1 class="title">        
+        A Short History Of Government Shutdowns
+    </h1>
+  </div> 
+      
+  </a>
+</article><!-- END HomePageListStoryAttachment.mtpl --><!-- BEGIN HomePageListStoryAttachment.mtpl --><article class="hp-item attachment volume-low ">
+  <a class="story-wrap" href="http://www.npr.org/2013/09/30/226882380/double-take-toons-whiching-hour" data-metrics='{"action" : "Click Attached Story 1"}'>
+    
+  <div class="story-text">       
+    <h1 class="title">        
+         Double Take 'Toons: Whiching Hour?
+    </h1>
+  </div> 
+      
+  </a>
+</article><!-- END HomePageListStoryAttachment.mtpl -->
+</section><!-- END HomePageListStorySection.mtpl --><!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-audio no-image" id="story227591062" >
+     
+  
+  
+    <div class="story-wrap-outer">    
+        
+        
+        <div class="story-wrap">
+            <div class="story-text">                          
+                <h2 class="slug ttwnb"><a href="http://www.npr.org/blogs/thetwo-way/" data-metrics='{"action":"Click Slug"}'>The Two-Way - News Blog</a></h2>
+
+                <a href="http://www.npr.org/blogs/thetwo-way/2013/09/30/227591062/justice-department-to-sue-north-carolina-over-voter-id-law" data-metrics='{"action" : "Click Story 2"}'>
+                <h1 class="title">Justice Department To Sue North Carolina Over Voter ID Law </h1>
+                
+                <p class="teaser">The lawsuit takes aim at provisions that limit early voting periods and require government photo ID.</p>
+            </a>
+            </div> <!-- /.story-text -->
+            
+                <!-- BEGIN HomePageListStoryAudio.mtpl -->
+<div class="audio-player">
+    <a href="#" data-audio="/npr/me/2013/09/20130930_me_03" data-audio-desktop="[227591062, 227597082, null, 1, 1, 1]" data-metrics='{"action" : "Play Inline Audio", "category" : "Segment Audio", "label" : "/npr/me/2013/09/20130930_me_03"}'   >
+        <b class="icn-media"></b> 
+        
+        <b class="time-progress"></b>
+        
+        	<b class="call-to-action">Listen</b>
+        
+       <b class="loading">Loading</b>
+       <b class="playing">Playing&hellip;</b>
+
+        <b class="audio-info">
+            
+               <b class="time-total">3 min 15 sec</b>
+            
+        </b>
+    </a>
+</div>
+<!-- END HomePageListStoryAudio.mtpl -->
+        </div> <!-- /.story-wrap --> 
+    </div> <!-- /.story-wrap-outer -->
+
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/blogs/thetwo-way/" data-metrics='{"action":"Click Filed Under"}'>The Two-Way - News Blog</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/sections/law/" data-metrics='{"action":"Click Filed Under"}'>Law</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title227591062" value="Justice Department To Sue North Carolina Over Voter ID Law">
+        <input type="hidden" id="modelShortUrl227591062" value="http://n.pr/18CWkqN">
+        <input type="hidden" id="modelFullUrl227591062" value="http://www.npr.org/blogs/thetwo-way/2013/09/30/227591062/justice-department-to-sue-north-carolina-over-voter-id-law">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="227591062" data-shortname="npr2way" title="View comments" href="http://www.npr.org/blogs/thetwo-way/2013/09/30/227591062/justice-department-to-sue-north-carolina-over-voter-id-law#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory227591062" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(227591062);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story227591062 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(227591062);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl -->
+         </div>
+         
+<!-- END CLASS="STORIES-WRAP STORIES-WRAP-ONE" DATA-METRICS-CATEGORY="CURATED LIST" -->
+         <div class="featured-sidebar">
+                        <div class="nib-container">
+                              <h2>FROM NPR NEWS</h2>
+               <ul id="nib-list">
+                                 </ul>
+               <h2>TRENDING</h2>
+               <div id="hptrending" class="agglocation linkLocation">
+                                    <div id="res227447895" class="bucketwrap internallink trending">
+                                          <div class="trending">
+                                                <a href="http://www.npr.org/blogs/thetwo-way/2013/09/24/225809021/golden-eagle-attacks-deer-a-photo-of-an-epic-confrontation"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/blogs\/thetwo-way\/2013\/09\/24\/225809021\/golden-eagle-attacks-deer-a-photo-of-an-epic-confrontation"}' >Eagle Attacks Deer</a>
+                     </div>
+                     
+<!-- END CLASS="TRENDING" -->
+                  </div>
+                  
+<!-- END ID="RES227447895" CLASS="BUCKETWRAP INTERNALLINK TRENDING" -->
+                  <div id="res227177070" class="bucketwrap internallink trending">
+                                          <div class="trending">
+                                                <a href="http://www.npr.org/blogs/alltechconsidered/2013/09/27/226834651/record-label-picks-a-fight-over-copyright-with-the-wrong-guy"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/blogs\/alltechconsidered\/2013\/09\/27\/226834651\/record-label-picks-a-fight-over-copyright-with-the-wrong-guy"}' >Lessig Copyright Fight</a>
+                     </div>
+                     
+<!-- END CLASS="TRENDING" -->
+                  </div>
+                  
+<!-- END ID="RES227177070" CLASS="BUCKETWRAP INTERNALLINK TRENDING" -->
+                  <div id="res227449164" class="bucketwrap internallink trending">
+                                          <div class="trending">
+                                                <a href="http://www.npr.org/2013/09/29/226456405/the-most-shocking-moments-are-true-in-masters-of-sex"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/2013\/09\/29\/226456405\/the-most-shocking-moments-are-true-in-masters-of-sex"}' >Masters Of Sex</a>
+                     </div>
+                     
+<!-- END CLASS="TRENDING" -->
+                  </div>
+                  
+<!-- END ID="RES227449164" CLASS="BUCKETWRAP INTERNALLINK TRENDING" -->
+                  <div id="res226594098" class="bucketwrap internallink trending">
+                                          <div class="trending">
+                                                <a href="http://www.npr.org/2013/09/25/225839458/first-listen-haim-days-are-gone"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/2013\/09\/25\/225839458\/first-listen-haim-days-are-gone"}' >HAIM</a>
+                     </div>
+                     
+<!-- END CLASS="TRENDING" -->
+                  </div>
+                  
+<!-- END ID="RES226594098" CLASS="BUCKETWRAP INTERNALLINK TRENDING" -->
+                  <div id="res227449359" class="bucketwrap internallink trending">
+                                          <div class="trending">
+                                                <a href="http://www.npr.org/blogs/codeswitch/2013/09/29/226833165/studying-how-the-blind-perceive-race"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/blogs\/codeswitch\/2013\/09\/29\/226833165\/studying-how-the-blind-perceive-race"}' >Blind See Race</a>
+                     </div>
+                     
+<!-- END CLASS="TRENDING" -->
+                  </div>
+                  
+<!-- END ID="RES227449359" CLASS="BUCKETWRAP INTERNALLINK TRENDING" -->
+               </div>
+               
+<!-- END ID="HPTRENDING" CLASS="AGGLOCATION LINKLOCATION" -->
+               <div class="nib-newscast newscast">
+                                    <a  id="nib-newscast-link" data-audio="/npr/news/newscast" data-audio-desktop="[0,0,null,1,4,0]" data-metrics='{"action" : "Play Inline Audio", "category" : "Newscast Audio NIB", "label" : "/npr/news/newscast"}'><b class="icn-media"></b><div class="stream-meta-view">
+      <div class="stream-program-meta-view">
+            <h2 class="alpha newscast_title">NPR Newscast</h2>
+      <h3 class="alpha newscast_program">4min 45sec</h3>
+   </div>
+   
+<!-- END CLASS="STREAM-PROGRAM-META-VIEW" -->
+</div>
+
+<!-- END CLASS="STREAM-META-VIEW" -->
+</a>
+               </div>
+            </div>
+            
+<!-- END CLASS="NIB-CONTAINER" -->
+            <div id="hpdontmiss" class="agglocation linkLocation">
+                              <div id="res227743116" class="bucketwrap internallink dontmisspromo">
+                                    <div class="dontmiss">
+                                          <h3>don't <span>miss</span></h3>
+                     <div class="bucket img">
+                                                <a class="photowrap" id="featuredStackLargeImage226533732" href="http://www.npr.org/2013/09/29/226533732/first-listen-darkside-psychic"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/2013\/09\/29\/226533732\/first-listen-darkside-psychic"}' ><img src="http://media.npr.org/assets/img/2013/09/26/darkside-bytimjones-4797c10ac2c1a4d34850325e52abe35f39b21f2a-s1.jpg" class="img138" width="138" title="Darkside's new album, Psychic, comes out Oct. 8." alt="Darkside's new album, Psychic, comes out Oct. 8." /></a>                        <div class="bucketblock">
+                                                      <h5 class="slug"><a href="http://www.npr.org/series/98679384/first-listen">First Listen </a></h5>
+                           <h4><a href="http://www.npr.org/2013/09/29/226533732/first-listen-darkside-psychic"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/2013\/09\/29\/226533732\/first-listen-darkside-psychic"}' >First Listen: Darkside, 'Psychic'</a></h4>
+                           <p id="res226172577" class="audiorow"><a class="listen" href="javascript:NPR.Player.openPlayer(226533732, 226172577, null, NPR.Player.Action.PLAY_NOW, NPR.Player.Type.STORY, '0')"  data-metrics='{"category":"Secondary Audio","action":"Play audio","label":"20130925_fl_dsalbum.mp3"}' >Listen</a><a class="add" href="javascript:NPR.Player.openPlayer(226533732, 226172577, null, NPR.Player.Action.ADD_TO_PLAYLIST, NPR.Player.Type.STORY, '0')"  data-metrics='{"category":"Secondary Audio","action":"Playlist","label":"20130925_fl_dsalbum.mp3"}' >Playlist</a></p>
+                        </div>
+                        
+<!-- END CLASS="BUCKETBLOCK" -->
+                     </div>
+                     
+<!-- END CLASS="BUCKET IMG" -->
+                  </div>
+                  
+<!-- END CLASS="DONTMISS" -->
+               </div>
+               
+<!-- END ID="RES227743116" CLASS="BUCKETWRAP INTERNALLINK DONTMISSPROMO" -->
+               <div id="res227734662" class="bucketwrap internallink dontmisspromo">
+                                    <div class="dontmiss">
+                                          <h3>don't <span>miss</span></h3>
+                     <div class="bucket img">
+                                                <a class="photowrap" id="featuredStackLargeImage227495741" href="http://www.npr.org/blogs/thetwo-way/2013/09/29/227495741/the-142-000-pickup-truck-with-1-3-miles-tops-vintage-car-auction"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/blogs\/thetwo-way\/2013\/09\/29\/227495741\/the-142-000-pickup-truck-with-1-3-miles-tops-vintage-car-auction"}' ><img src="http://media.npr.org/assets/img/2013/09/29/cameo_truck1-135ad447e4d2f0d9fc6a404cd4c2abc5a61831fc-s1.jpg" class="img138" width="138" title="This 1958 Chevrolet Cameo pickup truck with 1.3 miles and a three-speed transmission sold for $140,000 at Saturday's auction of vehicles stockpiled for decades by car dealership owner Ray Lambrecht." alt="This 1958 Chevrolet Cameo pickup truck with 1.3 miles and a three-speed transmission sold for $140,000 at Saturday's auction of vehicles stockpiled for decades by car dealership owner Ray Lambrecht." /></a>                        <div class="bucketblock">
+                                                      <h5 class="slug"><a href="http://www.npr.org/blogs/thetwo-way/">The Two-Way </a></h5>
+                           <h4><a href="http://www.npr.org/blogs/thetwo-way/2013/09/29/227495741/the-142-000-pickup-truck-with-1-3-miles-tops-vintage-car-auction"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/blogs\/thetwo-way\/2013\/09\/29\/227495741\/the-142-000-pickup-truck-with-1-3-miles-tops-vintage-car-auction"}' > The $142,000 Pickup: Truck With 1.3 Miles Tops Vintage Car Auction</a></h4>
+                        </div>
+                        
+<!-- END CLASS="BUCKETBLOCK" -->
+                     </div>
+                     
+<!-- END CLASS="BUCKET IMG" -->
+                  </div>
+                  
+<!-- END CLASS="DONTMISS" -->
+               </div>
+               
+<!-- END ID="RES227734662" CLASS="BUCKETWRAP INTERNALLINK DONTMISSPROMO" -->
+            </div>
+            
+<!-- END ID="HPDONTMISS" CLASS="AGGLOCATION LINKLOCATION" -->
+         </div>
+         
+<!-- END CLASS="FEATURED-SIDEBAR" -->
+      </div>
+      
+<!-- END CLASS="HOMEPAGE-FEATURED-TABLE" -->
+   </div>
+   
+<!-- END CLASS="HOMEPAGE-FEATURED" -->
+   <!-- BEGIN HomePageCenterstage.mtpl --><section id="sponsorship" class="centerstage"> <!--  style="background-color:;" -->
+    <div class="support-text support-text-sponsor">
+        <a class="support-text mobile-only" data-metrics-all href="http://my.clevelandclinic.org/urology-kidney/diseases-conditions/kidney-cancer-urological-overview.aspx?utm_campaign=national+ads+fall&utm_medium=banner&utm_source=npr&utm_content=hometake+169+learnff1&dynid=npr-_-national+ads+fall-_-banner-_-hometake+169+learnff1-_-hometake+169+learnff1" target="_blank">
+            <p>Support comes from <b>Cleveland Clinic.</b></p>
+        </a>
+        <a class="support-text tablet-up" data-metrics-all href="http://my.clevelandclinic.org/urology-kidney/diseases-conditions/kidney-cancer-urological-overview.aspx?utm_campaign=national+ads+fall&utm_medium=banner&utm_source=npr&utm_content=hometake+169+learnff1&dynid=npr-_-national+ads+fall-_-banner-_-hometake+169+learnff1-_-hometake+169+learnff1" target="_blank">
+            <p>NPR thanks <b>Cleveland Clinic</b> for supporting today's home page.</p>
+        </a>
+        <div class="curtain-shadow"></div>
+    </div>
+    <div class="center-stage-curtain hidden">
+        <div class="centerstage-creative" >
+            <script type="text/javascript" data-src="//s.flite.com/syndication/combo.js"
+                    data-mobile='{"instance":"7bf9287c-7b82-441c-9764-3f8cacb494c4","width":290,"height":203}'
+                    data-tablet='{"instance":"7173d7ae-8c2c-497e-a4fe-e14e2a29383f","width":738,"height":236}'
+                    data-desktop='{"instance":"badfc072-df30-4441-8a93-39582d0aa09a","width":1000,"height":380}'
+                    data-centerstage></script>
+
+            <div class="support-text support-text-npr">
+                <a href="/templates/story/story.php?storyId=210219119" class="info" target="_blank">what's this?</a>
+                <div class="tablet-up">
+                    <p class="support-call"><a href="http://www.npr.org/about-npr/186948703/corporate-sponsorship" target="_blank">Our sponsors</a> support NPR and so can you.</p>
+                    <p class="support-action desktop-up">Help NPR and your local station by <a href="http://www.npr.org/stations/donate/index.php" target="_blank">making a donation</a>.</p>
+
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+
+</section>
+<!-- END HomePageCenterstage.mtpl -->   <div class="homepage-curated">
+            <div class="stories-wrap stories-wrap-two" data-metrics-category="Curated List">
+                  <!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-standard has-image" id="story227740741" >
+     
+  
+  
+
+      <div class="story-wrap">
+        
+            <figure class="thumb-image">
+                <div class="bucketwrap homeThumb">
+                    <a href="http://www.npr.org/blogs/monkeysee/2013/09/30/227740741/breaking-bad-lands-its-finale-a-little-too-cleanly" data-metrics='{"action" : "Click Story 3"}'>  
+                    
+    				<img src="http://media.npr.org/assets/img/2013/09/30/waltfinale_wide-555e1d753fb505d444aa30fa3674af206f1d620e-s18-c15.jpg" data-original="http://media.npr.org/assets/img/2013/09/30/waltfinale_wide-555e1d753fb505d444aa30fa3674af206f1d620e-s18.jpg" class="lazyOnLoad"  title="'Breaking Bad' Lands Its Finale A Little Too Cleanly" alt="'Breaking Bad' Lands Its Finale A Little Too Cleanly" />
+    				
+    			    </a>  
+
+    				<div class="credit-caption">     
+    				        <div class="caption">
+    				            <p>Bryan Cranston wrapped up his run Sunday night as Walter White in <em>Breaking Bad</em>. 
+        				            <b class="hide-caption"><b>hide caption</b></b>
+                                </p>
+    				        </div>
+                        
+    				        <b class="toggle-caption">i<b>toggle caption</b></b>
+    				    
+    				    <b class="credit">Ursula Coyote/AMC</b>
+    				</div>
+                </div>
+            </figure>
+      
+          <div class="story-text">      
+            <h2 class="slug ms"><a href="http://www.npr.org/blogs/monkeysee/" data-metrics='{"action":"Click Slug"}'>Monkey See</a></h2>
+  
+    <a href="http://www.npr.org/blogs/monkeysee/2013/09/30/227740741/breaking-bad-lands-its-finale-a-little-too-cleanly" data-metrics='{"action" : "Click Story 3"}'>          
+            <h1 class="title">'Breaking Bad' Lands Its Finale A Little Too Cleanly</h1>
+        
+            <p class="teaser">The finale of <em>Breaking Bad</em> on Sunday night gave Walter White a great degree of closure and control over the unfolding of events. While that may have been satisfying to those who rooted for him, it causes problems for those who didn't.</p>
+          </a> 
+          </div> <!-- /.story-text -->
+      
+      </div> <!-- /.story-wrap -->
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/blogs/monkeysee/" data-metrics='{"action":"Click Filed Under"}'>Monkey See</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/sections/television/" data-metrics='{"action":"Click Filed Under"}'>Television</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title227740741" value="'Breaking Bad' Lands Its Finale A Little Too Cleanly">
+        <input type="hidden" id="modelShortUrl227740741" value="http://n.pr/19Q45so">
+        <input type="hidden" id="modelFullUrl227740741" value="http://www.npr.org/blogs/monkeysee/2013/09/30/227740741/breaking-bad-lands-its-finale-a-little-too-cleanly">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="227740741" data-shortname="nprmonkeysee" title="View comments" href="http://www.npr.org/blogs/monkeysee/2013/09/30/227740741/breaking-bad-lands-its-finale-a-little-too-cleanly#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory227740741" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(227740741);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story227740741 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(227740741);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStorySection.mtpl --><section class="attachment-group">
+  <!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-audio has-attachment has-image" id="story226922818" >
+     
+  
+  
+    <div class="story-wrap-outer">    
+            <figure class="thumb-image">
+                <div class="bucketwrap homeThumb">
+                    <a href="http://www.npr.org/blogs/health/2013/09/30/226922818/insurance-exchange-101-heres-what-you-need-to-know" data-metrics='{"action" : "Click Story 4"}'>
+    				<img src="http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/30/kansansinsurance_wide-6c26285306bdacb7c41266d435e6204198cbc461-s18.jpg" class="lazyOnLoad"  title="Insurance Exchange 101: Here's What You Need To Know" alt="Insurance Exchange 101: Here's What You Need To Know" />
+    				</a>
+    				
+    				<div class="credit-caption">     
+    				        <div class="caption">
+    				            <p>The audience concentrates on a presentation by Kansas Insurance Commissioner Sandy Praeger's office about the federal health care overhaul at the University of Kansas satellite campus in Overland Park, Kan., earlier this month. 
+        				            <b class="hide-caption"><b>hide caption</b></b>
+                                </p>
+    				        </div>
+                        
+    				        <b class="toggle-caption">i<b>toggle caption</b></b>
+    				    
+    				    <b class="credit">John Hanna/AP</b>
+    				</div>
+                </div>
+            </figure>
+        
+        
+        <div class="story-wrap">
+            <div class="story-text">                          
+                <h2 class="slug shn"><a href="http://www.npr.org/blogs/health/" data-metrics='{"action":"Click Slug"}'>Shots - Health News</a></h2>
+
+                <a href="http://www.npr.org/blogs/health/2013/09/30/226922818/insurance-exchange-101-heres-what-you-need-to-know" data-metrics='{"action" : "Click Story 4"}'>
+                <h1 class="title">Insurance Exchange 101: Here's What You Need To Know </h1>
+                
+                <p class="teaser">After another round of debate, big pieces of the federal health law are expected to kick in Tuesday.</p>
+            </a>
+            </div> <!-- /.story-text -->
+            
+                <!-- BEGIN HomePageListStoryAudio.mtpl -->
+<div class="audio-player">
+    <a href="#" data-audio="/npr/me/2013/09/20130930_me_02" data-audio-desktop="[226922818, 227698484, null, 1, 1, 1]" data-metrics='{"action" : "Play Inline Audio", "category" : "Segment Audio", "label" : "/npr/me/2013/09/20130930_me_02"}'   >
+        <b class="icn-media"></b> 
+        
+        <b class="time-progress"></b>
+        
+        	<b class="call-to-action">Listen</b>
+        
+       <b class="loading">Loading</b>
+       <b class="playing">Playing&hellip;</b>
+
+        <b class="audio-info">
+            
+               <b class="time-total">4 min 15 sec</b>
+            
+        </b>
+    </a>
+</div>
+<!-- END HomePageListStoryAudio.mtpl -->
+        </div> <!-- /.story-wrap --> 
+    </div> <!-- /.story-wrap-outer -->
+
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/blogs/health/" data-metrics='{"action":"Click Filed Under"}'>Shots - Health News</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/sections/health/" data-metrics='{"action":"Click Filed Under"}'>Health</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title226922818" value="Insurance Exchange 101: Here's What You Need To Know">
+        <input type="hidden" id="modelShortUrl226922818" value="http://n.pr/1h9pKQ6">
+        <input type="hidden" id="modelFullUrl226922818" value="http://www.npr.org/blogs/health/2013/09/30/226922818/insurance-exchange-101-heres-what-you-need-to-know">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="226922818" data-shortname="nprhealth" title="View comments" href="http://www.npr.org/blogs/health/2013/09/30/226922818/insurance-exchange-101-heres-what-you-need-to-know#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory226922818" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(226922818);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story226922818 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(226922818);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStoryAttachment.mtpl --><article class="hp-item attachment volume-low ">
+  <a class="story-wrap" href="http://www.npr.org/blogs/health/2013/09/26/226456791/how-much-will-obamacare-cost-me-try-our-calculator" data-metrics='{"action" : "Click Attached Story 4"}'>
+    
+  <div class="story-text">       
+    <h1 class="title">        
+         'How Much Will Obamacare Cost Me?' Try Our Calculator
+    </h1>
+  </div> 
+      
+  </a>
+</article><!-- END HomePageListStoryAttachment.mtpl -->
+</section><!-- END HomePageListStorySection.mtpl --><!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-audio has-image" id="story226844915" >
+     
+  
+  
+    <div class="story-wrap-outer">    
+            <figure class="thumb-image">
+                <div class="bucketwrap homeThumb">
+                    <a href="http://www.npr.org/blogs/thesalt/2013/09/30/226844915/to-get-the-benefits-of-olive-oil-fresh-may-be-best" data-metrics='{"action" : "Click Story 5"}'>
+    				<img src="http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/30/oil_wide-f0577a69497d1b97fcef295c09d9642885d19e16-s18.jpg" class="lazyOnLoad"  title="To Get The Benefits of Olive Oil, Fresh May Be Best" alt="To Get The Benefits of Olive Oil, Fresh May Be Best" />
+    				</a>
+    				
+    				<div class="credit-caption">     
+    				        <div class="caption">
+    				            <p>Experts say lots of factors determine how quickly an oil deteriorates — from the variety of the olives, to how the oil is produced and stored. 
+        				            <b class="hide-caption"><b>hide caption</b></b>
+                                </p>
+    				        </div>
+                        
+    				        <b class="toggle-caption">i<b>toggle caption</b></b>
+    				    
+    				    <b class="credit">Matthias Schrader/AP</b>
+    				</div>
+                </div>
+            </figure>
+        
+        
+        <div class="story-wrap">
+            <div class="story-text">                          
+                <h2 class="slug ts"><a href="http://www.npr.org/blogs/thesalt/" data-metrics='{"action":"Click Slug"}'>The Salt</a></h2>
+
+                <a href="http://www.npr.org/blogs/thesalt/2013/09/30/226844915/to-get-the-benefits-of-olive-oil-fresh-may-be-best" data-metrics='{"action" : "Click Story 5"}'>
+                <h1 class="title">To Get The Benefits of Olive Oil, Fresh May Be Best </h1>
+                
+                <p class="teaser">Olive oil goes rancid and loses many of the beneficial compounds in just a few months.</p>
+            </a>
+            </div> <!-- /.story-text -->
+            
+                <!-- BEGIN HomePageListStoryAudio.mtpl -->
+<div class="audio-player">
+    <a href="#" data-audio="/npr/me/2013/09/20130930_me_06" data-audio-desktop="[226844915, 227699524, null, 1, 1, 1]" data-metrics='{"action" : "Play Inline Audio", "category" : "Segment Audio", "label" : "/npr/me/2013/09/20130930_me_06"}'   >
+        <b class="icn-media"></b> 
+        
+        <b class="time-progress"></b>
+        
+        	<b class="call-to-action">Listen</b>
+        
+       <b class="loading">Loading</b>
+       <b class="playing">Playing&hellip;</b>
+
+        <b class="audio-info">
+            
+               <b class="time-total">5 min 4 sec</b>
+            
+        </b>
+    </a>
+</div>
+<!-- END HomePageListStoryAudio.mtpl -->
+        </div> <!-- /.story-wrap --> 
+    </div> <!-- /.story-wrap-outer -->
+
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/blogs/thesalt/" data-metrics='{"action":"Click Filed Under"}'>The Salt</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/sections/food/" data-metrics='{"action":"Click Filed Under"}'>Food</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title226844915" value="To Get The Benefits of Olive Oil, Fresh May Be Best">
+        <input type="hidden" id="modelShortUrl226844915" value="http://n.pr/1h8Nkwt">
+        <input type="hidden" id="modelFullUrl226844915" value="http://www.npr.org/blogs/thesalt/2013/09/30/226844915/to-get-the-benefits-of-olive-oil-fresh-may-be-best">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="226844915" data-shortname="nprfood" title="View comments" href="http://www.npr.org/blogs/thesalt/2013/09/30/226844915/to-get-the-benefits-of-olive-oil-fresh-may-be-best#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory226844915" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(226844915);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story226844915 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(226844915);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStoryHigh.mtpl --><article class="hp-item volume-high post-type-audio has-image" id="story226976849">
+
+  
+    <div class="story-wrap-outer">
+
+    
+<div class="story-wrap">
+    
+         <figure class="head-image">
+            <div class="bucketwrap homeLarge">
+                <a href="http://www.npr.org/blogs/pictureshow/2013/09/30/226976849/an-insiders-view-of-19th-century-paris-even-the-urinals" data-metrics='{"action" : "Click Story 6"}'>  
+        		  <img src=" http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/30/3209-140_wide-7cb2e7e14581916d05768b6e0427b622fc254e7a-s5.jpg" class="lazyOnLoad"  title="An Insider's View Of 19th-Century Paris (Even The Urinals)" alt="An Insider's View Of 19th-Century Paris (Even The Urinals)" />
+                </a>  
+
+        		<div class="credit-caption">     
+				        <div class="caption">
+				            <p>Marville made more than 425 photographs of the narrow streets and crumbling buildings of premodern Paris, including this view from the top of Rue Champlain in 1877-78. 
+				                <b class="credit">Charles Marville/Musee Carnavalet / Roger-Viollet</b>
+    				            <b class="hide-caption"><b>hide caption</b></b>
+                            </p>
+				        </div>
+                    
+				        <b class="toggle-caption">i<b>toggle caption</b></b>
+				    
+				    <b class="credit">Charles Marville/Musee Carnavalet / Roger-Viollet</b>
+				</div>
+            </div>
+        </figure>
+        
+  <div class="story-text">    
+    
+    <h2 class="slug tps"><a href="http://www.npr.org/blogs/pictureshow/" data-metrics='{"action":"Click Slug"}'>The Picture Show</a></h2>
+
+    <a href="http://www.npr.org/blogs/pictureshow/2013/09/30/226976849/an-insiders-view-of-19th-century-paris-even-the-urinals" data-metrics='{"action" : "Click Story 6"}'>  
+
+    <h1 class="title">An Insider's View Of 19th-Century Paris (Even The Urinals)</h1>
+
+    <p class="teaser">
+                                 
+          Charles Marville photographed Paris' transition from medieval hodgepodge to modern metropolis.</p>
+      </a>
+  </div>  <!-- /.story-text -->
+  
+  </div> <!-- /.story-wrap --> 
+  
+    <!-- BEGIN HomePageListStoryAudio.mtpl -->
+<div class="audio-player">
+    <a href="#" data-audio="/npr/me/2013/09/20130930_me_16" data-audio-desktop="[226976849, 227717072, null, 1, 1, 1]" data-metrics='{"action" : "Play Inline Audio", "category" : "Segment Audio", "label" : "/npr/me/2013/09/20130930_me_16"}'   >
+        <b class="icn-media"></b> 
+        
+        <b class="time-progress"></b>
+        
+        	<b class="call-to-action">Listen</b>
+        
+       <b class="loading">Loading</b>
+       <b class="playing">Playing&hellip;</b>
+
+        <b class="audio-info">
+            
+               <b class="time-total">4 min 50 sec</b>
+            
+        </b>
+    </a>
+</div>
+<!-- END HomePageListStoryAudio.mtpl -->
+
+  </div> <!-- /.story-wrap-outer -->   
+
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/blogs/pictureshow/" data-metrics='{"action":"Click Filed Under"}'>The Picture Show</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/sections/photography/" data-metrics='{"action":"Click Filed Under"}'>Photography</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title226976849" value="An Insider's View Of 19th-Century Paris (Even The Urinals)">
+        <input type="hidden" id="modelShortUrl226976849" value="http://n.pr/15A9qTo">
+        <input type="hidden" id="modelFullUrl226976849" value="http://www.npr.org/blogs/pictureshow/2013/09/30/226976849/an-insiders-view-of-19th-century-paris-even-the-urinals">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="226976849" data-shortname="nprpictureshow" title="View comments" href="http://www.npr.org/blogs/pictureshow/2013/09/30/226976849/an-insiders-view-of-19th-century-paris-even-the-urinals#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory226976849" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(226976849);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story226976849 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(226976849);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div>  
+
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryHigh.mtpl --><!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-audio has-image" id="story226531998" >
+     
+  
+  
+    <div class="story-wrap-outer">    
+            <figure class="thumb-image">
+                <div class="bucketwrap homeThumb">
+                    <a href="http://www.npr.org/blogs/thesalt/2013/09/30/226531998/kombucha-magical-health-elixir-or-just-funky-tea" data-metrics='{"action" : "Click Story 7"}'>
+    				<img src="http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/30/landov1_wide-0f24279cdc4171f7f318976dd91cfad27c3cb230-s18.jpg" class="lazyOnLoad"  title="Kombucha: Magical Health Elixir Or Just Funky Tea?" alt="Kombucha: Magical Health Elixir Or Just Funky Tea?" />
+    				</a>
+    				
+    				<div class="credit-caption">     
+    				        <div class="caption">
+    				            <p>Kombucha made by artisan tea brewer Bill Bond in Akron, Ohio, comes in an array of flavors, such as lemongrass, ginger, blueberry and watermelon. 
+        				            <b class="hide-caption"><b>hide caption</b></b>
+                                </p>
+    				        </div>
+                        
+    				        <b class="toggle-caption">i<b>toggle caption</b></b>
+    				    
+    				    <b class="credit">Peggy Turbett/The Plain Dealer /Landov</b>
+    				</div>
+                </div>
+            </figure>
+        
+        
+        <div class="story-wrap">
+            <div class="story-text">                          
+                <h2 class="slug ts"><a href="http://www.npr.org/blogs/thesalt/" data-metrics='{"action":"Click Slug"}'>The Salt</a></h2>
+
+                <a href="http://www.npr.org/blogs/thesalt/2013/09/30/226531998/kombucha-magical-health-elixir-or-just-funky-tea" data-metrics='{"action" : "Click Story 7"}'>
+                <h1 class="title">Kombucha: Magical Health Elixir Or Just Funky Tea? </h1>
+                
+                <p class="teaser">Fans say the fermented tea fights diseases and aging. But kombucha is still a mystery to scientists.</p>
+            </a>
+            </div> <!-- /.story-text -->
+            
+                <!-- BEGIN HomePageListStoryAudio.mtpl -->
+<div class="audio-player">
+    <a href="#" data-audio="/npr/me/2013/09/20130930_me_07" data-audio-desktop="[226531998, 227699525, null, 1, 1, 1]" data-metrics='{"action" : "Play Inline Audio", "category" : "Segment Audio", "label" : "/npr/me/2013/09/20130930_me_07"}'   >
+        <b class="icn-media"></b> 
+        
+        <b class="time-progress"></b>
+        
+        	<b class="call-to-action">Listen</b>
+        
+       <b class="loading">Loading</b>
+       <b class="playing">Playing&hellip;</b>
+
+        <b class="audio-info">
+            
+               <b class="time-total">3 min 51 sec</b>
+            
+        </b>
+    </a>
+</div>
+<!-- END HomePageListStoryAudio.mtpl -->
+        </div> <!-- /.story-wrap --> 
+    </div> <!-- /.story-wrap-outer -->
+
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/blogs/thesalt/" data-metrics='{"action":"Click Filed Under"}'>The Salt</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/sections/food/" data-metrics='{"action":"Click Filed Under"}'>Food</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title226531998" value="Kombucha: Magical Health Elixir Or Just Funky Tea?">
+        <input type="hidden" id="modelShortUrl226531998" value="http://n.pr/19K06NR">
+        <input type="hidden" id="modelFullUrl226531998" value="http://www.npr.org/blogs/thesalt/2013/09/30/226531998/kombucha-magical-health-elixir-or-just-funky-tea">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="226531998" data-shortname="nprfood" title="View comments" href="http://www.npr.org/blogs/thesalt/2013/09/30/226531998/kombucha-magical-health-elixir-or-just-funky-tea#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory226531998" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(226531998);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story226531998 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(226531998);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-audio has-image" id="story227609255" >
+     
+  
+  
+    <div class="story-wrap-outer">    
+            <figure class="thumb-image">
+                <div class="bucketwrap homeThumb">
+                    <a href="http://www.npr.org/blogs/parallels/2013/09/30/227609255/asian-investors-find-hot-market-in-u-s-properties" data-metrics='{"action" : "Click Story 8"}'>
+    				<img src="http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/30/gm_building_wide-3fa50d18530415d30a81a45a234d765abb1ca7db-s18.jpg" class="lazyOnLoad"  title="Asian Investors Find Hot Market In U.S. Properties" alt="Asian Investors Find Hot Market In U.S. Properties" />
+    				</a>
+    				
+    				<div class="credit-caption">     
+    				        <div class="caption">
+    				            <p>The General Motors Building seen in midtown Manhattan February 26, 2008 in New York City.  In May, a large piece of it was purchased by a Chinese real estate developer. 
+        				            <b class="hide-caption"><b>hide caption</b></b>
+                                </p>
+    				        </div>
+                        
+    				        <b class="toggle-caption">i<b>toggle caption</b></b>
+    				    
+    				    <b class="credit">Mario Tama/Getty Images</b>
+    				</div>
+                </div>
+            </figure>
+        
+        
+        <div class="story-wrap">
+            <div class="story-text">                          
+                <h2 class="slug pwn"><a href="http://www.npr.org/blogs/parallels/" data-metrics='{"action":"Click Slug"}'>Parallels - World News</a></h2>
+
+                <a href="http://www.npr.org/blogs/parallels/2013/09/30/227609255/asian-investors-find-hot-market-in-u-s-properties" data-metrics='{"action" : "Click Story 8"}'>
+                <h1 class="title">Asian Investors Find Hot Market In U.S. Properties </h1>
+                
+                <p class="teaser">Sales in commercial real estate here in the U.S. have soared over the past year.</p>
+            </a>
+            </div> <!-- /.story-text -->
+            
+                <!-- BEGIN HomePageListStoryAudio.mtpl -->
+<div class="audio-player">
+    <a href="#" data-audio="/npr/me/2013/09/20130930_me_09" data-audio-desktop="[227609255, 227699527, null, 1, 1, 1]" data-metrics='{"action" : "Play Inline Audio", "category" : "Segment Audio", "label" : "/npr/me/2013/09/20130930_me_09"}'   >
+        <b class="icn-media"></b> 
+        
+        <b class="time-progress"></b>
+        
+        	<b class="call-to-action">Listen</b>
+        
+       <b class="loading">Loading</b>
+       <b class="playing">Playing&hellip;</b>
+
+        <b class="audio-info">
+            
+               <b class="time-total">5 min 21 sec</b>
+            
+        </b>
+    </a>
+</div>
+<!-- END HomePageListStoryAudio.mtpl -->
+        </div> <!-- /.story-wrap --> 
+    </div> <!-- /.story-wrap-outer -->
+
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/blogs/parallels/" data-metrics='{"action":"Click Filed Under"}'>Parallels - World News</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/sections/asia/" data-metrics='{"action":"Click Filed Under"}'>Asia</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title227609255" value="Asian Investors Find Hot Market In U.S. Properties">
+        <input type="hidden" id="modelShortUrl227609255" value="http://n.pr/1dR9fIQ">
+        <input type="hidden" id="modelFullUrl227609255" value="http://www.npr.org/blogs/parallels/2013/09/30/227609255/asian-investors-find-hot-market-in-u-s-properties">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="227609255" data-shortname="nprparallels" title="View comments" href="http://www.npr.org/blogs/parallels/2013/09/30/227609255/asian-investors-find-hot-market-in-u-s-properties#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory227609255" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(227609255);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story227609255 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(227609255);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-audio has-image" id="story226165955" >
+     
+  
+  
+    <div class="story-wrap-outer">    
+            <figure class="thumb-image">
+                <div class="bucketwrap homeThumb">
+                    <a href="http://www.npr.org/2013/09/29/226165955/first-listen-red-hot-fela" data-metrics='{"action" : "Click Story 9"}'>
+    				<img src="http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/30/rh_bydavidandrako_wide-342cf9a4056f625f4abe8b090f7dd688044b488a-s18.jpg" class="lazyOnLoad"  title="First Listen: 'Red Hot + Fela'" alt="First Listen: 'Red Hot + Fela'" />
+    				</a>
+    				
+    				<div class="credit-caption">     
+    				        <div class="caption">
+    				            <p>Kronos Quartet<em></em> performs with Sahr Ngaujah (front) and Abena Koomson (center) at New York's Lincoln Center. <em>Red Hot + Fela</em>, a compilation album, comes out Oct. 8. 
+        				            <b class="hide-caption"><b>hide caption</b></b>
+                                </p>
+    				        </div>
+                        
+    				        <b class="toggle-caption">i<b>toggle caption</b></b>
+    				    
+    				    <b class="credit">David Andrako/Courtesy of the artist</b>
+    				</div>
+                </div>
+            </figure>
+        
+        
+        <div class="story-wrap">
+            <div class="story-text">                          
+                <h2 class="slug fl"><a href="http://www.npr.org/series/98679384/first-listen" data-metrics='{"action":"Click Slug"}'>First Listen</a></h2>
+
+                <a href="http://www.npr.org/2013/09/29/226165955/first-listen-red-hot-fela" data-metrics='{"action" : "Click Story 9"}'>
+                <h1 class="title">First Listen: 'Red Hot + Fela' </h1>
+                
+                <p class="teaser">A new tribute to the Nigerian bandleader features Jim James, Kronos Quartet, tUnE-yArDs and more.</p>
+            </a>
+            </div> <!-- /.story-text -->
+            
+                <!-- BEGIN HomePageListStoryAudio.mtpl -->
+<div class="audio-player">
+    <a href="#" data-audio="/npr/fl/2013/09/20130925_fl_rhfalbum" data-audio-desktop="[226165955, 226138991, null, 1, 1, 1]" data-metrics='{"action" : "Play Inline Audio", "category" : "Segment Audio", "label" : "/npr/fl/2013/09/20130925_fl_rhfalbum"}'   >
+        <b class="icn-media"></b> 
+        
+        <b class="time-progress"></b>
+        
+        	<b class="call-to-action">Listen</b>
+        
+       <b class="loading">Loading</b>
+       <b class="playing">Playing&hellip;</b>
+
+        <b class="audio-info">
+            
+               <b class="time-total">1 hr 18 min 19 sec</b>
+            
+        </b>
+    </a>
+</div>
+<!-- END HomePageListStoryAudio.mtpl -->
+        </div> <!-- /.story-wrap --> 
+    </div> <!-- /.story-wrap-outer -->
+
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/music" data-metrics='{"action":"Click Filed Under"}'>Music</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/series/98679384/first-listen" data-metrics='{"action":"Click Filed Under"}'>First Listen</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title226165955" value="First Listen: 'Red Hot + Fela'">
+        <input type="hidden" id="modelShortUrl226165955" value="http://n.pr/16Jmje8">
+        <input type="hidden" id="modelFullUrl226165955" value="http://www.npr.org/2013/09/29/226165955/first-listen-red-hot-fela">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="226165955" data-shortname="npr-music" title="View comments" href="http://www.npr.org/2013/09/29/226165955/first-listen-red-hot-fela#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory226165955" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(226165955);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story226165955 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(226165955);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-standard has-image" id="story226472708" >
+     
+  
+  
+
+      <div class="story-wrap">
+        
+            <figure class="thumb-image">
+                <div class="bucketwrap homeThumb">
+                    <a href="http://www.npr.org/2013/09/30/226472708/whats-terrifying-teens-in-todays-ya-novels-the-economy" data-metrics='{"action" : "Click Story 10"}'>  
+                    
+    				<img src="http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/30/divergentknives2_wide-5f918143e553e34322d5c422f18795301fe04eab-s18.jpg" class="lazyOnLoad"  title="What's Terrifying Teens In Today's Young Adult Novels?" alt="What's Terrifying Teens In Today's Young Adult Novels?" />
+    				
+    			    </a>  
+
+    				<div class="credit-caption">     
+    				        <div class="caption">
+    				            <p>Shailene Woodley plays Beatrice Prior in the upcoming movie <em>Divergent</em> (March 2014), based on the dystopian young adult novel by Veronica Roth. The hugely popular book contains themes of economic struggle and class warfare. 
+        				            <b class="hide-caption"><b>hide caption</b></b>
+                                </p>
+    				        </div>
+                        
+    				        <b class="toggle-caption">i<b>toggle caption</b></b>
+    				    
+    				    <b class="credit">Jaap Buitendijk/Summit</b>
+    				</div>
+                </div>
+            </figure>
+      
+          <div class="story-text">      
+            <h2 class="slug b"><a href="http://www.npr.org/books/" data-metrics='{"action":"Click Slug"}'>Books</a></h2>
+  
+    <a href="http://www.npr.org/2013/09/30/226472708/whats-terrifying-teens-in-todays-ya-novels-the-economy" data-metrics='{"action" : "Click Story 10"}'>          
+            <h1 class="title">What's Terrifying Teens In Today's Young Adult Novels?</h1>
+        
+            <p class="teaser">Critic Marcela Valdes says the books reflect real-world fears, but the fanastical elements can also help young readers escape what might be a gloomy financial reality at home.</p>
+          </a> 
+          </div> <!-- /.story-text -->
+      
+      </div> <!-- /.story-wrap -->
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/books" data-metrics='{"action":"Click Filed Under"}'>Books</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/sections/books-news-features" data-metrics='{"action":"Click Filed Under"}'>Books News & Features</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title226472708" value="What's Terrifying Teens In Today's Young Adult Novels?">
+        <input type="hidden" id="modelShortUrl226472708" value="http://n.pr/19Jdkut">
+        <input type="hidden" id="modelFullUrl226472708" value="http://www.npr.org/2013/09/30/226472708/whats-terrifying-teens-in-todays-ya-novels-the-economy">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="226472708" data-shortname="nprbooks" title="View comments" href="http://www.npr.org/2013/09/30/226472708/whats-terrifying-teens-in-todays-ya-novels-the-economy#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory226472708" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(226472708);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story226472708 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(226472708);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-audio has-image" id="story225748243" >
+     
+  
+  
+    <div class="story-wrap-outer">    
+            <figure class="thumb-image">
+                <div class="bucketwrap homeThumb">
+                    <a href="http://www.npr.org/2013/09/30/225748243/chicago-s-privatized-parking-meters-sours-airport-lease-deal" data-metrics='{"action" : "Click Story 11"}'>
+    				<img src="http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/30/midway_wide-7a176204989ec042a1ad44509f02fc962d8feeed-s18.jpg" class="lazyOnLoad"  title="Chicago's Privatized Parking Meters Sour Airport Lease Deal" alt="Chicago's Privatized Parking Meters Sour Airport Lease Deal" />
+    				</a>
+    				
+    				<div class="credit-caption">     
+    				        <div class="caption">
+    				            <p>Plans to lease Midway Airport were grounded earlier this month due to a lack of competitive bids. 
+        				            <b class="hide-caption"><b>hide caption</b></b>
+                                </p>
+    				        </div>
+                        
+    				        <b class="toggle-caption">i<b>toggle caption</b></b>
+    				    
+    				    <b class="credit">Derek Rust/Flickr</b>
+    				</div>
+                </div>
+            </figure>
+        
+        
+        <div class="story-wrap">
+            <div class="story-text">                          
+                <h2 class="slug b"><a href="http://www.npr.org/sections/business/" data-metrics='{"action":"Click Slug"}'>Business</a></h2>
+
+                <a href="http://www.npr.org/2013/09/30/225748243/chicago-s-privatized-parking-meters-sours-airport-lease-deal" data-metrics='{"action" : "Click Story 11"}'>
+                <h1 class="title">Chicago's Privatized Parking Meters Sour Airport Lease Deal </h1>
+                
+                <p class="teaser">Still haunted by the parking meter deal, voters were leery of the plan to privatize Midway Airport.</p>
+            </a>
+            </div> <!-- /.story-text -->
+            
+                <!-- BEGIN HomePageListStoryAudio.mtpl -->
+<div class="audio-player">
+    <a href="#" data-audio="/npr/me/2013/09/20130930_me_12" data-audio-desktop="[225748243, 227699530, null, 1, 1, 1]" data-metrics='{"action" : "Play Inline Audio", "category" : "Segment Audio", "label" : "/npr/me/2013/09/20130930_me_12"}'   >
+        <b class="icn-media"></b> 
+        
+        <b class="time-progress"></b>
+        
+        	<b class="call-to-action">Listen</b>
+        
+       <b class="loading">Loading</b>
+       <b class="playing">Playing&hellip;</b>
+
+        <b class="audio-info">
+            
+               <b class="time-total">7 min 46 sec</b>
+            
+        </b>
+    </a>
+</div>
+<!-- END HomePageListStoryAudio.mtpl -->
+        </div> <!-- /.story-wrap --> 
+    </div> <!-- /.story-wrap-outer -->
+
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/sections/business/" data-metrics='{"action":"Click Filed Under"}'>Business</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title225748243" value="Chicago's Privatized Parking Meters Sour Airport Lease Deal">
+        <input type="hidden" id="modelShortUrl225748243" value="http://n.pr/1dGwNQt">
+        <input type="hidden" id="modelFullUrl225748243" value="http://www.npr.org/2013/09/30/225748243/chicago-s-privatized-parking-meters-sours-airport-lease-deal">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="225748243" data-shortname="npr-news" title="View comments" href="http://www.npr.org/2013/09/30/225748243/chicago-s-privatized-parking-meters-sours-airport-lease-deal#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory225748243" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(225748243);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story225748243 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(225748243);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStorySection.mtpl --><section class="attachment-group">
+  <!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-standard has-attachment has-image" id="story227432175" >
+     
+  
+  
+
+      <div class="story-wrap">
+        
+            <figure class="thumb-image">
+                <div class="bucketwrap homeThumb">
+                    <a href="http://www.npr.org/blogs/thetwo-way/2013/09/29/227432175/shutdown-standoff-how-dare-you-and-other-views-from-congress" data-metrics='{"action" : "Click Story 12"}'>  
+                    
+    				<img src="http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/29/523026023_17359977_wide-fa725e1aee094a101d6dc45835b36fce956bf937-s18.jpg" class="lazyOnLoad"  title="Shutdown Standoff: 'How Dare You,' And Other Views From Congress" alt="Shutdown Standoff: 'How Dare You,' And Other Views From Congress" />
+    				
+    			    </a>  
+
+    				<div class="credit-caption">     
+    				        <div class="caption">
+    				            <p>In reference to the temporary spending bill, Republican Rep. Darrell Issa of California said he "will not accept from anybody the assumption of failure." 
+        				            <b class="hide-caption"><b>hide caption</b></b>
+                                </p>
+    				        </div>
+                        
+    				        <b class="toggle-caption">i<b>toggle caption</b></b>
+    				    
+    				    <b class="credit">Mandel Ngan/AFP/Getty Images</b>
+    				</div>
+                </div>
+            </figure>
+      
+          <div class="story-text">      
+            <h2 class="slug ttwnb"><a href="http://www.npr.org/blogs/thetwo-way/" data-metrics='{"action":"Click Slug"}'>The Two-Way - News Blog</a></h2>
+  
+    <a href="http://www.npr.org/blogs/thetwo-way/2013/09/29/227432175/shutdown-standoff-how-dare-you-and-other-views-from-congress" data-metrics='{"action" : "Click Story 12"}'>          
+            <h1 class="title">Shutdown Standoff: 'How Dare You,' And Other Views From Congress</h1>
+        
+            <p class="teaser">The federal government remains on a path toward a shutdown. Here's what the legislators are saying.</p>
+          </a> 
+          </div> <!-- /.story-text -->
+      
+      </div> <!-- /.story-wrap -->
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/blogs/thetwo-way/" data-metrics='{"action":"Click Filed Under"}'>The Two-Way - News Blog</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/sections/politics/" data-metrics='{"action":"Click Filed Under"}'>Politics</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title227432175" value="Shutdown Standoff: 'How Dare You,' And Other Views From Congress">
+        <input type="hidden" id="modelShortUrl227432175" value="http://n.pr/19LUjc6">
+        <input type="hidden" id="modelFullUrl227432175" value="http://www.npr.org/blogs/thetwo-way/2013/09/29/227432175/shutdown-standoff-how-dare-you-and-other-views-from-congress">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="227432175" data-shortname="npr2way" title="View comments" href="http://www.npr.org/blogs/thetwo-way/2013/09/29/227432175/shutdown-standoff-how-dare-you-and-other-views-from-congress#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory227432175" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(227432175);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story227432175 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(227432175);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStoryAttachment.mtpl --><article class="hp-item attachment volume-low ">
+  <a class="story-wrap" href="http://www.npr.org/2013/09/29/227396157/house-brings-government-to-the-verge-of-a-shutdown" data-metrics='{"action" : "Click Attached Story 12"}'>
+    
+  <div class="story-text">       
+    <h1 class="title">        
+         House Vote Brings Government To Verge Of Shutdown
+    </h1>
+  </div> 
+      
+  </a>
+</article><!-- END HomePageListStoryAttachment.mtpl -->
+</section><!-- END HomePageListStorySection.mtpl --><!-- BEGIN HomePageListStorySection.mtpl --><section class="attachment-group">
+  <!-- BEGIN HomePageListStoryHigh.mtpl --><article class="hp-item volume-high post-type-audio has-attachment has-image" id="story227556368">
+
+  
+    <div class="story-wrap-outer">
+
+    
+<div class="story-wrap">
+    
+         <figure class="head-image">
+            <div class="bucketwrap homeLarge">
+                <a href="http://www.npr.org/2013/09/29/227556368/is-living-with-extreme-wildfires-the-new-normal" data-metrics='{"action" : "Click Story 13"}'>  
+        		  <img src=" http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/29/prescott_fire_wide-ed8cf1ba1d3d28a2e4c1ebb0be379af14dd177cf-s5.jpg" class="lazyOnLoad"  title="Is Living With Extreme Wildfires The New Normal?" alt="Is Living With Extreme Wildfires The New Normal?" />
+                </a>  
+
+        		<div class="credit-caption">     
+				        <div class="caption">
+				            <p>A wildfire in burns Prescott, Ariz., on June 18. The fire would eventually take the lives of 19 firefighters in an area near Yarnell. 
+				                <b class="credit">Todd Tamcsin/AP Photo/American Red Cross</b>
+    				            <b class="hide-caption"><b>hide caption</b></b>
+                            </p>
+				        </div>
+                    
+				        <b class="toggle-caption">i<b>toggle caption</b></b>
+				    
+				    <b class="credit">Todd Tamcsin/AP Photo/American Red Cross</b>
+				</div>
+            </div>
+        </figure>
+        
+  <div class="story-text">    
+    
+    <h2 class="slug e"><a href="http://www.npr.org/sections/environment/" data-metrics='{"action":"Click Slug"}'>Environment</a></h2>
+
+    <a href="http://www.npr.org/2013/09/29/227556368/is-living-with-extreme-wildfires-the-new-normal" data-metrics='{"action" : "Click Story 13"}'>  
+
+    <h1 class="title">Is Living With Extreme Wildfires The New Normal?</h1>
+
+    <p class="teaser">
+                                 
+          The Yarnell Hill fire in Arizona was deadly in part because of the how close a highly flammable forest was to a community. The U.S. once faced a crisis with structural fires, but managed to change regulations to turn the trend around. Experts say it will take a renewed effort to take on this newer fire threat.</p>
+      </a>
+  </div>  <!-- /.story-text -->
+  
+  </div> <!-- /.story-wrap --> 
+  
+    <!-- BEGIN HomePageListStoryAudio.mtpl -->
+<div class="audio-player">
+    <a href="#" data-audio="/npr/atc/2013/09/20130929_atc_01" data-audio-desktop="[227556368, 227551589, null, 1, 1, 1]" data-metrics='{"action" : "Play Inline Audio", "category" : "Segment Audio", "label" : "/npr/atc/2013/09/20130929_atc_01"}'   >
+        <b class="icn-media"></b> 
+        
+        <b class="time-progress"></b>
+        
+        	<b class="call-to-action">Listen</b>
+        
+       <b class="loading">Loading</b>
+       <b class="playing">Playing&hellip;</b>
+
+        <b class="audio-info">
+            
+               <b class="time-total">11 min 30 sec</b>
+            
+        </b>
+    </a>
+</div>
+<!-- END HomePageListStoryAudio.mtpl -->
+
+  </div> <!-- /.story-wrap-outer -->   
+
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/sections/environment/" data-metrics='{"action":"Click Filed Under"}'>Environment</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title227556368" value="Is Living With Extreme Wildfires The New Normal?">
+        <input type="hidden" id="modelShortUrl227556368" value="http://n.pr/18Cwi72">
+        <input type="hidden" id="modelFullUrl227556368" value="http://www.npr.org/2013/09/29/227556368/is-living-with-extreme-wildfires-the-new-normal">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="227556368" data-shortname="npr-news" title="View comments" href="http://www.npr.org/2013/09/29/227556368/is-living-with-extreme-wildfires-the-new-normal#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory227556368" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(227556368);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story227556368 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(227556368);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div>  
+
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryHigh.mtpl --><!-- BEGIN HomePageListStoryAttachment.mtpl --><article class="hp-item attachment volume-low ">
+  <a class="story-wrap" href="http://www.npr.org/blogs/thetwo-way/2013/09/28/227177905/report-on-arizona-hotshots-deaths-finds-a-communications-gap" data-metrics='{"action" : "Click Attached Story 13"}'>
+    
+  <div class="story-text">       
+    <h1 class="title">        
+         Report On Arizona Hotshots' Deaths Finds A Communications Gap
+    </h1>
+  </div> 
+      
+  </a>
+</article><!-- END HomePageListStoryAttachment.mtpl -->
+</section><!-- END HomePageListStorySection.mtpl --><!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-standard has-image" id="story226888234" >
+     
+  
+  
+
+      <div class="story-wrap">
+        
+            <figure class="thumb-image">
+                <div class="bucketwrap homeThumb">
+                    <a href="http://www.npr.org/2013/09/29/226888234/truth-or-propaganda-finding-real-stories-in-north-korea" data-metrics='{"action" : "Click Story 14"}'>  
+                    
+    				<img src="http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/29/north_korea_1013_mm8203_006_wide-dfe0da620f5aa241b27cd7e845da54f97b813e0c-s18.jpg" class="lazyOnLoad"  title="Truth Or Propaganda? Finding Real Stories In North Korea" alt="Truth Or Propaganda? Finding Real Stories In North Korea" />
+    				
+    			    </a>  
+
+    				<div class="credit-caption">     
+    				        <div class="caption">
+    				            <p>Children mobilized for the annual mass games in Pyongyang act as pixels, portraying a happy patriot in uniform. 
+        				            <b class="hide-caption"><b>hide caption</b></b>
+                                </p>
+    				        </div>
+                        
+    				        <b class="toggle-caption">i<b>toggle caption</b></b>
+    				    
+    				    <b class="credit">David Guttenfelder /National Geographic </b>
+    				</div>
+                </div>
+            </figure>
+      
+          <div class="story-text">      
+            <h2 class="slug a"><a href="http://www.npr.org/sections/asia/" data-metrics='{"action":"Click Slug"}'>Asia</a></h2>
+  
+    <a href="http://www.npr.org/2013/09/29/226888234/truth-or-propaganda-finding-real-stories-in-north-korea" data-metrics='{"action" : "Click Story 14"}'>          
+            <h1 class="title">Truth Or Propaganda? Finding Real Stories In North Korea</h1>
+        
+            <p class="teaser">Some stories from the isolated nation are stranger than government-sponsored fiction.</p>
+          </a> 
+          </div> <!-- /.story-text -->
+      
+      </div> <!-- /.story-wrap -->
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/sections/asia/" data-metrics='{"action":"Click Filed Under"}'>Asia</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title226888234" value="Truth Or Propaganda? Finding Real Stories In North Korea">
+        <input type="hidden" id="modelShortUrl226888234" value="http://n.pr/1h9a9QN">
+        <input type="hidden" id="modelFullUrl226888234" value="http://www.npr.org/2013/09/29/226888234/truth-or-propaganda-finding-real-stories-in-north-korea">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="226888234" data-shortname="npr-news" title="View comments" href="http://www.npr.org/2013/09/29/226888234/truth-or-propaganda-finding-real-stories-in-north-korea#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory226888234" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(226888234);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story226888234 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(226888234);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-video has-image" id="story226902746" >
+     
+  
+  
+    <div class="story-wrap-outer">    
+        
+          <!-- BEGIN ResourceExternalAssetYoutube.mtpl --><div class="video-outer-wrap">
+  <div class="video-inner-wrap">
+    <iframe src="http://www.youtube.com/embed/Z7POwK10R5Y?rel=0"></iframe>
+  </div>
+  <div class="captionwrap externalasset">
+    <b class="creditwrap">
+      
+      <b class="source">YouTube</b>
+    </b>
+    
+  </div>
+</div><!-- END ResourceExternalAssetYoutube.mtpl -->
+        
+        <div class="story-wrap">
+            <div class="story-text">                          
+                <h2 class="slug abs"><a href="http://www.npr.org/blogs/ablogsupreme/" data-metrics='{"action":"Click Slug"}'>A Blog Supreme</a></h2>
+
+                <a href="http://www.npr.org/blogs/ablogsupreme/2013/09/29/226902746/the-jazz-documentarian-who-won-the-lottery" data-metrics='{"action" : "Click Story 15"}'>
+                <h1 class="title">How A Jazz Documentarian Cashed In A Lottery Win </h1>
+                
+                <p class="teaser">With a little luck, singer Brandon Bain decided to capture young New York jazz talent on video.</p>
+            </a>
+            </div> <!-- /.story-text -->
+            
+        </div> <!-- /.story-wrap --> 
+    </div> <!-- /.story-wrap-outer -->
+
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/blogs/ablogsupreme/" data-metrics='{"action":"Click Filed Under"}'>A Blog Supreme</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/music/" data-metrics='{"action":"Click Filed Under"}'>Music</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title226902746" value="How A Jazz Documentarian Cashed In A Lottery Win">
+        <input type="hidden" id="modelShortUrl226902746" value="http://n.pr/1h9ha3O">
+        <input type="hidden" id="modelFullUrl226902746" value="http://www.npr.org/blogs/ablogsupreme/2013/09/29/226902746/the-jazz-documentarian-who-won-the-lottery">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="226902746" data-shortname="nprjazz" title="View comments" href="http://www.npr.org/blogs/ablogsupreme/2013/09/29/226902746/the-jazz-documentarian-who-won-the-lottery#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory226902746" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(226902746);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story226902746 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(226902746);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-standard has-image" id="story226527161" >
+     
+  
+  
+
+      <div class="story-wrap">
+        
+            <figure class="thumb-image">
+                <div class="bucketwrap homeThumb">
+                    <a href="http://www.npr.org/blogs/alltechconsidered/2013/09/29/226527161/what-gets-lost-in-our-carefully-crafted-online-conversations" data-metrics='{"action" : "Click Story 16"}'>  
+                    
+    				<img src="http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/29/smileymask_wide-4bd5f56554c35bbe1a3d842a3a03e087ada83a62-s18.jpg" class="lazyOnLoad"  title="What Gets Lost In Our Carefully Crafted Online Conversations" alt="What Gets Lost In Our Carefully Crafted Online Conversations" />
+    				
+    			    </a>  
+
+    				<div class="credit-caption">     
+    				        <div class="caption">
+    				            <p>Researchers are studying the effects of the "masks" we wear online. 
+        				            <b class="hide-caption"><b>hide caption</b></b>
+                                </p>
+    				        </div>
+                        
+    				        <b class="toggle-caption">i<b>toggle caption</b></b>
+    				    
+    				    <b class="credit">iStockPhoto</b>
+    				</div>
+                </div>
+            </figure>
+      
+          <div class="story-text">      
+            <h2 class="slug atc"><a href="http://www.npr.org/blogs/alltechconsidered/" data-metrics='{"action":"Click Slug"}'>All Tech Considered</a></h2>
+  
+    <a href="http://www.npr.org/blogs/alltechconsidered/2013/09/29/226527161/what-gets-lost-in-our-carefully-crafted-online-conversations" data-metrics='{"action" : "Click Story 16"}'>          
+            <h1 class="title">What Gets Lost In Our Carefully Crafted Online Conversations</h1>
+        
+            <p class="teaser">The tendency to tailor our online speak is making it harder to have real life conversations.</p>
+          </a> 
+          </div> <!-- /.story-text -->
+      
+      </div> <!-- /.story-wrap -->
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/blogs/alltechconsidered/" data-metrics='{"action":"Click Filed Under"}'>All Tech Considered</a>
+                </li>
+                <li>
+                    <a href="http://www.npr.org/sections/digital-life/" data-metrics='{"action":"Click Filed Under"}'>Digital Life</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title226527161" value="What Gets Lost In Our Carefully Crafted Online Conversations">
+        <input type="hidden" id="modelShortUrl226527161" value="http://n.pr/19JWiMB">
+        <input type="hidden" id="modelFullUrl226527161" value="http://www.npr.org/blogs/alltechconsidered/2013/09/29/226527161/what-gets-lost-in-our-carefully-crafted-online-conversations">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="226527161" data-shortname="npralltech" title="View comments" href="http://www.npr.org/blogs/alltechconsidered/2013/09/29/226527161/what-gets-lost-in-our-carefully-crafted-online-conversations#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory226527161" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(226527161);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story226527161 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(226527161);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStorySection.mtpl --><section class="attachment-group">
+  <!-- BEGIN HomePageListStoryLow.mtpl --><article class="hp-item volume-low post-type-audio has-attachment has-image" id="story226858221" >
+     
+  
+  
+    <div class="story-wrap-outer">    
+            <figure class="thumb-image">
+                <div class="bucketwrap homeThumb">
+                    <a href="http://www.npr.org/2013/09/29/226858221/joseph-gordon-levitt-on-life-and-the-lenses-we-look-through" data-metrics='{"action" : "Click Story 17"}'>
+    				<img src="http://media.npr.org/chrome/spacer.gif" data-original="http://media.npr.org/assets/img/2013/09/29/m_017_dja_06081crop_-83201a29-fae8-e211-86ee-4040e990bee0-_lg_wide-1250ff5da46a40537416e8dd1a587eae2f7a1789-s18.jpg" class="lazyOnLoad"  title="Joseph Gordon-Levitt, On Life And The Lenses We Look Through" alt="Joseph Gordon-Levitt, On Life And The Lenses We Look Through" />
+    				</a>
+    				
+    				<div class="credit-caption">     
+    				        <div class="caption">
+    				            <p>With <em>Don Jon,</em> the actor Joseph Gordon-Levitt, who stars as the titular porn-addicted Jersey boy, adds writer and director to his resume. 
+        				            <b class="hide-caption"><b>hide caption</b></b>
+                                </p>
+    				        </div>
+                        
+    				        <b class="toggle-caption">i<b>toggle caption</b></b>
+    				    
+    				    <b class="credit">Relativity Media </b>
+    				</div>
+                </div>
+            </figure>
+        
+        
+        <div class="story-wrap">
+            <div class="story-text">                          
+                <h2 class="slug mi"><a href="http://www.npr.org/sections/movie-interviews/" data-metrics='{"action":"Click Slug"}'>Movie Interviews</a></h2>
+
+                <a href="http://www.npr.org/2013/09/29/226858221/joseph-gordon-levitt-on-life-and-the-lenses-we-look-through" data-metrics='{"action" : "Click Story 17"}'>
+                <h1 class="title">Joseph Gordon-Levitt, On Life And The Lenses We Look Through </h1>
+                
+                <p class="teaser">Gordon-Levitt's <em>Don Jon</em> is about a simple guy with a few passions: his body, his pad and his porn.<em></em></p>
+            </a>
+            </div> <!-- /.story-text -->
+            
+                <!-- BEGIN HomePageListStoryAudio.mtpl -->
+<div class="audio-player">
+    <a href="#" data-audio="/npr/wesun/2013/09/20130929_wesun_10" data-audio-desktop="[226858221, 227431371, null, 1, 1, 1]" data-metrics='{"action" : "Play Inline Audio", "category" : "Segment Audio", "label" : "/npr/wesun/2013/09/20130929_wesun_10"}'   >
+        <b class="icn-media"></b> 
+        
+        <b class="time-progress"></b>
+        
+        	<b class="call-to-action">Listen</b>
+        
+       <b class="loading">Loading</b>
+       <b class="playing">Playing&hellip;</b>
+
+        <b class="audio-info">
+            
+               <b class="time-total">6 min 39 sec</b>
+            
+        </b>
+    </a>
+</div>
+<!-- END HomePageListStoryAudio.mtpl -->
+        </div> <!-- /.story-wrap --> 
+    </div> <!-- /.story-wrap-outer -->
+
+  
+  
+  <aside class="story-aside">  
+
+      <div class="filed-under">
+        <div>
+            <h1>Filed Under</h1>
+            <ul>
+                <li>
+                    <a href="http://www.npr.org/sections/movie-interviews/" data-metrics='{"action":"Click Filed Under"}'>Movie Interviews</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+
+    <div class="social-tools">
+        <input type="hidden" id="title226858221" value="Joseph Gordon-Levitt, On Life And The Lenses We Look Through">
+        <input type="hidden" id="modelShortUrl226858221" value="http://n.pr/1h8TwEQ">
+        <input type="hidden" id="modelFullUrl226858221" value="http://www.npr.org/2013/09/29/226858221/joseph-gordon-levitt-on-life-and-the-lenses-we-look-through">
+        <ul class="listStoryTools">
+          <li class="comments"><a class="comments comment-count" data-storyid="226858221" data-shortname="nprartslife" title="View comments" href="http://www.npr.org/2013/09/29/226858221/joseph-gordon-levitt-on-life-and-the-lenses-we-look-through#commentBlock"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><b class="service">Comments</b></a></li>
+          <li class="facebook"><a class="facebook fbStory226858221" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(226858221);" data-metrics='{"action":"Like","network":"Facebook","type":"socialEvent"}' ><b class="service">Facebook</b></a></li>
+          <li class="twitter"><a class="retweetStory story226858221 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(226858221);" data-metrics='{"action":"Tweet","network":"Twitter","type":"socialEvent"}' ><b class="service">Twitter</b></a></li>
+       </ul>
+    </div> 
+     
+  </aside> <!-- /.story-aside -->
+</article><!-- END HomePageListStoryLow.mtpl --><!-- BEGIN HomePageListStoryAttachment.mtpl --><article class="hp-item attachment volume-low ">
+  <a class="story-wrap" href="http://www.npr.org/2013/09/27/226577467/don-jon-smooth-move-there-mr-gordon-levitt" data-metrics='{"action" : "Click Attached Story 17"}'>
+    
+  <div class="story-text">       
+    <h1 class="title">        
+         'Don Jon': Smooth Move There, Mr. Gordon-Levitt
+    </h1>
+  </div> 
+      
+  </a>
+</article><!-- END HomePageListStoryAttachment.mtpl -->
+</section><!-- END HomePageListStorySection.mtpl -->         <div id="hp-river-list">
+                     </div>
+         
+<!-- END ID="HP-RIVER-LIST" -->
+      </div>
+      
+<!-- END CLASS="STORIES-WRAP STORIES-WRAP-TWO" DATA-METRICS-CATEGORY="CURATED LIST" -->
+      <div id="hp-river" data-metrics-all data-metrics-visible="scroll-down">
+                  <div class="hp-river-error hidden">
+            timed out - please try again soon
+         </div>
+         <div class="hp-label">
+            load more...
+         </div>
+         <ul>
+                        <li><a class="more-river option" data-id="1001" data-metrics-category="River" data-metrics-action="Click to load stories" data-metrics-label="news" >news</a></li>
+            <li><a class="more-river option" data-id="1008" data-metrics-category="River" data-metrics-action="Click to load stories" data-metrics-label="arts & life" >arts & life</a></li>
+            <li><a class="more-river option" data-id="1032" data-metrics-category="River" data-metrics-action="Click to load stories" data-metrics-label="books" >books</a></li>
+            <li><a class="more-river option" data-id="1039" data-metrics-category="River" data-metrics-action="Click to load stories" data-metrics-label="music" >music</a></li>
+         </ul>
+         <a href="#wrapper" class="back-to-top"  data-metrics='{"action":"Click Back to Top","category":"River"}' >Back to top <span class="arrow">&uarr;</span></a>         <div class='hp-item more-card'>
+                     </div>
+      </div>
+      
+<!-- END ID="HP-RIVER" DATA-METRICS-ALL DATA-METRICS-VISIBLE="SCROLL-DOWN" -->
+   </div>
+   
+<!-- END CLASS="HOMEPAGE-CURATED" -->
+</div>
+
+<!-- END ID="CONTENTWRAP" -->
+</section>      <section id="navsidebar" role="complementary"><nav id="loginSidebar" data-metrics-category="Global Navigation">
+    <div class="nav-container">
+        <div class="nav-top-level">
+            <form action="/search/index.php" method="get" name="searchForm" id="searchForm_nav" class="search">
+                <label for="searchinput">Search</label>
+                <input type="search" name="searchinput" id="searchinput_nav" class="textbox searchbox">
+            </form>
+    
+            <ul>
+                <li class="home"><a href="/" data-metrics='{"action":"Click NPR Home"}'>Home</a></li>
+                <li class="topics"><a href="/" data-metrics='{"action":"Click Topics"}'>Topics</a></li>
+                <li class="programs"><a href="/" data-metrics='{"action":"Click Programs"}'>Programs</a></li>
+                <li class="donate"><a href="/stations/donate/index.php" data-metrics='{"action":"Click Business Link"}'>Donate</a></li>
+                <li class="stations" data-metrics='{"action":"Click Business Link"}'><a href="/templates/stations/stations/">Stations</a></li>
+                <li class="nprshop"><a href="http://shop.npr.org" data-metrics='{"action":"Click Business Link"}'>NPR Shop</a></li>    
+                <li class="login-reg loggedOut">
+                    <a href="/templates/reg/login.php" data-metrics='{"action":"Click Profile Link"}'>Sign In / Register</a>
+                </li>
+            </ul>
+            <ul class="loggedIn">
+                <li class="userLogin">
+                    <span id="userLoginSidebar"></span>
+                </li>
+                <li class="login-reg">
+                    <a href="/templates/reg/logout.php" class="logout" data-metrics='{"action":"Click Profile Link"}'>Logout</a>
+                </li>
+            </ul>
+        </div> <!-- /.nav-top-level -->
+        
+        <div class="subnavs subnavs-topics" data-metrics-all data-metrics-action="Click Topic">
+            <a  class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+        
+            <h1><a href="/sections/news/">News</a></h1>
+            <ul>
+                <li><a href="/sections/us/">U.S.</a></li>
+                <li><a href="/sections/world/">World</a></li>
+                <li><a href="/sections/politics/">Politics</a></li>
+                <li><a href="/sections/business/">Business</a></li>
+                <li><a href="/sections/technology/">Technology</a></li>
+                <li><a href="/sections/science/">Science</a></li>
+                <li><a href="/sections/health/">Health</a></li>
+				<li><a href="/blogs/codeswitch/">Race &amp; Culture</a></li>
+            </ul>
+            
+            <h1><a href="/sections/arts/">Arts &amp; Life</a></h1>
+            <ul>
+                <li><a href="/sections/movies/">Movies</a></li>
+                <li><a href="/sections/pop-culture/">Pop Culture</a></li>
+                <li><a href="/sections/food/">Food</a></li>
+                <li><a href="/sections/art-design/">Art &amp; Design</a></li>
+                <li><a href="/sections/performing-arts/">Performing Arts</a></li>
+                <li><a href="/blogs/pictureshow/">Photography</a></li>
+
+            </ul>
+                            
+            <h1><a href="/books/">Books</a></h1>   
+            <ul>
+                <li><a href="/sections/book-reviews/">Book Reviews</a></li>
+                <li><a href="/sections/author-interviews/">Author Interviews</a></li>
+            </ul>            
+
+            <h1><a href="/music/">Music</a></h1>
+            <ul>
+                <li><a href="/series/98679384/first-listen/">First Listen</a></li>
+                <li><a href="/series/100920965/music-articles/">Music Articles</a></li>
+                <li><a href="/series/15667984/favorite-sessions/">Studio Sessions</a></li>
+                <li><a href="/sections/music-videos/">Videos</a></li>
+            </ul>
+                      
+            <h1><a href="/about-npr/198341814/npr-blog-directory">Our Blogs</a></h1>
+            
+            <h1><a href="/about/aboutnpr/">All About NPR</a></h1>
+        </div> <!-- /.subnavs-topics -->
+        
+        <div class="subnavs subnavs-programs" data-metrics-all data-metrics-action="Click Program">
+            <div class="subnav subnav-programs">
+                <a  class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+                
+                <ul>
+                    <li><a  class="news-talk">news &amp; conversations</a></li>
+                    <li><a  class="entertainment-culture">storytelling &amp; humor</a></li>
+                    <li><a  class="music">music</a></li>
+                    <li><a  class="special-series">also heard on npr stations</a></li>
+                </ul>
+            </div>
+            
+            <div class="subnav subnav-news-talk">
+                <a  class="back back-to-programs"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                    <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                    <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                    <li><a href="http://hereandnow.wbur.org/">Here &amp; Now</a></li>
+                    <li><a href="http://thedianerehmshow.org">The Diane Rehm Show</a></li>
+                    <li><a href="http://www.onthemedia.org">On The Media</a></li>
+                    <li><a href="http://www.onpointradio.org/">On Point</a></li>
+                    <li><a href="http://www.sciencefriday.com/">Science Friday</a></li>
+                    <li><a href="/programs/tell-me-more/">Tell Me More</a></li>
+                    <li><a href="/programs/weekend-edition-saturday/">Weekend Edition Saturday</a></li>
+                    <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+                </ul>
+            </div>
+            
+            <div class="subnav subnav-entertainment-culture">
+                <a  class="back back-to-programs"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
+                    <li><a href="http://www.cartalk.com">Car Talk</a></li>
+            		<li><a href="http://www.radiolab.org">Radiolab</a></li>
+            		<li><a href="http://snapjudgment.org">Snap Judgment</a></li>
+                    <li><a href="http://storycorps.org" class="storycorps">StoryCorps</a></li>
+            		<li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
+                    <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                </ul>
+            </div>
+            
+            <div class="subnav subnav-music">
+                <a  class="back back-to-programs"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
+                    <li><a href="/series/alt-latino/">Alt.Latino</a></li>
+                    <li><a href="/series/15667984/favorite-sessions">Favorite Sessions</a></li>
+                    <li><a href="/series/98679384/first-listen">First Listen</a></li>
+            		<li><a href="http://www.fromthetop.org/">From The Top</a></li>
+            		<li><a href="/programs/jazzset/">Jazzset</a></li>      
+            		<li><a href="/sections/concerts/">Live In Concert</a></li>       
+                	<li><a href="/series/mountain-stage/">Mountain Stage</a></li>
+            		<li><a href="/programs/piano-jazz/">Piano Jazz</a></li>
+            		<li><a href="/series/103063413/the-thistle-and-shamrock">The Thistle &amp; Shamrock</a></li>
+                    <li><a href="/programs/world-cafe/">World Cafe</a></li>
+                </ul>
+            </div>
+            
+            <div class="subnav subnav-special-series">
+                <a  class="back back-to-programs"><b class="icn-back"></b>Back</a>
+                    
+                <ul>
+                    <li><a href="http://prairiehome.publicradio.org">A Prairie Home Companion <b>(APM)</b></a></li> 
+					<li><a href="http://marketplace.publicradio.org">Marketplace <b>(APM)</b></a></li> 
+                    <li><a href="http://www.thisamericanlife.org">This American Life <b>(PRI)</b></a></li>
+            		<li><a href="/programs/">Public Radio Programs A to Z</a></li>
+                </ul>
+            </div>
+        </div> <!-- /.subnavs-programs -->
+    </div> <!-- /.nav-container -->
+</nav></section>
+   </div>
+   
+<!-- END ID="SECTIONWRAP" CLASS="CLEARFIX" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<footer id="nprfooter"><div class="footer-wrapper">
+      <div class="primary" data-metrics-category="Global Footer" data-metrics-visible="scroll-down end" data-metrics-label="Footer">
+
+    <ul>
+        <li><a href="/" data-action="Click Logo" data-metrics='{"action":"Click Footer Logo"}'></a></li>
+        <li class="news" data-metrics-action="Click News" data-metrics-all>
+            <a href="/sections/news/">News</a>
+            
+            <ul>
+                <li><a href="/sections/us/">U.S.</a></li>
+                <li><a href="/sections/world/">World</a></li>
+                <li><a href="/sections/opinion/">Opinion</a></li>
+                <li><a href="/sections/politics">Politics</a></li>
+                <li><a href="/sections/business/">Business</a></li>
+                <li><a href="/sections/technology/">Technology</a></li>
+                <li><a href="/sections/science/">Science</a></li>
+                <li><a href="/sections/health/">Health</a></li>
+                <li><a href="/sections/sports/">Sports</a></li>
+            </ul>
+        </li>
+        <li class="artslife" data-metrics-action="Click Arts &amp; Life" data-metrics-all>
+            <a href="/sections/arts/">Arts &amp; Life</a>
+        
+            <ul>
+                <li><a href="/books/">Books</a></li>
+                <li><a href="/sections/movies/">Movies</a></li>
+                <li><a href="/sections/pop-culture/">Pop Culture</a></li>
+                <li><a href="/sections/food/">Food</a></li>
+                <li><a href="/sections/performing-arts/">Performing Arts</a></li>
+                <li><a href="/sections/games-humor/">Games &amp; Humor</a></li>
+            </ul>
+        </li>
+        <li class="music" data-metrics-action="Click Music" data-metrics-all>
+            <a href="/music/">Music</a>
+        
+            <ul>
+                <li><a href="/series/100920965/music-articles/">Music Articles</a></li>
+                <li><a href="/sections/music-videos/">Music Videos</a></li>
+                <li><a href="/templates/websites/musicstreams.php">NPR Music Radio</a></li>
+                <li><a href="/templates/artist/artist_index.php?filter=A">Browse Artists A-Z </a></li>
+                    
+                <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
+                <li><a href="/series/alt-latino/">Alt.Latino</a></li>
+                <li><a href="/series/98679384/first-listen/">First Listen</a></li>
+                <li><a href="/sections/concerts/">Live In Concert</a></li>
+                <li><a href="/programs/piano-jazz/">Marian McPartland's <span>Piano Jazz</span></a></li>
+                <li><a href="/series/103063413/the-thistle-and-shamrock/">The Thistle &amp; Shamrock</a></li>
+                <li><a href="/programs/world-cafe/">World Cafe</a></li>
+            </ul>
+        </li>
+        <li class="programs" data-metrics-action="Click Programs" data-metrics-all>
+            <a href="/programs/">Programs</a>
+        
+            <ul>
+                <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
+                <li><a href="http://www.cartalk.com">Car Talk</a></li>
+                <li><a href="http://thedianerehmshow.org">The Diane Rehm Show</a></li>
+                <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                <li><a href="http://hereandnow.wbur.org/">Here &amp; Now</a></li>
+                <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                <li><a href="http://www.onthemedia.org">On The Media</a></li>
+                <li><a href="http://www.onpointradio.org/">On Point</a></li>
+                <li><a href="http://www.sciencefriday.com/">Science Friday</a></li>
+                <li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
+                <li><a href="/programs/tell-me-more/">Tell Me More</a></li>
+                <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                <li><a href="/programs/weekend-edition-saturday/">Weekend Edition <span>Saturday</span></a></li>
+                <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+            </ul>
+        </li>
+        <li class="listen" data-metrics-action="Click Listen" data-metrics-all>
+            <a href="/listen/">Listen</a>
+        
+            <ul>
+                <li><a href="javascript:NPR.Player.openPlayer(0,0,null,NPR.Player.Action.PLAY_NOW, NPR.Player.Type.NEWSCAST, NPR.Player.Mode.FROM_FILE);" class="hourlyNews">Hourly News</a></li>
+                <li><a href="javascript:NPR.Player.openPlayer(0,0,null,NPR.Player.Action.LIVE_STREAM, NPR.Player.Type.PROGRAM_STREAM, NPR.Player.Mode.FROM_FILE);" class="programStream">NPR Program Stream</a></li>
+                <li><a href="/stations/">Find Station Streams</a></li>
+                <li><a href="/rss/podcast/podcast_directory.php">Podcasts</a></li>
+                <li><a href="/about-npr/187046089/ways-to-listen-to-npr">More Ways To Listen</a></li>
+            </ul>
+        </li>
+        <li class="about" data-metrics-action="Click About" data-metrics-all>
+            <a href="/about/">About</a>
+        
+            <ul>
+                <li><a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx">Contact Us</a></li>
+                <li><a href="http://shop.npr.org">NPR Shop</a></li>
+                <li><a href="http://tours.npr.org/npr/Home/">Visit NPR</a></li>
+                <li><a href="http://www.npr.org/about-npr/181953728/work-at-npr">Careers at NPR</a></li>
+                <li><a href="/about/press/">Press Room</a></li>
+                <li><a href="/blogs/thisisnpr/">'This Is NPR' Blog</a></li>
+				<li><a href="/about/support/">Support and Sponsor</a></li>
+                <li><a href="/templates/corrections/corrections.php">Corrections</a></li>
+                <li><a href="/blogs/ombudsman/">NPR Ombudsman</a></li>
+                <li><a href="/about-npr/179881519/rights-and-permissions-information">Permissions</a></li>
+                <li><a href="/email/">Email Newsletters</a></li>
+                <li><a href="/rss/">RSS Feeds</a></li>
+                <li><a href="/api/">The NPR API</a></li>
+			</ul>
+        </li>
+    </ul>
+</div>
+
+<div class="secondary">
+    <p class="copyright">&copy;2013 NPR</p>
+    
+    <ul>
+      <li id="footerContact"><a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx">Contact</a></li>
+      <li><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+      <li><a href="/about-npr/179878450/privacy-policy">Privacy</a></li>
+      <li class="sponsorship-choices"><a href="/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons">Sponsorship Choices</a></li>
+      <li><a href="http://thin.npr.org/">Text-Only</a></li>
+    </ul>
+</div>
+</div>
+</footer><script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/homepage-5d865edceb09e4eaacb9f163c6ad4f089154dbf5.js">
+   </script>
+</body></html>
+
+<!-- Published 09/30/2013 09:14:40.071-->
+

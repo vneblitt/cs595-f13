@@ -1,0 +1,810 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="1024" />
+<link rel="shortcut icon" href="http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/img/global/favicon.ico" />
+<title>divorce | Sesame Workshop</title>
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.18 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://www.sesameworkshop.org/press-room/divorce/" />
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="divorce - Sesame Workshop"/>
+<meta property="og:url" content="http://www.sesameworkshop.org/press-room/divorce/"/>
+<meta property="og:site_name" content="Sesame Workshop"/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='stylesheet' id='style-css'  href='http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/style.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slides-css'  href='http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/css/slidesjs.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://p.jwpcdn.com/6/5/jwplayer.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/js/jquery-1.8.2.min.js'></script>
+<script type="text/javascript">jwplayer.key='qEhv8smycYgckaWXq98o16dEf5cJQ/0v+YNs1BYgLg8=';jwplayer.defaults = { "ph": 2 };</script>
+            <script type="text/javascript">
+            if (typeof(jwp6AddLoadEvent) == 'undefined') {
+                function jwp6AddLoadEvent(func) {
+                    var oldonload = window.onload;
+                    if (typeof window.onload != 'function') {
+                        window.onload = func;
+                    } else {
+                        window.onload = function() {
+                            if (oldonload) {
+                                oldonload();
+                            }
+                            func();
+                        }
+                    }
+                }
+            }
+            </script>
+
+            
+<!--[if lt IE 9]>
+<script src="http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<script type="text/javascript">
+$(function() {
+    var theMuppets = ['http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/img/muppets/ernie.png','http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/img/muppets/count.png','http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/img/muppets/grover.png','http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/img/muppets/cookie.png','http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/img/muppets/elmo.png','http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/img/muppets/oscar.png','http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/img/muppets/abby.png','http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/img/muppets/bigbird.png','http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/img/muppets/zoey.png'];
+    $('#goToSesame').html('<img src="' + theMuppets[Math.floor(Math.random() * theMuppets.length)] + '" id="randomMuppet" width="145" height="90" alt="" />');
+});
+</script>
+
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4680963-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+</head>
+<body>
+<div id="header">
+<div id="logo">
+<a href="http://www.sesameworkshop.org"></a>
+</div>
+<ul class="navUtility">
+<li><a href="http://www.sesameworkshop.org/contact-us">contact us</a></li>
+<li><a href="http://www.sesameworkshop.org/partners/donate">donate</a></li>
+<li><a href="http://store.sesamestreet.org" target="_blank">store</a></li>
+<li><form method="get" id="searchForm" class="searchform" action="http://www.sesameworkshop.org/" role="s">
+            <fieldset id="search">
+            	<!--[if IE 9]>
+            	<style type="text/css">
+            	#search input {
+            		padding-top: 0px;
+            	}
+            	</style>
+            	<![endif]-->
+                <div class="customInput"><input type="text" title="search" name="s" value="search"></div>
+                <button type="submit" class="search-button">Search</button>
+            </fieldset><!-- End #search -->
+            </form>
+</li>
+</ul>
+<a href="http://sesamestreet.org" id="goToSesame" target="blank">
+</a>
+<div class="menu-wddprimary-container"><ul id="menu-wddprimary" class="menu"><li id="menu-item-830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-830"><a href="http://www.sesameworkshop.org/what-we-do/our-initiatives/">our initiatives</a>
+<ul class="sub-menu">
+	<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="http://www.sesameworkshop.org/what-we-do/our-initiatives/">our initiatives</a></li>
+	<li id="menu-item-927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-927"><a href="http://www.sesameworkshop.org/what-we-do/our-results/">our results</a></li>
+	<li id="menu-item-938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-938"><a href="http://www.sesameworkshop.org/what-we-do/our-research-model/">our research model</a></li>
+	<li id="menu-item-940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-940"><a href="http://www.sesameworkshop.org/what-we-do/our-approach-in-action/">our approach in action</a></li>
+</ul>
+</li>
+<li id="menu-item-1179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1179"><a href="http://www.sesameworkshop.org/where-we-work/">where we work</a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64"><a href="http://www.sesameworkshop.org/partners/our-partners-stories/">partners</a>
+<ul class="sub-menu">
+	<li id="menu-item-1059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1059"><a href="http://www.sesameworkshop.org/partners/our-partners-stories/">our partners&#8217; stories</a></li>
+	<li id="menu-item-1618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1618"><a href="http://www.sesameworkshop.org/partners/partners/">partners</a></li>
+	<li id="menu-item-1090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1090"><a href="http://www.sesameworkshop.org/partners/annual-gala/">annual gala</a></li>
+	<li id="menu-item-1060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1060"><a href="http://www.sesameworkshop.org/partners/donate/">donate</a></li>
+</ul>
+</li>
+<li id="menu-item-65" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65"><a href="http://www.sesameworkshop.org/our-blog/">news</a>
+<ul class="sub-menu">
+	<li id="menu-item-1091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1091"><a href="http://www.sesameworkshop.org/our-blog/">our blog</a></li>
+	<li id="menu-item-1092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1092"><a href="http://www.sesameworkshop.org/press-room/">press room</a></li>
+	<li id="menu-item-1093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1093"><a href="http://www.sesameworkshop.org/press-releases/">press releases</a></li>
+</ul>
+</li>
+<li id="menu-item-66" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66"><a href="http://www.sesameworkshop.org/about-us/workshop-at-a-glance.html">about us</a>
+<ul class="sub-menu">
+	<li id="menu-item-1094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1094"><a href="http://www.sesameworkshop.org/about-us/workshop-at-a-glance/">workshop at a glance</a></li>
+	<li id="menu-item-1095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1095"><a href="http://www.sesameworkshop.org/about-us/our-mission/">our mission</a></li>
+	<li id="menu-item-1096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1096"><a href="http://www.sesameworkshop.org/about-us/40-years-and-counting/">40 years and counting</a></li>
+	<li id="menu-item-1097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1097"><a href="http://www.sesameworkshop.org/about-us/leadership-team/">leadership team</a></li>
+	<li id="menu-item-1098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1098"><a href="http://www.sesameworkshop.org/about-us/financials/">financials</a></li>
+	<li id="menu-item-1099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1099"><a href="http://www.sesameworkshop.org/about-us/the-joan-ganz-cooney-center/">joan ganz cooney center</a></li>
+</ul>
+</li>
+</ul></div></div><!-- #masthead .site-header -->
+    <div id="breadcrumb">
+    <!-- Breadcrumb NavXT 4.4.0 -->
+<a href="http://www.sesameworkshop.org">home</a><a title="Go to divorce." href="http://www.sesameworkshop.org/press-room/divorce/">divorce</a></div>
+
+	<div id="main" class="site-main">
+<div id="content" role="main">
+ <h1>divorce</h1>
+
+
+	<div id="hero" class="bordered">
+		<img src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorcehero.jpeg">
+	</div>
+
+
+	<div class="col728">
+<p class="intro">Welcome to <em>Sesame Street</em>’s press room for our newest resiliency initiative <em>Little Children, Big Challenges: Divorce.</em></p>
+<p>This multimedia outreach initiative provides much-needed resources for families with young children (ages 2–8) as they encounter the tough transitions that come with divorce.</p>
+		
+		<div class="divider">divider</div>
+		
+		
+		 
+							<a href="#" class="panelLink arrow">project overview</a>
+								<div class="slidingPanel">
+									<h2>The Need</h2>
+<p>Divorce is one of the most common major transitions in children’s lives, with ultimately 40 percent of all children experiencing the divorce of their parents.1 With Little Children, Big Challenges: Divorce, Sesame Workshop has created much-needed resources for families with young children (ages 2–8) as they encounter the tough transitions that come with divorce.</p>
+<h2>The Project</h2>
+<p><em>Little Children, Big Challenges: Divorce</em> is designed to:</p>
+<ul class="bulletList circle">
+<li>Provide tools and language to help young children (ages 2–8) cope with and understand divorce at an age-appropriate level.</li>
+<li>Aid families in communicating and expressing feelings around divorce.</li>
+<li>Reassure children that they will be cared for, and that—together with their families—they can learn ways to adjust to their new life and have hope for the future.</li>
+</ul>
+<h3>Project components</h3>
+<ul class="bulletList circle">
+<li>Multimedia resource kits that include:</li>
+<li>A Sesame Street DVD featuring a Muppet story about divorce and live action films with real families sharing their experiences around divorce.</li>
+<li>A parent/caregiver guide.</li>
+<li>A children’s storybook called Two-Hug Day.</li>
+<li>A mobile resource app called the Sesame Street Divorce App.</li>
+<li>An online toolkit at sesamestreet.org/divorce that includes:</li>
+<li>Online versions of all resources.</li>
+<li>An Extended Family and Friends tip sheet.</li>
+<li>Webinars and online discussion sessions geared towards service providers and families.</li>
+<li>A Facebook page called Sesame Street in Communities.</li>
+</ul>
+<h2>Distribution and Integration</h2>
+<p>Little Children, Big Challenges: Divorce resource kits will be distributed to military and veteran families through partnerships with Military OneSource, Department of Veterans Affairs, The USO, and The Military Child Education Coalition. Partners from the public at large will include parenting, child-care, health, education programs, social work organizations, counselors, and psychologists.The initiative will guide partners and their networks as they integrate multimedia materials into their existing programs. For military families, please contact Military OneSource at militaryonesource.mil for kits.</p>
+<h2>Project Supporters</h2>
+<p>Major support for Little Children, Big Challenges: Divorce provided by BAE Systems. Generous support provided by The Prudential Foundation, Department of Veterans Affairs, The Robert R. McCormick Foundation, The USO, and The Military Child Education Coalition.</p>
+<div class="source">1. National Institute of Mental Health (2002). Preventative sessions after divorce help protect children into teens [Press release]. Retrieved from <a href="http://www.nimh.nih.gov/science-news/2002/preventive-sessions-after-divorce-protect-children-into-teens.shtml">http://www.nimh.nih.gov/science-news/2002/preventive-sessions-after-divorce-protect-children-into-teens.shtml</a></div>
+<p><a class="pdf" href="https://s3.amazonaws.com/SesameDomestic/divorce/docs/Project+Overview.pdf">Project Overview</a></p>
+					
+	
+											
+			
+			</div>
+			<div class="divider">divider</div>				
+			
+							<a href="#" class="panelLink arrow">press release</a>
+								<div class="slidingPanel">
+									<p><strong>FOR IMMEDIATE RELEASE. New York, NY, December 11, 2012. </strong>Each year about 1.5 million children confront the divorce of their parents<sup>1</sup>, a transition that can be challenging for the entire family, especially young children. While 40% of families experience this, there are few resources to show children they are not the only ones with big questions and feelings about divorce.  In response, Sesame Workshop has launched <a href="http://www.sesamestreet.org/divorce"><em>Little Children, Big Challenges: Divorce</em></a><em>,</em> a series of free multi-media resources, to support families through this transition which can be very difficult, especially for young children. These new materials are a continuation of Sesame Workshop’s award-winning <a href="http://www.familiesnearandfar.org">Military Families Initiative</a> launched in 2006 that provides resources and emotional support to military families with children, ages 2 to 8, coping with challenging transitions in their lives.</p>
+<p>As with all content produced by Sesame Workshop, this outreach initiative began with a thorough <a href="http://www.sesameworkshop.org/what-we-do/our-research-model.html">research process</a>, which included consulting with an <a href="http://www.sesameworkshop.org/news/pressroom/divorce.html">advisory board of key experts</a> in child development, early childhood, and mental health fields to guide and shape key content messages. Continuing the process, Sesame Workshop conducted focus groups with parents and service providers to ensure that all of the resources effectively meet the needs of children and families.  Sesame Workshop created <em>Little Children, Big Challenges: Divorce</em>, in order to:</p>
+<ul class="bulletList circle">
+<li>Provide tools and language to help young children (ages 2–8) cope with and understand divorce at an age-appropriate level,</li>
+<li>aid families in communicating and expressing feelings around divorce and</li>
+<li>reassure children that they will be cared for, and that—together with their families—they can learn ways to adjust to their new life and have hope for the future.</li>
+</ul>
+<p>“With our new resources on divorce, Sesame Workshop continues a 43-year-long history of tackling the most relevant and challenging issues for children,” said H. Melvin Ming, President and CEO of Sesame Workshop. “During difficult times, it’s vitally important that children feel supported and develop coping skills that will help them throughout their entire lives.  Sesame Workshop is committed to providing the highest quality resources to families dealing with life’s challenges.”</p>
+<p><strong><em>Little Children, Big Challenges: Divorce</em></strong> includes:</p>
+<ul class="bulletList circle">
+<li><strong>A new <em>Sesame Street</em> DVD</strong>, featuring the Muppets and real families, that highlights strategies around expressing emotions and how to talk to children about divorce;</li>
+<li><strong>A Parent/Caregiver Guide</strong> providing helpful resources, language and advice for discussing divorce with children and helping them navigate changes;</li>
+<li><strong>A Children’s Storybook</strong>, <em>Two-Hug Day</em>, about a young boy named Niko who is transitioning between his parents’ two homes, and</li>
+<li><strong>An online toolkit at sesamestreet.org/divorce </strong>providing access to all project resources, as well as additional online-only materials:
+<ul>
+<li><strong>An Extended Family &amp; Friends tip sheet</strong></li>
+<li><strong>Webinars and online discussion sessions </strong>giving service providers and families a thorough understanding of how to engage with their families and communities</li>
+<li><strong>A Facebook page called <em>Sesame Street in Communities </em></strong>connecting our online community to Sesame’s resiliency messages and materials.</li>
+</ul>
+</li>
+<li><strong>A mobile app: <em>Sesame Street</em>: Divorce, </strong>featuring resources and tools for parents and caregivers; available on the App Store (SM) and Google Play ™.</li>
+</ul>
+<p>“With the frequency of children experiencing divorce and or separation today, it is critical to help children understand that the feelings or questions they may have are typical and should be discussed with a parent or caregiver, said Dr. Jeanette Betancourt, Senior Vice President for Outreach and Educational Practices at Sesame Workshop.  “These strategies will help children cope with changes as well as support them in understanding they are not alone.”</p>
+<p>The resource kits will be <strong>distributed to military and veteran families through partnerships </strong>with Military OneSource, Department of Veterans Affairs, The USO, and The Military Child Education Coalition. These resources are also <strong>being distributed to families in the general public through</strong> national partnerships with organizations such the Association of Family and Conciliation Courts and the National Council of Juvenile and Family Court Judges. On a local level, distribution will reach children and their families though faith-based programs, school and after school programs, through counseling and mental health services, parenting programs, and child care systems. Military families can contact Military OneSource directly at militaryonesource.mil to request a kit.</p>
+<p><strong>Major support</strong> for <em>Little Children, Big Challenges: Divorce</em> was provided by BAE Systems. <strong>Generous support</strong> was provided by The Prudential Foundation, Department of Veterans Affairs, the Robert R. McCormick Foundation, the USO and the Military Child Education Coalition.</p>
+<p><strong>About Sesame Workshop: </strong>Sesame Workshop is the nonprofit educational organization that revolutionized children’s television programming with the landmark <em>Sesame Street</em>. The Workshop produces local Sesame Street programs, seen in over 150 countries, and other acclaimed shows including <em>The Electric Company,</em> to help bridge the literacy gap. Beyond television, the Workshop produces content for multiple media platforms on a wide range of issues including literacy, health and military deployment. Initiatives meet specific needs to help young children and families develop critical skills, acquire healthy habits and build emotional strength to prepare them for lifelong learning. Learn more at <a href="http://www.sesameworkshop.org/">www.sesameworkshop.org</a>.</p>
+<h3>Press Contacts:</h3>
+<p><strong>Pam Hacker</strong><br />
+Sesame Workshop<br />
+212.875.6225<a href="mailto:Pam.hacker@sesame.org"><br />
+Pam.hacker@sesame.org</a></p>
+<p><strong>Jacqui Lipson</strong><br />
+Widmeyer Communications<br />
+212.260.3401<br />
+<a href="mailto:jacqui.lipson@widmeyer.com">jacqui.lipson@widmeyer.com</a><br />
+<a href="http://www.sesameworkshop.org/news/pressroom/divorce.html">www.sesameworkshop.org/news/pressroom/divorce.html</a></p>
+<p><strong>Visit <em>Sesame Street</em> at: </strong><a title="blocked::http://www.sesamestreet.org/" href="http://www.sesamestreet.org/"><br />
+<strong>www.sesamestreet.org</strong></a><a title="blocked::http://www.facebook.com/SesameStreet" href="http://www.facebook.com/SesameStreet"><br />
+<strong><em>Sesame Street</em></strong><strong> on Facebook</strong></a>  <a title="blocked::http://twitter.com/sesamestreet" href="http://twitter.com/sesamestreet"><br />
+<strong><em>Sesame Street</em></strong><strong> on Twitter</strong></a><a title="blocked::http://www.youtube.com/user/SesameStreet" href="http://www.youtube.com/user/SesameStreet"><br />
+<strong>The <em>Sesame Street</em> YouTube Channel</strong></a></p>
+<p><strong>Learn more about <em>Sesame Street’s</em> Military Family Initiative:</strong>             <a href="http://www.facebook.com/SesameStreetForMilitaryFamilies"><br />
+<strong>Sesame Street for Military Families on Facebook</strong></a></p>
+<div><sup><sup>[1]</sup></sup>  National Institute of Mental Health (2002). Preventative sessions after divorce help protect children into teens [Press release]. Retrieved from <a href="http://www.nimh.nih.gov/science-news/2002/preventive-sessions-after-divorce-protect-children-into-teens.shtml">http://www.nimh.nih.gov/science-news/2002/preventive-sessions-after-divorce-protect-children-into-teens.shtml</a></div>
+<p><a class="pdf" href="https://s3.amazonaws.com/SesameDomestic/divorce/docs/Divorce+12-11-12.docx">Press Release</a></p>
+					
+	
+											
+			
+			</div>
+			<div class="divider">divider</div>				
+			
+							<a href="#" class="panelLink arrow">tip sheet</a>
+								<div class="slidingPanel">
+									<h2>Parent and Caregiver Tips</h2>
+<p>Sesame Street presents <em>Little Children, Big Challenges: Divorce</em>, an educational outreach initiative geared towards families with children 2 to 8 years-old who are coping with their parents’ divorce or separation. Our resources provide talking points and tools to help families cope with this transition and move forward.</p>
+<h3>Talk with your children</h3>
+<ul class="bulletList circle">
+<li>Before talking with your children, give yourself time to process your own emotions. Keep in mind that there are certain things your children should know and others that should be avoided. Though you may have negative feelings toward your ex-spouse, it’s important not to express these to your children.</li>
+<li>Let your child know that it’s okay to ask questions.</li>
+<li>You don’t have to know the answers to all questions right away. Explain that you are going to think about your child’s question and provide an answer as soon as you can.</li>
+<li>When addressing your child, take time to listen and not pass judgment. Be patient, understanding, and reassuring. Let her know it is okay to express her feelings.</li>
+</ul>
+<h3>Reassure your child</h3>
+<ul class="bulletList circle">
+<li>Assure your children that a divorce happens because of grown-up problems, and they did nothing to cause it. The divorce is not their fault.</li>
+<li>Remind them that even though some things are changing, certain routines will stay the same. Let them know some of the daily things they will continue to do.</li>
+</ul>
+<h3>Help your child cope with big feelings</h3>
+<ul class="bulletList circle">
+<li>Let your children know it’s okay to have big feelings about the divorce, and that these feelings may come and go.</li>
+<li>Help your children to name their feelings. You might say, “I see that you’re frowning. Are you feeling upset right now?”</li>
+</ul>
+<h3>Reach out</h3>
+<ul class="bulletList circle">
+<li>Inform your children’s teachers and school counselor about what is going on. Ask them to share their observations about your children. Find out what special support they may be able to offer.</li>
+<li>If your children are experiencing challenging feelings and behavior that persists, consider reaching out to a mental health professional for help.</li>
+</ul>
+<h3>If your loved one is going through a divorce</h3>
+<ul class="bulletList circle">
+<li>Help your loved one create a list of people she can reach out to. Assure her that she is not alone.</li>
+<li>Offer to spend fun quality time with the child by going out, reading books, or drawing. This can help remind him that it’s OK to feel happy even when hard things happen.</li>
+</ul>
+<p><a class="pdf" href="https://s3.amazonaws.com/SesameDomestic/divorce/docs/US00123_DIVTIP_12.6.12.pdf">Tip Sheet</a></p>
+					
+	
+											
+			
+			</div>
+			<div class="divider">divider</div>				
+			
+							<a href="#" class="panelLink arrow">video</a>
+								<div class="slidingPanel">
+														 	<ul class="callouts list224 extend">
+											<li>
+						<a href="http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/videopop.php?p=2232" class="openModal">
+						<img src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/DivorceQandA_thumb.jpg">
+						<span class="title">Divorce Q&A</span>
+						<span class="iconPlay">play video</span>
+						</a>
+
+						<a class="download" target="_blank" href="https://s3.amazonaws.com/SesameDomestic/divorce/videos/Divorce+Q%26A+-+Final.mov" class="download">download</a>
+							
+						<div class="caption">A Q&A on divorce with Abby Cadabby and Rocio Galarza. <em>Little Children, Big Challenges: Divorce</em> is a multimedia initiative designed to aid families in expressing their feelings surrounding divorce, and provides tools and language for young children to cope with, and understand divorce.</div>
+						</a>
+						
+						</li>
+											<li>
+						<a href="http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/videopop.php?p=2233" class="openModal">
+						<img src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/lcbcdivorce_thumb.jpg">
+						<span class="title">Little Children, Big Challenges sizzle</span>
+						<span class="iconPlay">play video</span>
+						</a>
+
+						<a class="download" target="_blank" href="https://s3.amazonaws.com/SesameDomestic/divorce/videos/Little+Children%2C+Big+Challenges+Divorce+Sizzle+Reel.mov" class="download">download</a>
+							
+						<div class="caption">A highlight video from Sesame Street’s outreach initiative, <em>Little Children, Big Challenge: Divorce</em>. This multimedia initiative aids families in expressing their feelings surrounding divorce, and provides tools and language for young children to cope with, and understand divorce.</div>
+						</a>
+						
+						</li>
+											<li>
+						<a href="http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/videopop.php?p=2134" class="openModal">
+						<img src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/01/Whatweareanthem.jpeg">
+						<span class="title">What We Are Anthem</span>
+						<span class="iconPlay">play video</span>
+						</a>
+
+						<a class="download" target="_blank" href="https://s3.amazonaws.com/SesameDomestic/divorce/videos/What+We+Are.mov" class="download">download</a>
+							
+						<div class="caption">Anthem for Sesame Street’s outreach initiative <em>Little Children, Big Challenges.</em> This bilingual, multimedia initiative is for military, veteran, and general public families with young children, to help increase self-awareness, boost self-esteem, and help children persevere through changes.</div>
+						</a>
+						
+						</li>
+											</ul>
+					
+											
+			
+			</div>
+			<div class="divider">divider</div>				
+			
+							<a href="#" class="panelLink arrow">artwork</a>
+								<div class="slidingPanel">
+														 	<ul class="callouts list224 extend">
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Abby+drawing+pictures+of+her+two+homes-Termine.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce1.jpg" class="attachment-pressroom-thumb" alt="Abby draws her two homes" />						
+													<span class="title">Abby drawing pictures of her two homes- Termine</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Abbydrawingpicturesofhertwo.jpg&amp;description=Abby drawing pictures of her two homes- Termine"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Abby drawing pictures of her two homes- Termine http://bit.ly/15Wg7Ax
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Abby%27s+drawing+of+dad%27s+home-Sesame+Workshop.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce2.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 2" />						
+													<span class="title">Abby’s drawing of dad’s home- Sesame Workshop</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Abbysdrawingofdadshome.jpg&amp;description=Abby’s drawing of dad’s home- Sesame Workshop"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Abby’s drawing of dad’s home- Sesame Workshop http://bit.ly/WRKyaS
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Abby%27s+drawing+of+mom%27s+home-Sesame+Workshop.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce3.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 3" />						
+													<span class="title">Abby’s drawing of mom’s home- Sesame Workshop</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Abbysdrawingofmomshome.jpg&amp;description=Abby’s drawing of mom’s home- Sesame Workshop"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Abby’s drawing of mom’s home- Sesame Workshop http://bit.ly/15Wg9IR
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Blended+family+playing-Vaknin.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce4.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 4" />						
+													<span class="title">Blended family playing- Vaknin</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Blendedfamilyplaying.jpg&amp;description=Blended family playing- Vaknin"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Blended family playing- Vaknin http://bit.ly/WRKyaT
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/blended+family+together-Vaknin.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce5.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 5" />						
+													<span class="title">Blended family together- Vaknin</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/blendedfamilytogether.jpg&amp;description=Blended family together- Vaknin"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Blended family together- Vaknin http://bit.ly/WH7hAf
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Abby+draws+her+two+homes-Termine.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce6.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 6" />						
+													<span class="title">Abby draws her two homes- Termine</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Abbydrawshertwohomes.jpg&amp;description=Abby draws her two homes- Termine"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Abby draws her two homes- Termine http://bit.ly/VtJaKb
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Stepsisters+laugh+together-Vaknin.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce7.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 7" />						
+													<span class="title">Stepsisters laugh together- Vaknin</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Stepsisterslaughtogether.jpg&amp;description=Stepsisters laugh together- Vaknin"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Stepsisters laugh together- Vaknin http://bit.ly/WH7GTn
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Gordon+and+Muppets+talk+about+divorce-+Termine.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce8.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 8" />						
+													<span class="title">Gordon and Muppets talk about divorce- Termine</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/GordonandMuppetstalkaboutdi.jpg&amp;description=Gordon and Muppets talk about divorce- Termine"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Gordon and Muppets talk about divorce- Termine http://bit.ly/SJVQbn
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Rosita%27s+home-Sesame+Workshop.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce9.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 9" />						
+													<span class="title">Rosita's home- Sesame Workshop</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Rositashome.jpg&amp;description=Rosita's home- Sesame Workshop"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Rosita's home- Sesame Workshop http://bit.ly/VtJXuD
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Abby+and+Gordon+talk+about+feelings-Termine.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce10.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 10" />						
+													<span class="title">Abby and Gordon talk about feelings- Termine</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/AbbyandGordontalkaboutfeeli.jpg&amp;description=Abby and Gordon talk about feelings- Termine"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Abby and Gordon talk about feelings- Termine http://bit.ly/Rzn47E
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Children+video+chat+with+dad-Gutierrez.JPG">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce11.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 11" />						
+													<span class="title">Children video chat with dad- Gutierrez</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Childrenvideochatwithdad.JPG&amp;description=Children video chat with dad- Gutierrez"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Children video chat with dad- Gutierrez http://bit.ly/R4RaQz
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Family+drawing+pictures-Gutierrez.JPG">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce12.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 12" />						
+													<span class="title">Family drawing pictures- Gutierrez</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Familydrawingpictures.JPG&amp;description=Family drawing pictures- Gutierrez"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Family drawing pictures- Gutierrez http://bit.ly/VipxPn
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Boy+drawing-Termine.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce13.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 13" />						
+													<span class="title">Boy drawing- Termine</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Boydrawing.jpg&amp;description=Boy drawing- Termine"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Boy drawing- Termine http://bit.ly/VxnFEl
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Little+Children%2C+Big+Challenges+Divorce+Kit+Cover-+Sesame+Workshop.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce14.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 14" />						
+													<span class="title">Little Children, Big Challenges Divorce Kit Cover- Sesame Workshop</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/LCBCdivorcecover.jpg&amp;description=Little Children, Big Challenges Divorce Kit Cover- Sesame Workshop"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Little Children, Big Challenges Divorce Kit Cover- Sesame Workshop http://bit.ly/THcTKb
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Abby+and+her+two+homes-Sesame+Workshop.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce15.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 15" />						
+													<span class="title">Abby and her two homes-Sesame Workshop</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Abbyandhertwohomes.jpg&amp;description=Abby and her two homes-Sesame Workshop"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Abby and her two homes-Sesame Workshop http://bit.ly/R51l7K
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Little+Children%2C+Big+Challenges+Divorce+logo-Sesame+Workshop.png">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce16.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 16" />						
+													<span class="title">Little Children, Big Challenges Divorce logo-Sesame Workshop</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/LCBCdivorcelogo.jpg&amp;description=Little Children, Big Challenges Divorce logo-Sesame Workshop"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Little Children, Big Challenges Divorce logo-Sesame Workshop http://bit.ly/Vk0Th0
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Grover+learns+about+divorce+-Sesame+Workshop.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce17.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 17" />						
+													<span class="title">Grover learns about divorce -Sesame Workshop</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Groverlearnsaboutdivorce.jpg&amp;description=Grover learns about divorce -Sesame Workshop"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Grover learns about divorce -Sesame Workshop http://bit.ly/11yHPlN
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											<li>
+						<a href="https://s3.amazonaws.com/SesameDomestic/divorce/artwork/Grover+and+young+girl-+Sesame+Workshop.jpg">
+						<img width="224" height="152" src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/03/divorce18.jpg" class="attachment-pressroom-thumb" alt="LCBC Divorce 18" />						
+													<span class="title">Grover and young girl- Sesame Workshop</span>
+						
+						<span class="download">download</span>
+						</a><br />
+						
+						
+												<a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pin/create/button/?url=http://www.sesameworkshop.org/press-room/divorce/&amp;media=https://s3.amazonaws.com/SesameDomestic/divorce/artwork/toshare/Groverandyounggirl.jpg&amp;description=Grover and young girl- Sesame Workshop"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+						<a class="twitter-share-button" data-count="none" data-text="Grover and young girl- Sesame Workshop http://bit.ly/SE5D47
+" data-via="sesameworkshop" href="https://twitter.com/share">Tweet</a>
+												
+						
+						</li>
+											</ul>
+					
+											
+			
+			</div>
+			<div class="divider">divider</div>				
+			
+							<a href="#" class="panelLink arrow">experts</a>
+								<div class="slidingPanel">
+									<p><strong>ROBERT HUGHES Jr</strong>., Ph.D., is Professor and Head of the Department of Human and Community Development at the University of Illinois at Urbana-Champaign. For the past 30 years, Bob has been interested in helping families deal with stress and change due to divorce, remarriage, and economic hardship. He has developed prevention programs for families in a variety of both rural and urban communities, worked in a psychiatric hospital, taught many families and human-service providers and published articles related to family issues. A major emphasis of his work in recent years has been the design of Internet-based family-life prevention programs. Bob received his doctorate in child and family psychology at The University of Texas at Austin. He has also served on the faculty at The Ohio State University and the University of Missouri.</p>
+<p><strong>ERMA LAWSON</strong>, Ph.D., R.N., earned her doctoral degree in Medical Sociology from the University of Kentucky, Lexington, KY, and an, R.N. from Howard University.  Her research has explored the relationship between family structure and ill-health among African Americans. Erma has spent two years in Zimbabwe, Africa, and has published in major scholarly journals. She is the first author of <em>Black Men and Divorce,</em> Sage Publications. She is currently exploring the way in which African Americans socialize children for fatherhood and motherhood roles.</p>
+<p><strong>JOANNE PEDRO-CARROLL</strong>, Ph.D., is an internationally renowned clinical psychologist, researcher, therapist, author, and speaker with a passion for fostering resilience and helping children and families survive and thrive in the wake of stressful life changes. Her book <em>Putting Children First: Proven Parenting Strategies for Helping Children Thrive Through Divorce</em> has been named winner of a NAPPA Gold Award from National Parenting Publications and Mom’s Choice Award. Dr. Pedro-Carroll has addressed members of Congress and the White House staff at briefings as an invited expert on parenting and divorce. She has served on numerous advisory boards in the U.S. and abroad and regularly consults with universities, schools, courts, and health agencies on matters relating to divorce, child mental health, resilience, and parenting. From 1984 to 2008, she held faculty positions in psychology and psychiatry at the University of Rochester and was a Senior Researcher at the Children’s Institute in Rochester, NY. In 1998, in collaboration with N.Y.S. Supreme Court Justice Evelyn Frazee, she co-founded A.C.T.—For the Children (Assisting Children through Transition), a court-endorsed parent-education program which serves as a model for programs throughout the state. She also founded and developed the Children of Divorce Intervention Program (CODIP), a prevention program that has been widely disseminated internationally. Dr. Pedro-Carroll earned her Ph.D. and M.A. degrees in clinical psychology from the University of Rochester, and M.Ed. and B.S. from University of Cincinnati.</p>
+<p><strong>PAMELA THOMPSON</strong>, Psy.D., a psychologist and professional life coach, has provided varied mental-health services for adult males and females, married and pre-marital couples, and adolescent females since 1996. Her desire is to make psychology user-friendly and approachable as she works to debunk the myth that psychology is just for “crazy people.” In so doing, she is a member of the network of providers associated with the nationally syndicated radio show “New Life Live.” Additionally, she acted as an on-line columnist in 2008 for Divorce360.com, a Web site dedicated to helping those contemplating, going through, or adjusting to divorce. She has has provided clinical services to several prisons throughout Georgia, most notably to Metro State Prison for women in Atlanta. Based on her experiences at the prison, she co-authored a chapter on “Mood Disorders in Incarcerated Women” in a textbook entitled <em>Health Issues Among Incarcerated Women</em>. Her first book, <em>Surviving Mama: Overcoming Strained Mother-Daughter Relationships</em>, is in press and is expected to release in spring 2011. Pamela received her B.A. in journalism from the University of Georgia and her M.A. and Psy.D. in clinical psychology from the Georgia School of Professional Psychology. She has been licensed as a psychologist since 2002 and has owned her private practice, Building Bridges to Better Lives, since 2004.</p>
+					
+	
+											
+			
+			</div>
+			<div class="divider">divider</div>				
+			
+							<a href="#" class="panelLink arrow">funders</a>
+								<div class="slidingPanel">
+														<div class="clearfix marginbottom">
+						<div class="col224_alt">
+															<img src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/02/baesystems.jpeg">
+													</div>
+						<div class="floatR col484">
+							<h3>Bae Systems, Inc.</h3>
+							<p>BAE Systems is a global defense, aerospace and security company with approximately 93,500 employees worldwide. The Company delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support and services. In 2011, BAE Systems reported sales of £19.2B (US $30.7B).</p>
+														<a href="https://s3.amazonaws.com/resiliencykit/Documents/BAE+SystemsInc-only051512docx.docx" class="pdf boldlink">
+								More About Bae Systems</a>
+													</div>
+					</div>
+										<div class="clearfix marginbottom">
+						<div class="col224_alt">
+															<img src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/02/Prudential.jpeg">
+													</div>
+						<div class="floatR col484">
+							<h3>Prudential</h3>
+							<p>Each year, The Prudential Foundation invests approximately $25 million in grants in efforts that support the revitalization of communities and support Prudential employees' community engagement efforts.</p>
+														<a href="https://s3.amazonaws.com/resiliencykit/Documents/THE+PRUDENTIAL+FOUNDATION2.docx" class="pdf boldlink">
+								More About Prudential</a>
+													</div>
+					</div>
+										<div class="clearfix marginbottom">
+						<div class="col224_alt">
+															<img src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/02/RobertMccormick.jpeg">
+													</div>
+						<div class="floatR col484">
+							<h3>The Robert McCormick Foundation</h3>
+							<p>The Robert R. McCormick Foundation is committed to fostering communities of educated, informed and engaged citizens. Through philanthropic programs, Cantigny Park and museums, the Foundation helps develop citizen leaders and works to make life better in our communities. The Foundation was established as a charitable trust in 1955, upon the death of Colonel Robert R. McCormick, the longtime editor and publisher of the Chicago Tribune. The Robert R. McCormick Foundation is one of the nation's largest foundations, with more than $1 billion in assets. For more information, please visit www.McCormickFoundation.org.</p>
+														<a href="https://s3.amazonaws.com/resiliencykit/Documents/McCormick+Fdn+overview.docx" class="pdf boldlink">
+								More About The Robert McCormick Foundation</a>
+													</div>
+					</div>
+										<div class="clearfix marginbottom">
+						<div class="col224_alt">
+															<img src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/02/USO.jpeg">
+													</div>
+						<div class="floatR col484">
+							<h3>USO</h3>
+							<p>The USO (United Service Organizations) lifts the spirits of America’s troops and their families millions of times each year at hundreds of places worldwide. We provide a touch of home through centers at airports and military bases in the U.S. and abroad, top quality entertainment and innovative programs and services. We also provide critical support to those who need us most, including forward-deployed troops, military families, wounded warriors and their families and the families of the fallen. The USO is a private, nonprofit organization, not a government agency. We rely on the generosity of our volunteers and donors.</p>
+														<a href="https://s3.amazonaws.com/resiliencykit/Documents/About+the+USO.docx" class="pdf boldlink">
+								More About the USO</a>
+													</div>
+					</div>
+										<div class="clearfix marginbottom">
+						<div class="col224_alt">
+															<img src="http://www.sesameworkshop.org/wp_install/wp-content/uploads/2013/02/Military-Child-Education-Coalition.jpeg">
+													</div>
+						<div class="floatR col484">
+							<h3>Military Child Education Coalition</h3>
+							<p>When the Military Child Education Coalition was first established in 1998, the founding members set out to help military-connected children meet the challenges that frequent transitions pose during their educational years. As the years have passed, the Military Child Education Coalition has grown in its mission to ensure quality educational opportunities for all military-connected children affected by mobility, family separation, and transition.</p>
+														<a href="https://s3.amazonaws.com/resiliencykit/Documents/MCEConepage-February+2012+A.PDF" class="pdf boldlink">
+								More About the Child Education Coalition</a>
+													</div>
+					</div>
+										
+					
+					
+	
+										
+			
+			</div>
+			<div class="divider">divider</div>				
+			
+							<a href="#" class="panelLink arrow">contact and connect</a>
+								<div class="slidingPanel">
+									<p>Pam Hacker<br />
+Sesame Workshop<br />
+212.875.6225<br />
+<a href="mailto:pam.hacker@sesame.org">pam.hacker@sesame.org</a></p>
+<h2>On Facebook</h2>
+<div class="fb-like-box" data-header="false" data-height="300" data-href="http://www.facebook.com/SesameStreet" data-show-faces="false" data-stream="true" data-width="350"></div>
+<div class="fb-like-box" data-header="false" data-height="300" data-href="http://www.facebook.com/SesameStreetForMilitaryFamilies" data-show-faces="false" data-stream="true" data-width="350"></div>
+<p>&nbsp;</p>
+<h2>On Twitter</h2>
+<blockquote class="twitter-tweet"><p>From our blog: Sesame Street Thanks Veterans with a Special Painting <a title="http://bit.ly/RN7inx" href="http://t.co/lA5nrhss">bit.ly/RN7inx</a></p>
+<p>— Sesame Workshop (@SesameWorkshop) <a href="https://twitter.com/SesameWorkshop/status/267651473536593921" data-datetime="2012-11-11T15:34:18+00:00">November 11, 2012</a></p></blockquote>
+<p>&nbsp;</p>
+<h2>On Tumblr</h2>
+<div style="height: 100%; color: #333; max-width: 450px; border: 1px solid #ddd; padding-top: 20px; -webkit-box-shadow: 2px 2px 3px 3px rgba(200, 200, 200, .7); box-shadow: 2px 2px 3px 3px rgba(200, 200, 200, .7);"><script type="text/javascript" src="http://sesamestreet.tumblr.com/js?num=1"></script></p>
+<h4><a href="http://sesamestreet.tumblr.com/">Follow on Tumblr</a></h4>
+<p>&nbsp;</p>
+</div>
+					
+	
+											
+			
+			</div>
+			<div class="divider">divider</div>				
+			
+						
+			
+				
+	
+		
+			
+	</div>
+	<div class="col224">
+			<h6 class="dividerline">learn more</h6>
+			<ul class="bulletList">
+							<li class="external">
+					<a href="http://www.sesamestreet.org/divorce">
+					Little Children, Big Challenges Divorce toolkit</a>
+				</li>
+						</ul>
+			</div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+				
+<div id="footer" class="footer-short">
+    <div class="inner">
+        <form id="signUpForm" method="post" action="http://www.sesameworkshop.org/subscribe">
+        <fieldset id="signUp">
+            <div class="customInput"><input type="text" title="sign up for emails!" name="email" value="sign up for emails!"></div>
+            <button type="submit" class="gform_button">Submit</button>
+        </fieldset><!-- End #signUp -->
+                </form>
+
+        <div id="social">
+            <a href="http://www.facebook.com/SesameWorkshop" id="facebook" rel="external">Facebook</a>
+            <a href="http://twitter.com/sesameworkshop" id="twitter" rel="external">Twitter</a>
+        </div><!-- End #social -->
+
+        <ul class="navUtility">
+            <li><a href="http://www.sesameworkshop.org/faqs">faqs</a></li>
+            <li><a href="http://www.sesameworkshop.org/employment">employment</a></li>
+            <li><a href="http://www.sesameworkshop.org/site-map">site map</a></li>
+            <li><a href="http://www.sesameworkshop.org/terms-of-use">terms of use</a></li>
+            <li><a href="http://www.sesameworkshop.org/privacy-policy">privacy policy</a></li>
+            <li><a href="http://www.sesameworkshop.org/credits">credits</a></li>
+        </ul><!-- End .navUtility -->
+    </div><!-- End .inner -->
+
+    <div class="divider">divider</div>
+
+    <div class="inner">
+        <div id="associated">
+            <span class="label">part of the<br>Sesame Workshop Family</span>
+            <a href="http://pbskids.org/electriccompany/" target="_blank">
+                <img src="http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/img/global/logo-electric-company.png" width="92" height="60" alt="">
+            </a>
+            <a href="http://www.joanganzcooneycenter.org/" target="_blank">
+                <img src="http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/img/global/logo-joan-ganz.png" width="138" height="60" alt="">
+            </a>
+        </div><!-- End #associated -->
+
+        <div id="adBlock">
+            <iframe id='aebc1e1a' name='aebc1e1a' src='http://ads.sesameworkshop.org/openx/www/delivery/afr.php?zoneid=48&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='468' height='60'><a href='http://ads.sesameworkshop.org/openx/www/delivery/ck.php?n=a0c8a569&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.sesameworkshop.org/openx/www/delivery/avw.php?zoneid=48&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0c8a569' border='0' alt='' /></a></iframe>       </div><!-- End #adBlock -->
+    </div><!-- End .inner -->
+</div>
+
+<script async="" src="http://b.scorecardresearch.com/beacon.js"></script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6765265" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6765265&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<script type='text/javascript' src='http://www.sesameworkshop.org/wp_install/wp-content/themes/sworg/js/global.min-ck.js?ver=3.6.1'></script>
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 3.296 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2013-09-30 13:25:48 -->
+
+<!-- super cache -->

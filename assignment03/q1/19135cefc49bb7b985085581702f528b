@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>UNODA - Secretary General's Mechanism for Investigation of Alleged Use of Chemical and Biological Weapons</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="styles/favicon.ico" rel="Shortcut Icon" title="UNODA" id="FavIcon" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+
+<link href="/disarmament/css/styles.css?version=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/disarmament/Scripts/unoda.js?version=3"></script>
+
+<link rel="alternate" type="application/rss+xml" title="UNODA Spotlight" href="http://www.un.org/disarmament/content/spotlight/rss/spotlight_feed.xml"/>
+
+
+
+<!--[if lt IE 8]>
+       <style>
+			#feature {
+            	padding-top:0;
+                margin-left:0;
+            }
+            
+            .blue_line {
+            	width: 790px;
+            }
+       </style>
+<![endif]-->
+
+
+
+<script>
+	
+	$(document).ready(function() {
+		window.setTimeout("_U.resizeBySelector('.col')",2000);		
+	}); 
+
+</script>
+
+
+
+<link href="/disarmament/css/styles-three-column.css?version=1" rel="stylesheet" type="text/css" />
+
+<!--style type="text/css">
+		#display {
+			margin-top:5px;
+		}
+		#main {
+			padding-left:12px;	
+		}
+		
+		#content h2 {
+			margin-top:30px;	
+		}
+	</style -->
+    
+        
+    <!--[if lt IE 8]>
+       <style>
+ 		#display {
+			margin-top:0px;	
+		}      
+       </style>
+    <![endif]-->
+</head>
+
+
+<body>
+<nav>
+<div id="skiplink"> 
+    <a href="#navigation">Skip to left navigation</a> 
+    <a href="#text">Skip to content</a>
+    <a href="#rightnav">Skip to right column</a> 
+</div>
+</nav>
+
+
+<div id="page">
+<nav>
+<div id="skiplink"> 
+    <a href="#navigation">Skip to left navigation</a> 
+    <a href="#text">Skip to content</a>
+    <a href="#rightnav">Skip to right column</a> 
+</div>
+</nav>
+
+    <div id="top" class="shadow">
+        <!--style type="text/css">
+	#searchbox {
+		width: 171px;
+		text-align:right; 
+		background: white; 
+		border:1px solid #cccccc;
+		padding:2px;
+	}
+</style-->
+
+<form action="http://www.google.com/cse" id="cse-search-box" style="display:none">
+  <div id="searchbox" class="shadow">
+    <input type="hidden" name="cx" value="017879155571300835259:szhio91zphq" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input id="gsearch_q" type="text" name="q" style="width:100px"/>
+    <input type="submit" name="sa" value="Search" style="font-size:10px;"/>
+  </div>
+</form>
+<!--script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en"></script-->
+
+
+
+<script language="javascript">
+	 function doSearch(unodaSearch){
+	//	sitesearch = document.getElementById("sitesearch");
+		if (unodaSearch){
+		//	sitesearch.value = "inurl:un.org/disarmament";
+			document.getElementById("gsearch_q").value = document.getElementById("search").value;
+			document.getElementById("cse-search-box").submit();
+		} else {
+		//	sitesearch.value = "";
+			document.getElementById("searchfrm").submit();
+		}
+		
+	 }
+</script>
+
+<div id="searchbar">
+	<div class="welcom" style="float:left;">
+    <img src="http://www.un.org/en/images/unicon.jpg" height="18" width="21" alt="" class="unicon" style="float:left;" align="absmiddle"/>
+    </div>
+    <div class="welcom" style="float:left; padding-top:3px; padding-left:5px;">
+    <a href="/en/">Welcome to the United Nations. It's your world.</a>
+    </div>
+    
+      <form id="searchfrm" name="gs" method="get" action="http://search.un.org/search" >
+        <input type="hidden" name="ie" value="utf8" />
+        <input type="hidden" name="site" value="un_org" />
+        <input type="hidden" name="output" value="xml_no_dtd" />
+        <input type="hidden" name="client" value="UN_Website_English" />
+        <input type="hidden" name="num" value="10" />
+        <input name="lr" type="hidden" value="lang_en" />
+        <input type="hidden" name="proxystylesheet" id="proxystylesheet" value="UN_Website_en" />
+        <input type="hidden" name="oe" value="utf8" />
+        <label for="search"></label>
+        <input class="textbox" type="text" name="q" id="search" size="22"  />
+        <input type="hidden" name="as_oq" id="sitesearch"/>
+        <input class="button" type="button" name="SubmitUNODA" value="Search UNODA" onclick="return doSearch(true)"/>
+        <input class="button" type="button" name="SubmitUN" value="Search All UN" onclick="return doSearch(false)"/>
+     </form>
+</div>
+        
+  <div id="lang">
+    <ul>
+      <li lang="ar" id="arabic"><a href="/ar/disarmament">عربي</a></li>
+      <li lang="zh-cn" id="chinese"><a href="/chinese/peace/disarmament/dda.htm">&#20013;&#25991;</a></li>
+      <li lang="en" id="english"><a href="?lang=en">English</a></li>
+      <li lang="fr" id="french"><a href="?lang=fr">Fran&ccedil;ais</a></li>
+      <li lang="ru" id="russian"><a href="/ru/peace/disarmament/oda.shtml">Русский</a></li>
+      <li lang="es" id="spanish"><a href="/disarmament/HomePage/Spanish-under-construction.shtml">Espa&ntilde;ol</a></li>
+    </ul>
+  </div>
+
+
+<!--[if IE 8]>
+
+<script>
+/*
+The chinese characters in the language bar do not render correctly in IE 8 
+This is a hack to replace them with an image of the chacters
+*/
+
+	$(document).ready(function() {
+		$("li#chinese a").html("<img src='/disarmament/images/chinese.png' align='middle'/>"); 		
+	}); 
+</script>
+<![endif]-->	
+          <div id="banner">
+  	<a href="/disarmament">
+  		<img src="/disarmament/images/banner940.jpg" 
+        	alt="UN Office of Disarmament Affairs - Strengthening peace and security through disarmament" 
+            width="100%" id="logo" border="0"
+            style="display:block;" />
+  	</a> 
+  </div>
+
+        <a name="navigation"></a>
+        
+<script type="text/javascript" src="/disarmament/includes/js/topmenu.js?version=2"></script>
+
+       <style>
+        
+        .topMenuItem {
+			font-family: Verdana, Arial, Arial Unicode MS, Tahoma, Helvetica, Geneva, sans-serif;
+			font-size:12px;
+			padding-left:5px; 
+			padding-right:5px;
+         }
+  
+  		.topMenuItem a:link, .topMenuItem a:active, .topMenuItem a:visited{
+			color:white;
+			text-decoration:none;
+		}
+ 
+   		.topMenuPopup a:link, .topMenuItem a:active, .topMenuItem a:visited{
+			color:#24387D;
+		}
+ 
+    	.topMenuPopup a:hover{
+			color:#24387D;
+			text-decoration:underline;
+		}
+  
+        #topMenuItemWMD {
+			width:220px;
+        }
+		
+		#topMenuItemConventional {
+			width:148px;
+        }
+
+		#topMenuItemRegional {
+			width:176px;
+        }
+  
+  		#topMenuItemConfidence {
+			width:154px;
+        }
+    	
+		#topMenuItemOther {
+			width:202px;
+        }      
+        
+		.topMenuPopup ul {
+        	font-size:12px;
+		}
+
+        #topMenuConventional.topMenuPopup {
+       		margin-left:-240px;
+            width:900px;
+        }
+ 
+        #topMenuRegional.topMenuPopup {
+        	margin-left:-395px;
+        }
+
+        #topMenuConfidence.topMenuPopup {
+        	margin-left:-582px;
+        }
+
+        #topMenuOther.topMenuPopup {
+        	margin-left:-745px;
+        }
+
+        #topMenuRegional.topMenuPopup ul.rightList{
+        	margin-right:0px;
+        }
+        
+        #topMenuCollapse {
+        }
+        </style>
+
+
+<!--[if lt IE 8]>
+
+        <style>
+        
+        .topMenuItem {
+            width:300px;
+         }
+        
+        #topMenuWMD.topMenuPopup {
+        }
+
+
+
+        #topMenuRegional.topMenuPopup ul.rightList{
+        	margin-right:0px;
+        }
+        
+        #topMenuCollapse {
+        }
+        </style>
+
+        <noscript>
+        	<style>
+                #topMenuConventional.topMenuPopup {
+                    margin-left:-5px;
+                }
+         
+                #topMenuRegional.topMenuPopup {
+                    margin-left:-5px;
+                } 
+         	</style>      
+        </noscript>
+        
+<![endif]-->
+
+<noscript>
+	<style>
+		.topMenuPopup{ 
+			display: block; 
+		}
+		
+		.topMenuItem{ 
+			clear:both;
+			background:white;
+			color:black;
+		}
+
+  		.topMenuItem a:link, .topMenuItem a:active, .topMenuItem a:visited{
+			color:#24387D;;
+			text-decoration:none;
+		}
+		
+		#topMenuWMD{
+			margin-left:-5px;
+		}
+	
+		#topMenuConventional{
+			margin-left:-5px;
+		}
+	
+		#topMenuRegional{
+			margin-left:-5px;
+		}
+
+		#topMenuConfidence{
+			margin-left:-5px;
+		}
+
+		#topMenuOther{
+			margin-left:-5px;
+		}
+
+		#topMenuWMD.topMenuPopup {
+       		margin-left:-5px;
+        }
+		
+		#topMenuConventional.topMenuPopup {
+       		margin-left:-5px;
+        }
+ 
+        #topMenuRegional.topMenuPopup {
+        	margin-left:-5px;
+        }
+
+        #topMenuConfidence.topMenuPopup {
+        	margin-left:-5px;
+        }
+
+        #topMenuOther.topMenuPopup {
+        	margin-left:-5px;
+        }
+		
+	</style>
+</noscript>
+
+<script language="javascript">
+
+	$(document).ready(function() {
+		_U.resizeBySelector(".pointer");
+		_U.resizeBySelector(".topMenuPopup");		
+	}); 
+
+</script>
+
+<div class="topMenu" onmouseover="_M.hoverMode=true" onmouseout="_M.endHover();">
+    <div class="topMenuItem" id="topMenuItemWMD" >
+    	<a id="topMenuLinkWMD" href="javascript:void(0);" onclick="_M.toggle('WMD');" onmouseover="_M.startHover('WMD');">
+        <div class="pointer" style="width:100%">Weapons of Mass Destruction</div></a>
+        <div class="topMenuPopup" id="topMenuWMD">
+            <ul class="leftList">
+              <li><a href="/disarmament/WMD/Nuclear">Nuclear</a></li>
+              <li><a href="/disarmament/WMD/Bio">Biological</a></li>
+              <li><a href="/disarmament/WMD/Chemical">Chemical</a></li>
+              <li><a href="/disarmament/WMD/Missiles">Missiles</a></li>
+            </ul>
+            <ul class="rightList" style="padding-left:100px">
+              <li><a href="/disarmament/WMD/1540">Security Council Resolution 1540</a></li>
+              <li><a href="/disarmament/WMD/Secretary-General_Mechanism">Chemical and Biological Weapons Use Investigations</a></li>
+              <li><a href="/disarmament/WMD/SGReport_Terrorism/SG_Report.shtml">Measures to prevent terrorists from acquiring Weapons of Mass Destruction</a></li>
+            </ul>
+        </div>  
+    </div>
+    <div class="topMenuItem" id="topMenuItemConventional">
+    	<a  id="topMenuLinkConventional" href="javascript:void(0);"  onClick="_M.toggle('Conventional');" onmouseover="_M.startHover('Conventional');">
+    	<div class="pointer" style="width:100%">Conventional Arms</div></a>
+        <div class="topMenuPopup" id="topMenuConventional">
+            <ul class="leftList">
+            	<li><a href="/disarmament/convarms/ArmsTrade/">The Arms Trade</a></li>
+              <li><a href="/disarmament/ATT/">Arms Trade Treaty</a></li>
+              <li><a href="/disarmament/convarms/SALW/">Small Arms</a></li>
+             </ul>
+             <ul class="rightList" style="padding-left:100px">
+             <li><a href="/disarmament/convarms/landmines/">Landmines</a></li>
+              <li><a href="/disarmament/convarms/ClusterMunitions/">Cluster Munitions</a></li>
+              <li><a href="/disarmament/convarms/Ammunition/">Ammunition</a></li>
+              
+              <!--li><a href="/disarmament/convarms/CCW/">Certain Conventional Weapons</a></li-->
+            </ul>
+        </div>
+    </div>
+   
+    <div class="topMenuItem" id="topMenuItemRegional">
+    	<a id="topMenuLinkRegional" href="javascript:void(0);" onclick="_M.toggle('Regional');" onmouseover="_M.startHover('Regional');">
+    	<div class="pointer" width="100%">Regional Disarmament</div></a>
+        <div class="topMenuPopup" id="topMenuRegional">
+            <ul class="leftList">
+              <li><a href="/disarmament/disarmsec/about" title="Regional Disarmament Overview">Regional Disarmament Overview</a></li>
+              <li><a href="/disarmament/disarmsec/" title="Disarmament Field Activities">Disarmament Field Activities</a></li>
+              <li><a href="/disarmament/disarmsec/Coop/" title="Inter-Agency Coordination">Inter-Agency Coordination</a> </li>
+              <li><a href="/disarmament/disarmsec/Coop/partnerships.shtml" title="Regional Partnerships">Partnerships</a></li>
+            </ul>
+            <ul class="rightList">
+              <li style="color:#000000; padding-bottom:10px;">UN Regional Centres for Peace and Disarmament:</li>
+              <li style="margin-left:30px"><a href="http://www.unlirec.org/" title="UNLIREC website" target="_blank">UNLIREC - Latin America and the Caribbean</a></li>
+              <li style="margin-left:30px"><a href="http://www.unrec.org/" title="UNREC website" target="_blank">UNREC - Africa </a></li>
+              <li style="margin-left:30px"><a href="http://www.unrcpd.org.np/" title="UNRCPD website" target="_blank">UNRCPD - Asia and the Pacific</a></li>        
+            </ul>
+        </div>
+    </div>
+    
+    <div class="topMenuItem" id="topMenuItemConfidence">
+    	<a id="topMenuLinkConfidence" href="javascript:void(0);" onclick="_M.toggle('Confidence');" onmouseover="_M.startHover('Confidence');">
+    	<div class="pointer" width="100%">Confidence Building</div></a>
+        <div class="topMenuPopup" id="topMenuConfidence">
+            <ul class="leftList">
+              <li><a href="/disarmament/convarms/infoCBM/">Confidence-Building Measures</a></li>
+              <li><a href="/disarmament/convarms/Milex/">Military Spending</a></li>
+              <li><a href="/disarmament/convarms/Register/">Transparency on Arms Transfers (UN Register)</a> </li>
+              <li><a href="/disarmament/convarms/NLDU/">Arms Export Legislation</a> </li>
+            </ul>
+            <ul class="rightList" style="padding-left:100px">
+
+            </ul>
+        </div>
+    </div>
+    
+    <div class="topMenuItem" id="topMenuItemOther">
+    	<a id="topMenuLinkOther" href="javascript:void(0);" onclick="_M.toggle('Other');" onmouseover="_M.startHover('Other');">
+    	<div class="pointer" width="100%">Other Disarmament Issues</div></a>
+        <div class="topMenuPopup" id="topMenuOther">
+            <ul class="leftList">
+                  <li><a href="/disarmament/WMD/Counter_Terrorism/">Counter-Terrorism Strategy</a></li>
+                  <li><a href="/disarmament/topics/education" >Education</a> </li>
+                  <li><a href="/disarmament/topics/environmentalnorms" >Environmental Norms</a> </li>
+                  <li><a href="/disarmament/HomePage/gender/gender.shtml">Gender</a> </li>
+            </ul>
+            <ul class="rightList" style="padding-left:100px">
+            		<li><a href="/disarmament/topics/informationsecurity">Information Security</a></li> 
+            		<li><a href="/disarmament/topics/multilateralism" >Multilateralism</a> </li>
+                    <li><a href="/disarmament/topics/outerspace/">Outer Space</a></li>
+					<li><a href="/disarmament/topics/scienceandtechnology" >Science and Technology</a> </li>
+                    <li><a href="/disarmament/HomePage/SSOD/" >Special Sessions on Disarmament</a> </li>
+            </ul>
+        </div>
+    </div>
+    
+</div>
+
+
+
+
+    </div>
+
+	<div id="main">
+
+        
+        <div id="display" class="shadow col">
+        <div id="sidebar-first" class="col">
+            <div id="leftmenu" class="col">
+                <!-- This is the navigation menu file for the website: server-side include -->
+<style type="text/css">
+	.displayNone {display:none;}
+</style>
+<noscript>
+    <style type="text/css">
+        .displayNone {display:block;}
+    </style>
+</noscript>
+<nav>
+<ul class="nav">
+    <li id="home" style="border-top:0;"><a href="/disarmament/">Home</a></li>
+    <li id="about"><a href="javascript:void(0);" onclick="$('#aboutlinks').toggle('fast');" >About Us... </a> 
+    	<ul id="aboutlinks" class="nav displayNone">
+            <li><a href="/disarmament/HomePage/about_us/aboutus.shtml">Overview</a></li>
+            <li><a href="/disarmament/HomePage/about_us/odavisio.shtml">Vision</a></li>
+            <li><a href="/disarmament/HomePage/about_us/odahighr.shtml">High Representative</a></li>
+            <li><a href="/disarmament/HomePage/about_us/odastructure.shtml">Structure</a></li>
+            <li><a href="/disarmament/HomePage/ODAPublications/Yearbook/2007/PDF/org-chart.pdf" target="_blank">Organigram</a></li>
+            <li><a href="/disarmament/HomePage/about_us/odacontact.shtml">Contacts</a></li>
+        </ul>
+    </li>
+    <li id="issues"><a href="/disarmament/HomePage/Issues" >All Issues </a> </li>
+        
+    <li><span class="cat">Institutions</span>
+          <ul id="instlinks" class="nav">
+           <li><a href="/disarmament/HomePage/GA.shtml" >General Assembly </a></li>
+           <li><a href="/disarmament/HomePage/SC.shtml" >Security Council</a> </li>
+           <li><a href="/disarmament/HomePage/DisarmamentCommission/UNDiscom.shtml" >UN Disarmament Commission </a> </li>
+           <li><a href="http://www.unog.ch/80256EE600585943/(httpPages)/2D415EE45C5FAE07C12571800055232B?OpenDocument" target="_blank">Conference on Disarmament </a> </li>
+           <li><a href="/disarmament/HomePage/AdvisoryBoard/AdvisoryBoard.shtml" >Secretary-General's <br />
+            Advisory Board </a></li>
+           <li><a href="http://www.unidir.org/" target="_blank">UNIDIR</a></li>
+      </ul>
+    </li>
+    <li><span class="cat">UNODA Offices Away from Headquarters</span>
+          <ul id="offlinks" class="nav">
+           <li><a href="http://www.unog.ch/80256EE600585943/%28httpHomepages%29/6A03113D1857348E80256F04006755F6?OpenDocument" target="_blank" >Geneva, Switzerland</a></li>
+           <li><a href="/disarmament/vienna/" >Vienna, Austria</a> </li>
+           <li><a href="http://www.unlirec.org/" target="_blank">Lima, Peru</a> </li>
+           <li><a href="http://www.unrec.org/" target="_blank">Lom&eacute;, Togo</a> </li>
+           <li><a href="http://www.unrcpd.org.np/" target="_blank">Kathmandu, Nepal</a> </li>
+      </ul>
+    </li>    
+    <li><span class="cat">Databases </span> 
+        <ul id="dblinks" class="nav">
+            <li><a href="https://gafc-vote.un.org" title="GA Resolutions and Decisions" target="_blank">GA Resolutions and Decisions </a></li>
+            <!--li><a href="/disarmament/HomePage/treaty/treaties.shtml" >Status and Text of Treaties </a></li-->
+             <li><a href="http://disarmament.un.org/treaties/" >Disarmament Treaties </a></li>
+            <li><a href="/disarmament/convarms/Milex/">Military Expenditures Database</a></li>
+            <li><a href="http://www.un-register.org/HeavyWeapons/Index.aspx" target="_blank">The Global Reported Arms Trade</a></li>
+            <li><a href="/disarmament/HomePage/library.shtml" >UNODA Documents Library</a></li>
+        </ul>
+    </li>
+    <li><span class="cat">Resources</span>
+        <ul id="rezlinks" class="nav">
+            <li><a href="/disarmament/HomePage/ODAPublications/" >UNODA Publications </a> </li>
+            <li><a href="/disarmament/HomePage/ODAPublications/ODAUpdate/" >UNODA Update</a> </li>	  
+            <li><a href="/disarmament/HomePage/calendar/" title="UNODA Events Calendar" >UNODA Calendar</a></li>
+            <li><a href="/disarmament/education/" target="_blank">Disarmament Education</a></li>
+            <li><a href="/disarmament/factsheets/">Fact Sheets</a></li>
+            <li><a href="/disarmament/fellowship/" title="UN Programme of Fellowship on Disarmament">Fellowship Programme</a></li>
+        </ul>
+    </li>
+    <li><span class="cat">News</span>   
+        <ul id="newslinks" class="nav">
+    
+            <li><a href="/disarmament/HomePage/SG/sgstatements.shtml" >Secretary-General's Statements </a></li>
+            <li><a href="/disarmament/HomePage/HR/Statements.shtml" >High Representative's Statements</a></li>
+                    <li><a href="/disarmament/HomePage/PressReleases/PR.shtml" >Press Releases </a></li>
+        </ul>
+    </li>
+	<li><a href="/disarmament/HomePage/Rel_Links.shtml" >Related Links</a></li>
+    <!--- li><a href="https://inspira.un.org/psc/UNCAREERS/EMPLOYEE/HRMS/c/UN_CUSTOMIZATIONS.UN_JOB_DETAIL.GBL?Page=UN_JOB_DETAIL&Action=A&JobOpeningId=20157" target="_new" >Internship</a></li -->
+  	<li style="border-bottom:0"><a href="http://www.un.org/english" target="_blank">UN Home</a></li>
+</ul>
+
+<script language="javascript">
+
+	$(document).ready(function(){
+		
+		selectedLinkCss = {"background-color":"white", 
+							"color":"black",
+							"padding-left":"15px",
+							"font-weight":"bold"};		
+		navlink = showLinks("aboutlinks", selectedLinkCss);
+		navlink = showLinks("instlinks", selectedLinkCss);
+		navlink = showLinks("dblinks", selectedLinkCss);
+		navlink = showLinks("rezlinks", selectedLinkCss);
+		navlink = showLinks("newslinks", selectedLinkCss);
+		
+		$("#footerContent").appendTo($("#footer")).css("display","block");
+	});
+	
+</script>
+</nav> 
+            </div>
+		</div>
+  		<a name="text"></a>
+  		<div class="blue_line"></div>  
+        <div id="content">
+        
+<h1 align="center">Secretary-General's Mechanism for investigation of alleged use of chemical and biological weapons </h1>
+
+<p><BR />
+    
+    ---------------------------------------------------------------------------------------------------------------------</p>
+  <p>For more information on the current investigation into the alleged use of chemical weapons in the Syrian Arab Republic, click <a href="http://unoda-web.s3.amazonaws.com/wp-content/uploads/2013/09/FAQ_Syria_CW_updated_20092013.pdf" target="_blank"><strong> here</strong></a></p>
+  
+<p>To view the report of the Secretary-General's investigation into the alleged use of chemical weapons in the Syrian Arab Republic, concerning the incident which occurred in the Ghouta area of Damascus on 21 August 2013, click <a href="http://www.un.org/ga/search/view_doc.asp?symbol=S/2013/553" target="_blank"><strong> here</strong></a></p>
+
+<p>To view the Fact Sheet in Arabic and English summarizing the Secretary-General's report, click <a href="https://s3.amazonaws.com/unoda-web/wp-content/uploads/2013/09/FS_SG_CW_Bilingue.pdf" target="_blank"><strong> here</strong></a><p/>
+
+<BR />
+---------------------------------------------------------------------------------------------------------------------</p>
+
+
+  <p>The Secretary-General's Mechanism to carry  out prompt investigations in response to allegations brought to his attention  concerning the possible use of chemical and bacteriological (biological) and  toxin weapons was developed in the late 1980s. Triggered by a request from any Member State,  the Secretary-General is authorized to launch an investigation including  dispatching a fact-finding team to the site(s) of the alleged incident(s) and  to report to all United Nation Member States. This is to ascertain in an  objective and scientific manner facts of alleged violations of the <a href="../Bio/1925GenevaProtocol.shtml">1925 Geneva  Protocol</a>, which bans the use of chemical and biological weapons, or other  relevant rules of customary international law.</p>
+  <p>The roster of experts and laboratories provided  by Member States and the Guidelines and Procedures  for the conduct of investigations constitute the key elements of the Mechanism.  Member States encouraged the Secretary-General in September 2006 to update the roster of experts and laboratories, as well as the technical guidelines and  procedures, available to him for the timely and efficient investigation of alleged use. </p>
+  <p>The Office for Disarmament Affairs has been working with Member States to update the roster of experts and laboratories and the technical appendices of the guidelines and procedures so that they fully correspond with the rapid and substantial developments that have occurred in the biological area since the 1980s and also take into account the entry-into-force of the <a href="http://www.opcw.org/chemical-weapons-convention/" target="_blank">Chemical Weapons Convention (CWC)</a> and the establishment  of the <a href="http://www.opcw.org" target="_blank">Organisation for the Prohibition of Chemical Weapons (OPCW)</a> in 1997. </p>
+  
+  <div class="relatedBox" style="width:250px; float:right">
+  <p align="center"><a href="general_resolutions/index.shtml" target="_self">Key documents...</a><BR />
+  </p>
+  <p><a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/42/37&amp;Lang=E" target="_blank">General Assembly Resolution A/RES/42/37 <br /> (30 November 1987)</a></p>
+  <p><a href="http://www.un.org/ga/search/view_doc.asp?symbol=S/RES/620(1988)" target="_blank">Security Council Resolution 620 <br />(26 August 1988)</a> </p>
+  <p><a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/44/561" target="_blank">General Assembly Document A/44/561 Annex I <br />(4 October 1989)</a></p>
+  <p><a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/45/57" target="_blank">General Assembly Resolution A/RES/45/57C <br />(4 December 1990)</a> </p>
+    <p><a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/60/288">General Assembly Resolution A/RES/60/288 <br />(20 September 2006) </a>
+    </p>
+      <p align="right"><a href="general_resolutions/index.shtml" target="_self">More...</a><BR />
+</div>
+  
+  
+  
+  <p>The Office for Disarmament Affairs organized, in 2007, two meetings of a group of experts with the participation of representatives of a number of relevant international organizations. The group discussed the update of the 1989 Guidelines and Procedures. It decided to leave the main document from 1989 unaltered and recognized that a broad review process would necessarily entail the direct involvement of Member States. The group prepared revisions of the Appendices associated with the guidelines and procedures, in particular taking into account the developments in the biological area. The <a href="appendicies">updated Appendices</a> focus on relevant technical biological aspects of investigation of alleged use.</p>
+  <p>In accordance with the current Guidelines and Procedures "any interested Member State may designate to the Secretary-General relevant specialized training or courses available to qualified experts in support of their possible role on his behalf in carrying out investigations of possible use of chemical, biological and toxin agents, in order to facilitate achievement on a common basis of understanding and operation." The first-ever training course for experts was offered by the Government of Sweden and was conducted in cooperation with ODA in Umea, Sweden from 25 May to 5 June 2009.</p>
+  <p>In order to further cooperation and enhance technical capabilities of investigation of alleged use, the United Nations and the World Health Organization (WHO) signed a <a href="UN_WHO_MOU_2011.pdf" title="UN-WHO MOU" target="_blank">Memorandum of Understanding</a> concerning WHO's support to the Secretary-General's mechanism for investigation of alleged use.</p>
+  
+		</div>
+
+        <a name="rightnav"></a>
+        <div id="sidebar-second" class="col">
+            <a name="rightnav"></a>
+<div id="rightnav" class="column"> 
+    <div style="padding-top:30px;">
+    
+    <ul>
+        <li><a href="javascript:void(0);" onclick="$('#wmdlinks').toggle('fast');">Weapons of Mass Destruction...</a>
+            <ul id="wmdlinks" class="displayNone">
+              <li><a href="/disarmament/WMD/Nuclear">Nuclear</a></li>
+              <li><a href="/disarmament/WMD/Bio">Biological</a></li>
+              <li><a href="/disarmament/WMD/Chemical">Chemical</a></li>
+              <li><a href="/disarmament/WMD/Missiles">Missiles</a></li>
+              <li><a href="/disarmament/WMD/1540">Resolution 1540</a></li>
+              <li><a href="/disarmament/WMD/Counter_Terrorism/">Counter-Terrorism Strategy</a></li>
+              <li><a href="/disarmament/WMD/Secretary-General_Mechanism">CBW Use Investigations</a></li>
+              <li style="padding-left:30px;"><a href="/disarmament/WMD/Secretary-General_Mechanism/general_resolutions">Key Documents</a></li>
+              <li><a href="/disarmament/WMD/SGReport_Terrorism/SG_Report.shtml">Measures to Prevent Terrorists from Acquiring WMD</a></li>
+            </ul>
+        </li>
+        
+        <!--li id="keyDocuments"   class="displayNone"><a href="javascript:void(0);" onclick="$('#doclinks').toggle('fast');">Key Documents...</a>
+            <ul id="doclinks"  class="displayNone">
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/general_resolutions">Overview</a></li>
+                <li><a href="http://daccess-ods.un.org/access.nsf/Get?OpenAgent&amp;DS=A/RES/42/37&amp;Lang=E" target="_blank">General Assembly Resolution A/RES/42/37 (30 Nov 1987)</a></li>
+                <li><a href="http://daccess-ods.un.org/access.nsf/Get?OpenAgent&amp;DS=S/RES/620(1988)&amp;Lang=E" target="_blank">Security Council Resolution 620 S/RES/620(1988)</a></li>
+                <li><a href="http://daccess-ods.un.org/access.nsf/Get?OpenAgent&amp;DS=A/44/561&amp;Lang=E">General Assembly Document A/44/561 Annex 1 (04 Oct. 1989)</a></li>
+                <li><a href="http://daccess-ods.un.org/access.nsf/Get?OpenAgent&amp;DS=A/RES/45/57&amp;Lang=E">General Assembly Resolution A/RES/45/57C (4 Dec 1990)</a></li>
+                <li><a href="http://daccess-ods.un.org/access.nsf/Get?OpenAgent&amp;DS=A/RES/60/288&amp;Lang=E" target="_blank">General Assembly Resolution A/RES/60/288 (20 Sep 2009) </a></li>
+            </ul>
+        </li-->
+        
+         <li id="appendices"   class="displayNone"><a href="javascript:void(0);" onclick="$('#applinks').toggle('fast');">Updated Appendices to the Technical Guidelines and Procedures...</a>
+            <ul id="applinks" class="displayNone">
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/">Index to the Appendices</a></li>
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/I">Appendix I</a></li>
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/II">Appendix II</a></li>
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/III">Appendix III</a></li>
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/IV">Appendix IV</a></li>
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/V">Appendix V</a></li>
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/VI">Appendix VI</a></li>
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/VII">Appendix VII</a></li>
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/VIII">Appendix VIII</a></li>
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/IX">Appendix IX</a></li>
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/A">Appendix A</a></li>
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/B">Appendix B</a></li>     
+                <li><a href="/disarmament/WMD/Secretary-General_Mechanism/appendices/C">Appendix C</a></li>             
+            </ul>
+        </li>
+        
+    </ul>
+    </div>
+
+    <p>
+    	<!--a href="/disarmament/WMD/Secretary-General_Mechanism/" title="Secretary-General's Mechanism Home Page">
+    		<img src="/disarmament/images/ban_seal.jpg" style="margin-top:20px; padding-bottom:0px; width:174px;  border:1px solid #353767;" border="0" alt="Ban ki-Moon"/>
+    	</a-->
+    </p>
+    
+    <p style="background:white; border:1px solid #353767; margin-bottom:8px; margin-left:5px;  width:158px; height:80px; text-align:center; ">
+        <span style="text-decoration: none; color: black; font-size:11px; font-weight:bold; ">
+        <a href="/disarmament/HomePage/ODAPublications/Yearbook/2011/DYB2011-Part-II-web.pdf#page=185" target="_blank" style="color:black;">2011 Disarmament Yearbook</a>
+    </span><br />
+        
+    	<a href="/disarmament/HomePage/ODAPublications/Yearbook/2011/DYB2011-Part-II-web.pdf#page=185" target="_blank">
+        <img src="/disarmament/images/cil/YB-icon3.png" align="left" width="50" border="0" style="margin-right:5px;" alt="yearbook icon"/>
+        </a>
+        <span style="text-align:right; font-size:75%">
+        	<a href="/disarmament/HomePage/ODAPublications/Yearbook/2011/DYB2011-Part-II-web.pdf#page=185" target="_blank">More on Chemical &amp; Biological Weapons</a>
+		</span>
+    </p>
+</div>
+
+<script language="javascript">
+
+	$(document).ready(function(){
+		showLinks("wmdlinks");
+		
+		loc = new String(document.location);
+		if (loc.indexOf("appendices") > -1){
+			$("#appendices").show();
+			showLinks("applinks");
+		}
+		
+		
+	//	showLinks("doclinks");
+
+	});
+	
+</script>
+ 
+        </div>
+    </div>
+  </div>
+ 
+ <script>
+
+	jQuery(function($) {
+		$('a[href$=".jpg"]').attr('target', '_blank');
+		$('a[href$=".pdf"]').attr('target', '_blank');
+	
+		$('a[href^="http://"]').filter(function() {
+			return this.hostname && this.hostname !== location.hostname;
+		}).attr('target', '_blank'); 
+		$('a[href^="https://"]').filter(function() {
+			return this.hostname && this.hostname !== location.hostname;
+		}).attr('target', '_blank'); 	
+	}); 
+
+</script>
+
+<div id="footer" class="shadow">
+    <div id="footerContent">
+         <div id="disclaimer">
+DISCLAIMER: Some resources listed and/or hyperlinked on this page may be from individuals, organisations and entities other than the United Nations and are provided for information purposes only. The hyperlinking of outside resources is not an endorsement by the United Nations of the views expressed therein nor does the United Nations have control over the content or accuracy of information provided. No editorial comment is implied by the omission of a resource or website.
+        </div>
+        <div style="text-align:center;">
+            <ul id="footerList"> 
+                <li><a href="/en/aboutun/copyright/">Copyright </a></li> 
+                <li><a href="/en/aboutun/terms/">Terms of Use </a></li> 
+                <li><a href="/en/aboutun/privacy/">Privacy Notice </a></li> 
+                <li><a href="/en/aboutun/fraudalert/">Fraud Alert </a></li> 
+                <li><a href="/disarmament/HomePage/about_us/odacontact.shtml">Contact Us</a></li>
+            </ul> 
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+	setTimeout('startGA();', 500); //delayed start for tracker prevents tracking failure on heavily javascriped pages
+    function startGA()
+    {
+        try {
+            var pageTracker = _gat._getTracker("UA-7833057-1");
+            pageTracker._trackPageview();
+        } catch(err) {
+         //   alert (err);
+        }
+    }
+</script>
+
+<!--script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+	try {
+		var pageTracker = _gat._getTracker("UA-7833057-1");
+		pageTracker._trackPageview();
+	} catch(err) {
+	}
+</script-->
+
+</div>
+</body>
+</html>
+

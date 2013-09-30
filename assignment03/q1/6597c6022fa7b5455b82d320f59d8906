@@ -1,0 +1,570 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<base href="https://secure.ppaction.org/site/" />
+<title>
+
+I choose Planned Parenthood for quality health care I can afford. - Planned Parenthood
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="Keywords" content=" " />
+<meta name="Description" content="I stand with Planned Parenthood and I support Medicaid Expansion." />
+<meta name="Robots" content="index, follow" />
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="../yui3/yui/yui-min.js"></script><noscript>&nbsp;</noscript>
+<script type="text/javascript" src="../js/convio/modules.js?version=2.9"></script><noscript>&nbsp;</noscript>
+<script type="text/javascript">
+var Y = YUI({base: '../yui3/',
+insertBefore: 'yui_marker_loader_css', // insert all YUI module css before customstyle so it can be overridden
+debug: false, 
+modules: getModules('../', 'convio', true) });
+</script><noscript>&nbsp;</noscript>
+
+
+<script type="text/javascript" src="../js/utils.js"></script><noscript>&nbsp;</noscript>
+
+<script type="text/javascript" src="../js/obs_comp_rollup.js"></script><noscript>&nbsp;</noscript>
+
+
+<link href="../css/themes/default.css" rel="stylesheet" type="text/css" />
+<link href="../css/themes/alphacube.css" rel="stylesheet" type="text/css"/>
+
+
+<link href="../css/UserGlobalStyle.css" rel="stylesheet" type="text/css" />
+
+
+<link href="../css/AdvocacyStyle.css" rel="stylesheet" type="text/css" />
+
+
+<link rel="stylesheet" type="text/css" id="yui_marker_loader_css" />
+<link href="../css/CustomStyle.css" rel="stylesheet" type="text/css" />
+<link href="../css/CustomWysiwygStyle.css" rel="stylesheet" type="text/css" />
+
+<link href="../css/advocacy/action_alert/Charcoal.css" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+<meta name="CnvHeaderVersion" content="v5.0" />
+
+
+<link rel="stylesheet" type="text/css" href="../css/ga-public.css" media="screen">
+
+<style>
+#survey_1723 table table td {vertical-align:text-top;}
+</style>
+ 
+		
+</head>
+<body
+
+
+
+
+
+
+
+
+
+
+
+
+
+>	
+<p><img src="../images/content/pagebuilder/PPMO_Advocates_LOGO_smaller.jpg" border="0" alt="PPMO Advocates logo smaller" width="395" height="198" /></p>
+<!-- START OF SmartSource Data Collector TAG --> <!-- Copyright 1999-2003 NetIQ Corporation. All rights reserved. --> <!-- V6.1 --> <!-- $DateTime: 2003/09/30 11:23:29 $ -->
+<script language="Javascript">// <![CDATA[
+ gVersion="1.0";
+// ></script>
+<script language="Javascript1.1">// <![CDATA[
+ gVersion="1.1";
+// ]]></script>
+<script language="Javascript1.2">// <![CDATA[
+ gVersion="1.2"; var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+// ]]></script>
+<script language="Javascript1.3">// <![CDATA[
+ gVersion="1.3";
+// ]]></script>
+<script language="Javascript1.4">// <![CDATA[
+ gVersion="1.4";
+// ]]></script>
+<script language="Javascript1.5">// <![CDATA[
+ gVersion="1.5";
+// ]]></script>
+<script language="JavaScript">// <![CDATA[
+ var gImages=new Array; var gIndex=0; var DCS=new Object(); var WT=new Object(); var DCSext=new Object(); var gDomain="sdc.plannedparenthood.org"; var gDcsId="dcsspympqta39i7prtrifv03x_8z7x"; function dcsVar(){ var dCurrent=new Date(); WT.tz=dCurrent.getTimezoneOffset()/60*-1; if (WT.tz==0){ WT.tz="0"; } WT.bh=dCurrent.getHours(); WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage; if (typeof(screen)=="object"){ WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth; WT.sr=screen.width+"x"+screen.height; } if (typeof(navigator.javaEnabled())=="boolean"){ WT.jo=navigator.javaEnabled()?"Yes":"No"; } if (document.title){ WT.ti=document.title; } WT.js="Yes"; if (typeof(gVersion)!="undefined"){ WT.jv=gVersion; } WT.sp=""; DCS.dcsdat=dCurrent.getTime(); DCS.dcssip=window.location.hostname; DCS.dcsuri=window.location.pathname; if (window.location.search){ DCS.dcsqry=window.location.search; } if ((window.document.referrer!="")&&(window.document.referrer!="-")){ if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){ DCS.dcsref=window.document.referrer; } } } function A(N,V){ return "&"+N+"="+dcsEscape(V); } function dcsEscape(S){ if (typeof(RE)!="undefined"){ var retStr = new String(S); for (R in RE){ retStr = retStr.replace(RE[R],R); } return retStr; } else{ return escape(S); } } function dcsCreateImage(dcsSrc){ if (document.images){ gImages[gIndex]=new Image; gImages[gIndex].src=dcsSrc; gIndex++; } else{ document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" src="'+dcsSrc+'" _mce_src="'+dcsSrc+'" mce_SRC="'+dcsSrc+'">'); } } function dcsMeta(){ var myDocumentElements; if (document.all){ myDocumentElements=document.all.tags("meta"); } else if (document.documentElement){ myDocumentElements=document.getElementsByTagName("meta"); } if (typeof(myDocumentElements)!="undefined"){ for (var i=1;i<=myDocumentElements.length;i++){ myMeta=myDocumentElements.item(i-1); if (myMeta.name){ if (myMeta.name.indexOf('WT.')==0){ WT[myMeta.name.substring(3)]=myMeta.content; } else if (myMeta.name.indexOf('DCSext.')==0){ DCSext[myMeta.name.substring(7)]=myMeta.content; } else if (myMeta.name.indexOf('DCS.')==0){ DCS[myMeta.name.substring(4)]=myMeta.content; } } } } } function dcsTag(){ var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?"; for (N in DCS){ if (DCS[N]) { P+=A(N,DCS[N]); } } for (N in WT){ if (WT[N]) { P+=A("WT."+N,WT[N]); } } for (N in DCSext){ if (DCSext[N]) { P+=A(N,DCSext[N]); } } if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){ P=P.substring(0,2040)+"&WT.tu=1"; } dcsCreateImage(P); } dcsVar(); dcsMeta(); dcsTag();
+// ]]></script>
+<p>
+<noscript> &amp;lt;IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="../images/mo_ppmo/wrpr/nojavascript&amp;amp;WT.js=No" mce_SRC="../images/mo_ppmo/wrpr/nojavascript&amp;amp;amp;WT.js=No"&amp;gt; </noscript></p>
+<!-- END OF Data Collection Server TAG -->
+<div align="center">
+</div>
+<p>
+<link rel="stylesheet" href="../css/mo_ppmo/ga-public.css" type="text/css" media="screen" />
+</p>
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding="8" align="center" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td>
+<p> <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"> 
+
+
+
+
+
+<script language="JavaScript" >
+<!--
+var submitted = false;
+function submitCheckZipCode(){
+if (submitted) {
+alert("Your message is being sent. Please wait...");
+return false;
+}
+else {
+submitted = true;
+return true;
+}
+}
+//-->
+</script><noscript>&nbsp;</noscript>
+<div id="action-alert" class="form">
+
+<form id="beanForm" name="beanForm" class="recips-top-info-right top-labels" method="post" action="https://secure.ppaction.org/site/Advocacy?pagename=homepage&amp;cmd=display&amp;page=UserAction&amp;id=16813" onSubmit="return submitCheckZipCode()">
+
+<h2 class="styled">I choose Planned Parenthood for quality health care I can afford.</h2>
+
+
+<p id="description"><table style="width: 800px;" border="0" align="center">
+<tbody>
+<tr>
+<td><span style="font-size: 120%;">
+<table border="0" align="right">
+<tbody>
+<tr>
+<td><img src="../images/content/pagebuilder/ACA_Cover2.png" border="0" alt="ACA Final" width="400" height="286" /></td>
+</tr>
+</tbody>
+</table>
+</span>
+<p><span style="font-size: 120%;">I stand with Planned Parenthood and I support Medicaid
+Expansion.</span></p>
+<p><span style="font-size: 120%;">Expanding Missouri&rsquo;s Medicaid Program will allow working
+families that don&rsquo;t have employer sponsored health insurance and can&rsquo;t afford
+health insurance on their own to have access to quality and affordable health
+care.&nbsp; We have already lost one year of
+federal coverage offered under the Affordable Care Act due to Missouri Legislative
+Leadership&rsquo;s inaction. However, if Missouri&rsquo;s Medicaid Program were extended in
+the next session, it will still be at no cost to the state of Missouri for the
+next two years, and minimal cost after that.</span></p>
+<p><span style="font-size: 120%;">Take Action NOW and demand that the Missouri Legislature
+expand Medicaid in 2014!</span></p>
+</td>
+</tr>
+</tbody>
+</table></p>
+
+<div id="recipients">
+<h3 class="styled">Recipients</h3>
+<ul>
+
+<li>Missouri Elected Officials</li>
+
+</ul>
+
+</div>
+
+
+<div id="column1">
+<fieldset id="message">
+<h3 class="styled">Message</h3>
+
+<p>Please expand Medicaid in 2014!</p>
+
+<p>Dear &nbsp;[Decision Maker],</p>
+<p>I choose Planned Parenthood for quality health care I can afford.<br /><br />I stand with Planned Parenthood and I support Medicaid Expansion.<br /><br /><br /><br /><br />
+
+
+<div class="label-field-wrap">
+<label for="middle">
+<span class="req true" title="Required">*</span>
+<span class="label-text">Personalize your message</span>
+
+</label>
+<div class="field-wrap">
+<textarea id="middle" name="middle16813" rows="10" cols="45">By expanding Medicaid, Missouri will...
+
+Give health insurance access to an additional 260,000 hardworking Missourians
+
+Save nearly $400 million in Missouri hospital funding
+
+Decrease the burden on Missouri emergency rooms
+
+Generate an additional 24,000 jobs
+</textarea>
+</div>
+</div>
+
+
+<br /><br />As a Planned Parenthood supporter, I know access to preventive care saves lives and saves individuals, families, and taxpayers money. I was outraged the Missouri Legislature failed to pass Medicaid Expansion last year.<br /><br />Please expand Medicaid in 2014!<br /></p>
+<p>Signed by:<br/><em>[Your Name]</em><br /> <em>[Your Address]</em><br /> <em>[City, State ZIP]</em></p>
+</fieldset>
+</div>
+<div id="column2">
+<fieldset id="info">
+<h3 class="styled">Contact</h3>
+<div class="req-legend"><span class="req true">*</span>Required fields</div>
+
+<div class="label-field-wrap">
+<label for="title">
+<span class="req true" title="Required">*</span>
+<span class="label-text">Title:</span>
+
+</label>
+<div class="field-wrap">
+<select name="title" id="title">
+<option value=""></option>
+<option value="Mr." >Mr. </option>
+<option value="Ms." >Ms. </option>
+<option value="Mrs." >Mrs. </option>
+<option value="Miss" >Miss </option>
+<option value="Dr." >Dr. </option>
+</select>
+
+</div>
+</div>
+
+
+<div class="label-field-wrap">
+<label for="fname">
+<span class="req true" title="Required">*</span>
+<span class="label-text">First Name:</span>
+
+</label>
+<div class="field-wrap">
+<input type="text" id="fname" name="fname" size="32" value="" 
+ >
+</div>
+</div>
+
+
+<div class="label-field-wrap">
+<label for="lname">
+<span class="req true" title="Required">*</span>
+<span class="label-text">Last Name:</span>
+
+</label>
+<div class="field-wrap">
+<input type="text" id="lname" name="lname" size="32" value="" 
+ >
+</div>
+</div>
+
+
+<div class="label-field-wrap">
+<label for="email">
+<span class="req true" title="Required">*</span>
+<span class="label-text">Your Email:</span>
+
+</label>
+<div class="field-wrap">
+<input type="text" id="email" name="email" size="32" value="" 
+ >
+</div>
+</div>
+
+
+
+<div class="label-field-wrap">
+<label for="street1">
+<span class="req">&nbsp;</span>
+<span class="label-text">Address 1:</span>
+
+</label>
+<div class="field-wrap">
+<input type="text" id="street1" name="street1" size="32" value="" 
+ >
+</div>
+</div>
+
+
+<div class="label-field-wrap">
+<label for="street2">
+<span class="req">&nbsp;</span>
+<span class="label-text">Address 2:</span>
+
+</label>
+<div class="field-wrap">
+<input type="text" id="street2" name="street2" size="32" value="" 
+ >
+</div>
+</div>
+
+
+<div class="label-field-wrap">
+<label for="city">
+<span class="req">&nbsp;</span>
+<span class="label-text">City:</span>
+
+</label>
+<div class="field-wrap">
+<input type="text" id="city" name="city" size="32" value="" 
+ >
+</div>
+</div>
+
+
+
+<div class="label-field-wrap">
+<label for="state">
+<span class="req">&nbsp;</span>
+<span class="label-text">State / Province:</span>
+
+</label>
+<div class="field-wrap">
+<select name="state" id="state">
+<option value="">Choose a State</option>
+<optgroup label="United States">
+<option value="AK" >AK</option>
+<option value="AL" >AL</option>
+<option value="AR" >AR</option>
+<option value="AZ" >AZ</option>
+<option value="CA" >CA</option>
+<option value="CO" >CO</option>
+<option value="CT" >CT</option>
+<option value="DC" >DC</option>
+<option value="DE" >DE</option>
+<option value="FL" >FL</option>
+<option value="GA" >GA</option>
+<option value="HI" >HI</option>
+<option value="IA" >IA</option>
+<option value="ID" >ID</option>
+<option value="IL" >IL</option>
+<option value="IN" >IN</option>
+<option value="KS" >KS</option>
+<option value="KY" >KY</option>
+<option value="LA" >LA</option>
+<option value="MA" >MA</option>
+<option value="MD" >MD</option>
+<option value="ME" >ME</option>
+<option value="MI" >MI</option>
+<option value="MN" >MN</option>
+<option value="MO" >MO</option>
+<option value="MS" >MS</option>
+<option value="MT" >MT</option>
+<option value="NC" >NC</option>
+<option value="ND" >ND</option>
+<option value="NE" >NE</option>
+<option value="NH" >NH</option>
+<option value="NJ" >NJ</option>
+<option value="NM" >NM</option>
+<option value="NV" >NV</option>
+<option value="NY" >NY</option>
+<option value="OH" >OH</option>
+<option value="OK" >OK</option>
+<option value="OR" >OR</option>
+<option value="PA" >PA</option>
+<option value="RI" >RI</option>
+<option value="SC" >SC</option>
+<option value="SD" >SD</option>
+<option value="TN" >TN</option>
+<option value="TX" >TX</option>
+<option value="UT" >UT</option>
+<option value="VA" >VA</option>
+<option value="VT" >VT</option>
+<option value="WA" >WA</option>
+<option value="WI" >WI</option>
+<option value="WV" >WV</option>
+<option value="WY" >WY</option>
+</optgroup>
+<optgroup label="US Territories">
+<option value="AS" >AS</option>
+<option value="FM" >FM</option>
+<option value="GU" >GU</option>
+<option value="MH" >MH</option>
+<option value="MP" >MP</option>
+<option value="PR" >PR</option>
+<option value="PW" >PW</option>
+<option value="VI" >VI</option>
+</optgroup>
+</select>
+
+</div>
+</div>
+
+
+
+<div class="label-field-wrap">
+<label for="zip">
+<span class="req true" title="Required">*</span>
+<span class="label-text">ZIP / Postal Code:</span>
+
+</label>
+<div class="field-wrap">
+<input type="text" id="zip" name="zip" size="32" value="" 
+ >
+</div>
+</div>
+
+
+
+
+<table id="survey-questions" cellspacing="0" cellpadding="0">
+<tr valign="top" class="old-school">
+
+
+<td width="5%" class="req" nowrap="nowrap">
+<span class="num">1.</span>
+</td>
+
+
+<td>
+<label class="wrapable" for="2101_13167_1_15141">
+<span class="aural-only" style="position: absolute; left: -9999px;">
+Question - Not Required -
+</span>
+<span class="Explicit">
+CELL PHONE
+By providing my cell phone number I agree to receive calls and texts to that number from Planned Parenthood organizations that may be automatically dialed or prerecorded with information on Planned Parenthood issues and ways to get involved. Type cell phone number in the box below!   
+
+</span>
+</label>
+&nbsp;
+<br />
+<span class="NetscapeFix"><input type="text" name="2101_13167_1_15141" id="2101_13167_1_15141" value="" size="30" maxlength="40" /></span>
+<br /><br />
+</td>
+
+</tr>
+<tr valign="top" class="old-school">
+
+
+
+<td width="5%" class="req" nowrap="nowrap">
+<span class="num">2.</span>
+</td>
+
+
+<td>
+<label class="wrapable" for="2101_13167_3_15560">
+<span class="aural-only" style="position: absolute; left: -9999px;">
+Question - Not Required -
+</span>
+<span class="Explicit">
+Planned Parenthood is here to help.  We'll help you get the information you need to get enrolled in the new health insurance plans.  And no matter what the law means to you, we're here to make sure you get the care you need.  Check this box to receive more information about the new (or upcoming) affordable health insurance options.
+</span>
+</label>
+<br />
+<span class="NetscapeFix">
+<select name="2101_13167_3_15560" id="2101_13167_3_15560" onchange="choiceSelected('2101_13167_3_15560', this.selectedIndex);">
+
+<option value="NOREPLY" >Please select response</option>
+<option value="Yes" >Yes</option>
+<option value="No" >No</option>
+</select>
+</span><br /><br />
+</td>
+
+</tr>
+<tr valign="top" class="old-school">
+
+<td width="5%" class="req" align="right" nowrap="nowrap">
+&nbsp;
+</td>
+
+
+<td>
+<div></div>
+<div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr class="old-school" valign="top">
+<td style="text-align: center;"><strong><label class="wrapable" for="2101_13167_4_15152">By filling out this card you'll become a member of the Planned Parenthood Action Network and receive messages, updates, and reminders to vote. Your name and contact information may also be shared with other like-minded organizations.&nbsp;</label></strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+
+</tr>
+
+</table>
+
+<div class="right-check">
+<span class="req">&nbsp;</span>
+
+<input type="checkbox" id="optin" class="checkbox" name="optin" value="true" checked="checked" />
+<label for="optin">CHECK THIS BOX if you would like to receive periodic updates or action alerts</label>
+</div>
+
+
+<div class="right-check">
+<span class="req">&nbsp;</span>
+
+<input type="checkbox" id="remember" class="checkbox" name="remember" value="true" checked="checked" />
+<label for="remember">Remember me. <a class="Smaller" title="View Privacy Policy (opens new window)" 
+onclick="javascript:MM_openBrWindow('http://www.ppaction.org/site/PageServer?pagename=privacypolicy&printer_friendly=1','Description','toolbar=no,scrollbars=yes,resizable=yes,alwaysRaised=yes,dependent=yes,width=700,height=500'); return false;"
+href="http://www.ppaction.org/site/PageServer?pagename=privacypolicy&printer_friendly=1" title="View Privacy Policy (opens new window)" target="_blank" > </a>
+</label>
+</div>
+
+
+</fieldset>
+
+</div>
+<div class="submit-wrap bottom">
+
+
+<input type="submit" name="send" id="send" value="Send Message" />
+
+
+
+</div>
+</form>
+</div>
+</span></p>
+</td>
+</tr>
+<!-- Brian Barrett, digital and data intern added these social media icons by hand in the HTML -->
+<tr>
+<td id="Social Media">
+<!-- Twitter logo with link -->
+<a href="https://twitter.com/PPMO_Advocates"><img style="padding-right: 16px;" src="https://twitter.com/images/resources/twitter-bird-white-on-blue.png" alt="" width="32" height="32" /></a>
+<!-- Facebook logo with link -->
+<a href="https://www.facebook.com/PPMO.Advocates"><img style="padding-right: 16px;" src="https://www.facebookbrand.com/img/assets/asset.f.logo.lg.png" alt="" width="32" height="32" /></a>
+<!-- Google+ logo with link -->
+<a style="text-decoration: none; padding-right: 16px;" rel="publisher" href="https://plus.google.com/115310218636780435038?prsrc=3" target="_top"><img style="border: 0px none; width: 32px; height: 32px;" src="//ssl.gstatic.com/images/icons/gplus-64.png" alt="Google+" width="18" height="18" /></a>
+<!-- Pinterest logg with link -->
+<a href="http://pinterest.com/ppmo/"><img style="padding-right: 16px;" src="http://business.pinterest.com/assets/img/brand/pinterest_badge_red_thumb.png" alt="" width="32" height="32" /></a>
+<!-- Instagram logo with link -->
+<span id="Instagram Logo" style="padding-right: 16px;">
+<style type="text/css"><!--
+.ig-b- { display: inline-block; }
+.ig-b- img { visibility: hidden; }
+.ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
+.ig-b-32 { width: 32px; height: 32px; background: url(//badges.instagram.com/static/images/ig-badge-sprite-32.png) no-repeat 0 0; }
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+.ig-b-32 { background-image: url(//badges.instagram.com/static/images/ig-badge-sprite-32@2x.png); background-size: 60px 178px; } }
+--></style>
+<a class="ig-b- ig-b-32" href="http://instagram.com/ppmo_advocates?ref=badge"><img src="//badges.instagram.com/static/images/ig-badge-32.png" alt="Instagram" /></a></span>
+<!-- Tumblr logo with link, I don't know why they want an iframe -->
+<a href="http://ppmissouri.tumblr.com/"><img style="padding-right: 16px;" src="http://www.iconsdb.com/icons/preview/black/tumblr-3-xxl.png" alt="" width="32" height="32" /></a>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><span style="font-size: 100%; font-family: arial,helvetica,sans-serif;">A project of:<br /></span><span style="font-size: 100%; font-family: arial,helvetica,sans-serif;">ADVOCATES of Planned Parenthood of the St. Louis Region and&nbsp;</span><span style="font-size: 100%; font-family: arial,helvetica,sans-serif;">Southwest Missouri<br /></span><span style="font-size: 100%; font-family: arial,helvetica,sans-serif;">Planned Parenthood Advocates of Kansas and Mid-Missouri<br /></span><span style="font-size: 100%; font-family: arial,helvetica,sans-serif;">Planned Parenthood of the St. Louis Region and Southwest&nbsp;</span><span style="font-size: 100%; font-family: arial,helvetica,sans-serif;">Missouri<br /></span><span style="font-size: 100%; font-family: arial,helvetica,sans-serif;">Planned Parenthood of Kansas and Mid-Missouri</span></p>
+</body>
+]]
+</html>

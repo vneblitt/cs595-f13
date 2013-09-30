@@ -1,0 +1,1794 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>America's Family Album</title>
+	<meta name="viewport" content="width=device-width; initial-scale=1.0">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">
+	<meta property="og:type" content="website">
+				<meta property="og:title" content="Upload your photo to America's Family Album!">
+			<meta property="og:url" content="http://bit.ly/18IXSkB">
+			<meta property="og:image" content="http://go.si.edu/images/content/pagebuilder/afa-high-school-students.jpg">
+			<meta property="og:description" content="Be a part of America's Family Album. Upload your photo from your visit to the Smithsonian today! #smithsonianfamily and the link to: http://bit.ly/1a7sGeW">
+				<style>
+		
+		/* For when we need to retrieve this file via SSL on the donation form, we can use Cloudinary! */
+		@font-face
+		{
+		    font-family: 'league_gothicregular';
+		    src: url('fonts/league_gothic-webfont.eot');
+		    src: url('fonts/league_gothic-webfont.eot?#iefix') format('embedded-opentype'),
+		         url('fonts/league_gothic-webfont.woff') format('woff'),
+		         url('fonts/league_gothic-webfont.ttf') format('truetype'),
+		         url('fonts/league_gothic-webfont.svg#league_gothicregular') format('svg');
+		    font-weight: normal;
+		    font-style: normal;
+		}
+
+		/*
+		@font-face
+		{
+		    font-family: 'open_sans';
+		    src: url('fonts/opensans-bold-webfont.eot');
+		    src: url('fonts/opensans-bold-webfont.eot?#iefix') format('embedded-opentype'),
+		         url('fonts/opensans-bold-webfont.woff') format('woff'),
+		         url('fonts/opensans-bold-webfont.ttf') format('truetype'),
+		         url('fonts/opensans-bold-webfont.svg#open_sansbold') format('svg');
+		    font-weight: bold;
+		    font-style: normal;
+		}
+
+		@font-face
+		{
+		    font-family: 'open_sans';
+		    src: url('fonts/opensans-regular-webfont.eot');
+		    src: url('fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		         url('fonts/opensans-regular-webfont.woff') format('woff'),
+		         url('fonts/opensans-regular-webfont.ttf') format('truetype'),
+		         url('fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');
+		    font-weight: normal;
+		    font-style: normal;
+		}
+
+		@font-face
+		{
+		    font-family: 'open_sanssemibold';
+		    src: url('fonts/opensans-semibold-webfont.eot');
+		    src: url('fonts/opensans-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+		         url('fonts/opensans-semibold-webfont.woff') format('woff'),
+		         url('fonts/opensans-semibold-webfont.ttf') format('truetype'),
+		         url('fonts/opensans-semibold-webfont.svg#open_sanssemibold') format('svg');
+		    font-weight: normal;
+		    font-style: normal;
+		}
+		*/
+		
+		html, body
+		{
+			background-color: #f6f6f6;
+			color: #231f20;
+			margin: 0px;
+			padding: 0px;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-bg.jpg);
+			background-position: top center;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+			font-family: "Open Sans", arial, sans-serif;
+			font-size: 14px;
+		}
+		a
+		{
+			color: #496fa6;
+		}
+		img
+		{
+			border: 0;
+		}
+		#subhead
+		{
+			display: block;
+			text-align: center;
+			font-weight: bold;
+			margin-top: 10px;
+			margin-bottom: 4px;
+			color: #bf0f19;
+		}
+		#header
+		{
+			display: block;
+			margin-top: 18px;
+			margin-bottom: 6px;
+			font-size: 14px;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-header.png);
+			background-position: center center;
+			background-repeat: no-repeat;
+			min-width: 968px;
+			height: 100px;
+			text-indent: -99999px;
+			outline: none;
+		}
+		#box
+		{
+			width: 968px;
+			padding-top: 37px;
+			margin: auto;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-bghead.png);
+			background-position: top center;
+			background-repeat: no-repeat;
+		}
+		#boxcontent
+		{
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-bgmid.png);
+			background-position: center center;
+			background-repeat: repeat-y;
+			padding-left: 5px;
+			padding-right: 5px;
+		}
+		#boxfoot
+		{
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-bgfoot.png);
+			background-position: center center;
+			background-repeat: repeat-y;
+			height: 36px;
+		}
+		#footer
+		{
+			width: 920px;
+			margin: 10px auto 20px auto;
+			font-size: 13px;
+			text-align: center;
+		}
+		#footer div
+		{
+			padding-top: 12px;
+			font-size: 13px;
+		}
+		#footer div a
+		{
+			color: #231f20;
+			text-decoration: underline !important;
+		}
+		#linecontainer
+		{
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-insidelinesright.png);
+			background-position: center right;
+			background-repeat: no-repeat;
+			height: 30px;
+			padding-right: 228px;
+		}
+		.search
+		{
+			text-align: center;
+			width: 138px;
+			margin-left: 1px;
+			margin-right: 1px;
+		}
+		.leftlines
+		{
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-insidelinesleft.png);
+			background-position: center left;
+			background-repeat: no-repeat;
+			height: 30px;
+			margin: 0px;
+			padding-left: 240px;
+			line-height: 30px;
+			text-align: center;
+		}
+		.leftlines span
+		{
+			display: inline-block;
+			padding-left: 7px;
+			padding-right: 7px;
+			font-family: arial, sans-serif;
+			cursor: default;
+		}
+		.leftlines a
+		{
+			text-transform: uppercase;
+			color: #231f20;
+			font-family: "Open Sans", arial, sans-serif;
+			font-weight: 600;
+		}
+		#photobar
+		{
+			position: relative;
+			height: 255px;
+			margin-top: 11px;
+			margin-bottom: 18px;
+			border-top: 2px solid #c7c7c7;
+			border-bottom: 2px solid #c7c7c7;
+			background-color: #4d4d4d;
+			box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3) inset, 0px -4px 4px rgba(0, 0, 0, 0.3) inset;
+			overflow: hidden;
+		}
+		#photoslider
+		{
+			position: absolute;
+			width: 11100px;
+		}
+		#photoslider img
+		{
+			margin-top: 17px;
+			margin-left: 15px;
+			cursor: pointer;
+		}
+		#leftsb
+		{
+			width: 240px;
+			float: left;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-insidelinesleft.png);
+			background-position: top left;
+			background-repeat: no-repeat;
+		}
+		#leftsbcontent
+		{
+			margin: 20px 9px 0px 12px;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-dashblue.png);
+			padding-top: 2px;
+			padding-bottom: 2px;
+			font-size: 13px;
+			line-height: 17px;
+		}
+		#leftsbcontentinner
+		{
+			background-color: #496fa6;
+			color: #fff;
+			padding: 10px;
+		}
+		#rightsb
+		{
+			width: 228px;
+			float: right;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-insidelinesright.png);
+			background-position: top right;
+			background-repeat: no-repeat;
+		}
+		#rightsbcontent
+		{
+			margin: 20px 12px 14px 8px;
+			text-align: center;
+			font-family: "Open Sans", arial, sans-serif;
+			font-weight: 600;
+			font-size: 13px;
+		}
+		#rightsbphoto
+		{
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-prize2.jpg);
+			background-size: 175px 110px;
+			background-position: 11px 12px;
+			background-repeat: no-repeat;
+			margin-top: 12px;
+			margin-bottom: 10px;
+			margin-left: 6px;
+		}
+		#journeyimg
+		{
+			display: block;
+			margin: 10px auto 0px auto;
+		}
+		#rightsbphotoframe
+		{
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-sidebarprizeborder.png);
+			background-repeat: no-repeat;
+			width: 196px;
+			height: 135px;
+		}
+		#rightsbshare
+		{
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-insidelinesright.png);
+			background-position: top right;
+			background-repeat: no-repeat;
+			min-height: 50px;
+		}
+		#rightsbshare a
+		{
+			margin: 20px 4px 0px 8px;
+			background-repeat: no-repeat;
+			text-indent: -99999px;
+			outline: none;
+			width: 61px;
+			height: 62px;
+			float: left;
+		}
+		#sharefb
+		{
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-sharefb.png);
+		}
+		#sharetw
+		{
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-sharetw.png);
+		}
+		#sharepi
+		{
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-sharepi.png);
+		}
+		#cloudinaryform
+		{
+			float: left;
+			width: 480px;
+			margin: 0px;
+		}
+		#cloudinaryform .formcol
+		{
+			float: left;
+			width: 218px;
+			text-align: center;
+		}
+		#formlower.formcol
+		{
+			padding-top: 2px;
+			padding-left: 4px;
+			width: 424px;
+			text-align: left;
+		}
+		#formlower #permissionlabel
+		{
+			font-size: 12px;
+			display: inline-block;
+			width: 396px;
+			padding-left: 5px;
+			margin-top: 2px;
+			vertical-align: top;
+		}
+		input.text, #cloudinaryform .formcol select
+		{
+			border: 1px solid #222;
+			border-radius: 6px;
+			padding: 4px;
+			font-size: 13px;
+			height: 18px;
+			margin-bottom: 10px;
+			font-family: "Open Sans", arial, sans-serif;
+		}
+		#cloudinaryform .formcol input.text
+		{
+			width: 193px;
+			padding-left: 6px;
+			padding-right: 6px;
+		}
+		#cloudinaryform .formcol select
+		{
+			width: 206px;
+			height: 28px;
+		}
+		#photobg
+		{
+			display: inline-block;
+			/*
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-btnchooseyourphoto.png);
+			background-repeat: no-repeat;
+			*/
+			border: 1px solid #222;
+			border-radius: 6px;
+			background-color: #fff;
+			height: 26px;
+			width: 205px;
+		}
+		#photo
+		{
+			margin-left: -1px;
+			margin-top: -1px;
+			height: 28px;
+			width: 207px;
+			cursor: pointer;
+		}
+		#cloudinaryform h2
+		{
+			margin: 0px;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			text-align: center;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-doublecorner.png);
+			background-repeat: no-repeat;
+			background-position: center center;
+			font-family: "league_gothicregular", Impact, sans-serif;
+			font-weight: normal;
+			font-size: 51px;
+			line-height: 51px;
+		}
+		#cloudinaryform h3
+		{
+			margin: 0px 0px 8px 0px;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			text-align: center;
+			font-family: "league_gothicregular", Impact, sans-serif;
+			font-weight: normal;
+			font-size: 34px;
+		}
+		#formcenter
+		{
+			width: 436px;
+			margin: auto;
+		}
+		#submitter
+		{
+			display: block;
+			overflow: hidden;
+			margin: 18px auto 18px auto;
+			width: 181px;
+			height: 62px;
+			border: 0px;
+			background-color: transparent;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-btnsubmit.png);
+			text-indent: -99999px;
+			cursor: pointer;
+			outline: none;
+		}
+		.fineprint
+		{
+			font-size: 11px;
+			text-align: center;
+		}
+		.clearall
+		{
+			clear: both;
+		}
+		#ford
+		{
+			display: block;
+			width: 158px;
+			height: 55px;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-ford-logo.png);
+			background-repeat: no-repeat;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 6px;
+		}
+		
+		/* Browse form: */
+		#browseform
+		{
+			margin: 0px;
+			padding: 8px 0px 10px 20px;
+			float: left;
+			width: 702px;
+		}
+		#browseform h2
+		{
+			margin: 0px 0px 8px 0px;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			text-align: left;
+			font-family: "league_gothicregular", Impact, sans-serif;
+			font-weight: normal;
+			font-size: 34px;
+		}
+		label.browse
+		{
+			display: inline-block;
+			font-size: 13px;
+			padding-right: 6px;
+			vertical-align: bottom;
+		}
+		label.browse span
+		{
+			text-transform: uppercase;
+		}
+		label.browse select
+		{
+			border: 1px solid #222;
+			border-radius: 6px;
+			padding: 4px;
+			font-size: 13px;
+			margin-top: 6px;
+			margin-bottom: 0px;
+			font-family: "Open Sans", arial, sans-serif;
+			display: block;
+			height: 28px;
+			width: 206px;
+		}
+		#go
+		{
+			vertical-align: bottom;
+			overflow: hidden;
+			margin: 18px auto 0px auto;
+			width: 54px;
+			height: 28px;
+			border: 0px;
+			background-color: transparent;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-btngo.png);
+			font-size: 1px;
+			font-size: 0px;
+			line-height: 200px;
+			cursor: pointer;
+		}
+		#rightbrowsesbcontent
+		{
+			float: right;
+			text-align: center;
+			width: 213px;
+			margin: 10px 9px 0px 12px;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-dashblue.png);
+			padding-top: 2px;
+			padding-bottom: 2px;
+			font-size: 14px;
+			line-height: 18px;
+			font-family: "Open Sans", arial, sans-serif;
+			font-weight: 600;
+		}
+		#rightbrowsesbcontentinner
+		{
+			background-color: #496fa6;
+			color: #fff;
+			padding: 10px;
+		}
+		#rightbrowsesbcontent a
+		{
+			color: #fff;
+		}
+		#photoresults
+		{
+			margin-top: 11px;
+			margin-bottom: 18px;
+			border-top: 2px solid #c7c7c7;
+			border-bottom: 2px solid #c7c7c7;
+			background-color: #4d4d4d;
+			box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3) inset, 0px -4px 4px rgba(0, 0, 0, 0.3) inset;
+			padding-bottom: 20px;
+		}
+		#photoriver img
+		{
+			margin-top: 20px;
+			margin-left: 19px;
+			margin-bottom: -4px;
+			cursor: pointer;
+		}
+		#pagenumbers
+		{
+			margin: -7px 0px 12px 0px;
+			padding-right: 30px;
+			line-height: 30px;
+			text-align: center;
+		}
+		#pagenumbers span
+		{
+			display: inline-block;
+			padding-left: 4px;
+			padding-right: 4px;
+			font-family: arial, sans-serif;
+			cursor: default;
+		}
+		#pagenumbers a
+		{
+			display: inline-block;
+			padding-left: 4px;
+			padding-right: 4px;
+			text-transform: uppercase;
+			color: #231f20;
+			font-family: "Open Sans", arial, sans-serif;
+			font-weight: 600;
+		}
+		#pagenumbers a.inactive
+		{
+			color: #9e9e9e;
+			text-decoration: none;
+			cursor: default;
+		}
+		/* Search form: */
+		#searchform
+		{
+			margin: 0px;
+			padding: 8px 0px 0px 20px;
+			float: left;
+			width: 446px;
+		}
+		#searchform h2
+		{
+			margin: 0px 0px 0px 0px;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			text-align: left;
+			font-family: "league_gothicregular", Impact, sans-serif;
+			font-weight: normal;
+			font-size: 34px;
+			line-height: 37px;
+		}
+		#rightsearchsbcontent
+		{
+			float: right;
+			text-align: center;
+			width: 470px;
+			margin: 10px 9px 0px 12px;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-dashblue.png);
+			padding-top: 2px;
+			padding-bottom: 2px;
+			font-size: 14px;
+			line-height: 18px;
+			font-family: "Open Sans", arial, sans-serif;
+			font-weight: 600;
+		}
+		#rightsearchsbcontentinner
+		{
+			background-color: #496fa6;
+			color: #fff;
+			padding: 10px 14px 14px 14px;
+		}
+		#rightsearchsbcontent a
+		{
+			color: #fff;
+		}
+		/* enlarged overlay */
+		.enhead
+		{
+			width: 754px;
+			height: 36px;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-lightboxbgtop.png);
+			background-repeat: no-repeat;
+			background-position: top center;
+		}
+		.enbody
+		{
+			width: 700px;
+			padding: 0px 27px 0px 27px;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-lightboxbgmid.png);
+			background-repeat: repeat-y;
+			background-position: center center;
+			text-align: center;
+		}
+		.enbody .enclose
+		{
+			float: right;
+			text-align: right;
+			text-transform: uppercase;
+			color: #fff;
+			width: 50px;
+			line-height: 28px;
+		}
+		.enbody h2
+		{
+			float: left;
+			width: 254px;
+			margin: 0px 0px 0px 0px;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			text-align: left;
+			font-family: "league_gothicregular", Impact, sans-serif;
+			font-weight: normal;
+			font-size: 34px;
+			line-height: 44px;
+			color: #fff;
+		}
+		.enbody .enshare
+		{
+			float: left;
+			width: 390px;
+		}
+		.enbody .enshare a
+		{
+			text-indent: -99999px;
+			outline: none;
+			background-repeat: no-repeat;
+			display: block;
+			float: left;
+			height: 24px;
+			margin-top: 8px;
+			margin-left: 8px;
+		}
+		.enbody .enshare .enfb
+		{
+			float: left;
+			height: 29px;
+			width: 250px;
+			margin-top: 8px;
+			margin-left: 8px;
+		}
+		.enbody .enshare .enfb iframe
+		{
+			position: relative;
+		}
+		.enpi
+		{
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-sharelbpi.png);
+			width: 50px;
+		}
+		.entw
+		{
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-sharelbtw.png);
+			width: 59px;
+		}
+		.enphoto
+		{
+			display: inline-block;
+			margin-top: 8px;
+			/*box-shadow: 0px 0px 6px #000;*/
+		}
+		.encaption, .entags
+		{
+			color: #fff;
+			padding-top: 12px;
+		}
+		.entags
+		{
+			padding-bottom: 8px;
+		}
+		.enfoot
+		{
+			width: 754px;
+			height: 41px;
+			background-image: url(http://go.si.edu/images/content/pagebuilder/afa-lightboxbgbottom.png);
+			background-repeat: no-repeat;
+			background-position: top center;
+		}
+		.centerblock
+		{
+			display: block;
+			text-align: center;
+			text-transform: uppercase;
+		}
+		
+		@media only screen and (max-device-width: 480px), only screen and (max-width: 480px)
+		{
+			#header
+			{
+				background-size: 2600px;
+				width: 100%;
+				min-width: 320px;
+				height: 54px;
+			}
+			#box
+			{
+				width: 320px;
+				background-size: 100%;
+				padding-top: 10px;
+			}
+			#boxcontent
+			{
+				background-size: 100%;
+				padding-left: 2px;
+				padding-right: 2px;
+			}
+			#boxfoot
+			{
+				background-size: 100%;
+				height: 10px;
+			}
+			#footer
+			{
+				width: 310px;
+				-webkit-text-size-adjust: none;
+				-moz-text-size-adjust: none;
+				-ms-text-size-adjust: none;
+				text-size-adjust: none;
+			}
+			#linecontainer
+			{
+				background-image: none;
+				padding-right: 10px;
+				padding-top: 6px;
+				height: auto;
+			}
+			#linecontainer a
+			{
+				display: block;
+				font-size: 16px;
+			}
+			#linecontainer input
+			{
+				margin-left: 8px;
+			}
+			.search
+			{
+				font-size: 16px;
+				margin-top: 6px;
+				margin-bottom: 4px;
+				width: 240px;
+			}
+			.leftlines
+			{
+				background-image: none;
+				padding-left: 10px;
+				height: auto;
+			}
+			.leftlines span
+			{
+				display: none;
+			}
+			#photobar
+			{
+				height: 149px;
+				margin-top: 6px;
+				padding-bottom: 4%;
+				margin-bottom: 6px;
+			}
+			#photoslider img
+			{
+				margin-top: 6px;
+				margin-left: 6px;
+				width: 149px;
+				height: auto;
+			}
+			#leftsb
+			{
+				width: 312px;
+				float: none;
+				background-image: none;
+				margin-top: -6px;
+				margin-bottom: 12px;
+			}
+			#cloudinaryform, #formcenter
+			{
+				float: none !important;
+				width: 100%;
+			}
+			.formcol
+			{
+				width: 291px !important;
+				float: none !important;
+				margin-left: auto;
+				margin-right: auto;
+			}
+			input.text, #cloudinaryform .formcol select
+			{
+				font-size: 16px;
+				height: 18px;
+				margin-bottom: 10px;
+			}
+			#cloudinaryform .formcol input.text
+			{
+				width: 240px;
+				padding-left: 6px;
+				padding-right: 6px;
+			}
+			#cloudinaryform .formcol select
+			{
+				width: 253px;
+				height: 28px;
+			}
+			#photobg
+			{
+				margin-left: 1px;
+				margin-bottom: 12px;
+				width: 252px;
+				min-height: 26px;
+				height: auto !important;
+			}
+			div #photobg #photo
+			{
+				margin-left: -42px;
+				margin-top: 3px !important;
+				height: auto !important;
+			}
+			#formlower
+			{
+				padding-left: 30px !important;
+				padding-right: 30px !important;
+				width: 257px !important;
+			}
+			#formlower #permissionlabel
+			{
+				font-size: 11px;
+				display: inline-block;
+				width: 230px;
+				padding-left: 5px;
+				margin-top: 2px;
+				vertical-align: top;
+			}
+			#rightsb
+			{
+				width: 100%;
+				float: none;
+				background-image: none;
+			}
+			#rightsbcontent
+			{
+				margin: 12px 0px 0px 0px;
+				padding: 0px 12px 0px 12px;
+				text-align: center;
+				font-family: "Open Sans", arial, sans-serif;
+				text-transform: uppercase;
+				font-weight: 600;
+			}
+			#rightsbphoto
+			{
+				width: 196px;
+				margin: 12px auto 0px auto;
+			}
+			#rightsbshare
+			{
+				background-image: none;
+				min-height: 98px;
+				text-align: center;
+			}
+			#rightsbshare a
+			{
+				margin: 20px 6px 0px 6px;
+				display: inline-block;
+				float: none;
+			}
+			/* Browse form: */
+			#browseform
+			{
+				float: left;
+				width: 280px;
+			}
+			#browseform h2
+			{
+				letter-spacing: 0px;
+				font-size: 30px;
+			}
+			label.browse select
+			{
+				font-size: 16px;
+				margin-bottom: 10px;
+				width: 213px;
+			}
+			#go
+			{
+				margin: 18px auto 10px auto;
+			}
+			#rightbrowsesbcontent
+			{
+				width: 279px;
+				margin: 0px 18px 8px 12px;
+			}
+			#photoriver img
+			{
+				margin-top: 4%;
+				margin-left: 4%;
+				margin-bottom: -4px;
+				width: auto !important;
+				height: 58px;
+			}
+			#photoresults
+			{
+				padding-bottom: 12px;
+			}
+			#pagenumbers
+			{
+				margin: -7px 0px 0px 0px;
+				padding-right: 0px;
+			}
+			/* Search form: */
+			#searchform
+			{
+				width: 280px;
+			}
+			#searchform h2
+			{
+				padding-top: 2px;
+				letter-spacing: 0px;
+				font-size: 30px;
+				line-height: 34px;
+			}
+			#rightsearchsbcontent
+			{
+				width: 279px;
+				margin: 12px 18px 8px 12px;
+			}
+			/* enlarged overlay */
+			.enhead
+			{
+				width: 320px;
+				background-size: 100%;
+				height: 15px;
+			}
+			.enbody
+			{
+				width: 288px;
+				padding: 3px 16px 0px 16px;
+				background-size: 100%;
+			}
+			.enbody h2
+			{
+				width: 238px;
+				text-transform: uppercase;
+				letter-spacing: 0px;
+				font-size: 30px;
+			}
+			.enbody .enshare
+			{
+				float: left;
+				width: 288px;
+				margin-top: -14px;
+				text-align: center;
+			}
+			.enbody .enshare a
+			{
+				float: none;
+				display: inline-block;
+			}
+			.enbody .enshare .enfb
+			{
+				display: block;
+				float: none;
+				margin-top: 8px;
+				margin-left: 22px;
+			}
+			.enphoto
+			{
+				width: 288px;
+				height: auto;
+			}
+			.entags
+			{
+				padding-bottom: 8px;
+			}
+			.enfoot
+			{
+				width: 320px;
+				background-size: 100%;
+				height: 17px;
+			}
+			#footer div
+			{
+				line-height: 28px;
+			}
+		}
+		
+		/* Safari and Chrome specific */
+		@media screen and (-webkit-min-device-pixel-ratio: 0)
+		{
+			#photo
+			{
+				margin-top: 3px;
+				margin-left: 4px;
+				width: 203px;
+			}
+		}
+		
+		/* Mozilla specific */
+		@media only screen and (min--moz-device-pixel-ratio: 0)
+		{
+			#photo
+			{
+				margin-left: 4px;
+			}
+		}
+		
+	</style>
+	<script src="fx.js"></script>
+	<script src="mr.js"></script>
+	<script>
+		
+		// Common JS for site:
+		// Apparently people care:
+		if (window.top != window.self) 
+			window.top.location = window.self.document.location;
+		
+		function showLightbox(elm)
+		{
+			var parts = elm.alt.split(" || ");
+			var imgNum = elm.src.match(/(\d+)\.jpg/i)[1];
+			window.myLightbox = new mr.Lightbox();
+			//window.myLightbox.Show(document.getElementById("enlargedphoto").innerHTML.replace(/images\/spacer\.gif/i, elm.src.replace(/w_[^,]+,h_[^,]+,c_fill,g_faces/i, "w_640,h_480,b_rgb:222222,c_pad").replace()).replace(/%name%/i, parts[0]).replace(/%caption%/i, parts[1]).replace(/%museum%/i, parts[2]).replace(/%year%/i, parts[3]).replace(/%state%/i, parts[4]).replace(/%fb_like%/i, '<div class="fb-like" data-href="http://www.americasfamilyalbum.org/?p=' + imgNum + '" data-send="false" data-width="250" data-show-faces="false" data-font="arial" data-colorscheme="dark"></div>'), 754, 683, {
+			
+			if (parts[1] != "")
+				parts[1] = "\"" + parts[1] + "\"";
+			if (parts[2] == "")
+				parts[2] = "No museum";
+			if (parts[3] == "")
+				parts[3] = "No year";
+			if (parts[4] == "")
+				parts[4] = "No state";
+			
+			// NOTE: Twitter and Pinterest share set at end:
+			var lbContent = document.getElementById("enlargedphoto").innerHTML.replace(/images\/spacer\.gif/i, elm.src.replace(/w_[^,]+,h_[^,]+,c_fill,g_faces/i, "w_640,h_480,b_rgb:222222,c_pad").replace()).replace(/%name%/i, parts[0]).replace(/%caption%/i, parts[1]).replace(/%museum%/i, parts[2]).replace(/%year%/i, parts[3]).replace(/%state%/i, parts[4]).replace(/%tw%/i, "http://twitter.com/intent/tweet?text=Check%20out%20this%20photo%20of%20me%20at%20the%20Smithsonian!%20Add%20your%20own%20photo%20and%20Ford%20Fund%20will%20donate%20%245%3A&url=" + encodeURIComponent("http://www.americasfamilyalbum.org/?p=" + imgNum + "&s_src=siod_cm063pefsitetw") + "&hashtags=smithsonianfamily").replace(/%pi%/i, "http://pinterest.com/pin/create/button/?url=" + encodeURIComponent("http://www.americasfamilyalbum.org/?p=" + imgNum + "&s_src=siod_cm063pefsitepin") + "&media=" + encodeURIComponent(elm.src) + "&description=" + encodeURIComponent("Have you ever visited the Smithsonian? Upload a photo from your visit--you'll be entered to win a 10-day cruise for two from Smithsonian Journeys and Ford Fund will donate $5 to the Smithsonian! http://www.americasfamilyalbum.org/?p=" + imgNum + "&s_src=siod_cm063pefsitepin"));
+			
+			// Have to use the iframe on mobile, otherwise Facebook will show a non-mobile-width-friendly comment box:
+			if (mr.Browser.isMobile)
+			{
+				lbContent = lbContent.replace(/%fb_like%/i, '<iframe src="//www.facebook.com/plugins/like.php?href=' + encodeURIComponent('http://www.americasfamilyalbum.org/?p=' + imgNum + "&s_src=siod_cm063pefsitefb") + '&amp;send=false&amp;layout=standard&amp;width=250&amp;show_faces=false&amp;font=arial&amp;colorscheme=dark&amp;action=like&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:35px;" allowTransparency="true"></iframe>');
+			}
+			else
+			{
+				lbContent = lbContent.replace(/%fb_like%/i, '<div class="fb-like" data-href="http://www.americasfamilyalbum.org/?p=' + imgNum + '&s_src=siod_cm063pefsitefb" data-send="false" data-width="250" data-show-faces="false" data-font="arial" data-colorscheme="dark"></div>');
+			}
+			
+			window.myLightbox.Show(lbContent, 754, 683, {
+				backgroundColor: "#3f3f3f",
+				backgroundClickCloses: true,
+				mobileWidth: 320,
+				mobileHeight: 500,				
+				onClose: function(elm)
+				{
+					if (history.replaceState)
+						history.replaceState({ }, document.title, "/");
+						
+					window.clearInterval(window.fbLikeInterval);
+				}
+			});
+			
+			// Change the browser URL to show the URL that would get you directly to this image:
+			// https://developer.mozilla.org/en-US/docs/DOM/Manipulating_the_browser_history#Adding_and_modifying_history_entries
+			if (history.replaceState)
+				history.replaceState({ }, parts[1], "?p=" + imgNum);
+			
+			// And analytics:
+			try
+			{
+				ga("send", "pageview", "/?p=" + imgNum);
+			}
+			catch (e) { }
+			
+			// And hookup the FB like button -- this works for both HTML5 (what we're using) and FBML:
+			FB.XFBML.parse();
+			
+			// Now hookup the Pin, and Tweet tracking:
+			window.sharepi = false;
+			window.sharetw = false;
+			window.sharefb = false;
+			
+			window.myLightbox.contentDiv.getElementsByClassName("enpi")[0].onclick = function()
+			{
+				if (window.sharepi == false)
+				{
+					document.getElementById("hiddenframe").src = "http://www.americasfamilyalbum.org/store-share.php?network=pin&p=" + imgNum;
+					window.sharepi = true;
+				}
+				return true;
+			}
+			window.myLightbox.contentDiv.getElementsByClassName("entw")[0].onclick = function()
+			{
+				if (window.sharetw == false)
+				{
+					document.getElementById("hiddenframe").src = "http://www.americasfamilyalbum.org/store-share.php?network=tweet&p=" + imgNum;
+					window.sharetw = true;
+				}
+				return true;
+			}
+			
+			// And the FB Like tracking -- works on desktop only:
+			if (!mr.Browser.isMobile)
+			{
+				window.fbLikeInterval = window.setInterval(function()
+				{
+					if (window.sharefb == false && window.myLightbox.contentDiv.getElementsByTagName("iframe")[0].offsetHeight > 50)
+					{
+						document.getElementById("hiddenframe").src = "http://www.americasfamilyalbum.org/store-share.php?network=fblike&p=" + imgNum;
+						window.sharefb = true;
+					}
+				}, 500);
+			}
+			
+		}
+
+		// Animation image list (also appended to donation form links)
+		window.imagesArray = [{"uid":"8486","first_name":"Toni","last_name":"O.","state":"International","museum":"Natural History Museum","year":"2013","caption":"I was trying to take a selfie of the mammoth next door and found these ears so had a photo taken"},{"uid":"8485","first_name":"Magda","last_name":"D.","state":"International","museum":"Smithsonian Gardens","year":"2013","caption":"smithsonian institution"},{"uid":"8484","first_name":"Hannah","last_name":"Z.","state":"Virginia","museum":"Hirshhorn Museum and Sculpture Garden","year":"2013","caption":"Dog by Peter Coffin"},{"uid":"8483","first_name":"Tammy","last_name":"G.","state":"West Virginia","museum":"National Zoo","year":"2013","caption":"Eating her cud"},{"uid":"8482","first_name":"Tammy","last_name":"G.","state":"West Virginia","museum":"National Zoo","year":"2013","caption":"Talking face to face"},{"uid":"8480","first_name":"Carmen","last_name":"G.","state":"Virginia","museum":"Smithsonian Castle","year":"2013","caption":"After earth matters tour"},{"uid":"8479","first_name":"Heidi","last_name":"K.","state":"Virginia","museum":"National Zoo","year":"2013","caption":"Zoo walk Me and Em"},{"uid":"8477","first_name":"Heidi","last_name":"K.","state":"Virginia","museum":"Natural History Museum","year":"2013","caption":"They don't taste like butter..."},{"uid":"8476","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"Ripley Center","year":"2012","caption":"Office of the Smithsonian Associates"},{"uid":"8475","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"Freer Gallery of Art","year":"2012","caption":"Grandfather visiting the exhibition for the first time..."},{"uid":"8474","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"Natural History Museum","year":"2012","caption":"The entrance"},{"uid":"8473","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"Natural History Museum","year":"2012","caption":"Elephant"},{"uid":"8472","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"African Art Museum","year":"2012","caption":"Celestial guidance"},{"uid":"8471","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"African Art Museum","year":"2012","caption":"Inside the circle"},{"uid":"8470","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"Ripley Center","year":"2012","caption":"Workshop for kids"},{"uid":"8469","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"Ripley Center","year":"2012","caption":"Make your own gingerbread man"},{"uid":"8468","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"Ripley Center","year":"2012","caption":"Gingerbread House"},{"uid":"8467","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"Ripley Center","year":"2012","caption":"Exploring the Eastern Inuit World"},{"uid":"8466","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"Smithsonian Castle","year":"2012","caption":"Grandparents"},{"uid":"8465","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"African American History and Culture Museum","year":"","caption":"A Smithsonian Museum in construction"},{"uid":"8464","first_name":"Roxana","last_name":"A.","state":"Virginia","museum":"African American History and Culture Museum","year":"2012","caption":"National Museum of African American History and Culture"},{"uid":"8463","first_name":"Maria","last_name":"S.","state":"New York","museum":"Air and Space Museum","year":"2013","caption":""},{"uid":"8460","first_name":"Shelley","last_name":"W.","state":"Maryland","museum":"Natural History Museum","year":"2013","caption":"butterflies"},{"uid":"8459","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":"Behing the scene tour at the ''bug zoo'' Look at this cute little guy!"},{"uid":"8458","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":"A couple of friends chilling out! ;)"},{"uid":"8457","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":"More behing the scene..Eating pineapple! Lovely!"},{"uid":"8456","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8455","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8454","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8453","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8452","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8451","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8450","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8449","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8448","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8447","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8446","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8445","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8444","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":""},{"uid":"8443","first_name":"Maria","last_name":"P.","state":"District of Columbia","museum":"Natural History Museum","year":"2013","caption":"Behing the scene tour at the Butterfly Pavillion!"}];
+
+		// Animation setup -- only useful on pages with the photoslider, but doesn't affect others
+		function setupAnimation()
+		{
+			window.animationSpeed = 1300;
+			window.animationDelay = 2000;
+			window.currentImage = 4;  // We start with 4 visible, and a 5th hidden, and count is zero based
+			window.cloudinaryBase = "http://res.cloudinary.com/americas-family-album/image/upload/a_exif,w_221,h_221,c_fill,g_faces,q_70/";
+			
+			window.photoslider = document.getElementById("photoslider");
+			
+			for (var i = 0; i < 5; i++)
+			{
+				var initImg = document.createElement("img");
+				initImg.src = window.cloudinaryBase + window.imagesArray[i]["uid"] + ".jpg";
+				initImg.width = "221";
+				initImg.height = "221";
+				initImg.alt = window.imagesArray[i]["first_name"].replace(/\"/, "''") + " " + window.imagesArray[i]["last_name"].replace(/\"/, "''") + " || " + window.imagesArray[i]["caption"].replace(/\"/, "''") + " || " + window.imagesArray[i]["museum"] + " || " + window.imagesArray[i]["year"] + " || " + window.imagesArray[i]["state"];
+				initImg.onclick = function()
+				{
+					showLightbox(this);
+				}
+				window.photoslider.appendChild(initImg);
+			}
+			
+			window.setTimeout(startAnimation, window.animationDelay * 3);
+		}
+
+		// Animates the photos on the index page
+		function startAnimation()
+		{
+			// If we've loaded about 40 images, go ahead and reset so we don't have such a large memory footprint:
+			if ((mr.Browser.isMobile && window.photoslider.offsetLeft < -3300) || window.photoslider.offsetLeft < -10000)
+			{
+				// Fade out:
+				window.photoslider.mrFxFade = new Fx.Style(window.photoslider, "opacity", {duration: 1300, onComplete: function()
+				{
+					window.photoslider.style.left = "0px";
+					// Remove all but 5 images:
+					for (var i = 0; i < (window.photoslider.getElementsByTagName("img").length - 5); i++)
+					{
+						window.photoslider.removeChild(window.photoslider.firstChild);
+					}
+					// Fade in:
+					window.photoslider.mrFxFade = new Fx.Style(window.photoslider, "opacity", {duration: 1300, onComplete: function()
+					{
+						window.setTimeout(startAnimation, window.animationDelay);
+					}});
+					window.photoslider.mrFxFade._start(0.01, 1.0);
+				}});
+				window.photoslider.mrFxFade._start(1.0, 0.01);
+			}
+			else
+			{
+				window.photoslider.mrFx = new Fx.Style(window.photoslider, 'left', {duration: window.animationSpeed, onComplete: function()
+				{
+					//window.photoslider.firstChild.style.display = "none";
+					window.setTimeout(startAnimation, window.animationDelay);
+				}});
+				//window.photoslider.removeChild();
+				var nextImg = document.createElement("img");
+				if (window.currentImage > (window.imagesArray.length - 2))
+					window.currentImage = 0;
+				else
+					window.currentImage++;
+				nextImg.src = window.cloudinaryBase + window.imagesArray[window.currentImage]["uid"] + ".jpg";
+				nextImg.alt = window.imagesArray[window.currentImage]["first_name"].replace(/\"/, "''") + " " + window.imagesArray[window.currentImage]["last_name"].replace(/\"/, "''") + " || " + window.imagesArray[window.currentImage]["caption"].replace(/\"/, "''") + " || " + window.imagesArray[window.currentImage]["museum"] + " || " + window.imagesArray[window.currentImage]["year"] + " || " + window.imagesArray[window.currentImage]["state"];
+				nextImg.onclick = function()
+				{
+					showLightbox(this);
+				}
+				window.photoslider.appendChild(nextImg);
+				if (mr.Browser.isMobile)
+					window.photoslider.mrFx._start(window.photoslider.offsetLeft, window.photoslider.offsetLeft - 155);				
+				else
+					window.photoslider.mrFx._start(window.photoslider.offsetLeft, window.photoslider.offsetLeft - 236);				
+			}	
+		}
+
+		/*
+		 * Creates the XMLHTTP Object
+		 */
+		function wsCreateXMLHttpRequest()
+		{
+			if (document.all && !window.opera && navigator.userAgent.match(/MSIE [56]/))
+				return new ActiveXObject("Microsoft.XMLHTTP");
+			else
+				return new XMLHttpRequest();
+		}
+
+		/*
+		 * Format for POST, takes an array of elements
+		 */
+		function wsFormatForPost(pElements)
+		{
+			var formatted = "";
+
+			for (var i = 0; i < pElements.length; i++)
+			{
+				if (pElements[i].name && (pElements[i].tagName.toLowerCase() == "select" || pElements[i].tagName.toLowerCase() == "textarea"
+				   || (pElements[i].tagName.toLowerCase() == "input" && ((pElements[i].type && pElements[i].type.toLowerCase() != "radio" && pElements[i].type.toLowerCase() != "checkbox" && pElements[i].type.toLowerCase() != "file") 
+				   || (pElements[i].type && (pElements[i].type.toLowerCase() == "radio" || pElements[i].type.toLowerCase() == "checkbox") && pElements[i].checked)))))
+				{
+					formatted += pElements[i].name + "=" + encodeURIComponent(pElements[i].value) + "&";
+				}
+			}
+
+			return formatted;
+		}
+		
+		/*
+		 * Things common to setting up all pages:
+		 */
+		function pageSetup()
+		{
+						
+			// Setup placeholder restoring function:
+			window.originalPlaceholder = {
+				first_name: "FIRST NAME",
+				last_name: "LAST NAME",
+				email: "EMAIL ADDRESS",
+				caption: "DESCRIPTION / CAPTION",
+				search: "SEARCH PHOTOS"
+			};
+			var inputs = document.getElementsByTagName("input");
+			for (var i = 0; i < inputs.length; i++)
+			{
+				// Don't want to change the buttons!
+				if (inputs[i].type.toLowerCase() == "submit" || inputs[i].type.toLowerCase() == "button")
+					continue;
+
+				// Only change value if originalPlaceholder is set!
+				inputs[i].onfocus = function()
+				{
+					if (originalPlaceholder[this.name] && originalPlaceholder[this.name] == this.value)
+						this.value = "";
+				}
+				inputs[i].onblur = function()
+				{
+					if (originalPlaceholder[this.name] && this.value == "")
+						this.value = originalPlaceholder[this.name];
+				}
+			}
+			
+		}
+		
+		// This needs to be onload instead of on DOMContentReady since we need to make sure FB's code has initialized.
+		window.onload = pageSetup;
+		
+	</script>
+</head>
+<body>
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=118909714868537";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	
+	<div id="enlargedphoto" class="enphoto" style="display: none;">
+		<div class="enhead">
+		</div>
+		<div class="enbody">
+			<a href="#" class="enclose mr_lightbox_close_button">Close</a>
+			<h2>%name%</h2>
+			<div class="enshare">
+				<a href="%pi%" target="_blank" class="enpi">Pin it</a>
+				<a href="%tw%" target="_blank" class="entw">Tweet</a>
+				<div class="enfb">%fb_like%</div>
+			</div>
+			<img src="images/spacer.gif" width="640" height="480" alt="" class="enphoto">
+			<div class="encaption">
+				%caption%
+			</div>
+			<div class="entags">
+				%museum% <span>||</span> %year% <span>||</span> %state%
+			</div>
+		</div>
+		<div class="enfoot">
+		</div>
+	</div>
+
+	<a href="/" id="header">Smithsonian: <em>America's Family Album</em></a>
+	<span id="subhead">Have you ever visited the Smithsonian? Upload a photo from your visit and Ford Motor Company Fund will donate $5, up to $50,000!</span>
+	<div id="box">
+		<div id="boxcontent">
+			<div id="linecontainer">
+				<form action="search.php" method="get" class="leftlines">
+					<a href="browse.php">Browse Photos</a> <span>||</span> <input type="text" class="text search" name="search" placeholder="SEARCH PHOTOS" value="SEARCH PHOTOS"> <span>||</span> <a href="https://support.si.edu/site/Donation2?df_id=7221&7221.donation=form1&s_src=siod_cm063pef#*********8486,8485,8484,8483,8482,8480,8479,8477,8476,8475,8474,8473,8472,8471,8470,8469,8468,8467,8466,8465,8464,8463,8460,8459,8458,8457,8456,8455,8454,8453,8452,8451,8450,8449,8448,8447,8446,8445,8444,8443***">Make a Donation</a>
+				</form>
+			</div>
+<script>
+	
+	function showTerms()
+	{
+		(new mr.Dialog()).Show("America's Family Album Terms of Entry", "<div style=\"max-width: 960px; max-height: 450px; overflow-y: auto;\">\
+		By submitting a photograph or photographs, you agree to all of the following terms and conditions:\
+		<br><br>\
+		You represent and warrant that (i) you are at least 18 years of age, (ii) the sole owner of the copyright in the photograph, (iii) the photograph does not infringe anyone's copyrights, privacy rights, rights of publicity, or other rights, and (iv) each living individual depicted in the photograph has granted you permission to submit the photograph for this contest and for it to be used as described herein.  You agree to indemnify the Smithsonian for any costs or damages, including reasonable attorneys' fees, in the event that any claim is made against the Smithsonian arising out of your breach of the foregoing warranties or its use of the photo as described herein.\
+		<br><br>\
+		You waive any expectation of privacy you may have in the photograph(s) and information that you submit to the <em>America's Family Album</em> project.  You understand that the Smithsonian may publicly display any photo(s) you submit on its websites or, if selected, at the Smithsonian premises.  Your photo may be archived or preserved consistent with the Smithsonian's document retention policies, and if so, your photo may be available in the future to researchers and the public.\
+		<br><br>\
+		By submitting a photograph or photographs, you grant the Smithsonian a royalty-free, nonexclusive right, in perpetuity, to:\
+		<ul>\
+		<li>Retain, archive, and use the photograph(s) in any media now known or later developed for standard museum purposes including but not limited to education, exhibition, fundraising, publicity, promotion, and scholarship (when reproducing a submitted photograph, the Smithsonian will provide a photographer credit as feasible);</li>\
+		<li>Retain and archive your submission in any media now known or later developed; and</li>\
+		<li>Use your name and other submitted information in association with the photograph(s).</li>\
+		</ul>\
+		The Smithsonian will not be required to pay any consideration or seek any additional approval in connection with the above uses.\
+		<br><br>\
+		The Smithsonian will notify you if your photograph is honored with selection for the on-site exhibit at the Smithsonian using the contact information you provided at the time of your submission.  The Smithsonian may request additional information about the photograph, releases, and a waiver.  The Smithsonian may decline to use your photograph if you do not respond within ten business days.\
+		<br><br>\
+		The Smithsonian reserves the right to exclude any photograph from the website or exhibit if you are unable to submit, upon request, a sufficiently high resolution copy of the selected photograph and written model releases for any person who is recognizable in the photograph, or in the case of a minor, his or her parent's or guardian's release.  \
+		<br><br>\
+		The Smithsonian reserves the right to exclude your photograph(s) from the website and exhibit, at any time, should the Smithsonian determine in its sole discretion that your submission does not comply with these Terms for Entry.\
+		<br><br>\
+		Smithsonian decisions are final and binding.\
+		<br><br>\
+		The Smithsonian is not responsible for any incorrect or inaccurate information, whether caused by website users or by any equipment or programming associated with or utilized in the America's Family Album website, or by any technical or human error that may occur in the processing of submissions to America's Family Album, including but not limited to any misprints or typographical errors. The Smithsonian is not responsible for incomplete or misdirected submissions, technical or network malfunctions or failures, or causes beyond its control. You are solely responsible for your submission. Do not introduce any software viruses, worms or other programs designed to damage software, hardware or telecommunications equipment.  Do not make submissions that are off-topic, partisan-political, contain advertising, personal attacks or expletives, or is otherwise abusive, threatening, unlawful, harassing, discriminatory, libelous, obscene, false, pornographic, or that infringes on the rights of any third party. The Smithsonian reserves the right to exclude any submission that, or person whose conduct, appears in any way to: inhibit the enjoyment of others; tamper with the competition; violate these Terms of Entry or the <a href=\"http://www.si.edu/termsofuse\" style=\"color: #fff;\" target=\"_blank\">website policy</a>; infringe on the rights of third parties; or act in an unsportsmanlike or disruptive manner. The Smithsonian reserves the right to cancel the call for entries and/or exhibit, or modify these rules, at any time for any reason at its discretion. By submitting a photograph or photographs, you agree to be bound by these Rules and the decisions of the Smithsonian, which are final and binding in all respects. \
+		<br><br>\
+		By submitting a photograph or photographs, you agree to receive periodic updates from the Smithsonian at the contact information you provide.  You may unsubscribe at any time.  Unsubscribing will not affect the Smithsonian's consideration of your photograph(s) for the website and exhibition.\
+		<br><br>\
+		If you upload your submission between 12:01 a.m. Eastern Time on June 24, 2013, and 11:59 p.m. Eastern Time on September 3, 2013, the Smithsonian automatically will enter your name to its Smithsonian Journeys Sweepstakes.  IMPORTANT NOTE: automatic entry in sweepstakes does not mean you are eligible to win.  To understand your eligibility and chances of winning, read the complete <a href=\"#\" onclick=\"showDetails();\" style=\"color: #fff;\">Sweepstakes rules here</a>.\
+		<br><br>\
+		Questions and inquiries about the terms of agreement can be emailed to <a href=\"mailto:friends@si.edu\" style=\"color: #fff;\" target=\"_blank\">friends@si.edu</a>. \
+		</div>", "OK");
+	}
+	
+	function showCall()
+	{
+		(new mr.Dialog()).Show("America's Family Album: Call for Entries", "<div style=\"max-width: 960px; max-height: 450px; overflow-y: auto;\">\
+		<strong>WHAT TO ENTER:</strong>\
+		<br><br>\
+		We are looking for engaging, funny, poignant, or simply beautiful photographs (digital or high quality scans of non-digital photographs) to celebrate people and families visiting the Smithsonian now and over the past decades.  Submitted photographs will be posted on the <em>America's Family Album</em> website.  A panel of Smithsonian curators and staff will select certain submitted photographs for inclusion in an onsite exhibit at the Smithsonian, anticipated to open in 2014.  \
+		<br><br>\
+		Do not submit any photographs that violate or infringe upon another person's rights, including but not limited to copyright or privacy, the <a href=\"#\" onclick=\"showTerms()\" style=\"color: #fff;\">Terms of Entry</a> or the <a href=\"http://www.si.edu/termsofuse\" style=\"color: #fff;\" target=\"_blank\">Smithsonian terms of use</a>.  For a photograph in which a person is recognizable, you must secure a written model release from the person or, in the case of a minor, the person's parent or guardian and provide it to the Smithsonian upon request.\
+		<br><br>\
+		<strong>WHO MAY ENTER:</strong>\
+		<br><br>\
+		Individuals who are 18 years of age, or older, except for employees of the Smithsonian and their immediate households.  \
+		<br><br>\
+		<strong>HOW TO ENTER:</strong>\
+		<br><br>\
+		Submit photograph and requested contact information though the <em>America's Family Album</em> website. Complete all required fields, including name, email and the appropriate tags and photo credit for your photo submission.  You must agree to the terms of entry to participate.  Failure to provide requested information may result in removal/exclusion from the website and exhibit (and disqualification from the sweepstakes, if applicable).\
+		<br><br>\
+		You can select an image directly from your computer desktop, or submit images your mobile device for consideration in the contest. The Smithsonian does not accept mail or email submissions. \
+		<br><br>\
+		Online submissions may be uploaded starting 12:01 a.m. Eastern Standard Time on June 24, 2013 through 11:59 p.m. Eastern Time on September 3, 2013. If you make a submission during this period, the Smithsonian automatically will enter your name to its Smithsonian Journeys Sweepstakes; automatic entry has no bearing on your eligibility or chances of winning.  To learn more about your eligibility and chances of winning, read the complete <a href=\"#\" onclick=\"showDetails()\" style=\"color: #fff;\">Sweepstakes rules here</a>.\
+		<br><br>\
+		The Smithsonian may allow the public to continue to submit photographs in response to the Call for Entries after September 3, 2013, but the Smithsonian will not consider these for the exhibition (nor will they be entered in the sweepstakes).  The Smithsonian reserves the right to modify these deadlines in its sole discretion.\
+		<br><br>\
+		Be aware that the Smithsonian may request additional information from you about your photograph(s), such as a description of the moment depicted in the photo, the highest resolution version of their photo, a watermark-free version of the photograph(s).  The Smithsonian also may request releases.  Failure to respond to such queries within ten business days may result in removal of the photograph from the website and exclusion from the exhibit.\
+		</div>", "OK");
+	}
+
+	function showDetails()
+	{
+		(new mr.Dialog()).Show("Smithsonian Journeys Sweepstakes \"Official Rules of Entry\"", "<div style=\"max-width: 960px; max-height: 450px; overflow-y: auto;\">\
+		YOU DO NOT NEED TO SUBMIT A PHOTO TO ENTER; SUBMISSION OF MULTIPLE PHOTOGRAPHS WILL NOT INCREASE YOUR CHANCES OF WINNING; NO PURCHASE NECESSARY.\
+		<br><br>\
+		<strong>1. Eligibility:</strong>\
+		<br><br>\
+		Open to legal residents of the United States, 18 years of age or older, except that employees of Smithsonian Institution and their immediate families and those living in the same household are not eligible. The Smithsonian will determine winner's eligibility in its sole discretion.\
+		<br><br>\
+		<strong>2. How to Enter:</strong>\
+		<br><br>\
+		There are two methods of entry.  Anyone submitting a photograph in response to the <em>America's Family Album</em> Call for Entries between June 24 and September 3, 2013 (see below for timing), will automatically be entered in the sweepstakes.  To enter without a photo submission, send one e-mail to <a href=\"mailto:friends@si.edu\" style=\"color: #fff;\" target=\"_blank\">friends@si.edu</a> with \"America's Family Album sweepstakes entry\" in the subject line.  Provide your first and last name, preferred e-mail address, and zip code within the body of the email. \
+		<br><br>\
+		Sweepstakes begins at 12:01 P.M. (Eastern Time) on June 24, 2013.  Online entry period closes at 11:59 P.M. (Eastern Time) on September 3, 2013 and US Mail entries must be postmarked by September 3, 2013. \
+		<br><br>\
+		Sweepstakes entry limited to one entry per person; multiple entries void; the Smithsonian does not accept more than one entrant per e-mail address.  Incomplete entries shall be disqualified. \
+		<br><br>\
+		<strong>3. Prize and Winner:</strong>\
+		<br><br>\
+		There will be one prize and one winner.  The prize is a complimentary reservation for up to two people on \"A Cruise around Florida\" from Mar 25 - Apr 4, 2014, offered by Smithsonian Journeys. The approximate retail value of this prize is $15,990. \"A Cruise around Florida\" includes: \
+		<ul>\
+			<li>10-night cruise aboard the 130-guest Yorktown</li>\
+			<li>Welcome and farewell cocktail receptions aboard ship</li>\
+			<li>All meals aboard ship, including house wine, beer, and soft drinks with lunch and dinner</li>\
+			<li>Complete program of tours and excursions as outlined</li>\
+			<li>Enrichment program of lectures and discussions by onboard experts</li>\
+			<li>Professional Tour Manager/program staff through Travel Dynamics International</li>\
+			<li>Complete pre-departure materials, including an annotated reading list</li>\
+			<li>Baggage handling and transfers abroad on the designated arrival and departure dates</li>\
+			<li>Port and embarkation taxes</li>\
+			<li>Gratuities to guides and drivers</li>\
+		</ul>\
+		What Is Not Included:  Airfare; Passport and visa fees (if applicable); Personal expenses such as laundry, telephone calls, faxes, and Internet service; Alcoholic beverages other than wine and beer with lunch and dinner; Luggage and trip cancellation insurance; Gratuities to shipboard personnel; Expenses incurred by the tour operator in making individual travel arrangements in conjunction with the cruise; Other items not specifically mentioned as included.\
+		<br><br>\
+		Winner will be responsible for paying any fuel supplement due on prize: Travel Dynamics International reserves the right to charge a fuel supplement, without prior notice, if the NYMEX oil price exceeds $85 per barrel. \
+		<br><br>\
+		The winner will be selected by a random drawing on or around September 10, 2013. The prize winner will be notified at the email address provided at the time of entry. If a winner does not respond within five business days, or if winner is deemed ineligible, the prize will be forfeited and an alternate winner will be selected. The drawing will be conducted by Smithsonian Institution whose decisions are final and binding. If the eligible winner is deemed a minor in his/her state of residence, the prize will be awarded in the name of a parent or legal guardian.  Odds of winning the prize depend on number of eligible entries received. Prize cannot be transferred or substituted except at the Smithsonian's sole discretion, and the Smithsonian reserves the right to substitute a prize of equal or greater value if a stated prize is unavailable for any reason. Winner is responsible for all taxes on prize, if any. No cash alternative is available. A different trip of equal value will be substituted in the event that the \"A Cruise around Florida\" does not operate.\
+		<br><br>\
+		Winners must sign a release and license, declaration of eligibility, and will be solely responsible for any taxes they may owe on the prize.\
+		<br><br>\
+		<strong>4. Release and Waiver</strong>\
+		<br><br>\
+		All entrants hold the Smithsonian, its regents, officers, employees, fellows, interns, research associates, and volunteers harmless from and against all claims of any nature arising in connection with your participation in the sweepstakes, receipt, or use of the prize. The Smithsonian and its regents, officers, employees, fellows, interns, research associates, and volunteers are not liable for any costs, damages, injuries, or other claims incurred as a result of entrants' participation in the sweepstakes or winner's acceptance and usage of the prize.\
+		<br><br>\
+		<strong>5.  Additional Important Terms and Conditions</strong>\
+		<br><br>\
+		This sweepstakes is void where prohibited or restricted by law.  The Smithsonian is not responsible for incomplete or misdirected entries, technical or network malfunctions or failures, or causes beyond its control. Entrants are solely responsible for their entries. Entrants may not submit materials that introduce any software viruses, worms or other programs designed to damage software, hardware or telecommunications equipment or are off-topic, partisan-political, contain advertising, personal attacks or expletives, or is otherwise abusive, threatening, unlawful, harassing, discriminatory, libelous, obscene, false, pornographic, or that infringes on the rights of any third party. The Smithsonian reserves the right to disqualify any entrant whose entry or conduct appears in any way to: inhibit the enjoyment of others; tamper with the competition; violate these Rules; infringe on the rights of third parties; or act in an unsportsmanlike or disruptive manner. The Smithsonian reserves the right to cancel the contest or modify these rules at any time for any reason at its discretion. In the event of a dispute regarding the winners, the Smithsonian reserves the right to award or not award the prizes in its sole discretion. By entering this sweepstakes, entrants agree to be bound by these Rules and the decisions of the Smithsonian, which are final and binding in all respects.\
+		<br><br>\
+		<strong>6.  Communications from the Smithsonian.</strong>  By entering the contest, you agree to receive periodic updates from the Smithsonian at the contact information you provide.  You may unsubscribe at any time.  Unsubscribing will not affect your chances of winning.\
+		<br><br>\
+		<strong>7.  List of Winners.</strong>  After September 30, 2013 you may obtain a list of winners by sending a self-addressed, stamped (first-class postage) envelope to Smithsonian Institution, P.O. Box 37012, MRC 527, Washington, D.C., 20013. Attn: Yoonhyung Lee.\
+		</div>", "OK");
+	}
+	
+	/*
+	 * Gets and processes page contents
+	 */
+	function wsProcessPageContents()
+	{
+		if (window.xmlHttpReq.readyState == 4)
+		{
+			var cloudinaryContents = window.xmlHttpReq.responseText;
+			
+			// Now that these have been stored in our server, we don't want to submit them to Cloudinary:
+			formElements = document.getElementById("cloudinaryform").getElementsByTagName("*");
+			for (var i = 0; i < formElements.length; i++)
+			{
+				if (formElements[i].name && formElements[i].name != "file" && (formElements[i].tagName.toLowerCase() == "select" || formElements[i].tagName.toLowerCase() == "input"))
+				{
+					formElements[i].disabled = true;
+				}
+			}
+			
+			// Set the submission URL:
+			document.getElementById("cloudinaryform").action = window.location.protocol + "//api.cloudinary.com/v1_1/americas-family-album/image/upload";
+			// Add in the Cloudinary data fields:
+			document.getElementById("cloudinaryadditions").innerHTML = cloudinaryContents.replace(/<form[^>]*>/gim, "").replace(/<\/form>/gim, "");
+			// Submit the form and photo to Cloudinary:
+			document.getElementById("cloudinaryform").submit();
+		}
+	}
+		
+	function errorBuilder(makeIt, errText)
+	{
+		if (makeIt)
+			return ("<br> - " + errText);
+		else
+			return "";
+	}
+	
+	// Setup specific to the home page:
+	function indexSetup()
+	{
+		document.getElementById("submitter").onclick = function()
+		{
+			// Form validation code here:
+			var errorText = "";
+
+			errorText += errorBuilder(mr.Test.IsEmpty(document.getElementById("first_name").value.replace(originalPlaceholder.first_name, "")), "Your first name");
+			errorText += errorBuilder(mr.Test.IsEmpty(document.getElementById("last_name").value.replace(originalPlaceholder.last_name, "")), "Your last name");
+			errorText += errorBuilder(!mr.Test.ValidEmail(document.getElementById("email").value), "Your email address");
+			errorText += errorBuilder(mr.Test.IsEmpty(document.getElementById("photo").value), "Your photo");
+			//errorText += errorBuilder(mr.Test.IsEmpty(document.getElementById("state").value), "Your home state");
+			//errorText += errorBuilder(mr.Test.IsEmpty(document.getElementById("museum").value), "Your photo's location");
+			//errorText += errorBuilder(mr.Test.IsEmpty(document.getElementById("year").value), "Your photo's year");
+			//errorText += errorBuilder(mr.Test.IsEmpty(document.getElementById("caption").value.replace(originalPlaceholder.caption, "")), "Your photo's caption");
+			errorText += errorBuilder(!document.getElementById("permission").checked, "Your acceptance of the terms and conditions");
+			
+			if (errorText == "")
+			{
+				// Remove any placeholder that might be left over in the caption:
+				
+				document.getElementById("caption").value = document.getElementById("caption").value.replace(originalPlaceholder.caption, "");
+				window.xmlHttpReq = wsCreateXMLHttpRequest();
+				window.xmlHttpReq.open("get", "store.php?" + wsFormatForPost(document.getElementById("cloudinaryform").getElementsByTagName("*")), true);
+				window.xmlHttpReq.onreadystatechange = wsProcessPageContents;
+				window.xmlHttpReq.send("");
+				
+				document.getElementById("submitter").onclick = function() { };
+				document.getElementById("submitter").style.cursor = "default";
+			}
+			else
+			{
+				(new mr.Dialog()).Show("Error", "Please fill in:" + errorText, "OK");
+			}
+
+			return false;
+		}
+		
+		setupAnimation();
+		
+	}
+	
+	window.onload = function()
+	{
+		// Revising this here since we need both the wrapper's "pageSetup" and our specific to the index page "indexSetup"
+		// These both need to be onload, not on DOMContentReady.
+		pageSetup();
+		indexSetup();
+		
+		// if there was an error uploading:
+		var errors = mr.Get.Parameter("error");
+		if (errors != "")
+		{
+			if (/unsupported/i.test(errors))
+			{
+				(new mr.Dialog()).Show("Sorry", "The file you uploaded was not an image or was not in a supported format.<br>Supported formats are JPG, GIF, PNG and BMP.", "OK");
+			}
+			else if (/toosmall/i.test(errors))
+			{
+				(new mr.Dialog()).Show("Sorry", "The image you uploaded was too small.<br>Your image must be 240 x 240 or larger to be a part of America's Family Album.", "OK");
+			}
+		}
+		
+		// And if they've come back from the donation page, refill their info:
+		var wsUserInfo = window.location.hash.replace(/\+/g, " ").split("***");
+		
+		if (wsUserInfo.length == 5)
+		{
+			document.getElementById("email").value = decodeURIComponent(wsUserInfo[0]).replace("#", "");
+			document.getElementById("first_name").value = decodeURIComponent(wsUserInfo[1]);
+			document.getElementById("last_name").value = decodeURIComponent(wsUserInfo[2]);
+			window.location.hash = "";
+		}
+	}
+			
+</script>
+
+<div id="photobar">
+	<!-- Keep line below free of spaces so they don't count as text nodes: -->
+	<div id="photoslider"></div>
+</div>
+<div id="leftsb">
+	<div id="leftsbcontent">
+		<div id="leftsbcontentinner">
+			<strong class="centerblock">Be a part of Smithsonian&nbsp;history.</strong>
+			<br>
+			From vintage black and white to modern digital photography, snapshots at the Smithsonian are an indelible part of millions of family photo albums. 
+			<br><br>
+			<strong>To celebrate our shared experience,</strong> we're gathering photos from people around the country to be part of <em>America's Family Album</em>. 
+			<br><br>
+			<strong>Upload a photo from your visit to the Smithsonian to generate a $5 donation</strong> from Ford Motor Company Fund, the philanthropic arm of Ford Motor Company, and <strong>instantly join the online exhibit.</strong> Your photo may even be chosen to be featured in an on-site exhibit in 2014.
+		</div>
+	</div>
+</div>
+<form action="" method="post" id="cloudinaryform" enctype="multipart/form-data" novalidate="novalidate">
+	<input type="hidden" name="src" value="siod_cm063pef">
+	<input type="hidden" name="subsrc" value="">
+	<div id="formcenter">
+		<div class="formcol">
+			<h2>Step 1</h2>
+			<h3>Upload Your Photo</h3>
+			<input type="text" name="first_name" placeholder="FIRST NAME" value="FIRST NAME" id="first_name" class="text" maxlength="50">
+			<input type="text" name="last_name" placeholder="LAST NAME" value="LAST NAME" id="last_name" class="text" maxlength="50">
+			<input type="email" name="email" placeholder="EMAIL ADDRESS" value="EMAIL ADDRESS" id="email" class="text" maxlength="255">
+			<label id="photobg" for="photo">
+				<input type="file" name="file" id="photo" size="17" accept="image/*" border="0">
+			</label>
+		</div>
+		<div class="formcol">
+			<h2>Step 2</h2>
+			<h3>Tag Your Photo</h3>
+			<select name="state" id="state">
+				<option value="">YOUR HOME STATE</option>
+				<option value="AL">Alabama</option>
+				<option value="AK">Alaska</option>
+				<option value="AZ">Arizona</option>
+				<option value="AR">Arkansas</option>
+				<option value="CA">California</option>
+				<option value="CO">Colorado</option>
+				<option value="CT">Connecticut</option>
+				<option value="DE">Delaware</option>
+				<option value="DC">District of Columbia</option>
+				<option value="FL">Florida</option>
+				<option value="GA">Georgia</option>
+				<option value="HI">Hawaii</option>
+				<option value="ID">Idaho</option>
+				<option value="IL">Illinois</option>
+				<option value="IN">Indiana</option>
+				<option value="IA">Iowa</option>
+				<option value="KS">Kansas</option>
+				<option value="KY">Kentucky</option>
+				<option value="LA">Louisiana</option>
+				<option value="ME">Maine</option>
+				<option value="MD">Maryland</option>
+				<option value="MA">Massachusetts</option>
+				<option value="MI">Michigan</option>
+				<option value="MN">Minnesota</option>
+				<option value="MS">Mississippi</option>
+				<option value="MO">Missouri</option>
+				<option value="MT">Montana</option>
+				<option value="NE">Nebraska</option>
+				<option value="NV">Nevada</option>
+				<option value="NH">New Hampshire</option>
+				<option value="NJ">New Jersey</option>
+				<option value="NM">New Mexico</option>
+				<option value="NY">New York</option>
+				<option value="NC">North Carolina</option>
+				<option value="ND">North Dakota</option>
+				<option value="OH">Ohio</option>
+				<option value="OK">Oklahoma</option>
+				<option value="OR">Oregon</option>
+				<option value="PA">Pennsylvania</option>
+				<option value="RI">Rhode Island</option>
+				<option value="SC">South Carolina</option>
+				<option value="SD">South Dakota</option>
+				<option value="TN">Tennessee</option>
+				<option value="TX">Texas</option>
+				<option value="UT">Utah</option>
+				<option value="VT">Vermont</option>
+				<option value="VA">Virginia</option>
+				<option value="WA">Washington</option>
+				<option value="WV">West Virginia</option>
+				<option value="WI">Wisconsin</option>
+				<option value="WY">Wyoming</option>
+				<option value="no">International</option>
+				<option value="af">Other</option>
+			</select>
+			<select name="museum" id="museum">
+				<option value="">WHERE PHOTO WAS TAKEN</option>
+				<!-- remember to update these on the browse page as well! -->
+				<option value="African American History and Culture Museum">African American History and Culture Museum</option>
+				<option value="African Art Museum">African Art Museum</option>
+				<option value="Air and Space Museum">Air and Space Museum</option>
+				<option value="Air and Space Museum Udvar-Hazy Center">Air and Space Museum Udvar-Hazy Center</option>
+				<option value="Asian Pacific American Center">Asian Pacific American Center</option>
+				<option value="American Art Museum">American Art Museum</option>
+				<option value="American History Museum">American History Museum</option>
+				<option value="American Indian Museum">American Indian Museum</option>
+				<option value="American Indian Museum Heye Center - NYC">American Indian Museum Heye Center - NYC</option>
+				<option value="Anacostia Community Museum">Anacostia Community Museum</option>
+				<option value="Arts and Industries Building">Arts and Industries Building</option>
+				<option value="Astrophysical Observatory">Astrophysical Observatory</option>
+				<option value="Cooper-Hewitt, National Design Museum - NYC">Cooper-Hewitt, National Design Museum - NYC</option>
+				<option value="Environmental Research Center">Environmental Research Center</option>
+				<option value="Folklife Festival">Folklife Festival</option>
+				<option value="Folkways Recordings">Folkways Recordings</option>
+				<option value="Fort Pierce Marine Station">Fort Pierce Marine Station</option>
+				<option value="Freer Gallery of Art">Freer Gallery of Art</option>
+				<option value="Hirshhorn Museum and Sculpture Garden">Hirshhorn Museum and Sculpture Garden</option>
+				<option value="Latino Center">Latino Center</option>
+				<option value="National Zoo">National Zoo</option>
+				<option value="Natural History Museum">Natural History Museum</option>
+				<option value="Portrait Gallery">Portrait Gallery</option>
+				<option value="Postal Museum">Postal Museum</option>
+				<option value="Renwick Gallery">Renwick Gallery</option>
+				<option value="Ripley Center">Ripley Center</option>
+				<option value="Sackler Gallery">Sackler Gallery</option>
+				<option value="Smithsonian Archives">Smithsonian Archives</option>
+				<option value="Smithsonian Castle">Smithsonian Castle</option>
+				<option value="Smithsonian Gardens">Smithsonian Gardens</option>
+				<option value="Smithsonian Libraries">Smithsonian Libraries</option>
+				<option value="Traveling Exhibit">Traveling Exhibit</option>
+				<option value="Tropical Research Institute">Tropical Research Institute</option>
+				<option value="Other">Other</option>
+			</select>
+			<select name="year" id="year">
+				<option value="">WHEN PHOTO WAS TAKEN</option>
+				<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+				<option value="2000s">2000s</option>
+				<option value="1990s">1990s</option>
+				<option value="1980s">1980s</option>
+				<option value="1970s">1970s</option>
+				<option value="1960s">1960s</option>
+				<option value="1950s">1950s</option>
+				<option value="1940s">1940s</option>
+				<option value="1930s">1930s</option>
+				<option value="1920s">1920s</option>
+				<option value="1910s">1910s</option>
+				<option value="1900 or earlier">1900 or earlier</option>
+			</select>
+			<input type="text" name="caption" placeholder="DESCRIPTION / CAPTION" value="DESCRIPTION / CAPTION" id="caption" class="text" maxlength="255">
+		</div>
+		<div class="formcol" id="formlower">
+			<input type="checkbox" name="permission" id="permission" value="yes"><label id="permissionlabel" for="permission">I agree to the <a href="#" onclick="showTerms(); return false;">Terms of Entry</a>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Read&nbsp;the&nbsp;<a href="#" onclick="showCall(); return false;">Call&nbsp;for&nbsp;Entries</a></label>
+			<div class="fineprint">
+				<br><strong>Photos added after September 3, 2013 are not eligible for on-site exhibition consideration, and will not be submitted for entry to the Smithsonian Journeys prize drawing.</strong>
+			</div>
+			<a href="#" id="submitter">Submit</a>
+			<div class="fineprint">
+				You will receive periodic updates from the Smithsonian and may unsubscribe at any time.
+			</div>
+		</div>
+		<div id="cloudinaryadditions">
+		</div>
+	</div>
+</form>
+<div id="rightsb">
+	<div id="rightsbcontent">
+		Submit your photo and be entered to win a trip for two on <a href="http://www.smithsonianjourneys.org/tours/florida?display=itinerary&utm_source=americasfamilyalbum.org&utm_medium=referral&utm_campaign=american-album" onclick="window.open(this.href, 'afapop', 'width=805,height=640,scrollbars=yes'); return false;">Smithsonian Journeys "Cruise Around Florida,"</a> &mdash; a 10-day sail featuring natural beauty, "Gilded Age" charm and an Everglades adventure!
+		<div id="rightsbphoto">
+			<div id="rightsbphotoframe">
+			</div>
+		</div>
+		*<a href="#" onclick="showDetails(); return false;">Prize Rules and Details</a>
+		<img src="http://go.si.edu/images/content/pagebuilder/afa-si-journeys.png" width="176" height="38" border="0" alt="" id="journeyimg">
+	</div>
+	<div id="rightsbshare">
+		<a href="http://facebook.com/sharer.php?u=http%3A%2F%2Fwww.americasfamilyalbum.org%2F%3Fs_src%3Dsiod_cm063pefsitefb" id="sharefb" target="_blank">Facebook</a>
+		<a href="http://twitter.com/intent/tweet?text=Upload+your+Smithsonian+pics+to+America%27s+Family+Album%3A+http%3A%2F%2Fbit.ly%2F18DSpby&hashtags=smithsonianfamily" id="sharetw" target="_blank">Twitter</a>
+		<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.americasfamilyalbum.org%2F%3Fs_src%3Dsiod_cm093pefsitepin&media=http%3A%2F%2Fgo.si.edu%2Fimages%2Fcontent%2Fpagebuilder%2Fafa-boy-scouts.jpg&description=Upload+your+photos+from+your+visit+to+the+Smithsonian+today+and+be+a+part+of+America%27s+Family+Album." id="sharepi" target="_blank">Pinterest</a>
+	</div>
+</div>
+
+			<div class="clearall">
+			</div>
+		</div>
+		<div id="boxfoot">
+		</div>
+	</div>
+	<div id="footer">
+		<em>America's Family Album</em> is proudly sponsored by:
+		<a href="http://corporate.ford.com/our-company/community/ford-fund/presidents-message-401p" target="_blank" id="ford"></a>
+		<div>
+			&copy;&nbsp;2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none;" href="http://www.si.edu/" target="_blank">Smithsonian&nbsp;Institution</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none;" href="http://www.si.edu/Privacy" target="_blank">Privacy&nbsp;Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none;" href="mailto:friends@si.edu" target="_blank">friends@si.edu</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 800-931-3226
+		</div>
+	</div>
+	<iframe src="" style="display: none;" id="hiddenframe"></iframe>
+	
+	<script>
+		
+		(function(i, s, o, g, r, a, m)
+		{
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function()
+			{
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),	m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m);
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-41923389-1', 'americasfamilyalbum.org');
+		ga('send', 'pageview');
+
+	</script>
+	
+</body>
+</html>
+

@@ -1,0 +1,857 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <!-- Mimic Internet Explorer 8, to solve compatibility mode issue -->
+        <meta http-equiv="X-UA-Compatible" content="IE=8" />
+
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>A Library as Beautiful as the Bronx: NYC&#039;s First Municipal Green Building | The New York Public Library</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/nypl_new/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+var addthis_config = {
+    services_compact:'facebook,twitter,stumpleupon,delicious,digg,favorites,more',
+    data_track_clickback: true,
+    data_ga_property: 'UA-1420324-3',
+    data_ga_social: true
+  }
+</script>
+<script type="text/javascript">
+var addthis_share = { title: 'A Library as Beautiful as the Bronx: NYC's First Municipal Green Building', templates: { twitter: '{{title}} {{url}}', tweet: '{{title}} {{url}}' }, url_transforms : {
+    clean: true,
+    remove: ['__utma', '__utmb', '__utmc', '__utmx', '__utmz', '__utmv', '__utmk'],
+    shorten: { twitter: 'bitly', tweet: 'bitly' } }, shorteners : { bitly : { username: 'nypl', apiKey: 'R_bfbdfdd57d505599d44daafcb5bf7da7' } } }</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?username=nypl"></script>
+<meta name="keywords" content="NYPL,The New York Public Library,Manhattan,Bronx,Staten Island" />
+<meta name="copyright" content="© 2010 The New York Public Library" />
+<link rel="canonical" href="http://www.nypl.org/blog/2013/08/28/library-beautiful-bronx" />
+<meta name="revisit-after" content="1 day" />
+
+      <meta property="og:title" content="A Library as Beautiful as the Bronx: NYC&#039;s First Municipal Green Building | The New York Public Library" />
+  <meta property="og:image" content="http://www.nypl.org/sites/default/files/images/green_bldg_0.inline vertical.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.nypl.org/blog/2013/08/28/library-beautiful-bronx" />
+<meta property="og:site_name" content="nypl.org" />
+  <meta property="og:description" content="Photo credit - Dattner ArchitectsI remember it vividly.  It was the morning of January 17, 2006, I was on my way to work&mdash;when an MTA bus zoomed pass me.  It was then I noticed it, on the side of the bus, a poster size picture of the building with the caption &quot;A library as beautiful as the..." />
+
+<link type="text/css" rel="stylesheet" media="all" href="http://www.nypl.org/sites/default/files/css/css_03f91233adf76e3280e68708cac6316c.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="http://www.nypl.org/sites/default/files/css/css_aa7cf642d3e0dba589d66bb301771898.css" />
+<link type="text/css" rel="stylesheet" media="print" href="http://www.nypl.org/sites/default/files/css/css_f52d3331b3e15a90d12d757270dd0ae2.css" />
+<link rel="stylesheet" type="text/css" href="sites/all/themes/nypl_new/jquery_skins/rotato3/skin.css"></link>
+
+<script type="text/javascript" src="http://www.nypl.org/sites/default/files/js/js_4b8c9d9350cefe913da616cdf9ab11dc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip|mp3|mp4|mpe|mpg"},"extlink":{"extTarget":0,"extClass":0,"extSubdomains":1,"extExclude":"(bibliocommons\\.com)|(convio\\.net)|(questionpoint\\.org)","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0},"base_url":"http:\/\/www.nypl.org","from":"","destination":"destination=node%2F223902","async_scripts":[{"url":"\/\/cdn.optimizely.com\/js\/284748925.js","abbrev":"optimizely"}]});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var BASE_URL = "/";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1420324-3"]);_gaq.push(["_setVar", "anonymous user"]);_gaq.push(['_setCustomVar', 1, "User roles", "anonymous user", 3]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+  (function (doc, script) {
+      'use strict';
+      var js,
+          fjs = doc.getElementsByTagName(script)[0],
+          add = function (url, id) {
+              if (doc.getElementById(id)) { return; }
+              js = doc.createElement(script);
+              js.src = url;
+              if (id !== undefined) {
+                  js.id = id;
+              }
+              fjs.parentNode.insertBefore(js, fjs);
+          },
+          scripts = Drupal.settings.async_scripts,
+          i;
+
+      for (i = 0; i < scripts.length; i += 1) {
+          add(scripts[i].url, scripts[i].abbrev);
+      }
+  }(document, 'script'));
+      
+//--><!]]>
+</script>
+
+<script type="text/javascript" src="/javascript/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="/javascript/jquery.rotato3_config.js"></script>
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body class="not-front not-logged-in page-node-1 node-type-blog-1 two-sidebars ">
+
+<!-- ** ACCESSIBILITY OPTIONS ** -->
+<div id="hidden-top">
+	<div>
+		<a href="http://lblpac.nypl.org/klasweb/" title="Click for accessible search">Click for accessible search</a>	
+		<a href="#page-title">Skip Navigation</a>
+	</div>
+</div><!-- ** END ACCESSIBILITY OPTIONS ** -->
+
+
+
+
+
+<div id="main">
+
+
+
+    <!-- ** BEGIN HEADER ** -->
+    <div id="header">
+    
+
+
+<div id="header">
+  <div class="tophdr-wrapper">
+    <div id="header1"><!-- LOGIN, HELP ETC, LANGS -->
+
+      <!-- Output Global Header BiblioCommons Login Form -->
+            
+      <div class="header-buttons">
+        <a href="https://secure3.convio.net/nypl/site/SPageServer?pagename=donation_form&amp;JServSessionIdr003=dwcz55yj27.app304a&amp;s_src=FRQ14ZZ_SWN" class="donate-button">Donate</a>
+                  <div class='account-login'>
+                 <a class='login-button' title='Log In'>
+                    <span class='label'></span>
+                    <img class='logged-in-arrow' src='http://www.nypl.org/sites/all/themes/nypl_new/images/site-icons/down-triangle_15.png' />
+                 </a>
+               </div>
+              <div class='sso-login'>
+                 <div class='login-form desktop-login'>
+                  <form action="/blog/2013/08/28/library-beautiful-bronx"  accept-charset="UTF-8" method="post" id="bc-sso-login-form">
+<div><div class="form-item" id="username-wrapper">
+ <label for="username">Username or bar code: </label>
+ <input type="text" maxlength="128" name="name" id="username" size="60" value="" class="form-text" />
+</div>
+<div class="form-item" id="pin-wrapper">
+ <label for="pin">PIN: </label>
+ <input type="password" name="user_pin" id="pin"  maxlength="128"  size="60"  class="form-text" />
+</div>
+<div class="form-item" id="remember_me-wrapper">
+ <label class="option" for="remember_me"><input type="checkbox" name="remember_me" id="remember_me" value="1"   class="form-checkbox" /> Remember me</label>
+</div>
+<input type="hidden" name="destination" id="edit-destination-1" value="http://www.nypl.org/blog/2013/08/28/library-beautiful-bronx"  />
+<input type="submit" name="op" id="login-form-submit" value="Log In"  class="form-submit" />
+<div id="login-form-help" class="login-helptext">
+      <a href="https://nypl.bibliocommons.com/user/forgot" class="forgotpin-button">Forgot your PIN?</a>
+      <a href="http://www.nypl.org/help/library-card" class="createacct-button">Need an account?</a>
+    </div><input type="hidden" name="form_build_id" id="form-1ca78a38ac9bf2148d62dc89e07a29a6" value="form-1ca78a38ac9bf2148d62dc89e07a29a6"  />
+<input type="hidden" name="form_id" id="edit-bc-sso-login-form" value="bc_sso_login_form"  />
+
+</div></form>
+
+                  <p id='login-message'></p>
+                  <a id='login-form-close' style='top: 0; right: 0; position: absolute; padding: 5px; display:none;' href='#''>Close</a>
+                 </div>
+
+                 <ul class='logged-in-menu'>
+                   <li><a href='http://nypl.bibliocommons.com/user/account'>Personal Information</a></li>
+                   <li><a href='http://nypl.bibliocommons.com/user/saved_searches'>Saved Searches</a></li>
+                   <li><a href='http://nypl.bibliocommons.com/user/preferences'>Preferences</a></li>
+                   <li><a href='http://nypl.bibliocommons.com/user/privacy'>Privacy</a></li>
+                   <li><a href='http://nypl.bibliocommons.com/user/reminders'>Reminders</a></li>
+                   <li><a href='http://nypl.bibliocommons.com/communitycredits'>Community Credits</a></li>
+                   <li><a href='http://nypl.bibliocommons.com/carts/order_history'>Order History</a></li>
+                   <li><a href='http://www.nypl.org/bc_sso/logout' id='sso-logout'>Log out</a></li>
+                 </ul>
+              </div>         
+      </div>
+    </div>
+
+    <div id="header2">
+      
+      <a href="/" id="site-id" title="Go to the home page"><span class="site-name">The New York Public Library</span></a>
+
+      <a href="/" class="logo grid_8">
+        <!-- <a href="/" title="Go to the home page"> -->
+          The New York Public Library
+        <!-- </a>     -->
+      </a>
+      
+      <!-- Responsive header buttons -->
+      <div class="collapsed-buttons">
+        <div class="button search-open-button icon-search"></div>
+        <div class="button nav-open-button icon-menu"></div>
+      </div> 
+
+      <!-- SEARCH -->
+      
+        <!-- SEARCH BOX -->
+        <div id="search-top">
+        <form action="/blog/2013/08/28/library-beautiful-bronx"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><!-- SEARCH BOX -->
+<select class="hideMe" id="t" name="t">
+<option title="Keyword" value="smart">Keyword</option>
+<option title="Title" value="title">Title</option>
+<option title="Author" value="author">Author</option>
+<option title="Subject" value="subject">Subject</option>
+<option title="Tag" value="tag">Tag</option>
+<option title="List" value="userlist">List</option>
+<option title="User" value="user">User</option>
+</select>			
+
+<input id="search_category" name="search_category" type="hidden" value="keyword">		
+
+<input class="form-text" maxlength="128" id="search-block-form-input" name="search_block_form" type="text" placeholder="Find books, music, movies and more">
+<input alt="Search" class="search_button" name="commit" title="Search" type="submit" value="Search">
+
+<div class="searchOptions">
+<span>Search:</span>
+<input checked="checked" class="inline" id="search-zone-catalog" name="search-zone" type="radio" value="catalogue"><label for="search-zone-catalog" class="inline active-option">Catalog</label>
+<input class="inline" id="search-zone-site" name="search-zone" type="radio" value="website"><label for="search-zone-site" class="inline">NYPL.org</label>
+</div>
+
+<div class="searchLinks">
+<a href="http://catalog.nypl.org/" class="moreSearch" >Classic Catalog</a>
+<a href="http://nypl.bibliocommons.com/search" class="moreSearch" >Advanced Search</a>
+</div>
+<!-- END SEARCH -->
+<div class="search-options-resp">
+  <div class="catalog-search">catalog</div>
+  <div class="nypl-search">NYPL.org</div>
+</div>
+</div></form>
+        </div>
+      
+      <!-- END SEARCH -->
+      
+      <div class="clearboth"></div>
+      
+    </div>
+
+    
+  <!-- end .tophdr-wrapper -->
+  </div>
+
+  <div id="header3">
+    <!-- BIBLIOCOMMONS TOP NAV -->
+    <div class="nav-wrapper"><div id="primary-links"><ul>
+<li class="first"><a href="/"><span class="active-border">Home</span></a></li>
+</li>
+<li class="dropDown"><a href="http://nypl.bibliocommons.com/dashboard/user_dashboard"><span class="active-border">My NYPL</span></a>
+<div class="dropDownContent"><ul>
+<li><h5>My Borrowing</h5>
+<ul>
+<li><a href="http://nypl.bibliocommons.com/checkedout" title="">Checked Out</a></li>
+<li><a href="http://nypl.bibliocommons.com/holds/index/active" title="">Holds</a></li>
+<li><a href="http://nypl.bibliocommons.com/fines" title="">Fines</a></li>
+<li class="last"><a href="http://nypl.bibliocommons.com/accountmessages" title="">Library Messages</a></li>
+</ul></li>
+<li><h5>My Shelves</h5>
+<ul>
+<li><a href="http://nypl.bibliocommons.com/collection/show/my/library/completed" title="">Completed</a></li>
+<li><a href="http://nypl.bibliocommons.com/collection/show/my/library/in_progress" title="">In progress</a></li>
+<li><a href="http://nypl.bibliocommons.com/collection/show/my/library/for_later" title="">For later</a></li>
+<li class="last"><a href="http://nypl.bibliocommons.com/lists/show/mine" title="">My Lists</a></li>
+</ul></li>
+<li><h5>My Community</h5>
+<ul>
+<li><a href="http://nypl.bibliocommons.com/trustedsources" title="">I&#039;m Following</a></li>
+<li><a href="http://nypl.bibliocommons.com/ignoredusers" title="">Ignored Users</a></li>
+<li><a href="http://nypl.bibliocommons.com/recently_shared" title="">Recently Shared</a></li>
+<li class="last"><a href="http://nypl.bibliocommons.com/messages" title="">Inbox</a></li>
+</ul></li>
+</ul></div></li>
+<li class="dropDown active"><a href="http://nypl.bibliocommons.com/dashboard"><span class="active-border">Explore</span></a>
+<div class="dropDownContent"><ul>
+<li><h5>New & Notable</h5>
+<ul>
+<li><a href="http://nypl.bibliocommons.com/dashboard" title="">Recent Activity</a></li>
+<li><a href="http://nypl.bibliocommons.com/explore/index/newly_acquired?f_on_order=false" title="">New Titles</a></li>
+<li><a href="http://nypl.bibliocommons.com/explore/index/awards" title="">Award Winners</a></li>
+<li><a href="http://nypl.bibliocommons.com/explore/index/best_sellers" title="">Bestsellers</a></li>
+<li><a href="http://nypl-kids-2013.bibliocommons.com/" title="">Kids Summer Reading 2013</a></li>
+<li><a href="http://nypl-teens-2013.bibliocommons.com/" title="">Teen Summer Reading 2013</a></li>
+<li class="last"><a href="http://nypl-adults-2013.bibliocommons.com/" title="">Adult Summer Reading 2013</a></li>
+</ul></li>
+<li><h5>Collections</h5>
+<ul>
+<li><a href="http://nypl.bibliocommons.com/search?q=books&amp;t=smart&amp;search_category=keyword&amp;title=Books" title="">Books</a></li>
+<li><a href="/ebooks" title="">E-books &amp; Audiobooks</a></li>
+<li><a href="http://nypl.bibliocommons.com/search?q=movies&amp;t=smart&amp;search_category=keyword&amp;title=Movies" title="">Movies</a></li>
+<li><a href="http://nypl.bibliocommons.com/search?t=smart&amp;search_category=keyword&amp;q=music&amp;commit=Search&amp;searchOpt=catalogue&amp;title=Music+and+R" title="">Music &amp; Recordings</a></li>
+<li><a href="http://nypl.bibliocommons.com/search?t=smart&amp;search_category=keyword&amp;q=periodicals&amp;commit=Search&amp;searchOpt=catalogue" title="">Periodicals</a></li>
+<li><a href="http://digitalgallery.nypl.org/" title="">Images</a></li>
+<li class="last"><a href="/collections/nypl-collections/braille-talking-books" title="">Braille &amp; Talking Books</a></li>
+</ul></li>
+<li><h5>Made at NYPL</h5>
+<ul>
+<li><a href="/blog" title="">Blogs</a></li>
+<li><a href="/voices/audio-video" title="">Audio &amp; Video</a></li>
+<li class="last"><a href="/voices/print-publications" title="">Print Publications</a></li>
+</ul></li>
+</ul></div></li>
+<li class="dropDown"><a href="/collections"><span class="active-border">Research</span></a>
+<div class="dropDownContent"><ul>
+<li><h5>Electronic Resources</h5>
+<ul>
+<li><a href="/collections/articles-databases" title="">Articles and Databases</a></li>
+<li><a href="/events/online-exhibitions" title="">Online Exhibitions</a></li>
+<li><a href="http://digitalgallery.nypl.org/" title="">Digital Gallery</a></li>
+<li><a href="/collections/labs" title="">NYPL Labs</a></li>
+<li class="last"><a href="/online_projects" title="Digital Projects">Digital Projects</a></li>
+</ul></li>
+<li><h5>Tools and Services</h5>
+<ul>
+<li><a href="http://catalog.nypl.org/" title="">Classic Catalog</a></li>
+<li><a href="/collections/nypl-recommendations/guides" title="">Research Guides</a></li>
+<li><a href="/specialindexes" title="">Indexes to NYPL Collections</a></li>
+<li><a href="/ask-nypl/research-questions-reproductions" title="">Get Copies</a></li>
+<li class="last"><a href="/collections/nypl-recommendations" title="">NYPL Recommendations</a></li>
+</ul></li>
+<li><h5>Collections</h5>
+<ul>
+<li><a href="/research-collections" title="">Research Collections</a></li>
+<li><a href="http://archives.nypl.org" title="">Manuscripts and Archives</a></li>
+<li><a href="http://wallachprintsandphotos.nypl.org/" title="">Prints &amp; Photos Online Catalog</a></li>
+<li class="last"><a href="/collections/nypl-collections/preservation-division" title="">Preservation of NYPL Collections</a></li>
+</ul></li>
+</ul></div></li>
+<li class="dropDown"><a href="/help"><span class="active-border">Using the Library</span></a>
+<div class="dropDownContent"><ul>
+<li><h5>Get Oriented</h5>
+<ul>
+<li><a href="/help/library-card" title="">Get a Library Card</a></li>
+<li><a href="/help/borrowing-materials" title="">Borrowing</a></li>
+<li><a href="/help/finding-things" title="">How To Find Things</a></li>
+<li><a href="/help/computers-internet-and-wireless-access" title="">Computers</a></li>
+<li><a href="/help/community-outreach/services-for-persons-with-disabilities" title="">Accessibility</a></li>
+<li><a href="/help/about-nypl" title="">About the NYPL</a></li>
+<li class="last"><a href="/voices/connect-nypl" title="">Connect with NYPL</a></li>
+</ul></li>
+<li><h5>Services</h5>
+<ul>
+<li><a href="http://nypl.org/ask-nypl" title="">AskNYPL</a></li>
+<li><a href="/help/computers-internet-and-wireless-access/reserving-computer" title="">Reserve a PC</a></li>
+<li><a href="/help/community-outreach" title="">Community Outreach</a></li>
+<li><a href="/ask-nypl/research-questions-reproductions" title="">Get Copies</a></li>
+<li><a href="/help/research-services/interlibrary-loan" title="Interlibrary Loan">Interlibrary Loan</a></li>
+<li><a href="/spacerental" title="">Space Rental</a></li>
+<li class="last"><a href="http://shop.nypl.org/" title="">The Library Shop</a></li>
+</ul></li>
+<li><h5>I am a...</h5>
+<ul>
+<li><a href="/events/teaching-learning" title="">Teacher</a></li>
+<li><a href="/help/getting-oriented/for-job-seekers" title="">Job Seeker</a></li>
+<li><a href="http://smallbiz.nypl.org/" title="">Small Business Owner</a></li>
+<li><a href="/help/getting-oriented/resources-kids" title="">Child</a></li>
+<li><a href="/help/getting-oriented/resources-teens" title="">Teen</a></li>
+<li><a href="/help/community-outreach/services-for-persons-with-disabilities" title="">Person with a Disability</a></li>
+<li><a href="/help/community-outreach/immigrant-services" title="">Recent Immigrant</a></li>
+<li class="last"><a href="http://nypl.org/support" title="">NYPL Donor</a></li>
+</ul></li>
+</ul></div></li>
+<li class="dropDown"><a href="/locations"><span class="active-border">Locations</span></a>
+<div class="dropDownContent oneLevel"><ul>
+<li><a href="/locations#manhattan-list" title="">Manhattan</a></li>
+<li><a href="/locations#bronx-list" title="">The Bronx</a></li>
+<li><a href="/locations#statenisland-list" title="">Staten Island</a></li>
+<li><a href="/locations/schwarzman" title="">Schwarzman Building</a></li>
+<li><a href="/locations/lpa" title="">Library for the Performing Arts</a></li>
+<li><a href="/locations/schomburg" title="">Schomburg Center</a></li>
+<li class="last"><a href="/locations/sibl" title="">Science, Industry and Business Library</a></li>
+</ul></div></li>
+<li class="dropDown"><a href="/events"><span class="active-border">Classes & Events</span></a>
+<div class="dropDownContent oneLevel"><ul>
+<li><a href="/events/exhibitions" title="">Current Exhibitions</a></li>
+<li><a href="/events/public-programs" title="">Programs</a></li>
+<li><a href="/events/classes" title="">Classes</a></li>
+<li><a href="/events/classes/adult-learning-centers" title="">Learn English</a></li>
+<li><a href="/events/tours" title="">Tours</a></li>
+<li><a href="/events/exhibitions-past" title="">Past Exhibitions</a></li>
+<li class="last"><a href="/events/live-nypl" title="">LIVE from the NYPL</a></li>
+</ul></div></li>
+<li class="dropDown"><a href="/support"><span class="active-border">Support the Library</span></a>
+<div class="dropDownContent oneLevel"><ul>
+<li><a href="http://nypl.org/donate" title="">Donate</a></li>
+<li><a href="/support/membership" title="">Membership</a></li>
+<li><a href="/help/about-nypl/volunteer-nypl" title="">Volunteer</a></li>
+<li><a href="http://www.nypl.org/honorandmemorial" title="Honor and Memorial Gifts">Honor and Memorial Gifts</a></li>
+<li><a href="/support/benefit-events" title="">Benefit Events</a></li>
+<li><a href="/support/planned-giving" title="">Planned Giving</a></li>
+<li><a href="http://shop.nypl.org/" title="">Shop</a></li>
+<li class="last"><a href="/support/donate" title="">More Ways to Give</a></li>
+</ul></div></li>
+<li class="last"><a href="/ask-nypl"><span class="active-border">Help</span></a></li>
+</li>
+</ul></div></div>    <!-- END TOP NAV -->
+
+        <!-- BREADCRUMB NAV -->
+    <div class="breadcrumb"><a href="/">Home</a> › <a href="/voices" title="Blogs, Videos &amp; Publications">Blogs, Videos &amp; Publications</a> › <a href="/blog" title="">Blogs</a></div>    <!-- BREADCRUMB NAV -->
+      </div>
+<!-- End of #header -->
+</div>
+    </div>
+    <!-- ** END HEADER ** -->
+
+
+
+
+    <!-- ** BEGIN CONTENT CONTAINER ** -->
+    <div id="container" class="clear-block">
+
+
+        <!-- ** BEGIN LEFT COLUMN ** -->
+                <div id="local-nav" class="column">
+        <div id="block-nypl_content-14" class="block block-nypl_content">
+<div class="content">
+<ul id="secondary-links"><li class="menu-38740 active-trail first active first-active"><a href="/blog" title="" class="menu-38740 active-trail first active first-active">Blogs</a><ul id="secondary-links-2"><li class="menu-38741 first"><a href="/voices/blogs/blog-channels" title="" class="menu-38741 first">Blog Channels</a></li>
+<li class="menu-38701 "><a href="/blog/subject" title="View Posts By Subject" class="menu-38701 ">Posts by Subject</a></li>
+<li class="menu-58233 "><a href="/voices/blogs/about-nypl-blogs" title="" class="menu-58233 ">About NYPL Blogs</a></li>
+<li class="menu-115668 last"><a href="/voices/blogs/authors" title="" class="menu-115668 last">Blogger Profiles</a></li>
+</ul>
+</li>
+<li class="menu-11373 "><a href="/voices/audio-video" title="Audio &amp; Video" class="menu-11373 ">Audio & Video</a></li>
+<li class="menu-19219 "><a href="/online_projects" title="Digital Projects" class="menu-19219 ">Digital Projects</a></li>
+<li class="menu-1330 "><a href="/voices/print-publications" title="Print Publications" class="menu-1330 ">Print Publications</a></li>
+<li class="menu-11374 last"><a href="/voices/connect-nypl" title="NYPL Voices" class="menu-11374 last">Connect with NYPL</a></li>
+</ul>
+</div>
+</div>
+        </div>
+                <!-- ** END LEFT COLUMN ** -->
+
+
+        <!-- ** BEGIN CENTER COLUMN ** -->
+        <div id="main-content" class="column">
+
+
+            
+
+            
+
+            
+            
+            <h1 class="channel-title"></h1>
+<h1 class="title" id="page-title">A Library as Beautiful as the Bronx: NYC&#039;s First Municipal Green Building<span class="blog-byline"><span class="blog-author"> by Jean Harripersaud, Bronx Library Center</span>
+<span class="blog-date">August 28, 2013</span></h1>
+
+
+            <div id="main-content-inner">
+
+                        <div id="block-nypl_content-15" class="block block-nypl_content block-addthis">
+<h2>Share</h2><div class="addthis_toolbox"><div class="addthis_item addthis_item_facebook_like"><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a></div>
+<div class="addthis_item addthis_item_facebook"><a class="addthis_button_facebook" title="Recommend on Facebook">Recommend</a></div>
+<div class="addthis_item addthis_item_gplusone"><g:plusone size="small"></g:plusone><script type="text/javascript">
+          (function() {
+            var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+            po.src = "https://apis.google.com/js/plusone.js";
+            var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+          })();
+          </script></div>
+<div class="addthis_item addthis_item_tweet"><a class="addthis_button_tweet"></a></div>
+<div class="addthis_item addthis_item_email"><a class="addthis_button_email">Email</a></div>
+<div class="addthis_item addthis_item_print"><a class="addthis_button_print">Print</a></div>
+<div class="addthis_item addthis_item_share addthis_item_last"><a class="addthis_button_compact">Share</a></div>
+</div>
+</div>
+            
+            <div id="main-content-body">
+
+                <div id="node-223902" class="node node-blog">
+	
+
+
+
+
+
+
+
+
+
+<div class="content">
+<p><a href="http://www.dattner.com/portfolio/bronx-library-center/"><span class="inline inline-left"><img src="http://www.nypl.org/sites/default/files/images/green_bldg_0.inline vertical.jpg" alt="Photo credit - Dattner Architects" title="Photo credit - Dattner Architects" class="image image-inline vertical " width="235" height="300" /><span class="caption">Photo credit - Dattner Architects</span></span></a>I remember it vividly.  It was the morning of January 17, 2006, I was on my way to work&mdash;when an <a href="http://new.mta.info/nyct">MTA</a> bus zoomed pass me.  It was then I noticed it, on the side of the bus, a poster size picture of the building with the caption &quot;A library as beautiful as the Bronx.&quot; I looked in astonishment, then with pride and joy as I recognised the building&mdash;it was where I was headed!</p>
+<p>Such was the start of the day which heralded the grand opening of the <a href="http://www.nypl.org/locations/bronx-library-center">Bronx Library Center</a> and NYC's first municipal green building. At the end of the day, 6,000 people would have passed through its doors for the very first time as a city, a borough and a community welcomed and celebrated its new central library building.</p>
+<p>A few months later, the <a href="http://www.usgbc.org/">US Green Building Council</a> would present the <a href="http://www.nypl.org/locations/bronx-library-center">Bronx Library Center</a> with the <a href="http://www.usgbc.org/">LEED</a> Silver Award&mdash;making it the first municipal building in New York City to qualify for and obtain such an award. I delight in seeing the look of amazement on the faces of library visitors each time I let them know that the <a href="http://www.nypl.org/locations/bronx-library-center">Bronx Library Center</a> is <a href="http://www.nyc.gov/html/index.html">NYC</a>'s first municipal green building.</p>
+<p>The <a href="http://www.nypl.org/locations/bronx-library-center">Bronx Library Center</a> is not only a leader in energy efficiency and sustainable design&mdash;it is a 21st century library in every way. As libraries are constantly evolving to meet the ever growing and changing needs of society&mdash;the <a href="http://www.nypl.org/locations/bronx-library-center">Bronx Library Center</a> is reflective of this change.</p>
+<p><a href="http://commons.wikimedia.org/wiki/File:Bronx_Library_Center_main_entrance.jpg"><span class="inline inline-left"><img src="http://www.nypl.org/sites/default/files/images/bronx_library_center_main_entrance.inline vertical.jpg" alt="Photo credit - Julian A. Henderson, Wikimedia Commons" title="Photo credit - Julian A. Henderson, Wikimedia Commons" class="image image-inline vertical " width="300" height="200" /><span class="caption">Photo credit - Julian A. Henderson, Wikimedia Commons</span></span></a></p>
+<p>It is currently the only <a href="http://www.nypl.org">New York Public Library</a> location to comprehensively offer all of the following services and programs under one roof:</p>
+<p>5th Floor -  <a href="http://www.nypl.org/locations/tid/12/node/209764"><strong>Career and Education Information Service</strong></a>: managed by a Career Coach. The department offers computers for job searching, resume creation, editing and posting. Over two thousand training videos from <a href="http://www.lynda.com">Lynda.com</a> can also be accessed on these computers.   Individuals by appointment can have one-on-one job and educational counseling sessions with the Career Coach to get advice on their job search and entry into institutions of higher learning.</p>
+<p>On Tuesdays and Thursdays from 9-5, members of the public can have a one-on-one consultation with a Benefits Counselor from <strong><a href="http://www.singlestopusa.org/">Single Stop</a> </strong>where they can determine if they qualify for any of the 40 goverment benefits and get assistance signing up for same.  These run the gamut from unemployment insurance to SNAPS.</p>
+<p><a href="http://www.nytimes.com/2006/01/16/nyregion/16library.html?pagewanted=all"><span class="inline inline-left"><img src="http://www.nypl.org/sites/default/files/images/ref._jpg.inline vertical.jpg" alt="Photo credit - New York Times" title="Photo credit - New York Times" class="image image-inline vertical " width="300" height="198" /><span class="caption">Photo credit - New York Times</span></span></a>4th Floor - <strong>The Reference Department</strong> has a Reference Collection in English and Spanish and an extensive <a href="http://www.nypl.org/collections/articles-databases?subject=&amp;location=12%2B978&amp;audience=&amp;language=&amp;keyword=&amp;limit=">electronic database collection</a> which can be accessed on the 48 desktop computers available on this floor for public use.  Or if you prefer to sit by the window, check out a laptop at the Circulation Desk.  This floor also features a special rare <strong>Puerto Rican/Latino Heritage Collection</strong> in Spanish housed in a smaller room adorned with the artistry of Puerto Rican Heritage. In addition, there are smaller collections on <a href="http://nypl.bibliocommons.com/search?t=smart&amp;search_category=keyword&amp;q=bronx+history&amp;commit=Search&amp;searchOpt=catalogue&amp;f_status=52-BC&amp;audience=adult&amp;circ=NON_CIRC">Bronx History</a> and <a href="http://nypl.bibliocommons.com/search?t=smart&amp;search_category=keyword&amp;q=edgar+allan+poe&amp;commit=Search&amp;searchOpt=catalogue&amp;f_status=52-BC&amp;audience=adult"> Edgar Allan Poe's</a> works, this great American writer whose cottage is a few yards away from the Bronx Library Center.   There is also a circulating Spanish collection on the Latino experience, from which library users can borrow materials to take home.  Tables and chairs for the serious scholars and lounge seating for the casual reader or those who just want to relax in a social space are available.</p>
+<p><a href="http://www.dattner.com/portfolio/bronx-library-center/"><span class="inline inline-left"><img src="http://www.nypl.org/sites/default/files/images/3rd_floor_-_dattner.inline vertical.jpg" alt="Photo credit - Dattner Architects" title="Photo credit - Dattner Architects" class="image image-inline vertical " width="300" height="207" /><span class="caption">Photo credit - Dattner Architects</span></span></a>3rd Floor - <strong>The Adult Department</strong> has an extensive circulating collection in English&mdash;running the full <a href="http://www.oclc.org/dewey.en.html">Dewey</a> spectrum from computers, management, exam prep to cooking and travel books.  For those who are most interested in the joy of reading, there is General Fiction, Mystery, Sci-Fic, Romance, Classic and for those who prefer to have the book read to them, check out an audio book and plop it into your CD player and shut out the world.  If you are a digital reader, save the $10 for lunch and use your <a href="http://www.nypl.org/help/library-card">library card</a> to download an <a href="http://www.nypl.org/ebooks">e-book</a> for free on your tablet or smartphone.  Need help downloading?  Ask a librarian for instructions.</p>
+<p>This floor has six computers and study tables and lounge seating for adults.  It has a more quiet atmosphere where adults can have their own space. There are designated quiet zones for those who prefer the sound of silence.   The daily newspapers and lots of popular magazines as well as some scholarly journals are available for in library reading. For those who prefer to read in their native language there are smaller collection of books in the following languages: Bengali, Chinese, French, Russian and Vietnamese.   If you prefer to have the sky as your canopy as you relax or study or chat with a friend&mdash;use the <strong>outdoor reading terrace </strong>which is open on fine weather days.&nbsp;</p>
+<p><a href="http://www.agati.com/inst-pl-bronx-library/"><span class="inline inline-left"><img src="http://www.nypl.org/sites/default/files/images/cr.inline vertical.jpg" alt="Photo credit - Agati Furniture" title="Photo credit - Agati Furniture" class="image image-inline vertical " width="300" height="300" /><span class="caption">Photo credit - Agati Furniture</span></span></a>2nd Floor - this entire floor is devoted to <strong>Children's Programs and Services</strong>.  Books, dvds and other materials for children are available.  The floor has a special area where parents with their toddlers can use age appropriate computers or crawl on the colorful rugs flanked by shelves of picture and board books. The older children have their section with computers and non-fiction and Fiction chapter books.  A story hour room equipped to offer a variety of children's programming including a puppet theatre offers daily <a href="http://www.nypl.org/locations/tid/12/calendar?keyword=&amp;type=&amp;topic=&amp;audience=4336&amp;date_op=GREATER_EQUAL&amp;date1=08%2F23%2F2013&amp;date2_get=08%2F23%2F2013">programming for kids</a>.</p>
+<p><a href="http://www.dattner.com/portfolio/bronx-library-center/"><span class="inline inline-left"><img src="http://www.nypl.org/sites/default/files/images/ya_dattner.inline vertical.jpg" alt="Photo credit - Dattner Architects" title="Photo credit - Dattner Architects" class="image image-inline vertical " width="300" height="207" /><span class="caption">Photo credit - Dattner Architects</span></span></a></p>
+<p>1st Floor - this floor has the <strong>Popular Adult Library</strong> (New bestsellers, music cds collection, movie and documentary dvds, Large Print and Urban Fiction collections.  It also has <strong>the Teen Center </strong>- where teenagers can be teenagers in their own space as they use teen designated computers and enjoy teen collections of books, dvds and music cds.  Various <a href="http://www.nypl.org/locations/tid/12/calendar?keyword=&amp;type=&amp;topic=&amp;audience=4356&amp;date_op=GREATER_EQUAL&amp;date1=08%2F23%2F2013&amp;date2_get=08%2F23%2F2013">teen programs</a> are held each week.</p>
+<p>In addition, the <strong>Circulation Department</strong> is located on this level, where you can get a library card, return or check out materials.  This floor also sports a snazzy self-check machine and convenient book drops should you want to avoid waiting on line. This floor is more of a social space and it is okay to chat with friends without the fear of disturbing anyone.</p>
+<p><strong>Concourse Level</strong> - A <strong>150-seat auditorium</strong> offers <a href="http://www.nypl.org/locations/tid/12/calendar?keyword=&amp;type=4324&amp;topic=&amp;audience=4332&amp;series=&amp;date_op=GREATER_EQUAL&amp;date1=08%2F23%2F2013&amp;date2_get=08%2F23%2F2013">performances</a> every Saturday at 2:30 pm.  In addition, <a href="http://www.nypl.org/locations/tid/12/calendar?keyword=film&amp;type=&amp;topic=&amp;audience=4332&amp;series=&amp;date_op=GREATER_EQUAL&amp;date1=08%2F23%2F2013&amp;date2_get=08%2F23%2F2013">lectures</a>, <a href="http://www.nypl.org/locations/tid/12/calendar?keyword=film&amp;type=&amp;topic=&amp;audience=4332&amp;series=&amp;date_op=GREATER_EQUAL&amp;date1=08%2F23%2F2013&amp;date2_get=08%2F23%2F2013">film</a> and community forums are frequently held as well as <a href="http://www.nypl.org/locations/tid/12/node/217302?lref=12%2Fcalenda">instructional workshops</a>.  Also, <strong>a computer lab</strong> provides over <a href="http://www.nypl.org/tech-connect?location=12&amp;amp;type=&amp;amp;topic=&amp;amp;date_op=GREATER_EQUAL&amp;amp;date1=07%2F30%2F2013">30 basic computer classes</a> each month.  The <strong>Adult Learning Center</strong> also located on this floor offers a valuable <strong>Adult Literacy Program</strong> where adults learn to read and write as well as <strong>10 </strong><a href="http://www.nypl.org/locations/tid/12/calendar?keyword=english&amp;type=&amp;topic=&amp;audience=4332&amp;date_op=GREATER_EQUAL&amp;date1=08%2F23%2F2013&amp;date2_get=08%2F23%2F2013"><strong>English as a Second Language classes</strong></a> each week during the Winter, Spring, Summer and Fall sessions.</p>
+<p><span class="inline inline-left"><img src="http://www.nypl.org/sites/default/files/images/dna_0.inline vertical.jpg" alt="" title="" class="image image-inline vertical " width="300" height="224" /></span></p>
+<p>A permanent art work - The <a href="http://www.nyc.gov/html/dcla/html/panyc/manglano-ovalle.shtml">DNA Representation of the Portrait of a Young Reader by Inigo Manglano-Ovallo</a>, adorns one wall on this floor while the gallery space highlights rotating exhibits by educational and culutural institutions as well as local artists.  Library sponsored resource fairs are frequently held in this space.</p>
+<p>The <strong>opening hours of 9 a.m. to 9 p.m. on Mondays through Saturdays, and Sundays noon to 6 p.m.</strong>, all year round, is very convenient for students and workers on every shift.</p>
+<p>I recently attended a <a href="http://libraries.pewinternet.org/2013/01/22/library-services/">Pew Research Center presentation on libraries</a> and found that the public want their libraries to offer the following: (outlined in the Pew Research hyperlinked chart below).  After carefully studying the chart , I though to myself&mdash;by jove, the Bronx Library Center has it  covered.</p>
+<p><a href="http://libraries.pewinternet.org/files/2013/01/pew-internet-2013-01-22-lib-services-4-02.jpg"><span class="inline inline-middle"><img src="http://www.nypl.org/sites/default/files/images/pew-internet-2013-01-22-lib-services-4-02_1.jpg" alt="" title="" class="image image-img_assist_custom " width="525" height="437" /></span></a></p>
+<div class="image-clear"></div>
+</div>
+	
+
+
+
+<div class="links"><ul class="links inline"><li class="blog_usernames_blog first last"><a href="/blog/author/jean-harripersaud" title="Read jeanharripersaud@nypl.org&#039;s latest blog entries." class="blog_usernames_blog first last">View all posts by Jean Harripersaud</a></li>
+</ul>
+</div>
+
+</div>
+
+
+<div id="comments">
+	<h2>Comments</h2>
+	<div class="disclaimer comment-disclaimer">Patron-generated content represents the views and interpretations of the
+patron, not necessarily those of The New York Public Library. For more
+information see <a href="http://www.nypl.org/node/8309">NYPL's Website Terms and Conditions</a>.</div>
+  <div class="box">
+    <h3 class="title">Post new comment</h3>
+  
+  <div class="content"><form action="/comment/reply/223902"  accept-charset="UTF-8" method="post" id="comment-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Your name: </label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="30" value="Anonymous" class="form-text" />
+</div>
+<div class="form-item" id="edit-mail-wrapper">
+ <label for="edit-mail">E-mail: </label>
+ <input type="text" maxlength="64" name="mail" id="edit-mail" size="30" value="" class="form-text" />
+ <div class="description">The content of this field is kept private and will not be shown publicly.</div>
+</div>
+<div class="form-item" id="edit-homepage-wrapper">
+ <label for="edit-homepage">Homepage: </label>
+ <input type="text" maxlength="255" name="homepage" id="edit-homepage" size="30" value="" class="form-text" />
+</div>
+<div class="form-item" id="edit-subject-wrapper">
+ <label for="edit-subject">Subject: </label>
+ <input type="text" maxlength="64" name="subject" id="edit-subject" size="60" value="" class="form-text" />
+</div>
+<div class="form-item" id="edit-comment-wrapper">
+ <label for="edit-comment">Comment: <span class="form-required" title="This field is required.">*</span></label>
+ <textarea cols="60" rows="15" name="comment" id="edit-comment"  class="form-textarea resizable required"></textarea>
+</div>
+<input type="hidden" name="form_build_id" id="form-fada4362024851b8b792a045ae199dfc" value="form-fada4362024851b8b792a045ae199dfc"  />
+<input type="hidden" name="form_id" id="edit-comment-form" value="comment_form"  />
+<div><p>Patrons who contribute comments are asked to read our <a href="/policy-patron-generated-web-content">Policy on Patron-Generated Web Content</a>.</p>
+<p><a href="/help/about-nypl/legal-notices/privacy-policy">View our privacy policy</a></p>
+</div><input type="hidden" name="mollom[contentId]" id="edit-mollom-contentId" value=""  class="mollom-content-id" />
+<input type="hidden" name="mollom[captchaId]" id="edit-mollom-captchaId" value=""  class="mollom-captcha-id" />
+<div style="display: none;"><div class="form-item" id="edit-mollom-homepage-wrapper">
+ <input type="text" maxlength="128" name="mollom[homepage]" id="edit-mollom-homepage" size="60" value="" autocomplete="off" class="form-text" />
+</div>
+</div><div class="edit-body-field-2-wrapper"><div class="form-item" id="edit-body-field-2-wrapper">
+ <input type="text" maxlength="128" name="body_field_2" id="edit-body-field-2" size="20" value="" class="form-text" />
+ <div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div>
+</div><input type="submit" name="op" id="edit-preview" value="Preview"  class="form-submit" />
+<input type="submit" name="op" id="edit-submit" value="Save"  class="form-submit" />
+
+</div></form>
+</div>
+</div>
+</div>
+
+                
+            </div>
+
+
+            
+
+
+                        </div>
+
+        </div>
+        <!-- ** END CENTER COLUMN ** -->
+
+
+
+
+
+
+        <!-- ** BEGIN RIGHT COLUMN ** -->
+
+        <div id="aux-content"  class="column">
+            
+<div id="block-block-47" class="block block-block">
+
+<div class="content"><div style="margin:0 0 10px 0;"><a href="https://secure3.convio.net/nypl/site/SPageServer?pagename=donation_form&JServSessionIdr003=dwcz55yj27.app304a&s_src=FRQ14ZZ_NMN" onclick="_gaq.push(['_setCustomVar', 5, 'Advocacy', 'Right Column Donation Intent', 2]);_gaq.push(['_trackEvent', 'Advocacy', 'Click', 'Right Column Donation Intent', this.href]);"><img src="/sites/default/files/images/fundraising/advocacy_donatebutton_nov2011.jpg" alt="" /><span class="replaced-text">Donate now!</span></a></div></div>
+</div>
+<div id="block-block-6" class="block block-block">
+
+<div class="content"><div id="qwidget-launch">
+<a href="/node/57134"></a>
+<p>Chat with a librarian now</p>
+</div></div>
+</div>            <div id="block-nypl_content-4" class="block block-nypl_content related-content-section">
+<div class="content">
+<h3>This Post Filed Under:</h3>
+<ul class="more_blog_posts">
+<li class="blog_author_link"><a href="/blog/author/jean-harripersaud">Jean Harripersaud (Author)</a></li>
+<li class="blog_location_link"><a href="/blog/library/12">Bronx Library Center</a></li>
+</ul>
+<h3>Related Blog Topics</h3>
+<ul id="related-terms"><li class="terms-4-0 first"><a href="/blog/subject/513" title="Books and Libraries" class="terms-4-0 first">Books and Libraries</a></li>
+<li class="terms-4-1 "><a href="/blog/subject/582" title="Architecture" class="terms-4-1 ">Architecture</a></li>
+<li class="terms-4-2 "><a href="/blog/subject/1016" title="Bronx" class="terms-4-2 ">Bronx</a></li>
+<li class="terms-4-3 last"><a href="/blog/subject/7644" title="Environmentalism" class="terms-4-3 last">Environmentalism</a></li>
+</ul>
+</div>
+</div>
+
+
+<div id="block-nypl_grouper-10" class="block block-nypl_grouper block-nypl_grouper-10">
+
+
+<h3>Subscribe to NYPL Blogs RSS Feeds</h3><div class="content"><ul class="blog_feeds">
+<li><div class="rss-text-link no-ext"><a href="http://www.nypl.org/blog_library_feed/12" class="icon-link"><span class="replaced-text">Subscribe to RSS Feed</span></a><a href="http://www.nypl.org/blog_library_feed/12">Posts from Bronx Library Center</a></div>
+</li>
+<li><div class="rss-text-link no-ext"><a href="http://www.nypl.org/blog_author_feed/208" class="icon-link"><span class="replaced-text">Subscribe to RSS Feed</span></a><a href="http://www.nypl.org/blog_author_feed/208">Posts by Jean Harripersaud</a></div>
+</li>
+<li><div class="rss-text-link no-ext"><a href="http://feeds.feedburner.com/NYPLAllBlogs" class="icon-link"><span class="replaced-text">Subscribe to RSS Feed</span></a><a href="http://feeds.feedburner.com/NYPLAllBlogs">All NYPL Blogs</a></div>
+</li>
+</ul>
+</div>
+</div>            <div id="block-nypl_content-6" class="block block-nypl_content">
+<div class="content">
+<div id="related-links" class="block"><div class="related-content-section"><h3>Also of Interest</h3>
+<ul class="related-links"><li class="29115 first"><a href="/help/about-nypl/collections" class="29115 first">Collections: The Heart of the Library</a></li>
+<li class="57 "><a href="/help/get-what-you-need/photographic-services/obtaining-images" class="57 ">Digital Files for Editorial, Commercial, and Other Uses</a></li>
+<li class="91110 last"><a href="/kidslive-teenlive" class="91110 last">KidsLIVE and TeenLIVE</a></li>
+</ul>
+</div>
+<div class="related-content-section related-content-av"><h3>Audio/Video</h3>
+<ul class="related-links"><li class="84049 first"><a href="/audiovideo/summer-reading-2010" class="84049 first">Summer Reading 2010</a></li>
+<li class="123498 "><a href="/audiovideo/summer-reading-2011" class="123498 ">Summer Reading 2011</a></li>
+<li class="57756 last"><a href="/audiovideo/meet-john-edward-peters-supervising-librarian-children%E2%80%99s-center-42nd-street" class="57756 last">Meet John Edward Peters, Supervising Librarian of the Children's Center at 42nd Street</a></li>
+</ul>
+</div>
+<div class="related-content-section related-content-pubs"><h3>NYPL Print Publications</h3>
+<ul class="related-links"><li class="62027 first"><a href="/node/62027" class="62027 first">The New York Public Library's Your Home Library Kit</a></li>
+<li class="188250 "><a href="/node/188250" class="188250 ">The New York Public Library: A Beaux-Arts Landmark</a></li>
+<li class="61997 last"><a href="/node/61997" class="61997 last">The Library as a Resource for the Adult New Reader</a></li>
+</ul>
+</div>
+</div></div>
+</div>
+<div id="block-nypl_content-11" class="block block-nypl_content">
+<div class="content">
+<div id="donate_button" class="node/223902"><input alt="https://secure3.convio.net/nypl/site/SPageServer?pagename=donation_widget&s_src=FRZ11ZZ_NMLIKEN&s_subsrc=likeit&TB_iframe=true&height=542&width=562" title="Like It? Support It!" class="thickbox donatebuttonlike" value="" type="button"></div>
+</div>
+</div>
+        </div>
+
+        <!-- ** END RIGHT COLUMN ** -->
+
+
+        <div class="clearboth"></div>
+
+
+
+
+        </div>
+        <!-- ** END CONTENT CONTAINER ** -->
+
+
+
+        <!-- ** BEGIN FOOTER ** -->
+        <!-- NOTE: This file needs to be updated with real links that load from Drupal lists -->
+
+<div id="footer"> 
+  
+  
+  <div id="footer1" class="column">
+  <h2><span class="replaced-text">Discover</span></h2>
+    <div class="footer-content">
+      
+      
+      <h3>Picture of the Day</h3><a href="http://digitalgallery.nypl.org/nypldigital/id?den_1387v" onclick="javascript:_gaq.push([&#039;_trackEvent&#039;, &#039;footer&#039;, &#039;Click&#039;, &#039;goal/footer/dg_image&#039;]);"><img src="/sites/default/files/tmp/dg_dailypick_den_1387v.jpg" alt="Ruth St. Denis at Yosemite Valley (1919-1920). NYPL Dance Division." title="Digital Gallery Pick of the Day" /></a><p class="dg-title">Ruth St. Denis at Yosemite Valley (1919-1920). NYPL Dance Division.</p><p>One of 700,000 pictures in the <a href="http://digitalgallery.nypl.org/" onclick="javascript:_gaq.push([&#039;_trackEvent&#039;, &#039;footer&#039;, &#039;Click&#039;, &#039;goal/footer/dg_home&#039;]);">NYPL Digital Gallery</a></p>    
+      
+<div id="block-block-42" class="block block-block">
+
+<h3>Explore NYPL</h3>
+<div class="content"><form class="automenu" id="iamamenu" action="">
+<select name="iamaselector">
+<option value="" selected="selected">Choose your path...</option>
+<option value="/support">NYPL Donor</option>
+<option value="/node/29643">Teacher</option>
+<option value="/node/54754">Job Seeker</option>
+<option value="/node/29646">Child</option>
+<option value="/node/29647">Teen</option>
+<option value="/node/87">Person with a Disability</option>
+<option value="http://smallbiz.nypl.org/">Small Business Owner</option>
+<option value="/node/29870">Recent Immigrant</option>
+
+</select></form></div>
+</div>    
+    </div>
+  </div>
+  
+  
+  <div id="footer2" class="column">
+    <div class="footer-content">
+      <h2><span class="replaced-text">Get Inspired</span></h2>
+      <div id="block-views-media_center-block_3" class="block block-views">
+
+<h3>News</h3>
+<div class="content"><div class="view view-media-center view-id-media_center view-display-id-block_3 view-dom-id-2 ">
+    
+  
+    
+
+    
+
+  
+
+        
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+<div class="title"><a href="/press/press-release/2013/09/26/helen-gurley-brown-trust-gives-15-million-magic-grant-create-nypl-bri">Helen Gurley Brown Trust Gives $15 Million &quot;Magic Grant&quot; To Create The &quot;NYPL BridgeUp&quot; Program at Library Branches For At-Risk Youth</a></div>
+<div class="teaser-text">
+<p><strong>September 26, 2013</strong>&nbsp;&mdash; The Helen Gurley Brown Trust today announced that it has given $15 million to The New York Public Library to establish NYPL BridgeUp, an innovative, new educational and anti-poverty program that will provide academic and social support to New York&nbsp;</p><a href="/press/press-release/2013/09/26/helen-gurley-brown-trust-gives-15-million-magic-grant-create-nypl-bri" class="readmore">Read More › </a></div>
+</div>
+  
+
+
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+
+<div id="block-nypl_grouper-5" class="block block-nypl_grouper block-nypl_grouper-5">
+
+
+<h3>Latest Blog Post</h3><div class="content"><div class="blog-post-preview blog-post-single">
+<div class="content-no-image">
+<div class="title"><a href="/blog/2013/09/27/sensory-sensation">A Sensory Sensation!</a></div><div class="teaser-text">
+<p>We just finished the 67th Street Library's first programs specifically focusing on sensory development and made to be encouraging to children of all abilities. The quest-themed program is called &quot;Mysterious Matter Adventures&quot; and includes sequencing practice, art, and scientific&nbsp;</p><a href="/blog/2013/09/27/sensory-sensation" class="readmore">Read More › </a></div>
+</div>
+</div>
+</div>
+</div>    </div>
+  </div>
+  
+  
+  <div id="footer3" class="column">
+    <div class="footer-content">
+      <h2><span class="replaced-text">Connect</span></h2>
+      
+<div id="block-block-43" class="block block-block">
+
+<h3>Follow NYPL on the Web</h3>
+<div class="content"><ul id="third-party-links">
+    <li id="rss"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/rss/deep-footer/image']);" href="/node/62500"><span class="replaced-text">Subcribe via RSS</span></a></li>
+    <li id="facebook"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/facebook/deep-footer/image']);" href="http://facebook.com/nypl"><span class="replaced-text">Facebook</span></a></li>
+    <li id="twitter"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/twitter/deep-footer/image']);" href="http://twitter.com/nypl"><span class="replaced-text">Twitter</span></a></li>
+    <li id="googleplus"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/googleplus/deep-footer/image']);" href="https://plus.google.com/109540108294407047300/"><span class="replaced-text">Google Plus</span></a></li>
+    <li id="youtube"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/youtube/deep-footer/image']);" href="http://www.youtube.com/profile?user=NewYorkPublicLibrary"><span class="replaced-text">YouTube</span></a></li>
+    <li id="tumblr"><a onClick="javascript:_gaq.push(['_trackPageview', '/goal/tumblr/deep-footer/image']);" href="http://nypl.tumblr.com/"><span class="replaced-text">Tumblr</span></a></li>
+    <li id="foursquare"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/foursquare/deep-footer/image']);" href="http://foursquare.com/nypl"><span class="replaced-text">Foursquare</span></a></li>
+    <li id="flickr"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/flickr/deep-footer/image']);" href="http://www.flickr.com/photos/nypl/"><span class="replaced-text">Flickr</span></a></li>
+    <li id="itunes"><a onclick="javascript:_gaq.push(['_trackPageview', '/goal/iTunes/deep-footer/image']);" href="http://deimos.apple.com/WebObjects/Core.woa/Browse/nypl.org"><span class="replaced-text">iTunes</span></a></li>
+    <li id="pinterest" ><a href="http://pinterest.com/nypl" onclick="javascript:_gaq.push(['_trackPageview', '/goal/pinterest/deep-footer/image']);" class="ext"><span class="replaced-text">Pinterest</span></a></li>
+</ul>
+<p><a onClick="javascript:_gaq.push(['_trackPageview', '/goal/voicethread/deep-footer/text']);" href="http://nypl.voicethread.com/">Visit NYPL on VoiceThread</a></p></div>
+</div>
+<div id="block-block-76" class="block block-block">
+
+<h3>Get NYPL News via Email</h3>
+<div class="content"><form id="news_signup" action="http://cl.exct.net/subscribe.aspx" name="subscribeForm" method="post">
+<input type="hidden" name="thx" value="http://www.nypl.org/node/153301" />
+<input type="hidden" name="err" value="http://www.nypl.org" />
+<input type="hidden" name="SubAction" value="sub_add_update" />
+<input type="hidden" name="MID" value="7000413" />
+<input type="hidden" name="Email Type" value="HTML" />
+<input type="hidden" name="lid" value="1061" />
+
+  <div><a href="/help/about-nypl/legal-notices/privacy-policy" style="float:right; margin-top: 10px;">Privacy Policy</a></div>
+
+  <input type="text" name="Email Address" value="E-mail address" onfocus="if (value='E-mail address') {value=''}" onblur="if (value=='') {value='E-mail address'}" />
+  <input type="submit" value="Sign Up" class="Button" />
+
+
+<input type="hidden" name="Source Code" value="Deep footer" />
+</form></div>
+</div>
+<div id="block-block-44" class="block block-block">
+
+<div class="content">To learn more about how the library uses information you provide, please read our <a href="http://www.nypl.org/privacy">privacy policy</a>.</div>
+</div>    </div>
+  </div>
+  
+  <div class="clearboth"></div>
+
+</div>
+
+<div id="footer-bottom">
+
+
+<div id="block-block-90" class="block block-block">
+
+<div class="content"><ul>
+<li><a href="http://shop.nypl.org/">The Library Shop</a></li>
+</ul>
+<ul>
+<li><a href="/help/about-nypl">About NYPL</a></li>
+<li><a href="/help/about-nypl/president-and-leadership">President and Leadership</a></li>
+<li><a href="/help/about-nypl/capital-projects/42nd-st-renovation">42nd St. Library Renovation</a></li>
+<li><a href="/spacerental">Space Rental</a></li>
+<li><a href="/help/about-nypl/careers-nypl">Careers at NYPL</a></li>
+<li><a href="/help/getting-oriented/resources-teachers">Resources for Teachers</a></li>
+</ul>
+<ul>
+<li><a href="http://www.nypl.org/eNews">E-Newsletters</a></li>
+<li><a href="/help/about-nypl/media-center">Media Center</a></li>
+<li><a href="/voices/connect-nypl">Connect with NYPL</a></li>
+<li><a href="/mobile-help">Mobile Apps</a></li>
+<li><a href="/help/computers-internet-and-wireless-access/reserving-computer">Reserve a PC</a></li>
+</ul>
+<ul>
+<li><a href="/help/about-nypl/legal-notices/privacy-policy">Privacy Policy</a></li>
+<li><a href="/help/about-nypl/legal-notices/rules-and-regulations">Rules and Regulations</a></li>
+<li><a href="/help/computers-internet-and-wireless-access/a-safety-net-for-the-internet">Using the Internet</a></li>
+<li><a href="/help/about-nypl/legal-notices/website-terms-and-conditions">Website Terms and Conditions</a></li>
+<li><a href="/help/about-nypl/legal-notices/policy-gifts-materials">Gifts of Materials to NYPL</a></li>
+</ul>
+<ul>
+<li><a href="/node/57438">Español</a></li>
+<li><a href="/node/107747">中文</a></li>
+<li><a href="/node/107749">русский</a></li>
+</ul>
+</div>
+</div>
+<ul id="legal-links"><li class="0 first last"><span title="Copyright" class="copyright">&copy; The New York Public Library, 2013</span></li>
+</ul>
+
+</div>        <!-- ** END FOOTER ** -->
+
+
+
+
+    </div><!-- ** END MAIN ** -->
+
+
+
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+_gaq.push(['_setCustomVar', 1, 'author', 'blog-Jean Harripersaud']);
+_gaq.push(['_setCustomVar', 2, 'library', 'blog-Bronx Library Center']);
+
+//--><!]]>
+</script>
+    <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","f8d2b656b5","2293520","YlQAYUJUX0EABUANC1seI1ZEXF5cTghbAAFqQQNSVWpHWwQR",0,1172,new Date().getTime(),"","","","",""]);</script></body>
+</html>

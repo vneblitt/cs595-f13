@@ -1,0 +1,1693 @@
+
+
+
+<!DOCTYPE html>
+<html>
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# githubog: http://ogp.me/ns/fb/githubog#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Mail subjects aren&#39;t decoded. · Issue #66 · skx/lumail · GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png" />
+    <link rel="logo" type="image/svg" href="https://github-media-downloads.s3.amazonaws.com/github-logo.svg" />
+    <meta property="og:image" content="https://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png">
+    <meta name="hostname" content="github-fe119-cp1-prd.iad.github.net">
+    <meta name="ruby" content="ruby 1.9.3p194-tcs-github-tcmalloc (2012-05-25, TCS patched 2012-05-27, GitHub v1.0.36) [x86_64-linux]">
+    <link rel="assets" href="https://github.global.ssl.fastly.net/">
+    <link rel="conduit-xhr" href="https://ghconduit.com:25035/">
+    <link rel="xhr-socket" href="/_sockets" />
+    
+
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="selected-link" value="repo_issues" data-pjax-transient />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="8052FD4A:2438:23F8B55:52497B47" name="octolytics-dimension-request_id" />
+    
+
+    
+    
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="MM/6dijwZQqVpNAW81d2xmibTuTP2Nd22FjUzLnVUsM=" name="csrf-token" />
+
+    <link href="https://github.global.ssl.fastly.net/assets/github-ae794206d0e4e8a84619ca476b2b906ec038d487.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="https://github.global.ssl.fastly.net/assets/github2-61cd86e2b320f98354524f6a926105d8cd397d38.css" media="all" rel="stylesheet" type="text/css" />
+    
+
+    
+
+      <script src="https://github.global.ssl.fastly.net/assets/frameworks-4e5aeedcc7a86dcff8294cb84644a333b46202a2.js" type="text/javascript"></script>
+      <script src="https://github.global.ssl.fastly.net/assets/github-0c6e6b57b385c52ea52784f1accc11d4e71e1c62.js" type="text/javascript"></script>
+      
+      <meta http-equiv="x-pjax-version" content="e2ea29d653cc85291b32697b527de68d">
+
+        <meta property="og:title" content="lumail"/>
+  <meta property="og:type" content="githubog:gitrepository"/>
+  <meta property="og:url" content="https://github.com/skx/lumail"/>
+  <meta property="og:image" content="https://github.global.ssl.fastly.net/images/gravatars/gravatar-user-420.png"/>
+  <meta property="og:site_name" content="GitHub"/>
+  <meta property="og:description" content="This is an encoding/decoding problem."/>
+
+  <meta name="description" content="This is an encoding/decoding problem." />
+
+  <meta content="735291" name="octolytics-dimension-user_id" /><meta content="skx" name="octolytics-dimension-user_login" /><meta content="9794046" name="octolytics-dimension-repository_id" /><meta content="skx/lumail" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="9794046" name="octolytics-dimension-repository_network_root_id" /><meta content="skx/lumail" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/skx/lumail/commits/master.atom" rel="alternate" title="Recent Commits to lumail:master" type="application/atom+xml" />
+
+  </head>
+
+
+  <body class="logged_out  env-production  vis-public">
+    <div class="wrapper">
+      
+      
+      
+
+
+      
+      <div class="header header-logged-out">
+  <div class="container clearfix">
+
+    <a class="header-logo-wordmark" href="https://github.com/">
+      <span class="mega-octicon octicon-logo-github"></span>
+    </a>
+
+    <div class="header-actions">
+        <a class="button primary" href="/signup">Sign up</a>
+      <a class="button signin" href="/login?return_to=%2Fskx%2Flumail%2Fissues%2F66">Sign in</a>
+    </div>
+
+    <div class="command-bar js-command-bar  in-repository">
+
+      <ul class="top-nav">
+          <li class="explore"><a href="/explore">Explore</a></li>
+        <li class="features"><a href="/features">Features</a></li>
+          <li class="enterprise"><a href="https://enterprise.github.com/">Enterprise</a></li>
+          <li class="blog"><a href="/blog">Blog</a></li>
+      </ul>
+        <form accept-charset="UTF-8" action="/search" class="command-bar-form" id="top_search_form" method="get">
+
+<input type="text" data-hotkey="/ s" name="q" id="js-command-bar-field" placeholder="Search or type a command" tabindex="1" autocapitalize="off"
+    
+    
+      data-repo="skx/lumail"
+      data-branch="master"
+      data-sha="8addc0876a7b5633ac675e4883c3a3eeb953edd9"
+  >
+
+    <input type="hidden" name="nwo" value="skx/lumail" />
+
+    <div class="select-menu js-menu-container js-select-menu search-context-select-menu">
+      <span class="minibutton select-menu-button js-menu-target">
+        <span class="js-select-button">This repository</span>
+      </span>
+
+      <div class="select-menu-modal-holder js-menu-content js-navigation-container">
+        <div class="select-menu-modal">
+
+          <div class="select-menu-item js-navigation-item js-this-repository-navigation-item selected">
+            <span class="select-menu-item-icon octicon octicon-check"></span>
+            <input type="radio" class="js-search-this-repository" name="search_target" value="repository" checked="checked" />
+            <div class="select-menu-item-text js-select-button-text">This repository</div>
+          </div> <!-- /.select-menu-item -->
+
+          <div class="select-menu-item js-navigation-item js-all-repositories-navigation-item">
+            <span class="select-menu-item-icon octicon octicon-check"></span>
+            <input type="radio" name="search_target" value="global" />
+            <div class="select-menu-item-text js-select-button-text">All repositories</div>
+          </div> <!-- /.select-menu-item -->
+
+        </div>
+      </div>
+    </div>
+
+  <span class="octicon help tooltipped downwards" title="Show command bar help">
+    <span class="octicon octicon-question"></span>
+  </span>
+
+    <input type="hidden" name="type" value="Issues" />
+
+  <input type="hidden" name="ref" value="cmdform">
+
+</form>
+    </div>
+
+  </div>
+</div>
+
+
+      
+
+
+          <div class="site" itemscope itemtype="http://schema.org/WebPage">
+    
+    <div class="pagehead repohead instapaper_ignore readability-menu">
+      <div class="container">
+        
+
+<ul class="pagehead-actions">
+
+
+  <li>
+  <a href="/login?return_to=%2Fskx%2Flumail"
+  class="minibutton with-count js-toggler-target star-button entice tooltipped upwards"
+  title="You must be signed in to use this feature" rel="nofollow">
+  <span class="octicon octicon-star"></span>Star
+</a>
+<a class="social-count js-social-count" href="/skx/lumail/stargazers">
+  46
+</a>
+
+  </li>
+
+    <li>
+      <a href="/login?return_to=%2Fskx%2Flumail"
+        class="minibutton with-count js-toggler-target fork-button entice tooltipped upwards"
+        title="You must be signed in to fork a repository" rel="nofollow">
+        <span class="octicon octicon-git-branch"></span>Fork
+      </a>
+      <a href="/skx/lumail/network" class="social-count">
+        8
+      </a>
+    </li>
+</ul>
+
+        <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public">
+          <span class="repo-label"><span>public</span></span>
+          <span class="mega-octicon octicon-repo"></span>
+          <span class="author">
+            <a href="/skx" class="url fn" itemprop="url" rel="author"><span itemprop="title">skx</span></a></span
+          ><span class="repohead-name-divider">/</span><strong
+          ><a href="/skx/lumail" class="js-current-repository js-repo-home-link">lumail</a></strong>
+
+          <span class="page-context-loader">
+            <img alt="Octocat-spinner-32" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+          </span>
+
+        </h1>
+      </div><!-- /.container -->
+    </div><!-- /.repohead -->
+
+    <div class="container">
+
+      <div class="repository-with-sidebar repo-container ">
+
+        <div class="repository-sidebar">
+            
+
+<div class="repo-nav repo-nav-full js-repository-container-pjax js-octicon-loaders">
+  <div class="repo-nav-contents">
+    <ul class="repo-menu">
+      <li class="tooltipped leftwards" title="Code">
+        <a href="/skx/lumail" aria-label="Code" class="js-selected-navigation-item " data-gotokey="c" data-pjax="true" data-selected-links="repo_source repo_downloads repo_commits repo_tags repo_branches /skx/lumail">
+          <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
+          <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+        <li class="tooltipped leftwards" title="Issues">
+          <a href="/skx/lumail/issues" aria-label="Issues" class="selected js-selected-navigation-item js-disable-pjax" data-gotokey="i" data-selected-links="repo_issues /skx/lumail/issues">
+            <span class="octicon octicon-issue-opened"></span> <span class="full-word">Issues</span>
+            <span class='counter'>3</span>
+            <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>        </li>
+
+      <li class="tooltipped leftwards" title="Pull Requests"><a href="/skx/lumail/pulls" aria-label="Pull Requests" class="js-selected-navigation-item js-disable-pjax" data-gotokey="p" data-selected-links="repo_pulls /skx/lumail/pulls">
+            <span class="octicon octicon-git-pull-request"></span> <span class="full-word">Pull Requests</span>
+            <span class='counter'>0</span>
+            <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+
+    </ul>
+    <div class="repo-menu-separator"></div>
+    <ul class="repo-menu">
+
+      <li class="tooltipped leftwards" title="Pulse">
+        <a href="/skx/lumail/pulse" aria-label="Pulse" class="js-selected-navigation-item " data-pjax="true" data-selected-links="pulse /skx/lumail/pulse">
+          <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
+          <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+      <li class="tooltipped leftwards" title="Graphs">
+        <a href="/skx/lumail/graphs" aria-label="Graphs" class="js-selected-navigation-item " data-pjax="true" data-selected-links="repo_graphs repo_contributors /skx/lumail/graphs">
+          <span class="octicon octicon-graph"></span> <span class="full-word">Graphs</span>
+          <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+      <li class="tooltipped leftwards" title="Network">
+        <a href="/skx/lumail/network" aria-label="Network" class="js-selected-navigation-item js-disable-pjax" data-selected-links="repo_network /skx/lumail/network">
+          <span class="octicon octicon-git-branch"></span> <span class="full-word">Network</span>
+          <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+    </ul>
+
+
+  </div>
+</div>
+
+            <div class="only-with-full-nav">
+              
+
+  
+
+<div class="clone-url open"
+  data-protocol-type="http"
+  data-url="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone">
+  <h3><strong>HTTPS</strong> clone URL</h3>
+  <div class="clone-url-box">
+    <input type="text" class="clone js-url-field"
+           value="https://github.com/skx/lumail.git" readonly="readonly">
+
+    <span class="js-zeroclipboard url-box-clippy minibutton zeroclipboard-button" data-clipboard-text="https://github.com/skx/lumail.git" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
+  </div>
+</div>
+
+  
+
+<div class="clone-url "
+  data-protocol-type="subversion"
+  data-url="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone">
+  <h3><strong>Subversion</strong> checkout URL</h3>
+  <div class="clone-url-box">
+    <input type="text" class="clone js-url-field"
+           value="https://github.com/skx/lumail" readonly="readonly">
+
+    <span class="js-zeroclipboard url-box-clippy minibutton zeroclipboard-button" data-clipboard-text="https://github.com/skx/lumail" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
+  </div>
+</div>
+
+
+<p class="clone-options">You can clone with
+      <a href="#" class="js-clone-selector" data-protocol="http">HTTPS</a>,
+      or <a href="#" class="js-clone-selector" data-protocol="subversion">Subversion</a>.
+  <span class="octicon help tooltipped upwards" title="Get help on which URL is right for you.">
+    <a href="https://help.github.com/articles/which-remote-url-should-i-use">
+    <span class="octicon octicon-question"></span>
+    </a>
+  </span>
+</p>
+
+
+
+              <a href="/skx/lumail/archive/master.zip"
+                 class="minibutton sidebar-button"
+                 title="Download this repository as a zip file"
+                 rel="nofollow">
+                <span class="octicon octicon-cloud-download"></span>
+                Download ZIP
+              </a>
+            </div>
+        </div><!-- /.repository-sidebar -->
+
+        <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
+          
+<style type="text/css" media="screen">
+  span.labelstyle-fc2929 {  background-color: #fc2929 !important;  color: #fff !important;}.labelstyle-fc2929.selected {  background-color: #fc2929 !important;  color: #fff !important;}.label-select-menu .labelstyle-fc2929.selected {  background:rgba(252, 41, 41, 0.12) !important;  color: #991818 !important;}
+
+span.labelstyle-cccccc {  background-color: #cccccc !important;  color: #333333 !important;}.labelstyle-cccccc.selected {  background-color: #cccccc !important;  color: #333333 !important;}.label-select-menu .labelstyle-cccccc.selected {  background:rgba(204, 204, 204, 0.12) !important;  color: #999999 !important;}
+
+span.labelstyle-84b6eb {  background-color: #84b6eb !important;  color: #1c2733 !important;}.labelstyle-84b6eb.selected {  background-color: #84b6eb !important;  color: #1c2733 !important;}.label-select-menu .labelstyle-84b6eb.selected {  background:rgba(132, 182, 235, 0.12) !important;  color: #557699 !important;}
+
+span.labelstyle-e6e6e6 {  background-color: #e6e6e6 !important;  color: #333333 !important;}.labelstyle-e6e6e6.selected {  background-color: #e6e6e6 !important;  color: #333333 !important;}.label-select-menu .labelstyle-e6e6e6.selected {  background:rgba(230, 230, 230, 0.12) !important;  color: #999999 !important;}
+
+span.labelstyle-5319e7 {  background-color: #5319e7 !important;  color: #fff !important;}.labelstyle-5319e7.selected {  background-color: #5319e7 !important;  color: #fff !important;}.label-select-menu .labelstyle-5319e7.selected {  background:rgba(83, 25, 231, 0.12) !important;  color: #361099 !important;}
+
+span.labelstyle-cc317c {  background-color: #cc317c !important;  color: #fff !important;}.labelstyle-cc317c.selected {  background-color: #cc317c !important;  color: #fff !important;}.label-select-menu .labelstyle-cc317c.selected {  background:rgba(204, 49, 124, 0.12) !important;  color: #99245c !important;}
+
+span.labelstyle-009800 {  background-color: #009800 !important;  color: #fff !important;}.labelstyle-009800.selected {  background-color: #009800 !important;  color: #fff !important;}.label-select-menu .labelstyle-009800.selected {  background:rgba(0, 152, 0, 0.12) !important;  color: #009900 !important;}
+
+span.labelstyle-ffffff {  background-color: #ffffff !important;  color: #333333 !important;}.labelstyle-ffffff.selected {  background-color: #ffffff !important;  color: #333333 !important;}.label-select-menu .labelstyle-ffffff.selected {  background:rgba(255, 255, 255, 0.12) !important;  color: #999999 !important;}
+</style>
+
+
+
+<div id="issues_next">
+  <div class="tabnav">
+    <div class="tabnav-right">
+      <div class="tabnav-widget ">
+        <a href="/skx/lumail/issues/new" class="button minibutton primary bigger js-new-issue-button" data-hotkey="c">New Issue</a>
+      </div>
+    </div>
+
+    <ul class="tabnav-tabs">
+      <li><a href="/skx/lumail/issues" class="tabnav-tab selected">Browse Issues</a></li>
+      <li><a href="/skx/lumail/issues/milestones" class="tabnav-tab ">Milestones</a></li>
+    </ul>
+  </div>
+    <div id="show_issue" class="js-issues-results">
+
+    <div class="issue-head clearfix">
+      <span class="back">
+        <span class="octicon octicon-arrow-left"></span>
+        <a href="/skx/lumail/issues" data-hotkey="u" id="to_isssues_list">Back to issue list</a>
+      </span>
+
+      <span class="number">
+        Issue <strong>#66</strong>
+      </span>
+    </div><!-- /.issue-head -->
+
+    <div id="discussion_bucket" class="tab-content">
+      <div class="discussion-sidebar">
+        <div class="discussion-stats">
+  
+
+<span class="state-indicator closed">
+  Closed
+</span>
+
+<p>
+  <strong>18</strong>
+  comments
+</p>
+
+<time id="js-discussion-last-modified" datetime="Fri, 09 Aug 2013 22:46:48 GMT"></time>
+<span class="js-socket-channel js-comment-channel" data-channel="skx/lumail:issue:16916348" data-url="/skx/lumail/issues/66/poll"></span>
+
+
+</div>
+
+<hr />
+
+<div class="discussion-labels">
+  <div class="label-manager">
+  <strong>Labels</strong>
+</div>
+
+<ul class="color-label-list filter-list small">
+  
+</ul>
+
+</div>
+
+      </div>
+
+      <div class="discussion-timeline">
+
+        <div class="js-discussion">
+          
+
+<div class="discussion-bubble js-comment-container js-task-list-container">
+  <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+
+  <div class="discussion-bubble-content bubble">
+    <div class="discussion-bubble-inner">
+      <div class="js-comment comment discussion-topic starting-comment" id="issue-16916348" data-body-version="a2e985cfa4c073e02ad2880fae9dc322">
+
+        <div class="discussion-topic-header">
+          <span class="discussion-topic-author"><a href="/skx">skx</a> opened this issue <time class="js-relative-date" datetime="2013-07-18T05:03:46-07:00" title="2013-07-18 05:03:46">July 18, 2013</time></span>
+          <h2 class="discussion-topic-title js-comment-body-title">Mail subjects aren&#39;t decoded.</h2>
+        </div> <!-- /.topic-comment-header -->
+
+        <div class="discusion-topic-infobar js-infobar js-form-issues">
+          <div class="milestone infobar-widget">
+  <span class="text js-milestone-infobar-item-wrapper">
+      No milestone
+
+  </span>
+
+</div>
+
+<div class="assignee infobar-widget">
+  <span class="css-truncate text js-assignee-infobar-item-wrapper">
+      No one is assigned
+  </span>
+
+</div>
+        </div> <!-- /.discusion-topic-infobar -->
+
+        <div class="comment-content">
+
+          <div class="edit-comment-hide">
+            <div class="js-comment-body comment-body markdown-body markdown-format">
+                <p>This is an encoding/decoding problem.</p>
+            </div>
+          </div>
+
+          
+
+        </div> <!-- /.comment-content -->
+      </div> <!-- /.comment -->
+    </div> <!-- /.discussion-bubble-content -->
+  </div> <!-- /.discussion-bubble-inner -->
+</div> <!-- /.discussion-bubble -->
+
+
+          <div class="js-socket-channel js-updatable-content"
+      data-channel="skx/lumail:issue:16916348"
+      data-url=/skx/lumail/issues/66/show_partial?partial=participants
+    >
+
+  <div class="pull-participation">
+    <p class="quickstat"><a href="#pr_contributors_box" rel="facebox"><strong>3</strong> participants</a></p>
+
+      <a class="avatar tooltipped downwards" title="skx" href="/skx"><img height="24" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="24" /></a>
+      <a class="avatar tooltipped downwards" title="trou" href="/trou"><img height="24" src="https://2.gravatar.com/avatar/3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140" width="24" /></a>
+      <a class="avatar tooltipped downwards" title="jstedfast" href="/jstedfast"><img height="24" src="https://2.gravatar.com/avatar/c72e3d0e20153a42eed12b75f8a91016?d=https%3A%2F%2Fidenticons.github.com%2F77e7090d5c64486562596b7d5771f98d.png&amp;s=140" width="24" /></a>
+  </div>
+
+  <div id="pr_contributors_box" style="display:none">
+    <h2 class="facebox-header">People participating in this issue</h2>
+    <ul class="facebox-user-list">
+      <li class="facebox-user-list-item">
+        <img height="24" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="24" />
+        <a href="/skx">skx</a>
+      </li>
+      <li class="facebox-user-list-item">
+        <img height="24" src="https://2.gravatar.com/avatar/3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140" width="24" />
+        <a href="/trou">trou</a>
+      </li>
+      <li class="facebox-user-list-item">
+        <img height="24" src="https://2.gravatar.com/avatar/c72e3d0e20153a42eed12b75f8a91016?d=https%3A%2F%2Fidenticons.github.com%2F77e7090d5c64486562596b7d5771f98d.png&amp;s=140" width="24" />
+        <a href="/jstedfast">jstedfast</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+            <div class="discussion-bubble js-comment-container">
+    <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21289777" class="js-comment comment  js-task-list-container" data-body-version="8d2cb479481fcb15439633585d47c98f">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21289777" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/skx" class="comment-header-author">skx</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21289777">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21289777" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-20T00:41:14-07:00" title="2013-07-20 00:41:14">July 20, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>As an example blipfoto mails look like this to me:</p>
+
+<pre><code>  Subject: =?utf-8?Q?Blipfoto=20=2D=20Introducing=20the=20all=2Dnew=20Bli
+</code></pre>
+
+<p>Clearly that's a UTF-8-encoded subject, and it needs to be decoded prior to display.</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  <div class="discussion-bubble js-comment-container">
+    <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21289882" class="js-comment comment  js-task-list-container" data-body-version="ceb58c8322d0a511abe0b7c226b36ca7">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21289882" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/skx" class="comment-header-author">skx</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21289882">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21289882" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-20T00:51:38-07:00" title="2013-07-20 00:51:38">July 20, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>Annoyingly calling convert on these will show a result like this:</p>
+
+<pre><code>   Subject: =?utf-8?Q?Blipfoto - Introducing the all-new Blipfoto newslett
+</code></pre>
+
+<p>So we need to do two things:</p>
+
+<ul>
+<li>Decode.</li>
+<li>Remove the leading encoding charset and trailing "?="</li>
+</ul>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  
+<div class="discussion-bubble discussion-reference js-comment-container">
+  <a href="/7histle"><img class="discussion-bubble-avatar" height="48" src="https://1.gravatar.com/avatar/46254a9c226b25199cd9ead742e6a8c5?d=https%3A%2F%2Fidenticons.github.com%2F92409bbd96d7ab650ef277577326d488.png&amp;s=140" width="48" /></a>
+  <div class="discussion-bubble-content bubble">
+    <div class="discussion-bubble-inner">
+      <div class="js-comment comment issue-ref-comment" id="ref-issue-14396774">
+
+        <div class="comment-header">
+          <a href="#ref-issue-14396774"><span class="comment-type-icon octicon octicon-move-left"></span></a>
+          <a href="/7histle" class="comment-header-author" truncate="true">7histle</a>
+          <span class='comment-header-action-text'>
+            <a href='#ref-issue-14396774'>
+              referenced
+              this issue
+            </a>
+          </span>
+
+          <span class="comment-header-right">
+            <a href="#ref-issue-14396774" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-20T03:20:15-07:00" title="2013-07-20 03:20:15">July 20, 2013</time></a>
+          </span>
+        </div> <!-- /.comment-header -->
+
+        <div class="comment-content discussion-reference-content">
+          <div class="comment-body">
+              <strong class="state state-closed">
+                Closed
+              </strong>
+            <h2>
+              <a href="/skx/lumail/issues/9">
+                <span>Issue #9:</span>
+                luxmail SIGSEGV (enter key)
+</a>            </h2>
+            
+          </div>
+        </div> <!-- /.comment-content -->
+      </div> <!-- ./comment -->
+    </div>
+  </div>
+</div><!-- /.discussion-bubble -->
+
+  <div class="discussion-bubble js-comment-container">
+    <a href="/trou"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21342818" class="js-comment comment  js-task-list-container" data-body-version="36fe56858432ef88ebac1f84ba1a8de1">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21342818" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/trou" class="comment-header-author">trou</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21342818">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21342818" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-22T06:14:52-07:00" title="2013-07-22 06:14:52">July 22, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>Headers in sent mails should also be encoded (from:, subject:, etc.)</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  
+
+    
+
+
+<div class="discussion-bubble discussion-commit-list js-comment-container">
+  <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+  <div class="discussion-bubble-content bubble">
+    <div class="discussion-bubble-inner">
+      <div class="js-comment comment" id="ref-commit-df85f88">
+
+        <div class="comment-header">
+          <span class="comment-type-icon octicon octicon-move-left"></span>
+          <a href="/skx" class="comment-header-author" truncate="true">skx</a>
+          <span class='comment-header-action-text'>
+            <a href='#ref-commit-df85f88'>
+              closed
+              this issue
+              from a commit
+            </a>
+          </span>
+          <span class="comment-header-right">
+            <a href="#ref-commit-df85f88" class="comment-header-date">
+              <time class="js-relative-date" datetime="2013-07-22T13:11:03-07:00" title="2013-07-22 13:11:03">July 22, 2013</time>
+            </a>
+          </span>
+        </div> <!-- ./comment-header -->
+
+        <div class="comment-content">
+          <table class='commits commits-condensed' cellspacing='0' width="100%">
+            
+
+<tr class="commit js-details-container js-socket-channel js-updatable-content"
+      data-channel="skx/lumail:commit:df85f88cc567c38723a03645315bfc1c388a271e"
+      data-url="/skx/lumail/commit/df85f88cc567c38723a03645315bfc1c388a271e/show_partial?partial=condensed"
+      id="commit-df85f88cc567c38723a03645315bfc1c388a271e"
+    >
+
+  <td class="gravatar" width="1%">
+      <span class="gravatar"><a href="/skx"><img height="16" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="16" /></a></span>
+  </td>
+
+  <td class="author">
+      <span class="commit-author">
+        <a href="/skx" rel="author">skx</a>
+      </span>
+  </td>
+
+  <td class="message">
+      <code><a href="/skx/lumail/commit/df85f88cc567c38723a03645315bfc1c388a271e" class="message" data-pjax="true" title="  Attempt to correctly decode MIME header-fields.
+
+  This appears to pass my test-cases.  Perhaps more work in the
+ future.
+
+  Closes #66."> Attempt to correctly decode MIME header-fields.</a></code>
+
+        <span class="hidden-text-expander inline"><a href="#" class="js-details-target">…</a></span>
+        <div class="commit-desc"><pre>  This appears to pass my test-cases.  Perhaps more work in the
+ future.
+
+  Closes <a href="https://github.com/skx/lumail/issues/66" class="issue-link" title="Mail subjects aren't decoded.">#66</a>.</pre></div>
+
+  </td>
+
+  <td class="commit-meta" width="1%">
+      
+
+
+      <code><a href="/skx/lumail/commit/df85f88cc567c38723a03645315bfc1c388a271e">df85f88</a></code>
+  </td>
+
+</tr>
+
+          </table>
+        </div> <!-- /.comment-content -->
+      </div> <!-- /.comment -->
+    </div>
+  </div>
+</div><!-- /.discussion-bubble -->
+
+
+
+  <div class="action-bubble">
+    <span class="action">
+      <span class="state-indicator closed">Closed</span>
+    </span>
+    <div class="bubble">
+        <p>
+          <strong><span class="avatar"><img height="24" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="24" /></span>
+            <a href="/skx">skx</a></strong>
+          closed the issue
+          in <code><a href="/skx/lumail/commit/df85f88cc567c38723a03645315bfc1c388a271e">df85f88</a></code>
+          <time class="js-relative-date" datetime="2013-07-22T13:11:25-07:00" title="2013-07-22 13:11:25">July 22, 2013</time>
+        </p>
+    </div><!-- /.bubble -->
+  </div><!-- /.action-bubble -->
+
+  <div class="closed-banner"></div>
+
+
+  <div class="discussion-bubble js-comment-container">
+    <a href="/trou"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21382306" class="js-comment comment  js-task-list-container" data-body-version="15ba0a6075e2c5e517beab0ee54b7ee7">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21382306" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/trou" class="comment-header-author">trou</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21382306">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21382306" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-22T16:01:39-07:00" title="2013-07-22 16:01:39">July 22, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>Unfortunately it's not working yet : <br>
+"=?ISO-8859-1?Q?Rapha=EBl_Rigo?=" is badly displayed as  "Rapha�l_Rigo"<br>
+Note that the space is not converted.</p>
+
+<p>Log : 2013-07-23 00:57:38 CHARSET:'ISO-8859-1' ENCODING:Q DATA:Rapha=EBl_Rigo </p>
+
+<p>my terminal is in UTF-8. Maybe the result should be transcoded ?</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  
+
+
+  <div class="action-bubble">
+    <span class="action">
+      <span class="state-indicator reopened">Reopened</span>
+    </span>
+    <div class="bubble">
+        <p>
+          <strong><span class="avatar"><img height="24" src="https://2.gravatar.com/avatar/3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140" width="24" /></span>
+            <a href="/trou">trou</a></strong>
+          reopened the issue
+          <time class="js-relative-date" datetime="2013-07-22T16:01:39-07:00" title="2013-07-22 16:01:39">July 22, 2013</time>
+        </p>
+    </div><!-- /.bubble -->
+  </div><!-- /.action-bubble -->
+
+
+
+  <div class="discussion-bubble js-comment-container">
+    <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21382579" class="js-comment comment  js-task-list-container" data-body-version="860469f0cad31e4f7d70f40ffa23325e">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21382579" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/skx" class="comment-header-author">skx</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21382579">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21382579" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-22T16:06:48-07:00" title="2013-07-22 16:06:48">July 22, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>Looks good to me:</p>
+
+<pre><code> To: skx/lumail &lt;lumail@noreply.github.com&gt;
+ From: Raphaël Rigo&lt;notifications@github.com&gt;
+ Date: Mon, 22 Jul 2013 06:14:53 -0700
+ Subject: Re: [lumail] Mail subjects aren't decoded. (#66)
+</code></pre>
+
+<p>(This from the mail notification I received on your comment.)</p>
+
+<p>I suspect here the issue is the terminal not matching ISO-8859-1 - since I don't set any character set / output encoding explicitly and all the mails I've tested are UTF-8 which matches my terminal.</p>
+
+<p>So there's two distinct steps we should have:</p>
+
+<ul>
+<li>Decoding the header.</li>
+<li>Encoding for display.</li>
+</ul><p>I've only done the first.</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  <div class="discussion-bubble js-comment-container">
+    <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21382646" class="js-comment comment  js-task-list-container" data-body-version="f69cc214b9750305c5fa5c9f2cf6ee62">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21382646" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/skx" class="comment-header-author">skx</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21382646">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21382646" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-22T16:08:25-07:00" title="2013-07-22 16:08:25">July 22, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>We should probably set the output explicitly UTF-8:</p>
+
+<p><a href="http://stackoverflow.com/questions/4703168/adding-unicode-utf8-chars-to-a-ncurses-display-in-c">http://stackoverflow.com/questions/4703168/adding-unicode-utf8-chars-to-a-ncurses-display-in-c</a></p>
+
+<p>Then use  <code>iconv()</code> and friends to convert to that prior to output.  </p>
+
+<p>Ugh.  I don't like character sets!</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  
+
+
+  <div class="action-bubble">
+    <span class="action">
+      <span class="state-indicator closed">Closed</span>
+    </span>
+    <div class="bubble">
+        <p>
+          <strong><span class="avatar"><img height="24" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="24" /></span>
+            <a href="/skx">skx</a></strong>
+          closed the issue
+          
+          <time class="js-relative-date" datetime="2013-07-24T02:53:22-07:00" title="2013-07-24 02:53:22">July 24, 2013</time>
+        </p>
+    </div><!-- /.bubble -->
+  </div><!-- /.action-bubble -->
+
+  <div class="closed-banner"></div>
+
+
+  <div class="discussion-bubble js-comment-container">
+    <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21474509" class="js-comment comment  js-task-list-container" data-body-version="2ef1d1c0903424e9454c6f4bed64e878">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21474509" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/skx" class="comment-header-author">skx</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21474509">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21474509" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-24T02:53:22-07:00" title="2013-07-24 02:53:22">July 24, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>Headers are decoding so this is closed now.</p>
+
+<p>I've created two new ones for the updated reports:</p>
+
+<p><a href="https://github.com/skx/lumail/issues/79" class="issue-link" title="Console isn't setup for UTF">#79</a> - Console isn't setup for UTF<br>
+<a href="https://github.com/skx/lumail/issues/80" class="issue-link" title="We decode headers, but we don't encode them.">#80</a>  - We decode headers, but we don't encode them.</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  <div class="discussion-bubble js-comment-container">
+    <a href="/trou"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21478326" class="js-comment comment  js-task-list-container" data-body-version="7866983072e8bdad3bc3066564f553f1">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21478326" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/trou" class="comment-header-author">trou</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21478326">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21478326" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-24T04:23:45-07:00" title="2013-07-24 04:23:45">July 24, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>Still not working :(<br>
+You code assumes the RFC 2047 encoding starts at the beginning.<br>
+Unfortunately, the encoding can start at any time. You can even have several encodings in the same header.<br>
+The examples in <a href="http://tools.ietf.org/html/rfc2047">http://tools.ietf.org/html/rfc2047</a> are telling.</p>
+
+<p>Reimplementing a complex thing like that seems a waste of time. Unfortunately, mimetic doesn't seem to handle RFC2047 :( </p>
+
+<p>A quick search shows that <a href="http://www.vmime.org/">http://www.vmime.org/</a> does.</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  
+
+
+  <div class="action-bubble">
+    <span class="action">
+      <span class="state-indicator reopened">Reopened</span>
+    </span>
+    <div class="bubble">
+        <p>
+          <strong><span class="avatar"><img height="24" src="https://2.gravatar.com/avatar/3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140" width="24" /></span>
+            <a href="/trou">trou</a></strong>
+          reopened the issue
+          <time class="js-relative-date" datetime="2013-07-24T04:23:45-07:00" title="2013-07-24 04:23:45">July 24, 2013</time>
+        </p>
+    </div><!-- /.bubble -->
+  </div><!-- /.action-bubble -->
+
+
+
+  <div class="discussion-bubble js-comment-container">
+    <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21478483" class="js-comment comment  js-task-list-container" data-body-version="777ae82bd8773e3709849b505a850672">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21478483" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/skx" class="comment-header-author">skx</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21478483">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21478483" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-24T04:27:11-07:00" title="2013-07-24 04:27:11">July 24, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>Ugh.  Off the top of my head we either:</p>
+
+<ul>
+<li>Jump ship away from mimetic entirely.  (Hard.  Annoying.)</li>
+<li>Look at using an additional library for header-decoding.  (Annoying too, but less so.)</li>
+<li>Continue hacking up my almost-solution.  Certainly handling the case of multiple repeats in a line, and starting in the middle wouldn't be hard. But it's probably not the solution to choose.</li>
+</ul><p>I don't want to rely upon a library that is not packaged for Debian, but there are other MIME libraries out there, so I will have a look.</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  <div class="discussion-bubble js-comment-container">
+    <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21478564" class="js-comment comment  js-task-list-container" data-body-version="ee4c1a00db5909049429869f54a9d456">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21478564" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/skx" class="comment-header-author">skx</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21478564">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21478564" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-24T04:29:43-07:00" title="2013-07-24 04:29:43">July 24, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>ObRandom:  <a href="http://libmmail.bsd.lv/">http://libmmail.bsd.lv/</a> - could we embed?</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  
+<div class="discussion-bubble discussion-reference js-comment-container">
+  <a href="/trou"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140" width="48" /></a>
+  <div class="discussion-bubble-content bubble">
+    <div class="discussion-bubble-inner">
+      <div class="js-comment comment issue-ref-comment" id="ref-issue-17151605">
+
+        <div class="comment-header">
+          <a href="#ref-issue-17151605"><span class="comment-type-icon octicon octicon-move-left"></span></a>
+          <a href="/trou" class="comment-header-author" truncate="true">trou</a>
+          <span class='comment-header-action-text'>
+            <a href='#ref-issue-17151605'>
+              referenced
+              this issue
+            </a>
+          </span>
+
+          <span class="comment-header-right">
+            <a href="#ref-issue-17151605" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-24T04:30:54-07:00" title="2013-07-24 04:30:54">July 24, 2013</time></a>
+          </span>
+        </div> <!-- /.comment-header -->
+
+        <div class="comment-content discussion-reference-content">
+          <div class="comment-body">
+              <strong class="state state-closed">
+                Closed
+              </strong>
+            <h2>
+              <a href="/skx/lumail/issues/81">
+                <span>Issue #81:</span>
+                Some mails corrupt display
+</a>            </h2>
+            
+          </div>
+        </div> <!-- /.comment-content -->
+      </div> <!-- ./comment -->
+    </div>
+  </div>
+</div><!-- /.discussion-bubble -->
+
+  <div class="discussion-bubble js-comment-container">
+    <a href="/trou"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21478730" class="js-comment comment  js-task-list-container" data-body-version="25b1bb933432b22f52451c6ddf79d6a1">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21478730" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/trou" class="comment-header-author">trou</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21478730">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21478730" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-24T04:34:13-07:00" title="2013-07-24 04:34:13">July 24, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>vmime is in Debian.</p>
+
+<p>I think embedding a library is bad. Parsing is notably hard and prone to security bugs, which is problematic when libraries are embedded.</p>
+
+<p>The problem with hacking a solution is think mail clients are among the worst pieces of software ever written ... we're likely going to encounter every possible misinterpretation from the RFCs. Reimplementing hacks to handle all those cases one more time is a waste of time... and let's not forget the risks of getting it wrong and introducing vulnerabilities.</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  <div class="discussion-bubble js-comment-container">
+    <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21485181" class="js-comment comment  js-task-list-container" data-body-version="d709e9add3892ca2adfb17c42f038949">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21485181" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/skx" class="comment-header-author">skx</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21485181">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21485181" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-24T06:41:20-07:00" title="2013-07-24 06:41:20">July 24, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>Thanks for the correction on vmime.  It looks like it is in squeeze/sid, but not stable.  Which is where I looked.  Which is a problem.</p>
+
+<p>Agreed on embedding a library, unless it is very stable/small/mature.</p>
+
+<p>I guess I'll need to look at using vmime for this purpose, then backporting for wheezy.  Because I run stable on my mail-machines.</p>
+
+<p>Leave it with me.</p>
+
+<p>Proposed solution:</p>
+
+<ol>
+<li> Move to using vmime for header decoding.  To solve this bug.</li>
+<li> Move to using vmime for header <em>encoding</em> to solve <a href="https://github.com/skx/lumail/issues/80" class="issue-link" title="We decode headers, but we don't encode them.">#80</a> - We decode headers, but we don't encode them.</li>
+<li> Later look to see if we can rip out mimetic and use vmime for attachment retrieval/addition/body-content fetching.</li>
+</ol><p>I will close this bug when 1. is complete.  Leaving <a href="https://github.com/skx/lumail/issues/80" class="issue-link" title="We decode headers, but we don't encode them.">#80</a> for the outgoing, and a future bug for mimetic removal if the first two parts work.</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  <div class="discussion-bubble js-comment-container">
+    <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-21493291" class="js-comment comment  js-task-list-container" data-body-version="5147a4a41ca123b4292379fadc04d5ba">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-21493291" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/skx" class="comment-header-author">skx</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-21493291">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-21493291" class="comment-header-date"><time class="js-relative-date" datetime="2013-07-24T08:32:12-07:00" title="2013-07-24 08:32:12">July 24, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>Have backported the vmime library.  Struggling to understand how to use it for the header-decoding.  Will struggle on ... </p>
+
+<p>If we don't get it fixed by Friday I'll move this to the next release.</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  
+
+    
+
+
+<div class="discussion-bubble discussion-commit-list js-comment-container">
+  <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+  <div class="discussion-bubble-content bubble">
+    <div class="discussion-bubble-inner">
+      <div class="js-comment comment" id="ref-commit-a7138d7">
+
+        <div class="comment-header">
+          <span class="comment-type-icon octicon octicon-move-left"></span>
+          <a href="/skx" class="comment-header-author" truncate="true">skx</a>
+          <span class='comment-header-action-text'>
+            <a href='#ref-commit-a7138d7'>
+              referenced
+              this issue
+              from a commit
+            </a>
+          </span>
+          <span class="comment-header-right">
+            <a href="#ref-commit-a7138d7" class="comment-header-date">
+              <time class="js-relative-date" datetime="2013-08-05T10:35:28-07:00" title="2013-08-05 10:35:28">August 05, 2013</time>
+            </a>
+          </span>
+        </div> <!-- ./comment-header -->
+
+        <div class="comment-content">
+          <table class='commits commits-condensed' cellspacing='0' width="100%">
+            
+
+<tr class="commit js-details-container js-socket-channel js-updatable-content"
+      data-channel="skx/lumail:commit:a7138d7ef7f65d4157df83995381ba57dc0d6849"
+      data-url="/skx/lumail/commit/a7138d7ef7f65d4157df83995381ba57dc0d6849/show_partial?partial=condensed"
+      id="commit-a7138d7ef7f65d4157df83995381ba57dc0d6849"
+    >
+
+  <td class="gravatar" width="1%">
+      <span class="gravatar"><a href="/skx"><img height="16" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="16" /></a></span>
+  </td>
+
+  <td class="author">
+      <span class="commit-author">
+        <a href="/skx" rel="author">skx</a>
+      </span>
+  </td>
+
+  <td class="message">
+      <code><a href="/skx/lumail/commit/a7138d7ef7f65d4157df83995381ba57dc0d6849" class="message" data-pjax="true" title="  Don&#39;t try to decode header-fields.
+
+  The code in place was bogus, we need a real solution.
+
+  This is part of #66."> Don't try to decode header-fields.</a></code>
+
+        <span class="hidden-text-expander inline"><a href="#" class="js-details-target">…</a></span>
+        <div class="commit-desc"><pre>  The code in place was bogus, we need a real solution.
+
+  This is part of <a href="https://github.com/skx/lumail/issues/66" class="issue-link" title="Mail subjects aren't decoded.">#66</a>.</pre></div>
+
+  </td>
+
+  <td class="commit-meta" width="1%">
+      
+
+
+      <code><a href="/skx/lumail/commit/a7138d7ef7f65d4157df83995381ba57dc0d6849">a7138d7</a></code>
+  </td>
+
+</tr>
+
+          </table>
+        </div> <!-- /.comment-content -->
+      </div> <!-- /.comment -->
+    </div>
+  </div>
+</div><!-- /.discussion-bubble -->
+
+
+
+
+  
+<div class="discussion-bubble discussion-reference js-comment-container">
+  <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+  <div class="discussion-bubble-content bubble">
+    <div class="discussion-bubble-inner">
+      <div class="js-comment comment issue-ref-comment" id="ref-issue-17860455">
+
+        <div class="comment-header">
+          <a href="#ref-issue-17860455"><span class="comment-type-icon octicon octicon-move-left"></span></a>
+          <a href="/skx" class="comment-header-author" truncate="true">skx</a>
+          <span class='comment-header-action-text'>
+            <a href='#ref-issue-17860455'>
+              referenced
+              this issue
+            </a>
+          </span>
+
+          <span class="comment-header-right">
+            <a href="#ref-issue-17860455" class="comment-header-date"><time class="js-relative-date" datetime="2013-08-09T05:51:14-07:00" title="2013-08-09 05:51:14">August 09, 2013</time></a>
+          </span>
+        </div> <!-- /.comment-header -->
+
+        <div class="comment-content discussion-reference-content">
+          <div class="comment-body">
+              <strong class="state state-closed">
+                Closed
+              </strong>
+            <h2>
+              <a href="/skx/lumail/issues/100">
+                <span>Issue #100:</span>
+                libmimetic may be overly conservative with header parsing
+</a>            </h2>
+            
+          </div>
+        </div> <!-- /.comment-content -->
+      </div> <!-- ./comment -->
+    </div>
+  </div>
+</div><!-- /.discussion-bubble -->
+
+  <div class="discussion-bubble js-comment-container">
+    <a href="/jstedfast"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/c72e3d0e20153a42eed12b75f8a91016?d=https%3A%2F%2Fidenticons.github.com%2F77e7090d5c64486562596b7d5771f98d.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-22394802" class="js-comment comment  js-task-list-container" data-body-version="c4e7729dd0138566b65eb7ff60cbf498">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-22394802" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/jstedfast" class="comment-header-author">jstedfast</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-22394802">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-22394802" class="comment-header-date"><time class="js-relative-date" datetime="2013-08-09T06:41:17-07:00" title="2013-08-09 06:41:17">August 09, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>Hi,</p>
+
+<p>I'm the author of GMime and I just happened to come across your recent blog post about rfc2047 header decoding (it was referenced from a recent notmuch mailing-list email that a friend just pointed me at).</p>
+
+<p>Solving this problem is fairly difficult as so many mail clients generate all manner of broken headers. I've spent <em>years</em> tweaking and rewriting the one in GMime to handle as many different cases as it does.</p>
+
+<p>Here's a short list of the problems you'll face:</p>
+
+<ol>
+<li><p>First off, there are technically 2 variations of header encoding formats specified by rfc2047 - one for phrases and one for unstructured text fields. They are very similar but you can't use the same rules for tokenizing them. I mention this because it seems that most MIME parsers miss this very subtle distinction and so, as you might imagine, do most MIME generators. Hell, most MIME generators probably never even heard of specifications to begin with it seems... which brings us to:</p></li>
+<li>
+<p>There are so many variations of how MIME headers fail to be tokenizable according to the rules of rfc*822 and rfc2047. You'll encounter fun stuff such as:</p>
+
+<p>a) encoded-word tokens illegally being embedded in other word tokens<br>
+b) encoded-word tokens containing illegal characters in them (such as spaces, line breaks, and more)<br>
+c) multi-byte character sequences being split between multiple encoded-word tokens<br>
+d) the payloads of encoded-word tokens being split up into multiple encoded-word tokens (IOW the encoder first base64 or qp-encoded the text and then decided it was too long to fit on a single line, and so split up the encoded payload and placed the resulting chunks in different encoded-word tokens with no regard for the idea that each encoded-word token is supposed to be able to be decoded independently of other encoded-word tokens)</p>
+
+<p>You can see some examples here: <a href="https://git.gnome.org/browse/gmime/tree/tests/test-mime.c#n211">https://git.gnome.org/browse/gmime/tree/tests/test-mime.c#n211</a></p>
+</li>
+<li>
+<p>Something that many MIME authors seem to miss is the fact that each encoded-word token is allowed to be in different character encodings (you might have one token in UTF-8, another in ISO-8859-1 and yet another in koi8-r). Normally, this would be no big deal because you'd just decode each payload, then convert from the specified charset into UTF-8 via iconv() or something. However, due to the fun brokenness I mentioned above in 2c and 2d, this becomes more complicated...</p>
+
+<p>If that isn't enough to make you want to throw your hands up in the air and mutter some profanities, there's more...</p>
+</li>
+<li><p>Undeclared 8bit text in headers. Yep. Some mailers just didn't get the memo that they are supposed to encode non-ASCII text. So now you get to have the fun experience of mixing and matching undeclared 8bit text of God-only-knows what charset along with the content of (probably broken) encoded-words.</p></li>
+</ol><p>If you order in the next 5 minutes, we'll ship you not 1, but 2 ShamWows! They can be yours for $19.95 plus shipping and handling! But wait, there's more! ...</p>
+
+<p>Seriously though, you probably won't want to write your own rfc2047 decoders.</p>
+
+<p>Allow me to point you at GMime's rfc2047 decoders: <a href="https://git.gnome.org/browse/gmime/tree/gmime/gmime-utils.c#n1769">https://git.gnome.org/browse/gmime/tree/gmime/gmime-utils.c#n1769</a></p>
+
+<p>I'd recommend using GMime (duh, I'm biased) but even if you decide to stick with libmimetic, at least consider using GMime's code as a guide for getting this right.</p>
+
+<p>In any event, I hope that I have been helpful.</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  <div class="discussion-bubble js-comment-container">
+    <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-22396414" class="js-comment comment  js-task-list-container" data-body-version="f965f25d0d267a4331e7f06202c8bcf7">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-22396414" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/skx" class="comment-header-author">skx</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-22396414">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-22396414" class="comment-header-date"><time class="js-relative-date" datetime="2013-08-09T07:06:31-07:00" title="2013-08-09 07:06:31">August 09, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>I wish I had the time to respond more completely; but yes, that was absolutely useful.</p>
+
+<p>GMime is probably the biggest contender at the moment, but I really need to sit down and work out the API.</p>
+
+<p>I'd prefer to use only one library for all MIME-fu, whether vmime, GMime, or mimetic, but it seems that there are different areas of pain with each library which complicates things a little.</p>
+
+<p>If it were possible to write something "mostly good enough" I'd do that, but I'd rather avoid the pain if I can help it.  That just seems like common-sense.</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  <div class="discussion-bubble js-comment-container">
+    <a href="/trou"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-22412940" class="js-comment comment  js-task-list-container" data-body-version="8764bd99bc73eaefcb7888365c8eaa7f">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-22412940" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/trou" class="comment-header-author">trou</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-22412940">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-22412940" class="comment-header-date"><time class="js-relative-date" datetime="2013-08-09T11:07:51-07:00" title="2013-08-09 11:07:51">August 09, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>I wonder if replacing mimetic is not the only option : no rfc2047 support, more or less stalled development, strict header parsing... <br>
+Then, you're the one to choose, while I'd gladly try to move to GMime, I must admit my C++ skills are rudimentary and the resulting code would probably be bad.</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  <div class="discussion-bubble js-comment-container">
+    <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-22413559" class="js-comment comment  js-task-list-container" data-body-version="7f86a62890fc6a9a8d260b0f91ac119d">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-22413559" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/skx" class="comment-header-author">skx</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-22413559">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-22413559" class="comment-header-date"><time class="js-relative-date" datetime="2013-08-09T11:17:18-07:00" title="2013-08-09 11:17:18">August 09, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>It was the first MIME library I came across with decent examples for both "attachment saving to disk", and "adding outgoing attachments".</p>
+
+<p>I'd certainly rather go through the pain of migration to a new solution than depend upon two mime libraries.  But as a starting point I'd probably suggest:</p>
+
+<ol>
+<li> Add a second library for header-decoding/encoding.</li>
+<li> Then transition to it entirely.</li>
+</ol><p>I'm not familiar with either vmime, or gmime, from a development point of view, but I'm willing to learn.  Ideally somebody would do the work for us, but I suspect that's unlikely ;)</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  <div class="discussion-bubble js-comment-container">
+    <a href="/skx"><img class="discussion-bubble-avatar" height="48" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="48" /></a>
+    <div class="discussion-bubble-content bubble">
+      <div class="discussion-bubble-inner">
+        
+
+<div id="issuecomment-22427542" class="js-comment comment  js-task-list-container" data-body-version="76681647e78c3393e616b686de60dddd">
+  <div class="comment-header -comment-header">
+      <a href="#issuecomment-22427542" class="comment-type-icon octicon octicon-comment" title=""></a>
+    <a href="/skx" class="comment-header-author">skx</a>
+    <span class='comment-header-action-text'>
+      <a href="#issuecomment-22427542">
+      commented
+      </a>
+    </span>
+
+    <span class="comment-header-right">
+        <a href="#issuecomment-22427542" class="comment-header-date"><time class="js-relative-date" datetime="2013-08-09T15:46:47-07:00" title="2013-08-09 15:46:47">August 09, 2013</time></a>
+    </span>
+  </div> <!-- /.comment-header -->
+
+  <div class="comment-content">
+
+    <div class="edit-comment-hide">
+      <div class="js-comment-body comment-body markdown-body markdown-format">
+          <p>Replacing with <a href="https://github.com/skx/lumail/issues/101" class="issue-link" title="Migration to gmime-2.6">#101</a> - Migrating to gmime 2.6.</p>
+      </div>
+    </div>
+  </div> <!-- /.comment-content -->
+</div> <!-- /.comment -->
+
+      </div>
+    </div>
+  </div><!-- /.discussion-bubble -->
+  
+
+
+  <div class="action-bubble">
+    <span class="action">
+      <span class="state-indicator closed">Closed</span>
+    </span>
+    <div class="bubble">
+        <p>
+          <strong><span class="avatar"><img height="24" src="https://2.gravatar.com/avatar/41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140" width="24" /></span>
+            <a href="/skx">skx</a></strong>
+          closed the issue
+          
+          <time class="js-relative-date" datetime="2013-08-09T15:46:48-07:00" title="2013-08-09 15:46:48">August 09, 2013</time>
+        </p>
+    </div><!-- /.bubble -->
+  </div><!-- /.action-bubble -->
+
+  <div class="closed-banner"></div>
+
+
+
+
+
+
+        </div>
+
+          <div class="signed-out-comment">
+	<a href="/signup/free" class="minibutton btn-default green" rel="nofollow">Sign up for free</a>
+	<strong>to join this discussion on GitHub</strong>.
+	Already have an account?
+	<a href="/login?return_to=%2Fskx%2Flumail%2Fissues%2F66" rel="nofollow">Sign in to comment</a>
+</div>
+
+
+        
+
+
+      </div><!-- /.discussion-timeline -->
+
+    </div><!-- /#discussion_bucket -->
+    <div class="clear"></div>
+  </div>
+
+</div>
+
+
+        </div>
+
+      </div><!-- /.repo-container -->
+      <div class="modal-backdrop"></div>
+    </div><!-- /.container -->
+  </div><!-- /.site -->
+
+
+    </div><!-- /.wrapper -->
+
+      <div class="container">
+  <div class="site-footer">
+    <ul class="site-footer-links right">
+      <li><a href="https://status.github.com/">Status</a></li>
+      <li><a href="http://developer.github.com">API</a></li>
+      <li><a href="http://training.github.com">Training</a></li>
+      <li><a href="http://shop.github.com">Shop</a></li>
+      <li><a href="/blog">Blog</a></li>
+      <li><a href="/about">About</a></li>
+
+    </ul>
+
+    <a href="/">
+      <span class="mega-octicon octicon-mark-github"></span>
+    </a>
+
+    <ul class="site-footer-links">
+      <li>&copy; 2013 <span title="0.10439s from github-fe119-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="/site/terms">Terms</a></li>
+        <li><a href="/site/privacy">Privacy</a></li>
+        <li><a href="/security">Security</a></li>
+        <li><a href="/contact">Contact</a></li>
+    </ul>
+  </div><!-- /.site-footer -->
+</div><!-- /.container -->
+
+
+    <div class="fullscreen-overlay js-fullscreen-overlay" id="fullscreen_overlay">
+  <div class="fullscreen-container js-fullscreen-container">
+    <div class="textarea-wrap">
+      <textarea name="fullscreen-contents" id="fullscreen-contents" class="js-fullscreen-contents" placeholder="" data-suggester="fullscreen_suggester"></textarea>
+          <div class="suggester-container">
+              <div class="suggester fullscreen-suggester js-navigation-container" id="fullscreen_suggester"
+                 data-url="/skx/lumail/suggestions/commit">
+              </div>
+          </div>
+    </div>
+  </div>
+  <div class="fullscreen-sidebar">
+    <a href="#" class="exit-fullscreen js-exit-fullscreen tooltipped leftwards" title="Exit Zen Mode">
+      <span class="mega-octicon octicon-screen-normal"></span>
+    </a>
+    <a href="#" class="theme-switcher js-theme-switcher tooltipped leftwards"
+      title="Switch themes">
+      <span class="octicon octicon-color-mode"></span>
+    </a>
+  </div>
+</div>
+
+
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="octicon octicon-alert"></span>
+      <a href="#" class="octicon octicon-remove-close close ajax-error-dismiss"></a>
+      Something went wrong with that request. Please try again.
+    </div>
+
+  </body>
+</html>
+

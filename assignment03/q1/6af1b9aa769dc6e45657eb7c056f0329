@@ -1,0 +1,364 @@
+<!doctype html>
+
+<!--[if lt IE 8]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if IE 9]><!--><html class="no-js ie9" lang="en"><!--<![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+	<head>
+		<meta charset="utf-8" />
+
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+		
+		<link rel="dns-prefetch" href="/static/c-927bdb4/" />
+
+		
+		<link rel="static-url" href="/static/c-927bdb4/" />
+
+		<title>The Hunger Games Explorer </title>
+
+		<meta name="description" content="See the new #CatchingFireTrailer &amp; #CelebrateYourVictors at the #HungerGamesExplorer to earn rewards! - www.theHungerGamesExplorer.com" />
+		<meta name="author" content="Lionsgate" />
+
+		
+		<meta name="viewport" content="width=320, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+
+		
+		<meta name="application-name" content="The Hunger Games Explorer " />
+		<meta name="msapplication-tooltip" content="The official website for all things Hunger Games" />
+		<meta name="msapplication-TileImage" content="/static/c-927bdb4/img/share/144x144.png"/>
+		<meta name="msapplication-square70x70logo" content="/static/c-927bdb4/img/share/70x70.jpg" />
+		<meta name="msapplication-square150x150logo" content="/static/c-927bdb4/img/share/150x150.jpg" />
+		<meta name="msapplication-wide310x150logo" content="/static/c-927bdb4/img/share/310x150.jpg" />
+		<meta name="msapplication-square310x310logo" content="/static/c-927bdb4/img/share/310x310.jpg" />
+		<meta name="msapplication-TileColor" content="#222222"/>
+		<link rel="shortcut icon" href="/static/c-927bdb4/local/favicon.ico"/>
+
+		
+
+		
+		<link rel="stylesheet" id="caboose" href="/static/c-927bdb4/css/style.css" />
+		<link rel="stylesheet" id="svg" href="/static/c-927bdb4/css/svg/svg.css" />
+
+		<!--[if IE]><link rel="stylesheet" href="/static/c-927bdb4/css/ie.css" /><![endif]-->
+
+		
+		<meta property="fb:app_id" content="556290061081829" />
+		<meta property="og:title" content="The Hunger Games Explorer" />
+		<meta property="og:image" content="http://www.thehungergamesexplorer.com/static/img/share/154x154.jpg" />
+		<meta property="og:site_name" content="The Hunger Games Explorer" />
+		<meta property="og:description" content="See the new #CatchingFireTrailer & #CelebrateYourVictors at the #HungerGamesExplorer to earn rewards! - www.theHungerGamesExplorer.com" />
+		<meta property="og:url" content="http://www.thehungergamesexplorer.com//us/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:locale" content="en_us" />
+
+		
+		<meta name="google-site-verification" content="RLgp04mzUkx_RKRkjtBnzphL5227cE3jfLNT8TsYd48" />
+
+		
+		
+		<script src="/static/c-927bdb4/js/libs/modernizr.min.js?ver=2"></script>
+		<script type="text/javascript" src="//use.typekit.net/opg5blg.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+	<body class="home">
+		<div id="container">
+			<header class="logged-out"  data-flex-height="fixed">
+				<a href="/us/" class="hge-logo">
+					<h1>The Hunger Games <span>Explorer</span></h1>
+				</a>
+				<div class="header-right">
+					<div class="login ">
+						
+							<a class="login-button icon-facebook" href="/login/facebook?next=/profile/"></a>
+							<a class="login-button icon-twitter" href="/login/twitter?next=/profile/"></a>
+							<a class="login-mobile" href="#/login">Login</a>
+						
+					</div>
+					
+					<a class="header-help" href="#/help"><span>?</span></a>
+				</div>
+				<div class="header-center">
+					<a href="/competitions/overview/" data-event-category="Competitions" data-event-action="Global Nav Link" data-event-label="Clicks" class="icon-blue-ribbon"><span>Earn Rewards</span></a>
+					<a href="/competitions/leaderboard" class="icon-users"><span>Top Fans</span></a>
+				</div>
+			</header>
+			<div id="main" class="main" role="main">
+				
+				
+				
+
+<a class="welcome-header-link" href="/us/ticktock">
+	<div class="welcome-header ticktock-banner">
+		<h3>#TickTock Countdown</h3>
+		<h5>What will strike next?</h5>
+
+		<div class="btn btn-shiny cta"><span>Discover Now</span></div>
+
+		<div class="clock hidden" data-date="">
+
+			<div class="message">Countdown to next TICK TOCK</div>
+
+			<div class="time">
+				<h5>00<span>:</span>00<span>:</span>00</h5>
+			</div>
+		</div>
+
+	</div>
+</a>
+
+<div class="grid-filters">
+	<form class="search" method="get" action="/us/">
+		<input type="text" name="text" placeholder="Search" />
+		<span class="clear" data-clear="true">&times;</span>
+		<button class="icon-search"></button>
+	</form>
+	<div class="pillbox">
+		<span data-filter="hot_new" data-value="new" data-default="true" class="pill active">New</span>
+		<span data-filter="hot_new" data-value="hot" class="pill">Hot</span>
+	</div>
+	<div class="pillbox filter-media-type">
+		<span data-filter="post_type" data-value=""      class="pill active">All</span>
+		<span data-filter="post_type" data-value="text"  class="pill icon-comment"></span>
+		<span data-filter="post_type" data-value="photo" class="pill icon-camera"></span>
+		<span data-filter="post_type" data-value="video" class="pill icon-video"></span>
+	</div>
+	<div class="pillbox filter-source">
+		<span data-filter="source_filter" data-value="" class="pill active">All</span>
+		
+			<span data-filter="source_filter" data-value="2" class="pill">In the News</span>
+		
+			<span data-filter="source_filter" data-value="1" class="pill">Official Updates</span>
+		
+			<span data-filter="source_filter" data-value="3" class="pill">Fansites</span>
+		
+	</div>
+</div>
+
+<div class="grid"></div>
+<div class="loader">
+	<div class="progress">
+		<ul>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</div>
+</div>
+
+
+			</div>
+			<footer data-flex-height="fixed">
+				
+				<div id="thgn-nav"></div>
+				<div id="thgn-nav-trigger" class="movies-nav">
+					<div class="button">Hunger Games Movies</div>
+				</div>
+				
+				
+				<a href="/behind-the-scenes" title="Behind the Scenes" class="ie-logo">
+					<span class="collab"><span>a collaboration with</span></span>
+					<span class="name"><span>Internet Explorer</span></span>
+					<b>
+						<div class="flare">
+							<span><i></i></span>
+						</div>
+					</b>
+				</a>
+				
+
+				
+
+				<a  class="film-ad">
+					<strong>The Hunger Games: Catching Fire</strong>
+					<small>In Theatres November 22, 2013</small>
+					<img src="/static/c-927bdb4/img/regions/us/en/footer-promo.png" title="The Hunger Games: Catching Fire"/>
+				</a>
+				<div class="legal">
+					<div class="dropup legal-dropup">
+						<span>Legal</span>
+						<div class="dropup-items">
+							<img src="/static/c-927bdb4/img/legal.png" />
+							<a href="http://www.lionsgate.com/corporate/privacy/" target="_blank">Privacy Policy</a>
+							<a href="http://www.lionsgate.com/corporate/terms/" target="_blank">Terms of Service</a>
+							<a href="/competitions/rules/" target="_blank">Rules and Regulations</a>
+							<a href="http://filmratings.com/" target="_blank">Filmratings.com</a>
+							<a href="http://parentalguide.org/" target="_blank">ParentalGuide.org</a>
+							<a href="http://mpaa.org/" target="_blank">MPAA.org</a>
+							<small>This product uses the Instagram API but is not endorsed or certified by Instagram.</small>
+						</div>
+					</div>
+					<div class="dropup share-dropup">
+						<span>Share</span>
+						<div class="dropup-items">
+							<a class="twitter-share" href="#" data-track-social="Twitter" data-event-action="Footer Share">Twitter</a>
+							<a class="facebook-share" href="#" data-track-social="Facebook" data-event-action="Footer Share">Facebook</a>
+							<a class="pinterest-share" href="#" data-track-social="Pinterest" data-event-action="Footer Share">Pinterest</a>
+							<a class="tumblr-share" href="#" data-track-social="Tumblr" data-event-action="Footer Share">Tumblr</a>
+							<a class="gplus-share" href="#" data-track-social="Google +" data-event-action="Footer Share">Google+</a>
+						</div>
+					</div>
+					<div class="dropup region-dropup">
+						<span>Region</span>
+						<div class="dropup-items">
+							
+								
+									<a class=" region" href="/au" title="Australia / New Zealand">Australia / New Zealand</a>
+								
+							
+								
+									<a class=" region" href="/be" title="Benelux - Belgium">Benelux - Belgium</a>
+								
+							
+								
+									<a class=" region" href="/nl" title="Benelux - Netherlands">Benelux - Netherlands</a>
+								
+							
+								
+									<a class=" region" href="/br" title="Brazil">Brazil</a>
+								
+							
+								
+									<a class=" region" href="/ca" title="Canada">Canada</a>
+								
+							
+								
+									<a class=" region" href="/dk" title="Denmark">Denmark</a>
+								
+							
+								
+									<a class=" region" href="/fi" title="Finland">Finland</a>
+								
+							
+								
+									<a class=" region" href="/fr" title="France">France</a>
+								
+							
+								
+									<a class=" region" href="/de" title="Germany">Germany</a>
+								
+							
+								
+									<a class=" region" href="/it" title="Italy">Italy</a>
+								
+							
+								
+									<a class=" region" href="/kp" title="Korea">Korea</a>
+								
+							
+								
+							
+								
+									<a class=" region" href="/mx" title="Mexico">Mexico</a>
+								
+							
+								
+									<a class=" region" href="/no" title="Norway">Norway</a>
+								
+							
+								
+									<a class=" region" href="/ru" title="Russia">Russia</a>
+								
+							
+								
+									<a class=" region" href="/es" title="Spain">Spain</a>
+								
+							
+								
+									<a class=" region" href="/se" title="Sweden">Sweden</a>
+								
+							
+								
+									<a class=" region" href="/gb" title="United Kingdom">United Kingdom</a>
+								
+							
+								
+									<a class="active region" href="/us" title="United States">United States</a>
+								
+							
+						</div>
+					</div>
+					<a class="dropup" href="mailto:help@thehungergamesexplorer.com">Help</a>
+				</div>
+			</footer>
+			<div class="blackout"></div>
+			<div class="modal"><!-- content goes here !--></div>
+		</div>
+		<div class="landscape-warning">
+			<div class="landscape-wrap">
+				<div class="landscape-inner"></div>
+				<div class="frame-tr"></div>
+				<div class="frame-tl"></div>
+				<div class="frame-br"></div>
+				<div class="frame-bl"></div>
+			</div>
+		</div>
+
+		
+		<script type="text/javascript">
+			var features = ["opacity", "csstransforms", "canvas"];
+			for (var i = 0, l = features.length; i < l; i++) {
+				var feature = features[i];
+				if (!Modernizr[feature] && window.location.toString().indexOf("/upgrade") < 0) {
+					window.location.pathname = "us/upgrade";
+				}
+			}
+		</script>
+		
+
+		<script src="/static/c-927bdb4/js/libs/require.js"></script>
+
+		
+		<script>
+			require.config({
+				baseUrl : "/static/c-927bdb4/js",
+				paths : {
+					"hungergames/Site" : "site.min"
+				}
+			});
+		
+			
+window.GRID_JSON_DATA = {"has_next": true, "featured_carousels": {"2x1": {"order": 3, "features": [{"source": "'The Hunger Games: Catching Fire' Official Soundtrack Store", "source_icon": null, "total_sparks": 521, "photo": {"image_url": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/b181e6dc-1712-11e3-b3e7-bc764e10b52f__feature_2x1.jpg", "description": null, "title": ""}, "source_link": "http://myplaydirect.com/the-hunger-games", "featured_title": "Pre-order 'The Hunger Games: Catching Fire soundtrack' now!", "id": 162, "kind": "photo", "order": 1}, {"source": "Capitol Couture", "source_icon": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/59ce8eae-c979-11e2-80e0-bc764e1067f4__photo_thumb.jpg", "total_sparks": 176, "photo": {"image_url": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/05212f9e-1bc5-11e3-8985-bc764e1059eb__feature_2x1.png", "description": null, "title": ""}, "source_link": "http://capitolcouture.pn/", "featured_title": "Capitol Couture - Summer Issue", "id": 165, "kind": "photo", "order": 1}, {"source": "", "source_icon": null, "total_sparks": 1073, "photo": {"image_url": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/1c6e5874-a303-11e2-bb23-bc764e10a080__feature_2x1.jpg", "description": "", "title": "Catching Fire"}, "source_link": "http://www.catchingfiremovie.com/", "featured_title": "Catching Fire", "id": 14, "kind": "photo", "order": 3}]}, "1x2": {"order": 4, "features": [{"source": "", "source_icon": null, "total_sparks": 299, "photo": {"image_url": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/d4382d66-1c90-11e3-a774-bc764e10b52f__feature_1x2.png", "description": null, "title": ""}, "source_link": "https://www.facebook.com/events/1408946109322712/", "featured_title": "Advance Tickets On Sale October 1st at 12pm ET/9am PT", "id": 169, "kind": "photo", "order": 1}, {"source": "The Hunger Games Explorer", "source_icon": null, "total_sparks": 75, "photo": {"image_url": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/2bc37450-26be-11e3-a3bb-bc764e1059eb__feature_1x2.png", "description": null, "title": ""}, "source_link": "http://www.thehungergamesexplorer.com/competitions/hashtag/TickTock9", "featured_title": "Tweet #TickTock9 & your favorite artist from the CATCHING FIRE soundtrack!", "id": 179, "kind": "photo", "order": 1}, {"source": "", "source_icon": null, "total_sparks": 46, "video": {"embed": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/Lh3TokLzzmw\" frameborder=\"0\" allowfullscreen></iframe>", "image_url": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/8c32f0cc-278b-11e3-a24f-bc764e10b52f__feature_1x2.png", "description": null, "title": "Coldplay - 'Atlas' (from The Hunger Games: Catching Fire Soundtrack) Lyric Video"}, "source_link": "http://youtu.be/Lh3TokLzzmw", "featured_title": "", "id": 181, "kind": "video", "order": 1}]}, "3x3": {"order": 1, "features": [{"source": "", "source_icon": null, "total_sparks": 2021, "video": {"embed": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/MkvUNfySGQU\" frameborder=\"0\" allowfullscreen></iframe>", "image_url": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/97cc32e0-f24d-11e2-b51c-bc764e109f9b__feature_3x3.png", "description": null, "title": "The Hunger Games: Catching Fire - Official Trailer - #CelebrateYourVictors"}, "source_link": "http://youtu.be/MkvUNfySGQU", "featured_title": "", "id": 91, "kind": "video", "order": 1}, {"source": "The Hunger Games", "source_icon": null, "total_sparks": 108, "photo": {"image_url": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/8c3b4644-2797-11e3-a3bb-bc764e1059eb__feature_3x3.png", "description": null, "title": ""}, "source_link": "https://www.facebook.com/photo.php?fbid=764435520239768&set=a.743821682301152.1073741833.159746560708670&type=1", "featured_title": "Please welcome Misty & Kim Ormiston as Leeg 1 & Leeg 2 to the cast of The Hunger Games: Mockingjay Part 2.", "id": 182, "kind": "photo", "order": 1}, {"source": "", "source_icon": null, "total_sparks": 2048, "video": {"embed": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/jyPnQw_Lqds\" frameborder=\"0\" allowfullscreen></iframe>", "image_url": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/f13e8414-a4f4-11e2-8848-bc764e10a080__feature_3x3.jpg", "description": "", "title": "The Hunger Games: Catching Fire - Exclusive Teaser Trailer"}, "source_link": "http://youtu.be/jyPnQw_Lqds", "featured_title": "Watch The Exclusive Trailer Now!", "id": 16, "kind": "video", "order": 1}]}, "2x2": {"order": 2, "features": [{"source": "The Hunger Games Explorer", "source_icon": null, "total_sparks": 130, "photo": {"image_url": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/15ee1ec4-26bd-11e3-b3a9-bc764e10fd3b__feature_2x2.png", "description": null, "title": ""}, "source_link": "http://www.thehungergamesexplorer.com/competitions/hashtag/TickTock9", "featured_title": "#TickTock9: Official \u2018The Hunger Games: Catching Fire\u2019 soundtrack list announced!", "id": 178, "kind": "photo", "order": 1}, {"source": "Ticket Sales Announcement", "source_icon": null, "total_sparks": 387, "photo": {"image_url": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/a3b9ec84-1721-11e3-9c52-bc764e10fd3b__feature_2x2.jpg", "description": null, "title": ""}, "source_link": "http://www.thehungergamesexplorer.com/competitions/hashtag/TickTock12", "featured_title": "Advance Tickets On Sale October 1st", "id": 161, "kind": "photo", "order": 1}, {"source": "The Hunger Games", "source_icon": null, "total_sparks": 53, "photo": {"image_url": "http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/9c1bc242-27d2-11e3-afd6-bc764e1059eb__feature_2x2.png", "description": null, "title": ""}, "source_link": "https://www.facebook.com/photo.php?fbid=764568526893134&set=a.486132174736772.27802778.159746560708670&type=1", "featured_title": "Fan of the Week", "id": 183, "kind": "photo", "order": 1}]}}, "object_list": [{"body": "CAN TIME MOVE QUICKLY\n\nPLZ\n\nchrist.", "link_title": "", "total_sparks": 0, "network": "Tumblr", "title": "Friend and i waIting till 12 oclock in the morning for Catching Fire tickets in Australia", "poster_sn": "charcole-chimera", "link_url": "", "poster_name": "", "image_width": null, "image_height": null, "post_date": "2013-09-30T13:07:00", "post_id": "62713896129", "avatar_url": "http://api.tumblr.com/v2/blog/charcole-chimera.tumblr.com/avatar", "post_type": "text", "image_caption": "", "image_url": "", "normalized_score": 0.507531821, "get_absolute_url": "/us/tumblr/753182/", "initial_score": 0, "primary_key": 753182}, {"body": "I am going back to the arena", "link_title": "", "total_sparks": 0, "network": "Tumblr", "title": "", "poster_sn": "waiting-for-jamiecb", "link_url": "", "poster_name": "", "image_width": null, "image_height": null, "post_date": "2013-09-30T13:04:54", "post_id": "62713790029", "avatar_url": "http://api.tumblr.com/v2/blog/waiting-for-jamiecb.tumblr.com/avatar", "post_type": "text", "image_caption": "", "image_url": "", "normalized_score": 0.507531861, "get_absolute_url": "/us/tumblr/753186/", "initial_score": 0, "primary_key": 753186}, {"body": "Our dear Manager Ms Mockingjay. Thank You for the big honor in being in your page. I loved your page because of the supporting fans. Thank You for honoring me Ms. Mockingjay!! Thank You!! \nMay the odds be ever in your favor!!\n\n~Sugarcubes on Fire~", "link_title": "", "total_sparks": 0, "network": "Facebook", "title": "", "poster_sn": "Katniss Everdeen, The Girl On Fire", "link_url": "", "poster_name": "", "image_width": null, "image_height": null, "post_date": "2013-09-30T13:04:45", "post_id": "436426029739672_569502029765404", "avatar_url": "https://graph.facebook.com/436426029739672/picture", "post_type": "text", "image_caption": "", "image_url": "", "normalized_score": 0.607531871, "get_absolute_url": "/us/facebook/753187/", "initial_score": 1, "primary_key": 753187}, {"body": "The Famine Game (www.thefaminegame.com) is now a thing of the past.  Todd Etter and his crew took on the monumental task of recreating key Hunger Games moments in a cross-DC puzzle-driven trek to, well, read that book.  What a thoroughly satisfying and exhausting experience.  Fun was had by all, sleep was had by most, showers were had by at least me... do I really have to go to work this week?", "link_title": "The Famine Game | Solve to Survive", "total_sparks": 0, "network": "Facebook", "title": "", "poster_sn": "Paul Melamud", "link_url": "http://www.thefaminegame.com/", "poster_name": "", "image_width": null, "image_height": null, "post_date": "2013-09-30T13:04:20", "post_id": "582734494_10151744691929495", "avatar_url": "https://graph.facebook.com/582734494/picture", "post_type": "photo", "image_caption": "", "image_url": "http://thefaminegame.com/wp-content/uploads/2013/02/logo-small-new22.png", "normalized_score": 1.007531881, "get_absolute_url": "/us/facebook/753188/", "initial_score": 10, "primary_key": 753188}, {"body": "", "link_title": "", "total_sparks": 0, "network": "Tumblr", "title": "", "poster_sn": "alfan490", "link_url": "http://www.thehungergamesexplorer.com/us/tumblr/709616/", "poster_name": "", "image_width": 400, "image_height": 400, "post_date": "2013-09-30T13:02:28", "post_id": "62713674725", "avatar_url": "http://api.tumblr.com/v2/blog/alfan490.tumblr.com/avatar", "post_type": "photo", "image_caption": "", "image_url": "http://24.media.tumblr.com/fb5d0fbdae8015134a2edde967b58a54/tumblr_mtxw840VXD1rm98s1o1_400.jpg", "normalized_score": 0.507531831, "get_absolute_url": "/us/tumblr/753183/", "initial_score": 0, "primary_key": 753183}, {"body": "So which one of y'all going to watch <a href='http://twitter.com/search?q=%23CatchingFire' target='_blank'>#CatchingFire </a> with me <a href='http://twitter.com/search?q=%23AskTwitter' target='_blank'>#AskTwitter </a> <a href='http://twitter.com/search?q=%23AskODU' target='_blank'>#AskODU </a> <a href='http://twitter.com/search?q=%23odu' target='_blank'>#odu </a> <a href='http://twitter.com/search?q=%23ODU17' target='_blank'>#ODU17 </a>", "link_title": "", "total_sparks": 0, "network": "Twitter", "title": "", "poster_sn": "causeIM_kinya", "link_url": "", "poster_name": "kinya.moore\u2122", "image_width": null, "image_height": null, "post_date": "2013-09-30T12:59:36", "post_id": "384663823648821248", "avatar_url": "http://a0.twimg.com/profile_images/2858494471/3b99b644387aa994c9cea32cdc4ab803_normal.jpeg", "post_type": "text", "image_caption": "", "image_url": "", "normalized_score": 0.507531421, "get_absolute_url": "/us/twitter/753142/", "initial_score": 416, "primary_key": 753142}, {"body": "I want to welcome all new admins... and for those who still want to be an admin, comment the admin name you want at the pinned status...\nReminder for all Admins...\nIt's only temporary but it can also depend on how active you are and how you socialize with the other admins... \nThere are only 3 rules for all admins:\n1. Think Before you post.\n2. Do not post unnecessary pictures or words.\n3. Be nice to other admins and to other people.\nAdmins who will not follow this rules will be deleted as an admin.\n\nI also want to congratulate admin ~Sugarcubes on Fire~ for being promoted to manager of the page... She'll be my co-manager. \nTo all admins, may admin ~Sugarcubes on Fire~ be your inspiration in terms of being active.\n\nOnce again, Welcome to all new admins...\n\n`MockingJay (Manager)", "link_title": "", "total_sparks": 0, "network": "Facebook", "title": "", "poster_sn": "Katniss Everdeen, The Girl On Fire", "link_url": "", "poster_name": "", "image_width": null, "image_height": null, "post_date": "2013-09-30T12:59:04", "post_id": "436426029739672_569499843098956", "avatar_url": "https://graph.facebook.com/436426029739672/picture", "post_type": "text", "image_caption": "", "image_url": "", "normalized_score": 0.507531801, "get_absolute_url": "/us/facebook/753180/", "initial_score": 0, "primary_key": 753180}, {"body": "Ser\u00e1 q eu  vo num jogos vorazes??Mas eu nao  quero morrer :( <a href=\"http://t.co/7QrScdIJ9c\" target=\"_blank\">pic.twitter.com/7QrScdIJ9c </a>", "link_title": "", "total_sparks": 0, "network": "Twitter", "title": "", "poster_sn": "Ender_38", "link_url": "", "poster_name": "Games BR", "image_width": 1024, "image_height": 768, "post_date": "2013-09-30T12:58:37", "post_id": "384663574511357952", "avatar_url": "http://a0.twimg.com/profile_images/378800000494255145/5390d8666f697705dc580640e9c772fe_normal.jpeg", "post_type": "photo", "image_caption": "", "image_url": "http://pbs.twimg.com/media/BVaZe5bIYAAEsta.jpg", "normalized_score": 0.107531381, "get_absolute_url": "/us/twitter/753138/", "initial_score": 30, "primary_key": 753138}, {"body": "<a href='http://twitter.com/pandora_radio' target='_blank'>@pandora_radio </a> <a href='http://twitter.com/search?q=%23catchingfireinrome' target='_blank'>#catchingfireinrome </a> <a href='http://twitter.com/search?q=%23CatchingFire' target='_blank'>#CatchingFire </a> <a href='http://twitter.com/search?q=%23TheHungerGames' target='_blank'>#TheHungerGames </a>", "link_title": "", "total_sparks": 0, "network": "Twitter", "title": "", "poster_sn": "jamieleigh_88", "link_url": "", "poster_name": "Jamie Greene", "image_width": null, "image_height": null, "post_date": "2013-09-30T12:58:37", "post_id": "384663576428183552", "avatar_url": "http://a0.twimg.com/profile_images/378800000336520028/0dc071dd229f3be47ab2df99a8647a7b_normal.jpeg", "post_type": "text", "image_caption": "", "image_url": "", "normalized_score": 0.107531441, "get_absolute_url": "/us/twitter/753144/", "initial_score": 24, "primary_key": 753144}, {"body": "Can not come quick enough #hungergames #catchingfire #cantwait #november #movies", "link_title": "", "total_sparks": 0, "network": "Instagram", "title": "", "poster_sn": "ryanbircham", "link_url": "http://instagram.com/p/e4qkOugt8M/", "poster_name": "ryanbircham", "image_width": 640, "image_height": 640, "post_date": "2013-09-30T12:58:16", "post_id": "e4qkOugt8M", "avatar_url": "http://images.ak.instagram.com/profiles/profile_179740182_75sq_1339170921.jpg", "post_type": "photo", "image_caption": "", "image_url": "http://distilleryimage4.s3.amazonaws.com/f8ec56b829cf11e392af22000ae912ea_8.jpg", "normalized_score": 1.007531451, "get_absolute_url": "/us/instagram/753145/", "initial_score": 10, "primary_key": 753145}, {"body": "#josh #hutcherson #peeta #mellark #thehungergames #catchingfire #mockingjay #\u2665", "link_title": "", "total_sparks": 0, "network": "Instagram", "title": "", "poster_sn": "the_giirl_on_fire", "link_url": "http://instagram.com/p/e4qjsPitNo/", "poster_name": "Katniss Everdeen", "image_width": 612, "image_height": 612, "post_date": "2013-09-30T12:58:11", "post_id": "e4qjsPitNo", "avatar_url": "http://images.ak.instagram.com/profiles/profile_576130691_75sq_1380206240.jpg", "post_type": "photo", "image_caption": "", "image_url": "http://distilleryimage0.s3.amazonaws.com/f64a87c229cf11e3ab6722000a1fb853_7.jpg", "normalized_score": 1.007531471, "get_absolute_url": "/us/instagram/753147/", "initial_score": 10, "primary_key": 753147}, {"body": "\"Chorar n\u00e3o \u00e9 op\u00e7\u00e3o.\" - Jogos Vorazes.\u00a0 (via psycho-motel) <a href=\"http://t.co/8V6ORfHNPi\" target=\"_blank\">tmblr.co/Zs4u7uwQ0nQW </a>", "link_title": "", "total_sparks": 0, "network": "Twitter", "title": "", "poster_sn": "oqnathy", "link_url": "", "poster_name": "N", "image_width": null, "image_height": null, "post_date": "2013-09-30T12:57:29", "post_id": "384663288069779456", "avatar_url": "http://a0.twimg.com/profile_images/378800000521971188/7904a318186be2166c83a40082fb7da0_normal.jpeg", "post_type": "text", "image_caption": "", "image_url": "", "normalized_score": 0.507531391, "get_absolute_url": "/us/twitter/753139/", "initial_score": 315, "primary_key": 753139}, {"body": "#josh #hutcherson #peeta #mellark #thehungergames #catchingfire #mockingjay #\u2665", "link_title": "", "total_sparks": 0, "network": "Instagram", "title": "", "poster_sn": "the_giirl_on_fire", "link_url": "http://instagram.com/p/e4qdOaitNk/", "poster_name": "Katniss Everdeen", "image_width": 612, "image_height": 612, "post_date": "2013-09-30T12:57:18", "post_id": "e4qdOaitNk", "avatar_url": "http://images.ak.instagram.com/profiles/profile_576130691_75sq_1380206240.jpg", "post_type": "photo", "image_caption": "", "image_url": "http://distilleryimage4.s3.amazonaws.com/d6b7267c29cf11e38a7822000a9e08ae_7.jpg", "normalized_score": 1.007531481, "get_absolute_url": "/us/instagram/753148/", "initial_score": 10, "primary_key": 753148}, {"body": "E que a sorte esteja sempre ao seu favor , Bom Jogos Vorazes _|||_", "link_title": "", "total_sparks": 0, "network": "Twitter", "title": "", "poster_sn": "arajo_007", "link_url": "", "poster_name": "Fernando Ara\u00fajo", "image_width": null, "image_height": null, "post_date": "2013-09-30T12:56:45", "post_id": "384663104443154432", "avatar_url": "http://a0.twimg.com/profile_images/3597520050/d8ca2340948923a02c0ab4a128a4366a_normal.jpeg", "post_type": "text", "image_caption": "", "image_url": "", "normalized_score": 0.607531401, "get_absolute_url": "/us/twitter/753140/", "initial_score": 711, "primary_key": 753140}, {"body": "", "link_title": "", "total_sparks": 0, "network": "Tumblr", "title": "#HungerGamesExplorer", "poster_sn": "alfan490", "link_url": "http://www.thehungergamesexplorer.com/us/tumblr/751474/", "poster_name": "", "image_width": 250, "image_height": 209, "post_date": "2013-09-30T12:56:44", "post_id": "62713403358", "avatar_url": "http://api.tumblr.com/v2/blog/alfan490.tumblr.com/avatar", "post_type": "photo", "image_caption": "", "image_url": "http://25.media.tumblr.com/9a4585cb8ac138900d8d1d4047f61743/tumblr_mtxvyksZna1rm98s1o1_250.png", "normalized_score": 0.507531751, "get_absolute_url": "/us/tumblr/753175/", "initial_score": 0, "primary_key": 753175}, {"body": "Love jen \ud83d\ude02\ud83d\ude02\n#jenniferlawrence #liamhemsworth #chrishemsworth #thor #thg #thehungergames #interview", "link_title": "", "total_sparks": 0, "network": "Instagram", "title": "", "poster_sn": "youtubersandbooks", "link_url": "http://instagram.com/p/e4qYK7j4cN/", "poster_name": "!.. Fangirling Infection..", "image_width": 640, "image_height": 640, "post_date": "2013-09-30T12:56:37", "post_id": "e4qYK7j4cN", "avatar_url": "http://images.ak.instagram.com/profiles/profile_443375992_75sq_1379740800.jpg", "post_type": "photo", "image_caption": "", "image_url": "http://distilleryimage5.s3.amazonaws.com/be09886829cf11e3ae7222000aaa0519_8.jpg", "normalized_score": 1.007531651, "get_absolute_url": "/us/instagram/753165/", "initial_score": 6, "primary_key": 753165}, {"body": "<a href='http://twitter.com/search?q=%23CATCHINGFIRE' target='_blank'>#CATCHINGFIRE </a> <a href='http://twitter.com/search?q=%23NOV22' target='_blank'>#NOV22 </a> <a href='http://twitter.com/search?q=%23OMGOMG' target='_blank'>#OMGOMG </a>", "link_title": "", "total_sparks": 0, "network": "Twitter", "title": "", "poster_sn": "caitlinalwine", "link_url": "", "poster_name": "Caitlin", "image_width": null, "image_height": null, "post_date": "2013-09-30T12:56:35", "post_id": "384663064676532225", "avatar_url": "http://a0.twimg.com/profile_images/378800000527324535/d7e96660077c627c813c3295eadcaef8_normal.jpeg", "post_type": "text", "image_caption": "", "image_url": "", "normalized_score": 0.607531461, "get_absolute_url": "/us/twitter/753146/", "initial_score": 738, "primary_key": 753146}, {"body": "hahaah #callmemaybe #peetamellark #peeta #mellark #galehawthorne #gale #hawthorne #hungergames #thehungergames #hg #thg #haha #love #funny #lol", "link_title": "", "total_sparks": 0, "network": "Instagram", "title": "", "poster_sn": "always_hg_hp", "link_url": "http://instagram.com/p/e4qXCZw-ob/", "poster_name": "\"Always\"", "image_width": 612, "image_height": 612, "post_date": "2013-09-30T12:56:28", "post_id": "e4qXCZw-ob", "avatar_url": "http://images.ak.instagram.com/profiles/profile_563669345_75sq_1380286240.jpg", "post_type": "photo", "image_caption": "", "image_url": "http://distilleryimage7.s3.amazonaws.com/b88041de29cf11e3be2c22000a9f391c_7.jpg", "normalized_score": 1.007531641, "get_absolute_url": "/us/instagram/753164/", "initial_score": 4, "primary_key": 753164}, {"body": "", "link_title": "", "total_sparks": 0, "network": "Tumblr", "title": "#HungerGamesExplorer", "poster_sn": "alfan490", "link_url": "http://www.thehungergamesexplorer.com/us/tumblr/751468/", "poster_name": "", "image_width": 400, "image_height": 216, "post_date": "2013-09-30T12:56:17", "post_id": "62713383874", "avatar_url": "http://api.tumblr.com/v2/blog/alfan490.tumblr.com/avatar", "post_type": "photo", "image_caption": "", "image_url": "http://31.media.tumblr.com/1f5fd2010287e564baae84f70eafec55/tumblr_mtxvxupHDv1rm98s1o1_400.png", "normalized_score": 0.507531761, "get_absolute_url": "/us/tumblr/753176/", "initial_score": 0, "primary_key": 753176}, {"body": "hj a Madu vai la em casa ver Jogos Vorazes cmg \u2661", "link_title": "", "total_sparks": 0, "network": "Twitter", "title": "", "poster_sn": "_breathlesss", "link_url": "", "poster_name": "ana", "image_width": null, "image_height": null, "post_date": "2013-09-30T12:55:38", "post_id": "384662822892101632", "avatar_url": "http://a0.twimg.com/profile_images/378800000525169565/753d70fbc3fc6fdfc3f2618a85ecc428_normal.jpeg", "post_type": "text", "image_caption": "", "image_url": "", "normalized_score": 0.207531411, "get_absolute_url": "/us/twitter/753141/", "initial_score": 90, "primary_key": 753141}], "last_identifier": "2013-09-30 12:55:38|us"}
+
+
+<!-- ################ Vance's Object ######################### -->
+
+
+
+			
+				window.USER_JSON_DATA = {
+					user : {
+						loggedIn : false
+					}
+				}
+				var loggedIn = false;
+			
+
+			
+
+			require(["hungergames/Site"], function (Site) {
+
+				window.hge = new Site({
+					STATIC_URL : "/static/c-927bdb4/",
+					REGION : "us",
+					LANGUAGE : "en",
+					IS_TEASER : false,
+					IS_LOGGED_IN : false,
+					PCN : ""
+				});
+			});
+
+		</script>
+		
+
+<script src="http://view.atdmt.com/jaction/SMG_MRTINX_CF_LP"></script>
+<noscript>
+	<iframe src="http://view.atdmt.com/iaction/SMG_MRTINX_CF_LP" width="1" height="1" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"></iframe>
+</noscript>
+
+
+	<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","d9db84934c","2517784","ZwdUNUVXXhZYBkUMVl5NcBRZVUQMVgseAVNRDFEOGVtZAV0JVBJYQgcYAlZVWAADI1QRWlgkRA5adVEGUQB8DF1UDlMWVkRVS0kXXgZcQxFpE1JHRQBKEQ==",0,8,new Date().getTime(),"","","","",""]);</script></body>
+</html>

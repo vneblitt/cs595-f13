@@ -1,0 +1,549 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="http://www.consumer.ftc.gov/articles/0058-credit-repair-how-help-yourself" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="en" http-equiv="Content-Language" />
+<meta content="Credit Repair: How to Help Yourself" about="http://www.consumer.ftc.gov/articles/0058-credit-repair-how-help-yourself" property="dc:title" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.consumer.ftc.gov/articles/0058-credit-repair-how-help-yourself" />
+<link rel="shortlink" href="http://www.consumer.ftc.gov/node/958" />
+  <title>Credit Repair: How to Help Yourself | Consumer Information</title>
+  <link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_gArAUcbPOGS20Rj3CC1Ph_2J692LtLqNviaNUAmk_Wg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_zokOb9raN9Cg8akkQGi5P5zPbMO6qe5fNyYruMiDsyU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_1otP6__I-MvxKywLnrvhM1XKDj81enq0GcEun6UsiUI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_9hvQ4uwLBFYBgnc5c9u9QryUS4ukOQvUNC2V7EFD948.css" media="print" />
+  <script type="text/javascript" src="http://www.consumer.ftc.gov/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/drupal.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/sites/all/libraries/chosen/chosen/chosen.jquery.min.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/chosen/chosen.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/consumer_node_edit/consumer_taxonomy_hierarchy.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/consumer_node_edit/consumer_parent_menu_item.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/ftc_exit_script/js/exit_script.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/panels/js/panels.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.ftc.gov/foresee/foresee-trigger.js"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/swfobject.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.qtip-1.0.0-rc3.min.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/fancybox/jquery.fancybox-1.3.4.pack.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.corner.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.cycle.all.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/global.js?mtsrpk"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"consumer_platform","theme_token":"zVFNB7uTgKI7Mh1N83fEX-WU30Ut6fBoxY8g8WBtI2M","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.jquery.min.js":1,"profiles\/consumer\/modules\/contrib\/chosen\/chosen.js":1,"profiles\/consumer\/modules\/custom\/consumer_node_edit\/consumer_taxonomy_hierarchy.js":1,"profiles\/consumer\/modules\/custom\/consumer_node_edit\/consumer_parent_menu_item.js":1,"profiles\/consumer\/modules\/custom\/ftc_exit_script\/js\/exit_script.js":1,"profiles\/consumer\/modules\/contrib\/panels\/js\/panels.js":1,"http:\/\/www.ftc.gov\/foresee\/foresee-trigger.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/swfobject.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.corner.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.cycle.all.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/global.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/consumer\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.css":1,"profiles\/consumer\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/consumer\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/consumer\/modules\/contrib\/tagclouds\/tagclouds.css":1,"modules\/locale\/locale.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/hp-footer\/hp-footer.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/onecol\/onecol.css":1,"profiles\/consumer\/themes\/consumer_platform\/PlutoSansWebFonts.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/default.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/layout.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/style.css":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/responsive.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/print.css":1}},"chosen":{"selector":".field-type-taxonomy-term-reference select:visible, .field-name-field-crc-ed-code select:visible","minimum":"15"},"ftc_exit_script":{"timeout":"6000","token_replace":1,"internalURLs":["^http\\:\\\/\\\/.*\\.gov.*$","^https\\:\\\/\\\/.*\\.gov.*$"],"external_class":"external_link"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-958 node-type-article i18n-en" >
+  <div id="skip">
+    <a href="#main-menu">Jump to Navigation</a>
+  </div>
+    
+  <!-- ______________________ HEADER _______________________ -->
+
+<div id="header">
+  <div class="header-inner">
+      <div id="site-name-and-slogan">
+      <img src = "/profiles/consumer/themes/consumer_platform/images/logo-ftcseal.jpg" alt = "Federal Trade Commission" class = "print-logo" />
+          <h2 id="site-slogan">Federal Trade Commission</h2>
+              <h1 id="logo"><a href="http://www.consumer.ftc.gov/" title="Home" rel="home">
+              Consumer Information            </a></h1>
+    
+    </div>
+         <div id="search">
+        <div class="region region-search">
+    <div id="block-ftc_language_block-ftc_language_block" class="block block-ftc-language-block block-odd clearfix">
+
+                		
+		  <p><a href="http://www.consumidor.ftc.gov">español</a></p>
+</div> <!-- /block -->
+<div id="block-search-form" class="block block-search block-even clearfix">
+
+                		
+		  <form action="/articles/0058-credit-repair-how-help-yourself" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-AE_4u0UwyxQto9JCGlGzKVHB_PJarsWVPUC0jEUwz6k" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div> <!-- /block -->
+  </div>
+    </div>
+    </div>
+</div> <!-- /header -->
+
+<div id="page" class="page with-navigation no-language">
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="main-inner" class="clearfix">
+      <div id="content" class="one-col">
+
+                  <div id="top-right">  <div class="region region-top-right">
+    <div id="block-consumer_emailprintshare-email_print_share" class="block block-consumer-emailprintshare block-odd clearfix">
+
+                		
+		  <ul class="email-print-share"><li id="emailThis" class="email"><a class="addthis_button_email" href="#">Email</a></li><li class="printer-friendly">
+        <a href="#" class="addthis_button_print">Print</a> 
+        </li><li class="addthis">
+        <script type="text/javascript">
+          var addthis_config = {
+            ui_language: "en"
+          }
+        </script>
+        <!-- AddThis Button BEGIN -->
+        <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4e34dc8d56e636d1"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"/></a>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e34dc8d56e636d1"></script>
+        <!-- AddThis Button END -->
+        </li>
+      </ul>
+</div> <!-- /block -->
+<div id="block-locale-language" class="block block-locale block-even clearfix">
+
+                		
+		  <ul class="language-switcher-locale-url"><li class="es first last"><a href="http://www.consumidor.ftc.gov/articulos/s0058-reparacion-de-credito-como-ayudarse-si-mismo" class="language-link" lang="es" title="Reparación de crédito: Cómo ayudarse a sí mismo">Vea esta página en español</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+</div>
+        
+                  <div id="content-header">
+
+                        
+            <div class="title-wrapper">
+            
+                          <h1 class="title">Credit Repair: How to Help Yourself</h1>
+                        
+                        </div>
+
+                          <div class="tabs"></div>
+            
+            
+                        
+          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd clearfix">
+
+                		
+		  
+<div id="node-958" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+		    
+	<div class="content">
+	  
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+  
+                <div id = 'sidebar-article' class = 'sidebar'><div id="block-views-article_sidebar-block_1" class="block block-views block-odd clearfix">
+
+                		
+		  <div class="view view-article-sidebar view-id-article_sidebar view-display-id-block_1 view-dom-id-1ad123fbd8cadfe8290d3ed56515f9d0">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last pdf">
+      
+  <div class="views-field views-field-field-article-pdf-icon">        <div class="field-content"><a href="http://www.consumer.ftc.gov/articles/pdf-0034-credit-repair.pdf"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/articles/pdf/icons/pdf-0034.png" width="75" height="100" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-article-pdf">        <div class="field-content"><a href="http://www.consumer.ftc.gov/articles/pdf-0034-credit-repair.pdf">Related PDF</a></div>  </div>  
+  <div class="views-field views-field-field-article-print-version">        <div class="field-content"><a href="https://bulkorder.ftc.gov/ShowCat.aspx?s=cre-13">Order Free Copies</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div> <!-- /block -->
+<div id="block-panels_mini-related_items_sidebar" class="block block-panels-mini block-even clearfix">
+
+                <h2 class="block-title">Related Items</h2>
+          		
+		  <div class="panel-display panel-1col clearfix" id="mini-panel-related_items_sidebar-1">
+  <div class="panel-panel panel-col">
+    <div>
+
+<div class="panel-pane pane-block pane-views-92f96d1442c33ddcb8a1b32f5f4054c0 even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-article_related_media view-rotating-promos no-rotate small-media-rotator views-rotating-promos view-dom-id-386e542d187fb45795414a24f504b94b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0054-how-file-complaint" title="[field_media_type]: How to File a Complaint" class="ajax [field_media_type]" rel="955"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/videos/thumbnails/file-a-complaint.jpeg?itok=hstVU-zV" width="155" height="87" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0054-how-file-complaint">How to File a Complaint</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-views pane-article-sidebar odd" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-block_2 view-dom-id-bbba989909ca29de1eeb52e37b08679d">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0225-credit-repair-scams">Credit Repair Scams</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0155-free-credit-reports">Free Credit Reports</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0151-disputing-errors-credit-reports">Disputing Errors on Credit Reports</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0384-sample-letter-disputing-errors-your-credit-report">Sample Letter for Disputing Errors on Your Credit Report</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0153-choosing-credit-counselor">Choosing a Credit Counselor</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+</div> <!-- /block -->
+</div><div class = "content-inner"><div class="article-intro"><p>You see the ads in newspapers, on TV, and online. You hear them on the radio. You get fliers in the mail, email messages, and maybe even calls offering credit repair services. They all make the same claims:</p><p style="margin-left: 40px;">“Credit problems? No problem!”</p><p style="margin-left: 40px;">“We can remove bankruptcies, judgments, liens, and bad loans from your credit file forever!”</p><p style="margin-left: 40px;">“We can erase your bad credit — 100% guaranteed.”</p><p style="margin-left: 40px;">“Create a new credit identity — legally.”</p><p>Do yourself a favor and save some money, too. Don’t believe these claims: they’re very likely <a href="/articles/0225-credit-repair-scams">signs of a scam</a>. Indeed, attorneys at the Federal Trade Commission, the nation’s consumer protection agency, say they’ve never seen a legitimate credit repair operation making those claims. The fact is there’s no quick fix for creditworthiness. You can improve your credit report legitimately, but it takes time, a conscious effort, and sticking to a personal debt repayment plan.</p></div><div class="article-anchor-list"><ul><li><a href="#your">Your Rights</a></li><li><a href="#diy">DIY</a></li><li><a href="#reporting">Reporting Accurate Negative Information</a></li><li><a href="#croa">The Credit Repair Organizations Act</a></li><li><a href="#fraud">Report Credit Repair Fraud</a></li><li><a href="#help">Where to Get Legitimate Help</a></li></ul></div><h2><a name="your" id="your"></a>Your Rights</h2><p>No one can legally remove accurate and timely negative information from a credit report. You can ask for an investigation —at no charge to you — of information in your file that you dispute as inaccurate or incomplete. Some people hire a company to investigate for them, but anything a credit repair company can do legally, you can do for yourself at little or no cost. By law:</p><ul><li>You’re entitled to a free credit report if a company takes “adverse action” against you, like denying your application for credit, insurance, or employment. You have to ask for your report within 60 days of receiving notice of the action. The notice includes the name, address, and phone number of the consumer reporting company. You’re also entitled to one free report a year if you’re unemployed and plan to look for a job within 60 days; if you’re on welfare; or if your report is inaccurate because of fraud, including identity theft.</li><li>Each of the nationwide credit reporting companies — Equifax, Experian, and TransUnion — is required to provide you with a free copy of your credit report once every 12 months, if you ask for it. To order, visit <a href="http://www.annualcreditreport.com/">annualcreditreport.com</a>, or call 1-877-322-8228. You may order reports from each of the three credit reporting companies at the same time, or you can stagger your requests throughout the year.</li><li>It doesn’t cost anything to dispute mistakes or outdated items on your credit report. Both the credit reporting company and the information provider (the person, company, or organization that provides information about you to a credit reporting company) are responsible for correcting inaccurate or incomplete information in your report. To take advantage of all your rights, contact both the credit reporting company and the information provider.</li></ul><h2><a name="diy" id="diy"></a>DIY</h2><p><strong>Step 1:</strong> Tell the credit reporting company, in writing, what information you think is inaccurate. Use our <a href="/articles/0384-sample-letter-disputing-errors-your-credit-report">sample letter</a> to help write your own. Include copies (NOT originals) of any documents that support your position. In addition to including your complete name and address, your letter should identify each item in your report that you dispute; state the facts and the reasons you dispute the information, and ask that it be removed or corrected. You may want to enclose a copy of your report, and circle the items in question. Send your letter by certified mail, “return receipt requested,” so you can document that the credit reporting company got it. Keep copies of your dispute letter and enclosures.</p><p>Credit reporting companies must investigate the items you question within 30 days — unless they consider your dispute frivolous. They also must forward all the relevant data you provide about the inaccuracy to the organization that provided the information. After the information provider gets notice of a dispute from the credit reporting company, it must investigate, review the relevant information, and report the results back to the credit reporting company. If the investigation reveals that the disputed information is inaccurate, the information provider has to notify the nationwide credit reporting companies so they can correct it in your file.</p><p>When the investigation is complete, the credit reporting company must give you the results in writing, too, and a free copy of your report if the dispute results in a change. If an item is changed or deleted, the credit reporting company cannot put the disputed information back in your file unless the information provider verifies that it’s accurate and complete. The credit reporting company also must send you written notice that includes the name, address, and phone number of the information provider. If you ask, the credit reporting company must send notices of any correction to anyone who got your report in the past six months. You also can ask that a corrected copy of your report be sent to anyone who got a copy during the past two years for employment purposes.</p><p>If an investigation doesn’t resolve your dispute with the credit reporting company, you can ask that a statement of the dispute be included in your file and in future reports. You also can ask the credit reporting company to give your statement to anyone who got a copy of your report in the recent past. You’ll probably have to pay for this service.</p><p><strong>Step 2:</strong> Tell the creditor or other information provider, in writing, that you dispute an item. Include copies (NOT originals) of documents that support your position. Many providers specify an address for disputes. If the provider reports the item to a consumer reporting company, it must include a notice of your dispute. And if the information is found to be inaccurate, the provider may not report it again.</p><h2><a name="reporting" id="reporting"></a>Reporting Accurate Negative Information</h2><p>When negative information in your report is accurate, only time can make it go away. A credit reporting company can report most accurate negative information for seven years and bankruptcy information for 10 years. Information about an unpaid judgment against you can be reported for seven years or until the statute of limitations runs out, whichever is longer. The seven-year reporting period starts from the date the event took place. There is no time limit on reporting information about criminal convictions; information reported in response to your application for a job that pays more than $75,000 a year; and information reported because you’ve applied for more than $150,000 worth of credit or life insurance.</p><h2><a name="croa" id="croa"></a>The Credit Repair Organizations Act</h2><p>The <a href="http://www.ftc.gov/ro/chro/credit.shtm">Credit Repair Organization Act (CROA)</a> makes it illegal for credit repair companies to lie about what they can do for you, and to charge you before they've performed their services. The CROA is enforced by the Federal Trade Commission and requires credit repair companies to explain:</p><ul><li>your legal rights in a written contract that also details the services they'll perform</li><li>your three day right to cancel without any charge</li><li>how long it will take to get results</li><li>the total cost you will pay</li><li>any guarantees</li></ul><p>What if a credit repair company you hired doesn't live up to its promises? You have some options. You can:</p><ul><li>sue them in federal court for your actual losses or for what you paid them, whichever is more</li><li>seek punitive damages — money to punish the company for violating the law</li><li>join other people in a class action lawsuit against the company, and if you win, the company has to pay your attorney's fees</li></ul><h2><a name="fraud" id="fraud"></a>Report Credit Repair Fraud</h2><p><strong>State Attorneys General</strong></p><p>Many states also have laws regulating credit repair companies. If you have a problem with a credit repair company, report it to your local consumer affairs office or to your <a href="http://www.naag.org/">state attorney general</a> (AG).</p><p><strong>Federal Trade Commission</strong></p><p>You also can file a complaint with the Federal Trade Commission. Although the FTC can't resolve individual credit disputes, it can take action against a company if there's a pattern of possible law violations. File your complaint online at <a href="https://www.ftccomplaintassistant.gov/">ftc.gov/complaint</a> or call 1-877-FTC-HELP.</p><h2><a name="help" id="help"></a>Where to Get Legitimate Help</h2><p>Just because you have a poor credit history doesn’t mean you can’t get credit. Creditors set their own standards, and not all look at your credit history the same way. Some may look only at recent years to evaluate you for credit, and they may give you credit if your bill-paying history has improved. It may be worthwhile to contact creditors informally to discuss their credit standards.</p><p>If you’re not disciplined enough to create a budget and stick to it, to work out a repayment plan with your creditors, or to keep track of your mounting bills, you might consider contacting a credit counseling organization. Many are nonprofit and work with you to solve your financial problems. But remember that “nonprofit” status doesn’t guarantee free, affordable, or even legitimate services. In fact, some credit counseling organizations — even some that claim nonprofit status — may charge high fees or hide their fees by pressuring people to make “voluntary” contributions that only cause more debt.</p><p>Most credit counselors offer services through local offices, online, or on the phone. If possible, find an organization that offers in-person counseling. Many universities, military bases, credit unions, housing authorities, and branches of the U.S. Cooperative Extension Service operate nonprofit credit counseling programs. Your financial institution, local consumer protection agency, and friends and family also may be good sources of information and referrals.</p><p>If you’re thinking about filing for bankruptcy, be aware that bankruptcy laws require that you get credit counseling from a government-approved organization within six months before you file for bankruptcy relief. You can find a state-by-state list of government-approved organizations at <a href="http://www.usdoj.gov/ust">www.usdoj.gov/ust</a>, the website of the U.S. Trustee Program. That’s the organization within the U.S. Department of Justice that supervises bankruptcy cases and trustees. Be wary of credit counseling organizations that say they are government-approved, but don’t appear on the list of approved organizations.</p><p>Reputable credit counseling organizations can advise you on managing your money and debts, help you develop a budget, and offer free educational materials and workshops. Their counselors are certified and trained in the areas of consumer credit, money and debt management, and budgeting. Counselors discuss your entire financial situation with you, and can help you develop a personalized plan to solve your money problems. An initial counseling session typically lasts an hour, with an offer of follow-up sessions.</p></div>            
+  </div>
+	</div>
+	
+  	
+	<div class = "terms">Tagged with: <a href="http://www.consumer.ftc.gov/taxonomy/term/1630" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">credit repair</a>, <a href="http://www.consumer.ftc.gov/taxonomy/term/941" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">debt</a></div>					<div class="article-date"><span>November 2012</span></div>
+			
+			<div class="also-like">
+			<h4>You Might Also Like</h4><ul><li><a href="http://www.consumer.ftc.gov/articles/0150-coping-debt">Coping with Debt</a></li><li><a href="http://www.consumer.ftc.gov/articles/0187-when-paying-mortgage-struggle">When Paying the Mortgage is a Struggle</a></li></ul> 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+
+</div> <!-- /block -->
+  </div>
+                   </div>
+
+        
+      </div> <!-- /content -->
+
+              <div id="sidebar-first" class="column sidebar first">
+          <div id="nav-control"><a href="#">menu</a></div>  <div class="region region-sidebar-first">
+    <div id="block-system-main-menu" class="block block-system block-menu block-even clearfix">
+
+                		
+		  <ul class="menu level-3"><li class="first expanded active-trail money-credit mid-1858"><a href="http://www.consumer.ftc.gov/topics/money-credit" title="" class="active-trail"><span>Money &amp;<br />  Credit</span></a><ul class="menu level-2"><li class="first collapsed shopping-saving mid-2606"><a href="http://www.consumer.ftc.gov/topics/shopping-saving" title=""><span>Shopping & Saving</span></a></li>
+<li class="collapsed buying-owning-a-car mid-2608"><a href="http://www.consumer.ftc.gov/topics/buying-owning-car" title=""><span>Buying & Owning a Car</span></a></li>
+<li class="collapsed credit-loans mid-2607"><a href="http://www.consumer.ftc.gov/topics/credit-and-loans" title=""><span>Credit & Loans</span></a></li>
+<li class="expanded active-trail dealing-with-debt mid-2604"><a href="http://www.consumer.ftc.gov/topics/dealing-debt" title="" class="active-trail"><span>Dealing with Debt</span></a><ul class="menu level-1"><li class="first leaf choosing-a-credit-counselor mid-2777"><a href="http://www.consumer.ftc.gov/articles/0153-choosing-credit-counselor"><span>Choosing a Credit Counselor</span></a></li>
+<li class="leaf coping-with-debt mid-2776"><a href="http://www.consumer.ftc.gov/articles/0150-coping-debt"><span>Coping with Debt</span></a></li>
+<li class="leaf credit-repair-scams mid-2772"><a href="http://www.consumer.ftc.gov/articles/0225-credit-repair-scams"><span>Credit Repair Scams</span></a></li>
+<li class="leaf active-trail credit-repair-how-to-help-yourself mid-2766"><a href="http://www.consumer.ftc.gov/articles/0058-credit-repair-how-help-yourself" class="active-trail active-trail active"><span>Credit Repair: How to Help Yourself</span></a></li>
+<li class="leaf dealing-with-debt-bookmark mid-3571"><a href="http://www.consumer.ftc.gov/articles/0363-dealing-debt-bookmark"><span>Dealing with Debt Bookmark</span></a></li>
+<li class="leaf debt-collection mid-2781"><a href="http://www.consumer.ftc.gov/articles/0149-debt-collection"><span>Debt Collection</span></a></li>
+<li class="leaf debt-collection-arbitration mid-2779"><a href="http://www.consumer.ftc.gov/articles/0161-debt-collection-arbitration"><span>Debt Collection Arbitration</span></a></li>
+<li class="leaf debt-relief-or-bankruptcy- mid-2782"><a href="http://www.consumer.ftc.gov/articles/0084-debt-relief-or-bankruptcy"><span>Debt Relief or Bankruptcy?</span></a></li>
+<li class="leaf debts-and-deceased-relatives mid-2775"><a href="http://www.consumer.ftc.gov/articles/0081-debts-and-deceased-relatives"><span>Debts and Deceased Relatives</span></a></li>
+<li class="leaf fake-debt-collectors mid-2773"><a href="http://www.consumer.ftc.gov/articles/0258-fake-debt-collectors"><span>Fake Debt Collectors</span></a></li>
+<li class="leaf filing-for-bankruptcy-what-to-know mid-2767"><a href="http://www.consumer.ftc.gov/articles/0224-filing-bankruptcy-what-know"><span>Filing for Bankruptcy: What to Know</span></a></li>
+<li class="leaf garnishing-federal-benefits-your-rights mid-2780"><a href="http://www.consumer.ftc.gov/articles/0114-garnishing-federal-benefits"><span>Garnishing Federal Benefits: Your Rights</span></a></li>
+<li class="leaf paying-down-credit-card-debt mid-2771"><a href="http://www.consumer.ftc.gov/articles/0333-paying-down-credit-card-debt"><span>Paying Down Credit Card Debt</span></a></li>
+<li class="leaf settling-credit-card-debt mid-2778"><a href="http://www.consumer.ftc.gov/articles/0145-settling-credit-card-debt"><span>Settling Credit Card Debt</span></a></li>
+<li class="leaf tax-relief-companies mid-2768"><a href="http://www.consumer.ftc.gov/articles/0137-tax-relief-companies"><span>Tax Relief Companies</span></a></li>
+<li class="last leaf time-barred-debts mid-2774"><a href="http://www.consumer.ftc.gov/articles/0117-time-barred-debts"><span>Time-Barred Debts</span></a></li>
+</ul></li>
+<li class="last collapsed resolving-consumer-problems mid-2605"><a href="http://www.consumer.ftc.gov/topics/resolving-consumer-problems" title=""><span>Resolving Consumer Problems</span></a></li>
+</ul></li>
+<li class="collapsed homes-mortgages mid-1859"><a href="http://www.consumer.ftc.gov/topics/homes-mortgages" title=""><span>Homes &amp;<br />  Mortgages</span></a></li>
+<li class="collapsed health-fitness mid-1860"><a href="http://www.consumer.ftc.gov/topics/health-fitness" title=""><span>Health &amp;<br />  Fitness</span></a></li>
+<li class="collapsed jobs-making-money mid-1861"><a href="http://www.consumer.ftc.gov/topics/jobs-making-money" title=""><span>Jobs &amp;<br />  Making Money</span></a></li>
+<li class="last collapsed privacy-identity mid-1862"><a href="http://www.consumer.ftc.gov/topics/privacy-identity" title=""><span>Privacy &amp;<br />  Identity</span></a></li>
+</ul>
+</div> <!-- /block -->
+<div id="block-menu-menu-main-sub" class="block block-menu block-odd clearfix">
+
+                		
+		  <ul class="menu"><li class="first leaf blog mid-2559"><a href="http://www.consumer.ftc.gov/blog" title=""><span>Blog</span></a></li>
+<li class="last leaf video-media mid-2560"><a href="http://www.consumer.ftc.gov/media" title=""><span>Video &amp;<br />  Media</span></a></li>
+</ul>
+</div> <!-- /block -->
+<div id="block-menu-menu-nav-promo" class="block block-menu block-even clearfix">
+
+                		
+		  <ul class="menu"><li class="first last leaf scam-alerts mid-2650"><a href="http://www.consumer.ftc.gov/scam-alerts" title="">Scam Alerts</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+        </div>
+       <!-- /sidebar-first -->
+    </div> <!-- /main-inner -->
+  </div> <!-- /main -->
+
+    <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer">
+        <div class="region region-footer">
+    <div id="block-panels_mini-footer" class="block block-panels-mini block-odd clearfix">
+
+                		
+		  <div class="panel-display panel-footer clearfix" id="mini-panel-footer">
+ <div class = "panel-top">
+     <div class="panel-panel panel-col-top-l">
+      
+
+<div class="panel-pane pane-views pane-topic-landing-page even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_5 view-dom-id-f6aa8ec6f86657e24dcba41cb13836f4">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_6 view-dom-id-d7686823d0d6543fb28e1c7907190567">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-sidebar-modules view-id-sidebar_modules view-display-id-block_3 view-dom-id-18822f3a8e4db1aaf83d45e204642e85">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-gdelivery">        <div class="field-content"><a href="https://public.govdelivery.com/accounts/USFTC/subscriber/new?topic_id=USFTC_24">Get money and credit updates by email</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+  
+ 
+    <div class="panel-panel panel-col-top-c">
+     
+
+<div class="panel-pane pane-views pane-topic-landing-page even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_7 view-dom-id-9c7f55e46f18ca8430939f29034ddf37">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_8 view-dom-id-3eacdc2f040f63473fabe1730e4959df">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-sidebar-modules view-id-sidebar_modules view-display-id-block_4 view-dom-id-a870ed5cbca8c0b9c7714bc35081662c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-guidance-link">        <div class="field-content"><a href="http://business.ftc.gov/credit-and-finance">Looking for business guidance on credit and finance?</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+
+  
+      <div class="panel-panel panel-col-top-r">
+      
+
+<div class="panel-pane pane-block pane-ftc-social-media-ftc-social-media even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class = 'social-media'><li class='newsletter'><a href='https://public.govdelivery.com/accounts/USFTC/subscriber/new?category_id=USFTC_C7' target = 'blank'>Get Email Updates</a></li><li class='rss'><a href='/blog/rss' target = 'blank'>Blog Feed</a></li><li class='facebook'><a href='https://www.facebook.com/federaltradecommission' target = 'blank'>Facebook</a></li><li class='youtube'><a href='http://www.youtube.com/user/FTCvideos' target = 'blank'>YouTube</a></li><li class='twitter'><a href='https://twitter.com/FTC' target = 'blank'>Twitter</a></li></ul>  </div>
+
+  
+  </div>
+    </div>
+    
+  </div>
+<div class = "panel-bottom">
+
+  	     <div class="panel-panel panel-col-bottom-l">
+      
+
+<div class="panel-pane pane-block pane-block-14 even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="http://ftc.gov/"><img src="/profiles/consumer/themes/consumer_platform/images/icon-ftc-seal.gif" style="border: none; margin-right: 10px; margin-bottom:20px; float: left;" /></a><a href="http://ftc.gov/">The Federal Trade Commission</a> (FTC) is the nation’s consumer protection agency. The FTC works to prevent fraudulent, deceptive and unfair business practices in the marketplace.</p>  </div>
+
+  
+  </div>
+    </div>
+   
+
+     <div class="panel-panel panel-col-bottom-c">
+      
+
+<div class="panel-pane pane-block pane-menu-menu-footer even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf privacy-policy mid-2563"><a href="http://www.consumer.ftc.gov/privacy-policy">Privacy Policy</a></li>
+<li class="leaf about-us mid-2564"><a href="http://www.consumer.ftc.gov/about-us">About Us</a></li>
+<li class="last leaf contact-us mid-2565"><a href="http://www.consumer.ftc.gov/contact-us">Contact Us</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  
+      <div class="panel-panel panel-col-bottom-r">
+      
+
+<div class="panel-pane pane-block pane-block-1 share-resources even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="/share-our-resources">Share Our Resources. Here's How &gt;</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-block pane-block-12 file-a-complaint odd" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="/articles/0341-file-complaint-ftc">File a Complaint with the FTC &gt;</a></p>
+  </div>
+
+  
+  </div>
+    </div>
+  
+
+  </div>
+</div>
+
+</div> <!-- /block -->
+  </div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+  </body>
+</html>

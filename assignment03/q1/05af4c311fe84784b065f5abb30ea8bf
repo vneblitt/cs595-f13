@@ -1,0 +1,649 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+	  <base href="http://rennfest.com/tickets" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Super User" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Tickets</title>
+  <link rel="stylesheet" href="/plugins/system/rokbox/themes/light/rokbox-style.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/gantry.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/grid-12.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/joomla.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_radiance/css/joomla.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_radiance/css/overlays.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_radiance/css/typography.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_radiance/css/extensions.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_radiance/css/extensions-overlays.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_radiance/css/demo-styles.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_radiance/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_radiance/css/fusionmenu.css" type="text/css" />
+  <style type="text/css">
+#rt-header, .menutop li > .item, #rt-showcase .roktabs-links li, #rt-top, #rt-top a:hover, #rt-header .module-content a:hover {color:#000;}
+#rt-header a, .menutop li > .item:hover, .menutop li.active > .item, .menutop li.f-mainparent-itemfocus > .item, .menutop li.f-menuparent-itemfocus > .item, #rt-showcase .roktabs-links li.active {color:#fff;}
+#rt-showcase .roktabs-wrapper .roktabs-links, #rt-showcase .roktabs-wrapper .active-arrows, #rt-accessibility #rt-buttons .button {background-color:rgba(245,225,7,0.65);}
+body {background-color:#670303;}
+body, body a:hover, #rt-showcase, #rt-footer-surround, #rt-footer, #rt-copyright, .rt-sidebar-surround, .rt-sidebar-surround .inputbox, body #roktwittie .info, .rt-sidebar-surround .roktabs-wrapper .roktabs-container-inner, #rt-showcase .roktabs-wrapper .roktabs-container-inner {color:#555;}
+.rt-sidebar-surround a, .main-overlay .title span, .main-overlay .readon {color:#A52E10;}
+#rt-container-bg {background-color:rgba(255,255,255,0.8);}
+#rt-feature, .rt-sidebar-surround .box2 .rt-block, .component-content .module-title, #rt-content-top .title2 .module-title, #rt-content-bottom .title2 .module-title, .readon:hover, .topblock-overlay-dark .readon:hover, .main-overlay-dark .main-overlay .readon:hover, .accent-overlay-dark .readon:hover, .content-overlay-dark .readon:hover, .bottomblock-overlay-dark .readon:hover, body #roktwittie .header, body .roknewspager-pages .roknewspager-numbers li.active, body .roknewspager-li .roknewspager-h3 {background-color:#4B6A24;}
+a, .readon, .readon .button, #rt-feature .readon, .rt-sidebar-surround .box2 .readon, #rt-top-surround .readon, #rt-top a, #rt-header .module-content a, #rt-top .title span, #rt-header .title span {color:#4B6A24;}
+body ul.checkmark li:after, body ul.circle-checkmark li:before, body ul.square-checkmark li:before, body ul.circle-small li:after, body ul.circle li:after, body ul.circle-large li:after {border-color:#4B6A24;}
+.component-content .module-title:before, #rt-content-top .title2 .module-title:before, #rt-content-bottom .title2 .module-title:before {border-top-color:#4B6A24;}
+body ul.triangle-small li:after, body ul.triangle li:after, body ul.triangle-large li:after {border-left-color:#4B6A24;}
+.rg-detail-img-bg,.rg-grid-view .rg-grid-thumb,.rg-list-view .rg-list-thumb {border-bottom-color:#4B6A24;}
+#rt-feature, .rt-sidebar-surround .box2, #rt-content-top .title2 .title, #rt-content-bottom .title2 .title, .readon:hover span, .readon:hover .button, #rt-main-column .component-content .title a:hover, #rt-main-column .component-content .title, #rt-main-column .component-content .title a, .main-overlay .box2 .title span {color:#fff;}
+#rt-feature a, .rt-sidebar-surround .box2 a, #rt-content-top .title2 .title span, #rt-content-bottom .title2 .title span, .roknewspager .roknewspager-title, #rt-feature .title span, .component-content .panel .title a, #rt-feature .readon {color:#fff;}
+#rt-content-top, .component-block, #rt-content-bottom, .rt-sidebar-surround .box1 .rt-block, #rt-breadcrumbs, .content-tabs .roktabs-wrapper .roktabs-links ul li.active, .content-tabs .roktabs-wrapper .roktabs-links ul li:hover span, .content-tabs .roktabs-wrapper .roktabs-container-inner, .rg-detail-img-bg, .rg-grid-view .rg-grid-thumb, .rg-list-view .rg-list-thumb, .tip-wrap, .rokbox-clean #rokbox-middle .rokbox-right, .rg-view-selector-list .active {background-color:#fff;}
+#rt-main-column, #rt-main-column a:hover, #rt-breadcrumbs a:hover, .rt-sidebar-surround .box1 .rt-block, .content-tabs .roktabs-wrapper .roktabs-container-inner, #rt-breadcrumbs, .rt-article-links h3.title, #rt-popuplogin, #mailto-window, .tip-wrap, #rt-main-column .component-content .contact h3.title a:hover, #rt-popup, #rt-popuplogin, #rt-popup a:hover, #rt-popuplogin a:hover {color:#555;}
+#rt-main-column a, .rt-sidebar-surround .box1 .rt-block a,.rg-list-view .item-title,.rg-grid-view .item-title, .rg-detail-item-title, .content-tabs .roktabs-wrapper .roktabs-links ul li.active span, #rt-breadcrumbs a, #rt-content-top .title span, #rt-content-bottom .title span, #rt-main-column .component-content .contact h3.title a, #rt-popup a, #rt-popuplogin a {color:#A52E10;}
+body .root-sub a, body #rt-menu .root.active .item  span {color: #4B6A24 !important;}
+#rt-bottom {background-color:#ccc;}
+#rt-bottom, #rt-bottom a:hover {color:#555;}
+#rt-bottom a, #rt-bottom .title span {color:#A52E10;}
+.menutop li.active.root, .menutop li.root:hover, .menutop li.f-mainparent-itemfocus, .menutop li.active.root:before, .menutop li.active.root:after, .rt-splitmenu .menutop li.active, .rt-splitmenu .menutop li:hover, .rt-splitmenu .menutop li.active:before, .rt-splitmenu .menutop li.active:after {#4B6A24}
+.grad-left {#670303}
+.grad-right {#670303}
+.grad-bottom {#670303}
+#rt-top-burst {#f5e107}
+#rt-bg-image {background: url(/templates/rt_radiance/images/backgrounds/japan-garden.jpg) 50% 0 no-repeat;}
+#rt-bg-image {position: absolute; width: 1200px;height: 700px;top: 0;left: 50%;margin-left: -600px;}
+body #rt-logo {width:527px;height:100px;}
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/system/rokbox/rokbox.js" type="text/javascript"></script>
+  <script src="/plugins/system/rokbox/themes/light/rokbox-config.js" type="text/javascript"></script>
+  <script src="/libraries/gantry/js/gantry-totop.js" type="text/javascript"></script>
+  <script src="/libraries/gantry/js/gantry-smartload.js" type="text/javascript"></script>
+  <script src="/libraries/gantry/js/gantry-inputs.js" type="text/javascript"></script>
+  <script src="/templates/rt_radiance/js/load-transition.js" type="text/javascript"></script>
+  <script src="/modules/mod_roknavmenu/themes/fusion/js/fusion.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});var rokboxPath = '/plugins/system/rokbox/';window.addEvent('domready', function() {new GantrySmartLoad({'offset': {'x': 200, 'y': 200}, 'placeholder': '/templates/rt_radiance/images/blank.gif', 'exclusion': ['']}); });InputsExclusion.push('.content_vote','\#rt-popup','\#rt-popuplogin','\#contact-form','\#vmMainPage')window.addEvent("domready", function(){ new SmoothScroll(); });            window.addEvent('domready', function() {
+                new Fusion('ul.menutop', {
+                    pill: 0,
+                    effect: 'slide and fade',
+                    opacity:  1,
+                    hideDelay:  500,
+                    centered:  0,
+                    tweakInitial: {'x': -10, 'y': -4},
+                    tweakSubsequent: {'x':  13, 'y':  0},
+                    tweakSizes: {'width': 20, 'height': 20},
+                    menuFx: {duration:  300, transition: Fx.Transitions.Circ.easeOut},
+                    pillFx: {duration:  400, transition: Fx.Transitions.Back.easeOut}
+                });
+            });
+            window.addEvent('domready', function() {
+});
+window.addEvent('load', function() {
+});
+
+  </script>
+</head>
+	<body  class="main-overlay-light accent-overlay-dark readonstyle-button font-family-radiance font-size-is-default logo-style-light menu-type-fusionmenu inputstyling-enabled-1 typography-style-light col12 option-com-content menu-tickets">
+		<div id="rt-page-surround">
+						<div id="rt-bg-image">
+				<div class="grad-bottom"></div>
+				<div class="grad-left"></div>
+				<div class="grad-right"></div>
+			</div>
+						<div id="rt-page-surround-inner">
+				<div id="rt-top-block">
+					<div id="rt-top-surround" class="topblock-overlay-light"><div id="rt-top-burst"><div id="rt-top-bottom">
+												<div id="rt-drawer">
+							<div class="rt-container">
+																<div class="clear"></div>
+							</div>
+						</div>
+																								<div id="rt-header">
+															<div class="rt-container">
+									<div class="rt-grid-12 rt-alpha rt-omega">
+    		<div class="rt-block logo-block">
+						<div class="centered">
+			    	    	<a href="/" id="rt-logo"></a>
+						</div>
+					</div>
+	    
+</div>
+									<div class="clear"></div>
+								</div>
+													</div>
+																		<div id="rt-navigation" class="centered">
+							<div class="rt-container">
+								
+<div class="rt-grid-12 rt-alpha rt-omega">
+    	<div class="rt-block menu-block">
+		<div class="rt-fusionmenu">
+<div class="nopill">
+<div class="rt-menubar">
+    <ul class="menutop level1 " >
+                        <li class="item101 root" >
+                        	                <a class="orphan item bullet" href="http://rennfest.com/"  >
+                    <span>
+                                        Home                                                            </span>
+                </a>
+            
+                    </li>
+                                <li class="item103 parent root" >
+                        	                <a class="daddy item bullet" href="/general-information"  >
+                    <span>
+                                        General Info                                                            <span class="daddyicon"></span>
+                                        </span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2 topblock-overlay-light" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item145" >
+                        	                <a class="orphan item bullet" href="/general-information/calendar/month.calendar/2013/09/30/-"  >
+                    <span>
+                                        Calendar                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item104" >
+                        	                <a class="orphan item bullet" href="/general-information/costume-rentals"  >
+                    <span>
+                                        Costume Rentals                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item105" >
+                        	                <a class="orphan item bullet" href="/general-information/dates-times-directions"  >
+                    <span>
+                                        Dates, Times &amp; Directions                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item106" >
+                        	                <a class="orphan item bullet" href="/general-information/food-artisans"  >
+                    <span>
+                                        Food &amp; Artisans                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item107" >
+                        	                <a class="orphan item bullet" href="/general-information/employment-vendor-opportunities"  >
+                    <span>
+                                        Employment / Vendor Opportunities                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item108" >
+                        	                <a class="orphan item bullet" href="/general-information/local-accommodations"  >
+                    <span>
+                                        Local Accommodations                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item109" >
+                        	                <a class="orphan item bullet" href="/general-information/phone-and-mailing-info"  >
+                    <span>
+                                        Phone and Mailing Info                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item110" >
+                        	                <a class="orphan item bullet" href="/general-information/special-events"  >
+                    <span>
+                                        Special Events                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item111" >
+                        	                <a class="orphan item bullet" href="/general-information/wedding-information"  >
+                    <span>
+                                        Wedding Information                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item171" >
+                        	                <a class="orphan item bullet" href="/general-information/traffic-beater"  >
+                    <span>
+                                        Tips for traveling to the Festival                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item169" >
+                        	                <a class="orphan item bullet" href="/general-information/renaissance-festival-blog"  >
+                    <span>
+                                        Our Blog                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item112 parent root" >
+                        	                <a class="daddy item bullet" href="/entertainment"  >
+                    <span>
+                                        Entertainment                                                            <span class="daddyicon"></span>
+                                        </span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2 topblock-overlay-light" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item113" >
+                        	                <a class="orphan item bullet" href="/entertainment/auditions"  >
+                    <span>
+                                        Auditions                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item114" >
+                        	                <a class="orphan item bullet" href="/entertainment/entertainment-support-staff"  >
+                    <span>
+                                        Entertainment Support Staff                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item115" >
+                        	                <a class="orphan item bullet" href="/entertainment/map-of-the-village"  >
+                    <span>
+                                        Map of the Village                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item116" >
+                        	                <a class="orphan item bullet" href="/entertainment/musicians-and-dancers"  >
+                    <span>
+                                        Musicians and Dancers                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item117" >
+                        	                <a class="orphan item bullet" href="/entertainment/our-entertainment-schedule"  >
+                    <span>
+                                        Our Entertainment Schedule                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item118" >
+                        	                <a class="orphan item bullet" href="/entertainment/special-events"  >
+                    <span>
+                                        Special Events                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item119" >
+                        	                <a class="orphan item bullet" href="/entertainment/stage-acts-shows-and-events"  >
+                    <span>
+                                        Stage Acts, Shows and Events                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item120" >
+                        	                <a class="orphan item bullet" href="/entertainment/this-year-s-story-line"  >
+                    <span>
+                                        This Year&#039;s Story Line                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item121" >
+                        	                <a class="orphan item bullet" href="/entertainment/who-s-who-in-our-in-house-cast"  >
+                    <span>
+                                        Who&#039;s Who in our In-House Cast                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item210" >
+                        	                <a class="orphan item bullet" href="/entertainment/christmas-show"  >
+                    <span>
+                                        Christmas Show Tickets                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item122 parent active root" >
+                        	                <a class="daddy item bullet active-to-top" href="/tickets"  >
+                    <span>
+                                        Tickets                                                            <span class="daddyicon"></span>
+                                        </span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2 topblock-overlay-light" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item123" >
+                        	                <a class="orphan item bullet" href="/tickets/ticket-prices-and-group-sales"  >
+                    <span>
+                                        BUY TICKETS                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item208" >
+                        	                <a class="orphan item bullet" href="/tickets/christmas-show"  >
+                    <span>
+                                        Christmas Show Tickets                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item195 parent root" >
+                        	                <a class="daddy item bullet" href="/photos"  >
+                    <span>
+                                        Photo                                                            <span class="daddyicon"></span>
+                                        </span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2 topblock-overlay-light" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item132" >
+                        	                <a class="orphan item bullet" href="/photos/photo-contest-form"  >
+                    <span>
+                                        Photo Contest Entry Form                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item134 root" >
+                        	                <a class="orphan item bullet" href="/contact"  >
+                    <span>
+                                        Contact                                                            </span>
+                </a>
+            
+                    </li>
+                                <li class="item209 root" >
+                        	                <a class="orphan item bullet" href="/christmas"  >
+                    <span>
+                                        Christmas                                                            </span>
+                </a>
+            
+                    </li>
+                    </ul>
+</div>
+<div class="clear"></div>
+</div>
+</div>		<div class="clear"></div>
+	</div>
+	
+</div>
+								<div class="clear"></div>
+							</div>
+						</div>
+											</div>
+				</div></div></div>
+												<div class="rt-container">
+					<div id="rt-container-bg" class="rt-hidden">
+						<div id="rt-body-surround">
+																																		              
+<div id="rt-main" class="mb8-sa4">
+	<div class="rt-container">
+		<div class="rt-grid-8">
+			<div id="rt-main-column" class="content-overlay-light">
+																			<div class="rt-block component-block">
+							<div id="rt-mainbody">
+								<div class="component-content rt-joomla">
+									<div class="rt-article">
+	<div class="item-page">
+				<div class="article-header">
+						<div class="module-title"><div class="module-title2"><div class="module-title3">
+				<h1 class="title">
+										<a href="/tickets/ticket-prices-and-group-sales">
+						Ticket Sales</a>
+									</h1>
+			</div></div></div>
+						<div class="clear"></div>
+			
+								</div>
+
+		
+		
+		
+					<h1 style="text-align: center;"><span style="color: #800000; font-size: x-large;"><strong>2013 Maryland Renaissance Festival</strong></span></h1>
+<p align="center"><span style="color: #800000; font-size: medium;"><strong>2013 Single Day Admissions Are Available Online</strong></span></p>
+<p align="center"><span style="color: #800000; font-size: medium;"><strong>9:00 am Monday to 6:00 pm Sunday</strong></span></p>
+<p align="center"><span style="color: #800000; font-size: medium;"><strong>For The Upcoming Weekend</strong></span></p>
+<p align="center"><span style="color: #008000; font-size: medium;"><strong>Ticket Windows Open at 9:30 am</strong></span></p>
+<p align="center"><span style="color: #008000; font-size: medium;"><strong>Opening Gate Ceremony at 9:45 am</strong></span></p>
+<p align="center"><span style="color: #008000; font-size: medium;"><strong>Gates Open at 10:00 am</strong></span></p>
+<p align="center"> </p>
+<p align="center"> <strong>Savings the first 9 days of the Maryland Renaissance Festival</strong></p>
+<p style="text-align: center;" align="center"><strong><a href="https://www.gatemastertickets.com/RennFest/index_event_schedule.aspx?id=32"><img src="/images/October%205.png" border="0" width="228" height="198" style="border: 0px currentColor;" /></a><a href="https://www.gatemastertickets.com/RennFest/index_event_schedule.aspx?id=60"></a></strong></p>
+<p style="text-align: center;"><span style="color: #800000;"><strong>**Be sure to check your schedule and monitor the weather before purchasing your tickets</strong></span></p>
+<p style="text-align: center;"><span style="color: #800000;"><strong>**Single Day tickets are non-refundable and may not be exchanged for another date</strong></span></p>
+<p style="text-align: center;"><span style="color: #800000;"><strong><strong>Purchasing your Online Ticket</strong></strong></span></p>
+<p> Simply enter the number of tickets you want to purchase in the appropriate category, enter your payment information, you will receive payment confirmation  and  ticket via email.  When you place an order, the information that you provide us is sent via a secure connection so that it cannot be read as it travels over the Internet. Once your information arrives it is carefully stored and protected from  unauthorized access.</p>
+<p style="text-align: center;"><span style="color: #800000;"><strong>Printing your  Online Ticket</strong></span></p>
+<p>Once  you receive your Ticket  via email, print out the Ticket and present it at the gate.Please be sure the barcode is  sized properly and  is clearly legible before presenting at the gate. Barcodes should be no larger than the sample. Barcodes that are incomplete, too light or sized incorrectly  will not scan properly.</p>
+<p style="text-align: center;"><span style="color: #800000;"><strong><img src="/images/barcode.jpg" border="0" alt="" /></strong></span></p>
+<p> Don't worry! If, in the rare instance, you do not receive your email , or you are unable to print, or you forget to bring your ticket, please visit any Ticket Window to have your tickets re-issued.  Be sure to bring with you your identification or  your order confirmation number.</p>
+<p><strong><br /></strong> <strong>    <span style="font-size: small;">                                                         September 21 – October 20</span></strong></p>
+<table style="margin-right: auto; margin-left: auto;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="163">
+<p> </p>
+</td>
+<td valign="top" width="163">
+<p> </p>
+</td>
+<td valign="top" width="163">
+<p>Adult Gate</p>
+<p>   (Ages 16 – 61)</p>
+</td>
+<td valign="top" width="163">
+<p> </p>
+<p>$   22.00</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="163"> </td>
+<td valign="top" width="163">
+<p> </p>
+</td>
+<td valign="top" width="163">
+<p>Senior  Gate</p>
+<p>   (Ages 62 +)</p>
+</td>
+<td valign="top" width="163">
+<p> </p>
+<p>$   19.00</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p> </p>
+</td>
+<td valign="top" width="163">
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="163">
+<p>Child  Gate</p>
+<p>   (Ages 7 – 15)</p>
+</td>
+<td valign="top" width="163">
+<p> </p>
+<p>$   10.00</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p> </p>
+<p>   </p>
+</td>
+<td valign="top" width="163">
+<p> </p>
+</td>
+<td valign="top" width="163">
+<p>Group Adult</p>
+</td>
+<td valign="top" width="163">
+<p>$   18.00</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p> </p>
+<p> </p>
+</td>
+<td valign="top" width="163">
+<p> </p>
+</td>
+<td valign="top" width="163">
+<p>Group Child</p>
+</td>
+<td valign="top" width="163">
+<p>$     9.00</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;" align="center"><span style="font-size: x-small;">Children 6 and under are free and do not require a ticket </span></p>
+<p align="center"><span style="font-size: medium; color: #800000;"><strong>2013 SUBSCRIPTION PASSES</strong></span></p>
+<p style="text-align: center;" align="center"><strong><span style="font-size: medium;">2 Day Pass ~ $30.00 </span>- </strong>2 Day Passes are good any 2 days of the 2013 Season and are Available at any ticket window on Festival Days </p>
+<p style="text-align: center;" align="center"><strong><span style="font-size: medium;">6 Day Pass ~ $66.00</span> - </strong> 6 Day Passes are good any 6 Days of the 2013 Season and are Available by phone  at any ticket window on Festival Days</p>
+<p style="text-align: center;" align="center"><strong><span style="font-size: medium;">9 Day Pass ~ $90.00 </span> - </strong>9 Day Passes are good any 9 Days of the 2013 Season and are Available by phone or at any ticket window on Festival Days</p>
+<p style="text-align: center;" align="center"><strong><span style="font-size: medium;">Season Pass ~ $120.00 - </span></strong>Season Passes are good all 19 Days of the 2013 Season and are Available by phone at any ticket window on Festival Days</p>
+<p style="text-align: center;" align="center"> </p>
+<p> * Single Day Admissions are Available online 9:00 am Monday– 6:00 pm Sunday for the upcoming weekend or at any ticket window  on Festival Days</p>
+<p>*Peak season rates applicable beginning September 16<sup>th</sup></p>
+<p>* Group rates begin at groups of 20 or more and can be purchased over the phone or at any ticket window on Festival Days</p>
+<p>* Active Military Personnel with photo identification can purchase at the group discount price                         </p>
+<p><strong>* </strong>Buses - Easy drop off and loading with ample bus parking nearby.</p>
+<p align="center"> <br /><strong> </strong></p>
+<p align="center"> </p>
+<p><strong> </strong></p>
+<h1 style="text-align: center;"><strong> </strong></h1>
+<p style="color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; line-height: normal;"> </p> 			
+				
+				
+				
+	</div>
+</div>
+								</div>
+							</div>
+							<div class="clear"></div>
+						</div>
+																				</div>
+		</div>
+		            <div class="rt-grid-4">
+                <div class="rt-sidebar-surround main-overlay">
+                    <div id="rt-sidebar-a">
+                                            <div class="rt-block">
+								<div class="module-title"><div class="module-title2"><div class="module-title3"><h2 class="title">2013 Festival Season</h2><div class="accent"></div></div></div></div>
+                				<div class="module-content">
+                	
+
+<div class="custom"  >
+	<p><strong>Single Day Admissions are available online</strong></p>
+<p>    9:00 am  Monday to 6:00 pm Sunday</p>
+<p>For the upcoming Weekend</p>
+<p><a href="https://www.gatemastertickets.com/RennFest/index_event_schedule.aspx?id=60"> </a><img src="/images/c2.jpg" border="0" alt="" /><a href="https://www.gatemastertickets.com/RennFest/index_event_schedule.aspx?id=60"></a></p>
+<p style="text-align: left;"><span style="color: #800000;"><strong>**Be sure to check your schedule and monitor the weather before purchasing your tickets</strong></span></p>
+<p style="text-align: left;"><span style="color: #800000;"><strong>**Single Day tickets are non-refundable and may not be exchanged for another date</strong></span></p>
+<p> <strong>Purchasing your Online Ticket</strong></p>
+<p> Simply enter the number of tickets you want to purchase in the appropriate category, enter your payment information, you will receive payment confirmation  and  ticket via email.</p>
+<p> When you place an order, the information that you provide us is sent via a secure connection so that it cannot be read as it travels over the Internet. Once your information arrives it is carefully stored and protected from  unauthorized access.</p>
+<p><strong>Printing your  Online Ticket</strong></p>
+<p>Once  you receive your Ticket  via email, print out the Ticket and present it at the gate.</p>
+<p>Please be sure the barcode is  sized properly and  is clearly legible before presenting at the gate.</p>
+<p>  <img src="/images/barcode.jpg" border="0" alt="" /></p>
+<p> Barcodes should be no larger than the sample above. Barcodes that are incomplete, too light or sized incorrectly  will not scan properly.</p>
+<p> Don't worry! If, in the rare instance, you do not receive your email , or you are unable to print, or you forget to bring your ticket, please visit any Ticket Window to have your tickets re-issued.  Be sure to bring with you your identification or  your order confirmation number</p></div>
+					<div class="clear"></div>
+				</div>
+            </div>
+        	
+                    </div>
+                </div>
+            </div>
+
+		<div class="clear"></div>
+	</div>
+</div>
+																				</div>
+					</div>
+				</div>
+							</div>
+						<div id="rt-footer-surround" class="main-overlay">
+								<div id="rt-footer">
+					<div class="rt-container">
+						<div class="rt-grid-12 rt-alpha rt-omega">
+                        <div class="rt-block">
+								<div class="module-content">
+                	
+
+<div class="custom"  >
+	<p style="text-align: -webkit-center;"><span style="color: #ffffff;"><span style="font-size: 8pt;">Contact us at; Toll Free: 800-296-7304; Local: 410-266-7304; Fax: 410-573-1508 </span><span style="font-size: 8pt;">email: 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy31114 = '&#105;nf&#111;' + '&#64;';
+ addy31114 = addy31114 + 'r&#101;nnf&#101;st' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy31114 + '\'>');
+ document.write(addy31114);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></span></span></p>
+<p class="MsoNormal" style="text-align: -webkit-center;"><span style="font-size: 8pt; color: #ffffff;">Mailing Address: Maryland Renaissance Festival, P. O. Box 315, Crownsville, MD 21032</span></p>
+<p class="MsoNormal" style="text-align: -webkit-center;"><span style="font-size: 8pt; color: #ffffff;"><strong>NO MAIL DELIVERY AT LOCATOR INFO</strong></span></p>
+<p class="MsoNormal" style="text-align: -webkit-center;"><span style="font-size: 8pt; color: #ffffff;">Driving Locator Info: 1821 Crownsville Road, Annapolis, MD 21401</span></p></div>
+					<div class="clear"></div>
+				</div>
+            </div>
+        	
+</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+												<div id="rt-copyright">
+					<div class="rt-container">
+						<div class="rt-grid-12 rt-alpha rt-omega">
+    	    <div class="rt-block totop-block">
+			<a href="#" id="gantry-totop"><span class="totop-desc">Back to Top</span></a>
+		</div>
+		
+</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+											</div>
+											</div>
+        <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-227752-15");
+pageTracker._setDomainName("none");
+pageTracker._setAllowLinker(true);
+pageTracker._trackPageview();
+</script>
+	</body>
+</html>

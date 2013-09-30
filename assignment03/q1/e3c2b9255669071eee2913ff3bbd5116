@@ -1,0 +1,1395 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>USPS&reg; - Print Shipping Labels</title>
+	
+		
+		
+		<meta name="WT.z_kiosk" content="ONLINE"/>
+		
+	
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	
+	
+	
+		<meta name="WT.si_n" content="CNS_Scenario Analysis" />
+		<meta name="WT.si_x" content="1" />
+	
+	
+	
+		
+		
+	
+	
+	
+	<link rel="stylesheet" href="/go/styles/usps.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/go/styles/cns/dijit-resets.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/go/styles/cns/cns.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/go/styles/textarea.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/go/styles/tables.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/go/styles/customScroller.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/go/styles/cns/usps-cns-overrides.css" type="text/css" media="all" />		
+	<link rel="stylesheet" href="/go/styles/tooltip-fluid.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/go/styles/modal-fluid.css" type="text/css" media="all" />
+	
+	<link rel="shortcut icon" href="/go/favicon.ico" type="image/x-icon" />
+	
+	<!--[if IE 7]>
+		<link rel="stylesheet" href="/go/styles/usps-ie7.css" type="text/css" media="all" />
+			
+	<![endif]-->
+	 
+	
+
+
+
+
+
+
+</head>
+	<body id="landing ">
+		<div id="page" class="layout-2col-B shadow-style-D cns-page cns-page-landing tundra view_TBD">
+		
+		
+		
+		     
+
+
+
+
+
+
+		<!-- Begin Header -->
+		<div class="s508-accessibility-navigation">
+			
+			<a href="#quickToolStart"><img alt="Skip To Quick Tools" src="/media/images/cns/spacer.gif"></a>
+			<a href="#navigationStart"><img alt="Skip To Navigation" src="/media/images/cns/spacer.gif"></a>
+			
+			<a href="#navigationEnd"><img alt="Skip to Main Content" src="/media/images/cns/spacer.gif"></a>
+		</div>
+        
+		
+        
+        	<div id="utility-bar">
+		
+        
+        	<div class="page-section clearfix OneLinkKeepLinks">
+				<div class="left">
+				
+					<ul id="contact-list">
+						<li><a id="link-support" href="https://www.usps.com/customer-service/customer-service.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Header: CustService', 'WT.z_section','Home_Header', 'WT.z_link','CustomerService')">Customer Service</a></li>
+						<li><a id="link-mobile" href="https://www.usps.com/mobile/info.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Header: USPSMobile', 'WT.z_section','Home_Header', 'WT.z_link','USPSMobile')">USPS Mobile</a></li>
+						
+						<!-- <li class="last"><a href="http://www.usps.com/mobile/info.htm" id="link-mobile">USPS Mobile</a></li>-->
+                        
+					</ul>
+				</div>
+				
+				
+				<div id="global-header-cart">
+				<h2>				
+					<div class="nav-pipe" style="float: right !important;"></div>
+					<span id="anchor-cart" name="anchor-cart" tabindex="0">Shipping Cart</span>
+				</h2>
+				</div>
+				
+				<div class="right">				
+					<div class="nav-pipe"></div>
+					<div id="nav-tool-login" class="nav-tool">
+						
+
+
+
+<script>
+var logoutUrl = "https://cns.usps.com";
+</script>
+
+
+
+
+
+	
+														
+		
+	
+	<h2><a id="anchor-login" href="https://reg.usps.com/entreg/LoginAction_input?app=GSS&amp;appURL=https%3A%2F%2Fcns.usps.com%2Fgo%2FSecure%2FLandingAction%21input" tabindex="0" class="anchor">Register / Sign In<span class="hide-fromsighted"> Use arrow key to access related widget.</span></a></h2>
+	<div class="nav-window">
+		<div class="wrapper col_3">
+			<div class="background"><div class="modal-insider"></div><div class="modal-corner-tl"></div><div class="modal-corner-tr"></div><div class="modal-corner-bl"></div><div class="modal-corner-br"></div><div class="modal-repeat-left"></div><div class="modal-repeat-right"></div><div class="modal-repeat-top"></div><div class="modal-repeat-bottom"></div></div>
+			<div class="content">
+				<div class="unreg clearfix inner">
+					<div id="login-form-div">
+						<form id="login-form" name="loginForm" action="/go/LoginAction.action" method="post">
+							<input type="hidden" name="successUrl" value="https://cns.usps.com/go/Secure/LandingAction!input" id="successUrlHidden"/>
+							<input type="submit" id="btn-header-hidden-input-signin" value="submit" name="login" style="width: 0px;height: 0px;border: none" />
+							<label for="input-username" class="fontStyle9b">Username</label>
+							<div class="input-text-wrapper input-text-lg">
+								<span class="input-cap-left"></span>
+								<span class="input-field">
+									<input type="text" name="userName" maxlength="50" value="" id="input-username" class="text" autocomplete="off"/>
+								</span>
+								<span class="input-cap-right">
+								</span>
+							</div>
+							<label for="input-password" class="fontStyle9b">Password</label>
+							<div class="input-text-wrapper input-text-lg">
+								<span class="input-cap-left"></span>
+								<span class="input-field">
+									<input type="password" name="password" maxlength="50" id="input-password" class="text"/>
+								</span>
+								<span class="input-cap-right">
+								</span>
+							</div>
+							<p class="error hide" id="login-error-message">Username and password<br />must be entered</p>
+							<p class="hint fontStyle8">Hint: It's at least 7 characters long, including a letter and number.</p>
+							<div class="clearfix fontStyle9">
+								<div id="btn-signin-wrapper" class="left">
+									<div id="btn-signin-inner-wrapper">
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+<span class="button-link button-link btn-reg btn-blue-reg" id="parent-id">
+	<span>
+		
+			<a class="buttons" href="#" id="btn-header-input-signin" target="_self">Sign In</a>
+		
+		
+	</span>
+</span>
+
+									</div>
+								</div>
+								
+																					
+									
+								
+								<a id="link-forgot" href="https://reg.usps.com/entreg/ForgotPasswordAction_input?app=GSS&amp;appURL=https%3A%2F%2Fcns.usps.com%2Fgo%2FSecure%2FLandingAction%21input">Forgot your password?</a>
+							</div>
+						</form>
+
+
+
+
+					</div>
+					<div id="login-detail" class="fontStyle9">
+						<strong>Create a USPS.com account to...</strong>
+						<ul>
+							<li>print shipping labels.</li>
+							<li>request a Package Pickup.</li>
+							<li>buy stamps and shop.</li>
+							<li>manage PO Boxes.</li>
+							<li>print customs forms online.</li>
+							<li>file domestic insurance claims.</li>
+						</ul>
+						
+																			
+							
+						
+						<a id="sign-up-link" href="https://reg.usps.com/entreg/RegistrationAction_input?app=GSS&amp;appURL=https%3A%2F%2Fcns.usps.com%2Fgo%2FSecure%2FLandingAction%21input">Sign Up Now &rsaquo;</a><br/><br/>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+					
+					</div>
+					<div class="nav-pipe"></div>
+					
+				</div>
+				
+			</div>
+		</div>
+		<!-- End Header -->
+		     
+
+
+
+
+
+		<div id="header">
+			<div class="page-section">
+				<div class="clearfix">
+					<div class="left">
+						<h2>
+						<a id="link-logo" href="https://www.usps.com"><img src="/media/images/global/usps_logo.gif" alt="USPS.com home. The profile of an eagle's head adjoining the words United States Postal Service are the two elements that are combined to form the corporate signature." id="main-logo" /></a>
+						</h2>
+					</div>
+					
+                    
+                   		
+					
+<div class="head-search right position-relative">
+	<div id="search-form">
+		<form id="form-search-submit" name="search" action="/go/SearchAction.action" method="post">
+			<label for="search-text" class="hide-fromsighted">Search USPS.com or Track Packages</label>
+			<input type="text" id="search-text" onclick="javascript: document.getElementById('search-text').value='';" autocomplete="off" name="searchText" class="default" value="Search USPS.com or Track Packages" /><input type="image" id="search-btn" src="/media/images/global/blank.gif" alt="Process Search"  />
+		</form>
+
+
+
+
+	</div>
+</div>
+                   	
+                   	
+                   	
+				</div>
+			</div>
+		</div>
+
+		     
+<div id="nav_qt_wrapper">
+	<div class="page-section">
+		<div class="clearfix">
+			<div id="quick-tools-container">
+				
+					
+				
+
+
+
+
+
+
+
+
+
+						<div id="quick-tools" class="">
+							<h2><a href="#" name="quickToolStart" >Quick Tools</a></h2>
+
+							<div id="qt-wrapper">
+								<div id="qt-hdr-wrapper">
+									<h3>Always a Click Away
+										<div class="inner-title">Roll over the tools menu across the site to access quick, handy tools.</div>
+									</h3>
+								</div>
+								<ul id="qt-options">
+									<li id="qt-track"><a id="qt-track-link" href="https://tools.usps.com/go/pages/trackconfirm/quick-track.html" title="Track and Confirm">Track &amp; Confirm</a></li>
+									<li id="qt-location"><a id="qt-location-link" href="https://tools.usps.com/go/pages/polocator/po-locator.html" title="Find Locations">Find Locations</a></li>
+									<li id="qt-price"><a id="qt-price-link" href="https://www.usps.com/calculateretailpostage/welcome.htm" title="Calculate a Price">Calculate a Price</a></li>
+									<li id="qt-zip"><a id="qt-zip-link" href="https://tools.usps.com/go/pages/ziplookup/quick-zip.html" title="Look Up A ZIP Code">Look Up a ZIP Code</a></li>
+								</ul>
+								<div id="qt-cap"></div>
+							</div>
+						</div>
+			</div>
+			<div id="navigation-container">
+				
+					
+					
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						<div id="navigation">
+							<a name="navigationStart"></a>
+							<div id="nav-cap-left" class="nav-cap"></div>
+							<ul class="clearfix" id="navigation-list">
+							
+								
+								
+								<li id="nav-ship" class="">
+									<h3><a id="nav-1" href="https://www.usps.com/ship/ship-a-package.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ShipaPckg', 'WT.z_section','Home_BlueBar', 'WT.z_link','ShipaPckg')" rel="nav-ship">Ship a Package</a></h3>
+									<div class="dropdown">
+										<div class="wrapper">
+											<div class="list-wrapper">
+												<ul>
+													<li><a href="https://www.usps.com/shipping/label.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ShipaPckg: PrintLabel', 'WT.z_section','Home_BlueBar', 'WT.z_link','ShipaPckg_PrintLabel')">Print a Label with Postage &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/shipping/carrierpickup/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ShipaPckg: SchedPickup', 'WT.z_section','Home_BlueBar', 'WT.z_link','ShipaPckg_SchedPickup')">Schedule a Pickup &rsaquo;</a></li>
+													<li><a href="https://usps.com/get-mailing-shipping-supplies.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ShipaPckg: OrderFreeBoxes', 'WT.z_section','Home_BlueBar', 'WT.z_link','ShipaPckg_OrderFreeBoxes')">Get Mailing & Shipping Supplies &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/calculateretailpostage/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ShipaPckg: CalcPrice', 'WT.z_section','Home_BlueBar', 'WT.z_link','ShipaPackage_CalcPrice')">Calculate a Price &rsaquo;</a></li>
+													<li><a href="https://tools.usps.com/go/ZipLookupAction!input.action" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ShipaPckg: LookupZIPCode', 'WT.z_section','Home_BlueBar', 'WT.z_link','ShipaPackage_LookupZIPCode')">Look Up a ZIP Code &rsaquo;</a></li>
+												</ul>
+												<h4>Get Help To:</h4>
+												<ul class="secondary">
+													<li><a href="https://www.usps.com/ship/service-chart.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ShipaPckg: CompareServicesPrices', 'WT.z_section','Home_BlueBar', 'WT.z_link','ShipaPackage_CompareServicesPrices')">Compare Services &amp; Prices &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/ship/insurance-and-extra-services.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ShipaPckg: InsureandExtraServices', 'WT.z_section','Home_BlueBar', 'WT.z_link','ShipaPackage_InsureandExtraServices')">Add Insurance &amp; Extra Services &rsaquo;</a></li>																																			
+													<li><a href="https://www.usps.com/ship/prepare-domestic-shipments.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ShipaPckg: PrepDomShip', 'WT.z_section','Home_BlueBar', 'WT.z_link','ShipaPackage_PrepDomShip')">Prepare Domestic Shipments &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/ship/prepare-international-shipments.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ShipaPckg: PrepInternationalShip', 'WT.z_section','Home_BlueBar', 'WT.z_link','ShipaPackage_PrepInternationalShip')">Prepare International Shipments &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/ship/file-insurance-claims.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ShipaPckg: FileClaim', 'WT.z_section','Home_BlueBar', 'WT.z_link','ShipaPackage_FileClaim')">File an Insurance Claim &rsaquo;</a></li>
+												</ul>
+											</div>
+											<div class="nav-dd-cap"></div>
+										</div>
+									</div>
+								</li>
+								
+								
+
+								<li id="nav-send" class="">
+									<h3><a id="nav-2" href="https://www.usps.com/send/send-mail.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: SendMail', 'WT.z_section','Home_BlueBar', 'WT.z_link','SendMail')" rel="nav-send">Send Mail</a></h3>
+									<div class="dropdown">
+										<div class="wrapper">
+											<div class="list-wrapper">
+												<ul>
+													<li><a href="https://www.usps.com/buy-stamps.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: SendMail: BuyStamps', 'WT.z_section','Home_BlueBar', 'WT.z_link','SendMail_BuyStamps')">Buy Stamps &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/send/create-mail-and-postage.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: SendMail: CreateMailAndPostage', 'WT.z_section','Home_BlueBar', 'WT.z_link','SendMail_CreateMailAndPostage')">Create Mail And Postage &rsaquo;</a></li>													
+													<li><a href="https://www.usps.com/calculateretailpostage/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: SendMail: SendMail_CalcPrice', 'WT.z_section','Home_BlueBar', 'WT.z_link','SendMail_CalcPrice')">Calculate a Price &rsaquo;</a></li>
+													<li><a href="https://tools.usps.com/go/ZipLookupAction!input.action" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: SendMail: LookupZIPCode', 'WT.z_section','Home_BlueBar', 'WT.z_link','SendMail_LookupZIPCode')">Look Up a ZIP Code &rsaquo;</a></li>
+												</ul>
+												<h4>Get Help To:</h4>
+												<ul class="secondary">
+													<li><a href="https://www.usps.com/send/service-chart.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: SendMail: SendCompareServicesPrices', 'WT.z_section','Home_BlueBar', 'WT.z_link','SendMail_SendCompareServicesPrices')">Compare Services &amp; Prices &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/send/insurance-and-extra-services.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: SendMail: ExtraServices', 'WT.z_section','Home_BlueBar', 'WT.z_link','SendMail_ExtraServices')">Mail with Extra Services &rsaquo;</a></li>													
+													<li><a href="https://www.usps.com/send/address-letter-cards.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: SendMail: AddressLettersandCards', 'WT.z_section','Home_BlueBar', 'WT.z_link','SendMail_LettersandCards')">Address Letters &amp; Cards &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/send/prepare-international-shipments.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: SendMail: PrepInternationalMail', 'WT.z_section','Home_BlueBar', 'WT.z_link','SendMail_PrepInternationalMail')">Prepare International Mail &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/send/design-mail-and-postage.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: SendMail: DesignMailStamps', 'WT.z_section','Home_BlueBar', 'WT.z_link','SendMail_DesignMailStamps')">Design Mail &amp; Postage &rsaquo;</a></li>
+												</ul>
+											</div>
+											<div class="nav-dd-cap"></div>
+										</div>
+									</div>
+								</li>
+								
+								
+								
+								<li id="nav-manage" class="">
+									<h3><a id="nav-3" href="https://www.usps.com/manage/manage-your-mail.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail')" rel="nav-manage">Manage Your Mail</a></h3>
+									<div class="dropdown">
+										<div class="wrapper">
+											<div class="list-wrapper">
+												<ul>
+													<li><a href="https://tools.usps.com/go/TrackConfirmAction!input.action" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail: TrackConfirm', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail_TrackConfirm')">Track &amp; Confirm &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/locator/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail: POLocator', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail_POLocator')">Find Locations &rsaquo;</a></li>
+													<li><a href="https://moversguide.usps.com/?referral=MG80" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail: ChangeAddress', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail_ChangeAddress')">Change of Address &rsaquo;</a></li>
+													<li><a href="https://pfs.usps.com/pfs" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail: PremiumForwardingService', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail_PremiumForwardingService')">Premium Forwarding Service &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/holdmail/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail: HoldMail', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail_HoldMail')">Hold Mail &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/redelivery/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail: ScheduleRedelivery', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail_ScheduleRedelivery')">Schedule a Redelivery &rsaquo;</a></li>
+												
+												</ul>
+												<h4>Get Help To:</h4>
+												<ul class="secondary">
+													<li><a href="https://www.usps.com/manage/forward-mail.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail: ForwardMail', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail_ForwardMail')">Forward Mail &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/manage/get-a-po-box.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail: RentRenewPOBox', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail_RentRenewPOBox')">Reserve or Renew a PO Box &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/manage/file-insurance-claims.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail: FileClaim', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail_FileClaim')">File an Insurance Claim &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/manage/free-product-samples.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail: FreeProductSamples', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail_FreeProductSamples')">Learn About Free Product <br />Samples &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/manage/know-mailbox-guidelines.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail: MailboxGuidelines', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail_MailboxGuidelines')">Learn About Mailbox Guidelines &rsaquo;</a></li>													
+													<li><a href="https://www.usps.com/manage/mail-for-deceased-people.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: ManageYourMail: MailforDeceased', 'WT.z_section','Home_BlueBar', 'WT.z_link','ManageYourMail_MailforDeceased')">Manage Mail for the Deceased &rsaquo;</a></li>													
+												</ul>
+											</div>
+											<div class="nav-dd-cap"></div>
+										</div>
+									</div>
+								</li>
+								
+								
+								
+								<li id="nav-shop" class="">
+									<h3><a id="nav-4" href="https://www.usps.com/shop" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: Shop', 'WT.z_section','Home_BlueBar', 'WT.z_link','Shop')" rel="nav-shop">Shop</a></h3>
+									<div class="dropdown">
+										<div class="wrapper">
+											<div class="list-wrapper">
+												<ul>												 
+													<li><a href="https://www.usps.com/buy-stamps.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: Shop: BuyStamps', 'WT.z_section','Home_BlueBar', 'WT.z_link','Shop_BuyStamps')">Buy Stamps &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/get-mailing-shipping-supplies.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: Shop: GetFreeFlatRateBoxes', 'WT.z_section','Home_BlueBar', 'WT.z_link','Shop_GetFreeFlatRateBoxes')">Get Mailing & Shipping Supplies &rsaquo;</a></li>
+													<li class="large"><a href="https://www.usps.com/order-pse.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: Shop: OrderPersonalizedStampedEnvelopes', 'WT.z_section','Home_BlueBar', 'WT.z_link','Shop_OrderPersonalizedStampedEnvelopes')"><span>Order Personalized Stamped <br />Stationery &rsaquo;</span></a></li>
+													<li><a href="https://www.usps.com/buy-gifts-and-fun-stuff.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: Shop: BuyGiftsFunStuff', 'WT.z_section','Home_BlueBar', 'WT.z_link','Shop_BuyGiftsFunStuff')">Buy Gifts &amp; Fun Stuff &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/buy-collectibles.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: Shop: BuyCollectibles', 'WT.z_section','Home_BlueBar', 'WT.z_link','Shop_BuyCollectibles')">Buy Collectibles &rsaquo;</a></li>
+												</ul>
+												<h4>Get Help To:</h4>
+												<ul class="secondary">													
+													<li><a href="https://www.usps.com/shop/money-orders.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: Shop: DomesticInternationalMoneyOrders', 'WT.z_section','Home_BlueBar', 'WT.z_link','Shop_DomesticInternationalMoneyOrders')"><span>Learn About Domestic &<br />International Money Orders &rsaquo;</span></a></li>																										
+													<li><a href="https://www.usps.com/shop/wire-money-internationally.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: Shop: SureMoney', 'WT.z_section','Home_BlueBar', 'WT.z_link','Shop_SureMoney')"><span>Learn About SureMoney <br />(DineroSeguro) &rsaquo;</span></a></li>
+													<li><a href="https://www.usps.com/shop/apply-for-a-passport.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: Shop: Passport', 'WT.z_section','Home_BlueBar', 'WT.z_link','Shop_Passport')">Apply for a Passport &rsaquo;</a></li>
+												</ul>
+											</div>
+											<div class="nav-dd-cap"></div>
+										</div>
+									</div>
+								</li>
+								
+								
+								
+								<li id="nav-business" class="">
+									<h3><a id="nav-5" href="https://www.usps.com/business/business-solutions.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions')" rel="nav-business">Business Solutions</a></h3>
+									<div class="dropdown">
+										<div class="wrapper">
+											<div class="list-wrapper">
+												<ul>
+													<li><a href="https://www.usps.com/calculatebusinesspostage/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: CalculateBusinessPrices', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_CalculateBusinessPrices')">Calculate Business Prices &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/business/every-door-direct-mail.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: TryEveryDoorDirectMail', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_TryEveryDoorDirectMail')">Try Every Door Direct Mail &rsaquo;</a></li>
+												</ul>
+												<h4>Get Help To:</h4>
+												<ul class="secondary">
+													<li><a href="https://www.usps.com/business/why-choose-usps.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: SaveByShippingUSPS', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_SaveByShippingUSPS')">Save by Shipping with USPS &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/business/send-mail-for-business.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: AdvertiseWithMail', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_AdvertiseWithMail')">Advertise with Mail &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/business/service-chart.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: CompareBizServices', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_CompareBizServices')">Compare Business Services &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/business/add-extra-services.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: AddExtraServices', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_AddExtraServices')">Add Extra Services &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/business/find-payment-options.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: FindPaySolutions', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_FindPaySolutions')">Find Payment Options &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/business/ship-orders.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: ShipOrder', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_ShipOrder')">Ship Orders &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/business/ship-internationally.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: ShipIntntly', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_ShipIntntly')">Ship Internationally &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/business/receive-business-mail.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: ReceiveBizMail', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_ReceiveBizMail')">Receive Business Mail &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/business/get-training-learn-to-grow.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: GetTrainingLearntoGrow', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_GetTrainingLearntoGrow')">Get Training &amp; Learn To Grow &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/business/intelligent-mail.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: TrackWithIntelligentMail', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_TrackWithIntelligentMail')">Track with Intelligent Mail &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/business/manage-address-quality.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: ManageAddressQuality', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_ManageAddressQuality')">Manage Address Quality &rsaquo;</a></li>													
+													<li><a href="https://www.usps.com/business/learn-about-remittance-mail.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: LearnAboutRemittanceMail', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_LearnAboutRemittanceMail')">Learn About Remittance Mail &rsaquo;</a></li>
+													<li><a href="https://www.usps.com/business/expanded-access.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: LearnAboutExpandedAccess', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_LearnAboutExpandedAccess')">Learn About Expanded Access &rsaquo;</a></li>													
+													<li><a href="https://www.usps.com/business/customer-relations-info.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Bluebar: BizSolutions: FindCustomerRelationsInfo', 'WT.z_section','Home_BlueBar', 'WT.z_link','BizSolutions_FindCustomerRelationsInfo')">Find Customer Relations Info &rsaquo;</a></li>
+												</ul>
+											</div>
+											<div class="nav-dd-cap"></div>
+										</div>
+									</div>
+								</li>
+							</ul>
+							<div id="nav-cap-right" class="nav-cap"></div>
+						
+							<!--
+								<a name="navigationEnd" id="navigationEnd" tabindex="0"></a>
+							-->
+						</div>					
+			</div>  
+		</div>
+	</div>
+</div>
+
+		
+		
+		<div id="main">
+			<div id="main-inner">
+ 		     <div class="page-section clearfix"> 
+ 		       
+ 		       
+ 		       
+ 		       
+			   
+ 		       
+ 		       	   
+ 		       
+
+
+
+
+
+
+
+
+<div id="cns-page" class="page-section location-form clearfix tundra">
+	<form id="landingForm" name="landingForm" action="/go/LandingAction.action" method="post" class="CNSMainForm">
+		<input type="hidden" name="form.submitControl" id="submitControl"/>
+		<input type="hidden" name="form.nextPage" id="nextPage"/>
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: Click N Ship
+URL of the webpage where the tag is expected to be placed: https://cns.usps.com/go
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="https://3976941.fls.doubleclick.net/activityi;src=3976941;type=uspsc667;cat=click909;u4=[prod];ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+<iframe src="https://3976941.fls.doubleclick.net/activityi;src=3976941;type=uspsc667;cat=click909;u4=[prod];ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+		
+		<div id="inside-wrap">
+			
+			<div class="clearfix">
+			    <div class="left cns-splash">
+			        <div class="clearfix">
+	        			<div class="left">
+	        				<div id="cns-index-title">
+	        					<h1><a name="navigationEnd" id="navigationEnd"></a>Print Shipping Labels</h1>
+	        					
+	        				</div>
+	        			</div>
+	        		</div>
+	        		<div class="clearfix">
+	        		    <div class="cns-splash-content">
+	        		    	
+	        		    	
+	        		        
+	        		        <h2>Your shipping label is just<br />a Click-N-Ship<sup>&reg;</sup> away.</h2>
+	        		        <p>
+	        		            Skip the trip to the Post Office<sup>TM</sup> and <strong>save up to 16%</strong>.<br />
+	        		            Print shipping labels and pay for postage now.
+	        		        </p>
+	        		        
+	        		        
+	        		        <label for="toWhichCountry"><span class="required">*</span>Select Destination</label>
+	        		        
+	        		        <div class="cns-country-select input-section clearfix dropdown-section">
+	        					<div class="cns-to-which-country">
+	        						<div class="select-wrapper">
+										
+											
+										<select name="form.deliveryCountry" tabindex="0" id="toWhichCountry" class="isSelected optional">
+    <option value="840">UNITED STATES</option>
+    <option value="4">AFGHANISTAN</option>
+    <option value="248">ALAND ISLAND</option>
+    <option value="8">ALBANIA</option>
+    <option value="12">ALGERIA</option>
+    <option value="20">ANDORRA</option>
+    <option value="24">ANGOLA</option>
+    <option value="660">ANGUILLA</option>
+    <option value="28">ANTIGUA AND BARBUDA</option>
+    <option value="32">ARGENTINA</option>
+    <option value="51">ARMENIA</option>
+    <option value="533">ARUBA</option>
+    <option value="36">AUSTRALIA</option>
+    <option value="40">AUSTRIA</option>
+    <option value="31">AZERBAIJAN</option>
+    <option value="44">BAHAMAS</option>
+    <option value="48">BAHRAIN</option>
+    <option value="50">BANGLADESH</option>
+    <option value="52">BARBADOS</option>
+    <option value="112">BELARUS</option>
+    <option value="56">BELGIUM</option>
+    <option value="84">BELIZE</option>
+    <option value="204">BENIN</option>
+    <option value="60">BERMUDA</option>
+    <option value="64">BHUTAN</option>
+    <option value="68">BOLIVIA</option>
+    <option value="70">BOSNIA-HERZEGOVINA</option>
+    <option value="72">BOTSWANA</option>
+    <option value="76">BRAZIL</option>
+    <option value="92">BRITISH VIRGIN ISLANDS</option>
+    <option value="96">BRUNEI DARUSSALAM</option>
+    <option value="100">BULGARIA</option>
+    <option value="854">BURKINA FASO</option>
+    <option value="104">BURMA</option>
+    <option value="108">BURUNDI</option>
+    <option value="116">CAMBODIA</option>
+    <option value="120">CAMEROON</option>
+    <option value="124">CANADA</option>
+    <option value="132">CAPE VERDE</option>
+    <option value="136">CAYMAN ISLANDS</option>
+    <option value="140">CENTRAL AFRICAN REPUBLIC</option>
+    <option value="148">CHAD</option>
+    <option value="152">CHILE</option>
+    <option value="156">CHINA</option>
+    <option value="162">CHRISTMAS ISLANDS</option>
+    <option value="166">COCOS ISLAND</option>
+    <option value="170">COLOMBIA</option>
+    <option value="174">COMOROS</option>
+    <option value="178">CONGO (BRAZZAVILLE), REPUBLIC OF THE</option>
+    <option value="180">CONGO, DEMOCRATIC REPUBLIC OF THE</option>
+    <option value="184">COOK ISLANDS</option>
+    <option value="188">COSTA RICA</option>
+    <option value="384">COTE D IVOIRE</option>
+    <option value="191">CROATIA</option>
+    <option value="192">CUBA</option>
+    <option value="531">CURACAO</option>
+    <option value="196">CYPRUS</option>
+    <option value="203">CZECH REPUBLIC</option>
+    <option value="208">DENMARK</option>
+    <option value="262">DJIBOUTI</option>
+    <option value="212">DOMINICA</option>
+    <option value="214">DOMINICAN REPUBLIC</option>
+    <option value="626">EAST TIMOR</option>
+    <option value="218">ECUADOR</option>
+    <option value="818">EGYPT</option>
+    <option value="222">EL SALVADOR</option>
+    <option value="226">EQUATORIAL GUINEA</option>
+    <option value="232">ERITREA</option>
+    <option value="233">ESTONIA</option>
+    <option value="231">ETHIOPIA</option>
+    <option value="238">FALKLAND ISLANDS</option>
+    <option value="234">FAROE ISLANDS</option>
+    <option value="242">FIJI</option>
+    <option value="246">FINLAND</option>
+    <option value="250">FRANCE</option>
+    <option value="254">FRENCH GUIANA</option>
+    <option value="258">FRENCH POLYNESIA</option>
+    <option value="266">GABON</option>
+    <option value="270">GAMBIA</option>
+    <option value="268">GEORGIA, REPUBLIC OF</option>
+    <option value="276">GERMANY</option>
+    <option value="288">GHANA</option>
+    <option value="292">GIBRALTAR</option>
+    <option value="826">GREAT BRITAIN AND NORTHERN IRELAND</option>
+    <option value="300">GREECE</option>
+    <option value="304">GREENLAND</option>
+    <option value="308">GRENADA</option>
+    <option value="312">GUADELOUPE</option>
+    <option value="320">GUATEMALA</option>
+    <option value="831">GUERNSEY</option>
+    <option value="324">GUINEA</option>
+    <option value="624">GUINEA-BISSAU</option>
+    <option value="328">GUYANA</option>
+    <option value="332">HAITI</option>
+    <option value="340">HONDURAS</option>
+    <option value="344">HONG KONG</option>
+    <option value="348">HUNGARY</option>
+    <option value="352">ICELAND</option>
+    <option value="356">INDIA</option>
+    <option value="360">INDONESIA</option>
+    <option value="364">IRAN</option>
+    <option value="368">IRAQ</option>
+    <option value="372">IRELAND</option>
+    <option value="833">ISLE OF MAN</option>
+    <option value="376">ISRAEL</option>
+    <option value="380">ITALY</option>
+    <option value="388">JAMAICA</option>
+    <option value="392">JAPAN</option>
+    <option value="832">JERSEY</option>
+    <option value="400">JORDAN</option>
+    <option value="398">KAZAKHSTAN</option>
+    <option value="404">KENYA</option>
+    <option value="296">KIRIBATI</option>
+    <option value="408">KOREA, DEMOCRATIC PEOPLES REPUBLIC OF(NORTH KOREA)</option>
+    <option value="410">KOREA, REPUBLIC OF (SOUTH KOREA)</option>
+    <option value="25">KOSOVO, REPUBLIC OF</option>
+    <option value="414">KUWAIT</option>
+    <option value="417">KYRGYZSTAN</option>
+    <option value="418">LAOS</option>
+    <option value="428">LATVIA</option>
+    <option value="422">LEBANON</option>
+    <option value="426">LESOTHO</option>
+    <option value="430">LIBERIA</option>
+    <option value="434">LIBYA</option>
+    <option value="438">LIECHTENSTEIN</option>
+    <option value="440">LITHUANIA</option>
+    <option value="442">LUXEMBOURG</option>
+    <option value="446">MACAO</option>
+    <option value="807">MACEDONIA, REPUBLIC OF</option>
+    <option value="450">MADAGASCAR</option>
+    <option value="454">MALAWI</option>
+    <option value="458">MALAYSIA</option>
+    <option value="462">MALDIVES</option>
+    <option value="466">MALI</option>
+    <option value="470">MALTA</option>
+    <option value="474">MARTINIQUE</option>
+    <option value="478">MAURITANIA</option>
+    <option value="480">MAURITIUS</option>
+    <option value="175">MAYOTTE</option>
+    <option value="484">MEXICO</option>
+    <option value="498">MOLDOVA</option>
+    <option value="492">MONACO</option>
+    <option value="496">MONGOLIA</option>
+    <option value="499">MONTENEGRO, REPUBLIC OF</option>
+    <option value="500">MONTSERRAT</option>
+    <option value="504">MOROCCO</option>
+    <option value="508">MOZAMBIQUE</option>
+    <option value="516">NAMIBIA</option>
+    <option value="520">NAURU</option>
+    <option value="524">NEPAL</option>
+    <option value="528">NETHERLANDS</option>
+    <option value="540">NEW CALEDONIA</option>
+    <option value="554">NEW ZEALAND</option>
+    <option value="558">NICARAGUA</option>
+    <option value="562">NIGER</option>
+    <option value="566">NIGERIA</option>
+    <option value="570">NIUE</option>
+    <option value="574">NORFOLK ISLAND</option>
+    <option value="578">NORWAY</option>
+    <option value="512">OMAN</option>
+    <option value="586">PAKISTAN</option>
+    <option value="591">PANAMA</option>
+    <option value="598">PAPUA NEW GUINEA</option>
+    <option value="600">PARAGUAY</option>
+    <option value="604">PERU</option>
+    <option value="608">PHILIPPINES</option>
+    <option value="612">PITCAIRN ISLAND</option>
+    <option value="616">POLAND</option>
+    <option value="620">PORTUGAL</option>
+    <option value="634">QATAR</option>
+    <option value="638">REUNION</option>
+    <option value="642">ROMANIA</option>
+    <option value="643">RUSSIA</option>
+    <option value="646">RWANDA</option>
+    <option value="652">SAINT BARTHELEMY</option>
+    <option value="659">SAINT CHRISTOPHER (ST. KITTS) AND NEVIS</option>
+    <option value="654">SAINT HELENA</option>
+    <option value="662">SAINT LUCIA</option>
+    <option value="663">SAINT MARTIN</option>
+    <option value="666">SAINT PIERRE AND MIQUELON</option>
+    <option value="670">SAINT VINCENT AND THE GRENADINES</option>
+    <option value="674">SAN MARINO</option>
+    <option value="678">SAO TOME AND PRINCIPE</option>
+    <option value="682">SAUDI ARABIA</option>
+    <option value="686">SENEGAL</option>
+    <option value="688">SERBIA, REPUBLIC OF</option>
+    <option value="690">SEYCHELLES</option>
+    <option value="694">SIERRA LEONE</option>
+    <option value="702">SINGAPORE</option>
+    <option value="534">SINT MAARTEN</option>
+    <option value="703">SLOVAK REPUBLIC</option>
+    <option value="705">SLOVENIA</option>
+    <option value="90">SOLOMON ISLANDS</option>
+    <option value="706">SOMALIA</option>
+    <option value="710">SOUTH AFRICA</option>
+    <option value="239">SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</option>
+    <option value="724">SPAIN</option>
+    <option value="144">SRI LANKA</option>
+    <option value="736">SUDAN</option>
+    <option value="740">SURINAME</option>
+    <option value="748">SWAZILAND</option>
+    <option value="752">SWEDEN</option>
+    <option value="756">SWITZERLAND</option>
+    <option value="760">SYRIAN ARAB REPUBLIC</option>
+    <option value="158">TAIWAN</option>
+    <option value="762">TAJIKISTAN</option>
+    <option value="834">TANZANIA</option>
+    <option value="764">THAILAND</option>
+    <option value="768">TOGO</option>
+    <option value="772">TOKELAU GROUP</option>
+    <option value="776">TONGA</option>
+    <option value="780">TRINIDAD AND TOBAGO</option>
+    <option value="788">TUNISIA</option>
+    <option value="792">TURKEY</option>
+    <option value="795">TURKMENISTAN</option>
+    <option value="796">TURKS AND CAICOS ISLANDS</option>
+    <option value="798">TUVALU</option>
+    <option value="800">UGANDA</option>
+    <option value="804">UKRAINE</option>
+    <option value="784">UNITED ARAB EMIRATES</option>
+    <option value="858">URUGUAY</option>
+    <option value="860">UZBEKISTAN</option>
+    <option value="548">VANUATU</option>
+    <option value="336">VATICAN CITY</option>
+    <option value="862">VENEZUELA</option>
+    <option value="704">VIETNAM</option>
+    <option value="876">WALLIS AND FUTUNA ISLANDS</option>
+    <option value="882">WESTERN SAMOA</option>
+    <option value="887">YEMEN</option>
+    <option value="894">ZAMBIA</option>
+    <option value="716">ZIMBABWE</option>
+
+
+</select>
+
+							            
+							            	
+							            
+
+
+
+
+
+
+<a href="#sSkiptoWhichCountryList" class="hide-fromsighted">.</a><div class="select-options " id="toWhichCountryList"><div class="select-current"><span class="select-current-text"></span></div><div class="select-frame" id="select-frame"><div class="select-frame-inner-border select-frame-inner-top"></div><div class="select-frame-inner-border select-frame-inner-bottom"></div><div class="select-frame-inner-border select-frame-inner-left"></div><div class="select-frame-inner-border select-frame-inner-right"></div><div class="select-frame-inner"><div class="select-tl"></div><div class="select-tr"></div><div class="select-bl"></div><div class="select-br"></div><div class="select-t"></div><div class="select-b"></div><div class="select-l"></div><div class="select-r"></div><div class="select-inner"><ul class="select-ul"></ul></div></div></div></div><a name="sSkiptoWhichCountryList"></a>
+
+									</div>
+					        	</div>
+	        				</div>
+	        		        
+							<div class="left button-wrapper">
+	            				<div class="clearfix">
+		            				
+										
+										
+										
+										
+														
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="button-link button-link button-link btn-reg btn-blue-reg btn-size-Z" id=""><span ><input tabindex="" class="buttons "  type="submit" rel="" name="printNow" value="Print a Shipping Label Now" id="printSubmitBtn" /></span></span>		
+	            				</div>						
+	            			</div>
+	            			
+	        		    	
+							
+							<img class="cns-splash-content-image" src="/media/images/cns/cns_printer_box.png" alt="A printer prints out a Click-N-Ship label.  There is a package behind the printer." />
+	        		   		
+	            			
+	        		    </div>
+	        		</div>
+			    </div>
+	    		<div class="left cns-menu">
+	    			<div class="ribbon-container">
+	    		    	<div class="ribbon-header"></div>
+	    		    </div>
+	    		    <h4 class="fontStyle16">Manage My Shipping</h4>
+	    		    <ol>
+	    		        <li><a id="shipping-history-link" href="#">Shipping History &rsaquo;</a></li>
+	    		        <li><a href="https://gab.usps.com/addrBook/Secure/YourContactsAction_input" id="addressbook-link">Address Book &rsaquo;</a></li>
+	    		    </ol>
+	    		    
+	    		    <h4 class="fontStyle16">Shipping Related Tools</h4>
+	    		    <ol>
+	    		        <li><a href="https://tools.usps.com/go/ScheduleAPickupAction!input.action" id="carrierpickup-link">Package Pickup &rsaquo;</a></li>
+	    		        <li><a href="https://store.usps.com/store/browse/category.jsp?categoryId=catGetMailingShippingSupplies&categoryNavIds=catGetMailingShippingSupplies" id="ordersupplies-link">Order Supplies &rsaquo;</a></li>
+	    		        <li><a href="https://cns.usps.com/go/ShippingInformationAction_input" id="customsform-link">Customs Form &rsaquo;</a></li>
+	    		    </ol>
+	    		    
+	    		    <h4 class="fontStyle16">Additional Ways to Ship</h4>
+	    		    <ol>
+	    		        <li><a href="https://www.usps.com/business/click-n-ship-for-business.htm" id="shippingassistant-link">Click-N-Ship for Business&trade; &rsaquo;</a></li>
+	    		        <li><a href="https://www.usps.com/business/webtools.htm" id="devtools-link">Developer Tools &rsaquo;</a></li>
+	    		    </ol>
+	    		    
+	    		    <h4 class="fontStyle16">Need Help?</h4>
+	    		    <ol class="last">
+	    		    	<li><a href="https://www.usps.com/ship/get-to-know-click-n-ship.htm" id="whatsnew-link">See What's New &rsaquo;</a></li>
+	    		        <li><a href="https://cns.usps.com/go/Secure/AccountSummaryAction_input" id="clicknship-link">Click-N-Ship &rsaquo;</a></li>
+	    		        <li><a href="https://www.usps.com/faqs/clicknship-faqs.htm" id="faqs-link">FAQs &rsaquo;</a></li>
+	    		        <li><a href="https://www.usps.com/ship/how-to-use-click-n-ship.htm" id="howto-link">How To... &rsaquo;</a></li>
+	    		    </ol>
+	    		    
+	    		</div>
+	    	</div>
+			
+			<div class="cns-additional-options clearfix">
+			    <div class="left cns-primary-option cns-option">
+			        <h3>A Simpler Way to Ship</h3>
+			        <p>With Flat Rate Boxes and Envelopes, <strong><em>if it fits, it ships</em></strong>&reg;<br />anywhere in the U.S.* for a low Flat Rate.</p>
+			        <div class="clearfix boxEnvelope-options">
+			        	<input type="hidden" name="form.flatRateOption" value="PRI" />
+						<label id="for-priorityBoxEnvelope" for="priorityBoxEnvelope">2-3 Days, Priority Mail&reg; Flat Rate</label>
+					</div>
+					
+					<div id="priorityFlatRateDropDiv" class="input-section clearfix dropdown-section">
+						<div class="cns-box-envelope-used">
+							<div class="select-wrapper">
+								<div class="select-wrapper">
+									
+										
+									<select name="form.flatRatePriorityOption" tabindex="0" id="priorityBoxEnvelope" class="isSelected optional">
+    <option value="Select"
+    >Select Flat Rate Option</option>
+    <option value="PRF">Flat Rate Envelope</option>
+    <option value="PRL">Large Flat Rate Box</option>
+    <option value="PRB">Medium Flat Rate Box</option>
+    <option value="PRS">Small Flat Rate Box</option>
+
+
+</select>
+
+									
+						            	
+						            
+
+
+
+
+
+
+<a href="#sSkippriorityBoxEnvelopeList" class="hide-fromsighted">.</a><div class="select-options " id="priorityBoxEnvelopeList"><div class="select-current"><span class="select-current-text"></span></div><div class="select-frame" id="select-frame"><div class="select-frame-inner-border select-frame-inner-top"></div><div class="select-frame-inner-border select-frame-inner-bottom"></div><div class="select-frame-inner-border select-frame-inner-left"></div><div class="select-frame-inner-border select-frame-inner-right"></div><div class="select-frame-inner"><div class="select-tl"></div><div class="select-tr"></div><div class="select-bl"></div><div class="select-br"></div><div class="select-t"></div><div class="select-b"></div><div class="select-l"></div><div class="select-r"></div><div class="select-inner"><ul class="select-ul"></ul></div></div></div></div><a name="sSkippriorityBoxEnvelopeList"></a>
+
+						 		</div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="left button-wrapper">
+           				<div class="clearfix">
+            				
+								
+								
+								
+								
+												
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="button-link button-link button-link btn-reg btn-blue-reg btn-size-Z" id=""><span ><input tabindex="" class="buttons "  type="submit" rel="" name="printFlatRateNow" value="Print a Shipping Label Now" id="printSubmitFlatRateBtn" /></span></span>		
+           				</div>						
+	            	</div>
+			      <img class="predictable-pricing-image" src="/media/images/cns/cns_landing_usps_cns_box_game_resize.png" alt="A picture of Flat Rate Boxes." />
+			    </div>
+	
+			    <div class="left cns-secondary-option cns-option middle">
+			        <h3>It's More Than a Box</h3>
+			        <p>Sending international and military packages is easier than ever.</p>
+			        <a href="http://www.youtube.com/watch?v=j6C1QhShVA0&list=PLF1E12CB9A3C4F564&index=10" class="option-heading-link" id="laptopimage-link"><img class="save-time-image" src="/media/images/cns/usps_cns_laptop.png" alt="A picture of multiple USPS packages." /></a>	
+			        <span id="" class="save-time-button button-link button-link btn-reg btn-blue-reg btn-size-B"><span class="hasHover"><a href="http://www.youtube.com/watch?v=j6C1QhShVA0&list=PLF1E12CB9A3C4F564&index=10" class="buttons" id="shipagainheader-link">Watch the Video</a></span></span>	      
+			    </div>
+	
+			    <div class="left cns-secondary-option cns-option last">
+			        <a href="https://store.usps.com/store/browse/subcategory.jsp?categoryId=subcatMSS_B_Free&categoryNavIds=catGetMailingShippingSupplies%3AsubcatMSS_B%3AsubcatMSS_B_Free" class="option-heading-link" id="orderfreesuppliesheader-link">Order Free<br />Shipping Supplies &rsaquo;</a>
+			        <p>From boxes, to stickers, to forms,<br /> get the shipping supplies you need<br /><strong><em>FREE OF CHARGE</em></strong>.</p>
+			        <img class="order-free-image" src="/media/images/cns/cns_landing_additional_options_order_free.png" alt="Multiple USPS packages are stacked next to each other." />
+			        <span id="" class="order-free-button button-link button-link btn-reg btn-blue-reg btn-size-C"><span class="hasHover"><a id="orderfreesupplies-link" href="https://store.usps.com/store/browse/subcategory.jsp?categoryId=subcatMSS_B_Free&categoryNavIds=catGetMailingShippingSupplies%3AsubcatMSS_B%3AsubcatMSS_B_Free" class="buttons ">Order Now</a></span></span>
+			    	 <div class="ribbon-footer"></div>
+			    </div>
+			   
+		    </div>
+		</div>
+	</form>
+
+
+
+
+</div>
+        	</div>
+        	</div>
+        </div>
+        
+		
+		
+		     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!-- Begin Footer -->
+		<div id="footer">
+			<div class="page-section">
+				<span class="hide-fromsighted">Begin Footer</span>
+				<ul id="footer-links" class="clearfix">
+					<li class="list">
+						<h3>LEGAL</h3>
+						<ul>
+							<li><a href="http://about.usps.com/who-we-are/privacy-policy/privacy-policy-highlights.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: PrivacyPolicy', 'WT.z_section','Home_Footer', 'WT.z_link','PrivacyPolicy')">Privacy Policy &rsaquo;</a></li>
+							<li><a href="http://about.usps.com/termsofuse.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: TermsofUse', 'WT.z_section','Home_Footer', 'WT.z_link','TermsofUse')">Terms of Use &rsaquo;</a></li>
+							<li><a href="http://about.usps.com/who-we-are/foia/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: FOIA', 'WT.z_section','Home_Footer', 'WT.z_link','FOIA')">FOIA &rsaquo;</a></li>
+							<li><a href="http://about.usps.com/who-we-are/no-fear-act/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: NoFEARActEEOData', 'WT.z_section','Home_Footer', 'WT.z_link','NoFEARActEEOData')">No FEAR Act EEO Data &rsaquo;</a></li>
+						</ul>
+					</li>
+					<li class="list">
+						<h3>ON USPS.COM</h3>
+						<ul>
+							<li><a href="https://www.usps.com/gov-services/gov-services.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: GovtServices', 'WT.z_section','Home_Footer', 'WT.z_link','GovtServices')">Government Services &rsaquo;</a></li>
+							<li><a href="http://shop.usps.com" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: BuyStampsShop', 'WT.z_section','Home_Footer', 'WT.z_link','BuyStampsShop')">Buy Stamps &amp; Shop &rsaquo;</a></li>
+							<li><a href="https://www.usps.com/shipping/label.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: PrintLabelwithPostage', 'WT.z_section','Home_Footer', 'WT.z_link','PrintLabelwithPostage')">Print a Label with Postage &rsaquo;</a></li>
+							<li><a href="https://www.usps.com/customer-service/customer-service.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: CustomerService', 'WT.z_section','Home_Footer', 'WT.z_link','CustomerService')">Customer Service &rsaquo;</a></li>
+							<li><a href="https://www.usps.com/lastmile/" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: LastMile', 'WT.z_section','Home_Footer', 'WT.z_link','LastMile')">Delivering Solutions to the Last Mile &rsaquo;</a></li>
+							<li><a href="https://www.usps.com/globals/site-index.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: SiteIndex', 'WT.z_section','Home_Footer', 'WT.z_link','SiteIndex')">Site Index &rsaquo;</a></li>
+						</ul>
+					</li>
+					<li class="list lspace-mid">
+						<h3>ON ABOUT.USPS.COM</h3>
+						<ul>
+							<li><a href="http://about.usps.com" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: AboutUSPSHome', 'WT.z_section','Home_Footer', 'WT.z_link','AboutUSPSHome')">About USPS Home &rsaquo;</a></li>
+							<li><a href="http://about.usps.com/news/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: Newsroom', 'WT.z_section','Home_Footer', 'WT.z_link','Newsroom')">Newsroom &rsaquo;</a></li>
+							<li><a href="http://about.usps.com/news/service-alerts/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: MailServiceUpdates', 'WT.z_section','Home_Footer', 'WT.z_link','MailServiceUpdates')">USPS Service Alerts &rsaquo;</a></li>							
+							<li><a href="http://about.usps.com/forms-publications/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: FormsandPublications', 'WT.z_section','Home_Footer', 'WT.z_link','FormsandPublications')">Forms &amp; Publications &rsaquo;</a></li>
+							<li><a href="http://about.usps.com/careers/welcome.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: Careers', 'WT.z_section','Home_Footer', 'WT.z_link','Careers')">Careers &rsaquo;</a></li>
+						</ul>
+					</li>
+					<li class="list last lspace-last">
+						<h3>OTHER USPS SITES</h3>
+						<ul>
+							<li><a href="https://gateway.usps.com/bcg/login.htm" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: BizCustGateway', 'WT.z_section','Home_Footer', 'WT.z_link','BizCustGateway')">Business Customer Gateway &rsaquo;</a></li>
+							<li><a href="https://postalinspectors.uspis.gov/" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: PostalInspectors', 'WT.z_section','Home_Footer', 'WT.z_link','PostalInspectors')">Postal Inspectors &rsaquo;</a></li>
+							<li><a href="http://www.uspsoig.gov/" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: InspectorGeneral', 'WT.z_section','Home_Footer', 'WT.z_link','InspectorGeneral')">Inspector General &rsaquo;</a></li>
+							<li><a href="http://pe.usps.com/" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: Footer: PostalExplorer', 'WT.z_section','Home_Footer', 'WT.z_link','PostalExplorer')">Postal Explorer &rsaquo;</a></li>
+						</ul>
+					</li>
+				</ul>
+				<div class="footer-wrap">				
+				<div id="footer-copyright">
+					<img id="footer-logo" src="/media/globals/images/global/footer/usps-logo-footer.png" alt="USPS.com home. The profile of an eagle's head adjoining the words United States Postal Service are the two elements that are combined to form the corporate signature.">
+					<p>Copyright&copy; Mon Sep 30 08:26:35 CDT 2013 USPS. All Rights Reserved. </p>
+					<div id="footer-social"> 
+						<ul id="social-links">					
+							<li><a href="http://www.facebook.com/usps" title="Follow USPS on facebook.com" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: USPS: SocialMedia: SocialMedia_Facebook','WT.z_section','USPS_SocialMedia','WT.z_link','SocialMedia_Facebook')" target="_blank"></a></li>																										
+							<li id="social-twitter"><a id="social-twitter-link" href="http://twitter.com/usps" title="Follow USPS on twitter.com" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: USPS: SocialMedia: SocialMedia_Twitter','WT.z_section','USPS_SocialMedia','WT.z_link','SocialMedia_Twitter')" target="_blank"></a></li>
+							<li id="social-pinterest"><a id="social-pinterest-link" href="http://pinterest.com/uspsstamps/" title="Follow USPS on pinterest.com" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: USPS: SocialMedia: SocialMedia_Pinterest','WT.z_section','USPS_SocialMedia','WT.z_link','SocialMedia_Pinterest')" target="_blank"></a></li>
+							<li id="social-youtube"><a id="social-youtube-link" href="http://www.youtube.com/usps" title="Follow USPS on YouTube.com" onclick="dcsMultiTrack('DCS.dcsuri','USPS','WT.ti','Link: USPS: SocialMedia: SocialMedia_YouTube','WT.z_section','USPS_SocialMedia','WT.z_link','SocialMedia_YouTube')" target="_blank"></a></li>
+						</ul>						
+					 
+				</div>
+				<div id="hoststring" class="hide">Build: [13.4.58, 09/10/2013] CNS152-19ED</div>
+				<span class="hide-fromsighted">End Footer</span>
+			</div>
+		</div>
+		<!-- End Footer -->
+		
+		
+	</div>
+	<div id="modals">
+	<div id="lightbox-background"></div>
+	<div id="modal-positioner">
+		<div class="hide-fromsighted-v2 force-modal-close" tabindex="0">&nbsp;</div>
+		<div id="modal-window">
+			<div id="modal-window-inner">
+				<div id="modal-insider"></div>
+				<div id="modal-corner-tl"></div>
+				<div id="modal-corner-tr"></div>
+				<div id="modal-corner-bl"></div>
+				<div id="modal-corner-br"></div>
+				<div id="modal-repeat-left"></div>
+				<div id="modal-repeat-right"></div>
+				<div id="modal-repeat-top"></div>
+				<div id="modal-repeat-bottom"></div>
+			</div>
+		</div>
+		<div id="modal-header"></div>
+		<div id="modal-track" class="modal"></div>
+		<div id="modal-location" class="modal"></div>
+		<div id="modal-price" class="modal"></div>
+		<div id="modal-zip" class="modal"></div>
+		<div id="modal-change-redelivery" class="modal"></div>
+		<div id="modal-custom" class="modal"></div>
+		<div id="modal-product-cart" class="modal"></div>
+		<div id="modal-product-cart-base" class="modal">
+			<div id="product-cart-item-container">
+				<div class="clearfix">
+					<div class="left" id="product-cart-item-img">
+					</div>
+					<div class="left" id="product-cart-item-dtl">
+					</div>
+				</div>
+			</div>
+			<div id="product-cart-item-container2">
+				<h5>Order this with:</h5>
+				<div class="clearfix">
+					<div class="left" id="product-cart-item2-img">
+					</div>
+					<div class="left" id="product-cart-item2-dtl">
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="wrapper"><a name="btn-modal-close" id="btn-modal-close" href="#" title="Click to close this modal window.">Close Modal Window</a></div>
+		<div class="hide-fromsighted-v2 force-modal-close" tabindex="0">&nbsp;</div>
+	</div>
+</div>
+	
+
+
+	
+	
+	
+	
+		
+		
+	
+
+
+
+ 
+<!-- Start Scripts -->
+<script type="text/javascript">
+var USPS={};
+
+USPS.CNS={};
+
+USPS.Component={};
+
+USPS.Component.componentName='CNS';
+USPS.Component.pageval='';
+USPS.Component.surveyUrl='';
+USPS.Component.surveyjob='';
+USPS.Component.freq='';
+USPS.Component.surveyTitle='';
+
+     var djConfig = {
+        parseOnLoad: true,
+		cacheBust: new Date().getTime(),
+		modulePaths: {"usps": "/go/js/modules/usps" ,"plugd" : "/external/scripts/plugd"},
+		contextRoot : "/go",
+		debugAtAllCosts: false
+		};
+</script>	
+
+<script>
+var logoutUrl = "https://cns.usps.com";
+</script>
+
+
+
+
+
+<script src="/external/scripts/dojobuild/dojo/dojo.js" type="text/javascript"></script>
+
+
+
+	
+	
+		<script src="/go/js/profiles/CNS.js" type="text/javascript"></script>
+	
+
+
+<script src="https://tools.usps.com/go/pages/common/quicktools-api.jsp" type="text/javascript"></script>
+
+
+
+
+	<script type="text/javascript">
+		dojo.require("usps.login.user");
+		USPS.User=new usps.login.user();
+		USPS.User.initialize();
+		var isLoggedIn = false;
+		USPS.User.isLoggedIn = isLoggedIn;
+		var sessionTimer = null;
+		
+// 		Kiosk Mode
+		
+// 		Standard Customs Froms online mode
+		
+		
+	</script>
+
+
+<script>
+dojo.require("usps.nav.navigation");
+dojo.require("usps.header.headerbar");
+dojo.require("usps.utils.Hoverable");
+dojo.require("usps.widget.BubbleActionWidget");
+</script>
+
+<script src="https://static.atgsvcs.com/js/atgsvcs.js"></script>
+<script>
+  ATGSvcs.setUOID(200106298074);
+</script>
+
+<script src="/go/js/cns/cns-landing.js" type="text/javascript"></script>
+
+
+<!-- End Scripts -->
+	
+		
+	<!-- Copy paste and add this just above </body>-->
+	
+	<!-- START OF SmartSource Data Collector TAG -->
+	<!-- Copyright (c) 1996-2011 WebTrends Inc.  All rights reserved. -->
+	<!-- Version: 9.3.0 -->
+	<!-- Tag Builder Version: 3.1  -->
+	<!-- Created: 3/28/2011 6:24:05 PM -->
+	
+	<script src="/go/js/webtrends.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+	<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+	<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+	<!-- ----------------------------------------------------------------------------------- -->
+	<script type="text/javascript">
+	function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+	//<![CDATA[
+	var _tag=new WebTrends();
+	_tag.dcsid="dcs731qdj000004f27giixw3q_2i4w";
+	if (readCookie('kioskMode'))
+		_tag.dcsid='dcsayb5le10000gwfalnim1cw_5f6w';
+	//]]>
+	</script>
+	<script type="text/javascript">
+	//<![CDATA[
+	_tag.dcsCustom=function(){
+	// Add custom parameters here.
+	//_tag.DCSext.param_name=param_value;
+	}
+	_tag.dcsCollect();
+	//]]>
+	</script>
+	<noscript>
+	<div>
+	
+		
+		
+		     <img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://sdc.usps.com/dcs731qdj000004f27giixw3q_2i4w/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.3.0&amp;WT.dcssip=usps.com"/>
+	
+		
+		
+	
+	
+	
+	
+	</div>
+	</noscript>
+	<!-- END OF SmartSource Data Collector TAG -->
+
+<!--End copy paste-->
+<!-- END OF SmartSource Data Collector TAG -->
+
+	  	
+	
+	</body>
+</html>
+

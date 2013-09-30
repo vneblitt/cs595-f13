@@ -1,0 +1,500 @@
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="google-site-verification" content="0ItGp2q8JRqQTVEMn3IRpMfhLLZ6yRDect44e0LwrsE" />
+<link rel="stylesheet" href="/css/styles.css" type="text/css" media="all" />
+<link rel="stylesheet" href="/css/menu.css" type="text/css" media="all" />
+<script type="text/javascript" src="//use.typekit.net/gsu5qma.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" href="/sifr3/sifr3.css" type="text/css" media="screen" />
+<script language="javascript" type="text/javascript" src="/sifr3/sifr3.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/jquery.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="/scripts/nyroModal/nyroModal.css" />
+<script language="javascript" type="text/javascript" src="/scripts/nyroModal/nyroModal.js"></script>
+
+<script language="javascript" type="text/javascript">
+<!--//
+function checkSearchForm(){
+	  if((document.forms.sitesearch.keyword.value.length == 0)||(document.forms.sitesearch.keyword.value == "Search RPX")){
+	  	alert('Please enter a keyword for your search.');
+   		document.forms.sitesearch.keyword.focus();
+   		return false;
+		}
+	}
+-->
+</script>
+
+<style type="text/css">
+<!--
+body,td,th {
+	font-size: 10pt;
+}
+body {
+	margin: 10px 0 20px 0;
+	background: url(/images/bg.gif) center top repeat-y #717171;
+}
+#contentcontainer {
+	float:left;
+	position: relative;
+	width: 915px;
+}
+
+-->
+</style>
+
+<!--::home::-->
+
+
+
+
+<style  type="text/css">
+	
+		#menu #section_8 li {
+			width: 114px;
+		}
+	
+		#menu #section_9 li {
+			width: 228px;
+		}
+	
+		#menu #section_11 li {
+			width: 228px;
+		}
+	
+		#menu #section_23 li {
+			width: 114px;
+		}
+	
+		#menu #section_165 li {
+			width: 114px;
+		}
+	
+		#menu #section_136 li {
+			width: 228px;
+		}
+	
+		#menu #section_42 li {
+			width: 114px;
+		}
+	
+		#menu #section_14 li {
+			width: 0px;
+		}
+	
+</style>
+
+<script language="javascript" src="/scripts/carousel/carousel_behavior.js"></script>
+<link rel="stylesheet" href="/scripts/carousel/agilecarousel.css" type="text/css" media="screen" />
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#slide_holder').agile_carousel({
+		transition_type: "no_transition_effect"
+	});
+});
+</script>
+
+ 
+	<title>Reduce Patent Litigation Costs </title>
+	
+	
+	<META name="description" content="NPE litigation costs companies approximately $11B per year.">
+	<META name="keywords" content="NPE litigation costs"> 
+	</head>
+<body>
+<div align="center">
+<div id="container">
+<div id="header">
+
+<div id="logo"><a href="http://www.rpxcorp.com/"><img src="/images/RPX_RationalPatent.gif" width="98" height="47" border="0" alt="Reduce Patent Litigation Costs" /></a></div>
+
+<div id="search">
+	<form id="sitesearch" name="sitesearch" method="get" action="http://www.rpxcorp.com/search" OnSubmit="return checkSearchForm();">
+	<input name="keyword" type="text" value="RPX Site Search" maxlength="50" class="searchbox" onBlur="if(this.value.length == 0){this.value='RPX Site Search'};" onFocus="if(this.value=='RPX Site Search'){this.value=''};" />
+	<input type="image" src="/images/search_glass.gif" name="Submit" class="searchbutton" />
+	</form>
+</div>
+<div id="textsize">
+	
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tr>
+	<td valign="baseline" nowrap="nowrap">Text Size</td>
+	<td>|</td>
+	<td class="font_small" valign="baseline" nowrap="nowrap"><a href="http://www.rpxcorp.com/index.cfm?pageID=1&fontsize=1" class="on">A</a></td>
+	<td>|</td>
+	<td class="font_large" valign="baseline" nowrap="nowrap"><a href="http://www.rpxcorp.com/index.cfm?pageID=1&fontsize=2" >A</a></td>
+	</tr>
+	</table>
+	</div>
+</div>
+<table width="915" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td align="left" valign="top">
+<div id="contentcontainer">
+
+<div id="menu_container">
+<div id="menu" class="menu">
+
+
+
+
+<ul class="company">
+	
+		<li id="section_8" class="depth-1 ">
+			
+				<a href="http://www.rpxcorp.com/patent-risk" class="on">
+					Patent Risk
+				</a>
+			
+				<ul>
+					<li>
+						
+						<div class="flyoutnav">
+							
+										<a href="http://www.rpxcorp.com/irrational-market" class="on">
+											Irrational Market
+										</a>
+									
+										<a href="http://www.rpxcorp.com/npe-impact" >
+											NPE Impact
+										</a>
+									
+										<a href="http://www.rpxcorp.com/key-patent-market-trends" >
+											Key Trends
+										</a>
+									
+						</div>
+					</li>
+				</ul>
+			
+		</li>
+	
+		<li id="section_9" class="depth-1 ">
+			
+				<a href="http://www.rpxcorp.com/rpx-services" >
+					Services
+				</a>
+			
+				<ul>
+					<li>
+						
+						<div class="flyoutnav">
+							
+										<a href="http://www.rpxcorp.com/rpx-defensive-patent-acquisitions" class="on">
+											Defensive Patent Acquisitions
+										</a>
+									
+										<a href="http://www.rpxcorp.com/rpx-market-intelligence-and-advisory-services" >
+											Market Intelligence and Advisory Services
+										</a>
+									
+										<a href="http://www.rpxcorp.com/rpx-structured-acquisitions" >
+											Structured Acquisitions
+										</a>
+									</div><div class="flyoutnav borderleft"> 
+										<a href="http://www.rpxcorp.com/rpx-npe-litigation-insurance" >
+											Litigation Insurance
+										</a>
+									
+										<a href="http://www.rpxcorp.com/rpx-sell-your-patent" >
+											Sell Your Patent
+										</a>
+									
+						</div>
+					</li>
+				</ul>
+			
+		</li>
+	
+		<li id="section_11" class="depth-1 ">
+			
+				<a href="http://www.rpxcorp.com/rpx-membership" >
+					Membership
+				</a>
+			
+				<ul>
+					<li>
+						
+						<div class="flyoutnav">
+							
+										<a href="http://www.rpxcorp.com/rpx-client-relations" class="on">
+											Client Relations
+										</a>
+									
+										<a href="http://www.rpxcorp.com/rpx-client-portal" >
+											Client Portal
+										</a>
+									
+										<a href="http://www.rpxcorp.com/rpx-client-network" >
+											Client Network
+										</a>
+									</div><div class="flyoutnav borderleft"> 
+										<a href="http://www.rpxcorp.com/rpx-portfolio" >
+											RPX Portfolio
+										</a>
+									
+						</div>
+					</li>
+				</ul>
+			
+		</li>
+	
+		<li id="section_23" class="depth-1 ">
+			
+				<a href="http://www.rpxcorp.com/why-join-rpx" >
+					Why Join
+				</a>
+			
+				<ul>
+					<li>
+						
+						<div class="flyoutnav">
+							
+										<a href="http://www.rpxcorp.com/become-a-rpx-member" class="on">
+											Become a Member
+										</a>
+									
+						</div>
+					</li>
+				</ul>
+			
+		</li>
+	
+		<li id="section_165" class="depth-1 ">
+			
+				<a href="http://www.rpxcorp.com/for-the-cfo" >
+					For the CFO
+				</a>
+			
+				<ul>
+					<li>
+						
+						<div class="flyoutnav">
+							
+										<a href="http://www.rpxcorp.com/rpx-thought-leadership" class="on">
+											Thought Leadership
+										</a>
+									
+										<a href="http://www.rpxcorp.com/relevant-rpx-news-and-events-for-the-cfo" >
+											Relevant News and Events
+										</a>
+									
+										<a href="http://www.rpxcorp.com/relevant-rpx-blogs-for-the-cfo" >
+											Relevant Blogs
+										</a>
+									
+						</div>
+					</li>
+				</ul>
+			
+		</li>
+	
+		<li id="section_136" class="depth-1 ">
+			
+				<a href="http://www.rpxcorp.com/about-rpx" >
+					Company
+				</a>
+			
+				<ul>
+					<li>
+						
+						<div class="flyoutnav">
+							
+										<a href="http://www.rpxcorp.com/rpx-offices" class="on">
+											Offices
+										</a>
+									
+										<a href="http://www.rpxcorp.com/rpx-careers" >
+											Careers
+										</a>
+									
+										<a href="http://www.rpxcorp.com/rpx-team" >
+											Team
+										</a>
+									</div><div class="flyoutnav borderleft"> 
+										<a href="http://www.rpxcorp.com/index.cfm?pageID=106" >
+										Investor Relations
+										</a>
+									
+										<a href="http://www.rpxcorp.com/contact-rpx" >
+											Contact RPX
+										</a>
+									
+						</div>
+					</li>
+				</ul>
+			
+		</li>
+	
+		<li id="section_42" class="depth-1 ">
+			
+				<a href="http://www.rpxcorp.com/index.cfm?pageID=42" >
+					News & Events
+				</a>
+			
+				<ul>
+					<li>
+						
+						<div class="flyoutnav">
+							
+										<a href="http://www.rpxcorp.com/rpx-in-the-news" class="on">
+											RPX in the News
+										</a>
+									
+										<a href="http://www.rpxcorp.com/rpx-news-releases" >
+											News Releases
+										</a>
+									
+										<a href="http://www.rpxcorp.com/rpx-events" >
+											Events
+										</a>
+									
+						</div>
+					</li>
+				</ul>
+			
+		</li>
+	
+		<li id="section_14" class="depth-1 last">
+			
+				<a href="http://www.rpxcorp.com/rpx-blog" >
+					Blog
+				</a>
+			
+		</li>
+	
+</ul>
+
+
+</div>
+</div>
+
+
+
+<div id="slide_holder">
+	<div id='slide_holder_inner'>
+		<div id='row_of_slides'>
+		
+			<div class='slide' id='slide_1' style="background:url(/images/PatentBar_5.jpg) left top no-repeat;">
+				<!-- &nbsp; -->
+			</div>
+			
+		</div>
+	</div>
+	
+	
+</div>
+<div id="content">
+
+	
+	<img src="/images/hp_PatentLitigation.gif" width="640" height="75" border="0" alt="Patent litigation used to be a form of legal redress. Today it is a business model." style="padding-bottom:10px; " />
+	<div id="rightcol">
+	<div class="clientportal"><h3>Client Portal</h3><div style="float:right;"><a href="https://portal.rpxcorp.com/users/sign_in" target="_blank">&gt; sign-in</a></div></div>
+	<div class="divider3"><!-- &nbsp; --></div>
+	
+	<div class="becomeamember"><h3>Become a Member</h3><div style="float:right;"><a href="http://www.rpxcorp.com/become-a-rpx-member">&gt; join</a></div></div>
+	<div class="divider3"><!-- &nbsp; --></div>
+	
+	<div class="sellpatent"><h3>Sell Your Patent</h3><div style="float:right;"><a href="http://www.rpxcorp.com/rpx-seller-info-form">&gt; submit</a></div></div>
+	<div class="divider3"><!-- &nbsp; --></div>
+	</div>
+	<div id="sidecol"><p>&nbsp;</p></div>
+	<div id="maincol" style="width:490px;">
+	<div>
+	Any company that uses technology in its products or services today faces a steadily increasing threat of patent litigation.&nbsp;That threat is already costing operating companies approximately $11 billion per year in legal costs and lost productivity.</div>
+<div>
+	&nbsp;</div>
+<div>
+	RPX is changing this equation.&nbsp;Our market-based solution dramatically reduces patent-related costs for client companies by sharing risk across our network.&nbsp;We aggregate capital from annual subscription fees to acquire dangerous patents and patent rights, with each RPX client receiving a license to every asset we own.&nbsp;As the network continues to grow and our service offerings expand, we are removing progressively more high-threat patents &ndash; and more high-cost risk &ndash; from the operating ecosystem.</div>
+<div>
+	&nbsp;</div>
+<div>
+	The result: strong, broad-based defense against wasteful patent litigation and dramatically lower operating costs and financial risk for our clients.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	To find out more about the RPX solution <span><a href="/index.cfm?pageid=9">click here</a>.</span></div>
+
+	</div>
+
+</div>
+
+
+</div></td>
+</tr>
+</table>
+
+<div id="footer">
+	<div class="left" style="text-align:left;">&copy; 2008-2013 RPX Corporation. All rights reserved.  &nbsp;&nbsp;|&nbsp;&nbsp; 
+	
+	 <a href="http://www.rpxcorp.com/rpx-terms-of-service">
+	
+	Terms of Service
+	</a>  &nbsp;&nbsp;|&nbsp;&nbsp;  
+	
+	
+	<a href="http://www.rpxcorp.com/rpx-privacy-policy">
+	
+	Privacy Policy
+	</a>  &nbsp;&nbsp;|&nbsp;&nbsp; 
+	
+	 <a href="http://www.rpxcorp.com/rpx-site-map">Sitemap</a></div>
+	<div class="right">An <a href="http://www.icvmgroup.com" target="_blank">ICVM Group</a> Site</div>
+</div>
+
+</div>
+</div>
+<script language="javascript" type="text/javascript" src="/scripts/jquery-1.10.1.min.js"></script>
+<script type="text/javascript">
+$.noConflict();
+</script>
+<script language="javascript" type="text/javascript" src="/scripts/track_downloads.js"></script>
+
+
+	<script type="text/javascript" language="javascript">llactid=14014</script>
+	<script type="text/javascript" language="javascript" src="http://t3.trackalyzer.com/trackalyze.js"></script>
+	<script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('657-HAX-602');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = document.location.protocol + '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+
+	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22317814-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>

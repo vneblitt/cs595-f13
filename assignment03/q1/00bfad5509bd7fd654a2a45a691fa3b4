@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<!--[if IE 6]> <html id="ie6" class="no-js" lang="en-US"> <![endif]-->
+<!--[if IE 7]> <html id="ie7" class="no-js" lang="en-US"> <![endif]-->
+<!--[if IE 8]> <html id="ie8" class="no-js" lang="en-US"> <![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>org-trello &#8211; 2-way sync org &amp; trello | tony&#039;s blog </title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://adumont.fr/blog/wp-content/themes/admired/style.css" />
+<link rel="pingback" href="http://adumont.fr/blog/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="tony&#039;s blog &raquo; Feed" href="http://adumont.fr/blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="tony&#039;s blog &raquo; Comments Feed" href="http://adumont.fr/blog/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="tony&#039;s blog &raquo; org-trello &#8211; 2-way sync org &amp; trello Comments Feed" href="http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/feed/" />
+<link rel='stylesheet' id='hupso_css-css'  href='http://adumont.fr/blog/wp-content/plugins/hupso-share-buttons-for-twitter-facebook-google/style.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='toc-screen-css'  href='http://adumont.fr/blog/wp-content/plugins/table-of-contents-plus/screen.css?ver=1308' type='text/css' media='all' />
+<link rel='stylesheet' id='metal-css'  href='http://adumont.fr/blog/wp-content/themes/admired/skins/metal.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://adumont.fr/blog/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://adumont.fr/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://adumont.fr/blog/wp-content/themes/admired/js/modernizr-2.0.6.js?ver=2.0.6'></script>
+<script type='text/javascript' src='http://adumont.fr/blog/wp-content/themes/admired/js/superfish/hoverIntent.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://adumont.fr/blog/wp-content/themes/admired/js/superfish/superfish.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://adumont.fr/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://adumont.fr/blog/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='PIH &#8211; ch13 &#8211; Reasoning about programs &#8211; exercises' href='http://adumont.fr/blog/pih-ch13-reasoning-about-programs-exercises/' />
+<link rel='next' title='org-trello &#8211; New features' href='http://adumont.fr/blog/org-trello-new-features/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/' />
+<link rel='shortlink' href='http://adumont.fr/blog/?p=1247' />
+	
+<!-- START: Syntax Highlighter ComPress -->
+<script type="text/javascript" src="http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shCore.js"></script>
+<script type="text/javascript" src="http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shAutoloader.js"></script>
+<link type="text/css" rel="stylesheet" href="http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/styles/shCoreDjango.css"/>
+<!-- END: Syntax Highlighter ComPress -->
+
+  	<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+		
+<style type="text/css">
+body, input, textarea, .page-title span, .pingback a.url { font-family: Arial, sans-serif;}
+#site-title, #site-description { font-family: Raleway;}
+#header-logo{ background: url(http://adumont.fr/blog/wp-content/uploads/2012/12/wpid-tux-clj-150x150.png) no-repeat;}
+#nav-menu .menu-header,#nav-menu2 .menu-header, div.menu {font-weight: normal;}
+.sf-menu a.sf-with-ul { padding-right: 2.25em;} 
+#nav-menu2 a{ line-height: 33px;} 
+#site-title a { color: #1982D1;}
+#site-description{ color: #1982D1;}
+#nav-menu2, #nav-menu2 .menu-header, div.menu { width: 91.61%; max-width: 1050px; margin-left: 10px; }
+.widget-area ul li  {list-style:circle;}
+http://adumont.fr/blog/wp-content/themes/admired/images/bullets/circle.gif);}
+div.admired-social { top: 47px;}
+#branding #searchform { top: 0;}
+</style><!-- end of style section -->
+
+<style type="text/css">
+.src {
+  background: #98AFC7 ;/* #0278C6; */
+  font-size:90%;
+}
+
+.src-haskell {
+  background: #98AFC7 /*#ADD8E6*/;
+}
+
+</style><!-- end of custom css -->
+<script>
+	jQuery(function(){jQuery('ul.sf-menu').superfish({animation: {opacity:'show',height:'show'}, speed: 300});});
+	</script>
+
+<!-- End of Theme options -->
+</head>
+
+<body class="single single-post postid-1247 single-format-standard three-column two-sidebars single-author">
+	<div id="head-wrapper">
+				<header id="branding" role="banner">
+			<div id="header-group" class="clearfix">
+				<div id="header-logo">
+										<hgroup>
+						<h1 id="site-title"><span><a href="http://adumont.fr/blog/" title="tony&#039;s blog" rel="home">tony&#039;s blog</a></span></h1>
+						<h2 id="site-description">May the REPL be with you!</h2>
+					</hgroup>
+						<form method="get" id="searchform" action="http://adumont.fr/blog/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+
+	<div class="admired-social">
+
+		<ul class="admired-social">
+
+			<li><a target="_blank" href="http://plus.google.com/116847346708543486262" id="admired-plus" title="Google Plus"></a></li><li><a target="_blank" href="http://twitter.com/@ardumont" id="admired-twitter" title="Twitter"></a></li><li><a target="_blank" href="http://adumont.fr/blog/feed/rss/" id="admired-rss" title="RSS"></a></li>		</ul>
+	</div><!-- .admired-social -->				</div>
+			</div>
+		</header><!-- #branding -->
+	</div><!-- #head-wrapper -->
+<div id="page" class="hfeed">
+		<div id="nav-bottom-menu">
+		<div id="nav-bottom-wrap">
+			<nav id="nav-menu2" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul class="sf-menu"><li ><a href="http://adumont.fr/blog/" title="Home">Home</a></li><li class="page_item page-item-2"><a href="http://adumont.fr/blog/about/">About me</a></li></ul></div>
+									</nav><!-- #nav-menu2 -->
+		</div>
+	</div>	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					
+<article id="post-1247" class="post-1247 post type-post status-publish format-standard hentry category-emacs category-org-mode category-org-trello category-tools category-trello tag-emacs tag-org-mode tag-org-trello tag-tools tag-trello">
+	<nav id="nav-single">
+		<h3 class="assistive-text">Post navigation</h3>
+		<span class="nav-previous"><a href="http://adumont.fr/blog/pih-ch13-reasoning-about-programs-exercises/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+		<span class="nav-next"><a href="http://adumont.fr/blog/org-trello-new-features/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+	</nav><!-- #nav-single -->
+	<header class="entry-header">
+		<h1 class="entry-title">org-trello &#8211; 2-way sync org &#038; trello</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/" title="21 h 45 min" rel="bookmark"><time class="entry-date" datetime="2013-07-12T21:45:00+00:00" pubdate>12/07/2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://adumont.fr/blog/author/admin/" title="View all posts by tony" rel="author">tony</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div style="padding-bottom:20px; padding-top:10px;" class="hupso-share-buttons"><!-- Hupso Share Buttons - http://www.hupso.com/share/ --><a class="hupso_counters" href="http://www.hupso.com/share/"><img src="http://static.hupso.com/share/buttons/share-small.png" border="0" style="padding-top:2px; float:left;" alt="Share"/></a><script type="text/javascript">var hupso_services_c=new Array("twitter","google","linkedin");var hupso_title_c="org-trello - 2-way sync org & trello";</script><script type="text/javascript" src="http://static.hupso.com/share/js/counters.js"></script><!-- Hupso Share Buttons --></div><div id="table-of-contents">
+<h2><span id="Table_of_Contents">Table of Contents</span></h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Demo!</a>
+<ul>
+<li><a href="#sec-1-1">1.1. Synchronize one entity</a></li>
+<li><a href="#sec-1-2">1.2. Synchronize one complete entity and move entity according to status</a></li>
+<li><a href="#sec-1-3">1.3. Synchronize from org-mode file to trello</a></li>
+<li><a href="#sec-1-4">1.4. Synchronize from trello to org-mode file</a></li>
+<li><a href="#sec-1-5">1.5. Create board and sync</a></li>
+<li><a href="#sec-1-6">1.6. Setup org-mode file to work with one trello board</a></li>
+<li><a href="#sec-1-7">1.7. Install org-trello</a></li>
+<li><a href="#sec-1-8">1.8. Setup key and token</a></li>
+</ul>
+</li>
+<li><a href="#sec-2">2. Sources</a></li>
+<li><a href="#sec-3">3. Releases</a></li>
+</ul>
+</div>
+</div>
+<p>For some time now, I wanted to learn <a href="https://www.gnu.org/software/emacs/manual/html_node/elisp/index.html">Emacs-lisp</a> some <a href="https://github.com/ardumont/emacs-live-packs">more than I already did</a>. As I dayly use emacs, I think it was the logical course of action.</p>
+<p>And, as I:</p>
+<ul class="org-ul">
+<li>already use <a href="http://orgmode.org/">org-mode</a> a lot (even for blogging this very moment)</li>
+<li>kept encountering <a href="https://trello.com/">trello</a> for team organisation</li>
+<li>don&#8217;t like to duplicate informations</li>
+<li>can&#8217;t expect everybody to try and learn <a href="https://www.gnu.org/software/emacs/">emacs</a> and <a href="http://orgmode.org/][org-mode]] ">org-mode</a></li>
+<li><a href="https://trello.com/">trello</a> exposes a <a href="https://trello.com/docs/">public API</a></li>
+</ul>
+<p>I thought &#8220;what the hell, let&#8217;s do this!&#8221;. And here is the result: <a href="https://github.com/ardumont/org-trello">org-trello</a>, an <a href="http://orgmode.org/">org-mode</a> <a href="https://www.gnu.org/software/emacs/manual/html_node/emacs/Minor-Modes.html">minor-mode</a> to permit the synchronization between a <a href="https://trello.com/">trello</a> board and an <a href="http://orgmode.org/">org-mode</a> file (and vice versa).</p>
+<div class="outline-2" id="outline-container-sec-1">
+<h2 id="sec-1"><span id="1_Demo"><span class="section-number-2">1</span> Demo!</span></h2>
+<div class="outline-text-2" id="text-1"></div>
+</div>
+<div class="outline-3" id="outline-container-sec-1-1">
+<h3 id="sec-1-1"><span id="11_Synchronize_one_entity"><span class="section-number-3">1.1</span> Synchronize one entity</span></h3>
+<div class="outline-text-3" id="text-1-1">
+<p><iframe width="688" height="387" src="http://www.youtube.com/embed/ILPs74L5LFU?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+</div>
+</div>
+<div class="outline-3" id="outline-container-sec-1-2">
+<h3 id="sec-1-2"><span id="12_Synchronize_one_complete_entity_and_move_entity_according_to_status"><span class="section-number-3">1.2</span> Synchronize one complete entity and move entity according to status</span></h3>
+<div class="outline-text-3" id="text-1-2">
+<p><iframe width="688" height="387" src="http://www.youtube.com/embed/H8DXm5BLaD0?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+</div>
+</div>
+<div class="outline-3" id="outline-container-sec-1-3">
+<h3 id="sec-1-3"><span id="13_Synchronize_from_org-mode_file_to_trello"><span class="section-number-3">1.3</span> Synchronize from org-mode file to trello</span></h3>
+<div class="outline-text-3" id="text-1-3">
+<p><iframe width="688" height="387" src="http://www.youtube.com/embed/d6SATWzhQhs?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+</div>
+</div>
+<div class="outline-3" id="outline-container-sec-1-4">
+<h3 id="sec-1-4"><span id="14_Synchronize_from_trello_to_org-mode_file"><span class="section-number-3">1.4</span> Synchronize from trello to org-mode file</span></h3>
+<div class="outline-text-3" id="text-1-4">
+<p><iframe width="688" height="387" src="http://www.youtube.com/embed/-ldo8gvhaTY?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+</div>
+</div>
+<div class="outline-3" id="outline-container-sec-1-5">
+<h3 id="sec-1-5"><span id="15_Create_board_and_sync"><span class="section-number-3">1.5</span> Create board and sync</span></h3>
+<div class="outline-text-3" id="text-1-5">
+<p><iframe width="688" height="387" src="http://www.youtube.com/embed/6k4zRm6t8ZY?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+</div>
+<div class="outline-3" id="outline-container-sec-1-6">
+<h3 id="sec-1-6"><span id="16_Setup_org-mode_file_to_work_with_one_trello_board"><span class="section-number-3">1.6</span> Setup org-mode file to work with one trello board</span></h3>
+<div class="outline-text-3" id="text-1-6">
+<p><iframe width="688" height="387" src="http://www.youtube.com/embed/2PT8K1HG-eY?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+</div>
+<div class="outline-3" id="outline-container-sec-1-7">
+<h3 id="sec-1-7"><span id="17_Install_org-trello"><span class="section-number-3">1.7</span> Install org-trello</span></h3>
+<div class="outline-text-3" id="text-1-7">
+<p><iframe width="688" height="387" src="http://www.youtube.com/embed/e3NzllAHbHY?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+</div>
+</div>
+<div class="outline-3" id="outline-container-sec-1-8">
+<h3 id="sec-1-8"><span id="18_Setup_key_and_token"><span class="section-number-3">1.8</span> Setup key and token</span></h3>
+<div class="outline-text-3" id="text-1-8">
+<p><iframe width="688" height="387" src="http://www.youtube.com/embed/ReUp1Wn5scc?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+</div>
+</div>
+</div>
+</div>
+<div class="outline-2" id="outline-container-sec-2">
+<h2 id="sec-2"><span id="2_Sources"><span class="section-number-2">2</span> Sources</span></h2>
+<div class="outline-text-2" id="text-2">
+<p><a href="https://github.com/ardumont/org-trello">source</a></p>
+</div>
+</div>
+<div class="outline-2" id="outline-container-sec-3">
+<h2 id="sec-3"><span id="3_Releases"><span class="section-number-2">3</span> Releases</span></h2>
+<div class="outline-text-2" id="text-3">
+<p>Released on:</p>
+<ul class="org-ul">
+<li>marmalade &#8211; <a href="http://www.marmalade-repo.org/packages/org-trello">http://www.marmalade-repo.org/packages/org-trello</a> (stable)</li>
+<li>melpa &#8211; <a href="http://melpa.milkbox.net/">http://melpa.milkbox.net/</a> (snapshot)</li>
+</ul>
+</div>
+</div>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta" style="clear:both;">
+		This entry was posted in <a href="http://adumont.fr/blog/category/emacs/" title="View all posts in emacs" rel="category tag">emacs</a>, <a href="http://adumont.fr/blog/category/org-mode/" title="View all posts in org-mode" rel="category tag">org-mode</a>, <a href="http://adumont.fr/blog/category/org-trello/" title="View all posts in org-trello" rel="category tag">org-trello</a>, <a href="http://adumont.fr/blog/category/tools/" title="View all posts in tools" rel="category tag">tools</a>, <a href="http://adumont.fr/blog/category/trello/" title="View all posts in trello" rel="category tag">trello</a> and tagged <a href="http://adumont.fr/blog/tag/emacs/" rel="tag">emacs</a>, <a href="http://adumont.fr/blog/tag/org-mode/" rel="tag">org-mode</a>, <a href="http://adumont.fr/blog/tag/org-trello/" rel="tag">org-trello</a>, <a href="http://adumont.fr/blog/tag/tools/" rel="tag">tools</a>, <a href="http://adumont.fr/blog/tag/trello/" rel="tag">trello</a> by <a href="http://adumont.fr/blog/author/admin/">tony</a>. Bookmark the <a href="http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/" title="Permalink to org-trello &#8211; 2-way sync org &amp; trello" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-1247 -->
+
+					
+	
+		<div id="comments">
+		<h2 id="comments-title">
+			3 thoughts on &ldquo;<span>org-trello &#8211; 2-way sync org &#038; trello</span>&rdquo;		</h2>
+
+		
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-1211">
+		<article id="comment-1211" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/8773a6f6315d90a618992e3e06a09263?s=68&amp;d=&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn">ScientificCoder</span> on <a href="http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/comment-page-1/#comment-1211"><time pubdate datetime="2013-07-13T11:39:14+00:00">13/07/2013 at 11 h 39 min</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Excellent !<br />
+Thx for sharing this .<br />
+(Btw I think that the 1.3 video is not what it should be ;) )</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1" id="li-comment-1212">
+		<article id="comment-1212" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/fa65a26193f2474749b3a5f22472160d?s=68&amp;d=&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn"><a href='http://adumont.fr/blog' rel='external nofollow' class='url'>tony</a></span> on <a href="http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/comment-page-1/#comment-1212"><time pubdate datetime="2013-07-13T12:41:56+00:00">13/07/2013 at 12 h 41 min</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Thanks!</p>
+<p>The 1.3 video may be badly entitled indeed.</p>
+<p>This is meant to setup the org-mode file to work with a trello board.<br />
+This is a pre-requisite for the next actions.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://chris.cothrun.com/2013/08/07/bookmarks-for-august-4th/' rel='external nofollow' class='url'>Bookmarks for August 4th | Chris&#8217;s Digital Detritus</a></p>
+	</li><!-- #comment-## -->
+		</ol>
+
+			</div><!-- #comments -->
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/blog/org-trello-sync-your-org-file-to-trello/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://adumont.fr/blog/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input x-autocompletetype="name-full" id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input x-autocompletetype="email" id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Post Comment" />
+							<input type='hidden' name='comment_post_ID' value='1247' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="18d8919948" /></p>					</form>
+							</div><!-- #respond -->
+						
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+		
+		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="toc-widget-4" class="widget toc_widget"><h3 class="widget-title">Table of Contents</h3><ul class="toc_widget_list"><li><a href="#Table_of_Contents"><span class="toc_number toc_depth_1">1</span> Table of Contents</a></li><li><a href="#1_Demo"><span class="toc_number toc_depth_1">2</span> 1 Demo!</a><ul><li><a href="#11_Synchronize_one_entity"><span class="toc_number toc_depth_2">2.1</span> 1.1 Synchronize one entity</a></li><li><a href="#12_Synchronize_one_complete_entity_and_move_entity_according_to_status"><span class="toc_number toc_depth_2">2.2</span> 1.2 Synchronize one complete entity and move entity according to status</a></li><li><a href="#13_Synchronize_from_org-mode_file_to_trello"><span class="toc_number toc_depth_2">2.3</span> 1.3 Synchronize from org-mode file to trello</a></li><li><a href="#14_Synchronize_from_trello_to_org-mode_file"><span class="toc_number toc_depth_2">2.4</span> 1.4 Synchronize from trello to org-mode file</a></li><li><a href="#15_Create_board_and_sync"><span class="toc_number toc_depth_2">2.5</span> 1.5 Create board and sync</a></li><li><a href="#16_Setup_org-mode_file_to_work_with_one_trello_board"><span class="toc_number toc_depth_2">2.6</span> 1.6 Setup org-mode file to work with one trello board</a></li><li><a href="#17_Install_org-trello"><span class="toc_number toc_depth_2">2.7</span> 1.7 Install org-trello</a></li><li><a href="#18_Setup_key_and_token"><span class="toc_number toc_depth_2">2.8</span> 1.8 Setup key and token</a></li></ul></li><li><a href="#2_Sources"><span class="toc_number toc_depth_1">3</span> 2 Sources</a></li><li><a href="#3_Releases"><span class="toc_number toc_depth_1">4</span> 3 Releases</a></li></ul></aside>		<aside id="recent-posts-6" class="widget widget_recent_entries">		<h3 class="widget-title">Recently</h3>		<ul>
+					<li>
+				<a href="http://adumont.fr/blog/literate-org-trello/" title="Literate org-trello">Literate org-trello</a>
+						</li>
+					<li>
+				<a href="http://adumont.fr/blog/org-trello-new-features/" title="org-trello &#8211; New features">org-trello &#8211; New features</a>
+						</li>
+					<li>
+				<a href="http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/" title="org-trello &#8211; 2-way sync org &amp; trello">org-trello &#8211; 2-way sync org &#038; trello</a>
+						</li>
+					<li>
+				<a href="http://adumont.fr/blog/pih-ch13-reasoning-about-programs-exercises/" title="PIH &#8211; ch13 &#8211; Reasoning about programs &#8211; exercises">PIH &#8211; ch13 &#8211; Reasoning about programs &#8211; exercises</a>
+						</li>
+					<li>
+				<a href="http://adumont.fr/blog/pih-ch12-lazy-evaluation-exercises/" title="PIH &#8211; ch12 &#8211; Lazy evaluation &#8211; exercises">PIH &#8211; ch12 &#8211; Lazy evaluation &#8211; exercises</a>
+						</li>
+				</ul>
+		</aside><aside id="text-8" class="widget widget_text"><h3 class="widget-title">Timeline</h3>			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/ardumont" data-widget-id="286532684157681664">Tweets by @ardumont</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+		</aside>		</div><!-- #secondary .widget-area -->
+		
+		<div id="tertiary" class="widget-area" role="complementary">
+			
+				<aside id="admired_text-2" class="widget admired_widget_text"><h3 class="widget-title">My way</h3>			<div class="textwidget"><div style="float: left; width: 48%; padding-right: 2%; overflow: hidden; word-wrap: break-word;">
+			<a href='http://www.catb.org/hacker-emblem/'>
+<img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a></div><div style="float: left; width: 48%; overflow: hidden; padding-left: 2%; word-wrap: break-word;"><i style="font-size:0.75em">To follow the path:</br/>
+    look to the master,</br/>
+    follow the master,</br/>
+    walk with the master,</br/>
+    see through the master,</br/>
+    become the master.</i></div><div style="clear: both;"></div>			</div>
+		</aside><aside id="rss-3" class="widget widget_rss"><h3 class="widget-title"><a class='rsswidget' href='https://github.com/ardumont.atom' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://adumont.fr/blog/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='https://github.com/ardumont' title=''>ardumont@github</a></h3><ul><li><a class='rsswidget' href='https://github.com/ardumont/org-trello/compare/d964b80af0...f8c69bf08d' title='      September 29, 2013      ardumont pushed to 0.2.2 at ardumont/org-trello                                                                          f8c69bf                                       Adding :users (containings user ids assigned to the card) to the prox…                                              '>ardumont pushed to 0.2.2 at ardumont/org-trello</a><div class='rssSummary'>September 29, 2013 ardumont pushed to 0.2.2 at ardumont/org-trello f8c69bf Adding :users (containings user ids assigned to the card) to the prox… [&hellip;]</div></li></ul></aside><aside id="tag_cloud-6" class="widget widget_tag_cloud"><h3 class="widget-title">Tags</h3><div class="tagcloud"><a href='http://adumont.fr/blog/tag/4clojure/' class='tag-link-99' title='5 topics' style='font-size: 13.647058823529pt;'>4clojure</a>
+<a href='http://adumont.fr/blog/tag/aliases/' class='tag-link-78' title='3 topics' style='font-size: 11.529411764706pt;'>aliases</a>
+<a href='http://adumont.fr/blog/tag/arduino/' class='tag-link-22' title='3 topics' style='font-size: 11.529411764706pt;'>arduino</a>
+<a href='http://adumont.fr/blog/tag/backup/' class='tag-link-56' title='1 topic' style='font-size: 8pt;'>backup</a>
+<a href='http://adumont.fr/blog/tag/bash/' class='tag-link-72' title='1 topic' style='font-size: 8pt;'>bash</a>
+<a href='http://adumont.fr/blog/tag/beamer/' class='tag-link-54' title='1 topic' style='font-size: 8pt;'>beamer</a>
+<a href='http://adumont.fr/blog/tag/blog-3/' class='tag-link-48' title='2 topics' style='font-size: 10.117647058824pt;'>blog</a>
+<a href='http://adumont.fr/blog/tag/chroot/' class='tag-link-71' title='1 topic' style='font-size: 8pt;'>chroot</a>
+<a href='http://adumont.fr/blog/tag/classes/' class='tag-link-108' title='3 topics' style='font-size: 11.529411764706pt;'>classes</a>
+<a href='http://adumont.fr/blog/tag/clodiuno/' class='tag-link-25' title='3 topics' style='font-size: 11.529411764706pt;'>clodiuno</a>
+<a href='http://adumont.fr/blog/tag/clojure/' class='tag-link-21' title='15 topics' style='font-size: 18.588235294118pt;'>clojure</a>
+<a href='http://adumont.fr/blog/tag/emacs/' class='tag-link-26' title='18 topics' style='font-size: 19.529411764706pt;'>emacs</a>
+<a href='http://adumont.fr/blog/tag/emacs-live/' class='tag-link-63' title='2 topics' style='font-size: 10.117647058824pt;'>emacs-live</a>
+<a href='http://adumont.fr/blog/tag/emacs-starter-kit/' class='tag-link-64' title='1 topic' style='font-size: 8pt;'>emacs-starter-kit</a>
+<a href='http://adumont.fr/blog/tag/euler-project/' class='tag-link-120' title='2 topics' style='font-size: 10.117647058824pt;'>euler-project</a>
+<a href='http://adumont.fr/blog/tag/exercises/' class='tag-link-70' title='25 topics' style='font-size: 21.058823529412pt;'>exercises</a>
+<a href='http://adumont.fr/blog/tag/functional-programming/' class='tag-link-69' title='30 topics' style='font-size: 22pt;'>functional-programming</a>
+<a href='http://adumont.fr/blog/tag/geek/' class='tag-link-11' title='3 topics' style='font-size: 11.529411764706pt;'>geek</a>
+<a href='http://adumont.fr/blog/tag/git/' class='tag-link-20' title='5 topics' style='font-size: 13.647058823529pt;'>Git</a>
+<a href='http://adumont.fr/blog/tag/gnulinux/' class='tag-link-55' title='3 topics' style='font-size: 11.529411764706pt;'>GNU/Linux</a>
+<a href='http://adumont.fr/blog/tag/haskell/' class='tag-link-67' title='22 topics' style='font-size: 20.470588235294pt;'>haskell</a>
+<a href='http://adumont.fr/blog/tag/leiningen/' class='tag-link-58' title='3 topics' style='font-size: 11.529411764706pt;'>leiningen</a>
+<a href='http://adumont.fr/blog/tag/midje/' class='tag-link-59' title='3 topics' style='font-size: 11.529411764706pt;'>midje</a>
+<a href='http://adumont.fr/blog/tag/mind-blowing-questions/' class='tag-link-34' title='1 topic' style='font-size: 8pt;'>mind-blowing questions</a>
+<a href='http://adumont.fr/blog/tag/mount/' class='tag-link-57' title='2 topics' style='font-size: 10.117647058824pt;'>mount</a>
+<a href='http://adumont.fr/blog/tag/org-mode/' class='tag-link-45' title='7 topics' style='font-size: 15.058823529412pt;'>org-mode</a>
+<a href='http://adumont.fr/blog/tag/org-trello/' class='tag-link-133' title='3 topics' style='font-size: 11.529411764706pt;'>org-trello</a>
+<a href='http://adumont.fr/blog/tag/org2blog/' class='tag-link-50' title='2 topics' style='font-size: 10.117647058824pt;'>org2blog</a>
+<a href='http://adumont.fr/blog/tag/parsers/' class='tag-link-103' title='2 topics' style='font-size: 10.117647058824pt;'>parsers</a>
+<a href='http://adumont.fr/blog/tag/philosophy/' class='tag-link-35' title='1 topic' style='font-size: 8pt;'>philosophy</a>
+<a href='http://adumont.fr/blog/tag/problem/' class='tag-link-61' title='1 topic' style='font-size: 8pt;'>problem</a>
+<a href='http://adumont.fr/blog/tag/quickcheck/' class='tag-link-97' title='2 topics' style='font-size: 10.117647058824pt;'>quickcheck</a>
+<a href='http://adumont.fr/blog/tag/recursion/' class='tag-link-86' title='1 topic' style='font-size: 8pt;'>recursion</a>
+<a href='http://adumont.fr/blog/tag/rich-hickey/' class='tag-link-32' title='1 topic' style='font-size: 8pt;'>Rich Hickey</a>
+<a href='http://adumont.fr/blog/tag/setup/' class='tag-link-65' title='2 topics' style='font-size: 10.117647058824pt;'>setup</a>
+<a href='http://adumont.fr/blog/tag/shell/' class='tag-link-85' title='1 topic' style='font-size: 8pt;'>shell</a>
+<a href='http://adumont.fr/blog/tag/stumpwm/' class='tag-link-36' title='3 topics' style='font-size: 11.529411764706pt;'>stumpwm</a>
+<a href='http://adumont.fr/blog/tag/tdd/' class='tag-link-60' title='3 topics' style='font-size: 11.529411764706pt;'>tdd</a>
+<a href='http://adumont.fr/blog/tag/tic-tac-toe/' class='tag-link-102' title='2 topics' style='font-size: 10.117647058824pt;'>tic-tac-toe</a>
+<a href='http://adumont.fr/blog/tag/tools/' class='tag-link-79' title='18 topics' style='font-size: 19.529411764706pt;'>tools</a>
+<a href='http://adumont.fr/blog/tag/touchpad/' class='tag-link-84' title='3 topics' style='font-size: 11.529411764706pt;'>touchpad</a>
+<a href='http://adumont.fr/blog/tag/trello/' class='tag-link-134' title='2 topics' style='font-size: 10.117647058824pt;'>trello</a>
+<a href='http://adumont.fr/blog/tag/types/' class='tag-link-107' title='3 topics' style='font-size: 11.529411764706pt;'>types</a>
+<a href='http://adumont.fr/blog/tag/wordpress/' class='tag-link-47' title='2 topics' style='font-size: 10.117647058824pt;'>wordpress</a>
+<a href='http://adumont.fr/blog/tag/zenity/' class='tag-link-83' title='1 topic' style='font-size: 8pt;'>zenity</a></div>
+</aside>			
+		</div><!-- #tertiary .widget-area -->
+		
+	</div><!-- #main -->
+	
+</div><!-- #page -->
+<footer id="footer" class="clearfix" role="contentinfo">
+	<section id="colophon" class="clearfix">
+				<div id="top-scroll">
+			<a href="#admired-top" class="scroll" title="Scroll to Top"><div id="scroll-top"></div></a>
+		</div>
+			
+	<div id="supplementary" class="three">
+				<div id="first" class="widget-area" role="complementary">
+			<aside id="linkcat-14" class="widget widget_links"><h3 class="widget-title">Social</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://twitter.com/#!/ardumont" title="mes tweets" target="_blank">@ardumont</a></li>
+<li><a href="https://coderwall.com/ardumont" target="_blank">coderwall</a></li>
+<li><a href="https://github.com/ardumont" target="_blank">github profile</a></li>
+<li><a href="http://en.gravatar.com/ardumont" target="_blank">gravatar</a></li>
+<li><a href="http://j.mp/dWMPPr" title="Mon profil Linkedin" target="_blank">Linkedin</a></li>
+<li><a href="http://j.mp/ibIAVM" title="Mon viadeo" target="_blank">Viadeo</a></li>
+
+	</ul>
+</aside>
+		</div><!-- #first .widget-area -->
+		
+				<div id="second" class="widget-area" role="complementary">
+			<aside id="text-7" class="widget widget_text"><h3 class="widget-title">Badges</h3>			<div class="textwidget"><img src="http://projecteuler.net/profile/ardumont.png" alt="euler badge"/></div>
+		</aside>		</div><!-- #second .widget-area -->
+		
+				<div id="third" class="widget-area" role="complementary">
+			<aside id="archives-7" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='http://adumont.fr/blog/2013/08/' title='August 2013'>August 2013</a>&nbsp;(2)</li>
+	<li><a href='http://adumont.fr/blog/2013/07/' title='July 2013'>July 2013</a>&nbsp;(1)</li>
+	<li><a href='http://adumont.fr/blog/2013/06/' title='June 2013'>June 2013</a>&nbsp;(1)</li>
+	<li><a href='http://adumont.fr/blog/2013/05/' title='May 2013'>May 2013</a>&nbsp;(11)</li>
+	<li><a href='http://adumont.fr/blog/2013/04/' title='April 2013'>April 2013</a>&nbsp;(5)</li>
+	<li><a href='http://adumont.fr/blog/2013/02/' title='February 2013'>February 2013</a>&nbsp;(1)</li>
+	<li><a href='http://adumont.fr/blog/2013/01/' title='January 2013'>January 2013</a>&nbsp;(12)</li>
+	<li><a href='http://adumont.fr/blog/2012/12/' title='December 2012'>December 2012</a>&nbsp;(26)</li>
+	<li><a href='http://adumont.fr/blog/2011/04/' title='April 2011'>April 2011</a>&nbsp;(8)</li>
+	<li><a href='http://adumont.fr/blog/2010/12/' title='December 2010'>December 2010</a>&nbsp;(4)</li>
+		</ul>
+</aside>		</div><!-- #third .widget-area -->
+			</div><!-- #supplementary -->			<div id="footer-html">
+								<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.							</div><!-- #footer-html -->
+			<div id="footer-info">
+								<div id="site-info">&copy; 2013					<a href="http://adumont.fr/blog/" title="tony&#039;s blog" rel="home">
+						tony&#039;s blog					</a>
+				</div><!-- #site-info -->
+								<div id="site-generator">
+										<a href="http://wp-ultra.com/" rel="generator">Admired Theme</a>
+				</div>
+			</div>
+	</section>
+</footer><!-- #footer -->
+
+	
+<!-- START: Syntax Highlighter ComPress -->
+<script type="text/javascript">
+    SyntaxHighlighter.autoloader(
+        'applescript			http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushAppleScript.js',
+        'actionscript3 as3		http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushAS3.js',
+        'bash shell				http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushBash.js',
+        'coldfusion cf			http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushColdFusion.js',
+        'cpp c					http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushCpp.js',
+        'c# c-sharp csharp		http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushCSharp.js',
+        'css					http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushCss.js',
+        'delphi pascal pas		http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushDelphi.js',
+        'diff patch			    http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushDiff.js',
+        'erl erlang				http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushErlang.js',
+        'groovy					http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushGroovy.js',
+        'java					http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushJava.js',
+        'jfx javafx				http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushJavaFX.js',
+        'js jscript javascript	http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushJScript.js',
+        'perl pl				http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushPerl.js',
+        'php					http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushPhp.js',
+        'text plain				http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushPlain.js',
+        'powershell ps          http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushPowerShell.js',
+        'py python				http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushPython.js',
+        'ruby rails ror rb		http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushRuby.js',
+        'sass scss              http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushSass.js',
+        'scala					http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushScala.js',
+        'sql					http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushSql.js',
+        'vb vbnet				http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushVb.js',
+        'xml xhtml xslt html	http://adumont.fr/blog/wp-content/plugins/syntax-highlighter-compress/scripts/shBrushXml.js'
+    );
+                    SyntaxHighlighter.defaults['toolbar'] = false;     SyntaxHighlighter.defaults['tab-size'] = 4;
+    SyntaxHighlighter.all();
+</script>
+<!-- END: Syntax Highlighter ComPress -->
+
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var tocplus = {"visibility_show":"show","visibility_hide":"hide","width":"Auto"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://adumont.fr/blog/wp-content/plugins/table-of-contents-plus/front.js?ver=1308'></script>
+
+<script type="text/javascript">
+	jQuery('a[href^="#admired-top"]').live('click',function(event){
+		event.preventDefault();
+		var target_offset = jQuery(this.hash).offset() ? jQuery(this.hash).offset().top : 0;
+		jQuery('html, body').animate({scrollTop:target_offset}, 800);
+	});
+</script>
+
+</body>
+</html>

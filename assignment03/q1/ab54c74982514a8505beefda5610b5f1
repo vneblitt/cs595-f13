@@ -1,0 +1,949 @@
+	
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="Education, Unesco, MDGs" />   
+<meta name="description" content="Education’s transformative power lights up every stage of the journey to a better life. Sign our petition to ensure education’s central place in all new development goals after 2015." />
+<link href="http://fonts.googleapis.com/css?family=Gudea|Revalia" rel="stylesheet" type="text/css"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<link rel="alternate" type="application/rss+xml" title="education-transforms RSS Feed" href="http://www.education-transforms.org/en/?feed=rss2" />
+<link rel="shortcut icon" href="http://www.education-transforms.org/en/wp-content/uploads/2013/06/favicon.png" />
+
+<title>education-transforms | </title>
+
+
+
+	
+
+	
+<link rel="alternate" type="application/rss+xml" title="education-transforms &raquo; Feed" href="http://www.education-transforms.org/en/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="education-transforms &raquo; Comments Feed" href="http://www.education-transforms.org/en/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="education-transforms &raquo; Infographics Comments Feed" href="http://www.education-transforms.org/en/?feed=rss2&#038;page_id=2" />
+<link rel='stylesheet' id='tab-style-css'  href='http://www.education-transforms.org/en/wp-content/themes/square/js/tabs/tabs.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.education-transforms.org/en/wp-content/themes/square/style.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='opensans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C400%2C300%2C600%2C700&#038;ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tags-css'  href='http://www.education-transforms.org/en/wp-content/themes/square/css/tags.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-style-css'  href='http://www.education-transforms.org/en/wp-content/themes/square/js/superfish/superfish.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://www.education-transforms.org/en/wp-content/themes/square/responsive.css?ver=3.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.education-transforms.org/en/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.education-transforms.org/en/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.education-transforms.org/en/wp-includes/wlwmanifest.xml" /> 
+<link rel='next' title='About this website' href='http://www.education-transforms.org/en/?page_id=121' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='canonical' href='http://www.education-transforms.org/en/' />
+<style type="text/css">#container { background:rgba(255,255,255, 0.5 ) repeat top !important; }.wrap { border-top:4px solid #D4005A !important; }</style>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+
+
+
+
+
+
+
+<script>
+
+	var $j = jQuery.noConflict();
+	jQuery(document).ready(function() {
+
+		if ( jQuery().scrollTop ) {
+			
+			var $DropDownWrapper = $j( '#petition_wrapper' );
+			
+			if ( $DropDownWrapper.length ) { 
+					
+				$j('#petition_tab').click(function() {
+					
+					var petitionHeight = $j('.petition_page').height() + 172; 
+					var wrapperHeight = $DropDownWrapper.height();	
+						
+					if( wrapperHeight == 0 ) {
+						$j('.drop-down-arrows').css('backgroundPosition', 'left top');
+						
+						$DropDownWrapper.animate( { height: petitionHeight }, 500, 'easeOutCubic', function() {
+						
+							$j(this).css('height', 'auto');	
+							
+						});
+					}
+					else {
+						$j('.drop-down-arrows').css('backgroundPosition', '0px -11px');
+						
+						$DropDownWrapper.animate( { height: 0 }, 400, 'easeOutCubic' );
+					}
+					
+					$j( 'body, html' ).animate({ scrollTop: 0 }, 200, 'easeOutCubic' );
+					
+				});
+				
+				
+			}
+		
+		}
+					
+				
+				
+			
+					
+				
+	//	$j("label.inlined + .input-text").each(function (type) {
+		 
+			
+				 
+	//		$j(this).focus(function () {
+	//			$j(this).prev("label.inlined").addClass("focus");
+	//		});
+				 
+	//		$j(this).keypress(function () {
+	//			$j(this).prev("label.inlined").addClass("has-text").removeClass("focus");
+	//		});
+	//			 
+	//		$j(this).blur(function () {
+	//			if($j(this).val() == "") {
+	//				$j(this).prev("label.inlined").removeClass("has-text").removeClass("focus");
+	//			}
+	//		});
+	//	});
+			
+			
+			
+			
+				
+	  
+	});		
+		
+		
+
+
+
+$j(function(){
+				$j(".thumbs-animate").hover(function(){
+					$j("img", this).fadeOut("fast");
+				}, function() {
+					$j("img", this).fadeIn("fast");
+				});
+
+				$j(".thumbs-animate").hover(function(){
+					$j("iframe", this).fadeOut("slow");
+				}, function() {
+					$j("iframe", this).fadeIn("slow");
+				});
+
+				$j(".thumbs-team-animate").hover(function(){
+					$j("img.wp-post-image", this).fadeOut("fast");
+				}, function() {
+					$j("img.wp-post-image", this).fadeIn("fast");
+				});
+
+			});
+		
+		
+
+
+
+		
+
+
+
+var $j = jQuery.noConflict();
+						jQuery(document).ready(function() {
+						
+													
+							
+						
+						
+													
+							function portfolio_quicksand() {
+								var $filter; var $container; var $containerClone; var $filterLink; var $filteredItems
+								$filter = $j('.filter li.current a').attr('class');
+								$filterLink = $j('.filter li a');
+								$container = $j('ul.showcase');
+								$containerClone = $container.clone();
+								$filterLink.click(function(e) {
+									$j('.filter li').removeClass('current');
+									$filter = $j(this).attr('class').split(' ');
+									$j(this).parent().addClass('current');
+									if ($filter == 'all') {	$filteredItems = $containerClone.find('li'); }
+									else { $filteredItems = $containerClone.find('li[data-type~=' + $filter + ']'); }
+									$container.quicksand($filteredItems, { duration: 750, easing: 'easeInOutCirc',	adjustHeight: 'dynamic' });
+									$container.quicksand($filteredItems, function () { hover_thumb(); });
+								});
+							}								
+							if(jQuery().quicksand) { portfolio_quicksand();	}
+							function hover_thumb() {
+								$j(".thumbs-animate").hover(function(){ $j("img", this).fadeOut({queue:false,duration:400}); }, function() {
+									$j("img", this).stop().fadeIn({queue:false,duration:400});
+								});
+								$j(".thumbs-animate").hover(function(){ $j("iframe", this).fadeIn({queue:false,duration:400}); }, function() {
+									$j("iframe", this).fadeOut({queue:false,duration:400});
+								});
+							}							
+						}); 
+		
+
+		
+		
+		
+		
+
+
+
+
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+  </script>
+
+
+
+
+
+</head>
+
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<body class="home page page-id-2 page-template page-template-projects-php">
+
+<div id="petition_wrapper" style="height: 0px;">
+			<div class="container_12 group">
+				<!-- START .petition_page --> 
+		 		<div class="petition_page grid_12 group">
+		 			
+                    
+        		
+
+
+
+
+
+
+
+	<!--CONTACT PAGE-->
+	<section id="action_header_section">
+	
+		<!--CONTENTS-->
+		<div class="content clear" style="margin-top:0">
+	
+               
+                  <p class="petition-text"><!-- THIS SHOULD BE EDITABLE THROUGH WORDPRESS -->Call on world leaders to ensure education's central place in all new development goals after 2015.</p>
+                    
+         
+                
+                
+				<div id="respond">
+					
+                    
+                    
+	
+	
+                    
+						
+					<form id="actionform" name="actionform" method="post">
+						<ul> 
+                        
+                        
+                        
+                        <!-- VALIDATION MESSAGE WOULD BE HERE  -->
+                        
+                                             
+                   
+                        
+                        
+                        
+                        
+                        
+                        
+							<li>
+								<label for="FirstName">First name <span>*</span></label>
+								<input type="text" name="FirstName" id="FirstName" tabindex="1" class="required input-text" />    							
+							</li> 
+							<li>
+								<label for="LastName">Last name <span>*</span></label>
+								<input type="text" name="LastName" id="LastName" tabindex="2" class="required input-text" />    							
+							</li>
+                            
+                            
+                            <li>
+							<label for="Country">Country <span>*</span></label>
+								
+                                <select name="Country" id="Country" tabindex="3">
+                                    <option value="" selected="selected">Please select:</option>
+                                    <option value="Afghanistan:Afganist&aacute;n:Afghanistan:33:65">Afghanistan</option> 
+<option value="Albania:Albania:Albanie:41:20">Albania</option> 
+<option value="Algeria:Argelia:Alg&eacute;rie:28:3">Algeria</option> 
+<option value="Andorra:Andorra:Andorre:42.5:1.6">Andorra</option> 
+<option value="Angola:Angola:Angola:-12.5:18.5">Angola</option> 
+<option value="Anguilla:Anguilla:Anguilla:18.25:-63.1667">Anguilla</option> 
+<option value="Antigua and Barbuda:Antigua y Barbuda:Antigua-et-Barbuda:17.05:-61.8">Antigua and Barbuda</option> 
+<option value="Argentina:Argentina:Argentine:-34:-64">Argentina</option> 
+<option value="Armenia:Armenia:Arm&eacute;nie:40:45">Armenia</option> 
+<option value="Aruba:Aruba:Aruba:12.5:-69.9667">Aruba</option> 
+<option value="Australia:Australia:Australie:-27:133">Australia</option> 
+<option value="Austria:Austria: Autriche: 47.3333:13.3333">Austria</option> 
+<option value="Azerbaijan:Azerbaijan:Azerba&iuml;djan:40.5:47.5">Azerbaijan</option> 
+<option value="Bahamas:Bahamas:Bahamas:24.25:-76">Bahamas</option> 
+<option value="Bahrain:Bahrein:Bahre&iuml;n:26:50.55">Bahrain</option> 
+<option value="Bangladesh:Bangladesh:Bangladesh:24:90">Bangladesh</option> 
+<option value="Barbados:Barbados:Barbade:13.1667:-59.5333">Barbados</option> 
+<option value="Belarus:Bielorrusia:Bi&eacute;lorussie:53:28">Belarus</option> 
+<option value="Belgium:B&eacute;lgica:Belgique:50.8333:4">Belgium</option> 
+<option value="Belize:Belice:Belize:17.25:-88.75">Belize</option> 
+<option value="Benin:Benin:B&eacute;nin:9.5:2.25">Benin</option> 
+<option value="Bermuda:Bermuda:Bermudes:32.3333:-64.75">Bermuda</option> 
+<option value="Bhutan:Bhutan:Bhoutan:27.5:90.5">Bhutan</option> 
+<option value="Bolivia:Bolivia:Bolivie:-17:-65">Bolivia</option> 
+<option value="Bosnia and Herzegovina:Bosnia y Herzegovina:Bosnie-Herz&eacute;govine:44:18">Bosnia and Herzegovina</option> 
+<option value="Botswana:Botswana:Botswana:-22:24">Botswana</option> 
+<option value="Brazil:Brasil:Brasil:-10:-55">Brazil</option> 
+<option value="Brunei Darussalam:Brunei Darussalam:Brunei Darussalam:4.5:114.6667">Brunei Darussalam</option> 
+<option value="Bulgaria:Bulgaria:Bulgarie:43:25">Bulgaria</option> 
+<option value="Burkina Faso:Burkina Faso:Burkina Faso:13:-2">Burkina Faso</option> 
+<option value="Burundi:Burundi:Burundi:-3.5:30">Burundi</option> 
+<option value="Cambodia:Camboya:Cambodge:13:105">Cambodia</option> 
+<option value="Cameroon:Camer&uacute;n:Cameroun:6:12">Cameroon</option> 
+<option value="Canada:Canad&aacute;:Canade:60:-95">Canada</option> 
+<option value="Cape Verde:Cabo Verde:Cap-Vert:16:-24">Cape Verde</option> 
+<option value="Cayman Islands:Islas Caim&aacute;n:&Icirc;les Ca&iuml;mans:19.5:-80.5">Cayman Islands</option> 
+<option value="Central African Republic:Rep&uacute;blica Centroafricana:R&eacute;publique Centrafricaine:7:21">Central African Republic</option> 
+<option value="Chad:Chad:Tchad:15:19">Chad</option> 
+<option value="Chile:Chile:Chili:-30:-71">Chile</option> 
+<option value="China:China:Chine:35:105">China</option>                                     
+<option value="Colombia:Colombia:Colombie:4:-72">Colombia</option> 
+<option value="Comoros:Comoros:Comoros:-12.1667:44.25">Comoros</option> 
+<option value="Congo:Congo:Congo:-1:15">Congo</option> 
+<option value="Costa Rica:Costa Rica:Costa Rica:10:-84">Costa Rica</option> 
+<option value="Cote d'Ivoire:Cote d'Ivoire:Cote d'Ivoire:8:-5">Cote d'Ivoire</option> 
+<option value="Croatia:Croacia:Croatie:45.1667:15.5">Croatia</option> 
+<option value="Cuba:Cuba:Cuba:21.5:-80">Cuba</option> 
+<option value="Cyprus:Chipre:Chypre:35:33">Cyprus</option> 
+<option value="Czech Republic:Rep&uacute;blica Checa:R&eacute;publique Tch&egrave;que:49.75:15.5">Czech Republic</option> 
+<option value="D R Congo:Rep&uacute;blica Democr&aacute;tica del Congo:R&eacute;publique D&eacute;mocratique du Congo:-3:20">Democratic Republic of Congo</option> 
+<option value="Denmark:Dinamarca:Danemark:56:10">Denmark</option> 
+<option value="Djibouti:Djibouti:Djibouti:11.5:43">Djibouti</option> 
+<option value="Dominica:Dominica:Dominique:15.4167:-61.3333">Dominica</option> 
+<option value="Dominican Republic:Rep&uacute;blica Dominicana:R&eacute;publique Dominicaine:19:-70.6667">Dominican Republic</option> 
+<option value="Ecuador:Ecuador:Equateur:-2:-77.5">Ecuador</option> 
+<option value="Egypt:Egipto:&Eacute;gypte:27:30">Egypt</option> 
+<option value="El Salvador:El Salvador:El Salvador:13.8333:-88.9167">El Salvador</option> 
+<option value="Equatorial Guinea:Guinea Ecuatorial:Guin&eacute;e &eacute;quatoriale:2:10">Equatorial Guinea</option> 
+<option value="Eritrea:Eritrea:Erythr&eacute;e:15:39">Eritrea</option> 
+<option value="Estonia:Estonia:Estonie:59:26">Estonia</option> 
+<option value="Ethiopia:Etiop&iacute;a:Ethiopie:8:38">Ethiopia</option> 
+<option value="Fiji:Fiji:Fidji:-18:175">Fiji</option> 
+<option value="Finland:Finlandia:Finlande:64:26">Finland</option> 
+<option value="France:Francia:France:46:2">France</option> 
+<option value="Gabon:Gabon:Gab&oacute;n:-1:11.75">Gabon</option> 
+<option value="Gambia:Gambia:Gambie:13.4667:-16.5667">Gambia</option> 
+<option value="Georgia:Georgia:G&eacute;orgie:42:43.5">Georgia</option> 
+<option value="Germany:Alemania:Allemagne:51:9">Germany</option> 
+<option value="Ghana:Ghana:Ghana:8:-2">Ghana</option> 
+<option value="Gibraltar:Gibraltar:Gibraltar:36.1833:-5.3667">Gibraltar</option> 
+<option value="Greece:Grecia:Gr&egrave;ce:39:22">Greece</option> 
+<option value="Grenada:Granada:Grenade:12.1167:-61.6667">Grenada</option> 
+<option value="Guatemala:Guatemala:Guatemala:15.5:-90.25">Guatemala</option> 
+<option value="Guinea:Guinea:Guin&eacute;e:11:-10">Guinea</option> 
+<option value="Guinea-Bissau:Guinea-Bissau:Guin&eacute;e-Bissau:12:-15">Guinea-Bissau</option> 
+<option value="Guyana:Guyana:Guyane:5:-59">Guyana</option> 
+<option value="Haiti:Hait&iacute;:Ha&iuml;ti:19:-72.4167">Haiti</option>                                     
+<option value="Honduras:Honduras:Honduras:15:-86.5">Honduras</option> 
+<option value="Hungary:Hungr&iacute;a:Hongrie:47:20">Hungary</option> 
+<option value="Iceland:Islandia:Islande:65:-18">Iceland</option> 
+<option value="India:India:Inde:20:77">India</option> 
+<option value="Indonesia:Indonesia:Indon&eacute;sie:-5:120">Indonesia</option> 
+<option value="Iran, Islamic Republic of:Ir&aacute;n, Rep&uacute;blica Isl&aacute;mica de:Iran, R&eacute;publique Islamique d':32:53">Iran, Islamic Republic of</option> 
+<option value="Iraq:Irak:Irak:33:44">Iraq</option> 
+<option value="Ireland:Irlanda:Irlande:53:-8">Ireland</option> 
+<option value="Israel:Israel:Isra&euml;l:31.5:34.75">Israel</option> 
+<option value="Italy:Italia:Italie:42.8333:12.8333">Italy</option> 
+<option value="Jamaica:Jamaica:Jama&iuml;que:18.25:-77.5">Jamaica</option> 
+<option value="Japan:Jap&oacute;n:Japon:36:138">Japan</option> 
+<option value="Jordan:Jordania:Jordan:31:36">Jordan</option> 
+<option value="Kazakhstan:Kazajst&aacute;n:Kazakhstan:48:68">Kazakhstan</option> 
+<option value="Kenya:Kenia:Kenya:1:38">Kenya</option> 
+<option value="Kiribati:Kiribati:Kiribati:1.4167:173">Kiribati</option> 
+<option value="Democratic People's Republic of Korea:Rep&uacute;blica de Corea:Cor&eacute;ee, R&eacute;epublique populaire d&eacute;emocratique de:40:127">Democratic People's Republic of Korea</option> 
+<option value="Republic of Korea:Corea del Sur:Cor&eacute;e du Sud:37:127.5">Republic of Korea</option> 
+<option value="Kuwait:Kuwait:Kowe&iuml;t:29.3375:47.6581">Kuwait</option> 
+<option value="Kyrgyzstan:Kirguist&aacute;n:Kirghizistan:41:75">Kyrgyzstan</option> 
+<option value="Lao PDR:Rep&uacute;blica Democr&aacute;tica Popular Lao:R&eacute;publique D&eacute;mocratique Populaire Lao:18:105">Lao PDR</option> 
+<option value="Latvia:Letonia:Lettonie:57:25">Latvia</option> 
+<option value="Lebanon:L&iacute;bano:Liban:33.8333:35.8333">Lebanon</option> 
+<option value="Lesotho:Lesoto:Lesotho:-29.5:28.5">Lesotho</option> 
+<option value="Liberia:Liberia:Liberia:6.5:-9.5">Liberia</option> 
+<option value="Libya:Libia:Libia:25:17">Libya</option> 
+<option value="Lithuania:Lituania:Lituanie:56:24">Lithuania</option> 
+<option value="Luxembourg:Luxemburgo:Luxembourg:49.75:6.1667">Luxembourg</option> 
+<option value="Macao, China:Macao, China:Macao, Chine:22.1667:113.55">Macao, China</option> 
+<option value="TFYR Macedonia:ex Rep&uacute;blica Yugoslava de Macedonia:ERY Mac&eacute;doine:41.8333:22">Macedonia, TFYR</option> 
+<option value="Madagascar:Madagascar:Madagascar:-20:47">Madagascar</option>
+<option value="Malawi:Malawi:Malawi:-13.5:34">Malawi</option>
+<option value="Malaysia:Malasia:Malaisie:2.5:112.5">Malaysia</option>
+<option value="Maldives:Maldivas:Maldives:3.25:73">Maldives</option>
+<option value="Mali:Mal&iacute;:Mali:17:-4">Mali</option>
+<option value="Malta:Malta:Malte:35.8333:14.5833">Malta</option> 
+<option value="Marshall Islands:Islas Marshall:&Icirc;les Marshall:9:168">Marshall Islands</option> 
+<option value="Mauritania:Mauritania:Mauritanie:20:-12">Mauritania</option> 
+<option value="Mauritius:Mauricio:Mauritius:-20.2833:57.55">Mauritius</option>
+<option value="Mexico:M&eacute;xico:Mexique:23:-102">Mexico</option>
+<option value="Micronesia, F.S.:Micronesia, F.S.:Micron&eacute;sie, F.S.:6.9167:158.25">Micronesia, F.S.</option> 
+<option value="Republic of Moldovia:Rep&uacute;blica de Moldavia:R&eacute;publique de Moldavie: 47:29">Republic of Moldovia</option> 
+<option value="Monaco:M&oacute;naco:Monaco:43.7333:7.4">Monaco</option> 
+<option value="Mongolia:Mongolia:Mongolie:46:105">Mongolia</option> 
+<option value="Montenegro:Montenegro:Mont&eacute;n&eacute;gro:42:19">Montenegro</option> 
+<option value="Montserrat:Montserrat:Montserrat:16.75:-62.2">Montserrat</option> 
+<option value="Morocco:Marruecos:Maroc:32:-5">Morocco</option> 
+<option value="Mozambique:Mozambique:Mozambique:-18.25:35">Mozambique</option> 
+<option value="Myanmar:Myanmar:Myanmar:22:98">Myanmar</option> 
+<option value="Namibia:Namibia:Namibia:-22:17">Namibia</option> 
+<option value="Nauru:Nauru:Nauru:-0.5333:166.9167">Nauru</option> 
+<option value="Nepal:Nepal:N&eacute;pal:28:84">Nepal</option> 
+<option value="Netherlands:Pa&iacute;ses Bajos:Pays-Bas:52.5:5.75">Netherlands</option> 
+<option value="New Zealand:Nueva Zelandia:Nouvelle-Z&eacute;lande:-41:174">New Zealand</option> 
+<option value="Nicaragua:Nicaragua:Nicaragua:13:-85">Nicaragua</option> 
+<option value="Niger:N&iacute;ger:Niger:16:8">Niger</option> 
+<option value="Nigeria:Nigeria:Nigeria:10:8">Nigeria</option> 
+<option value="Niue:Niue:Niue:-19.0333:-169.8667">Niue</option> 
+<option value="Norway:Noruega:Norv&egrave;ge:62:10">Norway</option> 
+<option value="Oman:Om&aacute;n:Oman:21:57">Oman</option> 
+<option value="Pakistan:Pakist&aacute;n:Pakistan:30:70">Pakistan</option> 
+<option value="Palau:Palau:Palau:7.5:134.5">Palau</option> 
+<option value="Palestine:Palestina:Palestine:32:35.25">Palestine</option> 
+<option value="Panama:Panam&aacute;:Panama:9:-80">Panama</option> 
+<option value="Papua New Guinea:Pap&uacute;a Nueva Guinea:Papouasie-Nouvelle-Guin&eacute;e:-6:147">Papua New Guinea</option> 
+<option value="Paraguay:Paraguay:Paraguay:-23:-58">Paraguay</option> 
+<option value="Peru:Per&uacute;:P&eacute;rou:-10:-76">Peru</option> 
+<option value="Philippines:Filipinas:Philippines:13:122">Philippines</option> 
+<option value="Poland:Polonia:Pologne:52:20">Poland</option> 
+<option value="Portugal:Portugal:Portugal:39.5:-8">Portugal</option> 
+<option value="Qatar:Katar:Qatar:25.5:51.25">Qatar</option> 
+<option value="Romania:Rumania:Roumanie:46:25">Romania</option> 
+<option value="Russian Federation:Rusia:Russie:60:100">Russian Federation</option> 
+<option value="Rwanda:Ruanda:Rwanda:-2:30">Rwanda</option> 
+<option value="Saint Kitts and Nevis:Saint Kitts y Nevis:Saint-Kitts-et-Nevis:17.3333:-62.75">Saint Kitts and Nevis</option> 
+<option value="Saint Lucia:Santa Luc&iacute;a:Sainte-Lucie:13.8833:-61.1333">Saint Lucia</option> 
+<option value="Saint Vincent and the Grenadines:San Vicente y las Granadinas:Saint-Vincent-et-les-Grenadines:13.25:-61.2">Saint Vincent and the Grenadines</option> 
+<option value="Samoa:Samoa:Samoa:-13.5833:-172.3333">Samoa</option> 
+<option value="San Marino:San Marino:San Marino:43.7667:12.4167">San Marino</option> 
+<option value="Sao Tome and Principe:Sao Tom&eacute; y Pr&iacute;ncipe:Sao Tom&eacute;-et-Principe:1:7">Sao Tome and Principe</option> 
+<option value="Saudi Arabia:Arabia Saudita:Arabie Saoudite:25:45">Saudi Arabia</option> 
+<option value="Senegal:Senegal:S&eacute;n&eacute;gal:14:-14">Senegal</option> 
+<option value="Serbia:Serbia:Serbie:44:21">Serbia</option> 
+<option value="Seychelles:Seychelles:Seychelles:-4.5833:55.6667">Seychelles</option> 
+<option value="Sierra Leone:Sierra Leona:Sierra Leone:8.5:-11.5">Sierra Leone</option> 
+<option value="Singapore:Singapur:Singapour:1.3667:103.8">Singapore</option> 
+<option value="Slovakia:Eslovaquia:Slovaquie:48.6667:19.5">Slovakia</option> 
+<option value="Slovenia:Eslovenia:Slov&eacute;nie:46:15">Slovenia</option> 
+<option value="Solomon Islands:Islas Salom&oacute;n:&Icirc;les Salomon:-8:159">Solomon Islands</option> 
+<option value="Somalia:Somalia:Somalie:10:49">Somalia</option> 
+<option value="South Africa:Sud&aacute;frica:Afrique du Sud:-29:24">South Africa</option> 
+<option value="Spain:Espa&ntilde;a:Espagne:40:-4">Spain</option> 
+<option value="Sri Lanka:Sri Lanka:Sri Lanka:7:81">Sri Lanka</option> 
+<option value="Sudan:Sud&aacute;n:Soudan:15:30">Sudan</option> 
+<option value="South Sudan:Sud&aacute;n del Sur:Sud-Soudan:4.8:31.6">South Sudan</option> 
+<option value="Suriname:Suriname:Suriname:4:-56">Suriname</option> 
+<option value="Swaziland:Swazilandia:Swaziland:-26.5:31.5">Swaziland</option> 
+<option value="Sweden:Suecia:Su&egrave;de:62:15">Sweden</option> 
+<option value="Switzerland:Suiza:Suisse:47:8">Switzerland</option> 
+<option value="Syrian Arab Republic:Siria:Syrie:35:38">Syrian Arab Republic</option> 
+<option value="Tajikistan:Tayikist&aacute;n:Tadjikistan:39:71">Tajikistan</option> 
+<option value="Tanzania, United Republic of:Rep&uacute;blica Unida de Tanzania:R&eacute;publique-Unie de Tanzanie:-6:35">Tanzania, United Republic of</option> 
+<option value="Thailand:Tailandia:Tha&iuml;lande:15:100">Thailand</option> 
+<option value="Timor-Leste:Timor-Leste:Timor-Leste:-8.55:125.5167">Timor-Leste</option> 
+<option value="Togo:Togo:Togo:8:1.1667">Togo</option> 
+<option value="Tokelau:Tokelau:Tokelau:-9:-172">Tokelau</option> 
+<option value="Tonga:Tonga:Tonga:-20:-175">Tonga</option> 
+<option value="Trinidad and Tobago:Trinidad y Tobago:Trinit&eacute;-et-Tobago:11:-61">Trinidad and Tobago</option> 
+<option value="Tunisia:T&uacute;nez:Tunisie:34:9">Tunisia</option> 
+<option value="Turkey:Turqu&iacute;a:Turquie:39:35">Turkey</option> 
+<option value="Turkmenistan:Turkmenist&aacute;n:Turkm&eacute;nistan:40:60">Turkmenistan</option> 
+<option value="Tuvalu:Tuvalu:Tuvalu:-8:178">Tuvalu</option> 
+<option value="Uganda:Uganda:Ouganda:1:32">Uganda</option> 
+<option value="Ukraine:Ucrania:Ukraine:49:32">Ukraine</option> 
+<option value="United Arab Emirates:Emiratos &aacute;rabes Unidos:&Eacute;mirats Arabes Unis:24:54">United Arab Emirates</option> 
+<option value="United Kingdom:Reino Unido:Royaume-Uni:52:-2">United Kingdom</option> 
+<option value="United States:Estados Unidos:&Eacute;tats-Unis:38:-97">United States</option> 
+<option value="Uruguay:Uruguay:Uruguay:-33:-56">Uruguay</option> 
+<option value="Uzbekistan:Uzbekist&aacute;n:Ouzb&eacute;kistan:41:64">Uzbekistan</option> 
+<option value="Vanuatu:Vanuatu:Vanuatu:-16:167">Vanuatu</option> 
+<option value="Venezuela:Venezuela:Venezuela:8:-66">Venezuela, B.R.</option> 
+<option value="Viet Nam:Viet Nam:Viet Nam:16:106">Viet Nam</option>                                   
+<option value="Yemen:Yemen:Y&eacute;men:15:48">Yemen</option> 
+<option value="Zambia:Zambia:Zambie:-15:30">Zambia</option> 
+<option value="Zimbabwe:Zimbabue:Zimbabwe:-20:30">Zimbabwe</option>
+
+			</select>   							
+							</li>
+                            
+                            
+                            
+                            
+                            
+                            <li>
+								<label for="Organization">Organization/university/school</label>
+								<input type="text" name="Organization" id="Organization" tabindex="4" class="required input-text" />    							
+							</li> 
+							
+                            
+                            
+							<li>
+								<label for="Email">Email <span>*</span></label>
+								<input type="text" name="Email" id="Email" tabindex="5" class="required email input-text"  autocomplete="off"/>    							
+							</li> 
+							
+							
+                            
+							<li class="Optin">
+								
+                                <input name="Optin" checked id="Optin" type="checkbox" value="yes" tabindex="6" />
+                                <label for="Optin" class="OptinLabel">I would like to receive emails from the EFA Global Monitoring Report team on education.</label>
+                                <p class="disclaimer">By ticking this box you are agreeing to receive monthly emails about the work of the EFA Global Monitoring Report team. You can unsubscribe at any time.</p>
+							</li>    
+                            
+                            <li class="last checkboxgroup">
+								<p>Areas of interest:</p>
+                                    <input id="Education" type="checkbox" name="chk_group[]" value="Education" /><label for="Education">Education</label>
+                                    <input id="Growth" type="checkbox" name="chk_group[]" value="Growth" /><label for="Growth">Growth</label>
+                                    <input id="Environment" type="checkbox" name="chk_group[]" value="Environment" /><label for="Environment">Environment</label>
+                                    <input id="Gender" type="checkbox" name="chk_group[]" value="Gender" /><label for="Gender">Gender</label>
+                                    <input id="Politics" type="checkbox" name="chk_group[]" value="Politics" /><label for="Politics">Politics</label>      
+                                    <input id="Health" type="checkbox" name="chk_group[]" value="Health" /><label for="Health">Health</label>
+                                    <input id="Employment" type="checkbox" name="chk_group[]" value="Employment" /><label for="Employment">Employment</label>
+                                   
+                                    
+                                    			
+							</li>       
+						 </ul>
+                         
+						 <p class="form-submit"><a class="btn" href="javascript: validateForm()">Take action</a>             
+                         
+                         <!--<input style="display:block;" onclick="return submitForm()" class="btn" value="Take action">-->
+                         </p>
+					</form> 
+				</div>	
+                
+                
+                
+
+<script>
+
+
+function submitform()
+{
+		document.actionform.action="http://www.education-transforms.org/en/";
+ 
+ 
+ document.forms["actionform"].submit();
+}
+
+
+
+
+function validateForm()
+{
+	
+	
+	if (document.actionform.FirstName.value == "" || document.actionform.LastName.value == "" || document.actionform.Country.value == "" || document.actionform.Email.value == "" ) {
+		
+		alert("Please fill in all the required fields");
+		
+	} else {
+		
+		submitform();
+		
+	}
+
+
+
+}
+
+		
+function enableButton()
+{
+	
+	
+	if (document.actionform.FirstName.value == "" || document.actionform.LastName.value == "" || document.actionform.Country.value == "" || document.actionform.Email.value == "" ) {
+		document.getElementById("submit").style.display = 'none';
+		document.getElementById("form-submit-disabled").style.display = 'block';
+	} else {
+		document.getElementById("form-submit-disabled").style.display = 'none';
+		document.getElementById("submit").style.display = 'block';
+	}
+
+
+
+}
+
+
+
+</script>
+
+
+                
+                
+                
+			</div>	
+	</section>
+	
+                  
+                    
+<div class="clearboth"></div>
+				</div>
+				
+
+<div class="actionCount" style="font-size:22px">Sign up today and join people from around the world &ndash; all supporting Education For All</div>
+<!--TR _ REINSTATE WHEN MORE SUPPORTERS 
+<div class="actionCount">Sign up today and join <span class="actionBigText">5021</span> people from <span class="actionBigText">54</span> countries supporting an Education For All</div>
+-->
+
+
+<!-- END .petition_page --> 
+			</div>
+		</div>
+
+
+
+	<!--CONTAINER-->
+	<div id="container">
+
+		<section class="wrap">
+
+			<!--HEADER-->
+			<header>
+   <div id="petition_wrap">
+<span class="languages" style="
+    margin-right: 30px;
+"><strong>EN</strong> | <a href="http://www.education-transforms.org/es/">ES</a> | <a href="http://www.education-transforms.org/fr/">FR</a></span>
+            
+            	<div id="petition_tab">Take action<span class="drop-down-arrows">&nbsp;</span></div>
+</div>
+				<!--LOGO AND MENU-->			
+				<div class="clear">
+					<!--LOGO-->
+					<div class="logo">
+						<h1>
+							<a href="http://www.education-transforms.org/en">
+								<img src="http://www.education-transforms.org/en/wp-content/uploads/2013/09/unesco_logo-300x121.gif" alt="education-transforms" title="education-transforms" />							</a>
+						</h1>
+					</div>
+					<!--MENU-->
+					<nav>
+						<div id="dropdown" class="menu clear"><ul id="menu-main-menu" class="sf-menu"><li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-145"><a href="http://www.education-transforms.org/en/">Home</a></li>
+<li id="menu-item-288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="http://www.education-transforms.org/en/?page_id=159">Take action</a></li>
+<li id="menu-item-173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="http://www.education-transforms.org/en/?page_id=168">Interactive map</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://www.education-transforms.org/en/?page_id=121">About</a></li>
+<li id="menu-item-494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-494"><a href="http://www.education-transforms.org/en/?page_id=471">Tweetchat</a></li>
+</ul></div>						<select id="mselect"></select>
+					</nav>
+				</div>	
+			</header>
+
+
+	<!--CUSTOM SIDEBAR-->
+	
+	
+	<div class="pcontent"><h1>Education’s transformative power lights up every stage of the journey to a better life. <a href="http://www.education-transforms.org/en/?page_id=159">Take action</a> to ensure education’s central place in all new development goals after 2015.</h1>
+<pre><a href="http://unesdoc.unesco.org/images/0022/002231/223115E.pdf" target="_blank">Download the full booklet of infographics showing ‘Education Transforms’</a></pre>
+</div>
+	<!--OUR WORKS-->
+	<section id="projects" class="our-works home-portfolio">
+		<h4>Our Works</h4>
+				<div class="cat-list">
+								<ul class="filter">						<li class="current">
+							<a href="javascript:void(0)" class="all">
+								All							</a>
+						</li>
+							
+			</ul>
+		</div>
+		
+		<!--LIST-->
+		<ul class="showcase">
+								
+			<li  data-id="id-" data-type="" >
+				<div class="thumbs-animate">
+					<img width="255" height="191" src="http://www.education-transforms.org/en/wp-content/uploads/2013/08/overarching1-255x191.gif" class="attachment-322x191 wp-post-image" alt="overarching" title="Education transforms lives" />	
+					<div class="details">
+						<h5><a href="http://www.education-transforms.org/en/?portfolio=testing-hidden">Education transforms lives</a></h5>
+						<p>Education lights every stage of the journey to a better life, especially for the poor and &#8230;</p>
+						<a href="http://www.education-transforms.org/en/?portfolio=testing-hidden" class="btn">
+							View infographic						</a>
+					</div>
+				</div>
+			</li>
+							
+			<li  data-id="id-1" data-type="" >
+				<div class="thumbs-animate">
+					<img width="322" height="191" src="http://www.education-transforms.org/en/wp-content/uploads/2013/09/lives322-322x191.gif" class="attachment-322x191 wp-post-image" alt="lives322" title="A matter of life and death" />	
+					<div class="details">
+						<h5><a href="http://www.education-transforms.org/en/?portfolio=test-a-matter-of-life-and-death">A matter of life and death</a></h5>
+						<p>A mother’s education is crucial for her own health. Every day, almost 800 women die from &#8230;</p>
+						<a href="http://www.education-transforms.org/en/?portfolio=test-a-matter-of-life-and-death" class="btn">
+							View infographic						</a>
+					</div>
+				</div>
+			</li>
+							
+			<li  data-id="id-2" data-type="" >
+				<div class="thumbs-animate">
+					<img width="322" height="191" src="http://www.education-transforms.org/en/wp-content/uploads/2013/09/survival322-322x191.gif" class="attachment-322x191 wp-post-image" alt="survival322" title="Educating girls can save millions of lives" />	
+					<div class="details">
+						<h5><a href="http://www.education-transforms.org/en/?portfolio=test-educating-girls-can-save-millions-of-lives">Educating girls can save millions of lives</a></h5>
+						<p>Educating girls can save millions of lives. There are few more dramatic illustrations of the &#8230;</p>
+						<a href="http://www.education-transforms.org/en/?portfolio=test-educating-girls-can-save-millions-of-lives" class="btn">
+							View infographic						</a>
+					</div>
+				</div>
+			</li>
+							
+			<li  data-id="id-3" data-type="" >
+				<div class="thumbs-animate">
+					<img width="322" height="191" src="http://www.education-transforms.org/en/wp-content/uploads/2013/09/health322-322x191.gif" class="attachment-322x191 wp-post-image" alt="health322" title="Educated mothers, healthy children" />	
+					<div class="details">
+						<h5><a href="http://www.education-transforms.org/en/?portfolio=test-2-2-educating-girls-can-save-millions-of-lives">Educated mothers, healthy children</a></h5>
+						<p>Educating girls can save millions of lives. There are few more dramatic illustrations of the &#8230;</p>
+						<a href="http://www.education-transforms.org/en/?portfolio=test-2-2-educating-girls-can-save-millions-of-lives" class="btn">
+							View infographic						</a>
+					</div>
+				</div>
+			</li>
+							
+			<li  data-id="id-4" data-type="" >
+				<div class="thumbs-animate">
+					<img width="322" height="191" src="http://www.education-transforms.org/en/wp-content/uploads/2013/09/nutrition322-322x191.gif" class="attachment-322x191 wp-post-image" alt="nutrition322" title="Education keeps hunger away" />	
+					<div class="details">
+						<h5><a href="http://www.education-transforms.org/en/?portfolio=test-education-keeps-hunger-away">Education keeps hunger away</a></h5>
+						<p>Education is vital to eliminate malnutrition in the long term – especially education that empowers &#8230;</p>
+						<a href="http://www.education-transforms.org/en/?portfolio=test-education-keeps-hunger-away" class="btn">
+							View infographic						</a>
+					</div>
+				</div>
+			</li>
+							
+			<li  data-id="id-5" data-type="" >
+				<div class="thumbs-animate">
+					<img width="322" height="191" src="http://www.education-transforms.org/en/wp-content/uploads/2013/09/employment322-322x191.gif" class="attachment-322x191 wp-post-image" alt="employment322" title="Education enhances job opportunities" />	
+					<div class="details">
+						<h5><a href="http://www.education-transforms.org/en/?portfolio=test-education-enhances-job-opportunities">Education enhances job opportunities</a></h5>
+						<p>Education enhances job opportunities, helping households to escape poverty. Educated men and women are more &#8230;</p>
+						<a href="http://www.education-transforms.org/en/?portfolio=test-education-enhances-job-opportunities" class="btn">
+							View infographic						</a>
+					</div>
+				</div>
+			</li>
+							
+			<li  data-id="id-6" data-type="" >
+				<div class="thumbs-animate">
+					<img width="322" height="191" src="http://www.education-transforms.org/en/wp-content/uploads/2013/09/women322-322x191.gif" class="attachment-322x191 wp-post-image" alt="women322" title="Learning lessens early marriages and births" />	
+					<div class="details">
+						<h5><a href="http://www.education-transforms.org/en/?portfolio=test-learning-lessens-early-marriages-and-births">Learning lessens early marriages and births</a></h5>
+						<p>Education empowers women to overcome discrimination. Girls and young women who are educated have greater &#8230;</p>
+						<a href="http://www.education-transforms.org/en/?portfolio=test-learning-lessens-early-marriages-and-births" class="btn">
+							View infographic						</a>
+					</div>
+				</div>
+			</li>
+							
+			<li  data-id="id-7" data-type="" >
+				<div class="thumbs-animate">
+					<img width="322" height="191" src="http://www.education-transforms.org/en/wp-content/uploads/2013/09/tolerance322-322x191.gif" class="attachment-322x191 wp-post-image" alt="tolerance322" title="Love thy neighbour" />	
+					<div class="details">
+						<h5><a href="http://www.education-transforms.org/en/?portfolio=test-love-thy-neighbour">Love thy neighbour</a></h5>
+						<p>Education is indispensable in strengthening the bonds that hold communities and societies together. Education helps &#8230;</p>
+						<a href="http://www.education-transforms.org/en/?portfolio=test-love-thy-neighbour" class="btn">
+							View infographic						</a>
+					</div>
+				</div>
+			</li>
+							
+			<li  data-id="id-8" data-type="" >
+				<div class="thumbs-animate">
+					<img width="322" height="191" src="http://www.education-transforms.org/en/wp-content/uploads/2013/09/economic322-322x191.gif" class="attachment-322x191 wp-post-image" alt="economic322" title="Economic growth" />	
+					<div class="details">
+						<h5><a href="http://www.education-transforms.org/en/?portfolio=test-educated-growth">Economic growth</a></h5>
+						<p>Equal education boosts economic growth. Education not only helps individuals escape poverty by developing the &#8230;</p>
+						<a href="http://www.education-transforms.org/en/?portfolio=test-educated-growth" class="btn">
+							View infographic						</a>
+					</div>
+				</div>
+			</li>
+							
+			<li  data-id="id-9" data-type="" >
+				<div class="thumbs-animate">
+					<img width="322" height="191" src="http://www.education-transforms.org/en/wp-content/uploads/2013/09/environment322-322x191.gif" class="attachment-322x191 wp-post-image" alt="environment322" title="Schooling can save the planet" />	
+					<div class="details">
+						<h5><a href="http://www.education-transforms.org/en/?portfolio=test-schooling-can-save-the-planet">Schooling can save the planet</a></h5>
+						<p>Education is part of the solution to global environmental problems. People with more education tend &#8230;</p>
+						<a href="http://www.education-transforms.org/en/?portfolio=test-schooling-can-save-the-planet" class="btn">
+							View infographic						</a>
+					</div>
+				</div>
+			</li>
+				</ul>
+
+	</section>
+    
+
+
+			<div id="text-8" class="widget widget_text">			<div class="textwidget"><h5 style="margin-top:48px;">ON TWITTER</h5>
+
+<script src="http://www.education-transforms.org/fr/wp-content/themes/square/js/tweet.js"></script>
+
+   <!--   
+
+UNCOMMENT THIS AND COMMENT OUT THE SCRIPT ABOVE TO RETURN TO ONE TWEET
+
+    <script src="http://www.education-transforms.org/en/wp-content/themes/square/js/tweet_one.js"></script>
+
+-->
+
+<div id="latestTweet"></div>
+
+<div id="allTweets"><a href="https://twitter.com/EFAReport">All tweets</a></div></div>
+		</div>
+
+
+   <!-- <h5 style="margin-top:48px;">ON TWITTER</h5>
+    
+    <script src="http://www.education-transforms.org/en/wp-content/themes/square/js/tweet.js"></script>
+
+      <div id="latestTweet"></div> -->
+  
+
+
+		<footer>
+			<!--FOOTER WIDGETS-->
+			<div class="footer-widgets  clear">
+	<div id="gettouch-4" class="widget widget-get-in-touch"><h5>Follow us</h5>	
+
+				<!--FOLLOW US-->
+				<p>Stay up to date with all the latest from the EFA Global Monitoring Report.</p>
+				<ul>
+												<li><a href="http://twitter.com/EFAReport" title="Follow us on Twitter"><img src="http://www.education-transforms.org/en/wp-content/themes/square/img/icons/twitter.png" alt="" title="" /></a></li>
+														<li><a href="http://facebook.com/efareport" title="Visit our Facebook page"><img src="http://www.education-transforms.org/en/wp-content/themes/square/img/icons/facebook.png" alt="" title="" /></a></li>
+														<li><a href="http://www.linkedin.com/groups?gid=4349287" title="Visit us on LinkedIn"><img src="http://www.education-transforms.org/en/wp-content/themes/square/img/icons/linkedin.png" alt="" title="" /></a></li>
+														<li><a href="http://efareport.wordpress.com" title="Read our blog"><img src="http://www.education-transforms.org/en/wp-content/themes/square/img/icons/rss.png" alt="" title="" /></a></li>
+											</ul>
+
+				</div><div id="text-7" class="widget widget_text"><h5>Take action</h5>			<div class="textwidget">Sign our petition and join the call to ensure education’s central place in all new development goals after 2015. <br><br><a href="http://www.education-transforms.org/en/?page_id=159" class="btn">Take action now</a></div>
+		</div><div id="text-6" class="widget widget_text"><h5>In depth</h5>			<div class="textwidget">Find out more about the Education for All Global Monitoring Report and read the reports.<br><br><a href="http://www.unesco.org/new/en/education/themes/leading-the-international-agenda/efareport/" class="btn">Visit the website</a></div>
+		</div><div id="text-5" class="widget widget_text"><h5>Interactive map</h5>			<div class="textwidget">Find out where people are taking action to support the call for an Education For All.<br><br><a href="http://www.education-transforms.org/en/?page_id=168" class="btn">View the map</a></div>
+		</div></div>			
+			<!--FOOTER-->
+			<div class="footer-main">
+				<label class="copyright">
+					© 2013 UNESCO. All rights reserved. <a href=?page_id=366><u>Disclaimer</u></a> - <a href=?page_id=369><u>Contact us</u></a>.				</label>
+				<a href="#" id="toTop">&nbsp;</a>		
+			</div>
+		</footer>
+
+	</section>
+</div>
+
+		<script type="text/javascript">
+			var $j = jQuery.noConflict();
+
+			
+			$j(function(){
+				$j(".thumbs-animate").hover(function(){
+					$j("img", this).fadeOut("fast");
+				}, function() {
+					$j("img", this).fadeIn("fast");
+				});
+
+
+
+
+
+
+
+				$j(".thumbs-animate").hover(function(){
+					$j("iframe", this).stop().fadeOut({queue:false,duration:400});
+				}, function() {
+					$j("iframe", this).stop().fadeIn({queue:false,duration:400});
+				});
+
+				$j(".thumbs-team-animate").hover(function(){
+					$j("img.wp-post-image", this).stop().fadeOut({queue:false,duration:400});
+				}, function() {
+					$j("img.wp-post-image", this).stop().fadeIn({queue:false,duration:400});
+				});
+
+			});
+		</script>
+							<script type="text/javascript">
+						var $j = jQuery.noConflict();
+						jQuery(document).ready(function() {							
+							function portfolio_quicksand() {
+								var $filter; var $container; var $containerClone; var $filterLink; var $filteredItems
+								$filter = $j('.filter li.current a').attr('class');
+								$filterLink = $j('.filter li a');
+								$container = $j('ul.showcase');
+								$containerClone = $container.clone();
+								$filterLink.click(function(e) {
+									$j('.filter li').removeClass('current');
+									$filter = $j(this).attr('class').split(' ');
+									$j(this).parent().addClass('current');
+									if ($filter == 'all') {	$filteredItems = $containerClone.find('li'); }
+									else { $filteredItems = $containerClone.find('li[data-type~=' + $filter + ']'); }
+									$container.quicksand($filteredItems, { duration: 750, easing: 'easeInOutCirc',	adjustHeight: 'dynamic' });
+									$container.quicksand($filteredItems, function () { hover_thumb(); });
+								});
+							}		
+							
+							//TR - THIS CONTROLS THE ROLLOVER AFTER THE FILTER IS CLICKED						
+							if(jQuery().quicksand) { portfolio_quicksand();	}
+							function hover_thumb() {
+								$j(".thumbs-animate").hover(function(){ $j("img", this).fadeOut("fast"); }, function() {
+									$j("img", this).fadeIn("fast");
+								});
+								//$j(".thumbs-animate").hover(function(){ $j("iframe", this).stop().animate({bottom:"-300px"},{queue:false,duration:400}); }, function() {
+								//	$j("iframe", this).stop().animate({bottom:"0px"},{queue:false,duration:400});
+								//});
+								$j(".thumbs-animate").hover(function(){ $j("iframe", this).fadeOut("fast"); }, function() {
+									$j("iframe", this).fadeOut("fast");
+								});
+							}							
+						}); 
+					</script>
+					<script type='text/javascript' src='http://www.education-transforms.org/en/wp-content/themes/square/js/jquery.tweet.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.education-transforms.org/en/wp-content/themes/square/js/tabs/jquery.tabs.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.education-transforms.org/en/wp-content/themes/square/js/superfish/superfish.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.education-transforms.org/en/wp-content/themes/square/js/tipsy/jquery.tipsy.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.education-transforms.org/en/wp-content/themes/square/js/scrolltop.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.education-transforms.org/en/wp-content/themes/square/js/jquery.easing.1.3.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.education-transforms.org/en/wp-content/themes/square/js/jquery.backstretch.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.education-transforms.org/en/wp-content/themes/square/js/quicksand/jquery.quicksand.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.education-transforms.org/en/wp-content/themes/square/js/css3-mediaqueries.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.education-transforms.org/en/wp-content/themes/square/js/selectbox.js?ver=3.5.1'></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43169747-1', 'education-transforms.org');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>
+
+		
+		
+		
+		
+

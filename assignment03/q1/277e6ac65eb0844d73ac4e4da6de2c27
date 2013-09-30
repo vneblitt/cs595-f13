@@ -1,0 +1,1241 @@
+ 
+
+  
+   
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="styles/JA_dgstyle.css"  type="text/css" />
+<link rel="stylesheet" href="styles/dgprint_detail.css" type="text/css" media="print" />
+
+<title>Martin Luther King, Jr. (left) and Eslanda Goode Robeson (right) - ID: 3884269 - NYPL Digital Gallery</title>
+
+<LINK REL="SCHEMA.dc" HREF="http://purl.org/dc/elements/1.1/">
+
+<META NAME="dc.Title" CONTENT="Martin Luther King, Jr. (left) and Eslanda Goode Robeson (right)." />
+<META NAME="dc.Subject" CONTENT="King, Martin Luther, Jr., 1929-1968" />
+<META NAME="dc.Coverage" CONTENT="[1939?]-[1989?]" />
+<META NAME="dc.Format" CONTENT="jpeg" />
+<META NAME="dc.Type" CONTENT="StillImage" />
+<META NAME="dc.Contributor" CONTENT="Manchanda, Claudia -- Collector" />
+
+<META NAME="dc.Date" CONTENT="2011-09-07" />
+<META NAME="dc.Relation" CONTENT="Claudia Jones Memorial photograph collection  / Eslanda Goode Robeson" />
+<META NAME="dc.Identifier" CONTENT="http://digitalgallery.nypl.org/nypldigital/id?3884269" />
+<META NAME="dc.Rights" CONTENT="See copyright note" />
+<META NAME="dc.Source" CONTENT="http://catalog.nypl.org/record=b16060681" />
+
+
+<link rel="image_src" href="http://images.nypl.org/?id=3884269&t=t" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- begin scripts -->
+
+
+<script language="JavaScript" type="text/javascript" src="scripts/_show_search.js"></script>
+<script language="JavaScript" type="text/javascript" src="scripts/_show_metadata.js"></script>
+<script language="JavaScript" type="text/javascript" src="scripts/_show_bracket.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="scripts/_display_openwindow.js"></script>
+<script language="JavaScript" type="text/javascript" src="scripts/_select_topics.js"></script>
+<script language="JavaScript" type="text/javascript" src="scripts/_random_openwindow.js"></script>
+<script language="JavaScript" type="text/javascript" src="scripts/_selections_openwindow.js"></script>
+<script defer charset="utf-8" type="text/javascript" language="javascript1.2">
+				function RedirectURI(Params)
+				{
+				    
+				    var Platform = PlatformCheck();
+				    var Browser = BrowserCheck();
+				    var BrowserCode = Platform + Browser;
+
+				    if (BrowserCode != "xx")
+				    {
+				        
+				        NewURI = "z=" + BrowserCode + "&" + Params;
+				        
+				        return NewURI;
+				    }
+				    else
+				        return Params;
+				}
+				
+				
+				function PlatformCheck()
+				{
+				    
+				    if (navigator.userAgent.indexOf("Windows CE") != -1)
+				    {
+				        return "winCE_";
+				    }
+				    
+				    else if (navigator.platform.indexOf("Win32") != -1)
+				    {
+				        return "win_";
+				    }
+				    
+				    else if (navigator.userAgent.indexOf("Mac") != -1)
+				    {
+				        return "mac_";
+				    }
+				    
+				    else if (navigator.userAgent.indexOf("Linux") != -1)
+				    {
+				        return "lin_";
+				    }
+				    
+				    else if (navigator.userAgent.indexOf("SunOS") != -1)
+				    {
+				        return "sun_";
+				    }
+				    
+				    else
+				    {
+				        return "xx";
+				    }
+				}
+				
+				
+				function BrowserCheck()
+				{
+				    
+				    if (navigator.appName == "Netscape" && CheckForOpera() == 'false')
+				    {
+				    if (parseInt(navigator.appVersion) == 4)
+				    {
+				        return "ns";
+				    }
+				    
+				    else if (navigator.appName == "Netscape" && CheckForOpera() == 'false' && parseInt(navigator.appVersion) >= 5)
+				    {
+				        return "ns6";
+				    }
+				    }
+				    
+				    else if (navigator.appName == "Microsoft Internet Explorer" && CheckForOpera() == 'false')
+				    {
+				        
+				        var VersionNum = parseInt(navigator.appVersion);
+				        
+				        if (VersionNum >= 4)
+				        {
+				            return "ie";
+				        }
+				    }
+				    else if (CheckForOpera() == "true" && parseInt(navigator.appVersion) >= 4)
+				    {
+				        return "opr";
+				    }
+				    else
+				    {
+				        return "xx";
+				    }
+				}
+				
+				
+				function CheckForOpera ()
+				{
+				    if (navigator.userAgent.indexOf("Opera") > -1)
+				    {
+				        return "true";
+				    }
+				    else
+				    {
+				        return "false";
+				    }
+				}
+			</script><script defer charset="utf-8" type="text/javascript" language="javascript">
+		    var version = 1;
+		</script><script defer charset="utf-8" type="text/javascript" language="javascript1.1">
+		    var version = 1.1;
+		</script><script defer charset="utf-8" type="text/javascript" language="javascript1.2">
+		    var version = 1.2;
+		</script><script defer language="javascript1.1" type="text/javascript">
+		    function GoBack()
+		    {
+		        if (document.referrer != "")
+		        {
+		            document.location.href = document.referrer;
+		        }
+		        else
+		        {
+		            document.location.href = 'browse?props=item(Name,Description),cat(Name,Description)';
+		        }
+		    }
+		</script><script defer charset="utf-8" type="text/javascript" language="javascript">
+		    function RedirectURIWrap(Command,Params,name)
+		    {
+		        //Params = Params + "&style=" + Style;
+		        if (version >= 1.2)
+		        {
+		            Params = RedirectURI(Params);
+		            var win = NewWindow(Command,Params,name);
+		            win.focus();
+		        }
+		        else
+		            document.location.href = Command + Params;
+		    }
+		
+		    function NewWindow(Command,Params,name)
+		    {
+			    var width = '500';
+			    var height = '520';
+			    return window.open(Command + Params,name,',alwaysraised=yes,dependent=no,resizable=yes,status=no,toolbar=no,width=' + width + ',height=' + height);
+		    }
+		</script>
+<!-- /scripts -->
+</head>
+<body>
+
+<!-- HEADER -->
+		
+		
+		
+				
+				
+		
+		
+		
+			
+			
+				
+			
+		
+
+
+
+<div id="header">
+<div id="top"></div>
+
+
+<style type="text/css">
+#prefsnav .survey a {
+color: #c62829;
+font-size: 14px;
+text-decoration: underline;
+}
+</style>
+
+		<div id="prefsnav" style="padding: 10px 20px;">
+
+		
+		<span class="survey"><a href="http://digitalcollections.nypl.org">Try the new NYPL Digital Collections website (in beta)!</a></span>        
+
+		        <a href="#" onClick="newWindow('/nypldigital/dgselections.cfm?trg=1','SelectionsDisplay')">My Selections</a> | <a href="/nypldigital/preferences.cfm">Change Display</a> | <a href="/nypldigital/historyresults.cfm">Search History</a> | <a href="/nypldigital/dgadvsearch.cfm">Advanced Search</a> | <a href="/nypldigital/dghelp.cfm">Help</a>
+		</div>
+
+<!--[if IE 6]>
+<style type="text/css">
+/* JA: THIS CORRECTS ALIGNMENT OF SEARCH BOX ELEMENTS IN HEADER */
+#topheader {
+padding:3px 5px 13px 5px;
+}
+#topheader li img{
+padding: 5px 5px 0 0;
+}
+.gobutton {
+padding: 3px 0 0 0;
+}
+</style>
+<![endif]-->        
+        
+    <div id="topheader">
+        <a href="/nypldigital/index.cfm"><img class="left" src="/nypldigital/images/hdrlogo-sub.gif" alt="NYPL Digital Gallery" title="Home"></a>
+        
+        <form name="form1" action="/nypldigital/dgkeysearchresult.cfm" onsubmit="this.submit();return false;">
+            <ul class="right">
+                <li><img src="/nypldigital/images/search-sub.gif" alt="search"></li>
+                <li><input name="keyword" type="text" value="" style="width:200px"></li>
+                <li><input class="gobutton" name="submit" src="/nypldigital/images/srcharrow-sub.gif" type="image"></li>
+            </ul>
+        </form>
+        <div>&nbsp;</div>
+    </div>
+
+    <div id="topnav"><a href="/nypldigital/explore/dgexplore.cfm?topic=all">Collection Guides</a> | <a href="/nypldigital/dgcollectionbrowse.cfm">Library Divisions</a> | <a href="/nypldigital/dgsubjectbrowseresult.cfm">Subjects A-Z</a> | <a href="/nypldigital/dgnamebrowseresult.cfm">Names</a></div>
+
+</div>
+<!-- HEADER -->
+
+
+
+
+
+
+<style type="text/css">
+div.testcaption {
+font-size:1.1em;
+}
+div.testcaption a{
+color:#000;
+text-decoration:none;
+/*text-decoration:underline;*/
+font-size:1.1em;
+}
+div.testcaption a:visited {
+color:#000;
+text-decoration:none;
+/*text-decoration:underline;*/
+}
+div.testcaption a:hover, a:active {
+text-decoration:underline;
+color:#506a00;
+}
+div.testcaption p{
+font-size:1em;
+}
+div.testcaption h4{
+font-size:1.1em;
+padding-bottom:3px;
+}
+div.printcaption {
+font-size:1.1em;
+padding-right:8px;
+padding-top:0px;
+padding-left:0px
+}
+div.metacaption {
+font-size:1.1em;
+padding-right:8px;
+padding-top:8px;
+padding-left:20px
+}
+div.metacaption a{
+color:#506a00;
+text-decoration:none;
+/*text-decoration:underline;*/
+font-size:1.1em;
+}
+div.metacaption a:visited {
+color:#506a00;
+text-decoration:underline;
+/*text-decoration:underline;*/
+}
+div.metacaption a:hover, a:active {
+text-decoration:underline;
+color:#506a00;
+}
+div.metacaption p{
+font-size:1em;
+}
+div.metacaption h4{
+font-size:1.1em;
+padding-bottom:3px;
+}
+
+
+div.relatedcaption {
+font-size:1.1em;
+}
+div.relatedcaption a{
+color:#506a00;
+text-decoration:none;
+/*text-decoration:underline;*/
+font-size:1.1em;
+}
+div.relatedcaption a:visited {
+color:#506a00;
+text-decoration:none;
+/*text-decoration:underline;*/
+}
+div.relatedcaption a:hover, a:active {
+text-decoration:underline;
+color:#506a00;
+}
+div.relatedcaption p{
+font-size:1em;
+}
+div.relatedcaption h4{
+font-size:1.1em;
+padding-bottom:3px;
+}
+#advmetadata {
+display:hidden;
+}
+#advshowsearch {
+display:block;
+}
+#advhidesearch {
+display:none;
+}
+/* These set the 3 states for view more|less details msg - 1st one is default so doesn't need hidden style  -JBD*/
+#msgoff {
+display:none;
+}
+#msgon {
+display:none;
+}
+#showtip
+{
+display:none;
+}
+#showinfo
+{
+display:none;
+}
+/* This sets the state for view more|less gallery info msg */
+#showgallery
+{
+display:none;
+}
+/* These set the 3 states for view more|less search images msg - 1st one is default so doesn't need hidden style  -JBD*/
+#seaoff {
+display:none;
+}
+#seaon {
+display:none;
+}
+</style>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+		
+
+
+
+
+
+
+
+
+
+<!-- START: objmenu etc -->
+<!-- print check -->
+
+
+<span class="left" style="padding-left:28px">
+	<span class="objmenu">
+	<!--objmenu-->
+	
+	<br />
+  <p>
+	
+		
+			
+		
+	
+	</p>
+	<!--/objmenu-->
+	</span>
+<!--/print check-->
+</span>
+
+
+<span class="right" style="padding-right:20px">
+
+
+</span>
+<!-- /END: objmenu etc -->
+
+<br clear="left" />
+
+
+<!-- FRAME -->
+<div id="frame">
+
+
+	
+
+
+	<!-- RIGHT -->    
+
+	
+
+<div style="display:block">
+	<div id="right" style="float:left;padding-top:36px">
+		<div class="caption">
+		<div class="testcaption">
+		<br />
+
+			<h3 style="display:inline">Find More Images</h3>
+			<br />
+		 <span class="small">Click a category below, or select multiple categories and click "Go."</span>
+			<!--Searchdata widget-->
+			<div style="padding-left:5px;padding-top:5px">
+				<form name="relatedsearch" action="dgkeysearchresult.cfm" method="get" onsubmit="this.submit();return false;">
+					<input type="hidden" name="s" value="3">
+					<input type="hidden" name="sType" value="Rel">
+					
+					
+						
+						
+						
+						
+						
+						
+							
+							
+								
+								
+							
+						
+						
+						
+						
+						
+							
+								
+									
+									
+								
+							
+						
+						
+						
+							
+							
+								
+							
+						
+						
+					
+	
+					
+
+
+				
+					
+						
+						
+							
+						
+					
+				
+
+					
+					
+					
+						
+						
+						
+						
+							
+								
+								
+							
+						
+						
+						
+						
+							
+							
+						
+					
+					
+					
+					
+						
+						
+						
+						
+						
+						
+					
+					
+						<p style="padding-top:5px;padding-bottom:3px;"><h4>Subjects and Names</h4></p>
+							
+									
+									
+										<p><span id="cbox"><input name="r" type="checkbox" value="02fKing Martin Luther Jr. 1929-1968"></span> <a href="dgkeysearchresult.cfm?word=King%2C%20Martin%20Luther%2C%20Jr%2E%2C%201929%2D1968&s=3&notword=&f=2">King, Martin Luther, Jr., 1929-1968</a></p>
+									
+							
+									
+									
+										
+										<p><span id="cbox"><input name="r" type="checkbox" value="04fManchanda Claudia"></span> <a href="dgkeysearchresult.cfm?word=43906&s=1&notword=&f=13&sScope=Name&sLabel=Manchanda%2C%20Claudia">Manchanda, Claudia</a></p>
+                  
+							
+					
+         
+					
+					<p style="padding-top:5px;padding-bottom:3px;"><h4>Library Division</h4></p>
+					<p>
+						<span id="cbox"><input name="r" type="checkbox" value="12fsp"></span> <a href="dgkeysearchresult.cfm?word=div_id%3Asp&sScope=images&sLabel=Photographs%20and%20Prints%20Division">Schomburg Center for Research in Black Culture / Photographs and Prints Division</a><input type="hidden" name="rDiv" value="Photographs%20and%20Prints%20Division">
+					</p>
+					<p style="padding-top:8px"><input name="rOper" type="radio" value="2" checked>All <input name="rOper" type="radio" value="1" >Any &nbsp;<input name="submit" type="image" src="images/go.gif" style="padding-bottom:3px" align="absmiddle" border="0" onClick="if(document.relatedsearch.r.value!=''){document.relatedsearch.submit()}">
+					</p>
+				</form>
+			<!--/Searchdata widget-->
+			</div>
+		<!--/testcaption-->
+		</div>
+		<!--/caption-->
+		</div>
+  </div>
+	<!-- /RIGHT -->
+	</div>
+	<!-- CENTER -->    
+	
+	<div id="ctr" style="width:408px;float:left">
+
+
+<style>
+.imagecontrols_test {
+width:372px;
+margin-right:auto;
+margin-left:auto;
+}
+.imagecontrols_test img {
+padding-left:0px;
+padding-right:0px;
+padding-top:0px;
+padding-bottom:1px;
+}
+.imagecontrols_test li {
+float:left;
+padding-left:1px;
+padding-right:1px;
+padding-top:0px;
+padding-bottom:1px;
+}
+</style>
+
+
+
+
+
+
+
+	
+		
+		 	
+		
+	
+
+
+
+
+
+
+
+
+
+
+			<div class="imagecontrols_test">
+			<!--imagecontrols_test-->	
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Previous-->
+<span style="float:left;width:46px;padding-left:11px">
+	
+		
+		<img src="/nypldigital/images/spacer.gif" width="44" height="35" alt="" />
+	
+</span>
+<!--/Previous-->
+
+<span style="float:left;width:276px;text-align:center">
+
+<!--thumbs-->
+	
+
+<!--enlarge / midsize -->
+	
+		<a href="dgkeysearchdetail.cfm?trg=1&strucID=1963002&imageid=3884269&total=1&e=w"><img src="images/large.gif" width="36" height="35" hspace="0" border="0" alt="View Enlarged Image" title="View Enlarged Image"></a>
+	
+
+
+	<!--pan and zoom-->
+		
+
+	
+
+	<!--selection-->
+	 
+	
+	
+	
+	
+	
+			
+			
+				<a href="dgselections.cfm?trg=2&flag=1&strucID=1963002&imageID=3884269"><img src="images/select.gif" width="36" height="35" hspace="0" border="0" alt="Add to Selections" title="Add to Selections"></a>
+			
+	
+	
+
+	
+
+	
+	
+	
+	
+		
+			
+		
+	
+	
+	
+		
+		<!--buy print-->
+		
+		
+		<a href="#" onClick="MM_openBrWindowForce('photo_order_redirect.cfm?photo_name=3884269&t_url=3884269%26t%3Dw&title=Martin%20Luther%20King%2C%20Jr%2E%20%28left%29...%20Digital%20ID%3A%203884269&p=0','OrderDisplay','width=908,height=680,left=25,top=10,screenX=25,screenY=10,scrollbars=yes,toolbar=no,resizable=yes')"><img src="images/buy.gif" width="36" height="35" hspace="0" border="0" alt="Purchase Print or Photo Gift" title="Purchase Print or Photo Gift"></a>
+	
+
+<!--printer friendly-->
+	
+	<a href="?strucID=1963002&imageID=3884269&k=1&print=small"><img src="images/print.gif" width="36" height="35" hspace="0" border="0" alt="Printer-Friendly Version" title="Printer-Friendly Version"></a>
+</span>
+<span style="float:right;width:36px;padding-left:1px;padding-right:2px;text-align:right">
+<!--Next-->
+
+	
+	
+<!--/Next-->
+</span>
+
+
+
+<br clear="left" />
+				
+			<!--/imagecontrols_test-->	
+			</div>
+
+	<br clear="left" />
+
+	
+		<!-- Begin Object Display-->
+		<div>
+  		
+      <div id="hideprint">
+        <div id="leftbrkt"><img src="images/spacer.gif" width="14" height="47" /></div>
+      </div>
+
+
+			
+
+			<div id="objimage" style="padding-bottom:4px;width:338px">
+
+				<!--Begin Image Display -->
+				
+
+				
+
+				 
+				
+					
+				
+				
+					
+				
+				
+				
+					
+				
+	
+				
+				
+	
+				
+					
+				
+				
+				
+				
+				
+					
+				
+				
+				
+	
+				
+				
+				
+						<div style="text-align:center;margin-left:auto;margin-right:auto;padding:0px">
+							
+						
+						</div>
+				
+	
+				<div id="getimage">
+					<a href="dgkeysearchdetail.cfm?trg=1&strucID=1963002&imageid=3884269&total=1&e=w"><img src="http://images.nypl.org/index.php?id=3884269&t=r" width="300" height="236" border="0" align="absmiddle" alt="Martin Luther King, Jr. (left) and Eslanda Goode Robeson (right)." title="View Enlarged Image"></a>
+				</div>
+	
+        
+	
+				<span class="caption">
+					
+						
+									 
+									 
+										 
+												
+												<p style="padding-bottom:4px;padding-left:22px">Image ID: 3884269</p>
+												<p style="padding-bottom:0px;margin-bottom:2px;width:300px;padding-left:22px">
+										 
+												Martin Luther King, Jr. (left) and Eslanda Goode Robeson (right).
+					
+					
+	
+					
+					
+	
+					<!--show only one date (key_date), based on created 1st, pub 2nd, depicted 3rd-->
+					
+					
+
+            
+            
+              
+                
+              
+            
+
+						
+						
+						
+							
+							
+						
+						
+						
+					 </p>
+				</span>
+        <!--/caption-->
+        
+			<!--/objimage-->
+			</div>
+
+			
+			
+			<div id="rightbrkt"><img src="images/spacer.gif" width="14" height="47" /></div>
+			
+		
+		<!--/object-->
+		</div>
+
+		<!-- End Object Display-->
+		
+
+		<div id="metadata">
+			
+			
+				
+				
+					<img src="images/spacer.gif" width="46" height="15" alt="" />
+				
+			
+			
+			<div style="padding-top:12px;padding-left:16px" class="testcaption">
+			<!--testcaption-->
+				
+				
+					<h3 style="display:inline">Image Details</h3>
+				
+				
+					
+					
+				
+			<!--/testcaption-->
+			</div>
+			
+			<div id="keepmeta">
+
+			
+			
+			
+			<div class="metacaption">
+
+					
+					
+					<p style="padding-top:4px"><h4>Image Title</h4>:&nbsp;
+						
+							Martin Luther King, Jr. (left) and Eslanda Goode Robeson (right).
+						
+					</p>
+		
+				
+				
+				
+				
+						
+		
+						
+							
+							<p style="padding-top:4px"><h4>Additional Name(s)</h4>:
+									
+											
+										
+										Manchanda, Claudia&nbsp;--&nbsp;Collector
+									
+									
+								</p>
+							
+
+						
+
+		
+					
+						
+							
+					
+						
+		
+						
+						
+						
+		
+		
+						 
+					
+								<p style="padding-top:4px"><h4>Medium</h4>: Gelatin silver prints</p>
+					
+		
+							
+					
+						 <p style="padding-top:4px"><h4>Specific Material Type</h4>: photographs</p>
+					
+		
+					
+					
+		
+					
+								
+
+						
+		
+				
+					
+
+					
+
+        
+		
+					
+		
+					
+
+					
+
+					
+
+					
+		
+						 
+		
+						
+						<p style="padding-top:4px">
+							<h4>Source</h4>: 
+							Claudia Jones Memorial photograph collection  / Eslanda Goode Robeson 
+						</p>
+						
+
+					
+		
+					
+						<p style="padding-top:4px"><h4>Source Description</h4>:
+						
+								308 items (.54 cubic ft., 2 boxes)
+						
+						</p>
+					
+
+					
+
+					<p style="padding-top:4px">
+					
+					
+					
+								
+									<h4>Location</h4>:
+									
+										
+										
+											
+											Schomburg Center for Research in Black Culture&nbsp;/&nbsp;Photographs and Prints Division
+										
+									
+								
+					</p>
+
+					
+					
+							
+						<p style="padding-top:4px">
+						<h4>Catalog Call Number</h4>:
+							
+								Sc Photo Claudia Jones Memorial Collection
+							
+						</p>
+					
+
+					
+					<p style="padding-top:4px">
+					<h4>Digital ID</h4>:
+					3884269
+					</p>
+		
+					
+					<p style="padding-top:4px">
+					<h4>Record ID</h4>:
+          1963002
+					</p>
+		
+					<p style="padding-top:4px">
+					<h4>Digital Item Published</h4>:
+					9-7-2011
+					</p>
+
+					
+
+					
+
+					
+
+				
+          
+          
+            
+              
+            
+          
+				
+			<!--/testcaption-->
+			</div>
+			<!--/hide advmetadata-->
+			</div>
+
+		<!--/metadata (JA) -->
+		</div>
+	<!-- /CENTER -->
+  </div>
+
+<div style="display:block">
+
+	<!-- LEFT -->
+  <div id="left" style="text-align:left;float:left;padding-top:36px;padding-left:24px;width:255px">
+      
+    
+      
+
+			<div class="caption">
+				<div class="relatedcaption">
+			
+			
+			
+
+			<style type="text/css">
+			 #drill {
+			 margin-left:0px;
+			 padding:0px;
+			 }  
+				#drill a {
+				text-decoration: none;
+				color: #000;
+				}
+				#drill a:hover {
+				text-decoration:underline;
+				color: #506a00;
+				}
+				#drill li {
+					background-image:url(images/btn_list.gif);
+					background-position:0 0.3em;
+					background-repeat:no-repeat;
+					padding:0 0 6px 18px;
+				}
+				.drillitem {
+				float:left;
+				width:318px;
+				padding-bottom:6px;
+				}
+			 .drillin {
+				float:left;
+				padding-right:0px;
+				padding-top:0px;
+				width:18px;
+				}
+			 .drillintext {
+				float:left;
+				width:300px;
+				}
+			 .drillintext a{
+				color: #000;
+				}
+			 .drillintext a:hover{
+				text-decoration:underline;
+				color: #506a00;
+				}
+			</style>
+				<p style="padding-top:14px"><h3>Browse More</h3></p>
+		    <span class="small">Sources, libraries, guides, online catalog</span>
+				<div id="drill" style="padding-left:5px;padding-top:10px">
+				<ul>
+
+
+						
+						
+						
+              
+							
+							
+        		
+						
+              <li>
+							
+							
+							<a href="dgtitle_tree.cfm?title_id=1759510&level=1&imgs=20&snum=0">Claudia Jones Memorial photograph collection</a>  &gt; <a href="dgkeysearchresult.cfm?parent_id=2018977">Eslanda Goode Robeson </a>
+							</li>
+						
+					<li>
+						<a href="dgdivisionbrowseresult.cfm?div_id=sp">Schomburg Photographs and Prints Division</a>
+					</li>
+
+					
+
+					
+          
+          
+            
+            <li>
+              
+              <a href="http://catalog.nypl.org/record=b16060681" title="Sc Photo Claudia Jones Memorial Collection">Library Catalog Record</a>
+              
+            </li>
+          
+				</ul>
+				<!--/drill-->
+				</div>
+
+			<!--/testcaption -->
+			</div>
+		<!--/caption -->
+		</div>
+		
+
+		<div id="embed" style="margin-top:20px">
+		<div class="caption">
+		<div class="testcaption">
+			<h3>Link</h3>
+			<form name="linkForm">
+				<p>
+				Permalink (click to copy):
+				<br>
+				<input type="text" name="link_code" value='http://digitalgallery.nypl.org/nypldigital/id?3884269' style="width:184px;font-size:10px" onClick="javascript:document.linkForm.link_code.focus();document.linkForm.link_code.select();" readonly="true">
+				</p>
+				<p style="padding-top:3px">
+				Embed this image (click code)
+				<br />
+				<input type="text" name="image_code" value='<a href="http://digitalgallery.nypl.org/nypldigital/id?3884269" title="Martin Luther King, Jr. (left)... Digital ID: 3884269. New York Public Library"><img src="http://images.nypl.org/?id=3884269&t=r" alt="Martin Luther King, Jr. (left)... Digital ID: 3884269. New York Public Library" title="Martin Luther King, Jr. (left)... Digital ID: 3884269. New York Public Library"></a>' style="width:184px;font-size:10px" onClick="javascript:document.linkForm.image_code.focus();document.linkForm.image_code.select();" readonly="true">
+				</p>
+				
+			</form>
+		</div>
+		<!--/testcaption-->
+		</div>
+		<!--/caption-->
+		</div>
+		<!--/embed-->
+    <br />
+
+
+	</div>
+	<!--/ LEFT -->
+   </div>
+	<!--/Left-hide-->
+	</div>
+	<br clear="all" />
+</div>
+<!-- /FRAME -->
+<br clear="all" />
+	
+	<br />
+	<br />
+	<br />
+
+
+
+
+
+<!-- FOOTER -->
+<div id="footer">
+		
+		<div id="botnav">
+        <div class="left" style="padding-left:8px;">
+					<div class="botnavleft" style="padding-bottom:5px">
+						<a href="/nypldigital/">Home</a> | <a href="/nypldigital/dgabout.cfm">About</a> | <a href="/nypldigital/sitemap.cfm">Site Map</a> | <a href="/nypldigital/dgabout_credits.cfm">Credits</a> | <a href="/nypldigital/dgcontact.cfm">Contact</a> | <a href="http://www.nypl.org/legal/">Website Terms &amp; Conditions</a> | <a href="http://www.nypl.org/help/get-what-you-need/photographic-services/obtaining-images">Get a Digital File</a>
+					</div>
+					
+				</div>
+
+        <div class="right" style="padding-bottom:5px">
+					
+					
+					<a href="http://www.nypl.org/questions/">Ask NYPL</a> | <a href="http://www.nypl.org">The New York Public Library</a>
+				</div>
+        
+    </div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-1420324-9";
+urchinTracker();
+</script>
+</div>
+<div id="missionst">
+	<div class="missionstcontent">NYPL Digital Gallery provides free and open access to over 800,000 images digitized from primary sources and printed rarities in the vast collections of The New York Public Library, including drawings, illuminated manuscripts, historical maps, vintage posters, rare prints and photographs, illustrated books, printed ephemera, and more.</div>
+</div>
+<!-- FOOTER -->
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

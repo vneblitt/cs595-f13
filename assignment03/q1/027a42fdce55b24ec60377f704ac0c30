@@ -1,0 +1,627 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="http://www.consumer.ftc.gov/articles/0155-free-credit-reports" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="en" http-equiv="Content-Language" />
+<meta content="Free Credit Reports" about="http://www.consumer.ftc.gov/articles/0155-free-credit-reports" property="dc:title" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.consumer.ftc.gov/articles/0155-free-credit-reports" />
+<link rel="shortlink" href="http://www.consumer.ftc.gov/node/669" />
+  <title>Free Credit Reports | Consumer Information</title>
+  <link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_gArAUcbPOGS20Rj3CC1Ph_2J692LtLqNviaNUAmk_Wg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_zokOb9raN9Cg8akkQGi5P5zPbMO6qe5fNyYruMiDsyU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_1otP6__I-MvxKywLnrvhM1XKDj81enq0GcEun6UsiUI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.consumer.ftc.gov/sites/default/files/css/css_9hvQ4uwLBFYBgnc5c9u9QryUS4ukOQvUNC2V7EFD948.css" media="print" />
+  <script type="text/javascript" src="http://www.consumer.ftc.gov/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/misc/drupal.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/sites/all/libraries/chosen/chosen/chosen.jquery.min.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/chosen/chosen.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/consumer_node_edit/consumer_taxonomy_hierarchy.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/consumer_node_edit/consumer_parent_menu_item.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/custom/ftc_exit_script/js/exit_script.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/modules/contrib/panels/js/panels.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.ftc.gov/foresee/foresee-trigger.js"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/swfobject.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.qtip-1.0.0-rc3.min.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/fancybox/jquery.fancybox-1.3.4.pack.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.corner.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/jquery.cycle.all.js?mtsrpk"></script>
+<script type="text/javascript" src="http://www.consumer.ftc.gov/profiles/consumer/themes/consumer_platform/js/global.js?mtsrpk"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"consumer_platform","theme_token":"CH4_55KLm4y3P5sL_ZN9J27Ioine9e-uHfRiBAb6TTk","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.jquery.min.js":1,"profiles\/consumer\/modules\/contrib\/chosen\/chosen.js":1,"profiles\/consumer\/modules\/custom\/consumer_node_edit\/consumer_taxonomy_hierarchy.js":1,"profiles\/consumer\/modules\/custom\/consumer_node_edit\/consumer_parent_menu_item.js":1,"profiles\/consumer\/modules\/custom\/ftc_exit_script\/js\/exit_script.js":1,"profiles\/consumer\/modules\/contrib\/panels\/js\/panels.js":1,"http:\/\/www.ftc.gov\/foresee\/foresee-trigger.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/swfobject.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.corner.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/jquery.cycle.all.js":1,"profiles\/consumer\/themes\/consumer_platform\/js\/global.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/consumer\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.css":1,"profiles\/consumer\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/consumer\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/consumer\/modules\/contrib\/tagclouds\/tagclouds.css":1,"modules\/locale\/locale.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/hp-footer\/hp-footer.css":1,"profiles\/consumer\/themes\/consumer_platform\/layouts\/onecol\/onecol.css":1,"profiles\/consumer\/themes\/consumer_platform\/PlutoSansWebFonts.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/default.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/layout.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/style.css":1,"profiles\/consumer\/themes\/consumer_platform\/js\/fancybox\/jquery.fancybox-1.3.4.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/responsive.css":1,"profiles\/consumer\/themes\/consumer_platform\/css\/print.css":1}},"chosen":{"selector":".field-type-taxonomy-term-reference select:visible, .field-name-field-crc-ed-code select:visible","minimum":"15"},"ftc_exit_script":{"timeout":"6000","token_replace":1,"internalURLs":["^http\\:\\\/\\\/.*\\.gov.*$","^https\\:\\\/\\\/.*\\.gov.*$"],"external_class":"external_link"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-669 node-type-article i18n-en" >
+  <div id="skip">
+    <a href="#main-menu">Jump to Navigation</a>
+  </div>
+    
+  <!-- ______________________ HEADER _______________________ -->
+
+<div id="header">
+  <div class="header-inner">
+      <div id="site-name-and-slogan">
+      <img src = "/profiles/consumer/themes/consumer_platform/images/logo-ftcseal.jpg" alt = "Federal Trade Commission" class = "print-logo" />
+          <h2 id="site-slogan">Federal Trade Commission</h2>
+              <h1 id="logo"><a href="http://www.consumer.ftc.gov/" title="Home" rel="home">
+              Consumer Information            </a></h1>
+    
+    </div>
+         <div id="search">
+        <div class="region region-search">
+    <div id="block-ftc_language_block-ftc_language_block" class="block block-ftc-language-block block-odd clearfix">
+
+                		
+		  <p><a href="http://www.consumidor.ftc.gov">español</a></p>
+</div> <!-- /block -->
+<div id="block-search-form" class="block block-search block-even clearfix">
+
+                		
+		  <form action="/articles/0155-free-credit-reports" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-NbQ34pmcFVJV894vGOqVAtzT-hb4uNQwu7di46aOfpQ" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div> <!-- /block -->
+  </div>
+    </div>
+    </div>
+</div> <!-- /header -->
+
+<div id="page" class="page with-navigation no-language">
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="main-inner" class="clearfix">
+      <div id="content" class="one-col">
+
+                  <div id="top-right">  <div class="region region-top-right">
+    <div id="block-consumer_emailprintshare-email_print_share" class="block block-consumer-emailprintshare block-odd clearfix">
+
+                		
+		  <ul class="email-print-share"><li id="emailThis" class="email"><a class="addthis_button_email" href="#">Email</a></li><li class="printer-friendly">
+        <a href="#" class="addthis_button_print">Print</a> 
+        </li><li class="addthis">
+        <script type="text/javascript">
+          var addthis_config = {
+            ui_language: "en"
+          }
+        </script>
+        <!-- AddThis Button BEGIN -->
+        <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4e34dc8d56e636d1"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"/></a>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e34dc8d56e636d1"></script>
+        <!-- AddThis Button END -->
+        </li>
+      </ul>
+</div> <!-- /block -->
+<div id="block-locale-language" class="block block-locale block-even clearfix">
+
+                		
+		  <ul class="language-switcher-locale-url"><li class="es first last"><a href="http://www.consumidor.ftc.gov/articulos/s0155-informes-de-credito-gratuitos" class="language-link" lang="es" title="Informes de crédito gratuitos">Vea esta página en español</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+</div>
+        
+                  <div id="content-header">
+
+                        
+            <div class="title-wrapper">
+            
+                          <h1 class="title">Free Credit Reports</h1>
+                        
+                        </div>
+
+                          <div class="tabs"></div>
+            
+            
+                        
+          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd clearfix">
+
+                		
+		  
+<div id="node-669" class="node node-article node-odd">
+	<div class="node-inner">
+
+
+		    
+	<div class="content">
+	  
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+  
+                <div id = 'sidebar-article' class = 'sidebar'><div id="block-views-article_sidebar-block_1" class="block block-views block-odd clearfix">
+
+                		
+		  <div class="view view-article-sidebar view-id-article_sidebar view-display-id-block_1 view-dom-id-3608ff81f5c16ba6b36295d439f6b894">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last pdf">
+      
+  <div class="views-field views-field-field-article-pdf-icon">        <div class="field-content"><a href="http://www.consumer.ftc.gov/articles/pdf-0043-free-credit-reports.pdf"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/articles/pdf/icons/pdf-0043.png" width="75" height="100" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-article-pdf">        <div class="field-content"><a href="http://www.consumer.ftc.gov/articles/pdf-0043-free-credit-reports.pdf">Related PDF</a></div>  </div>  
+  <div class="views-field views-field-field-article-print-version">        <div class="field-content"><a href="http://go.usa.gov/DjCB">Order Free Copies</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div> <!-- /block -->
+<div id="block-panels_mini-related_items_sidebar" class="block block-panels-mini block-even clearfix">
+
+                <h2 class="block-title">Related Items</h2>
+          		
+		  <div class="panel-display panel-1col clearfix" id="mini-panel-related_items_sidebar-1">
+  <div class="panel-panel panel-col">
+    <div>
+
+<div class="panel-pane pane-block pane-views-92f96d1442c33ddcb8a1b32f5f4054c0 even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-article_related_media view-rotating-promos no-rotate small-media-rotator views-rotating-promos view-dom-id-a15b245e69ff5135b6078c0076a34492">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/audio-0029-your-source-truly-free-credit-report-annualcreditreportcom" title="[field_media_type]: Your Source for a Truly Free Credit Report? AnnualCreditReport.com" class="ajax [field_media_type]" rel="1093"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/audio/thumbnails/audio-0029_your-source-for-a-truly-free-credit-report_thumb.png?itok=SVMSF3X0" width="155" height="85" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/audio-0029-your-source-truly-free-credit-report-annualcreditreportcom" title="Your Source for a Truly Free Credit Report? AnnualCreditReport.com">Your Source for a Truly Free Credit Repo...</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0077-credit-scores" title="[field_media_type]: Credit Scores" class="ajax [field_media_type]" rel="1652"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/videos/thumbnails/video-0077_credit-scores_thumb.png?itok=_1xK4ZoP" width="155" height="85" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0077-credit-scores">Credit Scores</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0023-what-identity-theft" title="[field_media_type]: What is Identity Theft?" class="ajax [field_media_type]" rel="947"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/videos/thumbnails/video-0023_id-theft1_thumb_0.png?itok=ScgPq8Bs" width="155" height="85" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0023-what-identity-theft">What is Identity Theft?</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0030-annualcreditreportcom-irish-jingle" title="[field_media_type]: AnnualCreditReport.com -  Irish Jingle" class="ajax [field_media_type]" rel="963"><img typeof="foaf:Image" src="http://www.consumer.ftc.gov/sites/default/files/styles/related_multimedia_thumbs/public/videos/thumbnails/video-0030_acr-restaurant_thumb.png?itok=7g5OBEXo" width="155" height="85" alt="" /> <span class="play_button"></span></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/media/video-0030-annualcreditreportcom-irish-jingle">AnnualCreditReport.com -  Irish Jingle</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-views pane-article-sidebar odd" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-block_2 view-dom-id-edd4471cf600bb024d3b9f1b06cf7c2a">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0151-disputing-errors-credit-reports">Disputing Errors on Credit Reports</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0157-employment-background-checks">Employment Background Checks</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.consumer.ftc.gov/articles/0271-signs-identity-theft">Signs of Identity Theft</a></span>  </span>  
+  <span class="views-field views-field-type">        <span class="field-content">
+</span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-views pane-article-sidebar even last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-article-sidebar view-id-article_sidebar view-display-id-block_3 view-dom-id-bb0394a48d91bb522b121d4f4711560a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-article-flex">        <div class="field-content"><p>You can also find this info in <a href="/articles/pdf-0032-building-a-better-credit-report.pdf">Building a Better Credit Report</a><br /><a href="/articles/pdf-0032-building-a-better-credit-report.pdf"><img alt="null" src="/sites/default/files/articles/pdf/icons/pdf-0032.png" style="float: left" /></a><br /><a href="/articles/pdf-0032-building-a-better-credit-report.pdf">PDF Version</a></p><p><a href="http://go.usa.gov/DjCw">Order Free Copies</a></p></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+</div> <!-- /block -->
+</div><div class = "content-inner"><div class="article-intro"><p>Visit <a href="http://www.annualcreditreport.com">annualcreditreport.com</a> to get your free credit report.</p></div><!-- Start of Brightcove Player --><div style="display:none"> </div><!--
+By use of this code snippet, I agree to the Brightcove Publisher T and C 
+found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+--><script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script><p><object class="BrightcoveExperience" id="myExperience1921197928001"><param name="bgcolor" value="#FFFFFF" /><param name="width" value="420" /><param name="height" value="236" /><param name="playerID" value="1418431386001" /><param name="playerKey" value="AQ~~,AAAA_TlHh7k~,RTmZTKuAv623OM76yHrTasm7GMBb4VAz" /><param name="isVid" value="true" /><param name="isUI" value="true" /><param name="dynamicStreaming" value="true" /><param name="@videoPlayer" value="1921197928001" /></object><!-- 
+This script tag will cause the Brightcove Players defined above it to be created as soon
+as the line is read by the browser. If you wish to have the player instantiated only after
+the rest of the HTML is processed and the page load is complete, remove the line.
+--><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+brightcove.createExperiences();
+//--><!]]>
+</script><!-- End of Brightcove Player --></p><p>The Fair Credit Reporting Act (FCRA) requires each of the nationwide credit reporting companies — Equifax, Experian, and TransUnion — to provide you with a free copy of your credit report, at your request, once every 12 months. The FCRA promotes the accuracy and privacy of information in the files of the nation’s credit reporting companies. The Federal Trade Commission (FTC), the nation’s consumer protection agency, enforces the FCRA with respect to credit reporting companies.</p><p>A credit report includes information on where you live, how you pay your bills, and whether you’ve been sued or have filed for bankruptcy. Nationwide credit reporting companies sell the information in your report to creditors, insurers, employers, and other businesses that use it to evaluate your applications for credit, insurance, employment, or renting a home.</p><p>Here are the details about your rights under the FCRA, which established the free annual credit report program.</p><h3>Q: How do I order my free report?</h3><p>The three nationwide credit reporting companies have set up a central website, a toll-free telephone number, and a mailing address through which you can order your free annual report.</p><p>To order, visit <a href="http://www.annualcreditreport.com/">annualcreditreport.com</a>, call 1-877-322-8228. Or complete the <a href="/articles/pdf-0093-annual-report-request-form.pdf">Annual Credit Report Request Form</a> and mail it to: Annual Credit Report Request Service, P.O. Box 105281, Atlanta, GA 30348-5281. Do not contact the three nationwide credit reporting companies individually. They are providing free annual credit reports only through <a href="http://www.annualcreditreport.com/">annualcreditreport.com</a>, 1-877-322-8228 or mailing to Annual Credit Report Request Service.</p><p>You may order your reports from each of the three nationwide credit reporting companies at the same time, or you can order your report from each of the companies one at a time. The law allows you to order one free copy of your report from each of the nationwide credit reporting companies every 12 months.</p><h2>A Warning About “Imposter” Websites</h2><p>Only one website is authorized to fill orders for the free annual credit report you are entitled to under law — annualcreditreport.com. Other websites that claim to offer “free credit reports,” “free credit scores,” or “free credit monitoring” are not part of the legally mandated free annual credit report program. In some cases, the “free” product comes with strings attached. For example, some sites sign you up for a supposedly “free” service that converts to one you have to pay for after a trial period. If you don’t cancel during the trial period, you may be unwittingly agreeing to let the company start charging fees to your credit card.</p><p>Some “imposter” sites use terms like “free report” in their names; others have URLs that purposely misspell annualcreditreport.com in the hope that you will mistype the name of the official site. Some of these “imposter” sites direct you to other sites that try to sell you something or collect your personal information.</p><p>Annualcreditreport.com and the nationwide credit reporting companies will not send you an email asking for your personal information. If you get an email, see a pop-up ad, or get a phone call from someone claiming to be from annualcreditreport.com or any of the three nationwide credit reporting companies, do not reply or click on any link in the message. It’s probably a scam. Forward any such email to the FTC at <a href="mailto:spam@uce.gov">spam@uce.gov</a>.</p><h3 style="clear: both">Q: What information do I need to provide to get my free report?</h3><p>A: You need to provide your name, address, Social Security number, and date of birth. If you have moved in the last two years, you may have to provide your previous address. To maintain the security of your file, each nationwide credit reporting company may ask you for some information that only you would know, like the amount of your monthly mortgage payment. Each company may ask you for different information because the information each has in your file may come from different sources.</p><h3 style="clear: both">Q: Why do I want a copy of my credit report?</h3><p>A: Your credit report has information that affects whether you can get a loan — and how much you will have to pay to borrow money. You want a copy of your credit report to:</p><ul><li>make sure the information is accurate, complete, and up-to-date before you apply for a loan for a major purchase like a house or car, buy insurance, or apply for a job.</li><li>help <a href="/media/video-0023-what-identity-theft">guard against identity theft</a>. That’s when someone uses your personal information — like your name, your Social Security number, or your credit card number — to commit fraud. Identity thieves may use your information to open a new credit card account in your name. Then, when they don’t pay the bills, the delinquent account is reported on your credit report. Inaccurate information like that could affect your ability to get credit, insurance, or even a job.</li></ul><h3 style="clear: both">Q: How long does it take to get my report after I order it?</h3><p>A: If you request your report online at annualcreditreport.com, you should be able to access it immediately. If you order your report by calling toll-free 1-877-322-8228, your report will be processed and mailed to you within 15 days. If you order your report by mail using the Annual Credit Report Request Form, your request will be processed and mailed to you within 15 days of receipt.</p><p>Whether you order your report online, by phone, or by mail, it may take longer to receive your report if the nationwide credit reporting company needs more information to verify your identity.</p><h3 style="clear: both">Q: Are there any other situations where I might be eligible for a free report?</h3><p>A: Under federal law, you’re entitled to a free report if a company takes adverse action against you, such as denying your application for credit, insurance, or employment, and you ask for your report within 60 days of receiving notice of the action. The notice will give you the name, address, and phone number of the credit reporting company. You’re also entitled to one free report a year if you’re unemployed and plan to look for a job within 60 days; if you’re on welfare; or if your report is inaccurate because of fraud, including identity theft. Otherwise, a credit reporting company may charge you a reasonable amount for another copy of your report within a 12-month period.</p><p>To buy a copy of your report, contact:</p><ul><li>Equifax:1-800-685-1111; <a href="http://www.equifax.com/">equifax.com</a></li><li>Experian: 1-888-397-3742; <a href="http://www.experian.com/">experian.com</a></li><li>TransUnion: 1-800-916-8800; <a href="http://www.transunion.com/">transunion.com</a></li></ul><h3 style="clear: both">Q: Should I order a report from each of the three nationwide credit reporting companies?</h3><p>A: It’s up to you. Because nationwide credit reporting companies get their information from different sources, the information in your report from one company may not reflect all, or the same, information in your reports from the other two companies. That’s not to say that the information in any of your reports is necessarily inaccurate; it just may be different.</p><h3 style="clear: both">Q: Should I order my reports from all three of the nationwide credit reporting companies at the same time?</h3><p>A: You may order one, two, or all three reports at the same time, or you may stagger your requests. It’s your choice. Some financial advisors say staggering your requests during a 12-month period may be a good way to keep an eye on the accuracy and completeness of the information in your reports.</p><h3 style="clear: both">Q: What if I find errors — either inaccuracies or incomplete information — in my credit report?</h3><p>A: Under the FCRA, both the credit report­ing company and the information provider (that is, the person, company, or organization that provides information about you to a consumer reporting company) are responsible for <a href="/articles/0151-disputing-errors-credit-reports">correcting inaccurate or incomplete information in your report</a>. To take full advantage of your rights under this law, contact the credit reporting company and the information provider.</p><p>1. Tell the credit reporting company, in writing, what information you think is inaccurate.</p><p>Credit reporting companies must investigate the items in question — usually within 30 days — unless they consider your dispute frivolous. They also must forward all the relevant data you provide about the inaccuracy to the organization that provided the information. After the information provider receives notice of a dispute from the credit reporting company, it must investigate, review the relevant information, and report the results back to the credit reporting company. If the information provider finds the disputed information is inaccurate, it must notify all three nationwide credit reporting companies so they can correct the information in your file.</p><p>When the investigation is complete, the credit reporting company must give you the written results and a free copy of your report if the dispute results in a change. (This free report does not count as your annual free report.) If an item is changed or deleted, the credit reporting company cannot put the disputed information back in your file unless the information provider verifies that it is accurate and complete. The credit reporting company also must send you written notice that includes the name, address, and phone number of the information provider.</p><p>2. Tell the creditor or other information provider in writing that you dispute an item. Many providers specify an address for disputes. If the provider reports the item to a credit reporting company, it must include a notice of your dispute. And if you are correct — that is, if the information is found to be inaccurate — the information provider may not report it again.</p><p>Q: What can I do if the credit reporting company or information provider won’t correct the information I dispute?</p><p>A: If an investigation doesn’t resolve your dispute with the credit reporting company, you can ask that a statement of the dispute be included in your file and in future reports. You also can ask the credit reporting company to provide your state­ment to anyone who received a copy of your report in the recent past. You can expect to pay a fee for this service.</p><p>If you tell the information provider that you dispute an item, a notice of your dispute must be included any time the information provider reports the item to a credit reporting company.</p><h3 style="clear: both">Q: How long can a credit reporting company report negative information?</h3><p>A: A credit reporting company can report most accurate negative information for seven years and bankruptcy information for 10 years. There is no time limit on reporting information about crimi­nal convictions; information reported in response to your application for a job that pays more than $75,000 a year; and information reported because you’ve applied for more than $150,000 worth of credit or life insurance. Information about a lawsuit or an unpaid judgment against you can be reported for seven years or until the statute of limitations runs out, which­ever is longer.</p><h3 style="clear: both">Q: Can anyone else get a copy of my credit report?</h3><p>A: The FCRA specifies who can access your credit report. Creditors, insurers, employers, and other businesses that use the information in your report to evaluate your applications for credit, insurance, em­ployment, or renting a home are among those that have a legal right to access your report.</p><h3 style="clear: both">Q: Can my employer get my credit report?</h3><p>A: Your <a href="/articles/0157-employment-background-checks">employer can get a copy of your credit report </a>only if you agree. A credit reporting company may not provide information about you to your employer, or to a prospective employer, without your written consent.</p><h2 style="clear: both">For More Information</h2><p>The FTC works for the consumer to prevent fraudulent, deceptive, and unfair business practices in the marketplace and to provide information to help consumers spot, stop, and avoid them. To file a complaint, visit <a href="https://www.ftccomplaintassistant.gov/">ftc.gov/complaint </a>or call 1-877-FTC-HELP (1-877-382-4357). The FTC enters Internet, telemarketing, identity theft, and other fraud-related complaints into Consumer Sentinel, a secure online database available to hundreds of civil and criminal law enforcement agencies in the U.S. and abroad.</p></div>            
+  </div>
+
+<div class="field field-name-field-boilerplate-reference field-type-node-reference field-label-hidden">
+  
+                <div class="boiler-plate">
+	  
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+  
+                <div class="field field-name-field-boilerplate-reference field-type-node-reference field-label-hidden">
+<div class="boiler-plate">
+<h2>Report Scams</h2>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+<p>If you believe you’ve responded to a scam, file a complaint with:</p>
+<ul><li>the <a href="/articles/0341-file-complaint-ftc">FTC</a></li>
+<li>your <a href="http://www.naag.org/current-attorneys-general.php" target="_blank">state Attorney General</a></li>
+</ul></div>
+</div>
+</div>
+            
+  </div>
+</div> 
+
+
+            
+  </div>
+	</div>
+	
+  	
+	<div class = "terms">Tagged with: <a href="http://www.consumer.ftc.gov/taxonomy/term/935" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">credit report</a>, <a href="http://www.consumer.ftc.gov/taxonomy/term/974" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">free</a></div>					<div class="article-date"><span>March 2013</span></div>
+			
+			<div class="also-like">
+			<h4>You Might Also Like</h4><ul><li><a href="http://www.consumer.ftc.gov/articles/0216-protecting-against-credit-card-fraud">Protecting Against Credit Card Fraud</a></li><li><a href="http://www.consumer.ftc.gov/articles/0060-10-ways-avoid-fraud">10 Ways to Avoid Fraud</a></li></ul> 		</div>
+	
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+
+</div> <!-- /block -->
+  </div>
+                   </div>
+
+        
+      </div> <!-- /content -->
+
+              <div id="sidebar-first" class="column sidebar first">
+          <div id="nav-control"><a href="#">menu</a></div>  <div class="region region-sidebar-first">
+    <div id="block-system-main-menu" class="block block-system block-menu block-even clearfix">
+
+                		
+		  <ul class="menu level-3"><li class="first expanded active-trail money-credit mid-1858"><a href="http://www.consumer.ftc.gov/topics/money-credit" title="" class="active-trail"><span>Money &amp;<br />  Credit</span></a><ul class="menu level-2"><li class="first collapsed shopping-saving mid-2606"><a href="http://www.consumer.ftc.gov/topics/shopping-saving" title=""><span>Shopping & Saving</span></a></li>
+<li class="collapsed buying-owning-a-car mid-2608"><a href="http://www.consumer.ftc.gov/topics/buying-owning-car" title=""><span>Buying & Owning a Car</span></a></li>
+<li class="expanded active-trail credit-loans mid-2607"><a href="http://www.consumer.ftc.gov/topics/credit-and-loans" title="" class="active-trail"><span>Credit & Loans</span></a><ul class="menu level-1"><li class="first leaf advance-fee-loan-scams mid-2753"><a href="http://www.consumer.ftc.gov/articles/0078-advance-fee-loans"><span>Advance-Fee Loan Scams</span></a></li>
+<li class="leaf automatic-debit-scams mid-2759"><a href="http://www.consumer.ftc.gov/articles/0196-automatic-debit-scams"><span>Automatic Debit Scams</span></a></li>
+<li class="leaf cosigning-a-loan mid-2744"><a href="http://www.consumer.ftc.gov/articles/0215-co-signing-loan"><span>Cosigning a Loan</span></a></li>
+<li class="leaf credit-card-interest-rate-reduction-scams mid-2763"><a href="http://www.consumer.ftc.gov/articles/0131-credit-card-interest-rate-reduction-scams"><span>Credit Card Interest Rate Reduction Scams</span></a></li>
+<li class="leaf credit-card-loss-protection mid-2760"><a href="http://www.consumer.ftc.gov/articles/0093-credit-card-loss-protection"><span>Credit Card Loss Protection</span></a></li>
+<li class="leaf credit-insurance mid-2761"><a href="http://www.consumer.ftc.gov/articles/0110-credit-insurance"><span>Credit Insurance</span></a></li>
+<li class="leaf credit-rules-bookmark mid-3568"><a href="http://www.consumer.ftc.gov/articles/0354-credit-rules-bookmark"><span>Credit Rules Bookmark</span></a></li>
+<li class="leaf credit-debit-and-charge-cards mid-2747"><a href="http://www.consumer.ftc.gov/articles/0332-credit-debit-and-charge-cards"><span>Credit, Debit, and Charge Cards</span></a></li>
+<li class="leaf dealing-with-a-weather-emergency-getting-back-on-your-feet-financially mid-3600"><a href="http://www.consumer.ftc.gov/articles/0379-dealing-weather-emergency-getting-back-your-feet-financially"><span>Dealing with a Weather Emergency: Getting Back on Your Feet Financially</span></a></li>
+<li class="leaf disputing-errors-on-credit-reports mid-2756"><a href="http://www.consumer.ftc.gov/articles/0151-disputing-errors-credit-reports"><span>Disputing Errors on Credit Reports</span></a></li>
+<li class="leaf electronic-banking mid-2749"><a href="http://www.consumer.ftc.gov/articles/0218-electronic-banking"><span>Electronic Banking</span></a></li>
+<li class="leaf employment-background-checks mid-2762"><a href="http://www.consumer.ftc.gov/articles/0157-employment-background-checks"><span>Employment Background Checks</span></a></li>
+<li class="leaf fair-credit-billing mid-2785"><a href="http://www.consumer.ftc.gov/articles/0219-fair-credit-billing"><span>Fair Credit Billing</span></a></li>
+<li class="leaf active-trail free-credit-reports mid-2765"><a href="http://www.consumer.ftc.gov/articles/0155-free-credit-reports" class="active-trail active-trail active"><span>Free Credit Reports</span></a></li>
+<li class="leaf how-credit-scores-affect-the-price-of-credit-and-insurance mid-2757"><a href="http://www.consumer.ftc.gov/articles/0152-how-credit-scores-affect-price-credit-and-insurance"><span>How Credit Scores Affect the Price of Credit and Insurance</span></a></li>
+<li class="leaf online-payday-lenders mid-2755"><a href="http://www.consumer.ftc.gov/articles/0249-online-payday-loans"><span>Online Payday Lenders</span></a></li>
+<li class="leaf payday-loans mid-2758"><a href="http://www.consumer.ftc.gov/articles/0097-payday-loans"><span>Payday Loans</span></a></li>
+<li class="leaf prescreened-credit-and-insurance-offers mid-2764"><a href="http://www.consumer.ftc.gov/articles/0148-prescreened-credit-and-insurance-offers"><span>Prescreened Credit and Insurance Offers</span></a></li>
+<li class="leaf protecting-against-credit-card-fraud mid-2754"><a href="http://www.consumer.ftc.gov/articles/0216-protecting-against-credit-card-fraud"><span>Protecting Against Credit Card Fraud</span></a></li>
+<li class="leaf sample-letter-for-disputing-billing-errors mid-3634"><a href="http://www.consumer.ftc.gov/articles/0385-sample-letter-disputing-billing-errors"><span>Sample Letter for Disputing Billing Errors</span></a></li>
+<li class="leaf sample-letter-for-disputing-credit-report-errors mid-3604"><a href="http://www.consumer.ftc.gov/articles/0384-sample-letter-disputing-errors-your-credit-report"><span>Sample Letter for Disputing Credit Report Errors</span></a></li>
+<li class="leaf scholarship-and-financial-aid-scams mid-3563"><a href="http://www.consumer.ftc.gov/articles/0082-scholarship-and-financial-aid-scams"><span>Scholarship and Financial Aid Scams</span></a></li>
+<li class="leaf setting-out-on-your-own- mid-2748"><a href="http://www.consumer.ftc.gov/articles/0331-setting-out-your-own"><span>Setting Out on Your Own!</span></a></li>
+<li class="leaf student-loans mid-2752"><a href="http://www.consumer.ftc.gov/articles/0160-student-loans"><span>Student Loans</span></a></li>
+<li class="leaf using-a-credit-card mid-2745"><a href="http://www.consumer.ftc.gov/articles/0205-using-credit-card"><span>Using a Credit Card</span></a></li>
+<li class="leaf utility-services mid-2750"><a href="http://www.consumer.ftc.gov/articles/0220-utility-services"><span>Utility Services</span></a></li>
+<li class="leaf when-a-company-blocks-your-credit-or-debit-card mid-2751"><a href="http://www.consumer.ftc.gov/articles/0217-when-company-blocks-your-credit-or-debit-card"><span>When a Company Blocks Your Credit or Debit Card</span></a></li>
+<li class="last leaf your-equal-credit-opportunity-rights mid-3442"><a href="http://www.consumer.ftc.gov/articles/0347-your-equal-credit-opportunity-rights"><span>Your Equal Credit Opportunity Rights</span></a></li>
+</ul></li>
+<li class="collapsed dealing-with-debt mid-2604"><a href="http://www.consumer.ftc.gov/topics/dealing-debt" title=""><span>Dealing with Debt</span></a></li>
+<li class="last collapsed resolving-consumer-problems mid-2605"><a href="http://www.consumer.ftc.gov/topics/resolving-consumer-problems" title=""><span>Resolving Consumer Problems</span></a></li>
+</ul></li>
+<li class="collapsed homes-mortgages mid-1859"><a href="http://www.consumer.ftc.gov/topics/homes-mortgages" title=""><span>Homes &amp;<br />  Mortgages</span></a></li>
+<li class="collapsed health-fitness mid-1860"><a href="http://www.consumer.ftc.gov/topics/health-fitness" title=""><span>Health &amp;<br />  Fitness</span></a></li>
+<li class="collapsed jobs-making-money mid-1861"><a href="http://www.consumer.ftc.gov/topics/jobs-making-money" title=""><span>Jobs &amp;<br />  Making Money</span></a></li>
+<li class="last collapsed privacy-identity mid-1862"><a href="http://www.consumer.ftc.gov/topics/privacy-identity" title=""><span>Privacy &amp;<br />  Identity</span></a></li>
+</ul>
+</div> <!-- /block -->
+<div id="block-menu-menu-main-sub" class="block block-menu block-odd clearfix">
+
+                		
+		  <ul class="menu"><li class="first leaf blog mid-2559"><a href="http://www.consumer.ftc.gov/blog" title=""><span>Blog</span></a></li>
+<li class="last leaf video-media mid-2560"><a href="http://www.consumer.ftc.gov/media" title=""><span>Video &amp;<br />  Media</span></a></li>
+</ul>
+</div> <!-- /block -->
+<div id="block-menu-menu-nav-promo" class="block block-menu block-even clearfix">
+
+                		
+		  <ul class="menu"><li class="first last leaf scam-alerts mid-2650"><a href="http://www.consumer.ftc.gov/scam-alerts" title="">Scam Alerts</a></li>
+</ul>
+</div> <!-- /block -->
+  </div>
+        </div>
+       <!-- /sidebar-first -->
+    </div> <!-- /main-inner -->
+  </div> <!-- /main -->
+
+    <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer">
+        <div class="region region-footer">
+    <div id="block-panels_mini-footer" class="block block-panels-mini block-odd clearfix">
+
+                		
+		  <div class="panel-display panel-footer clearfix" id="mini-panel-footer">
+ <div class = "panel-top">
+     <div class="panel-panel panel-col-top-l">
+      
+
+<div class="panel-pane pane-views pane-topic-landing-page even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_5 view-dom-id-174adede31431b1f321c7c5329b0c864">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_6 view-dom-id-cdbd0ad356cda4ca11199c143fd4970b">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-sidebar-modules view-id-sidebar_modules view-display-id-block_3 view-dom-id-be7e435b05706893421a96bd935ee69d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-gdelivery">        <div class="field-content"><a href="https://public.govdelivery.com/accounts/USFTC/subscriber/new?topic_id=USFTC_24">Get money and credit updates by email</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+  
+ 
+    <div class="panel-panel panel-col-top-c">
+     
+
+<div class="panel-pane pane-views pane-topic-landing-page even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_7 view-dom-id-457ca43d2a09e4937c99d6bfc98b524e">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-topic-landing-page view-id-topic_landing_page view-display-id-block_8 view-dom-id-10ae980cf7f960c9042d8c6989479291">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-sidebar-modules view-id-sidebar_modules view-display-id-block_4 view-dom-id-91770a9a4ece7aeaf19d673a429045df">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-guidance-link">        <div class="field-content"><a href="http://business.ftc.gov/credit-and-finance">Looking for business guidance on credit and finance?</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+
+  
+      <div class="panel-panel panel-col-top-r">
+      
+
+<div class="panel-pane pane-block pane-ftc-social-media-ftc-social-media even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class = 'social-media'><li class='newsletter'><a href='https://public.govdelivery.com/accounts/USFTC/subscriber/new?category_id=USFTC_C7' target = 'blank'>Get Email Updates</a></li><li class='rss'><a href='/blog/rss' target = 'blank'>Blog Feed</a></li><li class='facebook'><a href='https://www.facebook.com/federaltradecommission' target = 'blank'>Facebook</a></li><li class='youtube'><a href='http://www.youtube.com/user/FTCvideos' target = 'blank'>YouTube</a></li><li class='twitter'><a href='https://twitter.com/FTC' target = 'blank'>Twitter</a></li></ul>  </div>
+
+  
+  </div>
+    </div>
+    
+  </div>
+<div class = "panel-bottom">
+
+  	     <div class="panel-panel panel-col-bottom-l">
+      
+
+<div class="panel-pane pane-block pane-block-14 even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="http://ftc.gov/"><img src="/profiles/consumer/themes/consumer_platform/images/icon-ftc-seal.gif" style="border: none; margin-right: 10px; margin-bottom:20px; float: left;" /></a><a href="http://ftc.gov/">The Federal Trade Commission</a> (FTC) is the nation’s consumer protection agency. The FTC works to prevent fraudulent, deceptive and unfair business practices in the marketplace.</p>  </div>
+
+  
+  </div>
+    </div>
+   
+
+     <div class="panel-panel panel-col-bottom-c">
+      
+
+<div class="panel-pane pane-block pane-menu-menu-footer even first last" >
+
+  
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf privacy-policy mid-2563"><a href="http://www.consumer.ftc.gov/privacy-policy">Privacy Policy</a></li>
+<li class="leaf about-us mid-2564"><a href="http://www.consumer.ftc.gov/about-us">About Us</a></li>
+<li class="last leaf contact-us mid-2565"><a href="http://www.consumer.ftc.gov/contact-us">Contact Us</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  
+      <div class="panel-panel panel-col-bottom-r">
+      
+
+<div class="panel-pane pane-block pane-block-1 share-resources even first" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="/share-our-resources">Share Our Resources. Here's How &gt;</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+
+<div class="panel-pane pane-block pane-block-12 file-a-complaint odd" >
+
+  
+    
+  
+  <div class="pane-content">
+    <p><a href="/articles/0341-file-complaint-ftc">File a Complaint with the FTC &gt;</a></p>
+  </div>
+
+  
+  </div>
+    </div>
+  
+
+  </div>
+</div>
+
+</div> <!-- /block -->
+  </div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+  </body>
+</html>

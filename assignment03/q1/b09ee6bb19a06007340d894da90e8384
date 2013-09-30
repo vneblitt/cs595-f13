@@ -1,0 +1,362 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>The Republic - Error</title>
+<meta desc="">
+<base href="http://www.therepublic.com" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="robots" content="noindex">
+<link href="http://cdn1.therepublic.com/tr_assets/css/style_053112.css" rel="stylesheet" type="text/css" />
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-8560941387472259");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-8560941387472259", "TheRepublic_National_Leaderboard_728x90");
+</script>
+<script type="text/javascript">          
+	GA_googleAddAttr("WebSite", "The_Republic");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<!--[if lte IE 7]>
+<link href="http://cdn1.therepublic.com/tr_assets/css/ie-style.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!-- JQuery -->
+<link type="text/css" href="http://cdn1.therepublic.com/tr_assets/scripts/jquery/css/smoothness/jquery-ui-1.7.2.custom_053112.css" rel="stylesheet" />	
+		<script type="text/javascript" src="http://cdn1.therepublic.com/tr_assets/scripts/jquery/js/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="http://cdn1.therepublic.com/tr_assets/scripts/jquery/js/jquery-ui-1.7.2.custom.min.js"></script>
+		<link type="text/css" href="http://cdn1.therepublic.com/tr_assets/scripts/menu/menu_053112.css" rel="stylesheet" />
+		<link rel="stylesheet" href="http://cdn1.therepublic.com/tr_assets/scripts/jquery/css/style.css" type="text/css" media="screen">
+<script type="text/javascript" src="http://cdn1.therepublic.com/tr_assets/scripts/menu/menu.js"></script>
+<style media="screen,projection" type="text/css">
+	.form_label{margin-left:40px;width:180px;display:block;float:left;}
+	.form_text{margin-left:20px;font-size:.8em;}
+	label.error { float: none; color: red; padding-left: .5em; vertical-align: middle; font-size:.8em;}
+		
+</style>
+</head>
+<body>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<div class="shadow">
+<!-- <div id="top_header" style="width:950px;">
+<script type="text/javascript">
+  GA_googleFillSlot("HomePageSlidingBillboard");
+</script>
+</div> -->
+<div id="front_page_logo_wrapper2">
+<div id="logo_header2">
+	<a href="/"><img src="http://cdn1.therepublic.com/tr_assets/images/layout/the_republic_masthead.png" border="0" width="507" height="74" alt="The Republic Masthead"/></a>
+</div>
+<div id="menu" itemscope itemtype="http://schema.org/SiteNavigationElement"><ul class="menu">
+			<li><a href="." class="parent"><span>News</span></a>
+				<div><ul>
+					<li><a href="." class="parent"><span>Local</span></a>
+						<div><ul>
+							<li><a href="/view/local_stories/lns"><span>Local News Updates</span></a></li>
+							<li><a href="/view/local_stories/itr"><span>In Today's Republic</span></a></li>
+							<li><a href="http://www.therepublicphotos.com"><span>Buy Photos!</span></a></li>
+							<li><a href="." class="parent"><span>Around Town</span></a>
+								<div><ul>
+								<li><a href="/view/around_town_latest/orc_oni"><span>Orchids / Onions</span></a></li>
+								<li><a href="/view/around_town_latest/bir_ann"><span>Birthday / Anniversary Wishes</span></a></li>
+								<li><a href="/view/around_town_latest/loc_pf"><span>Local Police & Fire</span></a></li>
+								<li><a href="/view/around_town_latest/reg_pf"><span>Regional Police & Hospital</span></a></li>
+								</ul></div>
+							</li>
+							<li><a href="/view/obit_list"><span>Obituaries</span></a></li>
+							<li><a href="/view/page/RepublicMagazines"><span>Our Magazines</span></a></li>
+							<li><a href="/weather"><span>Weather Center</span></a></li>
+						</ul></div>
+					</li>
+					<li><a href="/view/section/2000" class="parent"><span>State</span></a>
+						<div><ul>
+								<li><a href="/view/category/2100"><span>Indiana</span></a></li>
+								<li><a href="#" class="parent"><span>Other States (A-L)</span></a>
+								<div><ul>
+								<li><a href="/view/category/2210"><span>Alabama</span></a></li>
+								<li><a href="/view/category/2200"><span>Alaska</span></a></li>
+								<li><a href="/view/category/2230"><span>Arizona</span></a></li>
+								<li><a href="/view/category/2220"><span>Arkansas</span></a></li>
+								<li><a href="/view/category/2240"><span>California</span></a></li>
+								<li><a href="/view/category/2250"><span>Colorado</span></a></li>
+								<li><a href="/view/category/2260"><span>Connecticut</span></a></li>
+								<li><a href="/view/category/2270"><span>District of Columbia (DC)</span></a></li>
+								<li><a href="/view/category/2280"><span>Delaware</span></a></li>
+								<li><a href="/view/category/2290"><span>Florida</span></a></li>
+								<li><a href="/view/category/2300"><span>Georgia</span></a></li>
+								<li><a href="/view/category/2310"><span>Hawaii</span></a></li>
+								<li><a href="/view/category/2330"><span>Idaho</span></a></li>
+								<li><a href="/view/category/2340"><span>Illinois</span></a></li>
+								<li><a href="/view/category/2100"><span>Indiana</span></a></li>
+								<li><a href="/view/category/2320"><span>Iowa</span></a></li>
+								<li><a href="/view/category/2350"><span>Kansas</span></a></li>
+								<li><a href="/view/category/2360"><span>Kentucky</span></a></li>
+								<li><a href="/view/category/2370"><span>Lousiana</span></a></li>
+								</ul></div>
+								</li>
+								<li><a href="#" class="parent"><span>Other States (M-O)</span></a>
+								<div><ul>
+								<li><a href="/view/category/2400"><span>Maine</span></a></li>
+								<li><a href="/view/category/2390"><span>Maryland</span></a></li>
+								<li><a href="/view/category/2380"><span>Massachusetts</span></a></li>
+								<li><a href="/view/category/2410"><span>Michigan</span></a></li>
+								<li><a href="/view/category/2420"><span>Minnesota</span></a></li>
+								<li><a href="/view/category/2440"><span>Mississippi</span></a></li>
+								<li><a href="/view/category/2430"><span>Missouri</span></a></li>
+								<li><a href="/view/category/2450"><span>Montana</span></a></li>
+								<li><a href="/view/category/2480"><span>Nebraska</span></a></li>
+								<li><a href="/view/category/2520"><span>Nevada</span></a></li>
+								<li><a href="/view/category/2490"><span>New Hampshire</span></a></li>
+								<li><a href="/view/category/2500"><span>New Jersey</span></a></li>
+								<li><a href="/view/category/2510"><span>New Mexico</span></a></li>
+								<li><a href="/view/category/2530"><span>New York</span></a></li>
+								<li><a href="/view/category/2460"><span>North Carolina</span></a></li>
+								<li><a href="/view/category/2470"><span>North Dakota</span></a></li>
+								<li><a href="/view/category/2540"><span>Ohio</span></a></li>
+								<li><a href="/view/category/2550"><span>Oklahoma</span></a></li>
+								<li><a href="/view/category/2560"><span>Oregon</span></a></li>
+								</ul></div>
+								</li>
+								<li><a href="#" class="parent"><span>Other States (P-Z)</span></a>
+								<div><ul>
+								<li><a href="/view/category/2570"><span>Pennsylvania</span></a></li>
+								<li><a href="/view/category/2580"><span>Rhode Island</span></a></li>
+								<li><a href="/view/category/2590"><span>South Carolina</span></a></li>
+								<li><a href="/view/category/2600"><span>South Dakota</span></a></li>
+								<li><a href="/view/category/2610"><span>Tennessee</span></a></li>
+								<li><a href="/view/category/2620"><span>Texas</span></a></li>
+								<li><a href="/view/category/2630"><span>Utah</span></a></li>
+								<li><a href="/view/category/2640"><span>Vermont</span></a></li>
+								<li><a href="/view/category/2650"><span>Virginia</span></a></li>
+								<li><a href="/view/category/2660"><span>Washington State</span></a></li>
+								<li><a href="/view/category/2270"><span>Washington, DC</span></a></li>
+								<li><a href="/view/category/2680"><span>West Virginia</span></a></li>
+								<li><a href="/view/category/2670"><span>Wisconsin</span></a></li>
+								<li><a href="/view/category/2690"><span>Wyoming</span></a></li>
+								</ul></div>
+								</li>
+						</ul></div>
+					</li>
+					<li><a href="/view/category/3000"><span>National</span></a></li>
+					<li><a href="/view/section/4000" class="parent"><span>Washington & Politics</span></a>
+					<div><ul>
+						<li><a href="/view/section/4000"><span>Politics Front Page</span></a></li>
+						<li><a href="/view/category/4150"><span>CIA</span></a></li>
+						<li><a href="/view/category/4050"><span>Congress</span></a></li>
+						<li><a href="/view/category/4300"><span>EPA</span></a></li>
+						<li><a href="/view/category/4250"><span>Federal Reserve</span></a></li>
+						<li><a href="/view/category/4200"><span>President Obama</span></a></li>
+						<li><a href="/view/category/4100"><span>Supreme Court</span></a></li>
+						<li><a href="/view/category/4350"><span>The United Nations</span></a></li>
+						</ul></div>
+					</li>
+					<li><a href="/view/section/5000" class="parent"><span>Business</span></a>
+					<div><ul>
+						<li><a href="/view/section/5000"><span>Business Front Page</span></a></li>
+						<li><a href="/view/category/5100"><span>Agriculture</span></a></li>
+						<li><a href="/view/category/5300"><span>Markets / Wall Street</span></a></li>
+						<li><a href="/view/category/5200"><span>Small Business</span></a></li>
+						</ul></div>
+					</li>
+					<li><a href="/view/section/7000" class="parent"><span>Entertainment</span></a>
+					<div><ul>
+						<li><a href="/view/section/7000"><span>Entertainment Front Page</span></a></li>
+						<li><a href="/view/category/7100"><span>Books</span></a></li>
+						<li><a href="/view/category/7200"><span>Celebrities</span></a></li>
+						<li><a href="/view/category/7300"><span>Movies</span></a></li>
+						<li><a href="/view/category/7400"><span>Music</span></a></li>
+						<li><a href="/view/category/7600"><span>Television</span></a></li>
+						<li><a href="/view/category/7500"><span>Theater</span></a></li>
+						<li><a href="/view/category/7700"><span>Video Games</span></a></li>
+						</ul></div>
+					</li>
+					<li><a href="/view/section/9000" class="parent"><span>Tech & Science</span></a>
+					<div><ul>
+						<li><a href="/view/section/9000"><span>Technology Front Page</span></a></li>
+						<li><a href="/view/category/9050"><span>Science</span></a></li>
+						<li><a href="/view/category/9075"><span>Technology</span></a></li>
+						</ul></div>
+					</li>
+					<li><a href="/view/section/11000" class="parent"><span>World</span></a>
+					<div><ul>
+						<li><a href="/view/section/11000"><span>World Front Page</span></a></li>
+						<li><a href="/view/category/11100"><span>Africa</span></a></li>
+						<li><a href="/view/category/11200"><span>Asia</span></a></li>
+						<li><a href="/view/category/11700"><span>Canada</span></a></li>
+						<li><a href="/view/category/11300"><span>Carribean</span></a></li>
+						<li><a href="/view/category/11400"><span>Europe</span></a></li>
+						<li><a href="/view/category/11500"><span>Latin America</span></a></li>
+						<li><a href="/view/category/11600"><span>Middle East</span></a></li>
+						</ul></div>
+					</li>
+					<li><a href="/weather"><span>Weather Center</span></a></li>
+				</ul></div>
+			</li>
+			<li><a href="/view/local_stories/spo"><span>Sports</span></a>
+				<div><ul>
+					<li><a href="/view/local_stories/spo"><span>Local Sports</span></a></li>
+					<li><a href="/view/section/6000"><span>National Sports</span></a></li>
+					<li><a href="/view/category/6834"><span><strong>Colts Football</strong></span></a></li>
+					<li><a href="/view/category/6731"><span><strong>Pacers Basketball</strong></span></a></li>
+					<li><a href="/view/section/6080" class="parent"><span>Auto Racing</span></a>
+					<div><ul>
+						<li><a href="/view/section/6080"><span>Racing Front Page</span></a></li>
+						<li><a href="/view/category/6082"><span>F1</span></a></li>
+						<li><a href="/view/category/6081"><span>IRL</span></a></li>
+						<li><a href="/view/category/6083"><span>NASCAR</span></a></li>
+						</ul></div>
+					</li>
+					<li><a href="/view/section/6600" class="parent"><span>Baseball</span></a>
+					<div><ul>
+						<li><a href="/view/section/6600"><span>Baseball Front Page</span></a></li>
+						<li><a href="/view/section/6610"><span>Professional</span></a></li>
+						<li><a href="/view/category/6650"><span>Men's College</span></a></li>
+						<li><a href="/view/category/6675"><span>Women's College</span></a></li>
+						<li><a href="/view/category/6665"><span>Minor League</span></a></li>
+						<li><a href="/view/category/6680"><span>Little League</span></a></li>
+						<li><a href="/view/category/6660"><span>International</span></a></li>
+						
+						</ul></div>
+					</li>
+					<li><a href="#" class="parent"><span>Basketball</span></a>
+					<div><ul>
+						<li><a href="/view/section/6700"><span>Basketball Front Page</span></a></li>
+						<li><a href="/view/section/6720"><span>Men's Pro (NBA)</span></a></li>
+						<li><a href="/view/category/6715"><span>Women's Pro (WNBA)</span></a></li>
+						<li><a href="/view/category/6705"><span>Men's College</span></a></li>
+						<li><a href="/view/category/6770"><span>Women's College</span></a></li>						
+						</ul></div>
+					</li>
+					<li><a href="/view/section/6800" class="parent"><span>Football</span></a>
+					<div><ul>
+						<li><a href="/view/section/6800"><span>Football Front Page</span></a></li>
+						<li><a href="/view/section/6820"><span>Pro (NFL)</span></a></li>
+						<li><a href="/view/category/6810"><span>College</span></a></li>
+						<li><a href="/view/category/6805"><span>Arena Football</span></a></li>						
+						</ul></div>
+					</li>
+					<li><a href="/view/section/6900" class="parent"><span>Hockey</span></a>
+					<div><ul>
+						<li><a href="/view/section/6900"><span>Hockey Front Page</span></a></li>
+						<li><a href="/view/section/6920"><span>Pro (NHL)</span></a></li>
+						<li><a href="/view/category/6905"><span>Men's College</span></a></li>
+						<li><a href="/view/category/6955"><span>Women's</span></a></li>
+						<li><a href="/view/category/6960"><span>Field Hockey</span></a></li>
+						<li><a href="/view/category/6910"><span>Olympic Hockey</span></a></li>
+						</ul></div>
+					</li>
+				</ul></div>
+			</li>
+			<li><a href="/view/section/10000" class="parent"><span>Living</span></a>
+			<div><ul>
+						<li><a href="/view/section/10000"><span>Living Front Page</span></a></li>
+						<li><a href="/view/category/10050"><span>Automotive</span></a></li>
+						<li><a href="/view/category/10100"><span>Career</span></a></li>
+						<li><a href="/view/category/10700"><span>Climate / Enviroment</span></a></li>
+						<li><a href="/view/category/10125"><span>Education</span></a></li>
+						<li><a href="/view/category/10150"><span>Fashion</span></a></li>
+						<li><a href="/view/category/10200"><span>Food & Drink</span></a></li>
+						<li><a href="/view/category/10600"><span>Health & Medicine</span></a></li>
+						<li><a href="/view/category/10250"><span>Home & Garden</span></a></li>
+						<li><a href="/view/category/10300"><span>Parenting & Family</span></a></li>
+						<li><a href="/view/category/10350"><span>Pets</span></a></li>
+						<li><a href="/view/category/10450"><span>Religion</span></a></li>
+						<li><a href="/view/category/10500"><span>Travel</span></a></li>
+						<li><a href="/view/category/10550"><span>Your Money</span></a></li>
+					</ul></div>
+			</li>
+			<li><a href="#" class="parent"><span>Fun</span></a><div><ul>
+				<li><a href="/view/category/12000"><span>Odd News</span></a></li>
+				<li><a href="http://webcam.therepublic.com"><span>Downtown webcam</span></a></li>
+			<li><a href="/view/page/TR_Brown_County_Attractions"><span>Brown County Attractions</span></a></li><li><a href="/view/page/Crossword"><span>Crossword Puzzle</span></a></li><li><a href="/view/page/ParadeGames"><span>Games</span></a></li><li><a href="/view/page/ParadeNumbrix"><span>Play Numbrix</span></a></li><li><a href="/view/page/Sudoku"><span>Play Sudoku</span></a></li><li><a href="/view/page/Wordsearch"><span>Wordsearch</span></a></li>			</ul></div></li>
+			
+			<li><a href="#" class="parent"><span>Community</span></a><div><ul><li><a href="/events"><span>Event Calendar</span></a></li><li><a href="http://www.ColumbusLocalBiz.com"><span>Columbus Local Biz</span></a></li><li><a href="http://www.therepublic.com/view/local_story/Public_tours_of_Miller_House_s_1304190786"><span>Miller Home Tour</span></a></li><li><a href="/view/page/2013_Mill_Race_Marathon"><span>2013 Mill Race Marathon</span></a></li><li><a href="/view/page/Community_Links"><span>Community Links</span></a></li><li><a href="/view/page/2012_wish_list"><span>Grant a Wish 2012</span></a></li><li><a href="/view/page/Local_gas_prices"><span>Local gas prices</span></a></li><li><a href="/view/page/Media_Partners"><span>Media Partners</span></a></li><li><a href="/view/page/Pink_Purpose2012"><span>Pink Purpose 2012</span></a></li><li><a href="/view/page/Scholarship_List"><span>Scholarship List</span></a></li><li><a href="/view/page/2012_story_of_the_year"><span>Story of the Year</span></a></li><li><a href="/view/page/The_Commons_2011"><span>The Commons</span></a></li><li><a href="/view/page/Woman_of_the_year"><span>Woman of the Year</span></a></li></ul></div></li>			<li><a href="http://therepublicclassifieds.com/" target="_blank" class="parent"><span>Classifieds</span></a>
+			<div><ul>					
+					<li><a href="http://www.columbusindianajobs.com/" target="_blank" rel="nofollow"><span>Monster Jobs</span></a></li>
+					<li><a href="/view/top_jobs"><span>Top Jobs</span></a></li>
+					<li><a href="https://columbus.onlineads.advpubtech.com/placead" rel="nofollow"><span>Place an ad</span></a></li>
+					<li><a href="http://therepublicclassifieds.com/" target="_blank" rel="nofollow"><span>Classifieds Front Page</span></a></li>
+					<li><a href="http://columbuslocalbiz.com/" target="_blank" rel="nofollow"><span>Services-ColumbusLocalBiz</span></a></li>
+					<li><a href="http://therepublicclassifieds.com/showads/section/Garage+-+Yard+Sales-124" target="_blank" rel="nofollow"><span>Garage Sales</span></a></li>
+					<li><a href="http://therepublicclassifieds.com/showads/section/Pets-126" target="_blank" rel="nofollow"><span>Pets</span></a></li>
+					<li><a href="http://therepublicclassifieds.com/showads/section/Real+Estate+For+Sale-128" target="_blank" rel="nofollow"><span>Real Estate</span></a></li>
+					<li><a href="http://therepublicclassifieds.com/showads/section/Items+to+Sell+or+Buy-125" target="_blank" rel="nofollow"><span>Stuff</span></a></li>
+					<li><a href="http://therepublicclassifieds.com/showads/section/show/title/Wheels+%26+Keels" target="_blank" rel="nofollow"><span>Wheels</span></a></li>
+				</ul></div>
+			</li>
+			
+			<li><a href="/search"><span>Search</span></a></li>
+			<li><a href="/subscribe" target="_blank" rel="nofollow"><span>Subscribe!</span></a></li>
+			<li><a href="/login"><span style="font-weight:bold">Sign-In</span></a></li>			<li><a href="/view/e_edition" target="_blank"><span style="font-weight:bold">E-Edition</span></a></li>
+			<li><a href="/view/page/contacts"><span>Contact Us</span></a>
+			<div><ul>
+					<li><a href="/view/page/Submissions" class="parent"><span>Submissions</span></a>
+						<div><ul>
+						<li><a href="/view/page/Form_newstip"><span>News Tips</span></a></li>
+						<li><a href="/view/page/Form_letter_editor"><span>Letter to the Editor</span></a></li>
+						<li><a href="/view/page/Form_around_town"><span>Around Town</span></a></li>
+						<li><a href="/events/submit"><span>Event Calendar</span></a></li>
+						<li><a href="/view/page/Form_gotcha"><span>Gotcha</span></a></li>
+						<li><a href="/view/page/Form_Bestshot"><span>Take Your Best Shot</span></a></li>
+						<li><a href="/view/page/Form_anniversary"><span>Anniversaries</span></a></li>
+						<li><a href="/view/page/Form_engagement"><span>Engagements</span></a></li>
+						<li><a href="/view/page/Form_wedding"><span>Weddings</span></a></li>
+						<li><a href="/view/page/Form_Neighbors"><span>Neighbors</span></a></li>
+						<li><a href="/view/page/Form_Woman_of_the_year"><span>Woman of the Year</span></a></li>
+						</ul></div>
+					</li>
+					<li><a href="/view/page/FAQ_Editorial_submit"><span>Submission FAQs</span></a></li>
+					<li><a href="https://hneiservices.dticloud.com/cgi-bin/cmo_cmo.sh/custservice/web/login.html=?siteid=REP" target="_blank" rel="nofollow"><span>Subscription Payment</span></a></li>
+					<li><a href="https://hneiservices.dticloud.com/cgi-bin/cmo_cmo.sh/custservice/web/tempstartstop.html?siteid=REP" target="_blank" rel="nofollow"><span>Temp Circulation Stops</span></a></li>
+					<li><a href="https://hneiservices.dticloud.com/cgi-bin/cmo_cmo.sh/custservice/web/complaints.html?siteid=REP" target="_blank" rel="nofollow"><span>Subscriber Complaints</span></a></li>
+					<li><a href="/subscribe" target="_blank" rel="nofollow"><span>Subscribe!</span></a></li>
+					<li><a href="/view/page/Where_to_buy"><span>Buy Today's Republic</span></a></li>
+					<li><a href="/view/page/MediaKit"><span>Advertise With Us</span></a></li>
+					<li><a href="/view/page/Media_Partners"><span>Media Partners</span></a></li>
+				</ul></div>
+			</li>
+			<li><a href="/view/page/tr_about_us"><span>About Us</span></a></li>
+		</ul>
+	</div>
+</div>
+<div id="top_fade">
+<div id="wrapper">
+<div id="story_ad" align="center">
+<script type="text/javascript">
+ GA_googleFillSlot("TheRepublic_National_Leaderboard_728x90");
+</script>	
+</div>
+<div id="story_headline">
+
+<p><h1 class="article_headline">We're Sorry!</h1></p>
+<ul class="article_meta clear">
+				<li>That story is no longer available.</li>
+		</ul>
+
+</div>
+<div id="story_content">
+
+<div id="front_page_local_stories" style="width:900px;min-height:400px;">
+
+
+<p style="font-size:.8em;">We're sorry.  There was an error.  More information is provided below.</p><p>
+<p><strong>Error:</strong></p><p class="form_text" style="color:#cc0000;font-size:1em">The story you are requesting is no longer available.  It has either expired, been pulled, or been merged with another story.  We're sorry for any inconvenience this caused.</p>
+<p>&nbsp;</p>
+<p>Want to go back to the previous page?  <a href="javascript:history.go(-1)">Click Here</a>.</p>
+<p>Prefer to return to our home page?  <a href="http://www.therepublic.com">Click Here</a>.</p>
+	
+<div>
+
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","4cf7369146","2484627","ZF0EZUIDD0MDUkFeDF0XJ1JECw5eTWdcUhQcSxJeQhs=",0,12,new Date().getTime(),"","","","",""]);</script></body>
+</html>

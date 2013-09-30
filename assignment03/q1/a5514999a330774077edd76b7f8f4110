@@ -1,0 +1,1864 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+
+
+
+
+
+
+<head>
+
+  <title>Answering Helen Thomas on Why | MichaelMoore.com</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  
+  
+  
+
+
+  
+  <link rel="alternate" type="application/atom+xml" href="/feeds/mike-friends-blog"/>
+  
+  <link rel="alternate" type="application/atom+xml" href="/feeds/mikes-blog/"/>
+
+  <link rel="shortcut icon" href="//dwoq5s27enw2w.cloudfront.net/4992202/favicon.png" type="image/x-icon" />
+
+  <meta name="bitly-verification" content="9624069d47fc">
+
+  <link rel="stylesheet" type="text/css" media="all" href="//dwoq5s27enw2w.cloudfront.net/4992202/css/master.css?rev=48" />
+
+  <link rel="stylesheet" href="//dwoq5s27enw2w.cloudfront.net/4992202/css/screen.css?rev=3" type="text/css" media="screen" />
+  <link rel="stylesheet" href="//dwoq5s27enw2w.cloudfront.net/4992202/css/print.css?rev=1" type="text/css" media="print" />
+  <!--[if IE 8]>
+    <link rel="stylesheet" href="//dwoq5s27enw2w.cloudfront.net/4992202/css/ie8.css?rev=1" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+    <link rel="stylesheet" href="//dwoq5s27enw2w.cloudfront.net/4992202/css/ie7.css?rev=1" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 6]>
+    <link rel="stylesheet" href="//dwoq5s27enw2w.cloudfront.net/4992202/css/ie6.css?rev=1" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/browser_selector.js" type="text/javascript"></script>
+  <script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/jquery-1.6.4.min.js" type="text/javascript"></script>
+  <script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/roundies.js" type="text/javascript"></script>
+  <script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/jquery.equalize.js" type="text/javascript"></script>
+  <script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/thickbox.js" type="text/javascript"></script>
+  <script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/galleryview/jquery.galleryview-1.1-pack.js" type="text/javascript"></script>
+  <script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/galleryview/jquery.timers-1.1.2.js" type="text/javascript"></script>
+  <script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script>
+  <script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/jquery.slides.js" type="text/javascript"></script>
+  <script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/jquery.tools.min.js" type="text/javascript"></script>
+  <script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/site.js" type="text/javascript"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript"> 
+	  /*Load jQuery if not already loaded*/ if(typeof jQuery == 'undefined'){ document.write("<script type=\"text/javascript\"   src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js\"></"+"script>"); var __noconflict = true; } 
+	  var IE6UPDATE_OPTIONS = {
+		  icons_path: "//dwoq5s27enw2w.cloudfront.net/4992202/js/ie6update/images/"
+	  }
+  </script>
+  <script type="text/javascript" src="//dwoq5s27enw2w.cloudfront.net/4992202/js/ie6update/ie6update.js"></script>
+  <![endif]-->
+  <script type="text/javascript">
+    $(function(){
+      $(".scrollable").scrollable();
+      $("div.tabs").tabs("div.panes > ul");
+      $("div.interior-tabs").tabs("div.interior-panes > ul");
+      $("div#mikes-channel-tabs").tabs("div.panes > div");
+
+      $("a[href^='http:']").not("[href*='michaelmoore.com']").attr("target", "_blank");
+
+      $('.nav ul li').hover(
+        function(){
+          if (! $(this).hasClass('active')) {
+          $(this).addClass('hover');
+          }
+        },
+        function(){
+          $(this).removeClass('hover');
+        }
+      );
+
+      $(window).click(function(evt) {
+        if ( $(evt.target).parents('#TB_ajaxContent').length > 0) return;
+        tb_remove();
+      })
+      if ($('html').hasClass('ie6')) {
+        $('#login_link').attr('href','/visitor/login').removeClass('thickbox')
+        $('#register_link').attr('href','/visitor/register').removeClass('thickbox')
+
+        $('.ripped-footer img').attr("src", "//dwoq5s27enw2w.cloudfront.net/4992202/img/footer.gif")
+        $('.ripped-content img').attr("src", "//dwoq5s27enw2w.cloudfront.net/4992202/img/content.gif")
+      }
+
+      tb_init('a.thickbox', '&ajax=1');
+      imgLoader = new Image();
+      imgLoader.src = tb_pathToImage;
+      
+      $("#footer div[rel]").overlay({
+      
+        mask: {
+    		color: '#171614',
+    		loadSpeed: 200,
+    		opacity: 0.4
+    	},
+      
+      });
+
+      
+  $('#comments-container').load("/words/comments/17314",null,function() {
+    $('.section.main').equalHeights();
+  })
+
+  $('#photos').slides();
+
+  $('#related_photos').galleryView({
+      filmstrip_size: 4,
+      frame_width: 146,
+      frame_height: 72,
+      background_color: 'transparent',
+      nav_theme: 'moore-related',
+      border: 'none',
+      show_captions:true,
+      caption_text_color: '#707070'
+  });
+
+  $('#comment_body').live('keyup', update_comment);
+  
+      var active_social_section = 0;
+      $("#facebook-updates").hide();
+
+      $("#interior-social-icons a.twitter").hover(function(){
+        $("#twitter-updates").show();
+        $("#facebook-updates").hide();
+        $("#interior-social-updates div.arrow").removeClass('shifted');
+      });
+      $("#interior-social-icons a.facebook").hover(function(){
+        $("#twitter-updates").hide();
+        $("#facebook-updates").show();
+        $("#interior-social-updates div.arrow").addClass('shifted');
+      });
+
+      <!-- $("#twitter-updates div.list-visible").scrollable({ vertical: true, mousewheel: true, next: "#twitter-next", prev: "#twitter-prev" }); -->
+      $("#facebook-updates div.list-visible").scrollable({ vertical: true, mousewheel: true, next: "#facebook-next", prev: "#facebook-prev" });
+
+
+    });
+  </script>
+  
+<script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/jquery.slides.js"></script>
+<script src="//dwoq5s27enw2w.cloudfront.net/4992202/js/jquery.tools.overlay.min.js"></script>
+<script>
+
+  
+  
+    function update_comment()
+{
+    var target = $(this);
+    var max_length = Number(target.attr("max_length"))
+    var body = target.val();
+    if (body.length > max_length) {
+        body = body.substring(0, max_length)
+        target.val(body);
+    }
+    var remain = max_length - body.length;
+    $('#comment_remaining').html(remain);
+}
+
+function more_comments(last_ts, last_count)
+{
+  $.get("/words/comments/17314/"+last_ts, {'last_count': last_count}, 
+    function(data,status) {
+      $('#load-more-comments').remove();
+      $('#comments-container').append(data);
+      $('.section.main').equalHeights();
+    }
+  );
+  return false;
+}
+
+function submit_comment() {
+  var comment_body = $('#comment_body').val()
+  if (!comment_body) 
+    return false;
+  var params = { 'comment': comment_body };
+  if (submit_comment.reply_to_id)
+    params.reply_to = submit_comment.reply_to_id
+  $.post('/words/post_comment/17314',params)
+
+  $('#top_level_post_comment').hide()
+  $('#comment-form-holder').remove()
+  $('#comment-null-reply-holder').html('Your comment has been submitted.')
+}
+submit_comment.reply_to_id = null;
+
+function reply_comment(parent_id) {
+
+  if (! $('#comment_body').is(':visible') ) {
+    window.location = '/visitor/login'
+    return false;
+  }
+
+  parent_id = parent_id || null
+  if (parent_id)
+    $('#top_level_post_comment').show()
+  else
+    $('#top_level_post_comment').hide()
+  submit_comment.reply_to_id = parent_id
+  var formholder = $('#comment-form-holder')
+  $('#comment-'+parent_id+'-reply-holder').append( formholder.clone().show() )
+  formholder.remove()
+  $('#comment_body').focus()
+  return false;
+}
+
+function flag_comment(target, comment_id) {
+  var parent_span = $(target).parents('span.flag')
+  if (parent_span.hasClass("flagged")) {
+    return false;
+  }
+
+  var overlay = $('#flag-confirm');
+  var contents = overlay.children('.content');
+  contents.html("Are you sure you want to flag this comment?");
+
+  if (flag_comment.overlay == null) {
+    overlay.overlay({
+      top: "center",
+      load: true
+    });
+    flag_comment.overlay = overlay.data("overlay");
+  }
+  else {
+    flag_comment.overlay.load();
+  }
+
+  var continue_btn = overlay.find('.continue');
+  continue_btn.unbind('click');
+  continue_btn.click(function() {
+    flag_comment.overlay.close();
+    do_the_flag(parent_span, comment_id);
+  })
+
+  return false;
+}
+flag_comment.overlay = null;
+
+function do_the_flag(parent_span, comment_id)
+{
+  var overlay = $('#flag-status');
+  var contents = overlay.children('.content');
+  contents.html("&nbsp;");
+  $.ajax({
+    url: "/words/flag_comment/"+comment_id+"/",
+    data: {},
+    complete: function(xhr,status) {
+        if (status == "error") {
+          contents.html( $('#flag-login').html() )
+          $('#flag-status .buttons .login').show();
+        }
+        else if (status == "success") {
+          contents.html(xhr.responseText);
+          parent_span.addClass("flagged");
+          parent_span.find('a').html('Flagged');
+        }
+        if (do_the_flag.overlay == null) {
+          overlay.overlay({
+            top: "center",
+            closeOnClick: true,
+            load: true
+          })
+          do_the_flag.overlay = overlay.data("overlay");
+        }
+        else {
+          do_the_flag.overlay.load()
+        }
+
+    }
+  });
+}
+do_the_flag.overlay = null;
+
+
+  
+  
+
+</script>
+
+  </head>
+  
+  <body id="article" class="narrow-header">
+    <div id="header">
+      <div id="header-conatiner">
+        <div class="top-header clear">
+          <h1 class="left"><a href="/">MichaelMoore.com</a></h1>
+          <div id="follow">
+            <a href="http://twitter.com/mmflint" class="twitter">Twitter</a>
+            <a href="http://www.facebook.com/mmflint" class="facebook">Facebook</a>
+            <a href="/mikesmailinglist" class="mailinglist">Join The Mailing List</a>
+          </div>
+
+<!-- 
+          
+          <div id="loginReg" class="clear">
+            
+              <p><a id="register_link" href="/visitor/register?height=400&width=392&class=register&modal=true" class="register thickbox">Register</a></p>
+              <p><a id="login_link" href="/visitor/login?height=200&width=245&class=login&modal=true" class="login thickbox" title="Please Sign In">Login</a></p>
+            
+          </div>
+
+          <form id="mailinglist" name="mailinglist"  action="http://go.netatlantic.com/subscribe/subscribe.tml" method="get">
+            <fieldset>
+              <p>Join Our Mailing List</p>
+                    <input type="hidden" name="list" value="michaelmoore"/>
+                    <input type="hidden" name="confirm" value="none"/>
+                    <input type="hidden" name="url" value="http://www.michaelmoore.com/mikesmailinglist/mailinglist_sub_compsub.php"/>
+                    <p class="label"><label for="email">Email Address:</label></p>
+                    <input type="text"  name="email" id="email" value="Enter your email address" tabindex="1" onfocus="if (this.value == 'Enter your email address') this.value = ''; else $(this).select()"/>
+                    <input type="submit" id="mailsubmit" name="submit" tabindex="5" class="joinMailingList" src="" alt="Join Mailing List" />
+                  </fieldset>
+          </form>
+-->
+
+          <form id="search-form" class="left" name="search" action="/search/" method="GET">
+            <p class="label"><label for="search">Search:</label></p>
+            <input type="text"  name="q" id="search" class="search" value="Search this website" onfocus="if (this.value = 'Search this website') this.value = ''; else $(this).select()" onblur="if (!this.value) this.value = 'Search this website'" tabindex="1" />
+            <input type="submit" id="searchsubmit" tabindex="5" class="submitSearch" alt="Search" />
+          </form>
+        </div><!-- End .top-header -->
+
+        <ul id="nav" class="clear">
+          <li ><a href="/" class="home"><span>Home</span></a></li>
+          <li ><a href="/blogger/mmflint/" class="blog"><span>Mike’s Blog</span></a></li>
+          <li class="active"><a href="/words/mike-friends-blog/" class="openmike"><span>Open Mike</span></a></li>
+          <li ><a href="/words/" class="newsroom"><span>Newsroom</span></a>
+            <ul id="newsroom" class="ddl">
+              
+              <li><a href="/words/latest-news">Latest News</a></li>
+              
+              <li><a href="/words/must-read">Must Read</a></li>
+              
+              <li><a href="/words/mike-in-the-news">Mike In The News</a></li>
+              
+            </ul>
+          </li>
+          <li ><a href="/books-films/" class="booksAndFilms"><span>Books + Films</span></a>
+            <ul id="booksAndFilms" class="ddl">
+              
+            </ul>
+          </li>
+          <li ><a href="/books-films/facts/" class="facts"><span>Facts in Mike's Films</span></a>
+            <ul id="facts" class="ddl">
+              
+              <li><a href="/books-films/facts/capitalism-love-story">Capitalism: A Love Story</a></li>
+              
+              <li><a href="/books-films/facts/sicko">SiCKO</a></li>
+              
+              <li><a href="/books-films/facts/fahrenheit-911">Fahrenheit 9/11</a></li>
+              
+              <li><a href="/books-films/facts/bowling-columbine">Bowling for Columbine</a></li>
+              
+            </ul>
+          </li>
+          <li ><a href="/do-something" class="do-something "><span>Do Something</span></a></li>
+
+            <li ><a href="http://www.mikeshighschoolnews.com/" class="high-school-newspaper"><span>High School Newspaper</span></a></li>
+        </ul>
+
+
+      </div><!-- End #header-container -->
+    </div><!-- End #header -->
+    <!-- Book Tour Banner -->
+    <div id="booktour-banner">
+      <h2><a href="http://www.amazon.com/gp/product/1455513075/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455513075&linkCode=as2&tag=dogeatdogfilms">Here Comes Trouble: Stories from My Life</a></h2>
+      <blockquote>"Outstanding…Moore Triumphs! <cite><a href="http://www.publishersweekly.com/9780446532242">Publishers Weekly</a></cite></blockquote>
+      <ul>
+          <li id="booktour-banner-order"><a href="http://www.amazon.com/gp/product/1455513075/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455513075&linkCode=as2&tag=dogeatdogfilms">Click to order</a></li>
+          <li id="booktour-banner-read"><a href="http://www.michaelmoore.com/words/must-read/holy-thursday">Read a chapter now</a></li>
+          <li id="booktour-banner-listen"><a href="http://www.michaelmoore.com/words/must-read/audio-boys-state">Listen to Mike read a chapter</a></li>
+      </ul>
+    </div> 
+    <!-- End Banner -->
+    
+<div class="wrap content clear">
+  <div class="section main">
+    <div class="col span3">
+    
+    
+
+    
+
+    <h2 class="mc mike-friends-blog"><strong>Mike &amp; Friends Blog</strong></h2>
+
+    
+      <div class="blogger">
+        <a href="/blogger/raymcgovern">
+          <img class="blogshot" src="https://dwoq5s27enw2w.cloudfront.net/uploads/blogshots/ray-64x64.jpg"/>
+          <p class="name">Ray McGovern</p>
+        </a>
+        <p class="oneliner">Retired CIA analyst and Co-Founder, Veteran Intelligence Professionals for Sanity</p>
+        <div class="clear"></div>
+      </div>
+    
+
+  
+    <div class="article">
+      <div class="tools print">
+          <a class="replies" href="#comments">12<span> Comments</span></a>
+          <a class="print" href="?print=1"><span>Print</span></a>
+          <a class="share addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;pub=xa-4aa8222614618abb"><span>Share</span></a><br/>
+          <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4aa8222614618abb"></script>
+      </div>
+  
+
+      <span class="date"><strong>January 9th, 2010</strong> 3:57 PM</span>
+      <h2><a href="/words/mike-friends-blog/answering-helen-thomas-why">Answering Helen Thomas on Why</a></h2>
+      
+
+      
+
+      <p class="byline">
+      By <a href="/blogger/raymcgovern">Ray McGovern</a>
+      
+      
+      
+      </p>
+
+      <p>Thank God for Helen Thomas, the only person to show any courage at the White House press briefing after President Barack Obama gave a flaccid account of the intelligence screw-up that almost downed an airliner on Christmas Day.   
+</p><p>
+After Obama briefly addressed L’Affaire Abdulmutallab and wrote “must do better” on the report cards of the national security schoolboys responsible for the near catastrophe, the President turned the stage over to counter-terrorism guru John Brennan and Department of Homeland Security Secretary Janet Napolitano.
+</p><p>
+It took 89-year old veteran correspondent Helen Thomas to break through the vapid remarks about rechanneling “intelligence streams,” fixing “no-fly” lists, deploying “behavior detection officers,” and buying more body-imaging scanners.
+</p><p>
+Thomas recognized the John &amp; Janet filibuster for what it was, as her catatonic press colleagues took their customary dictation and asked their predictable questions. Instead, Thomas posed an adult query that spotlighted the futility of government plans to counter terrorism with more high-tech gizmos and more intrusions on the liberties and privacy of the traveling public.
+</p><p>
+She asked why Abdulmutallab did what he did.
+</p><p>
+Thomas: “And what is the motivation? We never hear what you find out on why.”
+</p><p>
+Brennan: “Al Qaeda is an organization that is dedicated to murder and wanton slaughter of innocents… They attract individuals like Mr. Abdulmutallab and use them for these types of attacks. He was motivated by a sense of religious sort of drive. Unfortunately, al Qaeda has perverted Islam, and has corrupted the concept of Islam, so that he’s (sic) able to attract these individuals. But al Qaeda has the agenda of destruction and death.”
+</p><p>
+Thomas: “And you’re saying it’s because of religion?”
+</p><p>
+Brennan: “I’m saying it’s because of an al Qaeda organization that used the banner of religion in a very perverse and corrupt way.”
+</p><p>
+Thomas: “Why?”
+</p><p>
+Brennan: “I think this is a — long issue, but al Qaeda is just determined to carry out attacks here against the homeland.”
+</p><p>
+Thomas: “But you haven’t explained why.”
+</p><p>
+Neither did President Obama, nor anyone else in the U.S. political/media hierarchy. All the American public gets is the boilerplate about how al-Qaeda evildoers are perverting a religion and exploiting impressionable young men.
+</p><p>
+There is almost no discussion about why so many people in the Muslim world object to U.S. policies so strongly that they are inclined to resist violently and even resort to suicide attacks.
+</p><p>
+Obama’s Non-Answer
+</p><p>
+I had been hoping Obama would say something intelligent about what drove Abdulmutallab to do what he did, but the President uttered a few vacuous comments before sending in the clowns. This is what he said before he walked away from the podium:
+</p><p>
+“It is clear that al Qaeda increasingly seeks to recruit individuals without known terrorist affiliations … to do their bidding. … And that’s why we must communicate clearly to Muslims around the world that al Qaeda offers nothing except a bankrupt vision of misery and death … while the United States stands with those who seek justice and progress. … That’s the vision that is far more powerful than the hatred of these violent extremists.”
+</p><p>
+But why it is so hard for Muslims to “get” that message? Why can’t they end their preoccupation with dodging U.S. missiles in Afghanistan, Pakistan, Yemen and Gaza long enough to reflect on how we are only trying to save them from terrorists while simultaneously demonstrating our commitment to “justice and progress”?
+</p><p>
+Does a smart fellow like Obama expect us to believe that all we need to do is “communicate clearly to Muslims” that it is al Qaeda, not the U.S. and its allies, that brings “misery and death”? Does any informed person not know that the unprovoked U.S.-led invasion of Iraq killed hundreds of thousands of Iraqis and displaced 4.5 million from their homes? How is that for "misery and death"?
+</p><p>
+Rather than a failure to communicate, U.S. officials are trying to rewrite recent history, which seems to be much easier to accomplish with the Washington press corps and large segments of the American population than with the Muslim world.
+</p><p>
+But why isn't there a frank discussion by America’s leaders and media about the real motivation of Muslim anger toward the United States? Why was Helen Thomas the only journalist to raise the touchy but central question of motive?
+</p><p>
+Peeking Behind the Screen
+</p><p>
+We witnessed a similar phenomenon when the 9/11 Commission Report tiptoed into a cautious discussion of possible motives behind the 9/11 attacks. To their credit, the drafters of that report apparently went as far as their masters would allow, in gingerly introducing a major elephant into the room:
+</p><p>
+“America’s policy choices have consequences. Right or wrong, it is simply a fact that American policy regarding the Israeli-Palestinian conflict and American actions in Iraq are dominant staples of popular commentary across the Arab and Muslim world.” (p. 376)
+</p><p>
+When asked later about the flabby way that last sentence ended, former Congressman Lee Hamilton, Vice-Chair of the 9/11 Commission, explained that there had been a Donnybrook over whether that paragraph could be included at all.
+</p><p>
+The drafters also squeezed in the reason given by Khalid Sheikh Mohammed as to why he “masterminded” the attacks on 9/11:
+</p><p>
+“By his own account, KSM’s animus toward the United States stemmed … from his violent disagreement with U.S. foreign policy favoring Israel.”
+</p><p>
+Would you believe that former Vice President Dick Cheney has also pointed to U.S. support for Israel as one of the “true sources of resentment”? This unique piece of honesty crept into his speech to the American Enterprise Institute on May 21, 2009.
+</p><p>
+Sure, he also trotted out the bromide that the terrorists hate “all the things that make us a force for good in the world.” But the Israel factor slipped into the speech, perhaps an inadvertent acknowledgement of the Israeli albatross adorning the neck of U.S. policy in the Middle East.
+</p><p>
+Very few pundits and academicians are willing to allude to this reality, presumably out of fear for their future career prospects.
+</p><p>
+Former senior CIA officer Paul Pillar, now a professor at Georgetown University, is one of the few willing to refer, in his typically understated way, to “all the other things … including policies and practices that affect the likelihood that people … will be radicalized, and will try to act out the anger against us.” One has to fill in the blanks regarding what those "other things" are.
+</p><p>
+But no worries. Secretary Napolitano has a fix for this unmentionable conundrum. It’s called “counter-radicalization,” which she describes thusly:
+</p><p>
+“How do we identify someone before they become radicalized to the point where they’re ready to blow themselves up with others on a plane? And how do we communicate better American values and so forth … around the globe?”
+</p><p>
+Better communication. That’s the ticket.
+</p><p>
+Hypocrisy and Double Talk
+</p><p>
+But Napolitano doesn’t acknowledge the underlying problem, which is that many Muslims have watched Washington’s behavior closely for many years and view U.S. declarations about peace, justice, democracy and human rights as infuriating examples of hypocrisy and double talk.
+</p><p>
+So, Washington’s sanitized discussion about motives for terrorism seems more intended for the U.S. domestic audience than the Muslim world.
+</p><p>
+After all, people in the Middle East already know how Palestinians have been mistreated for decades; how Washington has propped up Arab dictatorships; how Muslims have been locked away at Guantanamo without charges; how the U.S. military has killed civilians in Iraq, Afghanistan and elsewhere; how U.S. mercenaries have escaped punishment for slaughtering innocents.
+</p><p>
+The purpose of U.S. “public diplomacy” appears more designed to shield Americans from this unpleasant reality, offering instead feel-good palliatives about the beneficence of U.S. actions. Most American journalists and politicians go along with the charade out of fear that otherwise they would be accused of lacking patriotism or sympathizing with “the enemy.”
+</p><p>
+Commentators who are neither naïve nor afraid are simply shut out of the Fawning Corporate Media (FCM). Salon.com’s Glen Greenwald, for example, has complained loudly about “how our blind, endless enabling of Israeli actions fuels terrorism directed at the U.S.,” and how it is taboo to point this out.
+</p><p>
+Greenwald recently called attention to a little-noticed Associated Press report on the possible motives of the 23-year-old Nigerian Abdulmutallab. The report quoted his Yemeni friends to the effect that the he was “not overtly extremist.” But they noted that he was open about his sympathies toward the Palestinians and his anger over Israel’s actions in Gaza. (emphasis added)
+</p><p>
+Former CIA specialist on al Qaeda, Michael Scheuer, has been still more outspoken on what he sees as Israel’s tying down the American Gulliver in the Middle East. Speaking Monday on C-SPAN, he complained bitterly that any debate on the issue of American support for Israel and its effects is normally squelched.
+</p><p>
+Scheuer added that the Israel Lobby had just succeeded in getting him removed from his job at the Jamestown Foundation think tank for saying that Obama was “doing what I call the Tel Aviv Two Step.”
+</p><p>
+More to the point, Scheuer asserted:
+</p><p>
+“For anyone to say that our support for Israel doesn’t hurt us in the Muslim world … is to just defy reality.”
+</p><p>
+Beyond loss of work, those who speak out can expect ugly accusations. The Israeli media network Arutz Sheva, which is considered the voice of the settler movement, weighed in strongly, citing Scheuer’s C-SPAN remarks and branding them “blatantly anti-Semitic.”
+</p><p>
+Media Squelching
+</p><p>
+As for media squelching, I continue to be amazed at how otherwise informed folks express total surprise when I refer them to Khalid Sheikh Mohammed’s statement about his motivation for attacking the United States, as cited on page 147 of the 9/11 Commission Report:
+</p><p>
+“By his own account, KSM’s animus toward the United States stemmed not from his experience there as a student, but rather from his violent disagreement with U.S. foreign policy favoring Israel.”
+</p><p>
+And one can understand how even those following such things closely can get confused. Five years after the 9/11 Commission Report, on Aug. 30, 2009, readers of the neoconservative Washington Post were given a diametrically different view, based on what the Post called “an intelligence summary:”
+</p><p>
+“KSM’s limited and negative experience in the United States — which included a brief jail stay because of unpaid bills — almost certainly helped propel him on his path to becoming a terrorist … He stated that his contact with Americans, while minimal, confirmed his view that the United States was a debauched and racist country.”
+</p><p>
+Apparently, the Post found this revisionist version politically more convenient, in that it obscured Mohammed’s other explanation implicating “U.S. foreign policy favoring Israel.” It’s much more comforting to view KSM as a disgruntled visitor who nursed his personal grievances into justification for mass murder.
+</p><p>
+An unusually candid view of the dangers accruing from the U.S. identification with Israel’s policies appeared five years ago in an unclassified study published by the Pentagon-appointed U.S. Defense Science Board on Sept. 23, 2004. Contradicting President George W. Bush, the board stated:
+</p><p>
+“Muslims do not ‘hate our freedom,’ but rather, they hate our policies. The overwhelming majority voice their objections to what they see as one-sided support in favor of Israel and against Palestinian rights, and the longstanding, even increasing support for what Muslims collectively see as tyrannies, most notably Egypt, Saudi Arabia, Jordan, Pakistan, and the Gulf States.
+</p><p>
+“Thus, when American public diplomacy talks about bringing democracy to Islamic societies, this is seen as no more than self-serving hypocrisy.”
+</p><p>
+Abdulmutallab’s Attack
+</p><p>
+Getting back to Abdulmutallab and his motive in trying to blow up the airliner, how was this individual without prior terrorist affiliations suddenly transformed into an international terrorist ready to die while killing innocents?
+</p><p>
+If, as John Brennan seems to suggest, al Qaeda terrorists are hard-wired for terrorism at birth for the “wanton slaughter of innocents,” how are they able to jump-start a privileged 23-year old Nigerian, inculcate in him with the acquired characteristics of a terrorist, and persuade him to do the bidding of al Qaeda/Persian Gulf?
+</p><p>
+As indicated above, the young Nigerian seems to have had particular trouble with Israel’s wanton slaughter of more than a thousand civilians in Gaza a year ago, a brutal campaign that was defended in Washington as justifiable self-defense.
+</p><p>
+Moreover, it appears that Abdulmuttallab is not the only anti-American “terrorist” so motivated. When the Saudi and Yemeni branches of al Qaeda announced that they were uniting into “al Qaeda of the Arabian Peninsula,” their combined rhetoric railed against the Israeli attack on Gaza.
+</p><p>
+And on Dec. 30, Humam Khalil Abu Mulal al-Balawi, a 32-year-old Palestinian-born Jordanian physician, killed seven American CIA operatives and one Jordanian intelligence officer near Khost, Afghanistan, when he detonated a suicide bomb.
+</p><p>
+Though most U.S. media stories treated al-Balawi as a fanatical double-agent driven by irrational hatreds, other motivations could be gleaned by carefully reading articles about his personal history.
+</p><p>
+Al-Balawi’s mother told Agence France-Presse that her son had never been an “extremist.” Al-Balawi’s widow, Defne Bayrak, made a similar statement to Newsweek.  In a New York Times article, al-Balawi’s brother was quoted as describing him as a “very good brother” and a “brilliant doctor.”
+</p><p>
+So what led al-Balawi to take his own life in order to kill U.S. and Jordanian intelligence operatives?
+</p><p>
+Al-Balawi’s widow said her husband “started to change” after the American-led invasion of Iraq in 2003. His brother said al-Balawi “changed” during last year’s three-week-long Israeli offensive in Gaza, which killed about 1,300 Palestinians.
+</p><p>
+When al-Balawi volunteered with a medical organization to treat injured Palestinians in Gaza, he was arrested by Jordanian authorities, his brother said.
+</p><p>
+It was after that arrest that the Jordanian intelligence service apparently coerced or “recruited” al-Balawi to become a spy who would penetrate al Qaeda’s hierarchy and provide actionable intelligence to the CIA.
+</p><p>
+“If you catch a cat and put it in a corner, she will jump on you,” the brother said in explaining why al-Balawi would turn to a suicide attack.
+</p><p>
+“My husband was anti-American; so am I,” his widow said, adding that her two little girls would grow up fatherless but that she had no regrets.
+</p><p>
+Answering Helen
+</p><p>
+Are we starting to get the picture of what the United States is up against in the Muslim world?
+</p><p>
+Does Helen Thomas deserve an adult answer to her question about motive? Has President Obama been able to assimilate all this?
+</p><p>
+Or is the U.S. political/media establishment incapable of confronting this reality and/or taking meaningful action to alleviate the underlying causes of the violence?
+</p><p>
+Is the reported reaction of a CIA official to al-Balawi’s attack the appropriate one: "Last week’s attack will be avenged. Some very bad people will eventually have a very bad day.”
+</p><p>
+Revenge has not always turned out very well in the past.
+</p><p>
+Does anyone remember the brutal killing of four Blackwater contractors on March 31, 2004, when they took a wrong turn and ended up in the Iraqi city of Fallujah — and how U.S. forces virtually leveled that large city in retribution after George W. Bush won his second term the following November?
+</p><p>
+If you read only the Fawning Corporate Media, you would blissfully think that the killing of the four Blackwater operatives was the work of fanatical animals who got – along with their neighbors – what they deserved. You wouldn’t know that the killings represented the second turn in that specific cycle of violence.
+</p><p>
+On March 22, 2004, Israeli forces assassinated the then-spiritual leader of Hamas in Gaza, Sheikh Yassin — a withering old man, blind and confined to a wheelchair.
+</p><p>
+That murder, plus sloppy navigation by the Blackwater men, set the stage for the next set of brutalities. The Blackwater operatives were killed by a group that described itself as the “Sheikh Yassin Revenge Brigade.”
+</p><p>
+Pamphlets and posters were all over the scene of the attack; one of the trucks that pulled around body parts of the mercenaries had a poster of Yassin in its window, as did store fronts all over Fallujah.
+</p><p>
+We can wish Janet Napolitano luck with her “counter-radicalization” project and President Obama with his effort to "communicate clearly to Muslims," but there will be no diminution in the endless cycles of violence unless legitimate grievances are addressed on all sides.
+</p><p>
+It might also help if the American people were finally let in on the root causes for what otherwise get dismissed as irrational actions by Muslims.
+</p>
+      <div class="clear"></div>
+
+    </div>
+      
+      
+      
+  
+
+    
+    <div class="tags">
+    <strong>Tags:</strong>
+    <ul>
+    
+      <li><a href="/tag/abdulmutallab">Abdulmutallab</a>,</li>
+    
+      <li><a href="/tag/helen-thomas">helen thomas</a>,</li>
+    
+      <li><a href="/tag/israel">Israel</a>,</li>
+    
+      <li><a href="/tag/janet-napolitano">Janet Napolitano</a>,</li>
+    
+      <li><a href="/tag/john-brennan">John Brennan</a>,</li>
+    
+      <li><a href="/tag/operation-cast-lead">Operation Cast Lead</a></li>
+    
+    </ul>
+    </div>
+    
+
+
+
+    
+    
+    
+
+
+    <div class="clear break"></div>
+
+
+  
+
+
+
+    <div id="flag-confirm" class="comment-overlay">
+        <p class="content"></p>
+        <p class="buttons">
+            <button class="close">No</button>
+            <button class="continue">Yes</button>
+        </p>
+    </div>
+    <div id="flag-status" class="comment-overlay">
+        <p class="content"></p>
+        <p class="buttons">
+            <button class="close">Close</button>
+            <input type="submit" class="login" value="Login" style="display: none" onclick="$('#comment-login').submit()"/>
+        </p>
+    </div>
+    <div id="flag-login" class="comment-overlay">
+        <p class="content">You must log in to comment.</p>
+        <form method="post" id="comment-login" action="/visitor/login">
+        <input type="hidden" name="referer" value="/words/mike-friends-blog/answering-helen-thomas-why"/>
+        <div class="form-row ">
+          <label class="username" for="login-username">Username</label>
+          <input class="login-username text" type="text" name="login"/>
+        </div>
+        <div class="form-row ">
+          <label class="password" for="login-password">Password</label>
+          <input class="login-password text" type="password" name="password"/>
+        </div>
+        <div id="work" class="form-row submitrow clear">
+          <p><a href="/visitor/forgot" class="forgotPassword">Forgot password?</a> <a href="/visitor/register" class="forgotPassword">Register now!</a></p>
+        </div>
+        </form>
+    </div>
+
+
+    <a name="comments"></a>
+    <div id="comments-holder">
+      <div class="comments-header">
+        <div class="comments-summary">
+          <h3>Comments</h3>
+          <a href="#comments" class="comments-total">12</a>
+        </div>
+        <div class="comments-meta">
+          <a href="#" onclick="return false;" class="pending">0 comments pending</a>
+          <a href="/comment-faq">Comment FAQ</a>
+
+          <a href="/visitor/login">Leave a comment</a>
+
+        </div>
+      </div>
+
+      <div id="comments-container"></div>
+
+      <div id="comment-null-reply-holder">
+      <div class="comments-form" id="comment-form-holder">
+        
+          <strong>You must be logged in to leave a comment. <a href="/visitor/login">Log in</a> | <a href="/visitor/register">Register</a></strong>
+        
+      </div>
+      </div>
+    </div>
+
+
+
+
+
+
+    </div>
+
+    <div class="col extra">
+    
+      <div class="top">
+        <div id="interior-featured-film">
+            <a href="http://michaelmoore.com/books-films/capitalism-love-story"><img src="//dwoq5s27enw2w.cloudfront.net/4992202/img/int-cap-love-story.jpg" alt="Capitalism, A Love Story" /></a>
+  <a href="http://video.barnesandnoble.com/DVD/Capitalism-A-Love-Story/Michael-Moore/e/13132136592/?itm=4" class="buy">Buy</a>
+  <a href="http://www.michaelmoore.com/words/do-something/support-independent-businesses" class="local-indie">Buy from Local Indie</a>
+
+        </div>
+
+        <div id="interior-social">
+            <ul id="interior-social-icons">
+                <li><a href="http://www.twitter.com/MMFlint" class="twitter">Twitter</a></li>
+                <li><a href="http://www.facebook.com/mmflint" class="facebook">Facebook</a></li>
+                <li><a href="http://www.youtube.com/mmflint" class="youtube">YouTube</a></li>
+                <li><a href="http://www.myspace.com/mmflint" class="myspace">MySpace</a></li>
+            </ul>
+            <div id="interior-social-updates">
+              <div class="arrow"></div>
+              <div id="twitter-updates">
+          <a class="twitter-timeline" href="https://twitter.com/MMFlint" data-widget-id="347391700169269248" data-chrome="noheader nofooter noscrollbar "></a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+                <a href="http://twitter.com/#!/mmflint" class="follow">Follow Mike</a>  
+              </div>
+              <div id="facebook-updates">
+                
+
+<div class="list-visible">
+    <div class="list-full">
+        
+        <div class="list-item">
+            <p>From James Risen and Laura Poitras in the New York Times, the latest revelation from the Snowden documents:   N.S.A. Examines Social Networks of U.S. Citizens...</p>  
+            <span class="date">Sep 28th<br />3:07 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151614317221857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>Sick like U.S.:   Walter White’s sickness mirrors America <a href="http://www.salon.com" rel="nofollow">www.salon.com</a> &quot;Breaking Bad&quot; strikes such a nerve because Walt&#039;s ills of body and soul...</p>  
+            <span class="date">Sep 28th<br />2:15 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151614243136857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>It sure would be nice if major network newscasts could get the most basic facts right about matters of war and peace:   Brian Williams&#039; Iran propaganda |...</p>  
+            <span class="date">Sep 28th<br />1:39 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151614182481857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>We need to expand Social Security, not cut it. Tell everyone you know:   INFOGRAPHIC: Retirement in Crisis and How Expanding Social Security Can Help...</p>  
+            <span class="date">Sep 27th<br />12:31 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151612535491857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>&#039;Inequality for All,&#039; Robert Reich&#039;s movie about how the 1% stole everything, won the Audience Award for Best Doc at the 2013 Traverse City Film...</p>  
+            <span class="date">Sep 27th<br />12:21 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151612517251857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>FYI -- a billionaire from Enron is scheming to steal the defined pension benefits of every state worker in the United States:   Exposed: Enron billionaire’s...</p>  
+            <span class="date">Sep 26th<br />7:02 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151611457461857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p> Encourage Obama and Rouhani to Talk | RootsAction <a href="http://act.rootsaction.org" rel="nofollow">act.rootsaction.org</a> Iran needs an end to threats of war, an end to the ongoing sanctions, and an end to...</p>  
+            <span class="date">Sep 26th<br />4:14 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151611227521857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>The latest from Glenn Greenwald and the Guardian:   UK detention of Reprieve activist consistent with NSA&#039;s view of drone opponents as &#039;threats&#039;...</p>  
+            <span class="date">Sep 25th<br />2:47 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151609563776857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>These students should just be grateful Petraeus hasn&#039;t gotten out the power drills (yet). Be sure to read the expose earlier this year about how a top...</p>  
+            <span class="date">Sep 23rd<br />11:36 AM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151605815551857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>Congrats to <a href="http://MichaelMoore.com" rel="nofollow">MichaelMoore.com</a> blogger Julie Sokolow, mentioned here:   Single Payer - alive and still remarkably well <a href="http://www.huffingtonpost.com" rel="nofollow">www.huffingtonpost.com</a> Single Payer -...</p>  
+            <span class="date">Sep 20th<br />7:41 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151601078756857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p> Why Iran seeks constructive engagement <a href="http://www.washingtonpost.com" rel="nofollow">www.washingtonpost.com</a> Hassan Rouhani asks the U.S. to respond genuinely to efforts of engaging in constructive...</p>  
+            <span class="date">Sep 20th<br />12:19 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151600438641857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p> Thoughts for the Second Anniversary of Occupy Wall Street ...by Rebecca Solnit <a href="http://michaelmoore.com" rel="nofollow">michaelmoore.com</a> Those who doubt that these moments matter should note how...</p>  
+            <span class="date">Sep 18th<br />11:16 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151596464851857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p> Letter to an Unknown Whistleblower ...by Tom Engelhardt <a href="http://michaelmoore.com" rel="nofollow">michaelmoore.com</a> I don’t know who you are or what you do or how old you may be. I just know that you...</p>  
+            <span class="date">Sep 18th<br />11:14 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151596463116857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p> Occupy Wall Street, two years on: we&#039;re still the 99% | Justin Wedes <a href="http://www.theguardian.com" rel="nofollow">www.theguardian.com</a> Justin Wedes: The wave of Occupy protests in 2011 was forcibly...</p>  
+            <span class="date">Sep 17th<br />10:18 AM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151593463646857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>ICYMI -- if you&#039;re in New York City, come down to Zuccotti Park today to celebrate Occupy New York&#039;s second birthday:  <br /></p>  
+            <span class="date">Sep 17th<br />10:13 AM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151593457726857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>Join Fairness &amp; Accuracy in Reporting, John Nichols and Bob McChesney tonight at 6:00 PM at Judson Memorial Church, 55 Washington Square South in New York...</p>  
+            <span class="date">Sep 16th<br />11:13 AM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151591766756857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p> Admit It: Things Are Going Well ...by David Swanson <a href="http://michaelmoore.com" rel="nofollow">michaelmoore.com</a> Now we can claim with equal validity that we&#039;ll stop every single war proposed from...</p>  
+            <span class="date">Sep 16th<br />11:05 AM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151591758361857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>ICYMI --  <br /></p>  
+            <span class="date">Sep 16th<br />10:59 AM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151591750021857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>Occupy Wall Street turns two years old on Tuesday:  <br /></p>  
+            <span class="date">Sep 15th<br />10:38 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151590929831857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>HAPPY SECOND BIRTHDAY, OCCUPY WALL STREET!   Summers Pulls Name From Consideration for Fed Chief <a href="http://www.nytimes.com" rel="nofollow">www.nytimes.com</a> Facing growing opposition in  Congress,...</p>  
+            <span class="date">Sep 15th<br />6:39 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151590631751857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>You&#039;re probably worried how the top banksters who destroyed the world&#039;s economy are doing 5 years later. Answer: great!   Ex-Wall Street chieftains...</p>  
+            <span class="date">Sep 14th<br />4:06 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151588538081857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p> The American People Have Spoken: No More War Abroad, More Jobs at Home ...by Sen. Bernie Sanders <a href="http://michaelmoore.com" rel="nofollow">michaelmoore.com</a> President Obama has found a remarkable way...</p>  
+            <span class="date">Sep 13th<br />1:45 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151586194551857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>Wow. An amazing op-ed in today&#039;s New York Times by Vladamir Putin. He wonders about our love of democracy, equality and God:   What Putin Has to Say to...</p>  
+            <span class="date">Sep 12th<br />10:24 AM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151584373351857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p> To The Sense of Humanity We Shared on 9/11/01, Health Care System Should Pay Heed ...by Donna Smith <a href="http://www.michaelmoore.com" rel="nofollow">www.michaelmoore.com</a> Feeling safe and secure about that...</p>  
+            <span class="date">Sep 12th<br />10:22 AM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151584371396857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p> Imagine 9/11/13 <a href="http://www.michaelmoore.com" rel="nofollow">www.michaelmoore.com</a> &quot;You may say I&#039;m a dreamer / but I&#039;m not the only one&quot;</p>  
+            <span class="date">Sep 11th<br />4:55 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151583202346857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>The latest from Glenn Greenwald and the Guardian:   NSA shares raw intelligence including Americans&#039; data with Israel <a href="http://www.theguardian.com" rel="nofollow">www.theguardian.com</a> • Secret deal...</p>  
+            <span class="date">Sep 11th<br />1:46 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151582949786857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p> Help Kickstart World War III! <a href="http://www.youtube.com" rel="nofollow">www.youtube.com</a> President Obama needs your help starting World War III! Find out how you can help! </p>  
+            <span class="date">Sep 11th<br />1:19 PM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151582918631857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p>Today is the 40th anniversary of 9/11: Classic   The other 9/11: Chile marks coup&#039;s 40th anniversary | Al Jazeera America <a href="http://america.aljazeera.com" rel="nofollow">america.aljazeera.com</a> In a...</p>  
+            <span class="date">Sep 11th<br />9:56 AM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151582668246857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p> Today Is the Twelfth Anniversary of an Enormous Opportunity ...by Jon Schwarz <a href="http://www.michaelmoore.com" rel="nofollow">www.michaelmoore.com</a> &quot;This is a period not just of grave danger, but of...</p>  
+            <span class="date">Sep 11th<br />9:42 AM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151582651366857">Read More</a></span>
+        </div>
+        
+        <div class="list-item">
+            <p> Tweets on Obama&#039;s Night of TV on Syria ...by Michael Moore <a href="http://www.michaelmoore.com" rel="nofollow">www.michaelmoore.com</a> BREAKING: President tells ABC anchor he&#039;s been trying for 5 years to...</p>  
+            <span class="date">Sep 10th<br />10:36 AM</span>
+            <span class="link"><a href="http://www.facebook.com/mmflint/posts/10151580680351857">Read More</a></span>
+        </div>
+        
+    </div>
+</div>
+                <a class="prev" id="facebook-prev">Prev</a>
+                <a class="next browse" id="facebook-next">Next</a>
+                <a href="http://facebook.com/mmflint" class="follow">Follow Mike</a>  
+              </div>
+            </div>
+        </div>
+      </div>
+      <p id="rss-feed">
+        <a href="/feeds">Subscribe to Mike's Blog RSS</a>
+      </p>
+
+      <p class="suggest">
+        <a href="/submit">Click here to suggest an article</a>
+      </p>
+
+
+      <div id="interior-roll">
+      
+        
+        <h2 class="mikesblog">Mike's Blog</h2>
+        
+        <div class="interior-tabs clear">
+          <div id="interior-latest"><a>Latest Blogs</a></div>
+          <div id="interior-most-popular"><a>Most Popular</a></div>
+        </div>
+        <div class="interior-panes">
+          <ul class="interior-list">
+          
+
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">September 10th, 2013</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/tweets-obamas-night-tv-syria">Tweets on John Kerry&#39;s Accidental Diplomacy</a></p>
+    <p class="blog-article">[View the story "John Kerry's Accidental Diplomacy" on Storify]</p>
+  </li>	
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">July 30th, 2013</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/what-bradley-mannings-sentence-will-tell-us-about-military-justice-system">What Bradley Manning&#39;s Sentence Will Tell Us About Our Military Justice System</a></p>
+    <p class="blog-article">Today Bradley Manning was convicted on 20 of 22 counts, including violating the Espionage Act, releasing classified information and disobeying orders. That's the bad news. ...</p>
+  </li>	
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">June 5th, 2013</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/how-weve-made-state-theatre-traverse-city-one-greatest-movie-theaters-earth">Here&#39;s How We Built a Movie Theater for the People – and Why the MPAA Says It&#39;s #1 in the World</a></p>
+    <p class="blog-article">This past week, the Motion Picture Association of America (MPAA),&nbsp;the main federation of Hollywood's six major studios, posted on their web&nbsp;site&nbsp;a list&nbsp;of what they believe ...</p>
+  </li>	
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">March 23rd, 2013</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/invite-some-people-over-your-home-tonight-and-watch-bowling-columbine-thousands-your-fellow-americans">Invite Some People Over to Your Home TONIGHT and Watch &#39;Bowling For Columbine&#39; with Thousands of Your Fellow Americans!</a></p>
+    <p class="blog-article">This evening is going be a big moment in turning our country around on the issue of gun violence. That's why I desperately want you ...</p>
+  </li>	
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">March 21st, 2013</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/please-watch-bowling-columbine-me-saturday-night-10th-anniversary-winning-oscar">Please Watch &#39;Bowling for Columbine&#39; With Me This Saturday Night, the 10th Anniversary of Winning the Oscar</a></p>
+    <p class="blog-article">I am hosting a nationwide series of house parties this Saturday night where tens of thousands of people will gather together in living rooms to ...</p>
+  </li>	
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">March 15th, 2013</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/join-me-kick-mass-movement-against-gun-violence-your-living-room-saturday-march-23rd">Join Me to Kick Off a Mass Movement Against Gun Violence From Your Living Room on Saturday, March 23rd</a></p>
+    <p class="blog-article">The response to my Newtown letter this week has been overwhelming. It is so very clear to everyone that the majority of Americans have had ...</p>
+  </li>	
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">March 13th, 2013</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/america-you-must-not-look-away-how-finish-nra">America, You Must Not Look Away (How to Finish Off the NRA) </a></p>
+    <p class="blog-article">The year was 1955. Emmett Till was a young African American boy from Chicago visiting relatives in Mississippi. One day Emmett was seen "flirting" with ...</p>
+  </li>	
+
+
+
+
+
+
+          </ul>
+          <ul class="interior-list">
+          
+
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">September 11th, 2010</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/if-mosque-isnt-built-no-longer-america">If the &#39;Mosque&#39; Isn&#39;t Built, This Is No Longer America</a></p>
+    <p class="blog-article">OpenMike 9/11/10 Michael Moore's daily blog I am opposed to the building of the "mosque" two blocks from Ground Zero. I want it built on ...</p>
+  </li>	
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">December 14th, 2010</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/why-im-posting-bail-money">Why I&#39;m Posting Bail Money for Julian Assange</a></p>
+    <p class="blog-article">Yesterday, in the Westminster Magistrates Court in London, the lawyers for WikiLeaks co-founder Julian Assange presented to the judge a document from me stating that ...</p>
+  </li>	
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">May 12th, 2011</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/some-final-thoughts-on-death-of-osama-bin-laden">Some Final Thoughts on the Death of Osama bin Laden</a></p>
+    <p class="blog-article">"The Nazis killed tens of MILLIONS. They got a trial. Why? Because we're not like them. We're Americans. We roll different." &ndash; Michael Moore in ...</p>
+  </li>	
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">November 22nd, 2011</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/where-does-occupy-wall-street-go-here">Where Does Occupy Wall Street Go From Here? </a></p>
+    <p class="blog-article">This past weekend I participated in a four-hour meeting of Occupy Wall Street activists whose job it is to come up with the vision and ...</p>
+  </li>	
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">September 22nd, 2011</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/statement-michael-moore-execution-troy-davis">A STATEMENT FROM MICHAEL MOORE ON THE EXECUTION OF TROY DAVIS</a></p>
+    <p class="blog-article">I encourage everyone I know to never travel to Georgia, never buy anything made in Georgia, to never do business in Georgia. I will ask ...</p>
+  </li>	
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">December 16th, 2010</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/dear-government-of-sweden">Dear Government of Sweden ...</a></p>
+    <p class="blog-article">Dear Swedish Government: Hi there -- or as you all say, Hallå! You know, all of us here in the U.S. love your country. Your ...</p>
+  </li>	
+
+  <li class="clear">
+    <a href="/blogger/mmflint">
+    
+    </a>
+    
+    <p class="blog-date">November 2nd, 2010</p>
+    <p class="blog-title"><a href="/words/mike-friends-blog/today-day">Today Is the Day</a></p>
+    <p class="blog-article">This letter contains (almost) no criticisms of how the Democrats have brought this day of reckoning upon themselves. That -- and where to go from ...</p>
+  </li>	
+
+
+
+
+
+
+          </ul>
+        </div>
+        <p id="see-more-blogs">
+          <a href="/blogger/mmflint">See More Blogs</a>
+        </p>
+      
+      </div>
+      
+
+      
+
+        <h2 class="archives">Vew the archives</h2>
+        <div class="archive-block">
+          <div class="year">
+            <span class="date-year">2013</span>
+            <ul>
+              
+              <li><a href="/words/archive/2013/9">September</a></li>
+              
+              <li><a href="/words/archive/2013/8">August</a></li>
+              
+              <li><a href="/words/archive/2013/7">July</a></li>
+              
+              <li><a href="/words/archive/2013/6">June</a></li>
+              
+              <li><a href="/words/archive/2013/5">May</a></li>
+              
+              <li><a href="/words/archive/2013/4">April</a></li>
+              
+              <li><a href="/words/archive/2013/3">March</a></li>
+              
+              <li><a href="/words/archive/2013/2">February</a></li>
+              
+              <li><a href="/words/archive/2013/1">January</a></li>
+              
+            </ul>
+          </div>
+          <div class="year">
+            <span class="date-year">2012</span>
+            <ul>
+              <li><a href="/words/archive/2012/12">December</a></li>
+              <li><a href="/words/archive/2012/11">November</a></li>
+              <li><a href="/words/archive/2012/10">October</a></li>
+              <li><a href="/words/archive/2012/09">September</a></li>
+              <li><a href="/words/archive/2012/08">August</a></li>
+              <li><a href="/words/archive/2012/07">July</a></li>
+              <li><a href="/words/archive/2012/06">June</a></li>
+              <li><a href="/words/archive/2012/05">May</a></li>
+              <li><a href="/words/archive/2012/04">April</a></li>
+              <li><a href="/words/archive/2012/03">March</a></li>
+              <li><a href="/words/archive/2012/02">February</a></li>  
+              <li><a href="/words/archive/2012/01">January</a></li>
+            </ul>
+          </div>
+        </div>
+        <p class="viewOlderArticles"><a href="#" onclick="$('#archive-year-2011').show(); $(this).parent().remove(); return false">View older articles</a></p> 
+        
+        <div style="display: none" id="archive-year-2011">
+        <div class="archive-block">
+          
+          <div class="year">
+            <span class="date-year">2011</span>
+            <ul>
+              <li><a href="/words/archive/2011/12">December</a></li>
+              <li><a href="/words/archive/2011/11">November</a></li>
+              <li><a href="/words/archive/2011/10">October</a></li>
+              <li><a href="/words/archive/2011/09">September</a></li>
+              <li><a href="/words/archive/2011/08">August</a></li>
+              <li><a href="/words/archive/2011/07">July</a></li>
+              <li><a href="/words/archive/2011/06">June</a></li>
+              <li><a href="/words/archive/2011/05">May</a></li>
+              <li><a href="/words/archive/2011/04">April</a></li>
+              <li><a href="/words/archive/2011/03">March</a></li>
+              <li><a href="/words/archive/2011/02">February</a></li>  
+              <li><a href="/words/archive/2011/01">January</a></li>
+            </ul>
+          </div>
+          
+          <div class="year">
+            <span class="date-year">2010</span>
+            <ul>
+              <li><a href="/words/archive/2010/12">December</a></li>
+              <li><a href="/words/archive/2010/11">November</a></li>
+              <li><a href="/words/archive/2010/10">October</a></li>
+              <li><a href="/words/archive/2010/09">September</a></li>
+              <li><a href="/words/archive/2010/08">August</a></li>
+              <li><a href="/words/archive/2010/07">July</a></li>
+              <li><a href="/words/archive/2010/06">June</a></li>
+              <li><a href="/words/archive/2010/05">May</a></li>
+              <li><a href="/words/archive/2010/04">April</a></li>
+              <li><a href="/words/archive/2010/03">March</a></li>
+              <li><a href="/words/archive/2010/02">February</a></li>  
+              <li><a href="/words/archive/2010/01">January</a></li>
+            </ul>
+          </div>
+          
+        </div>
+        
+        <p class="viewOlderArticles"><a href="#" onclick="$('#archive-year-2009').show(); $(this).parent().remove(); return false">View older articles</a></p>        
+        </div>
+        
+        <div style="display: none" id="archive-year-2009">
+        <div class="archive-block">
+          
+          <div class="year">
+            <span class="date-year">2009</span>
+            <ul>
+              <li><a href="/words/archive/2009/12">December</a></li>
+              <li><a href="/words/archive/2009/11">November</a></li>
+              <li><a href="/words/archive/2009/10">October</a></li>
+              <li><a href="/words/archive/2009/09">September</a></li>
+              <li><a href="/words/archive/2009/08">August</a></li>
+              <li><a href="/words/archive/2009/07">July</a></li>
+              <li><a href="/words/archive/2009/06">June</a></li>
+              <li><a href="/words/archive/2009/05">May</a></li>
+              <li><a href="/words/archive/2009/04">April</a></li>
+              <li><a href="/words/archive/2009/03">March</a></li>
+              <li><a href="/words/archive/2009/02">February</a></li>  
+              <li><a href="/words/archive/2009/01">January</a></li>
+            </ul>
+          </div>
+          
+          <div class="year">
+            <span class="date-year">2008</span>
+            <ul>
+              <li><a href="/words/archive/2008/12">December</a></li>
+              <li><a href="/words/archive/2008/11">November</a></li>
+              <li><a href="/words/archive/2008/10">October</a></li>
+              <li><a href="/words/archive/2008/09">September</a></li>
+              <li><a href="/words/archive/2008/08">August</a></li>
+              <li><a href="/words/archive/2008/07">July</a></li>
+              <li><a href="/words/archive/2008/06">June</a></li>
+              <li><a href="/words/archive/2008/05">May</a></li>
+              <li><a href="/words/archive/2008/04">April</a></li>
+              <li><a href="/words/archive/2008/03">March</a></li>
+              <li><a href="/words/archive/2008/02">February</a></li>  
+              <li><a href="/words/archive/2008/01">January</a></li>
+            </ul>
+          </div>
+          
+        </div>
+        
+        <p class="viewOlderArticles"><a href="#" onclick="$('#archive-year-2007').show(); $(this).parent().remove(); return false">View older articles</a></p>        
+        </div>
+        
+        <div style="display: none" id="archive-year-2007">
+        <div class="archive-block">
+          
+          <div class="year">
+            <span class="date-year">2007</span>
+            <ul>
+              <li><a href="/words/archive/2007/12">December</a></li>
+              <li><a href="/words/archive/2007/11">November</a></li>
+              <li><a href="/words/archive/2007/10">October</a></li>
+              <li><a href="/words/archive/2007/09">September</a></li>
+              <li><a href="/words/archive/2007/08">August</a></li>
+              <li><a href="/words/archive/2007/07">July</a></li>
+              <li><a href="/words/archive/2007/06">June</a></li>
+              <li><a href="/words/archive/2007/05">May</a></li>
+              <li><a href="/words/archive/2007/04">April</a></li>
+              <li><a href="/words/archive/2007/03">March</a></li>
+              <li><a href="/words/archive/2007/02">February</a></li>  
+              <li><a href="/words/archive/2007/01">January</a></li>
+            </ul>
+          </div>
+          
+          <div class="year">
+            <span class="date-year">2006</span>
+            <ul>
+              <li><a href="/words/archive/2006/12">December</a></li>
+              <li><a href="/words/archive/2006/11">November</a></li>
+              <li><a href="/words/archive/2006/10">October</a></li>
+              <li><a href="/words/archive/2006/09">September</a></li>
+              <li><a href="/words/archive/2006/08">August</a></li>
+              <li><a href="/words/archive/2006/07">July</a></li>
+              <li><a href="/words/archive/2006/06">June</a></li>
+              <li><a href="/words/archive/2006/05">May</a></li>
+              <li><a href="/words/archive/2006/04">April</a></li>
+              <li><a href="/words/archive/2006/03">March</a></li>
+              <li><a href="/words/archive/2006/02">February</a></li>  
+              <li><a href="/words/archive/2006/01">January</a></li>
+            </ul>
+          </div>
+          
+        </div>
+        
+        <p class="viewOlderArticles"><a href="#" onclick="$('#archive-year-2005').show(); $(this).parent().remove(); return false">View older articles</a></p>        
+        </div>
+        
+        <div style="display: none" id="archive-year-2005">
+        <div class="archive-block">
+          
+          <div class="year">
+            <span class="date-year">2005</span>
+            <ul>
+              <li><a href="/words/archive/2005/12">December</a></li>
+              <li><a href="/words/archive/2005/11">November</a></li>
+              <li><a href="/words/archive/2005/10">October</a></li>
+              <li><a href="/words/archive/2005/09">September</a></li>
+              <li><a href="/words/archive/2005/08">August</a></li>
+              <li><a href="/words/archive/2005/07">July</a></li>
+              <li><a href="/words/archive/2005/06">June</a></li>
+              <li><a href="/words/archive/2005/05">May</a></li>
+              <li><a href="/words/archive/2005/04">April</a></li>
+              <li><a href="/words/archive/2005/03">March</a></li>
+              <li><a href="/words/archive/2005/02">February</a></li>  
+              <li><a href="/words/archive/2005/01">January</a></li>
+            </ul>
+          </div>
+          
+          <div class="year">
+            <span class="date-year">2004</span>
+            <ul>
+              <li><a href="/words/archive/2004/12">December</a></li>
+              <li><a href="/words/archive/2004/11">November</a></li>
+              <li><a href="/words/archive/2004/10">October</a></li>
+              <li><a href="/words/archive/2004/09">September</a></li>
+              <li><a href="/words/archive/2004/08">August</a></li>
+              <li><a href="/words/archive/2004/07">July</a></li>
+              <li><a href="/words/archive/2004/06">June</a></li>
+              <li><a href="/words/archive/2004/05">May</a></li>
+              <li><a href="/words/archive/2004/04">April</a></li>
+              <li><a href="/words/archive/2004/03">March</a></li>
+              <li><a href="/words/archive/2004/02">February</a></li>  
+              <li><a href="/words/archive/2004/01">January</a></li>
+            </ul>
+          </div>
+          
+        </div>
+        
+        <p class="viewOlderArticles"><a href="#" onclick="$('#archive-year-2003').show(); $(this).parent().remove(); return false">View older articles</a></p>        
+        </div>
+        
+        <div style="display: none" id="archive-year-2003">
+        <div class="archive-block">
+          
+          <div class="year">
+            <span class="date-year">2003</span>
+            <ul>
+              <li><a href="/words/archive/2003/12">December</a></li>
+              <li><a href="/words/archive/2003/11">November</a></li>
+              <li><a href="/words/archive/2003/10">October</a></li>
+              <li><a href="/words/archive/2003/09">September</a></li>
+              <li><a href="/words/archive/2003/08">August</a></li>
+              <li><a href="/words/archive/2003/07">July</a></li>
+              <li><a href="/words/archive/2003/06">June</a></li>
+              <li><a href="/words/archive/2003/05">May</a></li>
+              <li><a href="/words/archive/2003/04">April</a></li>
+              <li><a href="/words/archive/2003/03">March</a></li>
+              <li><a href="/words/archive/2003/02">February</a></li>  
+              <li><a href="/words/archive/2003/01">January</a></li>
+            </ul>
+          </div>
+          
+          <div class="year">
+            <span class="date-year">2002</span>
+            <ul>
+              <li><a href="/words/archive/2002/12">December</a></li>
+              <li><a href="/words/archive/2002/11">November</a></li>
+              <li><a href="/words/archive/2002/10">October</a></li>
+              <li><a href="/words/archive/2002/09">September</a></li>
+              <li><a href="/words/archive/2002/08">August</a></li>
+              <li><a href="/words/archive/2002/07">July</a></li>
+              <li><a href="/words/archive/2002/06">June</a></li>
+              <li><a href="/words/archive/2002/05">May</a></li>
+              <li><a href="/words/archive/2002/04">April</a></li>
+              <li><a href="/words/archive/2002/03">March</a></li>
+              <li><a href="/words/archive/2002/02">February</a></li>  
+              <li><a href="/words/archive/2002/01">January</a></li>
+            </ul>
+          </div>
+          
+        </div>
+        
+        <p class="viewOlderArticles"><a href="#" onclick="$('#archive-year-2001').show(); $(this).parent().remove(); return false">View older articles</a></p>        
+        </div>
+        
+        <div style="display: none" id="archive-year-2001">
+        <div class="archive-block">
+          
+          <div class="year">
+            <span class="date-year">2001</span>
+            <ul>
+              <li><a href="/words/archive/2001/12">December</a></li>
+              <li><a href="/words/archive/2001/11">November</a></li>
+              <li><a href="/words/archive/2001/10">October</a></li>
+              <li><a href="/words/archive/2001/09">September</a></li>
+              <li><a href="/words/archive/2001/08">August</a></li>
+              <li><a href="/words/archive/2001/07">July</a></li>
+              <li><a href="/words/archive/2001/06">June</a></li>
+              <li><a href="/words/archive/2001/05">May</a></li>
+              <li><a href="/words/archive/2001/04">April</a></li>
+              <li><a href="/words/archive/2001/03">March</a></li>
+              <li><a href="/words/archive/2001/02">February</a></li>  
+              <li><a href="/words/archive/2001/01">January</a></li>
+            </ul>
+          </div>
+          
+          <div class="year">
+            <span class="date-year">2000</span>
+            <ul>
+              <li><a href="/words/archive/2000/12">December</a></li>
+              <li><a href="/words/archive/2000/11">November</a></li>
+              <li><a href="/words/archive/2000/10">October</a></li>
+              <li><a href="/words/archive/2000/09">September</a></li>
+              <li><a href="/words/archive/2000/08">August</a></li>
+              <li><a href="/words/archive/2000/07">July</a></li>
+              <li><a href="/words/archive/2000/06">June</a></li>
+              <li><a href="/words/archive/2000/05">May</a></li>
+              <li><a href="/words/archive/2000/04">April</a></li>
+              <li><a href="/words/archive/2000/03">March</a></li>
+              <li><a href="/words/archive/2000/02">February</a></li>  
+              <li><a href="/words/archive/2000/01">January</a></li>
+            </ul>
+          </div>
+          
+        </div>
+        
+        <p class="viewOlderArticles"><a href="#" onclick="$('#archive-year-1999').show(); $(this).parent().remove(); return false">View older articles</a></p>        
+        </div>
+        
+        <div style="display: none" id="archive-year-1999">
+        <div class="archive-block">
+          
+          <div class="year">
+            <span class="date-year">1999</span>
+            <ul>
+              <li><a href="/words/archive/1999/12">December</a></li>
+              <li><a href="/words/archive/1999/11">November</a></li>
+              <li><a href="/words/archive/1999/10">October</a></li>
+              <li><a href="/words/archive/1999/09">September</a></li>
+              <li><a href="/words/archive/1999/08">August</a></li>
+              <li><a href="/words/archive/1999/07">July</a></li>
+              <li><a href="/words/archive/1999/06">June</a></li>
+              <li><a href="/words/archive/1999/05">May</a></li>
+              <li><a href="/words/archive/1999/04">April</a></li>
+              <li><a href="/words/archive/1999/03">March</a></li>
+              <li><a href="/words/archive/1999/02">February</a></li>  
+              <li><a href="/words/archive/1999/01">January</a></li>
+            </ul>
+          </div>
+          
+          <div class="year">
+            <span class="date-year">1998</span>
+            <ul>
+              <li><a href="/words/archive/1998/12">December</a></li>
+              <li><a href="/words/archive/1998/11">November</a></li>
+              <li><a href="/words/archive/1998/10">October</a></li>
+              <li><a href="/words/archive/1998/09">September</a></li>
+              <li><a href="/words/archive/1998/08">August</a></li>
+              <li><a href="/words/archive/1998/07">July</a></li>
+              <li><a href="/words/archive/1998/06">June</a></li>
+              <li><a href="/words/archive/1998/05">May</a></li>
+              <li><a href="/words/archive/1998/04">April</a></li>
+              <li><a href="/words/archive/1998/03">March</a></li>
+              <li><a href="/words/archive/1998/02">February</a></li>  
+              <li><a href="/words/archive/1998/01">January</a></li>
+            </ul>
+          </div>
+          
+        </div>
+        
+        <p class="viewOlderArticles"><a href="#" onclick="$('#archive-year-1997').show(); $(this).parent().remove(); return false">View older articles</a></p>        
+        </div>
+        
+        <div style="display: none" id="archive-year-1997">
+        <div class="archive-block">
+          
+          <div class="year">
+            <span class="date-year">1997</span>
+            <ul>
+              <li><a href="/words/archive/1997/12">December</a></li>
+              <li><a href="/words/archive/1997/11">November</a></li>
+              <li><a href="/words/archive/1997/10">October</a></li>
+              <li><a href="/words/archive/1997/09">September</a></li>
+              <li><a href="/words/archive/1997/08">August</a></li>
+              <li><a href="/words/archive/1997/07">July</a></li>
+              <li><a href="/words/archive/1997/06">June</a></li>
+              <li><a href="/words/archive/1997/05">May</a></li>
+              <li><a href="/words/archive/1997/04">April</a></li>
+              <li><a href="/words/archive/1997/03">March</a></li>
+              <li><a href="/words/archive/1997/02">February</a></li>  
+              <li><a href="/words/archive/1997/01">January</a></li>
+            </ul>
+          </div>
+          
+          <div class="year">
+            <span class="date-year">1996</span>
+            <ul>
+              <li><a href="/words/archive/1996/12">December</a></li>
+              <li><a href="/words/archive/1996/11">November</a></li>
+              <li><a href="/words/archive/1996/10">October</a></li>
+              <li><a href="/words/archive/1996/09">September</a></li>
+              <li><a href="/words/archive/1996/08">August</a></li>
+              <li><a href="/words/archive/1996/07">July</a></li>
+              <li><a href="/words/archive/1996/06">June</a></li>
+              <li><a href="/words/archive/1996/05">May</a></li>
+              <li><a href="/words/archive/1996/04">April</a></li>
+              <li><a href="/words/archive/1996/03">March</a></li>
+              <li><a href="/words/archive/1996/02">February</a></li>  
+              <li><a href="/words/archive/1996/01">January</a></li>
+            </ul>
+          </div>
+          
+        </div>
+        
+        </div>
+        
+
+
+      
+    </div>
+  </div>
+</div>
+
+
+    <div id="footer">
+      <div id="footer-container" class="clear">
+
+        <div id="mike-likes" class="section first">
+            <h2>Mike Likes...</h2>
+            
+            <a href="http://www.hbo.com/the-newsroom/index.html">
+              <img src="https://dwoq5s27enw2w.cloudfront.net/uploads/splash_img/13/09/nesy.jpg" alt="" />
+              <p>'The Newsroom'</p>
+            </a>
+            
+        </div>
+
+        <div id="mikes-faq-week" class="section second">
+            <h2>Mike's FAQ of the Week</h2>
+          
+            
+            <p class="question">How many people come to the Traverse City Film Festival?</p>
+            
+            <h3>Mike Says</h3>
+            
+            <p class="answer"> During the six days of the 2012 festival there were over 91,000 admissions, plus appearances by Susan Sarandon... <a href="/mike-faq/answer/79418/" class="continue-reading">Continue Reading</a></p>
+            
+        
+            <p class="submit"><a href="/mike-faq/submit/">Submit a question to Mike</a></p>
+            <p class="more"><a href="/mike-faq/">View More</a></p>
+        </div>
+
+        
+        <div id="mikes-channel" class="section third">
+            <h2>Mike's Channel</h2>
+            <div class="scrollable">
+              <div class="items">
+              
+                <div>
+                  <div rel="#mikes-channel-video1" class="thumbnail"><span></span><img src="https://dwoq5s27enw2w.cloudfront.net/uploads/splash_img/13/04/tb.jpg" /></div>
+                  <p>Michael Moore on MSNBC with Michael Eric Dyson, 3/22/13</p>
+                  <div class="mikes-channel-video" id="mikes-channel-video1">
+                    <object width="420" height="245" id="msnbc4bf8c2" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0"><param name="movie" value="http://www.msnbc.msn.com/id/32545640" /><param name="FlashVars" value="launch=51297813&amp;width=420&amp;height=245" /><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><embed name="msnbc4bf8c2" src="http://www.msnbc.msn.com/id/32545640" width="420" height="245" FlashVars="launch=51297813&amp;width=420&amp;height=245" allowscriptaccess="always" allowFullScreen="true" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
+                  </div>
+                </div>
+              
+                <div>
+                  <div rel="#mikes-channel-video2" class="thumbnail"><span></span><img src="https://dwoq5s27enw2w.cloudfront.net/uploads/splash_img/12/07/tv2.jpg" /></div>
+                  <p>Michael Moore on Democracy Now!, 6/28/12</p>
+                  <div class="mikes-channel-video" id="mikes-channel-video2">
+                    <iframe width="560" height="315" src="http://www.youtube.com/embed/hvuPYRSN2Xk" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                </div>
+              
+                <div>
+                  <div rel="#mikes-channel-video3" class="thumbnail"><span></span><img src="https://dwoq5s27enw2w.cloudfront.net/uploads/splash_img/12/07/tv3.jpg" /></div>
+                  <p>Michael Moore on the Rachel Maddow Show, 5/11/12</p>
+                  <div class="mikes-channel-video" id="mikes-channel-video3">
+                    <object width="420" height="245" id="msnbc44d0a5" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0"><param name="movie" value="http://www.msnbc.msn.com/id/32545640" /><param name="FlashVars" value="launch=47395665&amp;width=420&amp;height=245" /><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><embed name="msnbc44d0a5" src="http://www.msnbc.msn.com/id/32545640" width="420" height="245" FlashVars="launch=47395665&amp;width=420&amp;height=245" allowscriptaccess="always" allowFullScreen="true" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
+                  </div>
+                </div>
+              
+                <div>
+                  <div rel="#mikes-channel-video4" class="thumbnail"><span></span><img src="https://dwoq5s27enw2w.cloudfront.net/uploads/splash_img/12/07/tv4.jpg" /></div>
+                  <p>Michael Moore on MSNBC, Super Tuesday, 3/6/12</p>
+                  <div class="mikes-channel-video" id="mikes-channel-video4">
+                    <object width="420" height="245" id="msnbc28b8e6" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0"><param name="movie" value="http://www.msnbc.msn.com/id/32545640" /><param name="FlashVars" value="launch=46648987&amp;width=420&amp;height=245" /><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent" /><embed name="msnbc28b8e6" src="http://www.msnbc.msn.com/id/32545640" width="420" height="245" FlashVars="launch=46648987&amp;width=420&amp;height=245" allowscriptaccess="always" allowFullScreen="true" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object><p style="font-size:11px; font-family:Arial, Helvetica, sans-serif; color: #999; margin-top: 5px; background: transparent; text-align: center; width: 420px;">Visit msnbc.com for <a style="text-decoration:none !important; border-bottom: 1px dotted #999 !important; font-weight:normal !important; height: 13px; color:#5799DB !important;" href="http://www.msnbc.msn.com">breaking news</a>, <a href="http://www.msnbc.msn.com/id/3032507" style="text-decoration:none !important; border-bottom: 1px dotted #999 !important; font-weight:normal !important; height: 13px; color:#5799DB !important;">world news</a>, and <a href="http://www.msnbc.msn.com/id/3032072" style="text-decoration:none !important; border-bottom: 1px dotted #999 !important; font-weight:normal !important; height: 13px; color:#5799DB !important;">news about the economy</a></p>
+                  </div>
+                </div>
+              
+                <div>
+                  <div rel="#mikes-channel-video5" class="thumbnail"><span></span><img src="https://dwoq5s27enw2w.cloudfront.net/uploads/splash_img/12/07/maddow5.jpg" /></div>
+                  <p>Michael Moore on the Rachel Maddow Show, 2/27/12</p>
+                  <div class="mikes-channel-video" id="mikes-channel-video5">
+                    <iframe width="560" height="315" src="http://www.youtube.com/embed/ekqLZeDtC9E" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                </div>
+              
+              </div>
+            </div>
+            <a class="prev browse left">« PREVIOUS</a>
+            <a class="next browse right">NEXT »</a>
+        </div>
+        
+
+        
+        <div id="the-moore-store" class="section fourth">
+            <h2>The Moore Store</h2>
+            <a href="http://goo.gl/MMb7T" target="_blank" class="image"><img src="https://dwoq5s27enw2w.cloudfront.net/uploads/splash_img/11/10/moorestoredemo.jpg"/></a>
+            <div class="info">
+                <h3>Capitalism: A Love Story</h3>
+                <p class="price">$9.99</p>
+                <p class="buy"><a target="_blank" href="http://goo.gl/MMb7T">Buy Now</a></p>
+            </div>
+        </div>
+        
+
+      </div><!-- End #footer-container -->
+    </div><!-- End #footer -->
+
+    <div id="footer-links">
+        <ul id="footer-links-container">
+            
+            <li id="footer-links-register" class="button">
+                <a href="#footer-links-register-form" id="footer-links-register-link" class="popovertrigger">Register</a>
+                    <div id="footer-links-register-form" class="popover">
+                    <form method="POST" action="/visitor/register">
+                    
+                        <h2>Join Us</h2>
+                        
+                        <p class="prompt">Register now to join the conversation.</p>
+                        
+                        <input type="hidden" name="referer" value="http://michaelmoore.com/words/mike-friends-blog/another-wikileaks-cable">
+                        
+                        <fieldset>
+                            <ol>
+                                <li>
+                                    <label class="firstName" for="first_name">First Name</label>
+                                    <input id="id_first_name" type="text" class="text" name="first_name">
+                                </li>
+                                <li>
+                                    <label class="lastName" for="last_name">Last Name</label>
+                                    <input id="id_last_name" type="text" class="text" name="last_name"> 
+                                </li>
+                                <li>
+                                    <label class="postalCode" for="postal_code">Postal Code</label>
+                                    <input id="id_postal_code" type="text" class="text" name="postal_code"> 
+                                </li>
+                                <li>
+                                    <label class="country" for="country">Country</label>
+                                    <input id="id_country" type="text" class="text" name="country"> 
+                                </li>
+                                <li>
+                                    <label class="DOB" for="birth_date">Date of Birth</label>
+                                    <select id="id_birth_date_month" name="birth_date_month" class="field select month">
+                                        <option value="0">---</option>
+                                        <option value="1">jan</option>
+                                        <option value="2">feb</option>
+                                        <option value="3">mar</option>
+                                        <option value="4">apr</option>
+                                        <option value="5">may</option>
+                                        <option value="6">jun</option>
+                                        <option value="7">jul</option>
+                                        <option value="8">aug</option>
+                                        <option value="9">sep</option>
+                                        <option value="10">oct</option>
+                                        <option value="11">nov</option>
+                                        <option value="12">dec</option>
+                                    </select>
+                                    <select id="id_birth_date_day" name="birth_date_day" class="field select month">
+                                        <option value="0">---</option>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                        <option value="6">6</option>
+                                        <option value="7">7</option>
+                                        <option value="8">8</option>
+                                        <option value="9">9</option>
+                                        <option value="10">10</option>
+                                        <option value="11">11</option>
+                                        <option value="12">12</option>
+                                        <option value="13">13</option>
+                                        <option value="14">14</option>
+                                        <option value="15">15</option>
+                                        <option value="16">16</option>
+                                        <option value="17">17</option>
+                                        <option value="18">18</option>
+                                        <option value="19">19</option>
+                                        <option value="20">20</option>
+                                        <option value="21">21</option>
+                                        <option value="22">22</option>
+                                        <option value="23">23</option>
+                                        <option value="24">24</option>
+                                        <option value="25">25</option>
+                                        <option value="26">26</option>
+                                        <option value="27">27</option>
+                                        <option value="28">28</option>
+                                        <option value="29">29</option>
+                                        <option value="30">30</option>
+                                        <option value="31">31</option>
+                                    </select>
+                                    <select id="id_birth_date_year" name="birth_date_year" class="field select month">
+                                        <option value="0">---</option>
+                                        <option value="1997">1997</option>
+                                        <option value="1996">1996</option>
+                                        <option value="1995">1995</option>
+                                        <option value="1994">1994</option>
+                                        <option value="1993">1993</option>
+                                        <option value="1992">1992</option>
+                                        <option value="1991">1991</option>
+                                        <option value="1990">1990</option>
+                                        <option value="1989">1989</option>
+                                        <option value="1988">1988</option>
+                                        <option value="1987">1987</option>
+                                        <option value="1986">1986</option>
+                                        <option value="1985">1985</option>
+                                        <option value="1984">1984</option>
+                                        <option value="1983">1983</option>
+                                        <option value="1982">1982</option>
+                                        <option value="1981">1981</option>
+                                        <option value="1980">1980</option>
+                                        <option value="1979">1979</option>
+                                        <option value="1978">1978</option>
+                                        <option value="1977">1977</option>
+                                        <option value="1976">1976</option>
+                                        <option value="1975">1975</option>
+                                        <option value="1974">1974</option>
+                                        <option value="1973">1973</option>
+                                        <option value="1972">1972</option>
+                                        <option value="1971">1971</option>
+                                        <option value="1970">1970</option>
+                                        <option value="1969">1969</option>
+                                        <option value="1968">1968</option>
+                                        <option value="1967">1967</option>
+                                        <option value="1966">1966</option>
+                                        <option value="1965">1965</option>
+                                        <option value="1964">1964</option>
+                                        <option value="1963">1963</option>
+                                        <option value="1962">1962</option>
+                                        <option value="1961">1961</option>
+                                        <option value="1960">1960</option>
+                                        <option value="1959">1959</option>
+                                        <option value="1958">1958</option>
+                                        <option value="1957">1957</option>
+                                        <option value="1956">1956</option>
+                                        <option value="1955">1955</option>
+                                        <option value="1954">1954</option>
+                                        <option value="1953">1953</option>
+                                        <option value="1952">1952</option>
+                                        <option value="1951">1951</option>
+                                        <option value="1950">1950</option>
+                                        <option value="1949">1949</option>
+                                        <option value="1948">1948</option>
+                                        <option value="1947">1947</option>
+                                        <option value="1946">1946</option>
+                                        <option value="1945">1945</option>
+                                        <option value="1944">1944</option>
+                                        <option value="1943">1943</option>
+                                        <option value="1942">1942</option>
+                                        <option value="1941">1941</option>
+                                        <option value="1940">1940</option>
+                                        <option value="1939">1939</option>
+                                        <option value="1938">1938</option>
+                                        <option value="1937">1937</option>
+                                        <option value="1936">1936</option>
+                                        <option value="1935">1935</option>
+                                        <option value="1934">1934</option>
+                                        <option value="1933">1933</option>
+                                        <option value="1932">1932</option>
+                                        <option value="1931">1931</option>
+                                        <option value="1930">1930</option>
+                                        <option value="1929">1929</option>
+                                        <option value="1928">1928</option>
+                                        <option value="1927">1927</option>
+                                        <option value="1926">1926</option>
+                                        <option value="1925">1925</option>
+                                        <option value="1924">1924</option>
+                                        <option value="1923">1923</option>
+                                        <option value="1922">1922</option>
+                                        <option value="1921">1921</option>
+                                        <option value="1920">1920</option>
+                                        <option value="1919">1919</option>
+                                        <option value="1918">1918</option>
+                                        <option value="1917">1917</option>
+                                        <option value="1916">1916</option>
+                                        <option value="1915">1915</option>
+                                        <option value="1914">1914</option>
+                                        <option value="1913">1913</option>
+                                        <option value="1912">1912</option>
+                                        <option value="1911">1911</option>
+                                    </select>
+                                </li>
+                                <li>
+                                    <label class="email" for="email">Email <span class="required">*</span></label>
+                                    <input id="id_email" type="text" class="text" name="email"> 
+                                </li>
+                                <li>
+                                    <label class="username" for="username">Username <span class="required">*</span></label>
+                                    <input id="id_username" type="text" class="text" name="username"> 
+                                </li>
+                                <li>
+                                    <label class="password" for="password">Password <span class="required">*</span></label>
+                                    <input id="id_password" type="password" class="text" name="password"> 
+                                </li>
+                                <li>
+                                    <label class="confirm-password" for="confirm_password">Confirm Password <span class="required">*</span></label>
+                                    <input id="id_confirm_password" type="password" class="text" name="confirm_password">
+                                </li>
+                            </ol>
+                        </fieldset>
+                        
+                        <button type="submit" class="submit">Register</button>
+                       
+                    </form>
+                </div>
+            </li>
+            <li id="footer-links-login" class="button">
+                <a href="#footer-links-login-form" id="footer-links-login-link" class="popovertrigger">Log In</a>
+                <div id="footer-links-login-form"class="popover">
+                <form method="post" action="/visitor/login">
+                    <input type="hidden" name="referer" value="http://michaelmoore.com/words/mike-friends-blog/another-wikileaks-cable">
+                    <fieldset>
+                        <ol>
+                            <li>
+                                <label class="username" for="login-username">Username</label>
+                                <input id="id_login" type="text" class="login-username text" name="login" maxlength="128">  
+                            </li>
+                            <li>
+                                <label class="password" for="login-password">Password</label>
+                                <input id="id_password" type="password" class="login-password text" name="password">
+                            </li>
+                        </ol>
+                    </fieldset>
+                    <p class="forgotpassword"><a href="/visitor/forgot">Forgot password?</a></p>
+                    <button type="submit" class="submit">Log In</button>
+                </form>
+                </div>
+            </li>
+            
+            <li class="link"><a href="/submit">Contact</a></li>
+            <li class="link"><a href="/books-films/">The Store</a></li>
+            <li class="link"><a href="/credits">Credits</a></li>
+            <li class="link last"><a href="/feeds/">RSS Feeds</a></li>
+        </ul>
+    </div>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-2bJot-XFUaT56"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-2bJot-XFUaT56.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+  </body>
+</html>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+_uacct = "UA-952900-1";
+urchinTracker();
+</script>
+
+

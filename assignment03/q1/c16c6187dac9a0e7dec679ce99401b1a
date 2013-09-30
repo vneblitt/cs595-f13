@@ -1,0 +1,727 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Homegrown DevOps Tools at Stack Exchange - Server Fault Blog</title>
+
+<link rel="stylesheet" href="http://blog.serverfault.com/wp-content/themes/sf_zimpleza/style.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title="Server Fault Blog RSS Feed" href="http://blog.serverfault.com/feed/" />
+<link rel="pingback" href="http://blog.serverfault.com/xmlrpc.php" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Server Fault Blog &raquo; Homegrown DevOps Tools at Stack Exchange Comments Feed" href="http://blog.serverfault.com/2013/09/05/homegrown-devops-tools-at-stack-exchange/feed/" />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js?ver=3.6.1'></script>
+<style type="text/css">img.{border:0;margin:0 0 0 2px !important;}</style>
+<!-- Tweet This v1.8.3 b037 mode alpha -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.serverfault.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog.serverfault.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Keeping Your Cool' href='http://blog.serverfault.com/2013/08/30/keeping-your-cool/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://blog.serverfault.com/2013/09/05/homegrown-devops-tools-at-stack-exchange/' />
+<link rel='shortlink' href='http://wp.me/p2cx9o-1yWVVa' />
+<link rel="stylesheet" type="text/css" href="http://blog.serverfault.com/wp-content/plugins/wp-recaptcha/recaptcha.css" />
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5620270-25']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+<body>
+
+<div id="wrap">
+<div id="content">
+									<div class="entry entry-1">
+		<div class="entrytitle">
+			<h2><a href="http://blog.serverfault.com/2013/09/05/homegrown-devops-tools-at-stack-exchange/" rel="bookmark" title="Permanent Link to Homegrown DevOps Tools at Stack Exchange">Homegrown DevOps Tools at Stack Exchange</a></h2> 
+			<h3>Kyle Brandt</h3>
+		</div>
+		<div class="entrybody">
+			<p>A lot of tools available in IT/Sysadmin/Ops/DevOps are disappointing:</p>
+
+<ul>
+<li>They don&#8217;t fit your environment. They lack features or our designed for a different sort of environment (i.e cloud vs hardware, Linux vs Windows, distributed vs centralized etc)</li>
+<li>You can&#8217;t interact with them programmatically</li>
+<li>They cost too much</li>
+<li>They are not customizable enough, or require too much customization to get off the ground </li>
+<li>Feel kludgy, unreliable, outdated, or like the programmers were stoned</li>
+<li>Don&#8217;t fit with your company&#8217;s culture (i.e. Enterprise vs Agile)</li>
+</ul>
+
+<p>In short a lot of stuff is too expensive, isn&#8217;t a good fit, or is simply bad software. This ends up leaving an ops team with two options. They can whine about it, or create their own tools. So at Stack Exchange we build our own DevOps tools.</p>
+
+<h1>Status</h1>
+
+<p>Nick Craver&#8217;s baby, which we just call &#8220;Status&#8221; is at first glance a monitoring dashboard, but is essentially a collection of tools that filled various needs:</p>
+
+<ul>
+<li>An <strong>Overview of CPU, Memory, and Network utilization</strong> for all our servers as well as a detailed view. Done with responsive and interactive D3 graphs as well as sparklines it helps compensate for Solar Wind&#8217;s terrible interface.
+<a href="http://blog.serverfault.com/files/2013/08/statussqlscreen2-png.png"><img src="http://blog.serverfault.com/files/2013/08/statussqlscreen2-png-300x232.png" alt="statussqlscreen2-png" width="300" height="232" class="alignright size-medium wp-image-1432573980" align="right" "padding: 3px"/></a></li>
+<li><strong>SQL Server monitoring</strong>. SQL&#8217;s built in Clustering views are deeply flawed. If a node loses connectivity, it stops updating remote nodes status, so it could show everything as connected and fine, even if there is no connectivity. We also get to see the most expensive queries, active queries utilizing whoisactive, current connections, and which DBs are on which server</li>
+<li><strong>HAProxy Monitoring and Administration</strong>: With multiple instances of HAProxy we needed a single view instead of HAProxy&#8217;s built-in display. Also, this gave us a nice web interface to take servers out of rotation
+<a href="http://blog.serverfault.com/files/2013/08/statusdashboardscreen-png.png"><img src="http://blog.serverfault.com/files/2013/08/statusdashboardscreen-png-300x133.png" alt="statusdashboardscreen-png" width="300" height="133" class="alignright size-medium wp-image-1432573978" align="right" "padding: 3px"/></a></li>
+<li><strong>Redis</strong>: A nice presentation of Redis Info across all instances and all servers. Also a display that shows what is slaved to what in at a quick glance</li>
+<li><strong>Elastic Search</strong>: Health overview of or clusters (as well as index and shard data)</li>
+<li>A dashboard of all the <strong>exceptions</strong> generated by our applications</li>
+</ul>
+
+<p>Status is C# / .NET app. It polls data from various sources &#8211; sometimes the system directly and other times it gets it from Orion. There is a lot more to status that makes it awesome. The real accomplishment is that status enables us to see the general health of our main infrastructure at a glance.</p>
+
+<h1>Web Logging</h1>
+
+<p>If you business is creating and running websites, your web logs are gold. We use the logs generated by our load balancer, HAProxy, as our canonical web logs. In their raw text format, web logs are often not that useful (this is particularly true with over 100 million records a day). However we parse and structure our web logs in a few different ways:</p>
+
+<p><a href="http://blog.serverfault.com/files/2013/08/realog.ds_.stackexchange.com_.png"><img src="http://blog.serverfault.com/files/2013/08/realog.ds_.stackexchange.com_-300x231.png" alt="realog.ds.stackexchange.com" width="300" height="231" class="aligncenter size-medium wp-image-1432573956" align="right" "padding: 3px"/></a></p>
+
+<ul>
+<li>We have C# service that Jarrod Dixon wrote that inserts them into SQL so we can query them. In order to query them we use an instance of Data Explorer, SQL management studio, and also have certain lookups directly from our sites</li>
+<li>Displaying realtime graphs of various log information with Realog, a system I created with Go, Redis, and NVD3.js so we could view activity live without having to write queries</li>
+</ul>
+
+<p>One of the interesting things we do with our weblogs is to add extra information by adding headers inside the app and striping them from the response at HAProxy. For example, we capture how many Redis and SQL queries were involved in that request and how long they took.</p>
+
+<h1>Patch Dashboard</h1>
+
+<p>OS updates can be a bit tedious, even more so in a mixed Windows and Linux environment. <a href="http://blog.serverfault.com/files/2013/08/PartialPatchDashboard.png"><img src="http://blog.serverfault.com/files/2013/08/PartialPatchDashboard-300x212.png" alt="PartialPatchDashboard" width="300" height="212" class="alignright size-medium wp-image-1432573991" align="right" "padding: 3px"/></a> Steven Murawski and George Beech created a dashboard that allows us:</p>
+
+<ul>
+<li>View the outstanding patches and patch count for both Linux and Windows</li>
+<li>Trigger updates on either Linux or Windows</li>
+<li>Schedule time frames for automatic Linux updates</li>
+</ul>
+
+<h1>What&#8217;s Next</h1>
+
+<p>If you want to learn more about these tools and DevOps at Stack Exchange, come see George, Nick, and Steven present <a href="http://velocityconf.com/velocityny2013/public/schedule/detail/30114">&#8220;Building for Operations&#8221; at Velocity</a>.</p>
+
+<p>Keeping all this stuff to ourselves feels a bit greedy. However, for something open sourced to be very useful it usually needs to be made a bit more generic which takes time. We also want to build a lot more. Our inventory system Racktables lacks an API so we need a new one or a way to extend it. We want to build our own monitoring system (likely on top of OpenTSDB). In order to create more, and open source it we need help. So we are looking a full time developer with ops experience to join our SRE team. So if you are awesome, want to build awesome ops stuff and open source it, <a href="http://careers.stackoverflow.com/jobs/39983/developer-site-reliability-team-stack-exchange">come join us</a>!</p>
+		</div>
+
+<!-- <div class="welovesoblog">
+<script type="text/javascript">
+google_ad_client = "pub-6254779591266030";
+google_ad_slot = "0263587744";
+google_ad_width = 468;
+google_ad_height = 60;
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div> -->
+
+		<div class="entrymeta">
+		<div class="postinfo">
+			<span class="postedby">Posted by <b>Kyle Brandt (@kylembrandt)</b> on September 5th, 2013</span><br/>
+			<span class="filedto">Filed under <a href="http://blog.serverfault.com/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a> </span><br/>
+		</div>
+		</div>
+
+        <div class="post-nav">
+            <div style="float:left; margin-right:10px;">
+                &laquo; <a href="http://blog.serverfault.com/2013/08/30/keeping-your-cool/" rel="prev">Keeping Your Cool</a>            </div>
+            <div style="float:right;margin-left:10px;">
+                            </div>
+        </div>
+
+        </div>
+
+	<div class="commentsblock">
+		
+<div id="disqus_thread">
+                    <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-1492">
+        <div id="dsq-comment-header-1492" class="dsq-comment-header">
+            <cite id="dsq-cite-1492">
+                <span id="dsq-author-user-1492">ChrisF</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1492" class="dsq-comment-body">
+            <div id="dsq-comment-message-1492" class="dsq-comment-message"><p>The link <a href="http://careers.stackoverflow.com/employer/jobs/50491/listing" rel="nofollow">http://careers.stackoverflow.com/employer/jobs/50491/listing</a> is dead.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-1493">
+        <div id="dsq-comment-header-1493" class="dsq-comment-header">
+            <cite id="dsq-cite-1493">
+                <span id="dsq-author-user-1493">Kyle Brandt</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1493" class="dsq-comment-body">
+            <div id="dsq-comment-message-1493" class="dsq-comment-message"><p>That was stupid of me, should be okay now. Thanks a bunch for pointing that out Chris!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-1494">
+        <div id="dsq-comment-header-1494" class="dsq-comment-header">
+            <cite id="dsq-cite-1494">
+                <span id="dsq-author-user-1494">Mike Robinson</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1494" class="dsq-comment-body">
+            <div id="dsq-comment-message-1494" class="dsq-comment-message"><p>I really like the Status overview screen &#8211; it&#8217;s clean, well aligned, and easy to scan. Definitely a good example of how to design a dashboard. The SQL screen is still a bit lacking though. I see lots of numbers and was wondering what the max values were, and how they relate to each other. Is 105/138 conns/sess good or bad?</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-1496">
+        <div id="dsq-comment-header-1496" class="dsq-comment-header">
+            <cite id="dsq-cite-1496">
+                <span id="dsq-author-user-1496">cdhunt</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1496" class="dsq-comment-body">
+            <div id="dsq-comment-message-1496" class="dsq-comment-message"><p>That&#8217;s always the question and a dashboard like Status helps you figure that out for your application/environment.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-1499">
+        <div id="dsq-comment-header-1499" class="dsq-comment-header">
+            <cite id="dsq-cite-1499">
+http://nickcraver.com/blog                <span id="dsq-author-user-1499">Nick Craver</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1499" class="dsq-comment-body">
+            <div id="dsq-comment-message-1499" class="dsq-comment-message"><p>Status will allow setting thresholds both globally and per instance for warnings, so you control your environment since what&#8217;s &#8220;right&#8221; really depends on your environment.  If a server goes red we&#8217;ll tell you why it&#8217;s red in a very simple way via balloon right on the dashboard, with a link to drill down to the actual problem if we have a screen that provides more detail on that issue.  For instance, we&#8217;d link to the connection list that shows connections on that instance and what queries they&#8217;re currently running for your example.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-1495">
+        <div id="dsq-comment-header-1495" class="dsq-comment-header">
+            <cite id="dsq-cite-1495">
+                <span id="dsq-author-user-1495">danlucraft</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1495" class="dsq-comment-body">
+            <div id="dsq-comment-message-1495" class="dsq-comment-message"><p>Is Realog open source?</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-2" id="dsq-comment-1500">
+        <div id="dsq-comment-header-1500" class="dsq-comment-header">
+            <cite id="dsq-cite-1500">
+                <span id="dsq-author-user-1500">Kyle Brandt</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1500" class="dsq-comment-body">
+            <div id="dsq-comment-message-1500" class="dsq-comment-message"><p>Not yet, but it is on my wishlist todo. Getting this stuff open sourced is one of the reasons we want a full time dev (see the link at the end of the post). To make realog opensource I would need to:
+  &#8211; Get some proper Config files going (i.e. the redis server isn&#8217;t in the code)
+  &#8211; I think I have a memory leak I need to figure out
+  &#8211; Write up some deployment instructions
+  &#8211; Clean up the more embarrassing sections in the code <img src='http://blog.serverfault.com/wp-includes/images/smilies/icon_wink.gif' alt=';-)' class='wp-smiley' /> </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-1497">
+        <div id="dsq-comment-header-1497" class="dsq-comment-header">
+            <cite id="dsq-cite-1497">
+                <span id="dsq-author-user-1497">Oskar Gewalli</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1497" class="dsq-comment-body">
+            <div id="dsq-comment-message-1497" class="dsq-comment-message"><p>I&#8217;ve tried doing logging easier for web apps using elastic and log4net: <a href="https://github.com/wallymathieu/ElasticElmah" rel="nofollow">https://github.com/wallymathieu/ElasticElmah</a></p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="post pingback">
+        <p>Pingback: <a href='http://www.rocketboom.com/news/homegrown-devops-tools-at-stack-exchange/' rel='external nofollow' class='url'>Homegrown DevOps Tools at Stack Exchange &#124; Rocketboom</a></p>
+    </li>
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-1501">
+        <div id="dsq-comment-header-1501" class="dsq-comment-header">
+            <cite id="dsq-cite-1501">
+                <span id="dsq-author-user-1501">Jeff Moser</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1501" class="dsq-comment-body">
+            <div id="dsq-comment-message-1501" class="dsq-comment-message"><p>This sounds great!</p>
+
+<p>It&#8217;d be nice to have an open source offering that works well with Windows machines and combines the types of things New Relic does for performance monitoring (especially its profiling support), Splunk does for logging, and Pager Duty for alerting.</p>
+
+<p>One relatively simple feature you could borrow from Etsy is to integrate it with deploy info so that deploys appear as colored vertical lines on all the graphs so you can visually tell if a deploy messed something up.</p>
+
+<p>Another nice term feature would be to have something like Etsy&#8217;s Kale (Skyline &amp; Oculus) for anomaly detection.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-1504">
+        <div id="dsq-comment-header-1504" class="dsq-comment-header">
+            <cite id="dsq-cite-1504">
+                <span id="dsq-author-user-1504">Kyle Brandt</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1504" class="dsq-comment-body">
+            <div id="dsq-comment-message-1504" class="dsq-comment-message"><p>&#8220;Status&#8221; actually does plot builds on the graphs as points (which show the build # etc on hover).</p>
+
+<p>The anomaly detection would be a nice addition at some point. I replicated a simple version of their methodology (StdDev&#8217;s from avg) in SQL queries against Orion. I&#8217;m also interested in things like making autocorrelation tables etc (Done a little bit of that by sucking all of Realog&#8217;s Redis data into Pandas). There are often a bunch of &#8220;obvious&#8221; correlations, but when you see things that are correlated that maybe should be (i.e. the number of hits on a certain HTTP route and the number of 5xx status codes) it can highlight an issue.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-1507">
+        <div id="dsq-comment-header-1507" class="dsq-comment-header">
+            <cite id="dsq-cite-1507">
+                <span id="dsq-author-user-1507">Jeff Moser</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1507" class="dsq-comment-body">
+            <div id="dsq-comment-message-1507" class="dsq-comment-message"><p>It&#8217;d be nice to make this anomaly detector as its own DLL/project. It could even work on something like IObservable of TimeSeriesValue of T making it play nice with the Reactive Extensions monad ecosystem.</p>
+
+<p>I&#8217;d be interested in helping out with statistics/machine learning parts of this piece if it&#8217;s open sourced and the rest of the Status tool works in our environment.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt depth-2" id="dsq-comment-1505">
+        <div id="dsq-comment-header-1505" class="dsq-comment-header">
+            <cite id="dsq-cite-1505">
+http://nickcraver.com/blog                <span id="dsq-author-user-1505">Nick Craver</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1505" class="dsq-comment-body">
+            <div id="dsq-comment-message-1505" class="dsq-comment-message"><p>We actually pull builds from TeamCity and put them on our graphs for the same reason.  I&#8217;d like the integration to be better since we narrow it to builds that actually affected THAT server, but haven&#8217;t found a cleaner way that allows the narrowing down we need as well.</p>
+
+<p>Since we deploy many, many times a day across many projects, showing them all isn&#8217;t an option really.  I&#8217;m wide open to thoughts on this, as we&#8217;d want it to work with any number of deployment systems with data available as well.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-1506">
+        <div id="dsq-comment-header-1506" class="dsq-comment-header">
+            <cite id="dsq-cite-1506">
+                <span id="dsq-author-user-1506">Jeff Moser</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1506" class="dsq-comment-body">
+            <div id="dsq-comment-message-1506" class="dsq-comment-message"><p>Perhaps each &#8220;metric&#8221; (plottable thingy) can be tagged with multiple tags.</p>
+
+<p>You could tag metrics by project (web, api, etc) as well as having a hierarchical &#8220;instance&#8221; tag of that metric (i.e. per server in a farm).</p>
+
+<p>Then your deploys could also be tagged by project and optionally by instances they&#8217;ve landed on (and when!).</p>
+
+<p>The deploy lines would appear if the deploy tags matched the metric tags (i.e. web == web).</p>
+
+<p>They could also be roll-up savvy so that if you have a metric that isn&#8217;t instance specific (i.e. it&#8217;s roll-up of all instances), you&#8217;d see all deploy lines of that project (or coalesce to a single bar). However, if the metric is instance-specific, you&#8217;d only see it if all tags, including the hierarchical tags matched (i.e. web == web &amp;&amp; instance==&#8221;NY-WEB01&#8243;)</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-1502">
+        <div id="dsq-comment-header-1502" class="dsq-comment-header">
+            <cite id="dsq-cite-1502">
+                <span id="dsq-author-user-1502">Kit</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1502" class="dsq-comment-body">
+            <div id="dsq-comment-message-1502" class="dsq-comment-message"><p>This is wonderful stuff and I can&#8217;t wait to see more of it! I work as a DBA in an operations team and put pride in building my own tools to monitor SQL Server outages (monitoring of services like SQL Agent, SQL Service) and also SQL job monitoring from database servers that require immediate attention. Such tools, customized to the department&#8217;s needs and requirements, greatly improves our productivity.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="post pingback">
+        <p>Pingback: <a href='http://code-inside.de/blog/2013/09/05/interne-tools-billig-und-geschmacklos-richtig/' rel='external nofollow' class='url'>Interne Tools &ndash; billig und geschmacklos, richtig? | Code-Inside Blog</a></p>
+    </li>
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-1508">
+        <div id="dsq-comment-header-1508" class="dsq-comment-header">
+            <cite id="dsq-cite-1508">
+                <span id="dsq-author-user-1508">Justizin</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1508" class="dsq-comment-body">
+            <div id="dsq-comment-message-1508" class="dsq-comment-message"><p>Did anyone else stop reading at &#8220;SQL Server&#8221; ? <img src='http://blog.serverfault.com/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-1509">
+        <div id="dsq-comment-header-1509" class="dsq-comment-header">
+            <cite id="dsq-cite-1509">
+                <span id="dsq-author-user-1509">siculars</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1509" class="dsq-comment-body">
+            <div id="dsq-comment-message-1509" class="dsq-comment-message"><p>The StackExchange folks are a well known Microsoft shop. Windows, MS SQL server, C#, etc. Might not be for you, as it is not for me, but don&#8217;t hate.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-1520">
+        <div id="dsq-comment-header-1520" class="dsq-comment-header">
+            <cite id="dsq-cite-1520">
+                <span id="dsq-author-user-1520">carlivar</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1520" class="dsq-comment-body">
+            <div id="dsq-comment-message-1520" class="dsq-comment-message"><p>I&#8217;m a long-time UNIX bigot but I&#8217;ll take SQL Server over Oracle any day.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-3" id="dsq-comment-1521">
+        <div id="dsq-comment-header-1521" class="dsq-comment-header">
+            <cite id="dsq-cite-1521">
+                <span id="dsq-author-user-1521">AndrewBurton</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1521" class="dsq-comment-body">
+            <div id="dsq-comment-message-1521" class="dsq-comment-message"><p>HERE, HERE!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-1512">
+        <div id="dsq-comment-header-1512" class="dsq-comment-header">
+            <cite id="dsq-cite-1512">
+                <span id="dsq-author-user-1512">Damian Harvey</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1512" class="dsq-comment-body">
+            <div id="dsq-comment-message-1512" class="dsq-comment-message"><p>What is the time x-axis: &#8220;33:10&#8243;? does it roll left to right and that is 33 hours 10 minutes from now?</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-1513">
+        <div id="dsq-comment-header-1513" class="dsq-comment-header">
+            <cite id="dsq-cite-1513">
+                <span id="dsq-author-user-1513">Kyle Brandt</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1513" class="dsq-comment-body">
+            <div id="dsq-comment-message-1513" class="dsq-comment-message"><p>The x-axis is Minute:Second of Wall clock time. Realog is designed to be entirely ephemeral and currently only has a 30 minute retention. Because all of our weblogs are sent to SQL, Realog is just a supplement.</p>
+
+<p>The retention period is <em>mostly</em> easily changed (There are a few variables to adjust in the project, one of the things that would be cleaned up before open sourcing).</p>
+
+<p>Why 30 Minutes?</p>
+
+<ul>
+<li><p>Realog &#8220;buckets&#8221; everything into 10 second data points (this can also be adjusted fairly easily, but not clean yet). With multiple JS graphs updating automatically every few seconds, 30*6=180 datapoints is a fair amount for the browser to process.  When I do a refresh, I do a union of the updated data so I am not fetching all 180 points, but the entire graph redraws. Getting around this would need more advanced D3.js skills than I have (either replacing/abandoning NVD3.js or modifying it). Also longer periods mean a spike is going to distort the graph. I do have &#8220;hidden&#8221; query parameters that limit the amount of time displayed so this could be expanded upon.</p></li>
+<li><p>One of the features &#8220;Top IPs&#8221; Tracks bandwidth and bytes per IP for the past 1 minute, 5 minute, 10 minutes, and 30 minutes. Calculating this and updating it frequently is done using ZSETs in Redis. This is a pretty expensive operation inside redis even though I have done a couple of optimizations: Culling the lists to keep the sets smaller and using the already calculated smaller ZSETS (For example, 10 minutes is done by using the 5min zsets, and the 6,7,8,9, and 10 minute ZSET). Since this all runs in a VM right now, extending this would be pretty taxing. If I really wanted to do this, a second Redis instance for the ZSET processing would allow this not to interfere with other processes (Redis is single threaded). I could have different retention settings for the TOP IPs feature and everything else. So a possibility, but out of scope based on my available time at the moment.</p></li>
+<li><p>More retention equals more memory. I&#8217;d like to push Realog to its limits some day, but since we have SQL we don&#8217;t really need it, so low priority for me.</p></li>
+<li><p>Lastly, and I know this really pretty lame <img src='http://blog.serverfault.com/wp-includes/images/smilies/icon_wink.gif' alt=';-)' class='wp-smiley' />  but keeping it under an hour allowed me to ignore trying to worry about timezones (D3.js&#8217; parse function currently doesn&#8217;t support timezones (%Z).</p></li>
+</ul>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-1514">
+        <div id="dsq-comment-header-1514" class="dsq-comment-header">
+            <cite id="dsq-cite-1514">
+                <span id="dsq-author-user-1514">DougN</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1514" class="dsq-comment-body">
+            <div id="dsq-comment-message-1514" class="dsq-comment-message"><p>Nice article Kyle &#8212; especially like the charts.  I have a specific question.  I work at a tiny competitor of SolarWinds, so when you said their interface is terrible, that really got my attention.  Would you mind telling me what you don&#8217;t like about it so we can be sure and not make the same mistake (or fix it if we already have)?</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-1515">
+        <div id="dsq-comment-header-1515" class="dsq-comment-header">
+            <cite id="dsq-cite-1515">
+http://stevenmurawski.com/                <span id="dsq-author-user-1515">Steven Murawski</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1515" class="dsq-comment-body">
+            <div id="dsq-comment-message-1515" class="dsq-comment-message"><p>I can&#8217;t speak for Kyle, but for me the Orion UI is terribly slow and non-responsive.  It really doesn&#8217;t follow many common usage patterns.. like the node search doesn&#8217;t actually search if you type a term and hit return, it just refreshes the page.   The web UI doesn&#8217;t expose all the management functionality either.. you need about 16 other separate GUI apps on the server to configure a number of things.. including alerting.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-1516">
+        <div id="dsq-comment-header-1516" class="dsq-comment-header">
+            <cite id="dsq-cite-1516">
+                <span id="dsq-author-user-1516">DougN</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1516" class="dsq-comment-body">
+            <div id="dsq-comment-message-1516" class="dsq-comment-message"><p>Thanks for the input Steven.  Sounds like we&#8217;re good then <img src='http://blog.serverfault.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-1519">
+        <div id="dsq-comment-header-1519" class="dsq-comment-header">
+            <cite id="dsq-cite-1519">
+                <span id="dsq-author-user-1519">aater</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1519" class="dsq-comment-body">
+            <div id="dsq-comment-message-1519" class="dsq-comment-message"><p>Stay on top of evolving cloud storage pricing models
+As a faculty at Austin University and CEO Flux7 Labs, I am holding some discussions this Tuesday specifically on cost effective cloud architecture. Inviting Managers and Cloud professionals. <a href="http://ohours.org/aatersuleman" rel="nofollow">http://ohours.org/aatersuleman</a> Looking forward to  your presence.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-1522">
+        <div id="dsq-comment-header-1522" class="dsq-comment-header">
+            <cite id="dsq-cite-1522">
+                <span id="dsq-author-user-1522">Zhoudong</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1522" class="dsq-comment-body">
+            <div id="dsq-comment-message-1522" class="dsq-comment-message"><p>Does this scale up properly when connected to a JQuery server?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-1523">
+        <div id="dsq-comment-header-1523" class="dsq-comment-header">
+            <cite id="dsq-cite-1523">
+                <span id="dsq-author-user-1523">kyro</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1523" class="dsq-comment-body">
+            <div id="dsq-comment-message-1523" class="dsq-comment-message"><p>Any reason why you don&#8217;t put this up on github/somewhere and let people see what it looks like now? I know you say needs to be more generic, but couldn&#8217;t that be done over time while the community can submit patches/improvements ?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-1530">
+        <div id="dsq-comment-header-1530" class="dsq-comment-header">
+            <cite id="dsq-cite-1530">
+                <span id="dsq-author-user-1530">Jason Ashby</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1530" class="dsq-comment-body">
+            <div id="dsq-comment-message-1530" class="dsq-comment-message"><p>I really dig the Patch Dashboard and could use that in my environment.  Are there any existing open source solutions similar to this?  I&#8217;m hoping you guys get this on github.  What language is it built on?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-1535">
+        <div id="dsq-comment-header-1535" class="dsq-comment-header">
+            <cite id="dsq-cite-1535">
+http://pixelmonkey.org/                <span id="dsq-author-user-1535">Andrew Montalenti</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1535" class="dsq-comment-body">
+            <div id="dsq-comment-message-1535" class="dsq-comment-message"><p>We&#8217;ve been wanting something like this at Parse.ly for a long time. We&#8217;ve been making due with dashboards built using Graphite, and then the usual soup of tools like Munin, NewRelic, Pingdom, PagerDuty, Sentry/Raven, etc. But one dashboard to rule them all would be awesome! It seems like this would be easier to do these days thanks to Chef / Cloud servers, but we still haven&#8217;t found a good open source project to host it all. OpenTSDB does, indeed, look very promising as a generic place to put time series monitoring data.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = 'http://blog.serverfault.com/2013/09/05/homegrown-devops-tools-at-stack-exchange/';
+    var disqus_identifier = '1432573932 http://blog.serverfault.com/?p=1432573932';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = 'disqus.com';
+    var disqus_shortname = 'serverfaultblog';
+    var disqus_title = "Homegrown DevOps Tools at Stack Exchange";
+        var disqus_config = function () {
+        var config = this; // Access to the config object
+        config.language = '';
+
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+                config.callbacks.onReady.push(function() {
+            // sync comments in the background so we don't block the page
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=1432573932';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
+        });
+                    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+            {
+                'author_name':    "Homegrown DevOps Tools at Stack Exchange &#124; Rocketboom",
+                'author_url':    "http:\/\/www.rocketboom.com\/news\/homegrown-devops-tools-at-stack-exchange\/",
+                'date':            "09\/05\/2013 02:46 PM",
+                'excerpt':        "[...] Homegrown DevOps Tools at Stack Exchange  Source: http:\/\/blog.serverfault.com\/2013\/09\/05\/homegrown-devops-tools-at-stack-exchange\/ 0 &nbsp;&nbsp; [...]<br \/>",
+                'type':            "pingback"            }
+,            {
+                'author_name':    "Interne Tools &ndash; billig und geschmacklos, richtig? | Code-Inside Blog",
+                'author_url':    "http:\/\/code-inside.de\/blog\/2013\/09\/05\/interne-tools-billig-und-geschmacklos-richtig\/",
+                'date':            "09\/05\/2013 05:04 PM",
+                'excerpt':        "[...] Stackoverflow-Team hat heute auch einen beeindruckenden Einblick in ihre DevOps Welt gegeben. Ein kleiner [...]<br \/>",
+                'type':            "pingback"            }
+        ],
+        'trackback_url': "http:\/\/blog.serverfault.com\/2013\/09\/05\/homegrown-devops-tools-at-stack-exchange\/trackback\/"    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.74';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+	</div>
+			<div class="navigation">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+		
+	</div>
+<div id="sidebar">
+<div id="sidebar-derecha">
+
+<a href="http://blog.serverfault.com/">
+<div id="header">
+    <h1>Server Fault Blog</h1>
+    <p class="description">The Stack Exchange Sysadmin Blog</p>
+</div>
+</a>
+
+<div id="search">
+    <form action="http://www.google.com/cse">
+      <div>
+        <input type="hidden" name="cx" value="011259092964359486222:5iowggz_nj0" />
+        <input type="hidden" name="ie" value="ISO-8859-1" />
+        <input type="text" name="q" size="24" />
+        <input type="submit" name="sa" value="Search" />
+      </div>
+    </form>
+</div>
+
+<h2>Recently</h2>
+<ul>
+	<li><a href='http://blog.serverfault.com/2013/09/05/homegrown-devops-tools-at-stack-exchange/' title='Homegrown DevOps Tools at Stack Exchange'>Homegrown DevOps Tools at Stack Exchange</a></li>
+	<li><a href='http://blog.serverfault.com/2013/08/30/keeping-your-cool/' title='Keeping Your Cool'>Keeping Your Cool</a></li>
+	<li><a href='http://blog.serverfault.com/2013/06/04/configuration-management-is-hard-responses/' title='Configuration Management is Hard &#8211; Responses'>Configuration Management is Hard &#8211; Responses</a></li>
+	<li><a href='http://blog.serverfault.com/2013/06/03/cross-platform-configuration-management-is-hard/' title='Cross Platform Configuration Management is Hard'>Cross Platform Configuration Management is Hard</a></li>
+	<li><a href='http://blog.serverfault.com/2013/05/29/welcome-serverfault-valued-associate-0000006-2/' title='Welcome, ServerFault Valued Associate #0000006!'>Welcome, ServerFault Valued Associate #0000006!</a></li>
+</ul>
+
+<h2>Pages</h2>
+<ul>
+<li class="page_item page-item-1432573139"><a href="http://blog.serverfault.com/about/">About</a></li>
+ 
+</ul>
+
+<h2>Archive</h2>
+<ul>
+	<li><a href='http://blog.serverfault.com/2013/09/' title='September 2013'>September 2013</a></li>
+	<li><a href='http://blog.serverfault.com/2013/08/' title='August 2013'>August 2013</a></li>
+	<li><a href='http://blog.serverfault.com/2013/06/' title='June 2013'>June 2013</a></li>
+	<li><a href='http://blog.serverfault.com/2013/05/' title='May 2013'>May 2013</a></li>
+	<li><a href='http://blog.serverfault.com/2013/02/' title='February 2013'>February 2013</a></li>
+	<li><a href='http://blog.serverfault.com/2012/12/' title='December 2012'>December 2012</a></li>
+	<li><a href='http://blog.serverfault.com/2012/11/' title='November 2012'>November 2012</a></li>
+	<li><a href='http://blog.serverfault.com/2012/10/' title='October 2012'>October 2012</a></li>
+	<li><a href='http://blog.serverfault.com/2012/08/' title='August 2012'>August 2012</a></li>
+	<li><a href='http://blog.serverfault.com/2012/07/' title='July 2012'>July 2012</a></li>
+	<li><a href='http://blog.serverfault.com/2012/04/' title='April 2012'>April 2012</a></li>
+	<li><a href='http://blog.serverfault.com/2012/03/' title='March 2012'>March 2012</a></li>
+	<li><a href='http://blog.serverfault.com/2012/02/' title='February 2012'>February 2012</a></li>
+	<li><a href='http://blog.serverfault.com/2012/01/' title='January 2012'>January 2012</a></li>
+	<li><a href='http://blog.serverfault.com/2011/12/' title='December 2011'>December 2011</a></li>
+	<li><a href='http://blog.serverfault.com/2011/11/' title='November 2011'>November 2011</a></li>
+	<li><a href='http://blog.serverfault.com/2011/10/' title='October 2011'>October 2011</a></li>
+	<li><a href='http://blog.serverfault.com/2011/09/' title='September 2011'>September 2011</a></li>
+	<li><a href='http://blog.serverfault.com/2011/08/' title='August 2011'>August 2011</a></li>
+	<li><a href='http://blog.serverfault.com/2011/07/' title='July 2011'>July 2011</a></li>
+	<li><a href='http://blog.serverfault.com/2011/06/' title='June 2011'>June 2011</a></li>
+	<li><a href='http://blog.serverfault.com/2011/05/' title='May 2011'>May 2011</a></li>
+	<li><a href='http://blog.serverfault.com/2011/04/' title='April 2011'>April 2011</a></li>
+	<li><a href='http://blog.serverfault.com/2011/03/' title='March 2011'>March 2011</a></li>
+	<li><a href='http://blog.serverfault.com/2011/02/' title='February 2011'>February 2011</a></li>
+	<li><a href='http://blog.serverfault.com/2011/01/' title='January 2011'>January 2011</a></li>
+	<li><a href='http://blog.serverfault.com/2010/12/' title='December 2010'>December 2010</a></li>
+	<li><a href='http://blog.serverfault.com/2010/10/' title='October 2010'>October 2010</a></li>
+	<li><a href='http://blog.serverfault.com/2010/09/' title='September 2010'>September 2010</a></li>
+	<li><a href='http://blog.serverfault.com/2010/08/' title='August 2010'>August 2010</a></li>
+	<li><a href='http://blog.serverfault.com/2010/07/' title='July 2010'>July 2010</a></li>
+	<li><a href='http://blog.serverfault.com/2010/06/' title='June 2010'>June 2010</a></li>
+	<li><a href='http://blog.serverfault.com/2010/05/' title='May 2010'>May 2010</a></li>
+</ul>
+
+<h2>Links</h2>
+<ul>
+<li><a href="http://blog.serverfault.com/feed">Full Post RSS Feed</a></li>
+<li><a href="http://serverfault.com">Server Fault</a></li>
+</ul>
+
+
+
+
+</div></div>
+<div id="prefooter"></div>
+<div id="footer">
+<div style="float:left; text-align:left;">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/" style="border-bottom:none;"><img alt="Creative Commons License" style="border-width:0; " src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png"/></a><br/><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Sound" property="dc:title" rel="dc:type">podcasts</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.
+</div>
+<div style="float:right;">38 queries. 0.292 seconds.</div>
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201340.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'32540042',v:'ext',post:'1432573932'});
+var load_cmc = function(){linktracker_init(32540042,1432573932,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+</div>
+
+</body>
+</html>
+<!-- This Quick Cache file was built for (  blog.serverfault.com/2013/09/05/homegrown-devops-tools-at-stack-exchange/ ) in 0.29204 seconds, on Sep 30th, 2013 at 1:16 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Sep 30th, 2013 at 1:21 pm UTC -->

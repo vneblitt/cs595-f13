@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=1.0">
+
+    <title>Deconstructing the International Space Station - Washington Post</title>
+    <meta name="twitter:title"          content="Deconstructing the international space station" />
+    <meta property="og:title"           content="Deconstructing the international space station" />
+    <meta name="description"            content="The international space station has its origins in 1984, when President Ronald Reagan, in his State of the Union address, directed NASA to build a space outpost within the next 10 years. The actual assembly of the ISS did not start until 1998, and all its main components were not in place until 2011." />
+    <meta property="og:description"     content="The international space station has its origins in 1984, when President Ronald Reagan, in his State of the Union address, directed NASA to build a space outpost within the next 10 years. The actual assembly of the ISS did not start until 1998, and all its main components were not in place until 2011."/>
+    <meta name="twitter:description"    content="The international space station has its origins in 1984, when President Ronald Reagan, in his State of the Union address, directed NASA to build a space outpost within the next 10 years. The actual assembly of the ISS did not start until 1998, and all its main components were not in place until 2011.">
+    <meta name="keywords"               content="NASA, space, space shuttle, chris hadfield, space oddity, canadian astronaut, mars, curiosity, rover, astronaut, international space station, ISS, Apollo, Russia, Obama, Columbia, Constellation, orion, SLS, charles bolden, lori garver, spacex, elon musk, JPL, hubble space telescope, kennedy space center, joel achenbach, joel achenbach nasa, joel achenbach space, achenbach space station, achenbach iss, joel achenbach washington post nasa, history of international space station, space timeline, nasa timeline, soyuz, mir, space station" />
+    <link rel="canonical"               href="http://www.washingtonpost.com/wp-srv/special/national/nasa-iss/" />
+    <meta property="og:url"             content="http://www.washingtonpost.com/wp-srv/special/national/nasa-iss/"/>
+    <meta name="twitter:url"            content="http://www.washingtonpost.com/wp-srv/special/national/nasa-iss/" />
+    <link rel="shorturl"                href="http://wapo.st/nasa-iss" />
+    <meta property="og:image"           content="http://www.washingtonpost.com/wp-srv/special/national/nasa-iss/img/iss-358-words.jpg" />
+    <meta name="twitter:image"          content="http://www.washingtonpost.com/wp-srv/special/national/nasa-iss/img/iss-358-words.jpg" />
+
+    <meta name="twitter:site"           content="@postgraphics" />
+    <meta property="article:publisher"  content="https://www.facebook.com/washingtonpost" />
+    <meta property="article:author"     content="https://www.facebook.com/postgraphics" />
+    <!--<meta name="twitter:creator"    content="@username" />-->
+    <meta name="twitter:card"           content="summary_large_image" />
+    <meta property="fb:app_id"          content="41245586762" />
+    <meta property="og:site_name"       content="Washington Post" />
+    <meta property="fb:admins"          content="1244584375" />
+    <meta property="fb:admins"          content="4403963" />
+    <meta property="fb:admins"          content="2724956" />
+    <meta property="fb:admins"          content="500835072" />
+    <meta property="fb:admins"          content="1513210492" />
+
+    <!-- FILL OUT THISNODE WITH SECTION HERE -->
+    <script type="text/javascript" charset="utf-8">
+        var thisNode = 'national',
+            thisPageName = document.location.pathname.replace('/wp-srv/special/', '');
+            TWP = window.TWP || {};
+    </script>
+
+    <!-- Le styles -->
+    <!-- You will need to fix up your include paths due to subdirectory of project -->
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/css/wpbootstrap.min.css" rel="stylesheet">
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/css/wpbootstrap-responsive.min.css" rel="stylesheet">
+    <!--
+        Foundation Zurb Text Icons Fonts: http://www.zurb.com/playground/foundation-icons
+        Example usage:
+        <i class="general foundicon-settings"></i> (Produces settings cog icon as a font)
+    -->
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/assets/fonts/foundation-icons/css/general_enclosed_foundicons.css" rel="stylesheet">
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/assets/fonts/foundation-icons/css/general_foundicons.css" rel="stylesheet">
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/assets/fonts/foundation-icons/css/social_foundicons.css" rel="stylesheet">
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/assets/fonts/foundation-icons/css/accessibility_foundicons.css" rel="stylesheet">
+    <!--[if lt IE 8]>
+        <link rel="stylesheet" href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/assets/fonts/foundation-icons/css/accessibility_foundicons_ie7.css">
+        <link rel="stylesheet" href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/assets/fonts/foundation-icons/css/general_enclosed_foundicons_ie7.css">
+        <link rel="stylesheet" href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/assets/fonts/foundation-icons/css/general_foundicons_ie7.css">
+        <link rel="stylesheet" href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/assets/fonts/foundation-icons/css/social_foundicons_ie7.css">
+    <![endif]-->
+    <!-- End Foundation Icon Fonts -->
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/css/colors.min.css" rel="stylesheet">
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/css/fonts.min.css" rel="stylesheet">
+    <!--[if IE]>
+        <link rel="stylesheet" href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/css/iefonts.css" type="text/css" charset="utf-8" />
+    <![endif]-->
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/css/inline.min.css" rel="stylesheet">
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/css/wp.min.css" rel="stylesheet">
+    <link href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/css/wp-responsive.min.css" rel="stylesheet">
+    <link href="http://css.wpdigital.net/wp-srv/graphics/css/mobile-base.css" rel="stylesheet">
+    <!-- INCLUDE YOUR OWN CSS FILE HERE -->
+    <link rel="stylesheet" type="text/css" href="css/nasa.css?0917">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="http://www.washingtonpost.com/favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/ico/apple-touch-icon-57-precomposed.png">
+
+    <!-- ADVERTISING CODE WITH MOBILE DETECTION -->
+    <script type="text/javascript">
+        // Mobile detection
+        var isMobile = {
+            Android: function() {
+                return navigator.userAgent.match(/Android/i) ? true : false;
+            },
+            BlackBerry: function() {
+                return navigator.userAgent.match(/BlackBerry/i) ? true : false;
+            },
+            iOS: function() {
+                return navigator.userAgent.match(/iPhone|iPad|iPod/i) ? true : false;
+            },
+            iPad: function() {
+                return navigator.userAgent.match(/iPad/i) ? true : false;
+            },
+            Windows: function() {
+                return navigator.userAgent.match(/IEMobile/i) ? true : false;
+            },
+            any: function() {
+                return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Windows());
+            }
+        };
+        // Mobile global var
+        var mobile_browser;
+        mobile_browser = 0;
+        if( isMobile.any() ) mobile_browser = 1;
+        // Special check for iOS for video
+        var ios_browser;
+        ios_browser = 0;
+        if( isMobile.iOS() ) ios_browser = 1;
+        // Another check for special iPad styles
+        var ipad_browser;
+        ipad_browser = 0;
+        if( isMobile.iPad() ) ipad_browser = 1;
+
+        // checking for mobile iframe
+        var has_iframe = window.location.href.indexOf('iframe') === -1 ? 0 : 1;
+
+        // IMPORTANT
+        // SET THE COMMERCIAL NODE
+        var commercialNode = thisNode;
+        // END COMMERCIAL NODE
+
+
+        // Conditional JS load for mobile
+        function loadRemoteScript(url, callback)
+        {
+            // adding the script tag to the head as suggested before
+           var head = document.getElementsByTagName('head')[0];
+           var script = document.createElement('script');
+           script.type = 'text/javascript';
+           script.src = url;
+           script.onload = callback;
+
+           // fire the loading
+           head.appendChild(script);
+        }
+
+        function scriptCallBack(){
+            // null callback
+        }
+
+        // then add the script/s...
+        if(mobile_browser > 0 && ipad_browser == 0) {
+            loadRemoteScript('http://js.washingtonpost.com/wp-srv/ad/mobile.js',scriptCallBack);
+        }
+    </script>
+    <!-- Core AD code includes -->
+    <script type="text/javascript" src="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/js/jquery-min.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/ad/generic_ad.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/ad/wp.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/1h/twp-identity.js"></script>
+    <!-- Main Bootstrap Functionality, Controls Menu -->
+    <script type="text/javascript" src="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/js/bootstrap.min.js"></script>
+    <!-- Main Controls JS -->
+    <script type="text/javascript" src="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/js/wpcontrols.min.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/graphics/js/twp.util.js"></script>
+    <script type="text/javascript" src="http://js.washingtonpost.com/wp-srv/graphics/js/mobile-base.js?130801"></script>
+</head>
+
+<!--[if lte IE 8]><body class="ie78 static"><![endif]-->
+<body id="skrollr-body" data-top="background-attachment: fixed; background-position: 0 600px;" data-center="background-attachment: fixed; background-position: 0 550px;" data-bottom="background-attachment: fixed; background-position: 0 500px;">
+    <script>if (document.location.href.indexOf('template=iframe') !== -1) { document.body.style.display = 'none'; thisPageName += ' - iframe'; }</script>
+    <!-- GLOBAL RESPONSIVE HEADER -->
+    <div id="nav">
+        <a class="branding" href="//www.washingtonpost.com">
+            <div class="hidden-phone">
+                <img class="" src="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/img/thewashingtonpost.png" alt="The Washington Post"/>
+            </div>
+            <div class="visible-phone">
+                <img class="" src="http://www.washingtonpost.com/grid/wp-content/themes/wapo-grid-theme/img/wp_white_60.png" alt="The Washington Post"/>
+            </div>
+        </a>
+<!--         <p class="title">
+            <a href="#main-container">A swing of beauty</a>
+        </p> -->
+        <ul class="sections nav">
+            <li class="share">
+                <a href="#">
+                    <span class="text">Share</span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                    <li id="dd-share-em"><a href="" title="Email" target="_blank"><i class="icon-envelope-alt mr5"></i> Email</a></li>
+                    <li class="divider show-for-medium-and-up"></li>
+                    <li id="dd-share-fb"><a href="" target="_blank"><i class="icon-facebook mr5"></i> Facebook</a></li>
+                    <li class="divider show-for-medium-and-up"></li>
+                    <li id="dd-share-tw"><a href="" target="_blank"><i class="icon-twitter mr5"></i> Tweet</a></li>
+                </ul>
+            </li>
+            <!-- <li class="comment visible-desktop">
+                <a href="#comments">
+                    <span class="icon">
+                        <img src="http://www.washingtonpost.com/wp-srv/special/sports/cycling/images/comment-icon.png">
+                    </span>
+                    <span class="text">Comment</span>
+                </a>
+            </li> -->
+        </ul>
+        <div class="clear"></div>
+    </div>
+
+    <!-- END GLOBAL RESPONSIVE NAV -->
+
+    <!-- SWAP OUT HEADER HTML HERE: header-main or header-section -->
+    <!-- MAIN Logo Container for Header -->
+    <!-- <div id="mobile-header" class="visible-phone mb0">
+        <div class="navbar navbarlogo">
+            <div class="pagination-centered">
+                <a href="http://washingtonpost.com" title="The Washington Post"><img src="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/img/thewashingtonpost-black.png" class="wplogo xlarge" alt="The Washington Post"></a>
+            </div>
+        </div>
+    </div> -->
+    <!-- End MAIN Header Logo Container -->
+    <!-- // END SWAP OUT HEADER HTML HERE: header-main or header-section -->
+
+    <!-- SECTION Logo Container for Header (remove "hidden" and add "visible-phone" class to show and hide toplogo) -->
+    <div id="mobile-header" class="hidden">
+        <div class="navbar tight navbarlogo navsection">
+            <div class="pagination-centered">
+                <!-- Replace this link with section direct link or leave as home -->
+                <a href="http://m.washingtonpost.com" title="The Washington Post">
+                    <img src="http://www.washingtonpost.com/wp-srv/graphics/templates/mobile/img/thewashingtonpost-black.png" class="wplogo tiny" alt="The Washington Post">
+                    <!-- REPLACE with Section name -->
+                    <h1 id="pagetitle" class="wptitle blacktxt">Section</h1>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!-- END SECTION Logo Container for Header -->
+
+    <!-- BEGIN ADS -->
+    <!-- Leader Board Ad Container -->
+    <div id="leaderboardad" class="container-fluid pt15 pr20 pb0 pl20 mb20 hidden-phone">
+      <div class="adcontainer">
+          <small class="ad-label">AD</small>
+          <div class="leaderboard">
+              <!--LEADERBOARD AD BEGIN-->
+              <div id="slug_leaderboard" style="display:none;">
+                        <script type="text/javascript">
+                            if(mobile_browser == 0 || ipad_browser == 1 || has_iframe == 1){
+                            placeAd2(commercialNode,"leaderboard",false,'');
+                            }
+                        </script>
+              </div>
+              <!--LEADERBOARD AD END-->
+          </div>
+      </div>
+    </div>
+
+    <!-- Mobile Ad Container -->
+    <div id="mobilead" class="mobilecontainer visible-phone">
+      <div class="mobilebanner">
+          <!--T AD BEGIN-->
+          <!-- REPLACE THIS WITH YOUR AD TAG OR REMOVE WHOLE BLOCK -->
+            <div id="slug_t" style="display:none;">
+            <script type="text/javascript">
+                if(mobile_browser > 0 && ipad_browser == 0 || has_iframe == 1){
+                    placeAd2(commercialNode, 't', false, '');
+                }
+            </script>
+          </div>
+          <!--T AD END-->
+      </div>
+    </div>
+    <!-- END ADS -->
+
+    <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+    <!-- !!!!!!!!!! MAIN CONTENT STARTS HERE !!!!!!!!!! -->
+    <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+
+    <div id="main-container" class="container">
+        <h1 class="postoni">Deconstructing the ISS</h1>
+
+        <p class="byline franklin gray">By Alberto Cuadra and Katie Park, Published Sept. 14, 2013</p>
+        <p class="body franklin intro">The international space station has its origins in 1984, when President Ronald Reagan, in his State of the Union address, directed NASA to build a space outpost within the next 10 years. The actual assembly of the ISS did not start until 1998, and all its main components were not in place until 2011. The ISS is an unprecedented feat of engineering, but its utility as an orbital research facility has been questioned because of its enormous maintenance costs: $3 billion every year. <a href="http://www.washingtonpost.com/sf/national/2013/09/14/the-skies-the-limits/">Read related article.</a></p>
+
+        <!-- if it's an iframe embed, only content in here will show -->
+        <div class="main-content">
+            <div class="anim-wrapper mt20 posrel">
+                <div class="anim-labels">
+                    <div class="label-wrapper posabs" style="top: 0px;">
+                        <div class="label-left posrel franklin" data-10="filter: alpha(opacity=100); opacity: 1;" data-500="filter: alpha(opacity=30); opacity: 0.3;">
+                            <p class="label-year">2011</p>
+                            <p class="label-hed franklin-bold">Final touches</p>
+                            <p class="label-right franklin label-2011" data-10="filter: alpha(opacity=100); opacity: 1;" data-500="filter: alpha(opacity=0); opacity: 0;">By 2011, all the station’s main habitable components have been installed, as well as its full array of power cells. The station relies mainly on Russian Soyuz capsules to receive new supplies and crews.</p>
+                            <div class="left-anno hover-2011-a">
+                                <p class="left-anno-hed">Columbus</p>
+                                <p class="franklin">The European laboratory module has a projected life span of 10 years and is the biggest contribution of the E.U. to the station.</p>
+                                <img src="img/module-2011a.png" class="hover-img">
+                            </div>
+                            <div class="left-anno hover-2011-b">
+                                <p class="left-anno-hed">Kibo</p>
+                                <p class="franklin">The Japanese pressurized module is Japan’s first human space facility. The orbital laboratory consists of two pressurized modules, an exposed  facility for experiments in the vacuum of space, and its own robotic arm.</p>
+                                <img src="img/module-2011b.png" class="hover-img">
+                            </div>
+                            <div class="left-anno hover-2011-c">
+                                <p class="left-anno-hed">Robonaut 2</p>
+                                <p class="franklin">A humanoid robotic torso designed to assist the crew during spacewalks with the manipulation of small pieces of hardware. </p>
+                                <img src="img/module-2011c.png" class="hover-img">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="label-wrapper posabs" style="top: 380px;">
+                        <div class="label-left franklin" data-10="filter: alpha(opacity=30); opacity: 0.3;" data-500="filter: alpha(opacity=100); opacity: 1;" data-990="filter: alpha(opacity=30); opacity: 0.3;" data-910="filter: alpha(opacity=30); opacity: 0.3;">
+                            <p class="label-year">2008</p>
+                            <p class="label-hed franklin-bold">The last pieces</p>
+                            <p class="label-right franklin label-2008" data-10="filter: alpha(opacity=0); opacity: 0;" data-500="filter: alpha(opacity=100); opacity: 1;" data-990="filter: alpha(opacity=0); opacity: 0;">Following the space shuttle Columbia disaster in 2003, construction of the station is halted. The assembly of the station resumes in 2006. By 2008, most of the main components of the space outpost are in place.</p>
+                            <div class="left-anno hover-2008-a">
+                                <p class="left-anno-hed">Harmony</p>
+                                <p class="franklin">A vital connecting corridor between the research laboratories of the station: Destiny (U.S.), Columbus (European Union) and Kibo (Japan). Harmony is installed in the space station in 2007, ahead of the aggregation of the Japanese and European modules.</p>
+                                <img src="img/module-2008a.png" class="hover-img">
+                            </div>
+                            <div class="left-anno hover-2008-b">
+                                <p class="left-anno-hed">Integrated truss structure (ITS)</p>
+                                <p class="franklin">The backbone of the space station, the truss is divided into 12 segments with the designation S and P (starboard and port). The ITS holds the majority of the solar cells that provide power to the station, with a total surface of 38,000 square feet, the equivalent of eight basketball courts. The truss is the longest man-made structure ever put in space.</p>
+                                <img src="img/module-2008b.png" class="hover-img" style="width: 180%;">
+                            </div>
+                            <div class="left-anno hover-2008-c">
+                                <p class="left-anno-hed">Solar cells</p>
+                                <p class="franklin">Each solar array wing (SAW) contains two retractable structures, each 115 feet long, with a mast in between them. Each wing uses nearly 33,000 cells. The eight wings generate a total of 84 kilowatts.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="label-wrapper posabs" style="top: 760px;">
+                        <div class="label-left franklin" data-10="filter: alpha(opacity=30); opacity: 0.3;" data-500="filter: alpha(opacity=30); opacity: 0.3;" data-990="filter: alpha(opacity=100); opacity: 1;" data-1300="filter: alpha(opacity=30); opacity: 0.3;">
+                            <p class="label-year">2002</p>
+                            <p class="label-hed franklin-bold">Rapid growth</p>
+                            <p class="label-right franklin label-2002" data-10="filter: alpha(opacity=0); opacity: 0;" data-500="filter: alpha(opacity=0); opacity: 0;" data-990="filter: alpha(opacity=100); opacity: 1;" data-1300="filter: alpha(opacity=0); opacity: 0;">Four years after its first component was put into orbit, the station is capable of sustaining a permanent crew of three and has its first research module, the U.S. laboratory known as Destiny. </p>
+                            <div class="left-anno hover-2002-a">
+                                <p class="left-anno-hed">Destiny</p>
+                                <p class="franklin">The primary research facility for U.S. experiments and the first permanent operating orbital research station since Skylab in 1974. Built by Boeing, this 16-ton laboratory is attached to the station in 2001.</p>
+                                <img src="img/module-2002a.png" class="hover-img">
+                            </div>
+                            <div class="left-anno hover-2002-b">
+                                <p class="left-anno-hed">Zvezda (Star)</p>
+                                <p class="franklin">Installed in July 2000, Russia’s service module provides the station’s first living and lab quarters.</p>
+                                <img src="img/module-2002b.png" class="hover-img">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="label-wrapper posabs" style="top: 1140px;">
+                        <div class="label-left franklin" data-10="filter: alpha(opacity=30); opacity: 0.3;" data-500="filter: alpha(opacity=30); opacity: 0.3;" data-990="filter: alpha(opacity=30); opacity: 0.3;" data-1300="filter: alpha(opacity=100); opacity: 1;">
+                            <p class="label-year">1998</p>
+                            <p class="label-hed franklin-bold">Fully energized</p>
+                            <p class="label-right franklin label-1998" data-10="filter: alpha(opacity=0); opacity: 0;" data-500="filter: alpha(opacity=0); opacity: 0;" data-990="filter: alpha(opacity=0); opacity: 0;" data-1300="filter: alpha(opacity=100); opacity: 1;">The first module of the international space station is the Russian-built Functional Cargo Block, also known as Zarya (Sunrise). This component gives the space outpost its initial power, storage and propulsion capabilities </p>
+                            <div class="left-anno hover-1998-a">
+                                <p class="left-anno-hed">Zarya (Dawn)</p>
+                                <p class="franklin">Originally designed as a module for the Russian space station Mir. The module has three docking points and plays a vital role during the early stages of the station’s assembly.</p>
+                                <img src="img/module-1998.png" class="hover-img">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="anim-panel posabs" data-year="1998" data-10="top[swing]: 20px;" data-500="top[swing]: 400px;" data-520="top[swing]: 400px;" data-990="top[swing]: 800px;" data-1010="top[swing]: 800px;" data-1300="top[swing]: 1200px;">
+                    <div class="hex-sizer posrel">
+                        <img src="img/spacer.png" class="posrel">
+                        <img src="img/ISS-1998a.png" class="posabs anim-panel-overlay panel-1998a" data-1010="width[linear]: 100%; max-width: 100%; margin-left: 0%; margin-top: 0%;" data-1300="width[linear]: 180%; max-width[linear]: 180%; margin-left[linear]: -50%; margin-top: -20%">
+                        <img src="img/hex-a.png" data-10="display: !none;" data-1230="filter: alpha(opacity=0); opacity: 0; display: !block;" data-1300="filter: alpha(opacity=60); opacity: 0.6;" data-year="1998" data-hover="hover-1998-a" class="hex-img posabs" style="left: 54%; top: 17%;">
+                    </div>
+                </div>
+                <div class="anim-panel posabs" data-year="2002" data-10="top[swing]: 20px;" data-500="top[swing]: 400px;" data-520="top[swing]: 400px;" data-990="top[swing]: 800px;" data-1010="top[swing]: 800px;">
+                    <div class="hex-sizer posrel">
+                        <img src="img/ISS-2002b.png" class="posrel panel-2002" data-600="filter: alpha(opacity=0); opacity: 0; margin-top: -50px;" data-990="filter: alpha(opacity=100); opacity: 1; margin-top: 0px;" data-1010="filter: alpha(opacity=100); opacity: 1;" data-1300="filter: alpha(opacity=30); opacity: 0.3;">
+                        <img src="img/ISS-2002.png" class="posabs anim-panel-overlay" data-1010="filter: alpha(opacity=100); opacity: 1;" data-1300="filter: alpha(opacity=30); opacity: 0.3;">
+                        <img src="img/ISS-2002c.png" class="posabs anim-panel-overlay" data-600="filter: alpha(opacity=0); opacity: 0; margin-top: -50px;" data-990="filter: alpha(opacity=100); opacity: 1; margin-top: 0px;" data-1010="filter: alpha(opacity=100); opacity: 1;" data-1300="filter: alpha(opacity=30); opacity: 0.3;">
+                        <img src="img/hex-a.png" data-10="display: !none;" data-920="filter: alpha(opacity=0); opacity: 0; display: !block;" data-990="filter: alpha(opacity=60); opacity: 0.6;" data-1010="filter: alpha(opacity=60); opacity: 0.6;" data-1300="filter: alpha(opacity=30); opacity: 0.3;" data-year="2002" data-hover="hover-2002-a" class="hex-img posabs" style="left: 51%; top: 49%;">
+                        <img src="img/hex-a.png" data-10="display: !none;" data-920="filter: alpha(opacity=0); opacity: 0; display: !block;" data-990="filter: alpha(opacity=60); opacity: 0.6;" data-1010="filter: alpha(opacity=60); opacity: 0.6;" data-1300="filter: alpha(opacity=30); opacity: 0.3;" data-year="2002" data-hover="hover-2002-b" class="hex-img posabs" style="left: 62%; top: 31%;">
+                    </div>
+                </div>
+                <div class="anim-panel posabs" data-year="2008" data-10="top[swing]: 20px;" data-500="top[swing]: 400px;" data-520="top[swing]: 400px;">
+                    <div class="hex-sizer posrel">
+                        <img src="img/ISS-2008.png" class="posrel panel-2008"data-520="filter: alpha(opacity=100); opacity: 1;" data-990="filter: alpha(opacity=30); opacity: 0.3;">
+                        <img src="img/hex-a.png" data-10="display: !none;" data-450="filter: alpha(opacity=0); opacity: 0; display: !block;" data-520="filter: alpha(opacity=60); opacity: 0.6;" data-990="filter: alpha(opacity=30); opacity: 0.3;" data-year="2008" data-hover="hover-2008-a" class="hex-img posabs" style="left: 49%; top: 52%;">
+                        <img src="img/hex-a.png" data-10="display: !none;" data-450="filter: alpha(opacity=0); opacity: 0; display: !block;" data-520="filter: alpha(opacity=60); opacity: 0.6;" data-990="filter: alpha(opacity=30); opacity: 0.3;" data-year="2008" data-hover="hover-2008-b" class="hex-img posabs" style="left: 39%; top: 33%;">
+                        <img src="img/hex-a.png" data-10="display: !none;" data-450="filter: alpha(opacity=0); opacity: 0; display: !block;" data-520="filter: alpha(opacity=60); opacity: 0.6;" data-990="filter: alpha(opacity=30); opacity: 0.3;" data-year="2008" data-hover="hover-2008-c" class="hex-img posabs" style="left: 70%; top: 74%;">
+                    </div>
+                </div>
+                <div class="anim-panel posabs" data-year="2011">
+                    <div class="hex-sizer posrel">
+                        <img src="img/ISS-2011.png" data-10="filter: alpha(opacity=100); opacity: 1;" data-500="filter: alpha(opacity=30); opacity: 0.3;">
+                        <img src="img/hex-a.png" data-10="filter: alpha(opacity=60); opacity: 0.6;" data-500="filter: alpha(opacity=30); opacity: 0.3;" data-year="2011" data-hover="hover-2011-a" class="hex-img posabs" style="left: 43%; top: 53%;">
+                        <img src="img/hex-a.png" data-10="filter: alpha(opacity=60); opacity: 0.6;" data-500="filter: alpha(opacity=30); opacity: 0.3;" data-year="2011" data-hover="hover-2011-b" class="hex-img posabs" style="left: 52%; top: 59%;">
+                        <img src="img/hex-a.png" data-10="filter: alpha(opacity=60); opacity: 0.6;" data-500="filter: alpha(opacity=30); opacity: 0.3;" data-year="2011" data-hover="hover-2011-c" class="hex-img posabs" style="left: 50%; top: 49%;">
+                    </div>
+                </div>
+
+            </div>
+            <div class="m-content-wrapper">
+                <div class="m-panel franklin mt20" data-year="2011">
+                    <p class="label-year">2011</p>
+                    <p class="label-hed franklin-bold">Final touches</p>
+                    <div class="posrel">
+                        <img src="img/ISS-2011.png" class="m-img">
+                        <img src="img/hex-a.png" data-year="2011" data-hover="hover-2011-a" class="hex-img posabs" style="left: 43%; top: 53%;">
+                        <img src="img/hex-a.png" data-year="2011" data-hover="hover-2011-b" class="hex-img posabs" style="left: 53%; top: 61%;">
+                        <img src="img/hex-a.png" data-year="2011" data-hover="hover-2011-c" class="hex-img posabs" style="left: 60%; top: 35%;">
+                    </div>
+                    <p class="label-right label-2011">By 2011, all the station’s main habitable components have been installed, as well as its full array of power cells. The station relies mainly on Russian Soyuz capsules to receive new supplies and crews.</p>
+                    <div class="m-anno hover-2011-a">
+                        <p class="left-anno-hed">Columbus</p>
+                        <p class="franklin">The European laboratory module has a projected life span of 10 years and is the biggest contribution of the E.U. to the station.</p>
+                        <img src="img/module-2011a.png" class="hover-img">
+                    </div>
+                    <div class="m-anno hover-2011-b">
+                        <p class="left-anno-hed">Kibo</p>
+                        <p class="franklin">The Japanese pressurized module is Japan’s first human space facility. The orbital laboratory consists of two pressurized modules, an exposed  facility for experiments in the vacuum of space, and its own robotic arm.</p>
+                        <img src="img/module-2011b.png" class="hover-img">
+                    </div>
+                    <div class="m-anno hover-2011-c">
+                        <p class="left-anno-hed">Robonaut 2</p>
+                        <p class="franklin">A humanoid robotic torso designed to assist the crew during spacewalks with the manipulation of small pieces of hardware. </p>
+                        <img src="img/module-2011c.png" class="hover-img">
+                    </div>
+                </div>
+                <div class="m-panel franklin" data-year="2008">
+                    <p class="label-year">2008</p>
+                    <p class="label-hed franklin-bold">The last pieces</p>
+                    <div class="hex-sizer posrel">
+                        <img src="img/ISS-2008.png" class="m-img">
+                        <img src="img/hex-a.png" data-year="2008" data-hover="hover-2008-a" class="hex-img posabs" style="left: 49%; top: 52%;">
+                        <img src="img/hex-a.png" data-year="2008" data-hover="hover-2008-b" class="hex-img posabs" style="left: 39%; top: 33%;">
+                        <img src="img/hex-a.png" data-year="2008" data-hover="hover-2008-c" class="hex-img posabs" style="left: 70%; top: 74%;">
+                    </div>
+                    <p class="label-right label-2008">Following the space shuttle Columbia disaster in 2003, construction of the station is halted. The assembly of the station resumes in 2006. By 2008, most of the main components of the space outpost are in place.</p>
+                    <div class="m-anno hover-2008-a">
+                        <p class="left-anno-hed">Harmony</p>
+                        <p class="franklin">A vital connecting corridor between the research laboratories of the station: Destiny (U.S.), Columbus (European Union) and Kibo (Japan). Harmony is installed in the space station in 2007, ahead of the aggregation of the Japanese and European modules.</p>
+                        <img src="img/module-2008a.png" class="hover-img">
+                    </div>
+                    <div class="m-anno hover-2008-b">
+                        <p class="left-anno-hed">Integrated truss structure (ITS)</p>
+                        <p class="franklin">The backbone of the space station, the truss is divided into 12 segments with the designation S and P (starboard and port). The ITS holds the majority of the solar cells that provide power to the station, with a total surface of 38,000 square feet, the equivalent of eight basketball courts. The truss is the longest man-made structure ever put in space.</p>
+                        <img src="img/module-2008b.png" class="hover-img hover-img-big" style="width: 220%;">
+                    </div>
+                    <div class="m-anno hover-2008-c">
+                        <p class="left-anno-hed">Solar cells</p>
+                        <p class="franklin">Each solar array wing (SAW) contains two retractable structures, each 115 feet long, with a mast in between them. Each wing uses nearly 33,000 cells. The eight wings generate a total of 84 kilowatts.</p>
+                    </div>
+                </div>
+                <div class="m-panel franklin" data-year="2002">
+                    <p class="label-year">2002</p>
+                    <p class="label-hed franklin-bold">Rapid growth</p>
+                    <div class="hex-sizer posrel">
+                        <img src="img/ISS-2002all.png" class="m-img">
+                        <img src="img/hex-a.png" data-year="2002" data-hover="hover-2002-a" class="hex-img posabs" style="left: 51%; top: 49%;">
+                        <img src="img/hex-a.png" data-year="2002" data-hover="hover-2002-b" class="hex-img posabs" style="left: 62%; top: 31%;">
+                    </div>
+                    <p class="label-right mt-10 label-2002">Four years after its first component was put into orbit, the station is capable of sustaining a permanent crew of three and has its first research module, the U.S. laboratory known as Destiny.</p>
+                    <div class="m-anno mt-10 hover-2002-a">
+                        <p class="left-anno-hed">Destiny</p>
+                        <p class="franklin">The primary research facility for U.S. experiments and the first permanent operating orbital research station since Skylab in 1974. Built by Boeing, this 16-ton laboratory is attached to the station in 2001.</p>
+                        <img src="img/module-2002a.png" class="hover-img">
+                    </div>
+                    <div class="m-anno mt-10 hover-2002-b">
+                        <p class="left-anno-hed">Zvezda (Star)</p>
+                        <p class="franklin">Installed in July 2000, Russia’s service module provides the station’s first living and lab quarters.</p>
+                        <img src="img/module-2002b.png" class="hover-img">
+                    </div>
+                </div>
+                <div class="m-panel franklin" data-year="1998">
+                    <p class="label-year">1998</p>
+                    <p class="label-hed franklin-bold">Fully energized</p>
+                    <div class="hex-sizer posrel">
+                        <img src="img/spacer.png" class="m-img">
+                        <img src="img/ISS-1998a.png" class="m-img-big posabs">
+                        <img src="img/hex-a.png" data-year="1998" data-hover="hover-1998-a" class="hex-img posabs" style="left: 54%; top: 17%;">
+                    </div>
+                    <p class="label-right mt-30 label-1998">The first module of the international space station is the Russian-built Functional Cargo Block, also known as Zarya (Sunrise). This component gives the space outpost its initial power, storage and propulsion capabilities.</p>
+                    <div class="m-anno mt-30 hover-1998-a">
+                        <p class="left-anno-hed">Zarya (Dawn)</p>
+                        <p class="franklin">Originally designed as a module for the Russian space station Mir. The module has three docking points and plays a vital role during the early stages of the station’s assembly.</p>
+                        <img src="img/module-1998.png" class="hover-img">
+                    </div>
+                </div>
+            </div>
+            <div id="milestone-wrap" class="franklin">
+                <p class="label-milestone">Major milestones</p>
+                <div class="mile-row posrel">
+                    <div class="row-line posabs"></div>
+                    <div class="milestone-box">
+                        <p class="left-anno-hed">Oct. 20, 1998</p>
+                        <p class="mile-text">A Russian Proton rocket launches the first module of the station: Zarya (Sunrise).</p>
+                    </div>
+                    <div class="milestone-box">
+                        <p class="left-anno-hed">Dec. 4, 1998</p>
+                        <p class="mile-text">Unity, the first U.S.-built component of the station, launches with the first space shuttle mission dedicated to the assembly of the outpost.</p>
+                    </div>
+                    <div class="milestone-box">
+                        <p class="left-anno-hed">Oct. 2, 2000</p>
+                        <img class="mile-img" src="img/illo-astro.png">
+                        <p class="mile-text">Astronaut Bill Shepherd and cosmonauts Yuri Gidzenko and Sergei Krikalev become the first crew members aboard the station. They stay in space for several months.</p>
+                    </div>
+                    <div class="milestone-box">
+                        <p class="left-anno-hed">Nov. 30, 2000</p>
+                        <p class="mile-text">The P6 truss is installed. This component includes the first piece of the main solar-cell array that powers the station.</p>
+                    </div>
+                </div>
+                <div class="mile-row posrel">
+                    <div class="row-line posabs"></div>
+                    <div class="milestone-box">
+                        <p class="left-anno-hed">Feb. 7, 2001</p>
+                        <p class="mile-text">Destiny, the U.S. laboratory module, becomes part of the station. Destiny is still the primary research facility for U.S. payloads.</p>
+                    </div>
+                    <div class="milestone-box">
+                        <p class="left-anno-hed">April 19, 2001</p>
+                        <p class="mile-text">Canadarm2, the station's robotic arm, is added. The robotic system plays a key role in the assembly of the station.</p>
+                    </div>
+                    <div class="milestone-box">
+                        <p class="left-anno-hed">April 8, 2002</p>
+                        <p class="mile-text">The central segment of the station truss, S0, is installed on top of Destiny.</p>
+                    </div>
+                    <div class="milestone-box">
+                        <p class="left-anno-hed">Feb. 1, 2003</p>
+                        <p class="mile-text">The space shuttle Columbia disintegrates during atmospheric reentry. The construction of the station is halted.</p>
+                    </div>
+                </div>
+                <div class="mile-row posrel">
+                    <div class="row-line row-line-dash posabs"></div>
+                    <div class="row-line row-line-reg posabs"></div>
+                    <div class="milestone-box box-large box-halt">
+                        <p class="left-anno-hed mile-hed-special">Construction halted: 2003 - 2006</p>
+                        <p class="mile-text">During the space shuttle moratorium (2003 to 2006) and after the end of the program, the Russian spacecraft Soyuz TMA became the main transport to the station. The capsule has more than 47 years of service with the same basic design.</p>
+                        <img class="mile-img img-wide" src="img/illo-soyuz.png">
+                    </div>
+                    <div class="milestone-box">
+                        <p class="left-anno-hed">July 26, 2006</p>
+                        <p class="mile-text">The space shuttle Discovery returns to the station after three years. The mission delivers supplies to the station and tests safety procedures.</p>
+                    </div>
+                    <div class="milestone-box">
+                        <p class="left-anno-hed">Feb. 7, 2008</p>
+                        <p class="mile-text">The crew of the space shuttle Atlantis delivers and installs the European Space Agency's Columbus laboratory.</p>
+                    </div>
+                </div>
+                <div class="mile-row posrel">
+                    <div class="row-line posabs"></div>
+                    <div class="milestone-box">
+                        <p class="left-anno-hed">March 15, 2009</p>
+                        <p class="mile-text">The space shuttle Discovery delivers the station's final major U.S. truss segment, S6, and its final pair of power-generating solar array wings.</p>
+                    </div>
+                    <div class="milestone-box">
+                        <p class="left-anno-hed">Nov. 2, 2010</p>
+                        <p class="mile-text">The station celebrates the 10-year anniversary of its continuous human occupation. Since Expedition 1 in the fall of 2000, 202 people have visited the station.</p>
+                    </div>
+                    <div class="milestone-box box-large">
+                        <p class="left-anno-hed">Feb. 24, 2011</p>
+                        <img class="mile-img" src="img/illo-shuttle.png">
+                        <p class="mile-text">The space shuttle Discovery launches on its final planned mission to deliver the Permanent Multipurpose Module, Leonardo, and Express Logistics Carrier 4 to the international space station, as well as equipment and supplies. Among the cargo aboard Leonardo was Robonaut 2, a robot that could be a precursor of new humanoid remote devices to help during spacewalks.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="cf"></div>
+            <div id="page-footer">
+                <p class="franklin-bold">Related story</p>
+                <p class="franklin-thin"><a href="http://www.washingtonpost.com/sf/national/2013/09/14/the-skies-the-limits/">The international space station is one of humanity's great engineering triumphs. But what is it for?</a></p>
+                <p class="franklin-bold">Sources</p>
+                <p class="franklin-thin">NASA, Boeing, European Space Agency, Russian Federal Space Agency, Japan Aerospace Exploration Agency. The background photo, taken by astronaut Ronald Garan, shows the Gulf of St. Lawrence from space.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- <div id="nasa-story-link" class="posabs"></div> -->
+
+    <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+    <!-- !!!!!!!!!!! MAIN CONTENT ENDS HERE !!!!!!!!!!! -->
+    <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+
+    <script type="text/javascript" src="js/skrollr.min.js"></script>
+    <script type="text/javascript" src="js/nasa.js?0917"></script>
+
+    <!-- comscore -->
+    <script type="text/javascript" src="http://js.washingtonpost.com/wpost/js/combo?token=20130419104100&c=true&m=true&context=eidos&r=/site_traffic/comscore.js"></script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1" /></noscript>
+
+    <!-- BEGIN OMNITURE -->
+    <script type="text/javascript">
+        var s_account="wpniwpmobileprod";
+    </script>
+    <script language="JavaScript" type="text/javascript" src=" http://m.washingtonpost.com/scripts/s_code.js?v=8"></script>
+    <script type="text/javascript" src="http://m.washingtonpost.com/scripts/mobile-omniture.js?v=8"></script>
+    <noscript><img src="http://wpni.112.2o7.net/b/ss/wpniwpmobilepp/1/H.24.4--NS/0"
+    height="1" width="1" border="0" alt="" /></noscript>
+    <script type="text/javascript">
+        s.pageName = thisNode + ":graphic – " + thisPageName;
+        s.channel = "wpm – " + thisNode;
+        s.prop2 = "wpm – " + thisNode;
+        s.prop3 = "graphic";
+        s.prop11 = TWP.omniture.getconnectiontype().toLowerCase();
+        s.prop12 = navigator.userAgent.toLowerCase();
+        s.eVar1 = thisNode + ":graphic – " + thisPageName;
+        s.eVar2 = "wpm – " + thisNode;
+        s.eVar5 = "graphic";
+        s.eVar19 = navigator.userAgent.toLowerCase();
+        s.events = "event1";
+
+        var s_code=s.t();if(s_code)document.write(s_code)
+    </script>
+    <script language="JavaScript" type="text/javascript"><!--
+    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+    //--></script>
+        <noscript><img src="http://wpni.112.2o7.net/b/ss/wpniwpmobileprod/1/H.25.3--NS/0"
+    height="1" width="1" border="0" alt="" /></noscript>
+    <!-- END OMNITURE -->
+
+</body>
+</html>

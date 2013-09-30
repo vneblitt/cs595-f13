@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+
+<!--[if IE 7]>					<html class="ie7 no-js" lang="en">     <![endif]-->
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="en">     <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="not-ie no-js" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">  <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="http://keepkenout.org/wp-content/themes/politician/images/favicon.ico" />
+
+
+	<link rel="stylesheet" type="text/css" media="all" href="http://keepkenout.org/wp-content/themes/politician/style.css" />
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic,300,900' rel='stylesheet' type='text/css'>
+	<link rel="apple-touch-icon" href="http://keepkenout.org/wp-content/themes/politician/images/apple-touch-icon-iphone.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://keepkenout.org/wp-content/themes/politician/images/apple-touch-icon-ipad.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://keepkenout.org/wp-content/themes/politician/images/apple-touch-icon-iphone-retina.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://keepkenout.org/wp-content/themes/politician/images/apple-touch-icon-ipad-retina.png" />
+	<!-- HTML5 Shiv -->
+	<script type="text/javascript" src="http://keepkenout.org/wp-content/themes/politician/js/modernizr.custom.js"></script>
+	<script>window.jQuery || document.write('<script src="http://keepkenout.org/wp-content/themes/politician/js/jquery-1.7.1.min.js"><\/script>')</script>
+	<script type="text/javascript" src="http://keepkenout.org/wp-content/themes/politician/js/validate-email.js"></script>
+
+
+<script type="text/javascript">
+var TB_pluginPath = 'http://keepkenout.org/wp-content/plugins/tweet-blender', TB_C_pluginPath = 'http://keepkenout.org/wp-content/plugins/tweet-blender-charts';
+var TB_config = {
+'widget_show_photos':false,
+'widget_show_source':true,
+'widget_show_header':false,
+'general_link_screen_names':false,
+'general_link_hash_tags':false,
+'general_link_urls':true,
+'widget_check_sources':true,
+'widget_show_user':true,
+'alt_source_names':'Array',
+'general_timestamp_format':false,
+'general_seo_tweets_googleoff':false,
+'general_seo_footer_googleoff':false,
+'widget_show_reply_link':true,
+'widget_show_follow_link':true,
+'archive_show_user':false,
+'archive_show_photos':false,
+'archive_show_source':false,
+'archive_tweets_num':'10',
+'archive_is_disabled':false,
+'archive_show_reply_link':false,
+'archive_show_follow_link':false,
+'archive_auto_page':true,
+'archive_keep_tweets':'0',
+'advanced_reroute_on':false,
+'advanced_show_limit_msg':false,
+'advanced_disable_cache':false,
+'advanced_reroute_type':false,
+'advanced_no_search_api':false,
+'filter_lang':' ',
+'filter_hide_mentions':false,
+'filter_hide_replies':false,
+'filter_location_name':false,
+'filter_location_dist':false,
+'filter_location_dist_units':false,
+'filter_bad_strings':false,
+'filter_limit_per_source':false,
+'filter_limit_per_source_time':'0',
+'filter_hide_same_text':false,
+'filter_hide_not_replies':false,
+'default_view_more_url':'http://keepkenout.org/tweets-archive/',
+'ajax_url':'http://keepkenout.org/wp-admin/admin-ajax.php'
+}</script>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.3.4.4 - http://yoast.com/wordpress/seo/ -->
+<title>Help Hold Ken Cuccinelli Accountable for His Extreme Record - Keep Ken Out</title>
+<link rel="canonical" href="http://keepkenout.org/help-hold-ken-cuccinelli-accountable-for-his-extreme-record/" />
+<meta property='og:locale' content='en_US'/>
+<meta property='fb:admins' content='7921327'/>
+<meta property='og:title' content='Help Hold Ken Cuccinelli Accountable for His Extreme Record - Keep Ken Out'/>
+<meta property='og:url' content='http://keepkenout.org/help-hold-ken-cuccinelli-accountable-for-his-extreme-record/'/>
+<meta property='og:site_name' content='Keep Ken Out'/>
+<meta property='og:type' content='article'/>
+<meta property='og:image' content='http://keepkenout.org/wp-content/themes/politician/images/2-4-13-KeepKenOut-logo-facebook.jpg'/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Keep Ken Out &raquo; Feed" href="http://keepkenout.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Keep Ken Out &raquo; Comments Feed" href="http://keepkenout.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Keep Ken Out &raquo; Help Hold Ken Cuccinelli Accountable for His Extreme Record Comments Feed" href="http://keepkenout.org/help-hold-ken-cuccinelli-accountable-for-his-extreme-record/feed/" />
+<link rel='stylesheet' id='tribe-events-calendar-style-css'  href='http://keepkenout.org/wp-content/plugins/the-events-calendar/resources/events.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='css_custom-css'  href='http://keepkenout.org/wp-content/themes/politician/stylesheets/custom.php?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://keepkenout.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-advanced-rp-css-css'  href='http://keepkenout.org/wp-content/plugins/advanced-recent-posts-widget/css/advanced-recent-posts-widget.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tb-css-css'  href='http://keepkenout.org/wp-content/plugins/tweet-blender/css/tweets.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://keepkenout.org/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-fancybox.css-css'  href='http://keepkenout.org/wp-content/plugins/easy-fancybox/easy-fancybox.css.php?ver=1.3.4' type='text/css' media='screen' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/plugins/the-events-calendar/resources/jquery.pjax.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/plugins/the-events-calendar/resources/events.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/themes/politician/js/jquery.easing.1.3.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/themes/politician/js/jquery.cycle.all.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/themes/politician/js/respond.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/themes/politician/fancybox/jquery.fancybox.pack.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/themes/politician/js/jquery.flexibleColumns.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://keepkenout.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://keepkenout.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='http://keepkenout.org/?p=1919' />
+
+<!-- Easy FancyBox 1.3.4.9 using FancyBox 1.3.4 - RavanH (http://4visions.nl/en/wordpress-plugins/easy-fancybox/) -->
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery(document).ready(function($){
+var fb_timeout = null;
+var fb_opts = { 'overlayShow' : true, 'centerOnScroll' : true, 'showCloseButton' : true, 'showNavArrows' : true, 'onCleanup' : function() { if(fb_timeout) { window.clearTimeout(fb_timeout); fb_timeout = null; } } };
+/* IMG */
+var fb_IMG_select = 'a[href$=".jpg"]:not(.nofancybox),a[href$=".JPG"]:not(.nofancybox),a[href$=".gif"]:not(.nofancybox),a[href$=".GIF"]:not(.nofancybox),a[href$=".png"]:not(.nofancybox),a[href$=".PNG"]:not(.nofancybox)';
+$(fb_IMG_select).addClass('fancybox').attr('rel', 'gallery');
+$('a.fancybox, area.fancybox').fancybox( $.extend({}, fb_opts, { 'transitionIn' : 'elastic', 'easingIn' : 'easeOutBack', 'transitionOut' : 'elastic', 'easingOut' : 'easeInBack', 'opacity' : false, 'titleShow' : true, 'titlePosition' : 'over', 'titleFromAlt' : true }) );
+/* Auto-click */ 
+$('#fancybox-auto').trigger('click');
+});
+/* ]]> */
+</script>
+<style type="text/css">.fancybox-hidden{display:none}</style>
+
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38223284-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head>
+<body class="single single-post postid-1919 single-format-standard">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="wrap-header"></div><!--/ .wrap-header-->
+
+<div class="wrap">
+	
+	<!-- - - - - - - - - - - - - - Header - - - - - - - - - - - - - - - - -->	
+	
+	<header id="header" class="clearfix">
+		
+		<a href="http://keepkenout.org/" id="logo"><img src="http://keepkenout.org/wp-content/uploads/2013/02/2-12-13-KeepKenOut-logo-464x142.jpg" alt="" title="Logo" /></a>
+		
+				<ul class="social-links clearfix">
+						<li class="twitter"><a href="https://twitter.com/keepkenout" title="Twitter">Twitter<span></span></a></li>
+						<li class="facebook"><a href="http://www.facebook.com/PPAVirginia" title="Facebook">Facebook<span></span></a></li>
+						<li class="rss"><a href="/feed" title="Rss">Rss<span></span></a></li>
+					</ul>
+		<!--/ .social-links-->
+		<!--/ .social-links-->
+<div id="header-sidebar">
+<div id="ppfa-twitter-like">
+<a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="keepkenout">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+
+
+	<div class="fb-like" data-href="http://keepkenout.org/help-hold-ken-cuccinelli-accountable-for-his-extreme-record/" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="arial"></div>
+
+
+
+
+
+<!-- Start header Sidebar -->
+
+	<div class="header_row">
+		<div id="widgets-reloaded-search-2" class="widget-container search"><form method="get" class="search-form" id="search-form" action="http://keepkenout.org/"><div><input class="search-text" type="text" name="s" id="search-text" value="Search" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" /></div></form><!-- .search-form --></div>		<div class="clear"></div>
+	</div>
+
+<!-- End header Sidebar --></div>
+			
+		<nav id="navigation" class="navigation">
+			
+							<ul><li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313"><a href="http://keepkenout.org/">Home</a></li>
+<li id="menu-item-314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314"><a href="http://keepkenout.org/the-facts/">The Facts</a>
+<ul class="sub-menu">
+	<li id="menu-item-1389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1389"><a title="Republicans Who Want to Keep Ken Cucccinelli Out" href="http://keepkenout.org/keeping-up-with-republicans-who-want-to-keep-ken-out/">Republicans Who Want to Keep Ken Cucccinelli Out</a></li>
+</ul>
+</li>
+<li id="menu-item-241" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241"><a href="http://keepkenout.org/category/in-the-news/">News</a></li>
+<li id="menu-item-300" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-300"><a href="http://keepkenout.org/category/blog/">Blog</a></li>
+<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="http://keepkenout.org/about/">About</a></li>
+<li id="menu-item-1822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1822"><a href="http://keepkenout.org/volunteer/">Volunteer</a></li>
+<li id="menu-item-301" class="updates menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a href="http://keepkenout.org/get-involved/">Get Involved</a></li>
+<li id="menu-item-1710" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1710"><a title="Donate" href="http://keepkenout.org/donate">Donate</a></li>
+</ul>						
+						
+		</nav><!--/ #navigation-->
+		
+	</header><!--/ #header-->
+	
+	<!-- - - - - - - - - - - - - - end Header - - - - - - - - - - - - - - - - -->
+	<!-- - - - - - - - - - - - - - - Container - - - - - - - - - - - - - - - - -->	
+	
+		<section class="container sbr clearfix">
+			
+		
+		<!-- - - - - - - - - - - - - - - Content - - - - - - - - - - - - - - - - -->		
+		
+				<!-- - - - - - - - - - Page Header - - - - - - - - - - -->	
+		
+		<div class="page-header">
+			
+			<h1 class="page-title">Help Hold Ken Cuccinelli Accountable for His Extreme Record</h1>
+			<div id="breadcrumbs"><div id="crumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://keepkenout.org/">Home</a></span> &raquo; <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://keepkenout.org/category/blog/" title="View all posts in Blog">Blog</a></span> &raquo; <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://keepkenout.org/category/blog/birth-control/" title="View all posts in Birth Control">Birth Control</a></span> &raquo; <span class="current">Help Hold Ken Cuccinelli Accountable for His Extreme Record</span></div></div>
+			
+		</div><!--/ .page-header-->
+		
+		<!-- - - - - - - - - end Page Header - - - - - - - - - -->	
+		
+		<section id="content" class="first">
+
+			<article id="post-1919" class="post-1919 post type-post status-publish format-standard hentry category-birth-control category-blog category-personhood">
+
+				<section class="post-meta clearfix">
+					
+					<div class="post-date">September 3, 2013</div><!--/ .post-date-->
+					<div class="post-tags post-categories"><a href="http://keepkenout.org/category/blog/birth-control/" title="View all posts in Birth Control" rel="category tag">Birth Control</a>, <a href="http://keepkenout.org/category/blog/" title="View all posts in Blog" rel="category tag">Blog</a>, <a href="http://keepkenout.org/category/blog/personhood/" title="View all posts in Personhood" rel="category tag">Personhood</a></div><!--/ .post-tags-->
+										<div class="post-comments"><a href="http://keepkenout.org/help-hold-ken-cuccinelli-accountable-for-his-extreme-record/#comments" title="No Comments">No Comments</a></div><!--/ .post-comments-->
+					
+					
+					
+										
+				</section><!--/ .post-meta-->
+
+				
+				<p>Last week, Ken Cuccinelli <a href="http://www.loudountimes.com/news/article/cuccinelli_says_government_shouldnt_legislate_birth_control432">claimed</a> he doesn&#8217;t <b>“think government should be doing anything about birth control or birth control devices.” </b>And when a voter asked him whether he would “support and sign personhood legislation that contains restrictions on birth control medication and birth control devices,” Cuccinelli denied his own record, claiming that he’s <b>“never supported legislation that invades people’s choices about contraception.”</b></p>
+<p>But we aren’t fooled. We know that throughout his entire career, Ken Cuccinelli has tried to prevent Virginia women from accessing birth control and other preventive care. He even introduced extreme and dangerous so-called ”personhood” legislation which, if enacted, could interfere with personal, private, medical decisions relating to birth control, access to fertility treatment, management of a miscarriage, and access to safe and legal abortion.</p>
+<p>Dr. Wendy Klein, a women’s health care provider in Virginia, responded to Cuccinelli’s false claims saying:</p>
+<p><b>“As a physician, I can tell you that the policies being pushed forward by Ken Cuccinelli are profoundly concerning – whether he admits so or not…Ken Cuccinelli doesn’t trust women and their doctors to make these personal, private decisions – he needs to stay out of the examining room, and stay out of private medical decisions.”</b></p>
+<p>There is no question that the Republican ticket’s record on women’s health is the most extreme that we have ever seen in Virginia. That’s why we’re seeing Ken Cuccinelli attempting to muddy the waters on issues important to Virginia women and our health. Well guess what, we’re not buying it. That’s because his record tells a different story.</p>
+<p><a href="http://keepkenout.org/tell-ken-cuccinelli-were-not-fooled/">Join us and tell Ken Cuccinelli: We’re not fooled by your false statements on birth control.</a><script type="text/javascript"></p>
+<p>var addthis_config = {"data_track_clickback":false,"data_track_addressbar":false,"data_track_textcopy":false,"ui_atversion":"300"};
+var addthis_product = 'wpp-3.0.2';
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51116aab7283cc7e"></script><script type="text/javascript"></script>
+<div addthis:url='http://keepkenout.org/help-hold-ken-cuccinelli-accountable-for-his-extreme-record/' addthis:title='Help Hold Ken Cuccinelli Accountable for His Extreme Record ' class="addthis_toolbox addthis_default_style"><a class="addthis_button_facebook" style="cursor:pointer"></a><a class="addthis_button_twitter" style="cursor:pointer"></a><a class="addthis_button_tumblr"></a><a class="addthis_button_google_plusone" g:plusone:count="false"></a><a class="addthis_button_email" style="cursor:pointer"></a><a class="addthis_button_compact"></a></div>
+				
+				<div class="clear"></div>
+			<div class="post-tags"></div>
+			</article><!--/ .post-->
+
+						
+			<section id="comments">
+
+
+
+
+
+			</section>
+
+<!-- Start Commentform -->
+								<div id="respond">
+				<h3 id="reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/help-hold-ken-cuccinelli-accountable-for-his-extreme-record/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://keepkenout.org/wp-comments-post.php" method="post" id="commentform">
+																										<fieldset class="input-block"><label for="name"><strong>Your Name: </strong><span>*</span><i>(required)</i></label><input id="name" name="author" type="text" value="" size="30" required aria-required='true' /></fieldset>
+<fieldset class="input-block"><label for="email"><strong>E-mail: </strong><span>*</span><i>(required)</i></label><input id="email" name="email" type="text" value="" size="30" required aria-required='true' /></fieldset>
+<fieldset class="input-block"><label for="website"><strong>Website</strong></label><input id="website" name="url" type="text" value="" size="30" /></fieldset>
+												<fieldset class="textarea-block"><label for="your_message"><strong>Message</strong></label><textarea id="your_message" cols="50" rows="4" name="comment" required></textarea></fieldset>												<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Submit Comment &rarr;" />
+							<input type='hidden' name='comment_post_ID' value='1919' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="72a8aa75ce" /></p><input type="hidden" name="eventDate" value="" />					</form>
+							</div><!-- #respond -->
+									
+		</section><!--/ #content-->
+		
+		<!-- - - - - - - - - - - - - - end Content - - - - - - - - - - - - - - - - -->	
+
+					
+					<!-- - - - - - - - - - - - - - - Sidebar - - - - - - - - - - - - - - - - -->	
+		
+		<aside id="sidebar">
+
+			<div id="advanced-recent-posts-2" class="widget-container advanced_recent_posts_widget"><h3 class="widget-title">Recent Posts</h3><ul>
+
+			<li class="recent-post-item">
+
+				<a  href="http://keepkenout.org/world-contraception-dayyet-another-reminder-of-cuccinellis-extreme-views-2/" rel="bookmark" title="Permanent link to World Contraception Day…Yet another Reminder of Cuccinelli’s Extreme Views" class="post-title"><h6>World Contraception Day…Yet another Reminder of Cuccinelli’s Extreme Views</h6></a>
+
+					
+				<span class="widget-date">26 Sep 2013</span>
+
+				                
+
+				
+			</li>
+
+		
+			<li class="recent-post-item">
+
+				<a  href="http://keepkenout.org/cuccinellis-unbelievably-insulting-comments-at-the-second-gubernatorial-debate/" rel="bookmark" title="Permanent link to Cuccinelli’s Unbelievably Insulting Comments at the Second Gubernatorial Debate" class="post-title"><h6>Cuccinelli’s Unbelievably Insulting Comments at the Second Gubernatorial Debate</h6></a>
+
+					
+				<span class="widget-date">26 Sep 2013</span>
+
+				                
+
+				
+			</li>
+
+		
+			<li class="recent-post-item">
+
+				<a  href="http://keepkenout.org/planned-parenthood-virginia-pac-statement-on-gov-debate-cuccinellis-comments-are-unbelievably-insulting-to-virginia-women/" rel="bookmark" title="Permanent link to Planned Parenthood Virginia PAC Statement on Gov. Debate; Cuccinelli’s Comments are “Unbelievably Insulting to Virginia Women.”" class="post-title"><h6>Planned Parenthood Virginia PAC Statement on Gov. Debate; Cuccinelli’s Comments are “Unbelievably Insulting to Virginia Women.”</h6></a>
+
+					
+				<span class="widget-date">25 Sep 2013</span>
+
+				                
+
+				
+			</li>
+
+		
+			<li class="recent-post-item">
+
+				<a  href="http://keepkenout.org/after-losing-the-election-with-the-greatest-gender-gap-romney-campaigns-with-cuccinelli/" rel="bookmark" title="Permanent link to After Losing the Election with the Greatest Gender Gap, Romney Campaigns with Cuccinelli" class="post-title"><h6>After Losing the Election with the Greatest Gender Gap, Romney Campaigns with Cuccinelli</h6></a>
+
+					
+				<span class="widget-date">25 Sep 2013</span>
+
+				                
+
+				
+			</li>
+
+		
+			<li class="recent-post-item">
+
+				<a  href="http://keepkenout.org/will-cuccinelli-continue-to-mislead-voters-at-the-second-gubernatorial-debate/" rel="bookmark" title="Permanent link to Will Cuccinelli Continue to Mislead Voters at the Second Gubernatorial Debate?" class="post-title"><h6>Will Cuccinelli Continue to Mislead Voters at the Second Gubernatorial Debate?</h6></a>
+
+					
+				<span class="widget-date">25 Sep 2013</span>
+
+				                
+
+				
+			</li>
+
+		</ul>
+</div><div id="widgets-reloaded-categories-2" class="widget-container categories"><h3 class="widget-title">Categories</h3><ul class="xoxo categories"><li class="cat-item cat-item-12"><a href="http://keepkenout.org/category/blog/" title="View all posts filed under Blog">Blog</a> (105)</li><li class="cat-item cat-item-16"><a href="http://keepkenout.org/category/blog/press-releases/" title="View all posts filed under Press Releases">Press Releases</a> (19)</li><li class="cat-item cat-item-19"><a href="http://keepkenout.org/category/blog/birth-control/" title="View all posts filed under Birth Control">Birth Control</a> (17)</li><li class="cat-item cat-item-17"><a href="http://keepkenout.org/category/blog/trap-legislation/" title="View all posts filed under TRAP Legislation">TRAP Legislation</a> (12)</li><li class="cat-item cat-item-18"><a href="http://keepkenout.org/category/blog/abortion/" title="View all posts filed under Abortion">Abortion</a> (11)</li><li class="cat-item cat-item-15"><a href="http://keepkenout.org/category/blog/personhood/" title="View all posts filed under Personhood">Personhood</a> (10)</li><li class="cat-item cat-item-64"><a href="http://keepkenout.org/category/mark-obenshain/" title="View all posts filed under Mark Obenshain">Mark Obenshain</a> (10)</li><li class="cat-item cat-item-62"><a href="http://keepkenout.org/category/e-w-jackson/" title="View all posts filed under E.W. Jackson">E.W. Jackson</a> (10)</li><li class="cat-item cat-item-14"><a href="http://keepkenout.org/category/blog/obamacare/" title="View all posts filed under Obamacare">Obamacare</a> (8)</li><li class="cat-item cat-item-61"><a href="http://keepkenout.org/category/blog/sex-education/" title="View all posts filed under Sex Education">Sex Education</a> (4)</li><li class="cat-item cat-item-63"><a href="http://keepkenout.org/category/virginia-election/" title="View all posts filed under Virginia Election">Virginia Election</a> (4)</li><li class="cat-item cat-item-44"><a href="http://keepkenout.org/category/blog/cuccinellis-book/" title="View all posts filed under Cuccinelli&#039;s Book">Cuccinelli&#039;s Book</a> (2)</li></ul><!-- .xoxo .categories --></div><div id="text-4" class="widget-container widget_text">			<div class="textwidget"><!-- To be added to a text/html widget, no title for the widget -->
+<div id="petition_sidebar_wrapper">
+	<a id="petition_sidebar" href="/sign-the-petition" alt="Sign the Petition">
+			<p>SIGN THE PETITION</p>
+	</a>
+
+</div></div>
+		</div><div id="text-11" class="widget-container widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/keepkenout" data-widget-id="370907680337960960">Tweets by @keepkenout</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+		</div>
+		</aside><!--/ #sidebar-->
+		
+		<!-- - - - - - - - - - - - - end Sidebar - - - - - - - - - - - - - - - - -->
+		
+	</section><!--/.container -->
+		
+	<!-- - - - - - - - - - - - - end Container - - - - - - - - - - - - - - - - -->	
+
+	<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->	
+	
+	<footer id="footer" class="container clearfix">
+		
+		<ul class="copyright">
+			<li><div id=</li>
+		</ul><!--/ .copyright-->
+<div id="ppfa-disclaimer">
+	<p> Paid for by Planned Parenthood Action Fund, Planned Parenthood Votes, and Planned Parenthood Virginia PAC.<br />Planned Parenthood Votes address: 1110 Vermont Avenue NW, Washington DC, 20005. Authorized by Terry McAuliffe candidate for Governor. Not authorized by any federal candidate or candidate’s committee.
+	</p>
+</div>
+	</footer><!--/ #footer-->
+	
+	<!-- - - - - - - - - - - - - - - end Footer - - - - - - - - - - - - - - - - -->		
+	
+</div><!--/ .wrap-->
+
+<!--[if lt IE 9]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+	<script src="http://keepkenout.org/wp-content/themes/politician/js/ie.js"></script>
+<![endif]-->
+<!--[if IE 8]>
+	<script type="text/javascript" src="http://keepkenout.org/wp-content/themes/politician/js/selectivizr-and-extra-selectors.min.js"></script>
+<![endif]-->
+
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <script type='text/javascript'>
+/* <![CDATA[ */
+var TB_labels = {"no_config":"No configuration settings found","twitter_logo":"Twitter Logo","kino":"Development by Kirill Novitchenko","refresh":"Refresh","no_sources":"Twitter sources to blend are not defined","no_global_config":"Cannot retrieve Tweet Blender configuration options","version_msg":"Powered by Tweet Blender plugin v{0} blending {1}","limit_msg":"You reached Twitter API connection limit","no_tweets_msg":"No tweets found for {0}","loading_msg":"Loading tweets...","time_past":"{0} {1} ago","time_future":"in {0} {1}","second":"second","seconds":"seconds","minute":"minute","minutes":"minutes","hour":"hour","hours":"hours","day":"day","days":"days","week":"week","weeks":"weeks","month":"month","months":"months","year":"year","years":"years","check_fail":"Check failed","limit_num":"Max is {0}\/hour","limit_left":"You have {0} left","from":"from","reply":"reply","follow":"follow","limit_reset":"Next reset","view_more":"view more"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/plugins/tweet-blender/js/lib.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/plugins/tweet-blender/js/main.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.25.0-2013.01.18'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/keepkenout.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.3.3'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/plugins/easy-fancybox/fancybox/jquery.easing-1.3.pack.js?ver=1.3'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/plugins/easy-fancybox/fancybox/jquery.mousewheel-3.0.4.pack.js?ver=3.0.4'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/plugins/easy-fancybox/jquery.metadata.js?ver=2.1'></script>
+<script type='text/javascript' src='http://keepkenout.org/wp-content/themes/politician/js/custom.js?ver=1.0.0'></script>
+<!--wp_footer--><script type="text/javascript">
+	if(jQuery('#portfolio-items').length) {}
+	if(jQuery('.single-image').length) {}
+	jQuery('body').addClass('style-2');
+</script>
+<script src="http://keepkenout.org/pledgeform.js"></script>
+<!-- <script src="http://keepkenout.org/petition.js"></script> -->
+<div class="wrap">
+<div class="container">
+
+</div>
+</div>
+<iframe width="0" height="0" name="Trade Desk Tracking - Keep Ken Out Campaign VA" frameborder="0" scrolling="no" src="//insight.adsrvr.org/tags/gznpyzb/b2sl3qwd/iframe" ></iframe>
+<!-- Google Code for Keep Ken Out -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup<http://google.com/ads/remarketingsetup> -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 987123410;
+var google_conversion_label = "w3nECNb5zQQQ0p3Z1gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js<http://www.googleadservices.com/pagead/conversion.js>">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/987123410/?value=0&amp;label=w3nECNb5zQQQ0p3Z1gM&amp;guid=ON&amp;script=0<http://googleads.g.doubleclick.net/pagead/viewthroughconversion/987123410/?value=0&amp;label=w3nECNb5zQQQ0p3Z1gM&amp;guid=ON&amp;script=0>"/>
+</div>
+</noscript>
+
+
+
+</body>
+</html>

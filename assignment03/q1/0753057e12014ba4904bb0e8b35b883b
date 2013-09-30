@@ -1,0 +1,479 @@
+
+
+<!DOCTYPE html>
+
+<!--[if lt IE 7]><html class="ie ie6" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 7]><html class="ie ie7" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8]><html class="ie ie8" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if gte IE 9]><html class="ie ie9" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if !IE]><!-->
+<html lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+
+<head>
+	<meta charset='utf-8' />
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible' />
+	<meta content='en-us' http-equiv='Content-Language' />
+	<title>Contribute | Cory Booker for Senate</title>
+	<meta name="title" property="og:title" content="Contribute | Cory Booker for Senate" />
+	<meta name="description" property="og:description" content="Join Cory Booker's campaign to represent New Jersey in the United States Senate and bring people together to get things done." />
+
+	<meta property="og:url" content="https://secure.corybooker.com/" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="Cory Booker for Senate" />
+	<meta property="og:image" content="http://www.corybooker.com/theme/img/social-share.png" />
+	<link rel="image_src" href="http://www.corybooker.com/theme/img/social-share.png" />
+	
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+	
+	<link rel="stylesheet" href="/css/normalize.min.css">
+	<link rel="stylesheet" href="/css/main.css?v=14">
+	<link rel="stylesheet" href="/css/handheld.css?v=14" media="screen and (max-width: 950px), only screen and (max-device-width: 950px)"/> 
+
+	 <!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<script>window.html5 || document.write('<script src="/js/vendor/html5shiv.js"><\/script>')</script>
+	<![endif]-->
+	
+	
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	
+</head>
+
+
+<body>
+	<header itemscope itemtype="http://schema.org/Organization">
+		
+<a href="http://www.corybooker.com/" title="Cory Booker for Senate" id="logo" role="banner">
+	<img src="/i/logo.png" alt="Cory Booker for Senate" width="292" height="57" />
+</a>
+	</header>
+	<section id="body" class="cf" role="main">
+		<article id="content">
+			<h1>Contribute</h1>
+			<div id="section-intro" class="wrapper clearfix">
+				
+<h2>Contribute to Cory Booker for Senate</h2>
+
+<p>I believe that people who care can find solutions to even the most difficult challenges.</p>
+<p>Make a contribution to my campaign today to help me reach the Senate.</p> 
+<p><img class="signature" style="float: right;" src="/i/sig-blue.png" alt="Cory" width="100" height="57" /></p>	
+			</div><!-- #section-intro -->
+			<div id="section-main" class="wrapper clearfix">
+				
+
+<form action="/index.html" method="post" name="subform" class="orderform" style="clear:both;" novalidate="novalidate">
+
+
+
+	<!-- GENERAL ERROR -->
+
+	<fieldset id="set-amount">
+			<h3>Contribution Type and Amount</h3>
+			<!-- AMOUNT ERROR -->
+			<div class="formelements">
+			<div class="contrib-type">
+				<div class="field">
+					<input checked="checked" value="no" name="setup_subscription" id="field-type-once" type="radio" onclick="setAmounts()" /> 
+					<label for="field-type-once">Once</label>
+				</div>
+				<div class="field">
+					<input value="yes" name="setup_subscription" style="margin-left: 40px;" id="field-type-recurring" type="radio" onclick="setRecurAmounts()" /> 
+					<label for="field-type-recurring">Monthly</label> <a href="#" class="link-help" onclick="openWindow('/help-recurring.html','pop1','toolbar=no,menubar=no,scrollbars=no, width=400,height=260')">(What's this?)</a>
+				</div>
+			</div>
+
+<script type="text/javascript">
+
+var previous = 0;
+
+function setBoldAmount(n) {
+
+    var nstr = "amount_label_" + n;
+
+    var label = document.getElementById(nstr);
+    label.style.fontWeight = "bold";
+
+    if(previous != 0) {
+	var label = document.getElementById(previous);
+	label.style.fontWeight = "normal";
+    }
+
+    previous = nstr;
+
+}
+
+</script>
+
+                        <table class="checkradio" id="table-order">
+                                <tr class="row-top">
+                                        <td>
+                                                <input value="10" name="amount_total" type="radio" onclick="document.getElementById('field-amount_text').value = ''; setBoldAmount(1);" id="field-amount_total_1" />
+                                                <label id="amount_label_1" for="field-amount_total_1">$10</label>
+                                        </td>
+                                        <td>
+                                                <input value="50" name="amount_total" type="radio" onclick="document.getElementById('field-amount_text').value = ''; setBoldAmount(2);" id="field-amount_total_2" />
+                                                <label id="amount_label_2" for="field-amount_total_2">$50</label>
+                                        </td>
+                                        <td>
+                                                <input value="250" name="amount_total" type="radio" onclick="document.getElementById('field-amount_text').value = ''; setBoldAmount(3);" id="field-amount_total_3" />
+                                                <label id="amount_label_3" for="field-amount_total_3">$250</label>
+                                        </td>
+                                        <td>
+                                                <input value="1000" name="amount_total" type="radio" onclick="document.getElementById('field-amount_text').value = ''; setBoldAmount(4);" id="field-amount_total_4" />
+                                                <label id="amount_label_4" for="field-amount_total_4">$1000</label>
+                                        </td>
+                                        <td style="padding-right:0px">
+                                                <input value="5200" name="amount_total" type="radio" onclick="document.getElementById('field-amount_text').value = ''; setBoldAmount(5);" id="field-amount_total_5" />
+                                                <label id="amount_label_5" for="field-amount_total_5">$5200</label>
+
+                                        </td>
+                                </tr>
+                                <tr>
+                                        <td>
+                                                <input value="25" name="amount_total" type="radio" onclick="document.getElementById('field-amount_text').value = ''; setBoldAmount(6);" id="field-amount_total_6" />
+                                                <label id="amount_label_6" for="field-amount_total_6">$25</label>
+                                        </td>
+                                        <td>
+                                                <input value="100" name="amount_total" type="radio" onclick="document.getElementById('field-amount_text').value = ''; setBoldAmount(7);" id="field-amount_total_7" />
+                                                <label id="amount_label_7" for="field-amount_total_7">$100</label>
+                                        </td>
+                                        <td>
+                                                <input value="500" name="amount_total" type="radio" onclick="document.getElementById('field-amount_text').value = ''; setBoldAmount(8);" id="field-amount_total_8" />
+                                                <label id="amount_label_8" for="field-amount_total_8">$500</label>
+                                        </td>
+                                        <td>
+                                                <input value="2600" name="amount_total" type="radio" onclick="document.getElementById('field-amount_text').value = ''; setBoldAmount(9);" id="field-amount_total_9" />
+                                                <label id="amount_label_9" for="field-amount_total_9">$2600</label>
+                                        </td>
+                                        <td id="amount-other" style="padding-right:0px">
+                                                <input value="other" name="amount_total" onclick="setBoldAmount('other');" type="radio" id="field-amount_otherchk" />
+                                                <label id="amount_label_other" for="field-amount_otherchk">Other</label>
+                                                $ <input onchange="document.getElementById('field-amount_otherchk').checked = true;" name="amount_other" id="field-amount_text" type="number" />
+                                        </td>
+                                </tr>
+                        </table>
+   <script lang="javascript">
+function setRecurAmounts() {
+		document.getElementById('field-amount_total_1').value = '5';
+		document.getElementById('amount_label_1').innerHTML  = '$5';
+		document.getElementById('field-amount_total_2').value = '25';
+		document.getElementById('amount_label_2').innerHTML  = '$25';
+		document.getElementById('field-amount_total_3').value = '75';
+		document.getElementById('amount_label_3').innerHTML  = '$75';
+		document.getElementById('field-amount_total_4').value = '150';
+		document.getElementById('amount_label_4').innerHTML  = '$150';
+		document.getElementById('field-amount_total_5').value = '250';
+		document.getElementById('amount_label_5').innerHTML  = '$250';
+		document.getElementById('field-amount_total_6').value = '10';
+		document.getElementById('amount_label_6').innerHTML  = '$10';
+		document.getElementById('field-amount_total_7').value = '50';
+		document.getElementById('amount_label_7').innerHTML  = '$50';
+		document.getElementById('field-amount_total_8').value = '100';
+		document.getElementById('amount_label_8').innerHTML  = '$100';
+		document.getElementById('field-amount_total_9').value = '200';
+		document.getElementById('amount_label_9').innerHTML  = '$200';
+}
+
+function setAmounts() {
+		document.getElementById('field-amount_total_1').value = '10';
+		document.getElementById('amount_label_1').innerHTML  = '$10';
+		document.getElementById('field-amount_total_2').value = '50';
+		document.getElementById('amount_label_2').innerHTML  = '$50';
+		document.getElementById('field-amount_total_3').value = '250';
+		document.getElementById('amount_label_3').innerHTML  = '$250';
+		document.getElementById('field-amount_total_4').value = '1000';
+		document.getElementById('amount_label_4').innerHTML  = '$1000';
+		document.getElementById('field-amount_total_5').value = '5200';
+		document.getElementById('amount_label_5').innerHTML  = '$5200';
+		document.getElementById('field-amount_total_6').value = '25';
+		document.getElementById('amount_label_6').innerHTML  = '$25';
+		document.getElementById('field-amount_total_7').value = '100';
+		document.getElementById('amount_label_7').innerHTML  = '$100';
+		document.getElementById('field-amount_total_8').value = '500';
+		document.getElementById('amount_label_8').innerHTML  = '$500';
+		document.getElementById('field-amount_total_9').value = '2600';
+		document.getElementById('amount_label_9').innerHTML  = '$2600';
+}
+   </script>
+
+
+		</div>
+	</fieldset>
+	
+	<fieldset id="set-info">
+
+		<h3>Contact Information</h3>
+		<!-- CONTACT ERROR -->
+	<div class="formelements">
+		<div class="field">
+				<label for="field-first_name">First Name:</label>
+				<input name="first_name" type="text" id="field-first_name" />
+		</div>
+		<div class="field">
+				<label for="field-last_name">Last Name:</label>
+				<input name="last_name" type="text" id="field-last_name" />
+		</div>
+		<div class="field">
+				<label for="field-address1">Address:</label>
+				<input name="address1" type="text" id="field-address1" />
+		</div>
+		<div class="field">
+				<label for="field-city">City:</label>
+				<input name="city" type="text" id="field-city" />
+		</div>
+		<div class="field">
+				<label for="field-state">State:</label>
+				<select name="state" id="field-state">
+    <option value="" selected="selected">
+    <option value="AA">AA</option>
+    <option value="AE">AE</option>
+    <option value="AK">AK</option>
+    <option value="AL">AL</option>
+    <option value="AP">AP</option>
+    <option value="AR">AR</option>
+    <option value="AS">AS</option>
+    <option value="AZ">AZ</option>
+    <option value="CA">CA</option>
+    <option value="CO">CO</option>
+    <option value="CT">CT</option>
+    <option value="DC">DC</option>
+    <option value="DE">DE</option>
+    <option value="FL">FL</option>
+    <option value="GA">GA</option>
+    <option value="GU">GU</option>
+    <option value="HI">HI</option>
+    <option value="IA">IA</option>
+    <option value="ID">ID</option>
+    <option value="IL">IL</option>
+    <option value="IN">IN</option>
+    <option value="KS">KS</option>
+    <option value="KY">KY</option>
+    <option value="LA">LA</option>
+    <option value="MA">MA</option>
+    <option value="MD">MD</option>
+    <option value="ME">ME</option>
+    <option value="MI">MI</option>
+    <option value="MN">MN</option>
+    <option value="MO">MO</option>
+    <option value="MP">MP</option>
+    <option value="MS">MS</option>
+    <option value="MT">MT</option>
+    <option value="NC">NC</option>
+    <option value="ND">ND</option>
+    <option value="NE">NE</option>
+    <option value="NH">NH</option>
+    <option value="NJ">NJ</option>
+    <option value="NM">NM</option>
+    <option value="NV">NV</option>
+    <option value="NY">NY</option>
+    <option value="OH">OH</option>
+    <option value="OK">OK</option>
+    <option value="OR">OR</option>
+    <option value="PA">PA</option>
+    <option value="PR">PR</option>
+    <option value="PW">PW</option>
+    <option value="RI">RI</option>
+    <option value="SC">SC</option>
+    <option value="SD">SD</option>
+    <option value="TN">TN</option>
+    <option value="TX">TX</option>
+    <option value="UT">UT</option>
+    <option value="VA">VA</option>
+    <option value="VI">VI</option>
+    <option value="VT">VT</option>
+    <option value="WA">WA</option>
+    <option value="WI">WI</option>
+    <option value="WV">WV</option>
+    <option value="WY">WY</option>
+
+				</select>
+		</div>
+		<div class="field">
+				<label for="field-zip">Zip:</label>
+				<input name="zip" type="tel" id="field-zip" />
+		</div>
+		<div class="field">
+				<label for="field-phone_home">Phone:</label>
+				<input name="phone_home" type="tel" id="field-phone_home" />
+		</div>
+		<div class="field">
+				<label for="field-email">Email:</label>
+				<input name="email" type="email" id="field-email" />
+		</div>
+		<!-- EMPLOYMENT ERROR -->					
+		<div class="field">
+				<label for="field-employer">Employer:</label>
+				<input name="employer" type="text" id="field-employer" /><span class="hidden-mobile"> &dagger;</span> 
+		</div>
+		<div class="field">
+				<label for="field-occupation">Occupation:</label>
+				<input name="occupation" type="text" id="field-occupation" /><span class="hidden-mobile"> &dagger;</span> 
+		</div>
+		<div class="text-instructions">
+				<p><span class="hidden-mobile">&dagger; </span>If you are retired, please enter "retired" for employer and occupation. If you are not employed, please enter "none" for both.</p>
+		</div>
+	</div>
+	</fieldset>
+
+	
+
+
+
+	<fieldset id="set-card">
+			<h3>Credit Card Information</h3>
+			<!-- CARD ERROR -->
+			<div class="formelements">
+			<div class="field">
+				<label for="field-ccnumber">Card Number:</label>
+				<input autocomplete="off" name="ccnumber" type="tel" id="field-ccnumber" />
+				<div class="img-cards hidden-mobile">
+					<img src="/i-default/cards.jpg" width="121" height="25" alt="We accept MasterCard, Visa, American Express and Discover" />
+				</div>
+			</div>
+			<div class="field">
+					<label for="field-expiremonth">Expiration<span class="hidden-desktop inline-mobile"> Month</span>:</label>
+					<select name="expiremonth" id="field-expiremonth">
+							<option value=""></option>
+							<option value="1">1</option>
+							<option value="2">2</option>
+							<option value="3">3</option>
+							<option value="4">4</option>
+							<option value="5">5</option>
+							<option value="6">6</option>
+							<option value="7">7</option>
+							<option value="8">8</option>
+							<option value="9">9</option>
+							<option value="10">10</option>
+							<option value="11">11</option>
+							<option value="12">12</option>
+					</select>
+					<label for="field-expireyear" class="hidden-desktop block-mobile">Expiration Year:</label>
+					<select name="expireyear" id="field-expireyear">
+							<option value=""></option>
+							<option value="2013">2013</option>
+							<option value="2014">2014</option>
+							<option value="2015">2015</option>
+							<option value="2016">2016</option>
+							<option value="2017">2017</option>
+							<option value="2018">2018</option>
+							<option value="2019">2019</option>
+							<option value="2020">2020</option>
+							<option value="2021">2021</option>
+							<option value="2022">2022</option>
+							<option value="2023">2023</option>
+					</select>
+			</div>
+			<div class="field">
+					<label for="field-ccvnumber">Security Code:</label>
+					<input autocomplete="off" name="ccvnumber" type="tel" id="field-ccvnumber" /> 
+					<a href="#" class="link-help hidden-mobile" onclick="openWindow('/help-ccv.html','pop2','toolbar=no,menubar=no,scrollbars=yes,width=610,height=440')">(what's this?)</a>
+			</div>
+		</div>
+	</fieldset>
+			
+
+	<div id="button-submit">
+			<input width="173" alt="Submit Contribution" value="submit" src="/i/contribute.png" name="mkcontribution" height="20" type="image" />
+	</div>
+	
+	<!-- Set eligibility flag -->
+	<input value="on" name="confirmelig1" type="hidden">
+	<div id="set-terms">
+		<p>By clicking on the button above you confirm that the following statements are true and accurate:</p>
+		<ol>
+			<li>I am a United States citizen or a permanent resident alien.</li>
+			<li>This contribution is made from my own funds, and funds are not being provided to me by another person or entity for the purpose of making this contribution.</li>
+			<li>I am making this contribution with my own personal credit card and not with a corporate or business credit card or a card issued to another person.</li>
+			<li>I am not a federal contractor.</li>
+			<li>I am at least eighteen years old.</li>
+			<li>I agree that the first $2,600 of my contribution (or the first $5,000 of a PAC contribution) will be designated for the 2013 special general election, the next $2,600 designated for the 2014 primary election and any additional funds being designated to the 2014 general election.</li>
+		</ol>
+	</div>
+<input value="none" name="rel_noref" type="hidden" />
+<input value="https://secure.corybooker.com/index.html" name="rel_acurl" type="hidden" />
+<input value="tws.receipt" name="rel_source" type="hidden" />
+<input value="a794fcd6f9b2e5b5c1ec23d4a0da357f" name="sessionid" type="hidden">
+
+</form>
+
+
+			</div><!-- #section-main -->
+			
+<div class="text-help clearfix">
+	<p>Having a problem with your contribution? <a href="mailto:info@corybooker.com?subject=Contribution">Contact Us</a></p>
+	<p class="mail-link"><a href="#" onclick="openWindow('/Booker-for-Senate-Contribution-Form-1.pdf','pop','toolbar=no,menubar=yes,scrollbars=yes,width=860,height=750')">Click here to contribute by mail</a></p>
+	<div class="text-terms2">
+		<p>Contributions or gifts to Cory Booker for Senate are not tax deductible. </p>
+
+		<p>Individuals may contribute up to $7,800 to Cory Booker for Senate ($2,600 for the special general election, $2,600 for the 2014 primary election, $2,600 for the 2014 general election). Federal multi-candidate political action committees may contribute up to $15,000 ($5,000 for the special general election, $5,000 for the 2014 primary election, $5,000 for the 2014 general election). The first $2,600 of an individual's contribution (and the first $5,000 of a PAC contribution) will be designated for the 2013 special general election, the next $2,600 being designated for the 2014 primary election and any additional funds being designated to the 2014 general election. Federal law prohibits contributions from corporations, labor organizations and national banks; from any person contributing another person's funds; from foreign nationals who lack permanent resident status; and from federal government contractors.</p>
+
+		<p>Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation and name of employer of individuals whose contributions exceed $200 in an election cycle.</p>
+	</div>
+</div>
+		</article><!--content-->
+	</section>
+	<section id="bar">
+
+	</section>
+	
+<footer class="cf">
+  
+  <span class="links">
+    <a href="http://www.corybooker.com/contact" title="Contact Us">Contact Us</a> &nbsp; &middot; &nbsp;<a href="http://www.corybooker.com/privacy" title="Privacy Policy">Privacy Policy</a>
+  </span>
+  
+  <span class="paidfor">
+    Paid for by Cory Booker for Senate<br>
+  </span>
+  
+  <span class="credit">Site by <a href="http://www.trilogyinteractive.com" title="Trilogy" target="_blank">Trilogy</a></span>
+
+</footer>
+	<script src="/js/main.js"></script>
+	<script type="text/javascript">
+		MBP.scaleFix();
+		MBP.hideUrlBar();
+
+		if (navigator.userAgent.match(/iPhone/i) ||
+		navigator.userAgent.match(/iPod/i) ||
+		navigator.userAgent.match(/iPad/i)) { iPadLabels.fix(); }
+	</script>
+
+	<!-- Begin Google Analytics -->	
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-41505612-1']);
+	  _gaq.push(['_setDomainName', '.corybooker.com']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+	<!-- End Google Analytics -->
+	
+	<!-- Google Code for Donation Page Visitors -->
+	<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 987402478;
+	var google_conversion_label = "ZbYYCLrWzQQQ7qHq1gM";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/987402478/?value=0&amp;label=ZbYYCLrWzQQQ7qHq1gM&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+
+</body>
+</html>

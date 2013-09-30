@@ -1,0 +1,665 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- START chartbeat -->
+	<!-- Chartbeat Begin --><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><!-- Chartbeat End -->
+	<!-- END chartbeat -->
+	<title>Downloads | Harvard University</title>
+  	
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1">  
+
+    <link rel="shortcut icon" type="image/ico" href="/sites/all/themes/hedu2011hc/a/screen/icons/favicon.ico" />
+    <link rel="apple-touch-icon" href="/sites/all/themes/hedu2011hc/a/screen/icons/appletouch.gif" />
+
+    <link href="/sites/all/themes/hedu2011hc/a/c/screen.css?v=20130925" rel="stylesheet" media="screen, projection" type="text/css" />
+    <link href="/sites/all/themes/hedu2011hc/a/c/print.css" rel="stylesheet" media="print" type="text/css" />
+
+    <script type="text/javascript"><!--
+    document.write('<link href="/sites/all/themes/hedu2011hc/a/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css" />');
+    //-->
+    </script>
+
+    <link href="/sites/all/themes/hedu2011hc/a/c/adaptive.css?v=20130920" rel="stylesheet" media="screen, projection" type="text/css" />
+
+    <!--[if  IE 8]><link href="/sites/all/themes/hedu2011hc/a/c/ie8.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+    <!--[if lt IE 8]><link href="/sites/all/themes/hedu2011hc/a/c/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+    <!--[if  IE 6]><link href="/sites/all/themes/hedu2011hc/a/c/ie6.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+    
+
+		<meta name="robots" content="index,follow" />
+    <meta name="description" Content="Harvard University, which celebrated its 375th anniversary in 2011, is the oldest institution of higher learning in the United States. Harvard University is devoted to excellence in teaching, learning, and research, and to developing leaders in many disciplines who make a difference globally." />
+    <meta name="keywords" Content="Harvard University, College, Education, Innovation, Teaching, Learning" />
+    <meta property="fb:app_id" content="276219599104954"/>
+        
+    <!-- START GA code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2923555-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	<!-- END GA code -->
+
+</head>
+
+<body class="layout-b no-intro-text" >
+	<p class="move"><a href="#skip">Skip to main content</a></p>
+
+	<div class="header" role="banner">
+	<div class="wrap">
+		
+		<div class="utility">
+			
+  <ul  role="navigation">
+  
+		<li class="first"><a href="/admissions-aid" class="first" onClick="_gaq.push(['_trackEvent', 'AudienceNav', 'Click', 'Apply', 2]);">Apply</a></li>
+		<li class=""><a href="/faculty" class="" onClick="_gaq.push(['_trackEvent', 'AudienceNav', 'Click', 'Faculty', 2]);">Faculty</a></li>
+		<li class=""><a href="/staff" class="" onClick="_gaq.push(['_trackEvent', 'AudienceNav', 'Click', 'Staff', 2]);">Staff</a></li>
+		<li class=""><a href="/students" class="" onClick="_gaq.push(['_trackEvent', 'AudienceNav', 'Click', 'Students', 2]);">Students</a></li>
+		<li class=""><a href="http://alumni.harvard.edu" class="" onClick="_gaq.push(['_trackEvent', 'AudienceNav', 'OffsiteClick', 'Alumni', 4]);">Alumni</a></li>
+		<li class=""><a href="/parents" class="" onClick="_gaq.push(['_trackEvent', 'AudienceNav', 'Click', 'Parents', 2]);">Parents</a></li>
+		<li class=""><a href="/visitors" class="" onClick="_gaq.push(['_trackEvent', 'AudienceNav', 'Click', 'Visitors', 2]);">Visitors</a></li>
+		<li class="last"><a href="http://news.harvard.edu/gazette/for-journalists/" class="last" onClick="_gaq.push(['_trackEvent', 'AudienceNav', 'OffsiteClick', 'Media', 2]);">Media</a></li>
+  </ul>
+  			
+			<form action="/searches/" method="get" id="search">
+				<p>
+					<label for="searchtext" id="searchlabel">Search:</label>
+					<input type="text" id="searchtext" name="searchtext" value="" class="filled" />
+					<input type="submit" id="searchtext-btn" value="Search" onClick="_gaq.push(['_trackEvent', 'Search', 'Click', 'Topbar', 1]);" />
+				</p>
+			</form>
+      
+      <div class="header-mobile">
+        <a href="#" class="search-trigger">&nbsp;</a>
+        <a href="#" class="utility-trigger">&nbsp;</a>
+      </div><!--/.header-right-mobile-->
+		</div>
+		
+				<strong class="logo"><a href="/" onClick="_gaq.push(['_trackEvent', 'HarvardLogo', 'Click', 'Home', 0]);">Harvard University</a></strong>
+		        
+		<!-- Need to figure out what content belongs in the dropdowns here and whether or not the main nav items have static landing pages to link to -->
+
+		        <ul id="main-nav" role="navigation">
+          
+                <li><a href="/about-harvard" class=" active-trail about-harvard" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAbout', 'Click', 'AboutHarvard', 3]);">About Harvard</a>
+  <ul  class="">
+  
+		<li class=" active-trail"><a href="/harvard-glance" class=" active-trail" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAbout', 'Click', 'AtAGlance', 3]);">Harvard at a Glance</a></li>
+		<li class=""><a href="/frequently-asked-questions" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAbout', 'Click', 'FAQ', 2]);">FAQ</a></li>
+		<li class=""><a href="/academic-experience" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAbout', 'Click', 'AcademicExperience', 3]);">Academic Experience</a></li>
+		<li class=""><a href="/maps-directions" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAbout', 'Click', 'MapsDirections', 3]);">Maps & Directions</a></li>
+		<li class=""><a href="/directories" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAbout', 'Click', 'Directories', 3]);">Directories</a></li>
+		<li class=""><a href="/harvards-president-leadership" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAbout', 'Click', 'Leaders', 2]);">Harvard's Leadership</a></li>
+		<li class="last"><a href="/president" class="last" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAbout', 'Click', 'Harvard's President', 0]);">Harvard's President</a></li>
+  </ul>
+  </li>
+                <li><a href="/admissions-aid" class=" admissions-aid" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAdmissions', 'Click', 'Admissions', 4]);">Admissions & Aid</a>
+  <ul  class="">
+  
+		<li class="first"><a href="/admissions-aid#undergrad" class="first" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAdmissions', 'Click', 'Undergrad', 4]);">Undergraduate</a></li>
+		<li class=""><a href="/admissions-aid#grad" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAdmissions', 'Click', 'GraduateProfressional', 4]);">Graduate & Professional Schools</a></li>
+		<li class=""><a href="/admissions-aid#continue" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAdmissions', 'Click', 'ContinuingEd', 4]);">Continuing Education</a></li>
+		<li class="last"><a href="/admissions-aid#summer" class="last" onClick="_gaq.push(['_trackEvent', 'PrimaryNavAdmissions', 'Click', 'Summer', 4]);">Summer Programs</a></li>
+  </ul>
+  </li>
+                <li><a href="/schools" class=" schools" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'Click', 'Schools', 2]);">Schools</a>
+  <ul  class="">
+  
+		<li class="first"><a href="http://www.hbs.edu/" class="first" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'Business', 4]);">Business</a></li>
+		<li class=""><a href="http://www.college.harvard.edu/icb/icb.do" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'College', 4]);">College</a></li>
+		<li class=""><a href="http://www.dce.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'ContinuingEd', 4]);">Continuing Education</a></li>
+		<li class=""><a href="http://www.hsdm.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'Dental', 4]);">Dental</a></li>
+		<li class=""><a href="http://www.gsd.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'Design', 4]);">Design</a></li>
+		<li class=""><a href="http://www.hds.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'Divinity', 4]);">Divinity</a></li>
+		<li class=""><a href="http://www.gse.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'Education', 4]);">Education</a></li>
+		<li class=""><a href="http://seas.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'Engineering', 4]);">Engineering</a></li>
+		<li class=""><a href="http://www.fas.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'FAS', 4]);">Faculty of Arts & Sciences</a></li>
+		<li class=""><a href="http://www.hks.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'Government', 4]);">Government</a></li>
+		<li class=""><a href="http://www.gsas.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'GradSchool', 4]);">Graduate School</a></li>
+		<li class=""><a href="http://www.law.harvard.edu/index.html" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'Law', 4]);">Law</a></li>
+		<li class=""><a href="http://hms.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'Medical', 4]);">Medical</a></li>
+		<li class=""><a href="http://www.hsph.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'PublicHealth', 4]);">Public Health</a></li>
+		<li class="last"><a href="http://www.radcliffe.edu/" class="last" onClick="_gaq.push(['_trackEvent', 'PrimaryNavSchools', 'OffsiteClick', 'Radcliffe', 4]);">Radcliffe Institute</a></li>
+  </ul>
+  </li>
+                <li><a href="/resources-offices" class=" resources-offices" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'Click', 'Resources', 2]);">Resources & Offices</a>
+  <ul  class="last">
+  
+		<li class="first"><a href="/administrative-offices" class="first" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'Click', 'Administration', 2]);">Administrative Offices</a></li>
+		<li class=""><a href="http://alumni.harvard.edu" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'OffsiteClick', 'Alumni', 4]);">Alumni</a></li>
+		<li class=""><a href="/resources-offices/arts" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'Click', '', 0]);">Arts</a></li>
+		<li class=""><a href="http://www.gocrimson.com/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'OffsiteClick', 'Athletics', 2]);">Athletics</a></li>
+		<li class=""><a href="http://commencementoffice.harvard.edu" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'OffsiteClick', '', 0]);">Commencement</a></li>
+		<li class=""><a href="http://coursecatalog.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'OffsiteClick', 'Courses', 2]);">Courses</a></li>
+		<li class=""><a href="https://www.edx.org/university_profile/HarvardX" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'OffsiteClick', 'edX', 0]);">edX</a></li>
+		<li class=""><a href="http://www.employment.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'OffsiteClick', 'Employment', 2]);">Employment</a></li>
+		<li class=""><a href="http://harvardx.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'OffsiteClick', '', 0]);">HarvardX</a></li>
+		<li class=""><a href="http://library.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'OffsiteClick', 'Library', 2]);">Library & Academic Research</a></li>
+		<li class=""><a href="/resources-offices/museums" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'Click', '', 0]);">Museums</a></li>
+		<li class=""><a href="/resources-offices/online-learning" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'Click', 'Collection of online academic and learning resources', 0]);">Online Learning</a></li>
+		<li class=""><a href="/research" class="" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'Click', 'Research', 2]);">Research</a></li>
+		<li class="last"><a href="http://huit.harvard.edu/" class="last" onClick="_gaq.push(['_trackEvent', 'PrimaryNavResources', 'OffsiteClick', 'UniversityIT', 4]);">University IT</a></li>
+  </ul>
+  </li>        </ul>
+           
+              
+		    <ul  class="header-nav" role="navigation">
+      <li class="first"><a href="http://news.harvard.edu/gazette/" class="first" onClick="_gaq.push(['_trackEvent', 'SubNav', 'OffsiteClick', 'GazetteNews', 4]);"><span class="hide_on_mobile">Gazette </span>News</a></li>
+      <li class=""><a href="/events" class="" onClick="_gaq.push(['_trackEvent', 'SubNav', 'Click', 'Events', 2]);">Events</a></li>
+      <li class=""><a href="/contact-harvard" class="" onClick="_gaq.push(['_trackEvent', 'SubNav', 'Click', 'Contact', 2]);">Contact<span class="hide_on_mobile"> Harvard</span></a></li>
+      <li class=""><a href="http://campaign.harvard.edu" class="" onClick="_gaq.push(['_trackEvent', 'SubNav', 'OffsiteClick', 'Campaign', 4]);"> <span class="hide_on_mobile">The Harvard </span>Campaign</a></li>
+      <li class="last"><a href="http://alumni.harvard.edu/givenow" class="last" onClick="_gaq.push(['_trackEvent', 'SubNav', 'OffsiteClick', 'Give', 5]);">Give</a></li>
+    </ul>
+    
+	</div>
+</div>
+
+
+<!--
+-->
+	<div class="primary">
+
+	<div class="intro-wrap">
+		
+	<ul class="breadcrumb">
+		 <li><a href="/" onClick="_gaq.push(['_trackEvent', 'BreadcrumbNav', 'Click', 'HOME', 0 ]);">Home</a></li>
+		 <li><a href="/about-harvard" >About Harvard</a></li>
+		 <li><a href="/harvard-glance" >Harvard at a Glance</a></li>
+	</ul>	
+		<div class="wrap intro" id="skip" role="main">
+		<h1>Downloads</h1>
+		<p></p>
+		</div>
+	</div>
+
+	<div class="wrap" id="threecol_content">
+
+		<div id="twocol_wrap">
+        
+        		<div class="main">
+			<div class="section">
+	        	  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-32768" class="node node-page clearfix" about="/about-harvard/harvard-glance/downloads" typeof="foaf:Document">
+
+  
+      
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>Wallpaper and Social Media Downloads</h1>
+<p>Download photos featuring scenes from around Harvard University. Jump to <a href="#desktop" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '#desktop', 2]);">desktop wallpapers</a>, <a href="#ios" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '#ios', 2]);">iOS device wallpapers</a>, or <a href="#facebook" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '#facebook', 2]);">Facebook cover photos</a>.</p>
+<h2><a name="desktop"></a>Desktop Wallpapers (1920 × 1440)</h2>
+<p>Download one of two monthly calendars for your desktop background. Click on the thumbnail, then save the image. Set the image as your deskop wallpaper using instructions for <a href="http://windows.microsoft.com/en-us/windows7/change-your-desktop-background-wallpaper" onClick="_gaq.push(['_trackEvent', 'content', 'OffsiteClick', 'http://windows.microsoft.com/en-us/windows7/change-your-desktop-background-wallpaper', 4]);" target="_blank">Windows</a> or <a href="http://support.apple.com/kb/ht2478" onClick="_gaq.push(['_trackEvent', 'content', 'OffsiteClick', 'http://support.apple.com/kb/ht2478', 4]);">Apple</a> computers.</p>
+<h3>2013</h3>
+<h4>January</h4>
+<div class="split-a">
+<div class="col first"><a href="/sites/default/files/content/jan13-black.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/jan13-black.jpg', 2]);"><img src="/sites/default/files/content/jan13-black-249.jpg" width="249" height="187"></a></div>
+<div class="col"><a href="/sites/default/files/content/jan13-white.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/jan13-white.jpg', 2]);"><img src="/sites/default/files/content/jan13-white-249.jpg" width="249" height="187"></a></div>
+</div>
+<h4>February</h4>
+<div class="split-a">
+<div class="col first"><a href="/sites/default/files/content/feb13-black.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/feb13-black.jpg', 2]);"><img src="/sites/default/files/content/feb13-black-249.jpg" width="249" height="187"></a></div>
+<div class="col"><a href="/sites/default/files/content/feb13-white.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/feb13-white.jpg', 2]);"><img src="/sites/default/files/content/feb13-white-249.jpg" width="249" height="187"></a></div>
+</div>
+<h4>March</h4>
+<div class="split-a">
+<div class="col first"><a href="/sites/default/files/content/march13-black.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/march13-black.jpg', 2]);"><img src="/sites/default/files/content/march13-black-249.jpg" width="249" height="187"></a></div>
+<div class="col"><a href="/sites/default/files/content/march13-white.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/march13-white.jpg', 2]);"><img src="/sites/default/files/content/march13-white-249.jpg" width="249" height="187"></a></div>
+</div>
+<h4>April</h4>
+<div class="split-a">
+<div class="col first"><a href="/sites/default/files/content/april13-black.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/april13-black.jpg', 2]);"><img src="/sites/default/files/content/april13-black-249.jpg" width="249" height="187"></a></div>
+<div class="col"><a href="/sites/default/files/content/april13-white.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/april13-white.jpg', 2]);"><img src="/sites/default/files/content/april13-white-249.jpg" width="249" height="187"></a></div>
+</div>
+<h4>May</h4>
+<div class="split-a">
+<div class="col first"><a href="/sites/default/files/content/may13-black.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/may13-black.jpg', 2]);"><img src="/sites/default/files/content/may13-black-249.jpg" width="249" height="187"></a></div>
+<div class="col"><a href="/sites/default/files/content/may13-white.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/may13-white.jpg', 2]);"><img src="/sites/default/files/content/may13-white-249.jpg" width="249" height="187"></a></div>
+</div>
+<h4>June</h4>
+<div class="split-a">
+<div class="col first"><a href="/sites/default/files/content/june13-black.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/june13-black.jpg', 2]);"><img src="/sites/default/files/content/june13-black-249.jpg" width="249" height="187"></a></div>
+<div class="col"><a href="/sites/default/files/content/june13-white.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/june13-white.jpg', 2]);"><img src="/sites/default/files/content/june13-white-249.jpg" width="249" height="187"></a></div>
+</div>
+<h4>July</h4>
+<div class="split-a">
+<div class="col first"><a href="/sites/default/files/content/july13-black.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/july13-black.jpg', 2]);"><img src="/sites/default/files/content/july13-black-249.jpg" width="249" height="187"></a></div>
+<div class="col"><a href="/sites/default/files/content/july13-white.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/july13-white.jpg', 2]);"><img src="/sites/default/files/content/july13-white-249.jpg" width="249" height="187"></a></div>
+</div>
+<h4>August</h4>
+<div class="split-a">
+<div class="col first"><a href="/sites/default/files/content/aug13-black.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/aug13-black.jpg', 2]);"><img src="/sites/default/files/content/aug13-black-249.jpg" width="249" height="187"></a></div>
+<div class="col"><a href="/sites/default/files/content/aug13-white.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/aug13-white.jpg', 2]);"><img src="/sites/default/files/content/aug13-white-249.jpg" width="249" height="187"></a></div>
+</div>
+<h4>September</h4>
+<div class="split-a">
+<div class="col first"><a href="/sites/default/files/content/sept13-black.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/sept13-black.jpg', 2]);"><img src="/sites/default/files/content/sept13-black-249.jpg" width="249" height="187"></a></div>
+<div class="col"><a href="/sites/default/files/content/sept13-white.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/sept13-white.jpg', 2]);"><img src="/sites/default/files/content/sept13-white-249.jpg" width="249" height="187"></a></div>
+</div>
+<h4>October</h4>
+<div class="split-a">
+<div class="col first"><a href="/sites/default/files/content/oct13-black.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/oct13-black.jpg', 2]);"><img src="/sites/default/files/content/oct13-black-249.jpg" width="249" height="187"></a></div>
+<div class="col"><a href="/sites/default/files/content/oct13-white.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/oct13-white.jpg', 2]);"><img src="/sites/default/files/content/oct13-white-249.jpg" width="249" height="187"></a></div>
+</div>
+<h4>November</h4>
+<div class="split-a">
+<div class="col first"><a href="/sites/default/files/content/nov13-black.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/nov13-black.jpg', 2]);"><img src="/sites/default/files/content/nov13-black-249.jpg" width="249" height="187"></a></div>
+<div class="col"><a href="/sites/default/files/content/nov13-white.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/nov13-white.jpg', 2]);"><img src="/sites/default/files/content/nov13-white-249.jpg" width="249" height="187"></a></div>
+</div>
+<h4>December</h4>
+<div class="split-a">
+<div class="col first"><a href="/sites/default/files/content/dec13-black.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/dec13-black.jpg', 2]);"><img src="/sites/default/files/content/dec13-black-249.jpg" width="249" height="187"></a></div>
+<div class="col"><a href="/sites/default/files/content/dec13-white.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/dec13-white.jpg', 2]);"><img src="/sites/default/files/content/dec13-white-249.jpg" width="249" height="187"></a></div>
+</div>
+<hr>
+<h2><a name="ios"></a>iOS Device Wallpapers</h2>
+<p>To set as wallpaper: Tap the link for your device below the image. Touch and hold the image, then select&nbsp;“Save Image” from the list of options. Locate the “Settings” icon and open “Brightness and Wallpaper.” Select “Wallpaper,” then select “Saved Images,” and select the image.</p>
+<h4>Wallpapers</h4>
+<div class="split-a">
+<div class="col first"><img src="/sites/default/files/content/template_ios-1.jpg" alt="January 2013 A" width="249" height="187">
+<ul>
+<li><a href="/sites/default/files/content/template_iphone4-1.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/template_iphone4-1.jpg', 2]);">iPhone and iPhone 4S</a></li>
+<li><a href="/sites/default/files/content/template_iphone5-1.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/template_iphone5-1.jpg', 2]);">iPhone 5</a></li>
+<li><a href="/sites/default/files/content/template_ipad-1.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/template_ipad-1.jpg', 2]);">iPad</a></li>
+</ul>
+</div>
+<div class="col"><img src="/sites/default/files/content/template_ios-2.jpg" alt="January 2013 A" width="249" height="187">
+<ul>
+<li><a href="/sites/default/files/content/template_iphone4-2.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/template_iphone4-2.jpg', 2]);">iPhone and iPhone 4S</a></li>
+<li><a href="/sites/default/files/content/template_iphone5-2.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/template_iphone5-2.jpg', 2]);">iPhone 5</a></li>
+<li><a href="/sites/default/files/content/template_ipad-2.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/template_ipad-2.jpg', 2]);">iPad</a></li>
+</ul>
+</div>
+</div>
+<div class="split-a">
+<div class="col first"><img src="/sites/default/files/content/template_ios-3.jpg" alt="January 2013 A" width="249" height="187">
+<ul>
+<li><a href="/sites/default/files/content/template_iphone4-3.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/template_iphone4-3.jpg', 2]);">iPhone and iPhone 4S</a></li>
+<li><a href="/sites/default/files/content/template_iphone5-3.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/template_iphone5-3.jpg', 2]);">iPhone 5</a></li>
+<li><a href="/sites/default/files/content/template_ipad-3.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/template_ipad-3.jpg', 2]);">iPad</a></li>
+</ul>
+</div>
+</div>
+<hr>
+<h2><a name="facebook"></a>Facebook Cover Photos</h2>
+<p>Please enjoy these photos, and use them for your Facebook Timeline—and not for any commercial purpose, or to incorrectly imply any sponsorship by Harvard. <a href="https://www.facebook.com/help/220070894714080" onClick="_gaq.push(['_trackEvent', 'content', 'OffsiteClick', 'https://www.facebook.com/help/220070894714080', 4]);" target="_blank">View instructions</a> for updating your Facebook cover photo.</p>
+<p><a href="/sites/default/files/content/100609_Weld_522.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/100609_weld_522.jpg', 2]);"><img src="/sites/default/files/content/100609_Weld_522.jpg" alt="Weld boathouse" title="Weld Boathouse - Recreational Rowing Central" width="851" height="315"></a></p>
+<p><a href="/sites/default/files/content/061512_Features_SM_134.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/061512_features_sm_134.jpg', 2]);"><img src="/sites/default/files/content/061512_Features_SM_134.jpg" alt="Memorial Church" title="Memorial Church ivy" width="851" height="315"></a></p>
+<p><a href="/sites/default/files/content/052412_COM_AS_146.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/052412_com_as_146.jpg', 2]);"><img src="/sites/default/files/content/052412_COM_AS_146.jpg" alt="Commencement 2012" title="052412_COM_AS_146.jpg" width="851" height="315"></a></p>
+<p><a href="/sites/default/files/content/052510_BACC_SM_273.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/052510_bacc_sm_273.jpg', 2]);"><img src="/sites/default/files/content/052510_BACC_SM_273.jpg" alt="Veritas Shield" title="Baccalaureate Service 2010" width="851" height="315"></a></p>
+<p><a href="/sites/default/files/content/052110_Features_SM_127.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/052110_features_sm_127.jpg', 2]);"><img src="/sites/default/files/content/052110_Features_SM_127.jpg" alt="Sunken Garden at Radcliffe Yard" title="Sunken Garden at Radcliffe Yard" width="851" height="315"></a></p>
+<p><a href="/sites/default/files/content/043010_Features_KS_165.TL_.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/043010_features_ks_165.tl_.jpg', 2]);"><img src="/sites/default/files/content/043010_Features_KS_165.TL_.jpg" alt="" title="043010_Features_KS_165.JPG" width="851" height="315"></a></p>
+<p><a href="/sites/default/files/content/121407_Snow_359.TL_.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/121407_snow_359.tl_.jpg', 2]);"><img src="/sites/default/files/content/121407_Snow_359.TL_.jpg" alt="" title="Snow on Campus" width="851" height="315"></a></p>
+<p><a href="/sites/default/files/content/091606_Football_JI_003.TL_.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/091606_football_ji_003.tl_.jpg', 2]);"><img src="/sites/default/files/content/091606_Football_JI_003.TL_.jpg" alt="" title="Football vs Holy Cross" width="851" height="315"></a></p>
+<p><a href="/sites/default/files/content/050809_stock_JC_051.TL_.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/050809_stock_jc_051.tl_.jpg', 2]);"><img src="/sites/default/files/content/050809_stock_JC_051.TL_.jpg" alt="" title="050809_stock_JC_051.jpg" width="850" height="315"></a></p>
+<p><a href="/sites/default/files/content/120409_Features_094.TL_.jpg" onClick="_gaq.push(['_trackEvent', 'content', 'Click', '/sites/default/files/content/120409_features_094.tl_.jpg', 2]);"><img src="/sites/default/files/content/120409_Features_094.TL_.jpg" alt="" title="120409_Features_094.JPG" width="851" height="315"></a></p></div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+                
+                                
+                
+                
+                            </div>
+		</div>
+		
+        
+    </div><!--/twocol_wrap-->
+    
+		<div class="secondary">
+		 
+			  <div class="nav">
+			  	
+  <ul >
+  
+		<li class=" active-trail"><a href="/harvard-glance" class=" active-trail" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', 'AtAGlance', 3]);">Harvard at a Glance</a>
+  <ul >
+  
+		<li class="first"><a href="/about-faculty" class="first" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', 'AboutFaulty', 2]);">About the Faculty</a></li>
+		<li class=""><a href="/campus" class="" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', 'Campus', 2]);">Campus</a></li>
+		<li class=""><a href="/commencement" class="" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', '', 0]);">Commencement</a></li>
+		<li class=" active"><a href="/about-harvard/harvard-glance/downloads" class=" active" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', '', 0]);">Downloads</a></li>
+		<li class=""><a href="/history" class="" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', 'History', 2]);">History</a></li>
+		<li class=""><a href="/history-presidency" class="" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', 'HistoryPresidency', 2]);">History of the Presidency</a></li>
+		<li class=""><a href="/honors" class="" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', 'Honors', 2]);">Honors</a></li>
+		<li class=""><a href="/harvard-multimedia" class="" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', '', 0]);">Multimedia</a></li>
+		<li class=""><a href="/social-media" class="" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', '', 0]);">Social Media</a></li>
+		<li class="last"><a href="/student-life" class="last" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', '', 0]);">Student Life</a></li>
+  </ul>
+  </li>
+		<li class=""><a href="/frequently-asked-questions" class="" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', 'FAQ', 2]);">FAQ</a></li>
+		<li class=""><a href="/academic-experience" class="" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', 'AcademicExperience', 3]);">Academic Experience</a></li>
+		<li class=""><a href="/maps-directions" class="" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', 'MapsDirections', 3]);">Maps & Directions</a></li>
+		<li class=""><a href="/directories" class="" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', 'Directories', 3]);">Directories</a></li>
+		<li class=""><a href="/harvards-president-leadership" class="" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', 'Leaders', 2]);">Harvard's Leadership</a></li>
+		<li class="last"><a href="/president" class="last" onClick="_gaq.push(['_trackEvent', 'SideNav_About', 'Click', 'Harvard's President', 0]);">Harvard's President</a></li>
+  </ul>
+  
+			  </div>
+			  
+            <div class="sidebar_left">
+    
+                  <div class="region region-sidebar-left">
+    <div id="block-views-hedu-site-banner-block-6" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-hedu-site-banner view-id-hedu_site_banner view-display-id-block_6 view-dom-id-599380d2ac43ff8dbd8dd350dc36fc25">
+        
+  
+  
+      <div class="view-content">
+          	<div class='sidebar-site-banner'>
+		<a href="http://campaign.harvard.edu" onMouseDown="_gaq.push(['_trackEvent', 'BannerLeftNav', 'OffsiteClick', 'http://campaign.harvard.edu', 4]);"><img width="223" src="http://www.harvard.edu/sites/default/files/banner_images/HC_promo_sidebar.png" alt="The Harvard Campaign" title="The Harvard Campaign"  /></a>
+        	</div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+    
+            </div>	
+
+		</div><!--/secondary-->
+		
+	</div>
+</div>
+	<div id="streamer-social-backup" style="display:none"></div>
+<div class="action-footer">
+	<div class="wrap">
+    
+        		<p class="streamer-more">
+    <a onClick="_gaq.push(['_trackEvent', 'Connect', 'Click', 'ViewAllSocial', 2]);" href="/social-media">Social Media</a>
+    &nbsp;&nbsp;&nbsp;<a onClick="_gaq.push(['_trackEvent', 'Connect', 'Click', 'ViewAllMultimedia', 2]);" href="/harvard-multimedia">Multimedia</a>
+    &nbsp;&nbsp;&nbsp;<a onClick="_gaq.push(['_trackEvent', 'Connect', 'Click', 'FacultyBlogs', 2]);" href="/about-harvard/harvard-glance/about-faculty/faculty-blogs">Faculty Blogs</a>
+    </p>
+		<div class="streamer streamer-social">
+			<div class="heading">
+				<h2 class="title"><strong>Connect</strong> with&nbsp;Harvard via:</h2>
+			</div>
+			
+			
+				<div class="prime twitter-feed heading-tabset">
+					<div class="heading-tab">
+						<h3 class="twitter">Twitter</h3>
+					</div>
+					
+					<ul class="listing slider">
+						<li class="first">
+							<p class="data">About 10 Minutes Ago from <a href="http://twitter.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Twitter_harvard', 3]);">@Harvard</a></p>
+							<p>Scientists coax photons to bind into molecules for first time  <a href="http://hvrd.me/1bNOpfa">http://hvrd.me/1bNOpfa</a></p>				
+						</li>
+						<li>
+							<p class="data">About 24 Minutes Ago from <a href="http://twitter.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Twitter_harvard', 3]);">@Harvard</a></p>
+							<p>The University will be enhanced and enabled by <a href="http://twitter.com/search?q=%23HarvardCampaign">#HarvardCampaign</a>, which will launch it into the age that is waiting  <a href="http://hvrd.me/18SddM3">http://hvrd.me/18SddM3</a></p>				
+						</li>
+						<li>
+							<p class="data">About 58 Minutes Ago from <a href="http://twitter.com/GreenHarvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Twitter_greenharvard', 3]);">@GreenHarvard</a></p>
+							<p>RT  <a href="http://twitter.com/CFigueres">@CFigueres</a>: Also in the <a href="http://twitter.com/search?q=%23HarvardGazette">#HarvardGazette</a>: <a href="http://twitter.com/search?q=%23thegoodnewsonclimatechange">#thegoodnewsonclimatechange</a>  <a href="http://hvrd.me/1fCxpLr">http://hvrd.me/1fCxpLr</a>  <a href="http://twitter.com/Kennedy_School">@Kennedy_School</a>  <a href="http://twitter.com/Harvard">@Harvard</a></p>				
+						</li>
+						<li>
+							<p class="data">About 10 Hours Ago from <a href="http://twitter.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Twitter_harvard', 3]);">@Harvard</a></p>
+							<p>Five SEAS computer science students named 2014 Siebel Scholars  <a href="http://hvrd.me/16Q2TnZ">http://hvrd.me/16Q2TnZ</a></p>				
+						</li>
+						<li>
+							<p class="data">About 12 Hours Ago from <a href="http://twitter.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Twitter_harvard', 3]);">@Harvard</a></p>
+							<p>#BreakingBad fans: Did you know that  <a href="http://twitter.com/deanjnorris">@deanjnorris</a>, a.k.a. Hank Schrader, is a Harvard College alum? Class of 1985.</p>				
+						</li>
+						<li>
+							<p class="data">About 13 Hours Ago from <a href="http://twitter.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Twitter_harvard', 3]);">@Harvard</a></p>
+							<p>#BreakingBad fans: Did you know that  <a href="http://twitter.com/deanjnorris">@deanjnorris</a>, a.k.a. Hank Schrader, was a Harvard College alum? Class of 1985.</p>				
+						</li>
+						<li>
+							<p class="data">About 14 Hours Ago from <a href="http://twitter.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Twitter_harvard', 3]);">@Harvard</a></p>
+							<p>The sky's the limit for Colombia [video]  <a href="http://hvrd.me/1bMsLIl">http://hvrd.me/1bMsLIl</a></p>				
+						</li>
+						<li>
+							<p class="data">About 16 Hours Ago from <a href="http://twitter.com/HarvardAlumni/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Twitter_harvardalumni', 3]);">@HarvardAlumni</a></p>
+							<p>Do you dig it?  Amazing Archaeology at Harvard is at the  <a href="http://twitter.com/peabodymuseum">@peabodymuseum</a> this Saturday  <a href="http://ow.ly/ph2sX">http://ow.ly/ph2sX</a></p>				
+						</li>
+						<li>
+							<p class="data">About 17 Hours Ago from <a href="http://twitter.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Twitter_harvard', 3]);">@Harvard</a></p>
+							<p>Harvard researchers on the hunt for DNA mutations that fuel the development of cancer  <a href="http://hvrd.me/1bMCNJj">http://hvrd.me/1bMCNJj</a></p>				
+						</li>
+					</ul>
+				</div>
+
+				<div class="prime heading-tabset">
+					<div class="heading-tab">
+						<h3 class="fb">Facebook</h3>
+					</div>
+					
+					<ul class="listing slider">
+						<li class="first">
+							<p class="data">About 54 Minutes Ago from <a href="http://facebook.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Facebook_harvard', 3]);">Harvard</a></p>
+							<p>Scientists coax photons to bind into molecules for first time - http://hvrd.me/15FsPCq <a href="http://www.facebook.com/photo.php?fbid=10151610850701607&set=a.158722856606.126506.105930651606&type=1&relevant_count=1" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'FacebookReadmore', 2]);" class="more">Read&nbsp;more&hellip;</a></p>				
+						</li>
+						<li>
+							<p class="data">September 29, 2013 from <a href="http://facebook.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Facebook_harvard', 3]);">Harvard</a></p>
+							<p>Jazz authority Vijay Iyer, a 2013 MacArthur Fellow, will soon be the Franklin D. <a href="http://www.facebook.com/photo.php?fbid=10151606005181607&set=a.158722856606.126506.105930651606&type=1&relevant_count=1" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'FacebookReadmore', 2]);" class="more">Read&nbsp;more&hellip;</a></p>				
+						</li>
+						<li>
+							<p class="data">September 28, 2013 from <a href="http://facebook.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Facebook_harvard', 3]);">Harvard</a></p>
+							<p>Harvard Alert: State Police report a stabbing at JFK Park this evening.</p>				
+						</li>
+						<li>
+							<p class="data">September 28, 2013 from <a href="http://facebook.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Facebook_harvard', 3]);">Harvard</a></p>
+							<p>Innovation is an increasingly important part of Harvard - http://hvrd.me/14OGwBH <a href="http://hvrd.me/14OGwBH" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'FacebookReadmore', 2]);" class="more">Read&nbsp;more&hellip;</a></p>				
+						</li>
+						<li>
+							<p class="data">September 28, 2013 from <a href="http://facebook.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Facebook_harvard', 3]);">Harvard</a></p>
+							<p>The densest galaxy in the nearby Universe, weighing more than 200 million suns, may have been found - http://hvrd.me/15VRje8 <a href="http://www.facebook.com/photo.php?fbid=10151604386661607&set=a.158722856606.126506.105930651606&type=1&relevant_count=1" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'FacebookReadmore', 2]);" class="more">Read&nbsp;more&hellip;</a></p>				
+						</li>
+						<li>
+							<p class="data">September 27, 2013 from <a href="http://facebook.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Facebook_harvard', 3]);">Harvard</a></p>
+							<p>Autumn views of a river house encircled in fall colors along the Charles River at Harvard University. <a href="http://www.facebook.com/photo.php?fbid=10151606592356607&set=a.10151568174661607.1073741839.105930651606&type=1&relevant_count=1" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'FacebookReadmore', 2]);" class="more">Read&nbsp;more&hellip;</a></p>				
+						</li>
+						<li>
+							<p class="data">September 27, 2013 from <a href="http://facebook.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Facebook_harvard', 3]);">Harvard</a></p>
+							<p>Crew boats pass under the Weeks Footbridge which crosses the Charles River and is near Harvard University. <a href="http://www.facebook.com/photo.php?fbid=10151606590341607&set=a.10151568174661607.1073741839.105930651606&type=1&relevant_count=1" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'FacebookReadmore', 2]);" class="more">Read&nbsp;more&hellip;</a></p>				
+						</li>
+						<li>
+							<p class="data">September 27, 2013 from <a href="http://facebook.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Facebook_harvard', 3]);">Harvard</a></p>
+							<p>Young Pakistani activist #Malala Yousafzai met with President Drew Faust today and was honored with the 2013 Peter J. <a href="http://www.facebook.com/photo.php?fbid=10151606522821607&set=a.158722856606.126506.105930651606&type=1&relevant_count=1" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'FacebookReadmore', 2]);" class="more">Read&nbsp;more&hellip;</a></p>				
+						</li>
+						<li>
+							<p class="data">September 27, 2013 from <a href="http://facebook.com/Harvard/" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'Facebook_harvard', 3]);">Harvard</a></p>
+							<p>Can you figure out which building on Harvard's campus this exterior wall belongs to? Hint: It opened in 1985. <a href="http://www.facebook.com/photo.php?fbid=10151606095346607&set=a.158722856606.126506.105930651606&type=1&relevant_count=1" onClick="_gaq.push(['_trackEvent', 'Connect', 'OffsiteClick', 'FacebookReadmore', 2]);" class="more">Read&nbsp;more&hellip;</a></p>				
+						</li>
+					</ul>
+				</div>		
+		</div><!-- end streamer-->
+		
+    
+		<div class="streamer streamer-find">
+			<div class="heading">
+				<h2 class="title"><strong>Find</strong> Harvard&nbsp;on:</h2>
+			</div>
+			
+			<div class="prime split">
+				<div class="col first">
+					<form action="http://www.pages01.net/harvard/gazette" method="get" class="subscribe">
+						<label><strong>Subscribe to the Harvard Gazette</strong> Harvard&rsquo;s Official Newspaper</label>
+						<p>
+							<input type="text" id="subscribe-gazette" name="email" value="Your email address"  onblur="if (this.value=='') this.value='Your email address'" onfocus="if (this.value=='Your email address') this.value='';" />
+							<input type="submit" id="subscribe-gazette-submit" class="btn" value="Subscribe" onClick="_gaq.push(['_trackEvent', 'Find', 'OffsiteClick', 'GazetteSubcribe', 5]);" />
+						</p>
+					</form>
+				</div>
+				
+				<div class="col">
+					<div class="split all-social">
+						<div class="col first">
+							<ul>
+								<li><a onClick="_gaq.push(['_trackEvent', 'Find', 'OffsiteClick', 'Facebook_harvard', 4);" class="fb" href="http://facebook.com/harvard">Facebook</a></li>
+								<li><a onClick="_gaq.push(['_trackEvent', 'Find', 'OffsiteClick', 'Twitter_harvard', 4]);" class="twitter" href="http://twitter.com/harvard">Twitter</a></li>
+								<li><a onClick="_gaq.push(['_trackEvent', 'Find', 'OffsiteClick', 'YouTube_harvard', 4]);" class="youtube" href="http://youtube.com/harvard">YouTube</a></li>
+								<li><a onClick="_gaq.push(['_trackEvent', 'Find', 'Click', 'RSS', 2]);" class="rss" href="/harvardedu-rss-feeds">RSS</a></li>
+							</ul>
+						</div>
+						<div class="col">
+							<ul>
+								<li><a onClick="_gaq.push(['_trackEvent', 'Find', 'OffsiteClick', 'LinkedIn_harvard', 4]);" class="linkedin" href="http://www.linkedin.com/edu/school?id=18483">LinkedIn</a></li>
+								<li><a onClick="_gaq.push(['_trackEvent', 'Find', 'OffsiteClick', 'Google_plus', 4]);" class="gplus" href="https://plus.google.com/107511988236393178296?prsrc=3">Google Plus</a></li>
+								<li><a onClick="_gaq.push(['_trackEvent', 'Find', 'OffsiteClick', 'iTunesU_harvard', 4]);" class="itunes" href="/itunes">iTunes U</a></li>
+								<li><a onClick="_gaq.push(['_trackEvent', 'Find', 'Click', 'ViewAllMobile', 2]);" class="allmobile" href="/all-harvard-mobile">All Mobile</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+        
+			</div><!--./prime split-->
+		</div><!-- end streamer-->
+    	</div>
+</div>
+
+
+<div class="footer">
+	<div class="wrap">
+		
+		<strong class="logo"><a href="">Harvard University</a></strong>
+		<address>
+			Harvard University<br />
+			Cambridge, <abbr title="Massachusetts">MA</abbr> 02138<br />
+			617.495.1000 | 
+            <a href="/feedback">Feedback</a>
+		</address>
+		
+        
+  <ul >
+  
+		<li class="first"><a href="http://arts.harvard.edu" class="first" onClick="_gaq.push(['_trackEvent', 'Footer', 'OffsiteClick', 'Arts', 2]);">HarvardArts</a></li>
+		<li class=""><a href="http://news.harvard.edu/gazette/section/science-n-health/" class="" onClick="_gaq.push(['_trackEvent', 'Footer', 'OffsiteClick', 'Science', 2]);">HarvardScience</a></li>
+		<li class=""><a href="http://www.worldwide.harvard.edu/iws/" class="" onClick="_gaq.push(['_trackEvent', 'Footer', 'OffsiteClick', 'Worldwide', 2]);">HarvardWorldwide</a></li>
+		<li class="last"><a href="http://community.harvard.edu/" class="last" onClick="_gaq.push(['_trackEvent', 'Footer', 'OffsiteClick', 'Community', 2]);">HarvardInTheCommunity</a></li>
+  </ul>
+  		
+	</div>
+</div>
+
+
+<div class="copy-footer">
+	<div class="wrap">
+		
+		
+  <ul >
+  
+		<li class="first"><a href="http://www.trademark.harvard.edu/trademark_protection/notice.php" class="first" onClick="_gaq.push(['_trackEvent', 'Footer', 'OffsiteClick', 'TrademarkNotice', 0]);">Trademark Notice</a></li>
+		<li class=""><a href="/reporting-copyright-infringements" class="" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Infringement', 0]);">Report a Copyright Infringement</a></li>
+		<li class=""><a href="http://www.harvard.edu/reporting-security-issue" class="" onClick="_gaq.push(['_trackEvent', 'Footer', 'OffsiteClick', 'Report Security Issue', 0]);">Report Security Issue</a></li>
+		<li class=""><a href="/privacy-statement" class="" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Privacy', 0]);">Privacy Statement</a></li>
+		<li class=""><a href="http://www.accessibility.harvard.edu/" class="" onClick="_gaq.push(['_trackEvent', 'Footer', 'OffsiteClick', 'Accessibility', 0]);">Accessibility</a></li>
+		<li class=""><a href="/sitemap" class="" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Sitemap', 0]);">Sitemap</a></li>
+		<li class="last"><a href="/contact-harvard" class="last" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Contact', 2]);">Contact Harvard</a></li>
+  </ul>
+  		
+        <br />
+        Copyright &copy; 2013 The President and Fellows of Harvard College
+        
+	</div>
+
+</div>
+
+	<script src="http://platform.twitter.com/anywhere.js?id=1eh2Cdc0y0AgXCq28Ai24g&amp;v=1"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+
+	<script type="text/javascript" src="/sites/all/themes/hedu2011hc/a/j/jquery.cycle.all.js"></script>
+    <script type="text/javascript" src="/sites/all/themes/hedu2011hc/a/j/functions.js?v=20130306"></script>
+
+<script>
+
+if ( $('#streamer-social-backup') ) {
+	$('#streamer-social-backup').html($('.action-footer .streamer-social').html());
+}
+
+var prev_width = $(window).width();
+
+window.onresize = function(event) {
+	var w_width = $(window).width();
+
+	if ( ( w_width>833 && prev_width<=833 ) || ( w_width<=833 && prev_width>833 ) 
+			 || ( w_width>850 && prev_width<=850 ) || ( w_width<=850 && prev_width>850 ) ) {
+		
+		if ( $('#streamer-social-backup') ) {
+			$('.action-footer .streamer-social').html($('#streamer-social-backup').html());
+			jsTabsetInit();
+			slider();
+			headerTabs();
+		}
+		
+		if ( (w_width>850 && prev_width<=850) || ( w_width>833 && prev_width<=833 ) ) {
+			$('form#search').show();
+		}
+		
+		if ( ( w_width<=833 && prev_width>833 ) || ( w_width<=850 && prev_width>850 ) ) {
+			$('form#search').hide();
+		}
+		
+		prev_width = w_width;
+	}
+	
+	if ( (w_width>383 && prev_width<=383) || (w_width>400 && prev_width<=400) ) {
+		$('.utility ul').show();
+		$(".header-mobile a.utility-trigger").hide();
+		$("a.utility-trigger").addClass("active");
+		prev_width = w_width;
+	}
+
+	if ( ( w_width<=383 && prev_width>383 ) || ( w_width<=400 && prev_width>400 ) ) {
+		$('.utility ul').hide();
+		$(".header-mobile a.utility-trigger").show();
+		$("a.utility-trigger").removeClass("active");
+		prev_width = w_width;
+	}
+
+}
+</script>
+    
+    <!-- Chartbeat Start -->		
+        <script type="text/javascript">
+		var _sf_async_config={uid:2327,domain:"harvard.edu"};
+		(function(){
+		  function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+			   (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+			   "js/chartbeat.js");
+			document.body.appendChild(e);
+		  }
+		  var oldonload = window.onload;
+		  window.onload = (typeof window.onload != 'function') ?
+			 loadChartbeat : function() { oldonload(); loadChartbeat(); };
+		})();
+		
+		</script>
+    <!-- Chartbeat End -->
+    
+</body>
+</html>

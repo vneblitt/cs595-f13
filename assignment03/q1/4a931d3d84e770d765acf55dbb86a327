@@ -1,0 +1,318 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="description" content="White House officials said today that the administration was following a meticulously planned strategy to persuade the public, the Congress and the allies of the need to confront the threat from" /><meta name="keywords" content="ATOMIC WEAPONS, BIOLOGICAL AND CHEMICAL WARFARE, UNITED STATES INTERNATIONAL RELATIONS, UNITED STATES ARMAMENT AND DEFENSE" /><meta name="articleid" content="768120"/><meta name="CG" content="Front Page"/><meta name="PT" content="Article"/><meta name="PST" content="News"/><meta name="PC" content="PerfectMarket"/><meta name="pdate" content="20020907"/><meta name="TimesPeople" content="disallow"><title>TRACES OF TERROR: THE STRATEGY; Bush Aides Set Strategy to Sell Policy on Iraq - New York Times</title><link rel="shortcut icon" type="image/x-icon" href="http://nytimes.perfectmarket.com/pm/favicon.ico" /><link rel="canonical" href="http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html" /><script src="http://nytimes.perfectmarket.com/pm/tracker.js.php?139eae6a72f6b1e6d38432d96d4cf2c11dc46126" type="text/javascript"></script>
+        <script type="text/javascript">
+                    setCookie("pmk_tn", "ap-NYT2-G02", 3600);
+                    var sessId = getCookie("sessid");
+                    if (!sessId) {
+                        sessId = guid();
+                        setCookie("sessid", sessId, (30*60));
+                    }
+                    var uuId = getCookie("uuid");
+                    if (!uuId) {
+                        uuId = sessId;
+                        setCookie("uuid", uuId, (60*60*24*30*12*24));
+                    }
+                    var traffic_provider = getParamFromPMCookie("s");
+                    if(!traffic_provider) {
+                        traffic_provider = derive_traffic_provider();
+                        putParamIntoPMCookie("s", traffic_provider);
+                    }
+                    var traffic_type = getParamFromPMCookie("n");
+                    if(!traffic_type) {
+                        traffic_type = derive_traffic_type();
+                        putParamIntoPMCookie("n", traffic_type);
+                    }
+                    referring_domain = get_referring_domain();
+
+                    var tracSessParams = "sessid="+sessId+"&uuid="+uuId+"&s="+traffic_provider+"&n="+traffic_type+"&rd="+referring_domain;
+
+                    var query = get_query();
+                    if(query) {
+                        tracSessParams = tracSessParams + "&q=" + query;
+                    }
+                    var referring_url = get_referring_url();
+                    if(referring_url) {
+                        tracSessParams = tracSessParams + "&ru=" + encode(referring_url);
+                    }
+                    var user_agent = navigator.userAgent;
+                    if(user_agent) {
+                        tracSessParams = tracSessParams + "&ua=" + encode(user_agent);
+                    }
+
+function google_ad_request_done_internal(ads, borderColor, border, header, adUnitFormat, adUnitFormatOverride,
+                                          backgroundColor, tracParams, titleFontColor, titleFontSize,
+                                         bodyFontColor, bodyFontSize, urlFontSize, template_version, property_name,
+                                         headerColor) {
+    /*
+    * If no ads are returned then dont build the ad block
+    */
+    if (ads.length == 0) { adOverride = 1; return; }
+    adOverride = 0;
+    var textAlign = "";
+    var extraClass = "";
+    if (ads[0].type == "text") {
+        extraClass = adUnitFormat + ads.length + " " + adUnitFormatOverride;
+    } else {
+        borderColor = "FFFFFF";
+        border = "";
+        textAlign = "center";
+        extraClass = adUnitFormat + "_google_img";
+    }
+    if (header != "") {
+        document.write("<div class='ad_header'><a style='color: #" + headerColor + ";' href='" + google_info.feedback_url + "'>Ads by Google</a>");
+        document.write("</div>");
+    }
+    var mainDiv = "<div class='" + adUnitFormat+ " "+extraClass+"' style='";
+    if (float != "") {
+        mainDiv += " float:" + float + ";";
+    }
+    if (textAlign != "") {
+        mainDiv += " text-align:" + textAlign + ";";
+    }
+    mainDiv += " background-color: #" + backgroundColor + "; ";
+    if ("" + border + "" != "") {
+        mainDiv += "border: " + border + ";";
+    }
+    mainDiv += "'>";
+    document.write("" + mainDiv + "");
+    if (tracSessParams) {
+        tracParams += "&"+tracSessParams;
+    }
+    var i = 0;
+    if (ads[0].type == "image") {
+        var destUrl = new String(ads[i].url);
+        document.write("<a href=\"" + destUrl + "\" target=\"_blank\" onclick=\"params='" + tracParams + "&pos=1';tracker();params='';\">");
+        document.write("<img border=\"0\" src=\"" + ads[0].image_url + "\" width=\"" + ads[0].image_width + "\" height=\"" + ads[0].image_height + "\">");
+        document.write("</a>");
+        i++;
+    } else if (ads[0].type == "html" || (ads[0].type == "flash" && ads[0].snippet)) {
+        document.write(""+ads[0].snippet);
+    } else if (ads[0].type == "flash") {
+        document.write("<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"" +
+        " codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0\" WIDTH=\"" +
+        ads[0].image_width + "\" HEIGHT=\"" +
+        ads[0].image_height + "\"> <PARAM NAME=\"movie\" VALUE=\"" +
+        ads[0].image_url + "\">" +
+        "<PARAM NAME=\"quality\" VALUE=\"high\">" +
+        "<PARAM NAME=\"AllowScriptAccess\" VALUE=\"never\">" +
+        "<EMBED src=\"" +
+        ads[0].image_url + "\" WIDTH=\"" +
+        ads[0].image_width + "\" HEIGHT=\"" +
+        ads[0].image_height +
+        "\" TYPE=\"application/x-shockwave-flash\"" +
+        " AllowScriptAccess=\"never\" " +
+        " PLUGINSPAGE=\"http://www.macromedia.com/go/getflashplayer\"></EMBED></OBJECT>");
+    } else {
+        document.write("<ul>");
+        for (; i < ads.length; i++) {
+            var ad = ads[i];
+            var adline1 = new String(ad.line1);
+            var destUrl = new String(ad.url);
+            document.write("<li style=\"cursor: default;\">");
+            document.write("<a href=\"" + destUrl + "\" target=\"_blank\" onclick=\"params='" + tracParams + "&pos=" + (i+1) + "';tracker();params='';\">");
+            var titleDisplayLine = "<span class=\"headline\" style=\"cursor: pointer; display:inline; color: #" + titleFontColor + ";";
+            if (titleFontSize != "") {
+                titleDisplayLine += "font-size: " + titleFontSize + ";";
+            }
+            titleDisplayLine += "\">" +  adline1+ "</span>";
+            document.write("" + titleDisplayLine + "");
+            document.write("</a>");
+
+            var text = "";
+            for (var n = 2; ad["line" + n]; n++)
+            text += ad["line" + n] + " ";
+            var adtext = new String(text);
+            var bodyDisplayLine = "<span class=\"desc\" style=\"cursor: default; color: #" + bodyFontColor + ";";
+            if (bodyFontSize != "") {
+                bodyDisplayLine += "font-size: " + bodyFontSize + ";";
+            }
+            bodyDisplayLine += "\">" + adtext + "</span>";
+            document.write("" + bodyDisplayLine + "");
+
+            var dispurl = new String(ad.visible_url);
+            document.write("<a href=\"" + destUrl + "\" target=\"_blank\" onclick=\"params='" + tracParams + "&pos=" + (i+1) + "';tracker();params='';\">");
+            var urlDisplayLine = "<span class=\"dispurl\" style=\"cursor: pointer; display:inline; color: #;";
+            if (urlFontSize != "") {
+                urlDisplayLine += "font-size: " + urlFontSize + ";";
+            }
+            urlDisplayLine += "\">" + dispurl + "</span>";
+            document.write("" + urlDisplayLine + "");
+            document.write("</a>");
+
+            document.write("</a>");
+            document.write("</li>");
+        }
+        document.write("</ul>");
+    }
+    document.write("</div>");
+}
+                </script>
+                <link rel="stylesheet" type="text/css" href="http://nytimes.perfectmarket.com/pm/css/ap-NYT2-G02.css?139eae6a72f6b1e6d38432d96d4cf2c11dc46126" media="all" /><meta property="og:site_name" content="New York Times" /><script type="text/javascript">function downloadJSAtOnload(){var element, js;}if (window.addEventListener){window.addEventListener("load", downloadJSAtOnload, false);}else if (window.attachEvent){window.attachEvent("onload", downloadJSAtOnload);}else window.onload = downloadJSAtOnload;</script></head><body><!-- Layout starts --><div id="layout"><div id="area-top" class="area"><div id="mod-nav" style="float:left;" class="mod-nytimesnav"><ul><li class="first"><a style="width:px;"  target="_new"   onclick="parent.recordOutboundLink(this, 'ap-NYT2-G02 section', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;" href="http://www.nytimes.com/?src=hp1-0-H" title="Home Page" class="home">Home Page</a></li><li ><a style="width:px;"  target="_new"   onclick="parent.recordOutboundLink(this, 'ap-NYT2-G02 section', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;" href="http://www.nytimes.com/pages/todayspaper/index.html?src=hp1-0-P" title="Today's Paper" class="alt">Today's Paper</a></li><li ><a style="width:px;"  target="_new"   onclick="parent.recordOutboundLink(this, 'ap-NYT2-G02 section', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;" href="http://video.nytimes.com/?src=hp1-0-V" title="Video" class="alt">Video</a></li><li ><a style="width:px;"  target="_new"   onclick="parent.recordOutboundLink(this, 'ap-NYT2-G02 section', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;" href="http://www.nytimes.com/gst/mostpopular.html?src=hp1-0-M" title="Most Popular">Most Popular</a></li><li ><a style="width:px;"  target="_new"   onclick="parent.recordOutboundLink(this, 'ap-NYT2-G02 section', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;" href="http://topics.nytimes.com/topics/reference/timestopics/index.html?src=hp1-0-T" title="Times Topics">Times Topics</a></li><li ><a style="width:px;"  target="_new"   onclick="parent.recordOutboundLink(this, 'ap-NYT2-G02 section', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;" href="http://www.nytimes.com/timeswire/index.html?src=hp1-0-R" title="Most Recent">Most Recent</a></li></ul></div><div id="mod-site-help" style="float:right;" class="mod-nytimestext mod-text"><a  href="http://www.nytimes.com/membercenter/sitehelp.html" target="_new" >Help</a></div><div id="mod-register" style="float:right;" class="mod-nytimestext mod-text"><a  href="http://www.nytimes.com/gst/regi.html" target="_new" >Register Now</a></div><div id="mod-login" style="float:right;" class="mod-nytimestext mod-text"><a  href="http://www.nytimes.com/auth/login?URI=http://" target="_new" >Login</a></div></div><div id="area-main" class="area"><div id="area-main-top" class="area"><div id="mod-logo" style="float:left;" class="mod-nytimesimage"><a href="http://www.nytimes.com"><img  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 homepage', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  src="http://nytimes.perfectmarket.com/pm/images/header-logo.gif" width="152" height="23" alt="New York Times Articles"/></a></div><div id="mod-rt-top" style="float:right;" class="mod-nytimesadnytimes"><center><!-- format: Middle1C (88x31) --><iframe src="http://nytimes.perfectmarket.com/pm/ad-nytimes.php?f=Middle1C&slug=us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html&dimension=88x31" width="88" height="31" scrolling="no" frameborder="0"></iframe></center></div><div id="mod-search-box" style="float:right;" class="mod-nytimessearchbox mod-searchbox">
+        <form id="searchForm" name="searchForm" method="get" action="http://query.nytimes.com/search/sitesearch" enctype="application/x-www-form-urlencoded">
+			<input type="hidden" name="date_select" value="full">
+			<label>Search All NYTimes.com</label>
+			<input type="text" name="query" value="" class="text">
+			<input type="hidden" value="nyt" name="type">
+			<input onclick="this.form.target='_blank';return true;" width="22" height="19" class="go" type="image" src="http://nytimes.perfectmarket.com/pm/images/go.gif" alt="Go" title="Search">
+        </form></div><div id="mod-article-section" class="mod-nytimesarticlesection"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 section', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  target="_new"  href="http://www.nytimes.com/">Archives</a></div><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="http://nytimes.perfectmarket.com/pm/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-breadcrumb" class="mod-nytimesarticlepagebreadcrumb mod-articlepagebreadcrumb mod-breadcrumb"> <span class="archive-link"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 breadcrumb', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="/articles.html">COLLECTIONS</a></span><span class="bread-crumb-separator">></span><span class="keyword"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 bottom_bar', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="/keyword/iraq"><strong>IRAQ</strong></a></span></div></div><div id="area-main-center-w-left" class="area" style="float:right;"><div id="mod-article-header" class="mod-nytimesarticleheader mod-articleheader"><h1>TRACES OF TERROR: THE STRATEGY; Bush Aides Set Strategy to Sell Policy on Iraq</h1></div><div id="mod-article-byline" class="mod-nytimesarticlebyline mod-articlebyline"><span>By ELISABETH BUMILLER</span><br/><span class="pubdate">Published: September 07, 2002</span></div><div id="area-main-center-right" class="area" style="float:right;"><div id="mod-sm-badge-top-right" class="mod-nytimessocialmedia mod-socialmedia"><script type="text/javascript">
+                var articleToolsShareData = {"url":"http:\/\/www.nytimes.com\/2010\/09\/01\/world\/middleeast\/01settlers.html","headline":"4 Israeli Settlers Killed in West Bank","description":"The Israelis were killed on Tuesday evening when their car was fired on near the settlement of Kiryat Arba.","keywords":"Israeli Settlements,Murders and Attempted Murders,West Bank","section":"world","sub_section":"middleeast","section_display":"World","sub_section_display":"Middle East","byline":"By ISABEL KERSHNER and <a href=\"http:\/\/topics.nytimes.com\/top\/reference\/timestopics\/people\/l\/mark_landler\/index.html?inline=nyt-per\" title=\"More Articles by Mark Landler\" class=\"meta-per\">MARK LANDLER<\/a>","pubdate":"August 31, 2010","passkey":null};
+				function getShareURL() {
+				    return encodeURIComponent(articleToolsShareData.url);
+				}
+				function getShareHeadline() {
+				    return encodeURIComponent(articleToolsShareData.headline);
+				}
+				function getShareDescription() {
+				    return encodeURIComponent(articleToolsShareData.description);
+				}
+				function getShareKeywords() {
+				    return encodeURIComponent(articleToolsShareData.keywords);
+				}
+				function getShareSection() {
+				    return encodeURIComponent(articleToolsShareData.section);
+				}
+				function getShareSubSection() {
+				    return encodeURIComponent(articleToolsShareData.sub_section);
+				}
+				function getShareSectionDisplay() {
+				    return encodeURIComponent(articleToolsShareData.section_display);
+				}
+				function getShareSubSectionDisplay() {
+				    return encodeURIComponent(articleToolsShareData.sub_section_display);
+				}
+				function getShareByline() {
+				    return encodeURIComponent(articleToolsShareData.byline);
+				}
+				function getSharePubdate() {
+				    return encodeURIComponent(articleToolsShareData.pubdate);
+				}
+				function getSharePasskey() {
+				    return encodeURIComponent(articleToolsShareData.passkey);
+				}
+        </script><div class="articleTools">
+				<div class="box">
+				<div class="inset">
+    				<ul id="toolsList" class="toolsList wrap">    
+					<li class="email">
+					    <a target="_new" id="emailThis" onclick="s_code_linktrack('Article-Tool-EmailSignIn');" href="http://www.nytimes.com/auth/login?URI=http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm">Sign In to E-Mail</a>
+					</li>
+					<li class="print">
+					    <a href="/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?pagewanted=print&src=pm" target="_new">Print</a>
+					</li><li class="singlePage">
+                        <a href="/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?pagewanted=all&src=pm" target="_new">Single-Page</a>
+                    </li>  </ul>
+            </div>
+            </div>
+        </div></div><div id="mod-ctr-rt-top" class="mod-nytimesadnytimes"><center><!-- format: Frame4A (120x60) --><iframe src="http://nytimes.perfectmarket.com/pm/ad-nytimes.php?f=Frame4A&slug=us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html&dimension=120x60" width="120" height="60" scrolling="no" frameborder="0"></iframe></center></div></div><div id="mod-a-body-first-para" class="mod-nytimesarticletext mod-articletext"><p><Strong></Strong>White House officials said today that the administration was following a meticulously planned strategy to persuade the public, the Congress and the allies of the need to confront the threat from Saddam Hussein.</p><p>The rollout of the strategy this week, they said, was planned long before President Bush's vacation in Texas last month. It was not hastily concocted, they insisted, after some prominent Republicans began to raise doubts about moving against Mr. Hussein and administration officials made contradictory statements about the need for weapons inspectors in Iraq.</p><p>The White House decided, they said, that even with the appearance of disarray it was still more advantageous to wait until after Labor Day to kick off their plan.</p><p>''From a marketing point of view,'' said Andrew H. Card Jr., the White House chief of staff who is coordinating the effort, ''you don't introduce new products in August.''</p><p>A centerpiece of the strategy, White House officials said, is to use Mr. Bush's speech on Sept. 11 to help move Americans toward support of action against Iraq, which could come early next year.</p></div><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="http://nytimes.perfectmarket.com/pm/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-ln-ctr-top" class="mod-nytimesline mod-line"><center><div style="border-top:1px solid #cccccc; height:1px; width:350px;"></div></center></center></div><div id="area-main-center-center" class="area"><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="http://nytimes.perfectmarket.com/pm/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-ctr-lt-in-top" style="float:left;" class="mod-adcpc"><script type="text/javascript"> var adSkipCounter = 0; var adOverride = 0; </script><iframe id="mod-ctr-lt-in-top-frame" src="about:blank" frameborder="0" scrolling="no" width="300" height="250"></iframe>
+<script type="text/javascript">
+        var iframe = document.getElementById("mod-ctr-lt-in-top-frame");
+        var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        iframeDoc.open();
+        iframeDoc.write("<html><style>body{margin:0px;}</style></head>");
+        iframeDoc.write('<script type="text/javascript">google_ad_client="pub-6956526235946485";google_ad_slot="3666174091";google_ad_width="300";google_ad_height="250";google_ad_channel="6740388458,2419411629,2545247772,9154867477";google_adtest="off";google_safe="high";google_hints="marketing point strategy speech";google_max_num_ads="4";google_override_format=true;google_page_url=document.URL;');
+        iframeDoc.write("</scr"+"ipt>");
+        iframeDoc.write("<scr"+"ipt type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\"></scr"+"ipt>");
+        iframeDoc.close();
+</script>
+        </div><div id="mod-ctr-rt-in-top" style="float:right;" class="mod-nytimesadnytimes"><!-- format: MiddleRight (300x250) --><iframe src="http://nytimes.perfectmarket.com/pm/ad-nytimes.php?f=MiddleRight&slug=us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html&dimension=300x250" width="300" height="250" scrolling="no" frameborder="0"></iframe></div></div><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="http://nytimes.perfectmarket.com/pm/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-ln-ctr-bt" class="mod-nytimesline mod-line"><center><div style="border-top:1px solid #cccccc; height:1px; width:350px;"></div></center></center></div><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="http://nytimes.perfectmarket.com/pm/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-a-body-after-first-para" class="mod-nytimesarticletextwithadcpc mod-nytimesarticletext mod-articletext"><p>''Everybody felt that was a moment that Americans wanted to hear from him,'' said Karl Rove, Mr. Bush's chief political adviser. Sept. 11 will also be a time, Mr. Rove said, ''to seize the moment to make clear what lies ahead.''</p><p>Toward that end, in June the White House picked Ellis Island in New York Harbor, not Governors Island, as the place where President Bush is to deliver his Sept. 11 address to the nation. Both spots were considered, White House advisers said, but the television camera angles were more spectacular from Ellis Island, where the Statue of Liberty will be seen aglow behind Mr. Bush.</p><p>''We had made a decision that this would be a compelling story either place,'' said Dan Bartlett, the White House communications director. ''We sent a team out to go and look and they said, 'This is a better shot,' and we said O.K.''</p><p>In the same way, Mr. Bush's Sept. 11 remarks, about 10 minutes in length, are to serve as the emotional precursor for a tougher speech about Iraq that the president is to deliver to the United Nations General Assembly the following day.</p><p>''The fact is, there's a pretty abysmal relationship between Saddam Hussein and the United Nations,'' said Mr. Bartlett, who added that Mr. Hussein had flouted ''everything the U.N. has stood for.''</p><p>''The president is going to be very direct and articulate a history of defiance,'' Mr. Bartlett said.</p><p>Both speeches are in final drafts, although Mr. Bush spent time reviewing the United Nations speech on Thursday night on Air Force One as he returned to Washington from Indiana. ''He's trimming it up so it's in his cadence,'' Mr. Rove said.</p><p>The Sept. 12 speech, a half hour or less in length, was written by a team that included Mr. Bush's chief speechwriter, Michael Gerson; Condoleezza Rice, the national security adviser; Secretary of Defense Donald H. Rumsfeld; and Secretary of State Colin L. Powell. The Sept. 11 speech was written by Mr. Gerson and Karen P. Hughes, the former counselor who still closely advises Mr. Bush from Texas.</p><p>On Capitol Hill, meanwhile, the administration has begun a full-scale lobbying campaign. On the day after Labor Day, the opening of Washington's political new year, Mr. Bush summoned a skeptical Congressional leadership to the White House to enlist their support for action against Iraq. The next day two dozen senators from both parties were invited to the Pentagon to discuss Iraqi policy with Vice President Dick Cheney, Mr. Rumsfeld and George J. Tenet, the director of central intelligence.</p><style>div#mod-ctr-lt-in-top{padding-top: 20px}</style></div><div id="mod-a-body-after-first-para-ad-cpc" class="mod-adcpc"><iframe id="mod-a-body-after-first-para-ad-cpc-frame" src="about:blank" frameborder="0" scrolling="no" width="780" height="110"></iframe>
+<script type="text/javascript">
+        var iframe = document.getElementById("mod-a-body-after-first-para-ad-cpc-frame");
+        var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        iframeDoc.open();
+        iframeDoc.write("<html><style>body{margin:0px;}</style></head>");
+        iframeDoc.write('<script type="text/javascript">google_ad_client="pub-6956526235946485";google_ad_slot="3666174091";google_ad_width="780";google_ad_height="110";google_ad_channel="6740388458,2419411629,6912240138,9154867477";google_adtest="off";google_safe="high";google_hints="marketing point strategy speech";google_max_num_ads="4";google_override_format=true;google_page_url=document.URL;');
+        iframeDoc.write("</scr"+"ipt>");
+        iframeDoc.write("<scr"+"ipt type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\"></scr"+"ipt>");
+        iframeDoc.close();
+</script>
+        </div><div id="mod-pagination" class="mod-pagination"><ul><li class="selected"><span class="next_url" >1</span></li><li ><span class="next_url" ><a href="/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?pagewanted=2&src=pm">2</a></span></li><li class="next"><span class="next_url" ><a href="/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?pagewanted=2&src=pm">NEXT PAGE ></a></span></li></ul><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="http://nytimes.perfectmarket.com/pm/images/pixel.gif" height="1" width="1" alt="" /></div></div></div><div id="area-main-center-left" class="area" style="float:left;"><div id="mod-left-sky" class="mod-adcpc"><iframe id="mod-left-sky-frame" src="about:blank" frameborder="0" scrolling="no" width="160" height="600"></iframe>
+<script type="text/javascript">
+        var iframe = document.getElementById("mod-left-sky-frame");
+        var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        iframeDoc.open();
+        iframeDoc.write("<html><style>body{margin:0px;}</style></head>");
+        iframeDoc.write('<script type="text/javascript">google_ad_client="pub-6956526235946485";google_ad_slot="3666174091";google_ad_width="160";google_ad_height="600";google_ad_channel="6740388458,2419411629,2527437195,9154867477";google_adtest="off";google_safe="high";google_hints="marketing point strategy speech";google_max_num_ads="5";google_override_format=true;google_page_url=document.URL;');
+        iframeDoc.write("</scr"+"ipt>");
+        iframeDoc.write("<scr"+"ipt type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\"></scr"+"ipt>");
+        iframeDoc.close();
+</script>
+        </div>
+<div id="mod-related-articles" class="mod-nytimesrelatedarticlessimplelist mod-relatedarticlessimplelist mod-relatedarticles"><div class="header">More Like This</div><ul><li><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 from_the_archives', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  title="Keepers of Bush Image Lift Stagecraft to New Heights" href="/2003/05/16/us/keepers-of-bush-image-lift-stagecraft-to-new-heights.html?src=pm">
+			     <style>div.mod-relatedarticlessimplelist li a span:hover{*text-decoration:underline}
+			     </style>
+			     <span class="title">Keepers of Bush Image Lift Stagecraft to New Heights</span></a><br /></li><li><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 from_the_archives', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  title="THREATS AND RESPONSES: THE PRESIDENT'S DAY; Just Another..." href="/2003/03/18/us/threats-responses-president-s-day-just-another-monday-except-for-its-conclusion.html?src=pm">
+			     <style>div.mod-relatedarticlessimplelist li a span:hover{*text-decoration:underline}
+			     </style>
+			     <span class="title">THREATS AND RESPONSES: THE PRESIDENT'S DAY; Just Another...</span></a><br /></li><li><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 from_the_archives', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  title="Al Qaeda and Iraq: The Panel and the President" href="/2004/06/18/opinion/l-al-qaeda-and-iraq-the-panel-and-the-president-014273.html?src=pm">
+			     <style>div.mod-relatedarticlessimplelist li a span:hover{*text-decoration:underline}
+			     </style>
+			     <span class="title">Al Qaeda and Iraq: The Panel and the President</span></a><br /></li></ul></div><div id="mod-related-keywords" class="mod-relatedkeywordssimplelist mod-relatedkeywords"><div class="header">Find More Stories</div><ul><li><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 more_stories_about', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="/keyword/iraq">Iraq</a></li><li><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 more_stories_about', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="/keyword/white-house">White House</a></li><li><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 more_stories_about', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="/keyword/ellis-island">Ellis Island</a></li><li><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 more_stories_about', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="/keyword/strategy">Strategy</a></li><li><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 more_stories_about', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="/keyword/dan-bartlett">Dan Bartlett</a></li></ul></div></div><div class="float" style="clear:both;"><img src="http://nytimes.perfectmarket.com/pm/images/pixel.gif" height="1" width="1" alt="" /></div><div id="area-main-bottom" class="area"><div id="area-main-bottom-top" class="area"><div id="mod-home" style="float:left;" class="mod-nytimestext mod-text"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 bottom_bar', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="http://www.nytimes.com" target="_new"  rel="nofollow" >Home</a></div><div id="mod-topics" style="float:left;" class="mod-nytimestext mod-text"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 bottom_bar', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="http://topics.nytimes.com/topics/reference/timestopics/index.html" target="_new"  rel="nofollow" >Times topics</a></div><div id="mod-member-center" style="float:left;" class="mod-nytimestext mod-text"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 bottom_bar', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="http://www.nytimes.com/membercenter" target="_new"  rel="nofollow" >Member Center</a></div></div><div class="float" style="clear:both;"><img src="http://nytimes.perfectmarket.com/pm/images/pixel.gif" height="1" width="1" alt="" /></div><div id="area-main-bottom-bt" class="area"><div id="mod-copyright" style="float:left;" class="mod-nytimestext mod-text"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 bottom_bar', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="http://www.nytimes.com/ref/membercenter/help/copyright.html" target="_new"  rel="nofollow" >Copyright 2013 </a></div><div id="mod-nytco" style="float:left;" class="mod-nytimestext mod-text"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 bottom_bar', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="http://www.nytco.com/" target="_new"  rel="nofollow" >The New York Times Company</a></div><div id="mod-privacy" style="float:left;" class="mod-nytimestext mod-text"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 bottom_bar', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="http://www.nytimes.com/ref/membercenter/help/privacysummary.html" target="_new"  rel="nofollow" >Privacy Policy</a></div><div id="mod-help" style="float:left;" class="mod-nytimestext mod-text"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 bottom_bar', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="http://www.nytimes.com/membercenter/sitehelp.html" target="_new"  rel="nofollow" >Help</a></div><div id="mod-contact-us" style="float:left;" class="mod-nytimestext mod-text"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 bottom_bar', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html" target="_new"  rel="nofollow" >Contact Us</a></div><div id="mod-work-4-us" style="float:left;" class="mod-nytimestext mod-text"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 bottom_bar', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="http://www.nytco.com/careers/" target="_new"  rel="nofollow" >Work for Us</a></div><div id="mod-site-map" style="float:left;" class="mod-nytimestext mod-text"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 bottom_bar', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="http://spiderbites.nytimes.com/" target="_new"  rel="nofollow" >Site Map</a></div><div id="mod-kw-index" style="float:left;" class="mod-nytimestext mod-text"><a  onClick="parent.recordOutboundLink(this, 'ap-NYT2-G02 bottom_bar', 'http://www.nytimes.com/2002/09/07/us/traces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html?src=pm');return false;"  href="/keywords/" target="_new" >Index by Keyword</a></div></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  try {
+    var pageTracker = _gat._getTracker("UA-18310227-1");
+    pageTracker._setVar('Template-ap-NYT2-G02');
+    pageTracker._setCustomVar(1, 'Template', 'Template-ap-NYT2-G02', 3);
+    pageTracker._trackPageview();
+  } catch(err) {}
+</script>
+
+<script type="text/javascript">
+function recordOutboundLink(link, category, action) {
+  try {
+    var pageTracker=_gat._getTracker("UA-18310227-1");
+    pageTracker._trackEvent(category, action);
+    if (link != null) setTimeout('document.location = "' + link.href + '"', 100);
+  } catch(err){}
+}
+</script><script language="JavaScript">
+                <!--
+                var dcsvid="non-registered"; 
+                var regstatus="non-registered";
+
+                //-->
+              </script>
+                <script src="http://graphics8.nytimes.com/js/common.js" type="text/javascript"></script>               
+                <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+              
+              <noscript>
+                <div>
+                    <img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/>
+                </div>
+              </noscript></div><div class="float" style="clear:both;"><img src="http://nytimes.perfectmarket.com/pm/images/pixel.gif" height="1" width="1" alt="" /></div>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" :
+"http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-e16aPraesolw6",
+labels:"The New York Times Company.New York Times"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-e16aPraesolw6.gif" border="0"
+height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+        </div></div><!-- Layout ends --><script type="text/javascript">
+                      //<![CDATA[
+                      document.write("<iframe id=\"pm-tracker\" src=\"http://nytimes.perfectmarket.com/pm/track?"+window.tracSessParams+"&pgtp=article&uri=%2F2002%2F09%2F07%2Fus%2Ftraces-of-terror-the-strategy-bush-aides-set-strategy-to-sell-policy-on-iraq.html&ci=22390313&pi=60&cat=front+page&pe_id=22390313&tv=ap-NYT2-G02&rna=pub-6956526235946485&rn=g&rnrci=6740388458&rnrcn=NYT_Property&rncci=2419411629&rnccn=NYT+Front+Page&rnpci=&rnpcn=&rntci=&rntcn=&rnlci=9154867477&rnlcn=9154867477&rnp=c&rt=cpc&pageLoad=1\" frameborder=\"0\" width=\"0\" height=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"position:absolute;display:none;overflow-x:hidden;overflow-y:scroll;\"></iframe>");
+                      //]]>
+                    </script></body></html>

@@ -1,0 +1,799 @@
+﻿<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta charset="utf-8">
+	
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	
+
+				<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+				<title>UN News Centre | News Focus: Syria</title>
+				<meta name="dc.title" content="Syria"/>
+				<meta name="dc.creator" content="United Nations News Service Section"/>
+				<meta name="dc.description" content="Syria - UN responds to crisis in Syria"/>
+				<meta name="dc.keyword" content="United Nations, UN, U.N., Ban Ki-moon, Secretary-General, news focus, news resource, Security Council, UN mission, al-Assad, Annan, Bashar, cessation, civil war, Civilians, conflict, crisis, Damascus, dialogue, displaced, envoy, Fawzi, Guehenno, humanitarian access, Homs, Houla, Houleh, massacre, Middle East, military observers, negotiations, peace plan, political, protest, Robert Mood, six-point plan, solution, special envoy, Syria, Syrian people, UN-Arab League, UNSMIS, uprising, violence"/>
+				<meta name="dc.subject" content="Syria"/>
+				<meta name="dc.publisher" content="United Nations-DPI/NMD - UN News Service Section"/>
+
+				<meta name="title" content="Syria"/>
+				<meta name="creator" content="United Nations News Service Section"/>
+				<meta name="description" content="Syria - UN responds to crisis in Syria"/>
+				<meta name="keywords" content="United Nations, UN, U.N., Ban Ki-moon, Secretary-General, news focus, news resource, Security Council, UN mission, al-Assad, Annan, Bashar, cessation, civil war, Civilians, conflict, crisis, Damascus, dialogue, displaced, envoy, Fawzi, Guehenno, humanitarian access, Homs, Houla, Houleh, massacre, Middle East, military observers, negotiations, peace plan, political, protest, Robert Mood, six-point plan, solution, special envoy, Syria, Syrian people, UN-Arab League, UNSMIS, uprising, violence" />
+
+				<meta name="subject" content="Syria"/>
+				<meta name="publisher" content="United Nations-DPI/NMD - UN News Service Section"/>
+
+
+				<meta property="og:title" content="Syria"/>
+				<meta property="og:image" content="http://www.un.org/News/dh/photos/large/2013/March/03-06-hcr-syria-refs.jpg"/>
+				<meta property="og:site_name" content="United Nations-DPI/NMD - UN News Service Section" />
+
+
+				<script type="text/javascript" src="include/tabber.js"></script>
+
+				<script type="text/javascript">
+				document.write('<style type="text/css">.tabber{display:none;}<\/style>');
+
+				/*==================================================
+				Set the tabber options (must do this before including tabber.js)
+				==================================================*/
+				var tabberOptions = {
+
+				'cookie':"tabber", /* Name to use for the cookie */
+
+				'onLoad': function(argsObj)
+				{
+				var t = argsObj.tabber;
+				var i;
+
+				/* Optional: Add the id of the tabber to the cookie name to allow
+				   for multiple tabber interfaces on the site.  If you have
+				   multiple tabber interfaces (even on different pages) I suggest
+				   setting a unique id on each one, to avoid having the cookie set
+				   the wrong tab.
+				*/
+				if (t.id) {
+				  t.cookie = t.id + t.cookie;
+				}
+
+				/* If a cookie was previously set, restore the active tab */
+				i = parseInt(getCookie(t.cookie));
+				if (isNaN(i)) { return; }
+				t.tabShow(i);
+				/* alert('getCookie(' + t.cookie + ') = ' + i); */
+				},
+
+				'onClick':function(argsObj)
+				{
+				var c = argsObj.tabber.cookie;
+				var i = argsObj.index;
+				/*alert('setCookie(' + c + ',' + i + ')'); */
+				setCookie(c, i);
+				_gaq.push(['_trackEvent', 'Focus Tabs', argsObj.tabber.tabs[argsObj.index].headingText, document.title]);
+				}
+				};
+
+				/*==================================================
+				Cookie functions
+				==================================================*/
+				function setCookie(name, value, expires, path, domain, secure) {
+				document.cookie= name + "=" + escape(value) +
+				    ((expires) ? "; expires=" + expires.toGMTString() : "") +
+				    ((path) ? "; path=" + path : "") +
+				    ((domain) ? "; domain=" + domain : "") +
+				    ((secure) ? "; secure" : "");
+				}
+
+				function getCookie(name) {
+				var dc = document.cookie;
+				var prefix = name + "=";
+				var begin = dc.indexOf("; " + prefix);
+				if (begin == -1) {
+				    begin = dc.indexOf(prefix);
+				    if (begin != 0) return null;
+				} else {
+				    begin += 2;
+				}
+				var end = document.cookie.indexOf(";", begin);
+				if (end == -1) {
+				    end = dc.length;
+				}
+				return unescape(dc.substring(begin + prefix.length, end));
+				}
+				function deleteCookie(name, path, domain) {
+				if (getCookie(name)) {
+				    document.cookie = name + "=" +
+				        ((path) ? "; path=" + path : "") +
+				        ((domain) ? "; domain=" + domain : "") +
+				        "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+				}
+				}
+				</script>
+
+
+				<script type="text/javascript">
+				var _gaq = _gaq || [];   
+				_gaq.push(['_setAccount', 'UA-4803886-1']);   
+				_gaq.push(['_trackPageview']);    
+
+				(function() {     
+				var ga = document.createElement('script'); 
+				ga.type = 'text/javascript'; 
+				ga.async = true;     
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     
+				var s = document.getElementsByTagName('script')[0]; 
+				s.parentNode.insertBefore(ga, s);   
+				})();
+				</script>
+
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="/apps/news/en/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/apps/news/en/css/app.css">
+	
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/apps/news/en/css/ie.css">
+	<![endif]-->
+	
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<link href="/apps/news/include/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" media="screen">
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4803886-1']);
+  _gaq.push(['_setDomainName', 'un.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+	<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-LQCS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-LQCS');</script>
+<!-- End Google Tag Manager -->
+	<div id="language-bar" class="visible-desktop">
+		<div class="container">
+			<div class="row">
+				<div class="span12" id="un_icon">
+					<div class="span4">
+						<a href="http://www.un.org/en/" title="United Nations Headquarters website">Welcome to the United Nations. It's your world.</a>
+					</div>
+					<div class="span7 pull-right visible-desktop">
+						<ul>
+						  <li lang="ar" xml:lang="ar" id="arabic"><a href="http://www.un.org/arabic/news/">عربي</a></li>
+						  <li lang="zh-cn" xml:lang="zh-cn" id="chinese"><a href="http://www.un.org/chinese/News/">中文</a></li>
+						  <li lang="en" xml:lang="en" id="english">English</li>
+						  <li lang="fr" xml:lang="fr"><a href="/french/newscentre/">Français</a></li>
+						  <li lang="ru" xml:lang="ru"><a href="http://www.un.org/russian/news/">Русский</a></li>
+						  <li lang="es" xml:lang="es"><a href="http://www.un.org/spanish/News/">Español</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="header">
+		<div class="container">
+			<!-- Navigation -->
+						<div class="row">
+				<a href="/News/" title="UN News Centre home">
+				<div class="span8" id="branding-bar">
+					<h1>United Nations News Centre</h1>
+					<h4 class="subheader">with breaking news from the UN News Service</h4>
+				</div>
+				</a>
+				<div class="span4 visible-desktop" method="post" id="search-bar">
+					<form method="post" accept-charset="ISO-8859-1" class="form-inline pull-right" action="/apps/news/search.asp">
+						<div class="btn-group">
+							<input class="input-medium" id="fldSearch" name="fldSearch" placeholder="Search" size="16" type="text">&nbsp;
+							<input name="fldPastdate" type="hidden" value="45">
+							<button class="btn btn-primary-news" type="submit"><i class="icon-search icon-white"></i></button>
+							<button class="btn btn-primary-news dropdown-toggle" data-toggle="dropdown">
+								<span class="caret"></span>
+							</button>
+							<ul class="dropdown-menu">
+								<a href="/apps/news/advancedsearch.asp" title="Advanced Search">Advanced Search</a>
+							</ul>
+						</div>
+					</form>
+				</div>
+			</div>
+			<div class="row visible-desktop" id="navigation">
+			
+				<div class="span12">
+					<div class="simplenav fix">
+						<ul class="fix nav">
+							<li class="here"><a href="/News/">News</a>
+								<ul class="on">
+									<li><a href="/apps/news/region.asp?Region=Africa">Africa</a></li>
+									<li><a href="/apps/news/region.asp?Region=Americas">Americas</a></li>
+									<li><a href="/apps/news/region.asp?Region=Asia+Pacific">Asia Pacific</a></li>
+									<li><a href="/apps/news/region.asp?Region=Europe">Europe</a></li>
+									<li><a href="/apps/news/region.asp?Region=Middle+East">Middle East</a></li>
+									<li class="skip"><a href="http://www.un.org/apps/news/archive.asp">UN Daily News</a></li>
+								</ul>
+							</li>
+						
+							<li><a href="http://www.unmultimedia.org/radio/english/">Radio</a>
+								<ul  class="off">
+									<li><a href="http://www.unmultimedia.org/radio/english/category/features/todays-news/">Today's News</a></li>
+									<li><a href="http://www.unmultimedia.org/radio/english/category/features/todays-features/">Today's Features</a></li>
+									<li><a href="http://www.unmultimedia.org/radio/english/">Programmes</a></li>
+									<li><a href="http://www.unmultimedia.org/radio/english/">Regions</a></li>
+									<li><a href="http://www.unmultimedia.org/radio/english/about-us/">About Us</a></li>
+									<li><a href="http://www.unmultimedia.org/radio/library/">Audio Library</a></li>
+									<li><a href="http://www.unmultimedia.org/accounts/index.html">Your Account</a></li>
+								</ul>
+							</li>
+
+							<li><a href="http://www.unmultimedia.org/">Television</a>
+								<ul  class="off">
+									<li><a href="http://www.unmultimedia.org/tv/unifeed/">UNifeed</a></li>
+									<li><a href="http://www.unmultimedia.org/tv/unia/">UN in Action</a></li>
+									<li><a href="http://www.unmultimedia.org/tv/21stcentury/">21st Century</a></li>
+									<li><a href="http://www.un.org/webcast/">Webcast</a></li>
+								</ul>
+							</li>
+
+							<li><a href="http://www.unmultimedia.org/photo">Photo</a>
+								<ul  class="off">
+									<li><a href="http://downloads.unmultimedia.org/photo/thumbnails/523/523401.jpg">Latest photos</a></li>
+									<li><a href="http://www.unmultimedia.org/photo/gallery.jsp?query=category%3ASecretary-General">Secretary-General</a></li>
+									<li><a href="http://www.unmultimedia.org/photo/gallery.jsp?query=category%3A%22Security%20Council%22">Security Council</a></li>
+									<li><a href="http://www.unmultimedia.org/photo/gallery.jsp?query=category%3A%22General%20Assembly%22">General Assembly</a></li>
+									<li><a href="http://www.unmultimedia.org/photo/gallery.jsp?query=category%3A%22Field%20coverage%22">UN Around the World</a></li>
+									<li><a href="http://www.unmultimedia.org/photo/gallery.jsp?query=legacy%3Ay&startat=0&sf=arrival_date">Photo Archives</a></li>
+								</ul>
+							</li>
+
+							<li><a href="http://webtv.un.org/">Webcast</a>
+								<ul  class="off">
+									<li><a href="http://webtv.un.org/">Live Now</a></li>
+									<li><a href="http://webtv.un.org/meetings-events/">Meetings &amp; Events</a></li>
+									<li><a href="http://webtv.un.org/media/">Media</a></li>
+									<li><a href="http://webtv.un.org/news-features/">News &amp; Features</a></li>
+									<li><a href="http://webtv.un.org/topics-issues/">Topics &amp; Issues</a></li>
+								</ul>
+							</li>
+						
+							<li><a href="http://www.un.org/en/unpress/">Meetings Coverage</a>
+								<ul  class="off">
+									<li><a href="http://www.un.org/en/unpress/moreBydocType.asp?docType=0">Press Releases</a></li>
+									<li><a href="http://www.un.org/en/unpress/moreBydocType.asp?docType=1">Press Conferences</a></li>
+									<li><a href="http://www.un.org/en/unpress/index_unbodies.asp?unpress=1&unBodies=4">Secretary-General</a></li>
+									<li><a href="http://www.un.org/en/unpress/index_unbodies.asp?unpress=21&unBodies=1">General Assembly</a></li>
+									<li><a href="http://www.un.org/en/unpress/index_unbodies.asp?unpress=31&unBodies=2">Security Council</a></li>
+									<li><a href="http://www.un.org/en/unpress/index_unbodies.asp?unpress=41&unBodies=3">Economic and Social Council</a></li>
+								</ul>
+							</li>
+
+							<li><a href="http://www.un.org/en/media/accreditation/index.shtml">Media Accreditation</a>
+								<ul  class="off">
+									<li><a href="http://www.un.org/en/media/accreditation/request.shtml">Accreditation Requirements</a></li>
+									<li><a href="http://www.un.org/en/media/accreditation/alert.shtml">Media Alert</a></li>
+									<li><a href="http://www.un.org/en/media/accreditation/resources.shtml">Media Resources</a></li>
+									<li><a href="http://www.un.org/en/media/accreditation/events.shtml">Special Media Events</a></li>
+									<li><a href="http://www.un.org/en/media/accreditation/faqs.shtml">FAQs</a></li>
+								</ul>
+							</li>
+
+							<li><a href="http://www.un.org/sg/">Secretary-General</a>
+								<ul  class="off">
+									<li><a href="http://www.un.org/sg/spokesperson/">Spokesperson</a></li>
+									<li><a href="http://www.un.org/apps/news/infocus/sgspeeches/">All Statements</a></li>
+									<li><a href="http://www.un.org/sg/selected-speeches/index.shtml">Selected Speeches</a></li>
+									<li><a href="http://www.un.org/sg/offthecuff/index.asp?cuff=1">Off-the-cuff Remarks</a></li>
+									<li><a href="http://www.un.org/sg/travels.asp">Official Travels</a></li>
+								</ul>
+							</li>
+						
+							<li><a href="#resources">Other Resources</a>
+								<ul  class="off">
+									<li><a href="http://www.un.org/apps/news/topstory.asp">Top Stories Archive</a></li>
+									<li><a href="http://www.un.org/apps/news/html/resources.shtml#PO">Peacekeeping</a></li>
+									<li><a href="http://www.un.org/apps/news/html/resources.shtml#PM">Political Missions</a></li>
+									<li><a href="https://unp.un.org/">UN Publications</a></li>
+									<li><a href="http://www.un.org/Depts/Cartographic/english/htmain.htm">Maps</a></li>
+									<li><a href="http://www.un.org/databases/index.html">Databases</a></li>
+									<li><a href="http://www.un.org/apps/news/html/resources.shtml#NM">New Magazines</a></li>
+									<li><a href="http://www.un.org/apps/news/html/syslinks.asp">UN System Links</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+
+				</div>
+			</div><!-- END Nav -->
+		</div>
+	</div>
+	
+	<div class="container"><!-- Main Content -->
+    <div class="row" id="story-content">
+      <div class="span12">
+        <h4 id="story-headline"><a href="infocus/">News Focus:</a> Syria</h4>
+        <hr class="invi" />
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="span8">
+      
+      <div class="row">
+        <div class="span3">
+          <img src="http://www.un.org/News/dh/photos/large/2013/March/03-06-hcr-syria-refs.jpg" alt="" />
+          <p class="phtocaption">A line of Syrian refugee women, some carrying children, cross into Jordan from southern Syria. Photo: UNHCR/N. Daoud</p>
+        </div>
+        <div class="span5">
+          
+          <h5>Latest Developments</h5>
+          <ul class="square">
+          
+          <li class="redux"><a href=story.asp?NewsID=46129&Cr=Syria&Cr1=opposition>Ban calls on Syrian opposition forces to send united delegation to peace conference</a></li>
+          
+          <li class="redux"><a href=story.asp?NewsID=46123&Cr=general+debate&Cr1=>UN must reflect the world as it is, not as it used to be, say Ministers from Germany, Liechtenstein</a></li>
+          
+          <li class="redux"><a href=story.asp?NewsID=46117&Cr=Indonesia&Cr1=>Vanuatu calls for UN probe of alleged rights abuses in Indonesia&#8217;s Papua provinces</a></li>
+          
+          <li class="redux"><a href=story.asp?NewsID=46114&Cr=general+debate&Cr1=>Greatest threat to Muslim world comes from within, Malaysian leader warns in UN address</a></li>
+          
+          <li class="redux"><a href=story.asp?NewsID=46109&Cr=general+debate&Cr1=>Venezuela demands end to policies of exclusion, denounces &#8216;hawks of war&#8217;</a></li>
+          
+          </ul>
+          <hr class="invi" />
+<h6>Report:</h6>
+<ul class="square">
+	<li class="redux"><a href="/disarmament/content/slideshow/Secretary_General_Report_of_CW_Investigation.pdf">Report on the Alleged Use of Chemical Weapons in the Ghouta Area of Damascus on 21 August 2013</a></li>
+    <li class="redux"><a href="https://s3.amazonaws.com/unoda-web/wp-content/uploads/2013/09/Fact_Sheet_SG_CW_Report.pdf">Factsheet summarizing the Secretary-General's report</a></li>
+</ul> 
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="span8">
+        <hr class="invired" />
+        <h5>Key Resources</h5>
+        <div class="tabber">
+           
+              <div class="tabbertab">
+                <h2>Joint Special Representative</h2><div class="row">
+	<div class="span8">
+		<h6>Lakhdar Brahimi named Joint Special Representative for Syria</h6>
+		<div class="row">
+			<div class="span3">
+				<img src="/News/dh/photos/large/2012/August/182456-lakhdarbrahimi.jpg" border="1" title="" />
+			</div>
+			<div class="span5">
+				<p class="news">On 17 August 2012, UN Secretary-General Ban Ki-moon, along with Arab League Secretary-General Nabil ElAraby, <a href="/sg/statements/index.asp?nid=6253">announced</a> the appointment of Lakhdar Brahimi as their Joint Special Representative for Syria.</p>
+				<ul class="square">
+					<li class="redux"><a href="/apps/news/infocus/Syria/press.asp?sID=45">Statements/press remarks</a></li>
+					<li class="redux"><a href="morenews.asp?Cr=Brahimi&Cr1=">Related news &raquo;</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+              </div>
+            
+              <div class="tabbertab">
+                <h2>UN bodies</h2><div class="row">
+	<div class="span8">
+		<div class="row">
+			<div class="span4">
+				<h6>Secretary-General</h6>
+				<div class="row">
+					<div class="span1">
+						<img src="images/138507-ki-moon-focus2.jpg" border="1" title="" />
+					</div>
+					<div class="span3">
+						<ul class="square">
+							<li class="redux"><a href="infocus/sgspeeches/keyword_search.asp?Body=Syria">Speeches</a> </li>
+							<li class="redux"><a href="sg_stats.asp?Title=Syria">Spokesperson's statements</a></li>
+							<li class="redux"><a href="select_offcuff.asp?Body=Syria">Remarks to the press </a> </li>
+							<li class="redux"><a href="docs.asp?Topic=Syria&Type=Report">Reports</a> </li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="span4">
+				<h6>Security Council</h6>
+				<div class="row">
+					<div class="span1">
+						<img src="images/137833-focus-council2.jpg" title="" />					
+					</div>
+					<div class="span3">
+						<ul class="square">
+							<li class="redux"><a href="docs.asp?Topic=Syria&Type=Presidential statement">Presidential statements</a></li>
+							<li class="redux"><a href="docs.asp?Topic=Syria&Type=Press statement">Press statements </a></li>
+							<li class="redux"><a href="docs.asp?Topic=Syria&Type=Meeting">Meetings</a></li>
+							<li class="redux"><a href="docs.asp?Topic=Syria&Type=Resolution">Resolutions</a></li>
+						</ul>
+					</div>
+				</div>	
+			</div>
+		</div>
+		<div class="row">
+			<div class="span4">
+				<h6>General Assembly</h6>
+				<div class="row">
+					<div class="span1">
+						<img src="images/135261_ga_focus.jpg" border="1" title="" />
+					</div>
+					<div class="span3">
+						<ul class="square">
+							<li class="redux">Resolutions
+								<ul>
+									<li class="redux"><a href="/Docs/journal/asp/ws.asp?m=A/RES/66/253">A/RES/66/253</a></li>
+									<li class="redux"><a href="/Docs/journal/asp/ws.asp?m=A/RES/66/176">A/RES/66/176</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="span4">
+				<h6>Human Rights Council</h6>
+				<div class="row">
+					<div class="span1">
+						<img src="http://www.un.org/News/dh/infocus/hr_council/images/rights-council-focus.jpg" title="" />					
+					</div>
+					<div class="span3">
+						<ul class="square">
+							<li class="redux">Resolutions
+								<select name="select" class="focus-docs span2" onChange="location=this.options[this.selectedIndex].value;" valign="top">
+									<option value="#">Select</option>
+									<option value="http://www.ohchr.org/Documents/HRBodies/HRCouncil/SpecialSession/Session19/A-HRC-RES-S-19-1_en.pdf">A/HRC/RES-19/1</option>
+									<option value="/Docs/journal/asp/ws.asp?m=A/HRC/RES/19/22">A/HRC/RES/19/22</option>
+									<option value="/Docs/journal/asp/ws.asp?m=A/HRC/RES/S-18/1">A/HRC/RES/S-18/1</option>
+									<option value="/Docs/journal/asp/ws.asp?m=A/HRC/RES/S-17/1">A/HRC/RES/S-17/1</option>
+									<option value="/Docs/journal/asp/ws.asp?m=A/HRC/RES/19/22">A/HRC/RES/S-16/1</option>
+								</select>
+							</li>
+							<li class="redux">Special Sessions
+								<select name="select" class="focus-docs span2" onChange="location=this.options[this.selectedIndex].value;" valign="top">
+									<option value="#">Select</option>
+									<option value="http://www.ohchr.org/EN/HRBodies/HRC/SpecialSessions/session19/Pages/19thSpecialSession.aspx">19th Special Session</option>
+									<option value="http://www2.ohchr.org/english/bodies/hrcouncil/specialsession/18/index.htm">18th Special Session</option>
+									<option value="http://www2.ohchr.org/english/bodies/hrcouncil/specialsession/17/index.htm">17th Special Session</option>
+									<option value="http://www2.ohchr.org/english/bodies/hrcouncil/specialsession/16/index.htm">16th Special Session</option>
+								</select>
+							</li>
+							<li class="redux">Investigative reports
+								<select name="select" class="focus-docs span2" onChange="location=this.options[this.selectedIndex].value;" valign="top">
+									<option value="#">Select</option>
+									<option value="http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session19/A-HRC-19-69_en.pdf">Second report</option>
+									<option value="http://www.ohchr.org/Documents/Countries/SY/A.HRC.S-17.2.Add.1_en.pdf">First report</option>
+									<option value="http://www.ohchr.org/Documents/countries/SY/Syria_Report_2011-08-17.pdf">Fact-finding mission</option>
+								</select>
+							</li>
+						</ul>
+					</div>
+				</div>	
+			</div>
+		</div>
+	</div>
+</div>
+              </div>
+            
+              <div class="tabbertab">
+                <h2>Background</h2><div class="row">
+  <div class="span8">
+    <h6></h6>
+    <div class="row">
+      <div class="span3"> <img src="/News/dh/photos/2008/syria-map.gif" /> </div>
+      <div class="span5">
+        <h6><a href="/en/peacekeeping/missions/unsmis/">UN Supervision Mission in Syria (UNSMIS)</a></h6>
+        <p class="news">The UN Supervision Mission in Syria (UNSMIS) was established by the Security Council on 21 April, through <a href="/ga/search/view_doc.asp?symbol=S/RES/2043(2012)">resolution 2043</a>, to monitor a cessation of armed violence by all parties and to support implementation of Joint Special Representative Kofi Annan's "<a href="/en/peacekeeping/documents/six_point_proposal.pdf">Six-point plan</a>" to end the conflict in Syria.</p>
+        <p class="news">Intensified armed violence across the country forced UNSMIS to <a href="/en/peacekeeping/missions/unsmis/documents/press_mood_16062012.pdf">suspend</a> its activities on 15 June 2012. On 20 July 2012, the Security Council decided to extend the Mission for a final 30 days, stressing that any further extension would be possible only "in the event that the Secretary-General reports and the Security Council confirms the cessation of the use of heavy weapons and a reduction in the level of violence sufficient by all sides'' to allow the UNSMIS monitors to implement their mandate. As those conditions were not met, the Mission's mandate came to an end at midnight on 19 August 2012.</p>
+      </div>
+    </div>
+  </div>
+  <div class="span8">
+    <h6>Kofi Annan, Joint Special Envoy on the Syrian crisis</h6>
+    <div class="row">
+      <div class="span3">
+        <div class="row">
+          <div class="span3"> <img src="/News/dh/photos/large/2012/March/506597-kofiannan.jpg" border="1"> </div>
+        </div>
+      </div>
+      <div class="span5">
+        <p class="news">Through his good offices, the <a href="/News/Press/docs//2012/sgsm14124.doc.htm">Joint Special Envoy</a> sought to promote a peaceful solution to the crisis in line with the aspirations of the Syrian people. He represented the UN and the Arab League in what Secretary-General Ban Ki-moon <a href="/sg/statements/index.asp?nid=6253">said</a> were "selfless efforts and contributions to the search for peace in Syria.</p>
+        <ul class="square">
+          <li class="redux"><a href="/en/peacekeeping/documents/six_point_proposal.pdf">Six-point plan</a></li>
+          <li class="redux"><a href="/apps/news/infocus/Syria/press.asp?sID=41">JSE statements</a> | <a href="/apps/news/infocus/Syria/press.asp?sID=42">Spokesman</a></li>
+          <li class="redux"><a href="morenews.asp?Cr=Kofi+Annan&amp;Cr1=">Related news &#187;</a></li>
+        </ul>
+      </div>
+    </div>
+    <h6>Meeting of the Action Group</h6>
+    <p class="news">The Joint Special Envoy (JSE) convened a meeting of the Action Group for Syria in Geneva on 30 June 2012.</p>
+    <ul class="square">
+      <li class="redux"><strong>JSE:</strong> <a href="/apps/news/infocus/Syria/press.asp?NewsID=1237&amp;sID=41">Opening remarks</a> | <a href="/apps/news/infocus/Syria/press.asp?NewsID=1236&amp;sID=41">Concluding remarks</a> | <a href="/apps/news/infocus/Syria/press.asp?NewsID=1235&amp;sID=41">Press conference</a></li>
+      <li class="redux"><strong>Action group:</strong> <a href="/News/dh/infocus/Syria/FinalCommuniqueActionGroupforSyria.pdf">Final communiqu&#233;</a></li>
+    </ul>
+  </div>
+</div>
+              </div>
+            
+          </div>
+          <hr class="invi" />
+          <div  class="tabber">
+	<div class="tabbertab">
+		<h2>Humanitarian response</h2>
+		<div class="row">
+			<div class="span8">
+				<div class="row">
+					<div class="span3">
+						<h6>The UN humanitarian response</h6> 
+						<div class="row">
+							<div class="span3">
+								<img src="/News/dh/photos/large/2012/April/04-2-hcr-syrian-refs.jpg" />
+								<p class="phtocaption">Syrian family being registered as refugees in Wadi Khaled, Northern Lebanon. Photo: UNHCR/F. Juez</p> 
+							</div>
+						</div>
+					</div>
+					<div class="span5">
+						<p class="news">As tens of thousands flee violence in Syria, the UN and its humanitarian partners issued an appeal in March 2012 for US$84 million to support Syrian refugees in response.</p>
+						<h6>UN agencies &amp; humanitarian partners</h6>
+						<ul class="square">
+							<li class="redux">Children &ndash; <a href="http://www.unicef.org/infobycountry/syriancrisis_68134.html">UNICEF</a></li>
+							<li class="redux">Food &ndash; <a href="http://www.fao.org/countryprofiles/index.asp?lang=en&amp;ISO3=SYR">FAO</a> | <a href="http://www.wfp.org/countries/syria">WFP</a> </li>
+							<li class="redux">Humanitarian Coordination &ndash; <a href="http://www.unocha.org/crisis/syria">OCHA</a>
+								<ul class="circle">
+									<li class="redux"><a href="http://reliefweb.int/country/syr">Reliefweb</a> </li>
+								</ul>
+							</li>
+							<li class="redux">Population &ndash; <a href="http://www.unfpa.org/public/home/news/pid/11407">UNFPA</a></li>
+							<li class="redux">Refugees &ndash; <a href="http://www.unhcr.org/pages/4f86c2426.html">UNHCR</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="tabbertab">
+		<h2>Human rights</h2>
+		<div class="row">
+			<div class="span8">
+				<div class="row">
+					<div class="span3">
+						<div class="row">
+							<div class="span3">
+								<img src="/News/dh/photos/2012/May/Syria-protest.jpg" />
+								<p class="phtocaption">Syrian pro-reform activists demonstrate in front of the UN building in Beirut, Lebanon, May 2011. EPA/W. Hamzeh</p> 
+							</div>
+						</div>
+					</div>
+					<div class="span5">
+						<p class="news">With human rights violations at the heart of the Syrian crisis, the UN has called for an immediate end to violence; release of political prisoners; impartial investigations to end impunity, ensure accountability and bring perpetrators to justice; and reparations for the victims. </p>
+						<ul class="square">
+							<li class="redux"><a href="http://www.ohchr.org/en/NewsEvents/Pages/NewsSearch.aspx?CID=SY">Statements & press releases</a></li>
+							<li class="redux"><a href="http://www.ohchr.org/EN/countries/MENARegion/Pages/SYIndex.aspx">Country page</a></li>
+							<li class="redux"><a href="http://www.ohchr.org/EN/HRBodies/HRC/IICISyria/Pages/IndependentInternationalCommission.aspx">Independent International Commission of Inquiry on Syria</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="tabbertab">
+		<h2>Related issues</h2>
+		<div class="row">
+			<div class="span8">
+				<div class="row">
+					<div class="span8">
+						<h6>
+							<a href="/en/preventgenocide/adviser/">Special Advisers of the Secretary-General on the Prevention of Genocide and on the Responsibility to Protect</a>
+						</h6>
+						<ul class="square">
+							<li class="RepSix"><a href="/apps/news/infocus/Syria/press.asp?sID=44">Statements/press releases</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</div>
+      
+        </div> 
+      </div>
+    </div>
+    <!-- Sidebar -->      
+    <div class="span4" id="sidebar">  
+      <blockquote class="focus">This is a historic day.  For many months, I have said that the confirmed use of chemical weapons in Syria required a firm, united and decisive response.  Tonight, the international community has delivered.</blockquote>
+      <p class="focus-quote">Secretary-General Ban in <a href="http://www.un.org/sg/offthecuff/index.asp?nid=3076">remarks</a> to the press after Security Council move to rid Syria of chemical weapons, 27 Sept &#8216;13</p>
+      
+  <hr class="invi" />
+	<h4>Video</h4>
+
+  <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"></script>
+
+  <object id="myExperience" class="BrightcoveExperience">
+    <param name="bgcolor" value="#FFFFFF" />
+    <param name="width" value="100%" />
+    <param name="height" value="225" />
+    <param name="playerID" value="1722935254001" />
+    <param name="playerKey" value="AQ~~,AAABPSuWdxE~,UHaNXUUB06UZWFCoFFs5QZruHHpWrX5A" />
+    <param name="isVid" value="true" />
+    <param name="isUI" value="true" />
+    <param name="dynamicStreaming" value="true" />
+    <param name="secureConnections" value="true" />
+    
+    <param name="@videoPlayer" value="2701083929001" />
+  </object>
+
+  <script type="text/javascript">brightcove.createExperiences();</script>
+
+<p class=secndlvlrel>Remarks to Security Council by Secretary-General Ban after vote to rid Syria of chemical weapons</p>
+<p class="more redux-height">
+<a href=http://webtv.un.org/search?term=syria>More videos &raquo;</a>
+</p> 
+	
+<hr class="invi" />
+<h4>Related Press Briefings</h4>
+<left><p class=secndlvlrel><a href=/News/briefings/docs/2013/130906_Guest.doc.htm>Press Conference by United Nations Emergency Relief Coordinator on Humanitarian Aid in Syria</a></p>
+<left><p class=secndlvlrel><a href=/News/briefings/docs/2013/130722_Guest.doc.htm>Press Conference by Special Representative for Children and Armed Conflict on Recent Visit to Syria, Jordan, Iraq, Turkey, Lebanon</a></p>
+<left><p class=secndlvlrel><a href=/News/briefings/docs/2013/130709_Guest.doc.htm>Press Conference on World Food Programme&#8217;s Operations in Syria</a></p>
+
+<hr class="invi" />
+<h4>Related Press Releases</h4>
+
+<left><p class=secndlvlrel><a href=/News/Press/docs/2013/sc11135.doc.htm>Security Council Requires Scheduled Destruction of Syria&#8217;s Chemical Weapons, Unanimously Adopting Resolution 2118 (2013)</a></p>
+<left><p class=secndlvlrel><a href=/News/Press/docs/2013/sgsm15358.doc.htm>&#8216;Tonight, the International Community Has Delivered,&#8217; Secretary-General Tells Security Council upon Its Adoption of &#8216;Historic&#8217; Resolution on Syria</a></p>
+<left><p class=secndlvlrel><a href=/News/Press/docs/2013/dsgsm702.doc.htm>Humanitarian Space in Syria &#8216;Ever More Constrained&#8217;, Deputy Secretary-General Tells Informal Ministerial Consultation on Situation</a></p>
+
+    </div>
+    <!-- END Sidebar -->
+</div>
+
+		</div>
+		
+	</div>
+	
+	
+
+	<div id="footer">
+		<div class="container">
+
+			<a name="resources"></a>
+			<div class="row">		
+				<div class="span3">
+					<h4>Secretary-General</h4>
+					<hr />
+					<ul class="unstyled">
+						<li><a href="http://www.un.org/apps/news/infocus/sgspeeches/">All Statements</a></li>
+						<li><a href="http://www.un.org/sg/selected-speeches/index.shtml">Selected Speeches</a></li>
+						<li><a href="http://www.un.org/sg/offthecuff/index.asp?cuff=1">Off-the-cuff Remarks</a></li>
+						<li><a href="http://www.un.org/sg/travels.asp">Official Travels</a></li>
+					</ul>
+				</div>
+				
+				<div class="span3">
+					<h4>Spokesperson's Office</h4>
+					<hr />
+					<ul class="unstyled">
+						<li><a href="http://www.un.org/sg/statements/sgstatsarchive.asp">Latest Statements</a></li>
+						<li><a href="http://www.un.org/sg/spokesperson/highlights/index.asp">Briefing Highlights</a></li>
+						<li>
+							<script language="JavaScript" type="text/javascript">  
+								<!--  
+								var dmonths = new Array("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12");  
+								var thirty = 61 * 60 * 60 * 24 * 1000;  
+								now = new Date();  
+								var pastDate = now.getTime() - thirty;  
+								past = new Date(pastDate);  
+								var dmyMonth = dmonths[past.getMonth()];  
+								document.write("<a href=/apps/news/spbrief.asp?DateD=" + dmyMonth + "/1/" + past.getFullYear()+ ">Briefing Transcripts</a>");  
+								//-->  
+							</script>
+						</li>
+						<li><a href="http://www.un.org/sg/spokesperson/confschedule.asp">Press Conferences</a></li>
+						<li><a href="http://www.un.org/sg/offthecuff/index.asp?cuff=3">Notes to Correspondents</a></li>
+					</ul>
+				</div>
+				<div class="span4">
+					<h4>Tools and Services</h4>
+					<hr />
+					<div class="row">
+						<div class="span2">
+							<ul class="unstyled">
+								<li><a href="http://www.un.org/apps/news/topstory.asp">Top Stories Archive</a></li>
+								<li><a href="http://www.un.org/apps/news/archive.asp">UN Daily News</a></li>
+								<li><a href="http://www.un.org/apps/news/html/syslinks.asp">UN System Links</a></li>
+								<li><a href="http://www.un.org/apps/news/html/resources.shtml#PO">Peacekeeping</a></li>
+								<li><a href="http://www.un.org/apps/news/html/resources.shtml#PM">Political Missions</a></li>
+								<li><a href="http://www.un.org/events/tenstories/">Stories the World Should Hear More About</a></li>
+							</ul>
+						</div>
+						<div class="span2">
+							<ul class="unstyled">
+								<li><a href="https://unp.un.org/">UN Publications</a></li>
+								<li><a href="http://www.un.org/Depts/Cartographic/english/htmain.htm">Maps</a></li>
+								<li><a href="http://www.un.org/databases/index.html">Databases</a></li>
+								<li><a href="http://www.un.org/works/">UN Works</a></li>
+								<li><a href="http://www.un.org/apps/news/html/resources.shtml#NM">News Magazines</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="span2">
+					<h4>Social Media</h4>
+					<hr />
+					<ul class="unstyled">
+						<li><a href="http://www.un.org/apps/news/rss/index.asp">RSS</a></li>
+						<li><a href="https://twitter.com/UN_News_Centre">Twitter</a></li>
+						<li><a href="https://www.facebook.com/UN.News.Centre">Facebook</a></li>
+						<li><a href="http://www.flickr.com/photos/un_photo/">Flickr</a></li>
+						<li><a href="http://www.un.org/apps/news/email/">Subscribe</a></li>
+						<li><a href="http://www.un.org/apps/news/html/contactus.asp">Contact</a></li>
+					</ul>
+				</div>
+				
+			</div>
+		
+			
+			<div class="row" id="copy">
+				<div class="span12">
+					<hr />
+					<div class="row">
+						<div class="span5">
+							<a href="/News/" title="UN News Centre homepage"><h4 class="zerospace">UN News Centre</h4></a>
+						</div>
+						<div class="span7 visible-desktop" id="un-copy">
+							<ul class="pull-right">
+								<li><a href="http://www.un.org/en/aboutun/copyright/">Copyright </a> |</li> 
+								<li><a href="http://www.un.org/en/aboutun/terms/">Terms of Use </a> |</li> 
+								<li><a href="http://www.un.org/en/aboutun/privacy/">Privacy Notice </a> | </li> 
+								<li><a href="http://www.un.org/en/siteindex/">Site Index </a> |</li> 
+								<li><a href="http://www.un.org/en/aboutun/fraudalert/">Fraud Alert </a> |</li> 
+								<li><a href="http://www.un.org/en/aboutun/help/">Help </a> </li> 
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<script src="/apps/news/en/js/jquery.min.js"></script>
+	<script src="/apps/news/en/js/bootstrap.min.js"></script>
+	<script src="/apps/news/en/js/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+	<script src="/apps/news/en/js/app.js"></script>
+    <script src="/apps/news/en/js/prettify.js"></script>
+	<script src="/apps/news/en/js/bootstrap-datepicker.js"></script>
+    <script src="/apps/news/en/js/datepicke_calendar.js"></script>
+    
+<script type="text/javascript">
+$(document).ready(function () {
+$("[rel=tooltip]").tooltip();
+});
+function show(object,val) {
+document.getElementById(object).style.visibility = val;
+}
+</script>
+	</body>
+</html>

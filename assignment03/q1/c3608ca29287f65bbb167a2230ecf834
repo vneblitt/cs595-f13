@@ -1,0 +1,443 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head onunload=""><!-- The blank onload is for prefetcher.js, to enable events on back button pressing -dgy -->
+<!-- Hostname: ip-10-128-132-30-->
+<script type="text/javascript" src="http://wp-eng-static.washingtonpost.com/util-redirect.js"></script>
+<script>
+TWP.Util.redirect.mobile = false;
+for (site in TWP.Util.redirect.config.sites) { if(TWP.Util.redirect.config.sites[site]) { TWP.Util.redirect.mobile = true; break; } }
+if (TWP.Util.redirect.mobile == false && (window.location.href.indexOf('/settings') < 0 & window.location.href.indexOf('/offline') < 0 & navigator.cookieEnabled & document.cookie.indexOf("byeDavid")<0)){
+if (navigator.platform.substring(0,3)=="Mac"){
+var d = new Date();
+d.setTime(d.getTime()+(7*43200000));
+document.cookie= "sd=s; expires="+d.toGMTString() +"; domain=.washingtonpost.com; path=/";
+location.href="http://www.washingtonpost.com"+location.pathname;
+}
+if (navigator.platform.substring(0,3)=="Win"){
+var d = new Date();
+d.setTime(d.getTime()+(7*86400000));
+document.cookie= "sd=s; expires="+d.toGMTString() +"; domain=.washingtonpost.com; path=/";
+var request = new XMLHttpRequest();
+var url="/images/favicon.ico?w="+window.screen.width+"&h="+window.screen.height+"&r="+window.devicePixelRatio+"&a="+encodeURI(navigator.userAgent);
+request.open('GET',url,true);
+request.onreadystatechange = function() {
+if (request.readyState === 4 && request.status === 200) {
+var d = new Date();
+d.setTime(d.getTime()+(7*86400000));
+document.cookie= "sd=s; expires="+d.toGMTString() +"; domain=.washingtonpost.com; path=/";
+location.href="http://www.washingtonpost.com"+location.pathname;
+}
+};
+request.send(null);
+}
+if(document.cookie.indexOf("md=") < 0 && window.screen.width*window.screen.height/Math.pow((window.devicePixelRatio == undefined || navigator.userAgent.match(/(iPhone|iPod|iPad)/i) ? 1 : window.devicePixelRatio),2) < 480000) {
+var d = new Date();
+d.setTime(d.getTime()+31556900000);
+document.cookie= "md=1; expires="+d.toGMTString() + "; domain=.washingtonpost.com; path=/";
+}
+}
+</script>
+<link rel="canonical" href="http://www.washingtonpost.com//blogs/liveblog/wp/2013/09/16/shooting-at-washington-navy-yard/"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="no">
+<title>
+Shooting at Washington Navy Yard - The Washington Post
+</title>
+<link rel="shortcut icon" href="/images/favicon.ico"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-57-precomposed.png">
+<style type="text/css" title="targetAudience">
+div .regionalTargetAudience { display:block };
+</style>
+<!--[if IE]> 
+<link rel="stylesheet" type="text/css" href="/styles/less/ms.less?v=844000"/>
+<![endif]--> 
+<link rel="stylesheet" type="text/css" href="/static/v/844000/styles/less/styles.less"/>
+<script type ="text/javascript">
+var TWP = window.TWP = TWP || {};
+TWP.mobile = TWP.mobile || {};
+TWP.mobile.initFunctions = [];
+TWP.mobile.changePageInitTempArray=[];
+TWP.mobile.changePageInitArray=[];
+TWP.mobile.urlUtils = TWP.mobile.urlUtils || {};
+TWP.mobile.urlUtils.redirectToDesktop = function() {
+//alert("redirecting to desktop");
+if(document.body != null) 
+document.body.style.display="none"; // Hide the content of the page so we don't see it while waiting for the desktop
+window.location = "http://www.washingtonpost.com"+window.location.pathname;
+};
+TWP.mobile.urlUtils.setOneTimeShowDesktopCookie= function() {
+document.cookie= "sd=1;domain=.washingtonpost.com;"; // Don's specify expires, making it a session cookie
+}
+var _sf_startpt=(new Date()).getTime();//chartbeat
+</script>
+</head>
+<body>
+<div id="floatAd"></div>
+<div class="page page-article" data-section="/blogs/liveblog" data-adkey="mob.wp.blogs/blog/liveblog" data-timestamp="20130930132242">
+<header data-role="header" class="dropdown-group">
+<dl class="horiz-menu">
+<dd id="menuItem-home" class="">
+<a href="/"><label>Home</label></a>
+</dd>
+<dd id="menuItem-politics," class="">
+<a href="/politics"><label>Politics</label></a>
+</dd>
+<dd id="menuItem-opinions" class="">
+<a href="/opinions"><label>Opinions</label></a>
+</dd>
+<dd id="menuItem-local" class="">
+<a href="/local"><label>Local</label></a>
+</dd>
+<dd id="menuItem-global-menu" class="dropdown">
+<a class="submenu"><label>More</label>
+<span class="arrow"></span></a>
+</dd>
+</dl>
+<dl id="dropdown-content_menuItem-global-menu" class="dropdown-content">	
+<dl class="dual-submenu">
+<dd id="menu-sign-in" class="subMenuItem">
+<a href="">Sign In</a>
+</dd>
+<dd id="menu-sign-out" class="subMenuItem">
+<a href="">Log Out</a>
+</dd>
+<dd id="menu-subscribe" class="subMenuItem">
+<a href="https://account.washingtonpost.com/acquisition/?m=1&tid=m_nav_sub">Subscribe</a>
+</dd>
+</dl>
+<dd class="groupHeading"><span>Sections</span></dd>
+<dd id="menu-politics" class="subMenuItem">
+<a href="/politics">Politics</a>
+</dd>
+<dd id="menu-opinions" class="subMenuItem">
+<a href="/opinions">Opinions</a>
+</dd>
+<dd id="menu-local" class="subMenuItem">
+<a href="/local">Local</a>
+</dd>
+<dd id="menu-sports" class="subMenuItem">
+<a href="/sports">Sports</a>
+</dd>
+<dd id="menu-national" class="subMenuItem">
+<a href="/national">National</a>
+</dd>
+<dd id="menu-world" class="subMenuItem">
+<a href="/world">World</a>
+</dd>
+<dd id="menu-business" class="subMenuItem">
+<a href="/business">Business</a>
+</dd>
+<dd id="menu-technology" class="subMenuItem">
+<a href="/business/technology">Technology</a>
+</dd>
+<dd id="menu-lifestyle" class="subMenuItem">
+<a href="/lifestyle">Lifestyle</a>
+</dd>
+<dd id="menu-entertainment" class="subMenuItem">
+<a href="/entertainment">Entertainment</a>
+</dd>
+<dd id="menu-games" class="subMenuItem">
+<a href="http://games.washingtonpost.com/">Games</a>
+</dd>
+<dd id="menu-photography" class="subMenuItem">
+<a href="/photography">Photos</a>
+</dd>
+<dd id="menu-video" class="subMenuItem">
+<a href="http://www.washingtonpost.com/posttv">PostTV</a>
+</dd>
+<dd id="menu-classifieds" class="subMenuItem">
+<a href="/classifieds">Classifieds</a>
+</dd>
+<dd id="menu-realestate" class="subMenuItem">
+<a href="/realestate">Real Estate</a>
+</dd>
+<dd id="menu-settings" class="subMenuItem">
+<a href="/settings">Settings</a>
+</dd>
+<dd class="actionLine close"></dd>
+</dl>
+<div id="titlebar">
+<div class="section-title" data-section-url="/blogs/liveblog">
+<h1 class="sectionHeading" style="text-transform: uppercase">Washington Post</h1>
+</div>
+<a class="subscribe" href="https://account.washingtonpost.com/acquisition/?promo=dgmwebbanrad&m=1&tid=m_hp_sub">SUBSCRIBE</a>
+</div>
+</header>	
+<div class ="omniture" data-omniture='{"pageName": "liveblog:blog:liveblog - tonnavyyard/ - 20130916 - shooting-at-washington-navy-yard","channel": "wpm - liveblog","contentSubsection": "wpm - liveblog","contentType": "blog","contentAuthor": "mark berman","searchKeywords": "","pageFormat": "","DBPath": "","blogName": "liveblog","contentSource": ""}'></div>
+<article class="content story">
+<section class="intro">	
+<h2 class="headline">
+Shooting at Washington Navy Yard
+</h2>
+<span class="byline">
+By Mark Berman,
+</span>
+<span class="publishDate"> 
+&nbsp;Published: SEPTEMBER 16, 9:30 AM ET
+</span>	
+</section>
+<section class="share bar" >
+<hr class="sizebar">
+<script>var mobilePath="/blogs/liveblog/wp/2013/09/16/shooting-at-washington-navy-yard/"</script>
+<span class="facebook">
+<a class="noUrlChange" href="http://m.facebook.com/sharer.php?u=http%3A%2F%2Fwww.washingtonpost.com%2Fblogs%2Fliveblog%2Fwp%2F2013%2F09%2F16%2Fshooting-at-washington-navy-yard%2F" 
+target="_blank">
+<span class="shareIcon"><span class="playicon">&nbsp;</span></span></a>
+</span>
+<span class="twitter">
+<a class="noUrlChange" href="https://twitter.com/intent/tweet?text=Shooting+at+Washington+Navy+Yard&url=http%3A%2F%2Fwww.washingtonpost.com%2Fblogs%2Fliveblog%2Fwp%2F2013%2F09%2F16%2Fshooting-at-washington-navy-yard%2F" target="_blank">
+<span class="shareIcon"><span class="playicon">&nbsp;</span></span></a>
+</span>
+<span class="sizectl">
+<span class="sizeless">
+<span class="sizelessInner">&nbsp;</span>
+</span>
+<span class="textSizeText">Aa</span>
+<span class="sizemore">
+<span class="sizemoreInner">&nbsp;</span>
+</span>
+</span>
+<hr class="sizebar" />
+</section>
+<section class="body fluidEmbedContainer">
+<p>
+<a href="http://www.washingtonpost.com/blogs/liveblog-live/liveblog/shooting-at-washington-navy-yard/" target="_blank">Tuesday&rsquo;s live updates</a> | <a href="http://www.washingtonpost.com/blogs/liveblog-live/liveblog/shooting-at-the-washington-navy-yard/" target="_blank">Wednesday&rsquo;s live updates</a>
+</p><p>D.C. officials said at least 13 people are dead after a rampage at the Washington Navy Yard on Monday. The U.S. Navy said shots were fired around 8:20 a.m. at the Naval Sea Systems Command Headquarters building, where about 3,000 people work.</p><p>
+<a href="/local/three-shot-at-navy-yard/2013/09/16/4733fdca-1ed7-11e3-94a2-6c66b668ea55_gallery.html">Photos from the scene</a> | <a href="http://www.washingtonpost.com/grid/local/washington-navy-yard-shooting/">Tweets and Instagram photos</a> | <a href="/local/police-search-for-active-shooter-on-grounds-of-washington-navy-yard-in-southeast-dc/2013/09/16/b1d72b9a-1ecb-11e3-b7d1-7153ad47b549_story.html">Main story</a>
+</p><div class="delayedScript" data-type="text/javascript">hashLoc = window.location.href.indexOf('#');allPage = false; if(hashLoc &gt; -1 &amp;&amp; !allPage) {if(window.location.href.indexOf('?') &lt; hashLoc) cutLoc = window.location.href.indexOf('?'); else cutLoc = hashLoc; top.location = 'http://www.washingtonpost.com/blogs/liveblog/wp/2013/09/16/shooting-at-washington-navy-yard/999/' + window.location.href.substring(hashLoc); }</div><div class="borT1S cf marT20 padT25 opacity" id="liveblog-entry-18085">
+<div class="col80 left align-right">
+<a href="#liveblog-entry-18085">05:04 am</a>
+<h6 class="marT5">J. Freedom du Lac</h6>
+</div>
+<div class="col520 right">
+<h2>
+<a href="#liveblog-entry-18085">The media: A quick scan</a>
+</h2>
+<div class="wp-caption aligncenter" id="attachment_17762">
+<div class="inline-img external">
+<img class="external" data-src="/externimage/w/h/14p-kKPm6pzvJWvAsfrWQV3l5L0OVr3vbpcfWaCEAgOEyG4-Px6HDa_zRBtFEJQJF4JVhuleOFXYvcG_-PEC5aO6TuYkyhzvbJHAunOefI9J3e9XrJSPEsHEGFkT4_QBkawlb2WLHr8/navy-yard-vincent-gray-speaking-1024x716.jpg" data-aspect-ratio="auto" original="http://www.washingtonpost.com/blogs/liveblog/files/2013/09/navy-yard-vincent-gray-speaking-1024x716.jpg"></div>
+<p class="wp-caption-text">Mayor Vincent Gray at press briefing. (Mandel Ngan -AFP/Getty Images)</p>
+</div>
+<p>&ldquo;So much was misreported in the first few hours after the shooting rampage at Washington's Navy Yard,&rdquo; <a href="/lifestyle/style/news-outlets-often-stumble-in-quest-for-speed-and-accuracy/2013/09/16/e5444820-1f19-11e3-8459-657e0c72fec8_story.html">Paul Farhi writes in The Post</a>.</p>
+<blockquote>
+<p>The erroneous reports weren't concocted. In most cases, they came directly from police sources, and quickly bubbled up through the modern media ecosystem, hopping from law enforcement scanners to Twitter to traditional media reports, all within minutes. <span>Reporters are no better than their sources, and as sources, police scanners aren't very reliable.</span>
+</p>
+</blockquote>
+<p>Jim Farley, the news chief at WTOP, tells Farhi that a scanner &ldquo;is not a source.&rdquo;</p>
+<blockquote>
+<p>&ldquo;Our main motto is first get it right, then get it fast. We'd rather be slow but accurate. The public doesn't remember who got what first. It does remember who got something wrong.&rdquo;</p>
+</blockquote>
+</div>
+</div><div class="borT1S cf marT20 padT25 opacity" id="liveblog-entry-18065">
+<div class="col80 left align-right">
+<a href="#liveblog-entry-18065">02:39 am</a>
+<h6 class="marT5">J. Freedom du Lac</h6>
+</div>
+<div class="col520 right">
+<h2>
+<a href="#liveblog-entry-18065">Kenneth Proctor loved his boys and his Redskins</a>
+</h2>
+<p>Breakfast beckoned <a href="http://www.washingtonpost.com/wp-srv/special/local/navy-yard-shooting/">in Building 197</a>. <a href="http://www.washingtonpost.com/wp-srv/special/local/navy-yard-shooting/">
+<br>
+</a>
+</p>
+<p>Kenneth Bernard Proctor, a civilian utilities foreman at the Navy Yard, didn't work in that building, his ex-wife, Evelyn Proctor, <a href="/national/civilian-employees-killed-in-navy-yard-shootings-had-long-association-with-washington-base/2013/09/17/6e63dbba-1f52-11e3-9ad0-96244100e647_story.html?tid=auto_complete">told The Associated Press</a>. But, she said: "It was a routine thing for him to go there in the morning for breakfast, and unfortunately it happened.&rdquo;</p>
+<p>The high school sweethearts had spoken early Monday morning, before he left for work. They talked every day, even after their marriage ended in divorce earlier this year.</p>
+<p>&ldquo;We were still very close. It wasn&rsquo;t a bitter divorce,&rdquo; she said. &ldquo;We still talked every day, and we lived 10 minutes away from each other.&rdquo;</p>
+<p>He was, she said, "a very loving, caring, gentle person."</p>
+<p>After failing to reach her ex-husband by telephone, she drove to the Navy Yard, fearing the worst, according to The Associated Press. She waited about three hours with other people looking for their loved ones and was informed around 8 p.m. that Kenneth Proctor was among the shooter's victims.</p>
+<p>He was 46 years old and loved his boys and his Redskins. He&rsquo;d been born and raised in Charles County, Md., and was still living there. He'd worked for the federal government for 22 years, his ex-wife said. They'd married in 1994 and had two sons together - both now teenagers. Their youngest, Kendull, is 15. Their eldest, Kenneth Jr., 17, recently enlisted in the Army.</p>
+</div>
+</div><div class="borT1S cf marT20 padT25 opacity" id="liveblog-entry-18057">
+<div class="col80 left align-right">
+<a href="#liveblog-entry-18057">01:00 am</a>
+<h6 class="marT5">J. Freedom du Lac</h6>
+</div>
+<div class="col520 right">
+<h2>
+<a href="#liveblog-entry-18057">Eight victims identified</a>
+</h2>
+<p>Police confirmed the names and ages of seven victims killed in Monday&rsquo;s attack at the Navy Yard:</p>
+<p>Michael Arnold, 59.</p>
+<p>
+<a href="/local/after-navy-yard-shooting-a-family-braces-for-awful-news-about-a-missing-loved-one/2013/09/16/836ed6c6-1f35-11e3-b7d1-7153ad47b549_story.html">Sylvia Frasier, 53</a>.</p>
+<p>Kathleen Gaarde, 62.</p>
+<p>John Roger Johnson, 73.</p>
+<p>Frank Kohler, 50.</p>
+<p>Kenneth Bernard Proctor, 46.</p>
+<p>Vishnu Pandit, 61.</p>
+<p>The Washington Post&rsquo;s Emily Wax-Thibodeux identified an eighth: Arthur Daniels, 51.</p>
+<blockquote>
+<p>For the past two years, Arthur Daniels -- grandfather of nine -- had relocated and installed office furniture in federal government buildings around the region. On Monday, he went to work inside the Naval Yard.</p>
+<p>He spotted a gunman running down a hallway in Building 197, according to witnesses. He and a colleague ran. They arrived at an elevator and frantically pushed the button.</p>
+<p>The gunman shot Daniels in the back, a witness said. &hellip;</p>
+<p>Daniels's son, Arthur Jr., said the family was struggling to "understand why."</p>
+<p>"All he did was go to work," he said. "That was his only crime."</p>
+</blockquote>
+<p>We&rsquo;re <a href="http://www.washingtonpost.com/wp-srv/special/local/navy-yard-shooting-victims/">profiling the lives lost at the Navy Yard</a> on a special page.</p>
+</div>
+</div><div class="borT1S cf marT20 padT25 opacity" id="liveblog-entry-18046">
+<div class="col80 left align-right">
+<a href="#liveblog-entry-18046">12:12 am</a>
+<h6 class="marT5">J. Freedom du Lac</h6>
+</div>
+<div class="col520 right">
+<h2>
+<a href="#liveblog-entry-18046">Alexis: 'A 13-year-old stuck in a 34-year-old body'</a>
+</h2>
+<div class="wp-caption alignnone">
+<div class="inline-img external">
+<img class="external" data-src="/externimage/w/h/14p-kKPm6pzvJWvAsfrWQV3l5L0OVr3v1y2Nz4CELbb0GViqVP7o_KZtrQjJE65z3OhtuW7YSwLU6KYTcJnk-0Euo1pNo_63bwaTh4GfCDI2g43IVwIg18bmNjZYhTgEuTpga3CsSH8Cep21pcwPUHXYZPqErjXWWN98vMQkIYAQzRfE8jetKw/Shooting_Military_Building-01443.jpg" data-aspect-ratio="auto" original="http://www.washingtonpost.com/rf/image_606w/2010-2019/WashingtonPost/2013/09/17/Local/Images/Shooting_Military_Building-01443.jpg"></div>
+<p class="wp-caption-text">Alexis, who moved from Fort Worth to the District about a month ago, had an arrest record in three states. (Kristi Kinard Suthamtewakul/AP)</p>
+</div>
+<p>From Tuesday&rsquo;s <a href="/politics/aaron-alexis-34-is-dead-gunman-in-navy-yard-shooting-authorities-say/2013/09/16/dcf431ce-1f07-11e3-8459-657e0c72fec8_story.html?hpid=z3">front-page profile of Aaron Alexis</a>, the man named as the shooter in Monday's mass killing at Building 197:</p>
+<blockquote>
+<p>Those who knew Alexis in recent years describe him as a "sweet and intelligent guy" (a regular customer at the Thai restaurant where he had been a waiter) and "a good boy" (his landlord), but also as "very aggressive," someone who seemed as though he might one day kill himself (a lay worker at the Buddhist temple where Alexis worshiped). &hellip;</p>
+<p>"He's a 13-year-old stuck in a 34-year-old body," said Oui Suthamtewakul, owner of the Happy Bowl Thai restaurant in White Settlement, Tex., and a friend who lived with Alexis for most of the past three years. "He needs attention."</p>
+</blockquote>
+</div>
+</div><p>For older posts, <a href="/blogs/liveblog/wp/2013/09/16/shooting-at-washington-navy-yard/1/">Click Here</a>
+</p>
+</section>
+<section class="threeComments"></section>
+<section class="relatedContent"></section>
+</article>
+<nav id="bottomNav">
+<section id="moreMenu">
+<div class="title">MORE</div>
+<div id="moreContact"><a href="mailto:mobilewebfeedback@washingtonpost.com">Contact us</a></div>
+<div id="morePrivacy"><a href="/privacy-policy/2011/11/18/gIQASIiaiN_story.html">Privacy policy</a></div>
+</section><!-- moreMenu -->
+<section id="myAccount">
+<div class="title">My Account</div>
+<span class="button sign-in">Sign In</span>
+<div class="account-info">
+<img height=60 width=60 src=""/>
+<span class="display-name"></span>
+<span class="sign-out">Log Out</span>
+</div>
+<a class="subscribe" href="https://account.washingtonpost.com/acquisition/?promo=dgmwebbanrad&m=1&tid=m_footer_sub">Subscribe</a>
+</section>
+</nav>
+<footer id="footer">
+<div class="copyright">&copy; Copyright 1996-2013 The Washington Post</div>
+<a href="#" class="noUrlChange fullSiteLink">View desktop site</a>
+</footer>
+</div>
+<div class="gallery-view" style="display:none;">
+<div class="outer-nav">
+<ul class="nav">
+<li id="swipeView-button-home"><span class="inner gallery-home">&nbsp;</span></li>
+<li id="swipeView-button-prev"><span class="inner gallery-prev">&nbsp;</span></li>
+<li id="swipeView-button-next"><span class="inner gallery-next">&nbsp;</span></li>
+</ul>
+</div>
+<div class="slide-wrapper"></div>
+</div>
+<span class="paywall-overlay"></span>
+<script type="text/template" id="gallerySlideTemplate">
+<img onload="this.className = '';" class="loading"></img>
+<div class="captionBlock captionMax">
+<span class="headline">&nbsp;</span>
+<span class="subtitle">&nbsp;</span>
+<span class="captionText">&nbsp;</span>
+<span class="byline">&nbsp;</span>
+</div>
+</script>
+<div id="omniture-block"></div>
+<script type="text/javascript" src="/static/v/844000/scripts/lib/jquery-1.7.1.min.js"></script> 
+<script type="text/javascript" src="/static/v/844000/scripts/lib/modernizr.min.js"></script>
+<script type="text/javascript" src="/static/v/844000/scripts/lib/plugins/modernizr-wp-tests.js"></script>
+<!-- <script type="text/javascript" src="/scripts/lib/matchMedia.min.js?v=844000"></script> --> 
+<script type="text/javascript" src="/static/v/844000/scripts/lib/swipeview.min.js"></script>
+<script type="text/javascript" src="/static/v/844000/scripts/lib/enquire.min.js"></script>
+<script type="text/javascript" src="/static/v/844000/scripts/mobile-site.js"></script>
+<script type="text/javascript" src="/static/v/844000/scripts/cookie-util.js"></script>
+<script type="text/javascript" src="/static/v/844000/scripts/lib/embed-resize.js"></script>
+<script>
+foresight = {
+options: {
+speedTestUri: "http://img3.wpdigital.net/wp-srv/mobile/mobile-web/speedTest/50k.jpeg",
+speedTestKB: 50,
+speedTestExpireMinutes: 30
+}
+};
+</script>
+<script type="text/javascript" src="/static/v/844000/scripts/lib/foresight.min.js"></script>
+<script type="text/javascript" src="/static/v/844000/scripts/lib/writeCapture.js"></script>
+<script type="text/javascript" src="/static/v/844000/scripts/lib/plugins/jquery.writeCapture.js"></script>
+<script type='text/javascript' src='/static/v/844000/scripts/online.js'></script>
+<script type="text/javascript" src="/static/v/844000/scripts/prefetcher.js"></script>
+<script type='text/javascript' src='/static/v/844000/scripts/settings.js'></script>
+<script type='text/javascript' src='/static/v/844000/scripts/lib/fastclick.js'></script>
+<script type='text/javascript' src='/static/v/844000/scripts/comments.js'></script>
+<script type='text/javascript' src='/static/v/844000/scripts/lib/add2home.js'></script>
+<!-- 
+<script type='text/javascript' src='/static/v/844000/scripts/logg.js'></script>
+-->
+<!-- SiteCatalyst code version: H.24.4.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script type="text/javascript">
+var s_account="wpniwpmobileprod";
+</script>
+<script language="JavaScript" type="text/javascript" src="/static/v/844000/scripts/s_code.js"></script>
+<script type="text/javascript" src="/static/v/844000/scripts/mobile-omniture.js"></script>
+<noscript><img src="http://wpni.112.2o7.net/b/ss/wpniwpmobilepp/1/H.24.4--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.24.4. -->	
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "3005617" }); (function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el); })();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=3005617&c4=m.washingtonpost.com/nojs.html" /> </noscript>
+<!-- End comScore Tag -->
+<!-- Begin chartbeat code -->
+<script>
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 19624;
+_sf_async_config.domain = 'm.washingtonpost.com';
+_sf_async_config.useCanonical = true;
+_sf_async_config.sections = $(".sectionHeading").html();
+_sf_async_config.authors = TWP.mobile.getTargetAudience();
+/** CONFIGURATION END **/
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<!-- End chartbeat code -->
+</body></html>
+

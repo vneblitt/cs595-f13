@@ -1,0 +1,1317 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-200000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17737250-1']);
+  _gaq.push(['_setDomainName', '.hootsuite.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- SYSTEM CSS - DO NOT EDIT -->
+<link rel="stylesheet" type="text/css" media="screen" href="/css/mktLPSupport.css" />
+<style type="text/css">
+#bodyId {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  background: #ffffff;
+}
+
+div#outerWrapDiv {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+div#innerWrapDiv {
+  position: relative;
+  padding: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0px;
+  text-align: left;
+}
+
+</style>
+
+
+<!-- START TEMPLATE CSS - EDIT THIS SECTION -->
+
+<style>
+/* Note: You can also change these in the specific Landing Pages*/
+
+/* Width of Full Page */
+div#innerWrapDiv {
+  width: 1000px;
+  margin-top:-30px;
+  }
+
+
+  
+body {
+  font-size: 62.5%;
+  background: #ffffff url('http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/body_bg2.png') repeat scroll top left;
+  color: #777777;
+  font-family: Tahoma, Geneva, sans-serif;
+  min-width: 1024px;
+      margin: 0;
+}
+.wrapper {
+  width: 960px;
+  margin: auto;
+}
+/* ********************************* Global Header ******************** */
+div.hs-global {
+  height: 49px;  
+  background-image: url('http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/hs-global-bg-white.png');
+  width: 100%;
+   
+}
+div.hs-global a.logo {
+  display: block;
+  border: 0;
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-image: url('http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/hsu-logo.jpg');
+  background-position: -1px 0px;
+  width: 264px;
+  height: 35px;
+  float: left;
+  margin-top: 9px;
+}
+/* ********************************* titleWrapper ******************** */
+#titleWrapper {
+  background: #133663 ;
+  height: 30px;
+    width: 100%;
+  
+}
+#titleWrapper .wrapper {
+  
+  height: 250px;
+  position: relative;
+}
+#titleWrapper .wrapper .siteTitle {
+  font-size: 4.8rem;
+  font-size: 48px;
+  text-shadow: 0 2px #0E2F58;
+  letter-spacing: -0.05em;
+  color: #E1E8F0;
+  font-family: 'banda-regular-normal', 'Trebuchet MS', Trebuchet, sans-serif;
+  text-decoration: none;
+  position: absolute;
+}
+#titleWrapper .wrapper .siteTitle:hover {
+  color: white;
+}
+#titleWrapper .wrapper .siteTagline {
+  font-size: 1.8rem;
+  font-size: 18px;
+  text-shadow: 0 2px #0E2F58;
+  color: #E1E8F0;
+  font-family: 'banda-regular-normal', 'Trebuchet MS', Trebuchet, sans-serif;
+  position: absolute;
+  top: 66px;
+  left: 5px;
+}
+
+/* ********************************* Basic Content Styling ******************** */
+
+#main {
+  zoom:1;
+  margin-top: 0px; 
+}
+
+  #main::before {
+    content: '';
+    display: block; 
+  }
+
+  #main::after {
+    content: '';
+    display: table; 
+    clear: both;
+  }
+
+#main_content {
+  width: 620px; 
+  float: left; 
+  display: inline;
+}
+
+#sidebar {
+  margin-top: 30px;
+  width: 260px; 
+  float: right; 
+  display: inline;
+  background: #33669a;
+  padding: 20px;
+  min-height: 100px;
+   position: relative;
+}
+  #sidebar:before {
+    content: "";
+    background: transparent url(http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/hsu-ribbon.png) top right no-repeat;
+    display: block;
+    position: absolute;
+    top: -30px;
+    right: 0;
+    width: 59px;
+    height: 98px;
+  }
+  
+#footer {
+  margin: 20px 0 0 0;
+  padding: 12px 0 10px 0;
+  background-color: #363636;
+  clear: both;
+  min-height: 18px;
+  text-align: left;
+  color: #DDD;
+  font-size: 12px;
+}
+  #footer .inner {
+    width: 1000px;
+    margin: 0 auto;
+  }
+  #footer .copyright {
+    float: left;
+    margin: 0;
+  }
+  #footer .footernav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+  }
+  #footer .footernav li {
+    list-style: none;
+    margin: 0 0 0 20px;
+    padding: 0;
+    float: left;
+  }
+  #footer .footernav li a {
+    color: #DDD;
+    text-decoration: none;
+  }
+
+/* Style Guide */
+
+#main h1 {
+  font-size: 24px;
+  line-height: 27); 
+  font-family: 'banda-regular-normal', 'Trebuchet MS', Trebuchet, sans-serif;
+  color: black;
+}
+
+#main h2 {
+  font-size: 20px;
+  line-height: 27);
+  font-family: 'banda-regular-normal', 'Trebuchet MS', Trebuchet, sans-serif;
+  color: #000;
+}
+
+#main h1 strong, 
+#main h2 strong {
+  font-weight: normal !important;
+}
+
+#main h3 {
+  font-size: 16px;
+  font-weight: bold; 
+  color: #777; 
+  margin: 10px 0 5px 0;
+}
+
+#main h4 {
+  font-size: 16px;
+  font-weight: normal; 
+  color: black; 
+  margin: 10px 0 5px 0;    
+}
+
+#main h5 {
+  font-size: 14px;
+  color: black;
+  margin: 10px 0 5px 0;    
+}
+
+#main h6 {
+  font-size: 12px; 
+  font-weight: bold; 
+  color: #777;
+  margin: 10px 0 5px 0;    
+}
+
+#main p {
+  font-size: 14px;
+  line-height: 22px;   
+}
+
+#main ul, ol {
+  margin-bottom: 20px;
+  padding-left: 22px;
+}
+
+#main li {
+  font-size: 14px;
+  line-height: 22px;
+  margin-bottom: 5px;
+}
+
+#main b, strong {
+    font-weight: bold; 
+}
+
+#main i, em {
+    font-style: italic;
+}
+
+#main small {
+    font-size: 90%; 
+}
+
+#main .hr {
+    margin: 10px 0; 
+    padding: 0;
+    border-top: 1px solid #777;
+}
+
+#main a {
+    color: #0099cc; 
+    text-decoration: none; 
+
+
+}
+
+
+</style>
+
+<!-- END TEMPLATE CSS -->
+
+
+
+
+
+<!-- SYSTEM JAVASCRIPT - DO NOT EDIT -->
+<script type="text/javascript">
+function fieldValidate(field) {
+  /* call Mkto.setError(field, message) and return false to mark a field value invalid */
+  /* return 'skip' to bypass the built-in validations */
+  return true;
+}
+function getRequiredFieldMessage(domElement, label) {
+  return "This field is required";
+}
+function getTelephoneInvalidMessage(domElement, label) {
+  return "Please enter a valid telephone number";
+}
+function getEmailInvalidMessage(domElement, label) {
+  return "Please enter a valid email address";
+}
+</script>
+
+
+
+
+<!-- SYSTEM INCLUDES - DO NOT EDIT -->
+<link rel="stylesheet" type="text/css" media="screen" href="/css/mktLPSupport.css" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+SECTION#main_content{height: 650px; opacity: 1; filter: alpha(opacity=100); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=100)";}
+SECTION#sidebar{height: 410px; opacity: 1; filter: alpha(opacity=100); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=100)";}
+DIV#main_content{height: 800px; }
+DIV#sidebar{height: 400px; }</style><title>HootSuite University Lecture Series: How NPR Succeeds with Social Recruitment</title>
+<meta name="description" content="HootSuite University is pleased to present Rethinking Recruitment: Building NPR’s Employment Brand with Lars Schmidt, Head of Talent Acquisition and Innovation at NPR." />
+<meta name="keywords" content="HootSuite University, HSU, Webinar, Lecture Series, Social Video, how npr succeeds with social recruitment" />
+<meta name="robots" content="index, follow" />
+<style type="text/css"> div#lpeCDiv_64645 {position: absolute; left: 32px; top: 57px; width: 619px; z-index: 15; height: 665px; line-height: 1.2; }
+   div#lpeCDiv_64645 span.lpContentsItem { }
+
+ div#lpeCDiv_64646 {position: absolute; left: 804px; top: 496px; min-width: 50px; z-index: 15; min-height: 50px; }
+   div#lpeCDiv_64646 div.lpContentsItem { }
+
+ div#lpeCDiv_64647 {position: absolute; left: 712px; top: 94px; z-index: 15; width: 278px; }
+   div#lpeCDiv_64647 span.lpContentsItem { }
+
+ div#lpeCDiv_64648 {position: absolute; left: 887px; top: 499px; min-width: 50px; z-index: 15; min-height: 50px; }
+   div#lpeCDiv_64648 div.lpContentsItem { }
+
+ div#lpeCDiv_64649 {position: absolute; left: 784px; top: 484px; min-width: 50px; z-index: 15; min-height: 50px; }
+   div#lpeCDiv_64649 div.lpContentsItem { }
+
+ div#lpeCDiv_64650 {position: absolute; left: 852px; top: 502px; min-width: 50px; z-index: 15; min-height: 50px; }
+   div#lpeCDiv_64650 div.lpContentsItem { }
+
+ div#lpeCDiv_64651 {position: absolute; left: 769px; top: 49px; width: 135px; z-index: 15; }
+   div#lpeCDiv_64651 span.lpContentsItem { }
+
+ div#lpeCDiv_64652 {position: absolute; left: 863px; top: 515px; min-width: 50px; z-index: 15; min-height: 50px; }
+   div#lpeCDiv_64652 div.lpContentsItem { }
+
+</style>
+<style type="text/css"> .marketoContent {position: relative;} </style>
+<script type="text/javascript" src="//b2c-mlm.marketo.com/jsloader/53dbc2a7-abb1-4b5c-9247-19b7cb5dd4a1/loader.php.js"></script>
+</head>
+<body id="bodyId" class="mktEditable" align="center" >
+<div id="outerWrapDiv" class="mktEditable">
+
+<div class="hs-global">
+    <div class="wrapper">
+        <a class="logo" href="http://learn.hootsuite.com/">HootSuite University</a>        
+    </div>	
+</div>
+
+<div id="titleWrapper">
+	<div class="wrapper ">
+		<span class="siteTitle mktEditable" id="mktTitle"></span>
+	</div>        
+</div>
+<div id="innerWrapDiv">
+<div id='lpeCDiv_64645' class='lpeCElement Rich_Text_1'><span class='lpContentsItem richTextSpan'><table style="" _mce_style="" align="left" border="0"><tbody><tr><td><img title="Webinar" alt="Webinar" _mce_src="http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/webinar-icon.png" src="http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/webinar-icon.png" height="48" width="62"><br _mce_bogus="1"></td><td><span style="font-family: helvetica; font-size: 28px; color: rgb(0, 0, 0);" _mce_style="font-family: helvetica; font-size: 28px; color: #000000;">&nbsp;Lecture Series</span><br _mce_bogus="1"></td></tr></tbody></table><table border="0"><tbody><tr><td><br _mce_bogus="1"></td><td><br _mce_bogus="1"></td></tr></tbody></table><p><br></p><p><br></p>
+<p><span style="font-size: 26px; font-family: helvetica; color: rgb(0, 0, 0);" _mce_style="font-size: 26px; font-family: helvetica; color: #000000;">How NPR Succeeds with Social Recruitment</span></p><p><br></p>
+<p><span style="font-size: 16px; font-family: helvetica; color: rgb(0, 0, 0);" _mce_style="font-size: 16px; font-family: helvetica; color: #000000;">Today’s job seekers aren’t just scanning career pages or job boards, they’re researching companies and jobs through multiple social media channels. Even those not actively looking for work are learning about innovative companies and employment opportunities just by being on social. 
+</span></p><p><span style="font-size: 16px; font-family: helvetica; color: rgb(0, 0, 0);" _mce_style="font-size: 16px; font-family: helvetica; color: #000000;">Is your brand using social to share company culture and employee experience? Are you successfully sourcing quality candidates through social media? <br></span></p>
+<p><span style="font-size: 16px; font-family: helvetica; color: rgb(0, 0, 0);" _mce_style="font-size: 16px; font-family: helvetica; color: #000000;"><a style="color: #0099cc; text-decoration: none;" _mce_style="color: #0099cc; text-decoration: none;" target="_blank" _mce_href="http://ow.ly/n21j8" href="http://ow.ly/n21j8">HootSuite University</a> is pleased to present <strong>Rethinking Recruitment: Building NPR’s Employment Brand</strong> with Lars Schmidt, Head of Talent Acquisition and Innovation at NPR. In this 30-minute Lecture Series, you’ll explore:  
+</span></p><ul><table style="" _mce_style="" border="0"><tbody><tr><td id="" dir="" scope="" align="" lang="" valign="top"><span style="font-family: helvetica; font-size: 16px; color: rgb(0, 0, 0);" _mce_style="font-family: helvetica; font-size: 16px; color: #000000;"><img _mce_src="http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/bullet-check.jpg" src="http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/bullet-check.jpg" height="24" width="26"></span><br _mce_bogus="1"></td><td><p><span style="font-family: helvetica; font-size: 16px; color: rgb(0, 0, 0);" _mce_style="font-family: helvetica; font-size: 16px; color: #000000;">Getting support from savvy influencers within your organization<br></span></p></td></tr><tr><td id="" dir="" scope="" align="" lang="" valign="top"><span style="font-family: helvetica; font-size: 16px; color: rgb(0, 0, 0);" _mce_style="font-family: helvetica; font-size: 16px; color: #000000;"><img _mce_src="http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/bullet-check.jpg" src="http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/bullet-check.jpg" height="24" width="26"></span><br _mce_bogus="1"></td><td><p><span style="font-family: helvetica; font-size: 16px; color: rgb(0, 0, 0);" _mce_style="font-family: helvetica; font-size: 16px; color: #000000;">Building brand advocates to attract candidates 
+<br></span></p></td></tr><tr><td id="" dir="" scope="" align="" lang="" valign="top"><span style="font-family: helvetica; font-size: 16px; color: rgb(0, 0, 0);" _mce_style="font-family: helvetica; font-size: 16px; color: #000000;"><img _mce_src="http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/bullet-check.jpg" src="http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/bullet-check.jpg" height="24" width="26"></span><br _mce_bogus="1"></td><td><p><span style="font-size: 16px; color: rgb(0, 0, 0);" _mce_style="font-size: 16px; color: #000000;"><span _mce_style="font-family: helvetica;" style="font-family: helvetica;">Real examples from NPR’s social recruitment experience </span></span></p></td></tr><tr></tr><tr></tr></tbody></table></ul>
+
+
+<p><strong><span _mce_style="font-size: 16px; font-family: helvetica; color: #000000;" style="font-size: 16px; font-family: helvetica; color: rgb(0, 0, 0);">Meet the Speaker</span></strong></p>
+<p><span style="font-size: 16px; font-family: helvetica; color: rgb(0, 0, 0);" _mce_style="font-size: 16px; font-family: helvetica; color: #000000;"><span _mce_style="text-decoration: none;" style="text-decoration: none;"><a style="color: #0099cc; text-decoration: none;" _mce_style="color: #0099cc; text-decoration: none;" target="_blank" _mce_href="https://twitter.com/thisislars" href="https://twitter.com/thisislars"><img style="float: right; margin-left: 10px; margin-right: 10px;" _mce_style="float: right; margin-left: 10px; margin-right: 10px;" alt="lars-schmidt" src="http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/lars-schmidt.jpg" _mce_src="http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/lars-schmidt.jpg" height="173" width="140">Lars Schmidt</a> is a passionate recruiting and talent management leader with over 14 years experience in technology, web, media, non-profit, e-commerce and consulting. He is a fierce HR advocate with a strong track record building and leading progressive recruiting teams. At NPR, Lars is responsible for providing leadership and advocacy for talent acquisition strategies that align with NPR’s strategic mission and core values, collaborating with a variety of teams to develop digital engagement and outreach strategies</span></span></p></span></div>
+<div id='lpeCDiv_64646' class='lpeCElement fancy_button'><div class='lpContentsItem rawHtmlSpan'><script language="Javascript" src="/js/public/jquery-latest.min.js" type="text/javascript"></script>
+   <script>
+     var $jQ = jQuery.noConflict();
+     // Use jQuery via $jQ(...)
+     $jQ(document).ready(function(){
+       $jQ("#mktFrmSubmit").wrap("<div class='buttonSubmit'></div>");
+       $jQ(".buttonSubmit").prepend("<span></span>");
+     });
+   </script>
+
+<style>
+
+/* Start fancy button */
+
+div.buttonSubmit {
+  position:relative;
+  float:left;
+}
+
+div.buttonSubmit input, div.buttonSubmit span {
+  background-image:url(/rs/hootsuitemediainc/images/btn-green-viewpresentation.png);
+  background-position:right 0px;
+  background-repeat:no-repeat;
+  border:0px none;
+  color:#FFFFFF;
+  cursor:pointer;
+  float:left;
+  font-weight:bold;
+  height:41px;
+  width:177px;
+  margin:0px;
+  padding:0px 15px 2px;
+  position:relative;
+  z-index:5;
+}
+div.buttonSubmit span {
+  background-position:left -41px;
+  left:-4px;
+  padding:0px;
+  position:absolute;
+  top:0px;
+  width:4px;
+  z-index:10;
+}
+div.buttonSubmit input {
+  width:auto;
+  padding-left: 0px !important;
+  padding-right: 172px !important;
+
+}
+
+
+/* end fancy button */
+</style></div></div>
+<div id='lpeCDiv_64647' class='lpeCElement Form_1'><span class='lpContentsItem formSpan'>
+  <div id="socialSignOnHoldingPen" class="cf_widget cf_widget_socialsignon">
+  <script type="text/javascript" src="/js/mktFormSupport.js"></script>
+  
+<script type="text/javascript">
+  var formEdit = false;
+
+  var socialSignOn = {
+    isEnabled: false,
+    enabledNetworks: [''],
+    cfId: '',
+    codeSnippet: ''
+  };
+</script>
+
+  </div>
+<style type='text/css'>form.lpeRegForm ul {font-size: 12px; color: #414141; font-family: Tahoma, Arial, sans-serif; } form.lpeRegForm ul input {font-size: 12px; color: #414141; font-family: Tahoma, Arial, sans-serif; } form.lpeRegForm ul input[type='text'] {font-size: 12px; color: #414141; font-family: Tahoma, Arial, sans-serif; } form.lpeRegForm ul textarea {font-size: 12px; color: #414141; font-family: Tahoma, Arial, sans-serif; } form.lpeRegForm ul select {font-size: 12px; color: #414141; font-family: Tahoma, Arial, sans-serif; } form.lpeRegForm li {margin-bottom: 10px; } form.lpeRegForm .mktInput {padding-left: 0px; } form.lpeRegForm label {width: 250px; } form.lpeRegForm input.mktFormText {width: 250px; } form.lpeRegForm textarea {width: 250px; } form.lpeRegForm select {width: 254px; } </style><!--[if IE]><style type='text/css'>form.lpeRegForm li {margin-bottom: 8px; } form.lpeRegForm select {width: 256px; } </style><![endif]-->
+<script type="text/javascript">
+var profiling = {
+  isEnabled: false,
+  numberOfProfilingFields: 3,
+  alwaysShowFields: [ 'mktDummyEntry']
+};
+var mktFormLanguage = 'English'
+</script>
+<script type="text/javascript"> function mktoGetForm() {return document.getElementById('mktForm_1181'); }</script>
+<form class="lpeRegForm formNotEmpty" method="post" enctype="application/x-www-form-urlencoded" action="http://socialbusiness.hootsuite.com/index.php/leadCapture/save" id="mktForm_1181" name="mktForm_1181"><ul class='mktLblAbove'><li  class='mktFormReq mktField' ><label>First Name</label><span class='mktInput'><input class='mktFormText mktFormString mktFReq' name="FirstName" id="FirstName" type='text' value=""  maxlength='255' tabIndex='1' /><span class='mktFormMsg'></span></span></li>
+<li  class='mktFormReq mktField' ><label>Last Name</label><span class='mktInput'><input class='mktFormText mktFormString mktFReq' name="LastName" id="LastName" type='text' value=""  maxlength='255' tabIndex='2' /><span class='mktFormMsg'></span></span></li>
+<li  class='mktFormReq mktField' ><label>Email Address</label><span class='mktInput'><input class='mktFormText mktFormEmail mktFReq' name="Email" id="Email" type='text' value=""  maxlength='255' tabIndex='3' /><span class='mktFormMsg'></span></span></li>
+<li  class='mktFormReq mktField' ><label>Company</label><span class='mktInput'><input class='mktFormText mktFormString mktFReq' name="Company" id="Company" type='text' value=""  maxlength='255' tabIndex='4' /><span class='mktFormMsg'></span></span></li>
+<li  class='mktFormReq mktField' ><label>Country:</label><span class='mktInput'><select class='mktFormSelect mktFReq' name="Country" id="Country" size='1'   tabIndex='5'><option value='- Please Select -' selected='selected'>- Please Select -</option><option value='United States'>United States</option><option value='Canada'>Canada</option><option value='United Kingdom'>United Kingdom</option><option value='Afghanistan'>Afghanistan</option><option value='Andorra'>Andorra</option><option value='Antigua and Barbuda'>Antigua and Barbuda</option><option value='Anguilla'>Anguilla</option><option value='Albania'>Albania</option><option value='Algeria'>Algeria</option><option value='American Samoa'>American Samoa</option><option value='Angola'>Angola</option><option value='Antarctica'>Antarctica</option><option value='Argentina'>Argentina</option><option value='Armenia'>Armenia</option><option value='Austria'>Austria</option><option value='Australia'>Australia</option><option value='Aruba'>Aruba</option><option value='Azerbaijan'>Azerbaijan</option><option value='Bahamas'>Bahamas</option><option value='Bahrain'>Bahrain</option><option value='Barbados'>Barbados</option><option value='Bangladesh'>Bangladesh</option><option value='Belarus'>Belarus</option><option value='Belgium'>Belgium</option><option value='Belize'>Belize</option><option value='Bermuda'>Bermuda</option><option value='Bhutan'>Bhutan</option><option value='Bulgaria'>Bulgaria</option><option value='Burundi'>Burundi</option><option value='Bolivia'>Bolivia</option><option value='Bosnia and Herzegovina'>Bosnia and Herzegovina</option><option value='Botswana'>Botswana</option><option value='Brazil'>Brazil</option><option value='British Virgin Islands'>British Virgin Islands</option><option value='Cambodia'>Cambodia</option><option value='Cameroon'>Cameroon</option><option value='Cape Verde'>Cape Verde</option><option value='Cayman Islands'>Cayman Islands</option><option value='Chad'>Chad</option><option value='Chile'>Chile</option><option value='China'>China</option><option value='Central African Republic'>Central African Republic</option><option value='Congo'>Congo</option><option value='Cook Islands'>Cook Islands</option><option value='Cote d'Ivoire'>Cote d'Ivoire</option><option value='Colombia'>Colombia</option><option value='Costa Rica'>Costa Rica</option><option value='Croatia'>Croatia</option><option value='Cuba'>Cuba</option><option value='Cyprus'>Cyprus</option><option value='Czech Republic'>Czech Republic</option><option value='Denmark'>Denmark</option><option value='Dominica'>Dominica</option><option value='Dominican Republic'>Dominican Republic</option><option value='Ecuador'>Ecuador</option><option value='Egypt'>Egypt</option><option value='El Salvador'>El Salvador</option><option value='Estonia'>Estonia</option><option value='Ethiopia'>Ethiopia</option><option value='Fiji'>Fiji</option><option value='Finland'>Finland</option><option value='France'>France</option><option value='French Guiana'>French Guiana</option><option value='French Polynesia'>French Polynesia</option><option value='Gabon'>Gabon</option><option value='Gambia'>Gambia</option><option value='Georgia'>Georgia</option><option value='Germany'>Germany</option><option value='Ghana'>Ghana</option><option value='Gibraltar'>Gibraltar</option><option value='Greenland'>Greenland</option><option value='Grenada'>Grenada</option><option value='Greece'>Greece</option><option value='Guadeloupe'>Guadeloupe</option><option value='Guatemala'>Guatemala</option><option value='Guam'>Guam</option><option value='Guernsey'>Guernsey</option><option value='Guinea'>Guinea</option><option value='Guinea-bissau'>Guinea-bissau</option><option value='Guyana'>Guyana</option><option value='Haiti'>Haiti</option><option value='Honduras'>Honduras</option><option value='Hong Kong'>Hong Kong</option><option value='Hungary'>Hungary</option><option value='Iceland'>Iceland</option><option value='India'>India</option><option value='Indonesia'>Indonesia</option><option value='Iran'>Iran</option><option value='Iraq'>Iraq</option><option value='Ireland'>Ireland</option><option value='Israel'>Israel</option><option value='Italy'>Italy</option><option value='Japan'>Japan</option><option value='Jamaica'>Jamaica</option><option value='Jordan'>Jordan</option><option value='Kazakhstan'>Kazakhstan</option><option value='Kenya'>Kenya</option><option value='Korea'>Korea</option><option value='Kuwait'>Kuwait</option><option value='Kyrgyzstan'>Kyrgyzstan</option><option value='Latvia'>Latvia</option><option value='Lebanon'>Lebanon</option><option value='Liberia'>Liberia</option><option value='Libya'>Libya</option><option value='Liechtenstein'>Liechtenstein</option><option value='Lithuania'>Lithuania</option><option value='Luxembourg'>Luxembourg</option><option value='Macao'>Macao</option><option value='Macedonia'>Macedonia</option><option value='Madagascar'>Madagascar</option><option value='Malawi'>Malawi</option><option value='Malaysia'>Malaysia</option><option value='Maldives'>Maldives</option><option value='Malta'>Malta</option><option value='Mexico'>Mexico</option><option value='Micronesia'>Micronesia</option><option value='Moldova'>Moldova</option><option value='Monaco'>Monaco</option><option value='Mongolia'>Mongolia</option><option value='Montenegro'>Montenegro</option><option value='Morocco'>Morocco</option><option value='Mozambique'>Mozambique</option><option value='Myanmar'>Myanmar</option><option value='Namibia'>Namibia</option><option value='Nepal'>Nepal</option><option value='Netherlands'>Netherlands</option><option value='New Zealand'>New Zealand</option><option value='Nicaragua'>Nicaragua</option><option value='Niger'>Niger</option><option value='Nigeria'>Nigeria</option><option value='Norway'>Norway</option><option value='Oman'>Oman</option><option value='Other'>Other</option><option value='Palau'>Palau</option><option value='Palestinian Territory'>Palestinian Territory</option><option value='Panama'>Panama</option><option value='Pakistan'>Pakistan</option><option value='Papua New Guinea'>Papua New Guinea</option><option value='Paraguay'>Paraguay</option><option value='Peru'>Peru</option><option value='Philippines'>Philippines</option><option value='Poland'>Poland</option><option value='Portugal'>Portugal</option><option value='Puerto Rico'>Puerto Rico</option><option value='Qatar'>Qatar</option><option value='Romania'>Romania</option><option value='Russia'>Russia</option><option value='Rwanda'>Rwanda</option><option value='San Marino'>San Marino</option><option value='Saint Helena'>Saint Helena</option><option value='Saint Lucia'>Saint Lucia</option><option value='Samoa'>Samoa</option><option value='Saudi Arabia'>Saudi Arabia</option><option value='Senegal'>Senegal</option><option value='Serbia'>Serbia</option><option value='Seychelles'>Seychelles</option><option value='Sierra Leone'>Sierra Leone</option><option value='Singapore'>Singapore</option><option value='Slovakia'>Slovakia</option><option value='Slovenia'>Slovenia</option><option value='Solomon Islands'>Solomon Islands</option><option value='Somalia'>Somalia</option><option value='South Africa'>South Africa</option><option value='South Korea'>South Korea</option><option value='Spain'>Spain</option><option value='Sri Lanka'>Sri Lanka</option><option value='Sudan'>Sudan</option><option value='Sweden'>Sweden</option><option value='Swaziland'>Swaziland</option><option value='Switzerland'>Switzerland</option><option value='Syrian Arab Republic'>Syrian Arab Republic</option><option value='Taiwan'>Taiwan</option><option value='Tanzania'>Tanzania</option><option value='Thailand'>Thailand</option><option value='Timor-Leste'>Timor-Leste</option><option value='Togo'>Togo</option><option value='Tonga'>Tonga</option><option value='Trinidad and Tobago'>Trinidad and Tobago</option><option value='Tunisia'>Tunisia</option><option value='Turkey'>Turkey</option><option value='Turks and Caicos Islands'>Turks and Caicos Islands</option><option value='Uganda'>Uganda</option><option value='Ukraine'>Ukraine</option><option value='United Arab Emirates'>United Arab Emirates</option><option value='Uruguay'>Uruguay</option><option value='Venezuela'>Venezuela</option><option value='Vietnam'>Vietnam</option><option value='Virgin Islands U.S.'>Virgin Islands U.S.</option><option value='Yemen'>Yemen</option><option value='Zambia'>Zambia</option><option value='Zimbabwe'>Zimbabwe</option></select><span class='mktFormMsg'></span></span></li>
+<li  class='mktField' style="display: none;"><label>Lead Source:</label><span class='mktInput'><input class='mktFormHidden' name="LeadSource" id="LeadSource" type='hidden' value="HSU Webinar" /><span class='mktFormMsg'></span></span></li>
+<li  class='mktField' style="display: none;"><label>Last Associated Campaign:</label><span class='mktInput'><input class='mktFormHidden' name="Last_Associated_Campaign__c" id="Last_Associated_Campaign__c" type='hidden' value="701a0000000iGx5" /><span class='mktFormMsg'></span></span></li>
+<li  class='mktField' style="display: none;"><label>Lead Type:</label><span class='mktInput'><input class='mktFormHidden' name="Lead_Type__c" id="Lead_Type__c" type='hidden' value="Sales - Inbound" /><span class='mktFormMsg'></span></span></li>
+<li  class='mktField' style="display: none;"><label>Last Associated Status:</label><span class='mktInput'><input class='mktFormHidden' name="Last_Associated_Status__c" id="Last_Associated_Status__c" type='hidden' value="Responded" /><span class='mktFormMsg'></span></span></li>
+<li  class='mktField' style="display: none;"><label>HSU LS Title:</label><span class='mktInput'><input class='mktFormHidden' name="hsu_ls_title" id="hsu_ls_title" type='hidden' value="How NPR Succeeds with Social Recruitment" /><span class='mktFormMsg'></span></span></li>
+<li  class='mktField' style="display: none;"><label>HSU LS Speaker:</label><span class='mktInput'><input class='mktFormHidden' name="hsu_ls_speaker" id="hsu_ls_speaker" type='hidden' value="Lars Schmidt" /><span class='mktFormMsg'></span></span></li>
+<li  class='mktField' style="display: none;"><label>HSU LS URL:</label><span class='mktInput'><input class='mktFormHidden' name="hsu_ls_url" id="hsu_ls_url" type='hidden' value="http://socialbusiness.hootsuite.com/lecture-series-social-recruitment.html?utm_source=hsuls&amp;utm_medium=thank-you-email&amp;utm_campaign=hsuls-lars-schmidt-social-recruitment" /><span class='mktFormMsg'></span></span></li>
+<li id='mktFrmButtons'><label>&nbsp;</label><input id='mktFrmSubmit' type='submit' style="width: auto; overflow: visible; padding-left: .25em; padding-right: .25em;" value='' name='submitButton' onclick='formSubmit(document.getElementById("mktForm_1181")); return false;' />&nbsp;<input style='display: none;' id='mktFrmReset' type='reset'
+              value='' name='resetButton' onclick='formReset(document.getElementById("mktForm_1181")); return false;' /></li>  </ul>
+  <span style="display:none;"><input type="text" name="_marketo_comments" value="" /></span>
+  <input type="hidden" name="lpId" value="6243" />
+  <input type="hidden" name="subId" value="113" />
+  <input type="hidden" name="munchkinId" value="407-OYZ-482" />
+  <input type="hidden" name="kw" value="" />
+  <input type="hidden" name="cr" value="" />
+  <input type="hidden" name="searchstr" value="" />
+  <input type="hidden" name="lpurl" value="http://socialbusiness.hootsuite.com/lecture-series-social-recruitment.html?cr={creative}&kw={keyword}" />
+  <input type="hidden" name="formid" value="1181" />
+  <input type="hidden" name="returnURL" value="http://learn.hootsuite.com/webinar/social-recruitment" />
+  <input type="hidden" name="retURL" value="http://learn.hootsuite.com/webinar/social-recruitment" />
+  <input type="hidden" name="returnLPId" value="-1" />
+  <input type="hidden" name="_mkt_disp" value="return" />
+      <input type="hidden" name="_mkt_trk" value="id:407-OYZ-482" />
+  </form>
+<script type="text/javascript" src="/js/mktFormSupport.js"></script>
+<script type="text/javascript">
+function formSubmit(elt) {
+  return Mkto.formSubmit(elt);
+}
+function formReset(elt) {
+  return Mkto.formReset(elt);
+}
+</script>
+</span></div>
+<div id='lpeCDiv_64648' class='lpeCElement custom_asterisk'><div class='lpContentsItem rawHtmlSpan'><style type="text/css">
+  form.lpeRegForm li.mktFormReq label {
+    background:url('http://socialbusiness.hootsuite.com/rs/hootsuitemediainc/images/asterisk_rev.png') no-repeat  !important;
+  }
+</style></div></div>
+<div id='lpeCDiv_64649' class='lpeCElement unbold_form_text'><div class='lpContentsItem rawHtmlSpan'><style>form.lpeRegForm li.mktFormReq label {font-weight: normal}</style>
+</div></div>
+<div id='lpeCDiv_64650' class='lpeCElement HTML_1'><div class='lpContentsItem rawHtmlSpan'><style type='text/css'>
+form.lpeRegForm ul { color:#FFFFFF !important; }
+</style></div></div>
+<div id='lpeCDiv_64651' class='lpeCElement Rich_Text_5'><span class='lpContentsItem richTextSpan'><p><span style="color: rgb(255, 255, 255); font-size: 18px;"><strong><span _mce_style="font-family: helvetica;" style="font-family: helvetica;">WATCH NOW</span></strong></span><br _mce_bogus="1"></p></span></div>
+<div id='lpeCDiv_64652' class='lpeCElement please_wait_removal'><div class='lpContentsItem rawHtmlSpan'><script>
+/* Copyright (c) 2006-2007, Marketo, Inc. All rights reserved. */
+var Mkto = {
+  kv : [],
+  kvUrl : null,
+  kvReferrer : null,
+  pageSubmitted: false,
+  defaultMessages : {
+    English : {
+      required : "This field is required",
+      selectRequired : "Please select a value for this field",
+      emailInvalid : "Please enter a valid email address",
+      telephoneInvalid : "Please enter a valid telephone number",
+      pleaseWait : ""
+    },
+    French : {
+      required : "Ce champ est requis",
+      selectRequired : "Sélectionnez une valeur pour ce champ",
+      emailInvalid : "Entrez une adresse e-mail valide",
+      telephoneInvalid : "Entrez un numéro de téléphone valide",
+      pleaseWait : "Veuillez patienter"
+    },
+    German : {
+      required : "Dieses Feld ist erforderlich",
+      selectRequired : "Wählen Sie einen Wert für dieses Feld",
+      emailInvalid : "Geben Sie eine gültige E-Mail-Adresse ein",
+      telephoneInvalid : "Geben Sie eine gültige Telefonnummer ein",
+      pleaseWait : "Bitte warten"
+    },
+    Italian : {
+      required : "Il campo è obbligatorio",
+      selectRequired : "Selezionare un valore",
+      emailInvalid : "Immetti un indirizzo e-mail valido",
+      telephoneInvalid : "Immetti un numero di telefono valido",
+      pleaseWait : "Si prega di attendere"
+    },
+    "Portuguese (Brazil)" : {
+      required : "Este campo é obrigatório",
+      selectRequired : "Selecione um valor",
+      emailInvalid : "Insira um endereço de e-mail válido",
+      telephoneInvalid : "Insira um número de telefone válido",
+      pleaseWait : "Espere por favor"
+    },
+    Spanish : {
+      required : "Este campo es obligatorio",
+      selectRequired : "Seleccione un valor",
+      emailInvalid : "Introduce una dirección de correo electrónico válida",
+      telephoneInvalid : "Introduce un número de teléfono válido",
+      pleaseWait : "Por favor, espere"
+    },
+    "Chinese (simplified)" : {
+      required : "该字段为必填项",
+      selectRequired : "选择一个值",
+      emailInvalid : "请输入有效的电子邮件地址",
+      telephoneInvalid : "请输入有效的电话号码",
+      pleaseWait : "请稍候"
+    },
+    "Chinese (traditional)" : {
+      required : "這是必填欄位",
+      selectRequired : "選擇一個值",
+      emailInvalid : "請輸入有效的電子郵件地址",
+      telephoneInvalid : "請輸入有效的電話號碼",
+      pleaseWait : "請稍候"
+    },
+    Japanese : {
+      required : "このフィールドは必須です",
+      selectRequired : "値を選択",
+      emailInvalid : "有効なEメールアドレスを入力してください",
+      telephoneInvalid : "有効な電話番号を入力してください",
+      pleaseWait : "しばらくお待ちください"
+    },
+    Korean : {
+      required : "이 필드는 필수 입력 사항입니다",
+      selectRequired : "값을 선택",
+      emailInvalid : "유효한 이메일 주소를 입력하십시오",
+      telephoneInvalid : "유효한 전화 번호를 입력하십시오",
+      pleaseWait : "기다려주세요"
+    },
+    Czech : {
+      required : "Toto pole je povinné",
+      selectRequired : "Vyberte pro toto pole nějakou hodnotu",
+      emailInvalid : "Zadejte platnou e-mailovou adresu",
+      telephoneInvalid : "Zadejte platné telefonní číslo",
+      pleaseWait : "Vyčkejte"
+    },
+    Dutch : {
+      required : "Dit is een verplicht veld",
+      selectRequired : "Selecteer een waarde voor dit veld",
+      emailInvalid : "Geef een geldig e-mailadres op",
+      telephoneInvalid : "Geef een geldig telefoonnummer op",
+      pleaseWait : "Even geduld a.u.b."
+    },
+    Hebrew : {
+      required : "שדה חובה",
+      selectRequired : "בחר ערך",
+      emailInvalid : 'הקלד כתובת דוא"ל חוקית',
+      telephoneInvalid : "הקלד מספר טלפון חוקי",
+      pleaseWait : "אנא המתן"
+    },
+    Hindi : {
+      required : "यह फील्ड जरूरी है",
+      selectRequired : "इस फील्ड के लिए वैल्यु चुनें",
+      emailInvalid : "एक वैध ईमेल पता दर्ज करें",
+      telephoneInvalid : "एक वैध ईमेल पता दर्ज करें",
+      pleaseWait : "कृपया इंतजार करें"
+    },
+    Malay : {
+      required : "Medan ini adalah diperlukan",
+      selectRequired : "Pilih satu nilai untuk medan ini",
+      emailInvalid : "Masukkan alamat e-mel yang sah",
+      telephoneInvalid : "Masukkan nombor telefon yang sah",
+      pleaseWait : "Sila tunggu"
+    },
+    Polish : {
+      required : "To pole jest wymagane",
+      selectRequired : "Wybierz wartość tego pola",
+      emailInvalid : "Wprowadź prawidłowy adres e-mail",
+      telephoneInvalid : "Wprowadź prawidłowy numer telefonu",
+      pleaseWait : "Proszę czekać"
+    },
+    Russian : {
+      required : "Это поле обязательно для заполнения",
+      selectRequired : "Выберите значение",
+      emailInvalid : "Введите действительный адрес электронной почты",
+      telephoneInvalid : "Введите действительный номер телефона",
+      pleaseWait : "Форма обрабатывается"
+    },
+    Thai : {
+      required : "ฟิลด์นี้เป็นฟิลด์ที่จำเป็น",
+      selectRequired : "เลือกค่าสำหรับฟิลด์นี้",
+      emailInvalid : "ป้อนค่าอีเมลแอดเดรสที่ถูกต้อง",
+      telephoneInvalid : "ป้อนหมายเลขโทรศัพท์ที่ถูกต้อง",
+      pleaseWait : "โปรดรอ"
+    }
+  }
+};
+
+Mkto.parseUrlParams = function(url) {
+  var query;
+  var q = url.indexOf('?');
+  if (q > -1) {
+    query = url.substr(q+1);
+    var pairs = query.split("&");
+    for (var i =0; i < pairs.length; i++) {
+      var kvArray = pairs[i].split("=");
+      Mkto.kv[kvArray[0]] = kvArray[1];
+    }
+  }
+  return Mkto.kv;
+}
+  
+Mkto.getValue =  function(key, kv) {
+  if (typeof Mkto.kv[key] == 'string') {
+    return decodeURIComponent(Mkto.kv[key].replace(/\+/g, ' '));
+  } else {
+    return "not found";
+  }
+}
+ 
+Mkto.getReferrerParam = function(key) {
+  return Mkto.getValue(key, Mkto.kvReferrer);
+}
+ 
+Mkto.getUrlParam = function(key) {
+  return Mkto.getValue(key, Mkto.kvUrl);
+}
+
+ 
+Mkto.formSubmit = function(elt) {
+  for (var i=0; i < elt.elements.length; i++) {
+    Mkto.clearError(elt.elements[i]);
+  } 
+  var submitButton = null;
+  var allowSubmit = true;
+  try {
+    Mkto.recomputeMessages();
+  } catch (e) {}
+  for (var i=0; i < elt.elements.length; i++) {
+    var fld = elt.elements[i];
+    if (!Mkto.validateField(fld)) {
+      allowSubmit = false;
+    }
+    if (fld.name == "cr") {
+      fld.value = Mkto.getUrlParam("cr");
+    }
+    if (fld.name == "kw") {
+      fld.value = Mkto.getUrlParam("kw");
+    }
+    if (fld.name == "searchstr") {
+      fld.value = Mkto.getReferrerParam("q");
+    }
+    if (fld.name == "submitButton") {
+      submitButton = fld;
+    }
+    if (fld.name == '_marketo_comments') {
+      Mkto.addField(elt, 'hidden', '_comments_marketo', fld.value);
+    }
+    if (fld.type == 'checkbox') {
+      var hidden = null;
+
+      // Try and find existing hidden input field that we might have created
+      // on an earlier trip through formSubmit.
+      var related = document.getElementsByName(fld.name);
+      for (var j=0; j < related.length; j++) {
+        if (related[j].type == 'hidden') {
+          hidden = related[j];
+          break;
+        } 
+      }
+
+      if (fld.checked) {
+        // If the field is checked, remove any lingering hidden field that 
+        // may have been created on a past form post which was aborted (perhaps
+        // due to validation failure, etc).
+        if (hidden) {
+          hidden.parentNode.removeChild(hidden);
+        }            
+      }
+      // Else, create hidden input field with value 0 for the unchecked checkbox as
+      // unchecked checkboxes are not sent in form POST.
+      else if (!hidden) {
+        try {
+          // This form of createElement only works on IE and is needed to get the
+          // NAME attribute to stick as IE can't set name attr with setAttribute.
+          hidden = document.createElement("<input type='hidden' name='" + fld.name + "' value='0'>");
+        }
+        catch (e) {
+          // This createElement is for regular DOM implementations.
+          hidden = document.createElement("input");
+          hidden.setAttribute('type', 'hidden');
+          hidden.setAttribute('name', fld.name);
+          hidden.setAttribute('value', 0);
+        }
+        elt.appendChild(hidden);
+      }
+    }
+  } 
+  Mkto.addField(elt, 'hidden', '_mkto_version', '2.4.7');
+
+  //Capture the __cdrop cookie
+  var syndicationId = Mkto.captureSyndicationId('__cdrop');
+  if(syndicationId !== null) {
+    Mkto.addField(elt, 'hidden', 'MarketoSocialSyndicationId', syndicationId);
+  }
+  if (allowSubmit) {
+    if (!Mkto.pageSubmitted) {
+      Mkto.pageSubmitted = true;
+
+      // The tracking cookie is normally created by munchkin at initialization
+      // except if you have the "cookieAnon" setting set to false.  In that
+      // case we want to get the cookie created before submitting the form.  We
+      // call createTrackingCookie and even if it was already called, it is safe
+      // to call it again.
+      try {
+        if ((typeof Munchkin != 'undefined') && (typeof Munchkin.createTrackingCookie == 'function')) {
+          Munchkin.createTrackingCookie(true);
+        }
+      }
+      catch(e) {
+        // Ignore munchkin not found
+      }
+
+      elt.submit();
+      if (submitButton != null) {
+        var lang = typeof mktFormLanguage !== 'undefined' ? mktFormLanguage : 'English';
+        submitButton.disabled = true;
+        if (submitButton.value != 'Descargar') {
+          var msg = Mkto.messages[lang]['pleaseWait'];
+          if(lang === 'English' && msg == Mkto.defaultMessages[lang]['pleaseWait']) {
+            try {
+              msg = getPleaseWaitMessage(submitButton, lang);
+            } catch (e) {}
+          }
+          submitButton.value = msg;
+        }
+      }
+    } else {
+      allowSubmit = false;
+    }
+  }
+  if(allowSubmit){
+    //remove PURL Cookie on submit.
+    var domain=Mkto.getLPDomain(document.location.hostname);
+    Mkto.clearLPCookie('_mkto_purl','/',domain);
+    
+  }
+  return allowSubmit;
+}
+
+//Captures the syndication id to be used by the crowd factory.
+//__cdrop cookie Format = <CF_UID>.<CF_UNK>.<Syndication ID>
+Mkto.captureSyndicationId = function(name)
+{
+  var cookie = document.cookie;
+  var start = cookie.indexOf(name + '=');
+  if (start == -1) {
+    return null;
+  }
+  var len = start + name.length + 1;
+  var end = cookie.indexOf(";", len);
+  if (end == -1) {
+    end = cookie.length;
+  }
+  var cookieval = cookie.substring(len, end);
+  var cookieparts = cookieval.split(".");
+  if (cookieparts.length == 3) {
+    //3rd element is the syndication id
+    return cookieparts[2];
+  }
+  return null;
+}
+
+Mkto.addField = function(mform, type, name, value) {
+  try {
+    // This form of createElement only works on IE and is needed to get the
+    // NAME attribute to stick as IE can't set name attr with setAttribute.
+    fld = document.createElement("<input type='" + type + "' name='" + name + "' value='" + value + "'>");
+  }
+  catch (e) {
+    // This createElement is for regular DOM implementations.
+    fld = document.createElement("input");
+    fld.setAttribute('type', type);
+    fld.setAttribute('name', name);
+    fld.setAttribute('value', value);
+  }
+  mform.appendChild(fld);
+}
+Mkto.recomputeMessages = function () {
+  function applyIf (reciever, defaults) {
+    if(defaults) {
+      for (var property in defaults) {
+        if(defaults.hasOwnProperty(property)) {
+          if(reciever[property] === undefined) {
+            reciever[property] = defaults[property];
+          } else {
+            applyIf(reciever[property], defaults[property])
+          }
+        }
+      }
+    }
+    return reciever;
+  }
+  if(!Mkto.messages) {
+    Mkto.messages = {};
+  }
+  applyIf(Mkto.messages, Mkto.defaultMessages);
+}
+Mkto.validateField = function(fld) {
+  var valid = true;
+  var msg = null;
+  var lang = typeof mktFormLanguage !== 'undefined'  ? mktFormLanguage : 'English';
+  var required = (fld.className.indexOf('mktFReq') != -1);
+  if (typeof fieldValidate == 'function') {
+     valid = fieldValidate(fld);
+  }
+  if (valid == 'skip') {
+    valid = true;
+  } else {
+    var label = null;
+    try {
+      label = fld.parentNode.parentNode.getElementsByTagName('label')[0].innerHTML;
+    } catch (e) {}
+    if (valid === true) {
+      if (required) {
+        if ((fld.tagName.toUpperCase() == 'INPUT') || (fld.tagName.toUpperCase() == 'TEXTAREA'))  {
+          // #1222 Remove white spaces before checking for length.
+          if (fld.value.replace(/^\s+/g, "").length == 0) {
+            msg = Mkto.messages[lang]['required'];
+            if(lang === 'English' && msg == Mkto.defaultMessages[lang]['required']) {
+              try {
+                msg = getRequiredFieldMessage(fld, label, lang);
+              } catch (e) {}
+            }
+            Mkto.setError(fld, msg);
+            valid = false;
+          }
+        } else if (fld.tagName.toUpperCase() == 'SELECT') {
+          if (fld.selectedIndex <= 0) {
+            msg = Mkto.messages[lang]['selectRequired'];
+            if(lang === 'English' && msg == Mkto.defaultMessages[lang]['selectRequired']) {
+              try {
+                msg = getRequiredFieldMessage(fld, label, lang);
+              } catch (e) {}
+            }
+            Mkto.setError(fld, msg);
+            valid = false;
+          }
+        }
+      }
+    }
+    if (valid && required && (fld.className.indexOf('mktFormEmail') != -1)) {
+      var emailValid = /^[a-zA-Z0-9_!&=`~#%'\/\$\^\|\+\?\{\}-]+(\.[a-zA-Z0-9_!&=`~#%'\/\$\^\|\+\?\{\}-]+)*@[a-zA-Z0-9]([a-zA-Z0-9_-])*(\.[a-zA-Z0-9][a-zA-Z0-9_-]*)+$/; 
+      if (!emailValid.test(fld.value)) {
+        msg = Mkto.messages[lang]['emailInvalid'];
+        if(lang === 'English' && msg == Mkto.defaultMessages[lang]['emailInvalid']) {
+          try {
+            msg = getEmailInvalidMessage(fld, label, lang);
+          } catch (e) {}
+        }
+        Mkto.setError(fld, msg);
+        valid = false;
+      }
+    }
+    if (valid && required && (fld.className.indexOf('mktFormPhone') != -1)) {
+      var phoneValidChars = /^[0-9()+. \t-]+$/;
+      
+      var digCount = 0;
+      var digits = "0123456789";
+      for (var ix = 0; ix < fld.value.length; ix++) {
+        if (digits.indexOf(fld.value.charAt(ix)) != -1) {
+          digCount++;
+        }
+      }
+      
+      if (!phoneValidChars.test(fld.value) || (digCount < 8) || (digCount > 15)) {
+        msg = Mkto.messages[lang]['telephoneInvalid'];
+        if(lang === 'English' && msg == Mkto.defaultMessages[lang]['telephoneInvalid']) {
+          try {
+            msg = getTelephoneInvalidMessage(fld, label, lang);
+          } catch (e) {}
+        }
+        Mkto.setError(fld, msg);
+        valid = false;
+      }
+    }
+  }
+  return valid;
+}
+
+Mkto.getMessage = function(fld) {
+  var msgContainer = fld.nextSibling;
+  while (msgContainer && msgContainer.nodeType != 1) {
+    msgContainer = msgContainer.nextSibling;
+  }
+  return msgContainer;
+}
+
+Mkto.addListener = function(elt, eventName, handler) {
+  if (window.addEventListener) {
+    elt.addEventListener(eventName, handler, false);
+  } else if (window.attachEvent) {
+    elt.attachEvent("on" + eventName, handler);
+  }
+}
+
+Mkto.clearError = function(fld) {
+  var loc = fld.parentNode.className.indexOf(" mktError");
+  if (loc != -1) {
+    fld.parentNode.className = fld.parentNode.className.substr(0, loc);
+    fld.parentNode.parentNode.title = "";
+    var msgContainer = Mkto.getMessage(fld);
+    msgContainer.innerHTML = "";
+  }
+}
+
+Mkto.clearOnClick = function(e) {
+  var fld = this;
+  if (fld == window) {
+    fld = e.srcElement;
+  }
+  Mkto.clearError(fld);
+}
+//Function used to remove the _mkto_purl cookie while submitting the form.
+Mkto.clearLPCookie=function(name,path,domain){
+  //document.location.hostname
+  var start = document.cookie.indexOf( name + "=" );
+  var len = start + name.length + 1;
+  if ( ( !start ) &&( name != document.cookie.substring( 0, name.length ) ) ){
+    return;
+  }
+  if ( start == -1 ) {
+    return;
+  }
+  var end = document.cookie.indexOf( ";", len );
+  if ( end == -1 ) {
+    end = document.cookie.length;
+  }
+  var cookieval=unescape( document.cookie.substring( len, end ) );
+  if(cookieval){
+    document.cookie = name + "=" +( ( path ) ? ";path=" + path : "") + ( ( domain ) ? ";domain=" + domain : "" ) +";expires=Thu, 01-Jan-1970 00:00:01 GMT";
+  }
+  return;
+}
+
+Mkto.getLPDomain=function(hostname){
+//If top-level domain is 3 or more characters (ie. 'com', 'edu', 'net', 'info')
+  // then we extract the final 2 segments of the hostname.
+  var hostRegex = /([^.]+\.[^.]{3,})$/i;
+  var foundDomain = hostRegex.exec(hostname);
+
+  if (foundDomain != null) {
+    return foundDomain[1];
+  }
+  // Else, if ends in .xx.<2 character country-code>, get last 3 segments of host name
+  else {
+    var countryHostRegex = /([^.]+\.[^.]+\.[^.]{2})$/i;
+    foundDomain = countryHostRegex.exec(hostname);
+
+    if (foundDomain != null) {
+      return foundDomain[1];
+    }
+    // Else, just return entire hostname for the domain.
+    else {
+      return hostname;
+    }
+  }
+}
+
+Mkto.setError = function(fld, message) {
+  fld.parentNode.className += " mktError";
+  fld.parentNode.parentNode.title = message;
+  var msgContainer = Mkto.getMessage(fld);
+  msgContainer.innerHTML = message;
+  msgContainer.style.left = (fld.parentNode.offsetWidth + 10) + "px";
+  Mkto.addListener(fld, 'focus', Mkto.clearOnClick);
+}
+
+Mkto.formReset = function(elt) {
+  for (var i=0; i < elt.elements.length; i++) {
+    Mkto.clearError(elt.elements[i]);
+  }  
+  elt.reset();
+  return true;
+}
+
+Mkto.doesOptionMatchValue = function(optionValue, leadValue) {
+  var match = false;
+  if (leadValue === false) {
+    if ((optionValue.toLowerCase() == "no") || (optionValue == "0") || (optionValue.toLowerCase() == "false")) {
+      match = true;
+    }
+  } else if (leadValue === true) {
+    if ((optionValue.toLowerCase() == "yes") || (optionValue == "1") || (optionValue.toLowerCase() == "true")) {
+      match = true;
+    }
+  } else if (optionValue == leadValue) {
+    match = true;
+  }
+  return match;
+}
+ 
+Mkto.preFillForm = function() {
+  var theForm = mktoGetForm();
+  if ((theForm) && (typeof mktoPreFillFields != 'undefined') && (mktoPreFillFields)) {
+    for (var fld in mktoPreFillFields) {
+      if ((mktoPreFillFields[fld] !== null) && theForm[fld] && typeof theForm[fld] == 'object') {
+        var ff = theForm[fld];
+        if (ff.mktoX) {
+          ff.mktoX.prefilled = true;
+        }
+        if ((ff.type == 'text') || (ff.type == 'textarea')) {
+          if (!ff.value) {
+            ff.value = mktoPreFillFields[fld];
+          }
+        } else if (ff.type == 'select-one') {
+          ff.mktoX.prefilled = false;  // it's only prefilled if we find a matching value
+          var required = (ff.className.indexOf('mktFReq') != -1);
+          if ((ff.selectedIndex == 0) && (!ff.multiple)) {
+            for (var ix = 0; ix < ff.options.length; ix++) {
+              if (Mkto.doesOptionMatchValue(ff.options[ix].value,mktoPreFillFields[fld])) {
+                ff.selectedIndex = ix;
+                if (ff.mktoX) {
+                  if ((ix != 0) || (!required)) {
+                    ff.mktoX.prefilled = true;
+                  }
+                }
+                break;
+              }
+            }
+
+            if (ff.mktoX.prefilled == false) { // have lead data but it does not match the select values
+              var option = document.createElement("option");
+              option.value = option.text = mktoPreFillFields[fld];
+              ff.options.add(option);
+              ff.selectedIndex = ff.options.length * 1 - 1;
+              if (ff.mktoX) {
+                ff.mktoX.prefilled = true;
+              }
+            }
+
+          }
+        } else if (ff.type == 'checkbox') {
+          if (mktoPreFillFields[fld]) {
+            ff.setAttribute("checked", "checked");
+          } else {
+            ff.removeAttribute("checked");
+          }
+        } else if (!ff.type && ff.length) {
+          // radio buttons
+          var ff = theForm[fld];
+          // all entries are either filled or unfilled
+          var radioFilled = false;
+          for ( var ix = 0; ix < ff.length; ix++) {
+            ff[ix].mktoX.prefilled = false;  // it's only prefilled if we find a matching value
+          }
+          for ( var ix = 0; ix < ff.length; ix++) {
+            var preValue = mktoPreFillFields[fld];
+            if (preValue === true) {
+              preValue = 'Yes';
+            } else if (preValue === false) {
+              preValue = "No";
+            }
+            if (ff[ix].value == preValue) {
+              ff[ix].setAttribute("checked", "checked");
+              radioFilled = true;
+              break;
+            }
+          }
+          if (radioFilled) {
+            for ( var ix = 0; ix < ff.length; ix++) {
+              ff[ix].mktoX.prefilled = true;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+Mkto.initForm = function() {
+  var theForm = mktoGetForm();
+  for (var ix = 0; ix < theForm.length; ix++) {
+    if (theForm[ix].name == "submitButton") {
+      break;
+    }
+    theForm[ix].mktoX = {prefilled: false};
+  }
+}
+Mkto.processProfiling = function() {
+  var theForm = mktoGetForm();
+  if (profiling.isEnabled) {
+    var maxShownFields = profiling.numberOfProfilingFields;
+    var shownFields = 0;
+    var fieldsToRemove = [];
+    var lastFieldName = "";
+    for (var ix = 0; ix < theForm.length; ix++) {
+      var ff = theForm[ix];
+      if (ff.type == "hidden") {
+        continue;
+      }
+      if (ff.type == "radio" && ff.name == lastFieldName) {
+        continue; // count whole set of radio buttons as one control
+      }
+      if (ff.name == "submitButton") {
+        break;
+      }
+      if (ff.name == "resetButton") {
+        break;
+      }
+      var required = (ff.className.indexOf('mktFReq') != -1);
+      // bork 9112 MktLPFormTmplWidget->getHtml() appends '[]' to field name
+      // for field type of "select-multiple". That makes inconsistency with original
+      // field name when checking for alwaysShowFields.
+      var fieldNameWithoutDeco = Mkto.getFieldNameWithoutDeco(ff);
+      if (profiling.alwaysShowFields.indexOf(fieldNameWithoutDeco) == -1) {
+        if (ff.mktoX && ff.mktoX.prefilled) {
+          Mkto.hideField(ff);
+          fieldsToRemove.push(ff);
+        } else if (shownFields < maxShownFields) {
+           shownFields++;
+        } else {
+           Mkto.hideField(ff);
+           fieldsToRemove.push(ff);
+        }
+      }
+      lastFieldName = ff.name;
+    }
+    for (var ix = fieldsToRemove.length; ix > 0; ix--) {
+      var field = fieldsToRemove[ix-1];
+      field.parentNode.removeChild(field); 
+    }
+  }  
+}
+/**
+* remove field name deco for multiple select field. mulit-select fieldName is appended
+* '[]' to its original field name. 
+* @param {Object} from field object
+* @return {String} original field name 
+*/
+Mkto.getFieldNameWithoutDeco = function (ff) {
+  var retVal = ff.name;
+  if (ff.type && (ff.type == 'select-multiple')) {
+    if( ff.name.indexOf('[]') != -1) {
+      retVal = ff.name.slice(0, ff.name.indexOf('[]'));
+    }
+  }
+  return  retVal;
+};
+
+Mkto.hideField = function(field) {
+  var elt = field;
+  while (elt.parentNode && elt.tagName.toLowerCase() != "li") {
+    elt = elt.parentNode;
+  }
+  if (elt.tagName.toLowerCase() == "li") {
+    elt.style.display = "none"; // hide the whole li
+  }
+}
+
+if (!Array.prototype.indexOf) {
+  Array.prototype.indexOf = function(item, startIndex) {
+    var len = this.length;
+    if (startIndex == null)
+      startIndex = 0;
+    else if (startIndex < 0) {
+      startIndex += len;
+      if (startIndex < 0)
+        startIndex = 0;
+    }
+    for (var i = startIndex; i < len; i++) {
+      var val = this[i];
+      if (val == item)
+        return i;
+    }
+    return -1;
+  };
+}
+
+// Add css class to selected browsers
+Mkto.initBrowserCss = function() {
+
+  var ua = navigator.userAgent.toLowerCase();
+  var css = '';
+  
+  // Browser key user agent string token -> css class map
+  // This is just a primitive device specific browser detection to css class.
+  // A generalized utility library can be found at http://rafael.adm.br/css_browser_selector/
+  var browserTokens = {
+    'ipad'  : 'mktIpad',
+    'iphone': 'mktIphone',
+    'ipod'  : 'mktIpod'
+  };
+  
+  for (key in browserTokens) {
+    if (ua.indexOf(key.toLowerCase()) > -1) {
+      css = css + ' ' + browserTokens[key];
+    }
+  }
+  
+  if (css && document.documentElement) {
+    document.documentElement.className += css;
+  }
+};
+
+Mkto.init = function() {
+  try {
+    Mkto.initForm();
+    Mkto.preFillForm();
+    Mkto.processProfiling();
+  } catch (e) { }
+  Mkto.kvUrl = Mkto.parseUrlParams(window.location.search);
+  Mkto.kvReferrer = Mkto.parseUrlParams(document.referrer);
+  Mkto.initBrowserCss();
+}
+
+Mkto.init();
+
+
+</script></div></div>
+
+
+
+<!-- START TEMPLATE HTML - EDIT THIS SECTION -->
+
+	<div id="main" >
+      <div id="main_content" class="mktEditable" >
+          <!-- @hootsuite Main Column Content goes here -->
+      </div>
+      <div id="sidebar" class="mktEditable">
+          <!-- @hootsuite Sidebar Content goes here -->
+      </div>
+
+	</div><!-- /#main -->
+
+</div><!-- /#innerWrapDiv -->
+  
+<div id="footer">
+  <div class="inner">
+    <p class="copyright">&copy;2013 HootSuite Media Inc. All Right Reserved.</p>
+    <ul class="footernav">
+      <li><a href="http://hootsuite.com/terms" target="_blank">Terms &amp; Conditions</a></li>
+      <li><a href="http://hootsuite.com/privacy" target="_blank">Privacy Policy</a></li>
+    </ul>
+  </div>
+</div><!-- /#footer -->
+
+</div><!-- /#outerWrapDiv -->
+
+<script type="text/javascript" src="//munchkin.marketo.net//munchkin.js"></script><script>Munchkin.init('407-OYZ-482', {customName: 'lecture-series-social-recruitment', wsInfo: 'j1RR'});</script>
+
+</body>
+</html>
