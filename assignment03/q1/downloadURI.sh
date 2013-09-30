@@ -13,5 +13,6 @@ for link in $mylinks
 do
 	filename=`echo -n $link | md5`
 	echo "Working on $link"
+	echo $filename $link >> findingaid
 	curl $link > $filename
 done

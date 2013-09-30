@@ -34,7 +34,7 @@
 
 
     <script type="text/javascript">
-        StackExchange.init({"stackAuthUrl":"https://stackauth.com","serverTime":1380498128,"styleCode":true,"enableUserHovercards":true,"site":{"name":"Stack Overflow","description":"Q&A for professional and enthusiast programmers","isNoticesTabEnabled":true,"recaptchaPublicKey":"6LdchgIAAAAAAJwGpIzRQSOFaO0pU6s44Xt8aTwc","enableSocialMediaInSharePopup":true},"user":{"fkey":"7722e76b561ff89a50d1f0222c677e2f","isAnonymous":true,"ab":{"askpageemailsubscription":{"v":"reverse","g":1}}}});
+        StackExchange.init({"stackAuthUrl":"https://stackauth.com","serverTime":1380503956,"styleCode":true,"enableUserHovercards":true,"site":{"name":"Stack Overflow","description":"Q&A for professional and enthusiast programmers","isNoticesTabEnabled":true,"recaptchaPublicKey":"6LdchgIAAAAAAJwGpIzRQSOFaO0pU6s44Xt8aTwc","enableSocialMediaInSharePopup":true},"user":{"fkey":"7722e76b561ff89a50d1f0222c677e2f","isAnonymous":true,"ab":{"askpageemailsubscription":{"v":"reverse","g":1}}}});
         StackExchange.using.setCacheBreakers({"js/prettify-full.js":"6c261bebf56a","js/moderator.js":"ed7a8238b2f8","js/full-anon.js":"7dee54417135","js/full.js":"3d9ee77c1fc8","js/wmd.js":"12e251f7c6c3","js/third-party/jquery.autocomplete.min.js":"e5f01e97f7c3","js/mobile.js":"75f8938d6753","js/help.js":"6e6623243cf6","js/tageditor.js":"450c9e8426fc","js/tageditornew.js":"b6c68ad4c7dd","js/inline-tag-editing.js":"8e84e8a137f7","js/revisions.js":"d3e781ee5528","js/review.js":"947758ba83ea","js/tagsuggestions.js":"aa48ef6154df","js/post-validation.js":"bb996020492a","js/explore-qlist.js":"ec8bb4899db9","js/events.js":"fa1c73bcef48"});
         
     </script>
@@ -345,7 +345,8 @@ newest            </a>
     <span class="count">20,752</span> Reputation
 </a></h1>
 
-        <div id="leagueRank"><a href="http://stackexchange.com/leagues/1/alltime/stackoverflow/2008-07-31/4#4" target="_blank">top <b>2%</b> overall</a></div>
+        <div id="leagueRank"></div>
+            <script type="text/javascript">$(function () { $("#leagueRank").addSpinner().load("/users/rank?userId=4"); });</script>
         </div>
 
     <div class="user-panel-content">
@@ -609,7 +610,7 @@ newest            </a>
                         <a class="site-hyperlink" href="http://meta.stackoverflow.com/users/4/">Meta Stack Overflow<span class="mod-flair" title="moderator">&#9830;</span></a>
                     </td>
                     <td class="reputation">
-                        <span class="reputation-score">21,516</span> rep
+                        <span class="reputation-score">21,526</span> rep
                     </td>
                     <td class="badges">
                         <span title="8 gold badges"><span class="badge1"></span><span class="badgecount">8</span></span><span title="71 silver badges"><span class="badge2"></span><span class="badgecount">71</span></span><span title="96 bronze badges"><span class="badge3"></span><span class="badgecount">96</span></span>
@@ -843,10 +844,10 @@ This user has no active <a href="/help/bounty">bounties</a>
 </div>
 
 <script type="text/javascript">
-StackExchange.ready(function(){$.get('/users/ivc/4/55ad');});
+StackExchange.ready(function(){$.get('/users/ivc/4/06fb');});
 </script>
 <noscript>
-    <div><img src="/users/ivc/4/55ad" class="dno" alt="" width="0" height="0"></div>
+    <div><img src="/users/ivc/4/06fb" class="dno" alt="" width="0" height="0"></div>
 </noscript>
 
         </div>

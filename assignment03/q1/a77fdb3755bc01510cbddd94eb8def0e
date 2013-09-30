@@ -18,7 +18,7 @@
 
 
 
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/canonicalURL/canonicalScript.csp, took .003663 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/canonicalURL/canonicalScript.csp, took .000302 -->
 	
 	<head>
 	
@@ -29,7 +29,7 @@
 
 <link rel="canonical" href="http://www.suntimes.com/news/nation/22599034-418/police-responding-to-reported-shooter-at-navy-yard.html"/>
 <meta property="og:url" content="http://www.suntimes.com/news/nation/22599034-418/police-responding-to-reported-shooter-at-navy-yard.html"/>
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/canonicalURL/canonicalLink.csp, took .000065 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/canonicalURL/canonicalLink.csp, took .000066 -->
 
 	
 <!-- FileInclude:Normal, /csp/cms/sites/STM/assets/includes/titleTags/suntimesArticleTitle.csp -->
@@ -37,7 +37,7 @@
 <title>Navy Yard gunman kills 12, had valid pass to get on base - Chicago Sun-Times</title> 
 <meta name="fb_title" content="Navy Yard gunman kills 12, had valid pass to get on base - Chicago Sun-Times"/>
 <meta property="og:title" content="Navy Yard gunman kills 12, had valid pass to get on base - Chicago Sun-Times"/>
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/titleTags/suntimesArticleTitle.csp, took .000282 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/titleTags/suntimesArticleTitle.csp, took .000293 -->
 
 	
 <!-- FileInclude:Normal, /csp/cms/sites/STM/assets/includes/head.csp -->
@@ -91,7 +91,7 @@
 
  
 
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/headmetaOGimage.csp, took .002935 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/headmetaOGimage.csp, took .001901 -->
 
 
 
@@ -99,7 +99,7 @@
 	
 
 	
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/headMeta.csp, took .004578 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/headMeta.csp, took .003588 -->
 <!-- no refreshThreshold on headMeta.csp, needs to reload on every page load to prevent meta keywords and description from caching -->
 
  
@@ -131,14 +131,14 @@
 	
 	
 
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/omnitureContentType.csp, took .000075 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/omnitureContentType.csp, took .000077 -->
 
 	
 <!-- FileInclude:Normal, /csp/cms/sites/STM/assets/includes/google/suntimesgooglesiteverification.csp -->
 
 <meta name="google-site-verification" content="CQWrkx3vfWkFZczuhwrbmW6IAoZDWGKAv77uCQiRV9s"/>
 <meta name="msvalidate.01" content="BC0C8FE77749982AA355FF1D76E23F2A"/>
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/google/suntimesgooglesiteverification.csp, took .00007 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/google/suntimesgooglesiteverification.csp, took .000086 -->
 
 	
 	<link rel="shortcut icon" href="/csp/cms/sites/STM/assets/img/favicon.ico"/>
@@ -287,7 +287,7 @@
   })();
 
 </script>
-<!--/FileInclude:Cached, /csp/cms/sites/STM/assets/includes/google/googleanalytics.csp, took .000197 -->
+<!--/FileInclude:Cached, /csp/cms/sites/STM/assets/includes/google/googleanalytics.csp, took .00023 -->
 
 	    
 
@@ -322,7 +322,7 @@ http://code.google.com/apis/maps/
   	
    
 
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/map.csp, took .000228 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/map.csp, took .000223 -->
 
 	
       
@@ -409,7 +409,7 @@ http://code.google.com/apis/maps/
 	gigyaUI = new Aggrego.Gigya(jQuery, "suntimes", "Chicago Sun-Times", "suntimes.com", { shareBar: { userAction: act } });
 })(jQuery);
 </script>
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/gigya/gigyaUI.csp, took .000089 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/gigya/gigyaUI.csp, took .000121 -->
 
 		<!-- /GIGYA -->
 		
@@ -426,7 +426,7 @@ http://code.google.com/apis/maps/
 <script type="text/javascript" src="//use.typekit.net/uiv7cmn.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <!--For new fonts Utopia and Proxima Nove -->
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/head.csp, took .006469 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/head.csp, took .00559 -->
 
     <script type="text/javascript" src="http://sitelife.suntimes.com/ver1.0/Content/ua/scripts/pluckApps.js"></script>
 	<script type="text/javascript" src="http://sitelife.suntimes.com/slauth/Proxy/Index.rails"></script>
@@ -728,7 +728,7 @@ http://code.google.com/apis/maps/
 			</div><!-- /loggedin -->
 		</div>
 	<!-- /GIGYA -->
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/gigya/loginBar.csp, took .000157 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/gigya/loginBar.csp, took .000222 -->
 
 		<!-- /gigya login bar -->
 		
@@ -765,10 +765,10 @@ http://code.google.com/apis/maps/
 <script type='text/javascript'>
 document.write(' '
 +'<div id="modified_current_condtions_layout">'
-+'    <div class="icon wx03">'
++'    <div class="icon wx33">'
 +'    </div>'
 +'    <div class="forecast">'
-+'        <div class="temperature">64</div>'
++'        <div class="temperature">62</div>'
 +'    </div>'
 +'    <div style="clear: both;">'
 +'    </div>'
@@ -778,7 +778,7 @@ document.write(' '
 
  
 <!-- getWX.csp end -->
-<!--/FileInclude:Cached, /csp/cms/sites/STM/assets/includes/weather.csp?feed=http://suntimes.accuweather.com/adcbin/chicagosuntimes/currentconditions-widget.asp?zipcode=60610, took .000217 -->
+<!--/FileInclude:Cached, /csp/cms/sites/STM/assets/includes/weather.csp?feed=http://suntimes.accuweather.com/adcbin/chicagosuntimes/currentconditions-widget.asp?zipcode=60610, took .00026 -->
 
 								</div>
 								<script type="text/javascript">
@@ -795,7 +795,7 @@ document.write(' '
           	<div class="weatherword"><!-- Include Area v11, section:/suntimes/weatherword, area:WeatherWord, alternate: -->
 
 	GRACEFUL 
-<!-- /Include Area , elapsed=.001093 -->
+<!-- /Include Area , elapsed=.001242 -->
 </div>
 			
           </div>
@@ -3365,7 +3365,7 @@ document.write(' '
 </div>	
 	
 
-<!--/FileInclude:Cached, /csp/cms/sites/STM/assets/includes/menu.csp?pub=STM/suntimes, took .000828 -->
+<!--/FileInclude:Cached, /csp/cms/sites/STM/assets/includes/menu.csp?pub=STM/suntimes, took .000857 -->
 
 	
    	
@@ -3388,7 +3388,7 @@ document.write(' '
 
 	
 	<!-- **** header END **** -->
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/header.csp, took .004248 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/header.csp, took .004716 -->
 
 
 			<!--default value for relatedDocumentCount -->
@@ -3416,7 +3416,7 @@ document.write(' '
                     
                      
                     
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/bearsad.csp, took .000114 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/bearsad.csp, took .000103 -->
 
 		<!-- Begin Bears ad -->
         <div class="story-box">
@@ -3449,7 +3449,7 @@ document.write(' '
 			
 <!-- FileInclude:Normal, /csp/cms/sites/STM/assets/includes/ooyalavideostory.csp -->
 	  
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/ooyalavideostory.csp, took .000224 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/ooyalavideostory.csp, took .000197 -->
 
 		<!--Close Video Section -->	
 
@@ -5035,7 +5035,7 @@ document.write(' '
 
   
 
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/pictureList.csp, took .054261 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/pictureList.csp, took .05565 -->
 
 
               
@@ -5332,7 +5332,7 @@ document.write(' '
 	});
 	
 </script>
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/gigya/shareBar.csp, took .000337 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/gigya/shareBar.csp, took .000372 -->
 
 <!-- /gigya share bar -->
 <!-- /GIGYA -->
@@ -5505,7 +5505,7 @@ document.write(' '
 
 
     
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/brandads.csp, took .000232 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/brandads.csp, took .000221 -->
 
 		
 		<!-- brand ads -->
@@ -5542,7 +5542,7 @@ document.write(' '
 	</div>	-->
 	
 </div>
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/videofiles/ndnVideo/suntimesNDNVideo.csp, took .00017 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/videofiles/ndnVideo/suntimesNDNVideo.csp, took .000168 -->
 
 		 
 		
@@ -5580,7 +5580,7 @@ document.write(' '
 		  Weekend Watch: Red Sox, Braves clinch, Henrik Stenson, Mariano Rivera and cheerleaders  <!-- Display web headline -->
 		</a>
 		
-</div><!-- /Include Area , elapsed=.019941 -->
+</div><!-- /Include Area , elapsed=.027006 -->
  	
                             
             	</div>
@@ -5600,7 +5600,7 @@ document.write(' '
 		  GRADING THE BEARS: Week 3 vs. Steelers  <!-- Display web headline -->
 		</a>
 		
-</div><!-- /Include Area , elapsed=.010715 -->
+</div><!-- /Include Area , elapsed=.005352 -->
 				
 				
 				
@@ -5633,7 +5633,7 @@ document.write(' '
 				</script>
 			</div><!-- /sidebar-section-wrapper -->
 			<!-- /GIGYA -->
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/gigya/activityFeed.csp, took .000136 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/gigya/activityFeed.csp, took .000144 -->
 
 		<!-- /gigya activity feed -->		
 		
@@ -5703,7 +5703,7 @@ document.write(' '
 </div>	
 
 <!-- END sidebar -->
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/articleRail.csp, took .032574 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/articleRail.csp, took .034489 -->
 
             <!-- END IntertiorRail -->
                 </div>
@@ -6021,12 +6021,12 @@ var google_remarketing_only = true;
 
 
 <!-- **** footer END **** -->
-<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/footer.csp, took .003001 -->
+<!--/FileInclude:Normal, /csp/cms/sites/STM/assets/includes/footer.csp, took .003053 -->
 
 
  
 
-<!--/FileInclude:Cached, /csp/cms/sites/STM/templates/stories/full/GigyaFullStoryContent.csp, took .360339 -->
+<!--/FileInclude:Cached, /csp/cms/sites/STM/templates/stories/full/GigyaFullStoryContent.csp, took .316441 -->
 	
 
 
