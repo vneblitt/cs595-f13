@@ -1,0 +1,400 @@
+   #[1]tony's blog » Feed [2]tony's blog » Comments Feed [3]tony's blog »
+   org-trello - 2-way sync org & trello Comments Feed [4]PIH - ch13 -
+   Reasoning about programs - exercises [5]org-trello - New features
+
+[6]tony's blog
+
+May the REPL be with you!
+
+   Search ____________________ Search
+     *
+     *
+     *
+
+Main menu
+
+   [7]Skip to primary content
+   [8]Skip to secondary content
+     * [9]Home
+     * [10]About me
+
+Post navigation
+
+   [11]<- Previous [12]Next ->
+
+org-trello - 2-way sync org & trello
+
+   Posted on [13]12/07/2013 by [14]tony
+   [15]Share
+
+Table of Contents
+
+     * [16]1. Demo!
+          + [17]1.1. Synchronize one entity
+          + [18]1.2. Synchronize one complete entity and move entity
+            according to status
+          + [19]1.3. Synchronize from org-mode file to trello
+          + [20]1.4. Synchronize from trello to org-mode file
+          + [21]1.5. Create board and sync
+          + [22]1.6. Setup org-mode file to work with one trello board
+          + [23]1.7. Install org-trello
+          + [24]1.8. Setup key and token
+     * [25]2. Sources
+     * [26]3. Releases
+
+   For some time now, I wanted to learn [27]Emacs-lisp some [28]more than
+   I already did. As I dayly use emacs, I think it was the logical course
+   of action.
+
+   And, as I:
+     * already use [29]org-mode a lot (even for blogging this very moment)
+     * kept encountering [30]trello for team organisation
+     * don't like to duplicate informations
+     * can't expect everybody to try and learn [31]emacs and [32]org-mode
+     * [33]trello exposes a [34]public API
+
+   I thought "what the hell, let's do this!". And here is the result:
+   [35]org-trello, an [36]org-mode [37]minor-mode to permit the
+   synchronization between a [38]trello board and an [39]org-mode file
+   (and vice versa).
+
+1 Demo!
+
+1.1 Synchronize one entity
+
+   IFRAME: [40]http://www.youtube.com/embed/ILPs74L5LFU?feature=oembed
+
+1.2 Synchronize one complete entity and move entity according to status
+
+   IFRAME: [41]http://www.youtube.com/embed/H8DXm5BLaD0?feature=oembed
+
+1.3 Synchronize from org-mode file to trello
+
+   IFRAME: [42]http://www.youtube.com/embed/d6SATWzhQhs?feature=oembed
+
+1.4 Synchronize from trello to org-mode file
+
+   IFRAME: [43]http://www.youtube.com/embed/-ldo8gvhaTY?feature=oembed
+
+1.5 Create board and sync
+
+   IFRAME: [44]http://www.youtube.com/embed/6k4zRm6t8ZY?feature=oembed
+
+1.6 Setup org-mode file to work with one trello board
+
+   IFRAME: [45]http://www.youtube.com/embed/2PT8K1HG-eY?feature=oembed
+
+1.7 Install org-trello
+
+   IFRAME: [46]http://www.youtube.com/embed/e3NzllAHbHY?feature=oembed
+
+1.8 Setup key and token
+
+   IFRAME: [47]http://www.youtube.com/embed/ReUp1Wn5scc?feature=oembed
+
+2 Sources
+
+   [48]source
+
+3 Releases
+
+   Released on:
+     * marmalade - [49]http://www.marmalade-repo.org/packages/org-trello
+       (stable)
+     * melpa - [50]http://melpa.milkbox.net/ (snapshot)
+
+   This entry was posted in [51]emacs, [52]org-mode, [53]org-trello,
+   [54]tools, [55]trello and tagged [56]emacs, [57]org-mode,
+   [58]org-trello, [59]tools, [60]trello by [61]tony. Bookmark the
+   [62]permalink.
+
+3 thoughts on "org-trello - 2-way sync org & trello"
+
+    1. ScientificCoder on [63]13/07/2013 at 11 h 39 min said:
+       Excellent !
+       Thx for sharing this .
+       (Btw I think that the 1.3 video is not what it should be ;) )
+    2. [64]tony on [65]13/07/2013 at 12 h 41 min said:
+       Thanks!
+       The 1.3 video may be badly entitled indeed.
+       This is meant to setup the org-mode file to work with a trello
+       board.
+       This is a pre-requisite for the next actions.
+    3. Pingback: [66]Bookmarks for August 4th | Chris's Digital Detritus
+
+Leave a Reply [67]Cancel reply
+
+   Your email address will not be published. Required fields are marked *
+
+   Name * ______________________________
+
+   Email * ______________________________
+
+   Website ______________________________
+
+   Comment
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   You may use these HTML tags and attributes: <a href="" title=""> <abbr
+   title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code>
+   <del datetime=""> <em> <i> <q cite=""> <strike> <strong>
+
+   Post Comment
+
+Table of Contents
+
+     * [68]1 Table of Contents
+     * [69]2 1 Demo!
+          + [70]2.1 1.1 Synchronize one entity
+          + [71]2.2 1.2 Synchronize one complete entity and move entity
+            according to status
+          + [72]2.3 1.3 Synchronize from org-mode file to trello
+          + [73]2.4 1.4 Synchronize from trello to org-mode file
+          + [74]2.5 1.5 Create board and sync
+          + [75]2.6 1.6 Setup org-mode file to work with one trello board
+          + [76]2.7 1.7 Install org-trello
+          + [77]2.8 1.8 Setup key and token
+     * [78]3 2 Sources
+     * [79]4 3 Releases
+
+Recently
+
+     * [80]Literate org-trello
+     * [81]org-trello - New features
+     * [82]org-trello - 2-way sync org & trello
+     * [83]PIH - ch13 - Reasoning about programs - exercises
+     * [84]PIH - ch12 - Lazy evaluation - exercises
+
+Timeline
+
+   [85]Tweets by @ardumont
+
+My way
+
+   [86]hacker emblem
+   To follow the path: look to the master, follow the master, walk with
+   the master, see through the master, become the master.
+
+[87]RSS [88]ardumont@github
+
+     * [89]ardumont pushed to 0.2.2 at ardumont/org-trello
+       September 29, 2013 ardumont pushed to 0.2.2 at ardumont/org-trello
+       f8c69bf Adding :users (containings user ids assigned to the card)
+       to the proxâ¦ [...]
+
+Tags
+
+   [90]4clojure [91]aliases [92]arduino [93]backup [94]bash [95]beamer
+   [96]blog [97]chroot [98]classes [99]clodiuno [100]clojure [101]emacs
+   [102]emacs-live [103]emacs-starter-kit [104]euler-project
+   [105]exercises [106]functional-programming [107]geek [108]Git
+   [109]GNU/Linux [110]haskell [111]leiningen [112]midje [113]mind-blowing
+   questions [114]mount [115]org-mode [116]org-trello [117]org2blog
+   [118]parsers [119]philosophy [120]problem [121]quickcheck
+   [122]recursion [123]Rich Hickey [124]setup [125]shell [126]stumpwm
+   [127]tdd [128]tic-tac-toe [129]tools [130]touchpad [131]trello
+   [132]types [133]wordpress [134]zenity
+
+Social
+
+     * [135]@ardumont
+     * [136]coderwall
+     * [137]github profile
+     * [138]gravatar
+     * [139]Linkedin
+     * [140]Viadeo
+
+Badges
+
+   euler badge
+
+Archives
+
+     * [141]August 2013 (2)
+     * [142]July 2013 (1)
+     * [143]June 2013 (1)
+     * [144]May 2013 (11)
+     * [145]April 2013 (5)
+     * [146]February 2013 (1)
+     * [147]January 2013 (12)
+     * [148]December 2012 (26)
+     * [149]April 2011 (8)
+     * [150]December 2010 (4)
+
+   [151]Creative Commons License
+   This work is licensed under a [152]Creative Commons
+   Attribution-ShareAlike 3.0 Unported License.
+
+   © 2013 [153]tony's blog
+   [154]Admired Theme
+
+References
+
+   Visible links
+   1. http://adumont.fr/blog/feed/
+   2. http://adumont.fr/blog/comments/feed/
+   3. http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/feed/
+   4. http://adumont.fr/blog/pih-ch13-reasoning-about-programs-exercises/
+   5. http://adumont.fr/blog/org-trello-new-features/
+   6. http://adumont.fr/blog/
+   7. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#content
+   8. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#secondary
+   9. http://adumont.fr/blog/
+  10. http://adumont.fr/blog/about/
+  11. http://adumont.fr/blog/pih-ch13-reasoning-about-programs-exercises/
+  12. http://adumont.fr/blog/org-trello-new-features/
+  13. http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/
+  14. http://adumont.fr/blog/author/admin/
+  15. http://www.hupso.com/share/
+  16. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#sec-1
+  17. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#sec-1-1
+  18. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#sec-1-2
+  19. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#sec-1-3
+  20. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#sec-1-4
+  21. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#sec-1-5
+  22. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#sec-1-6
+  23. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#sec-1-7
+  24. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#sec-1-8
+  25. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#sec-2
+  26. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#sec-3
+  27. https://www.gnu.org/software/emacs/manual/html_node/elisp/index.html
+  28. https://github.com/ardumont/emacs-live-packs
+  29. http://orgmode.org/
+  30. https://trello.com/
+  31. https://www.gnu.org/software/emacs/
+  32. http://orgmode.org/][org-mode]]
+  33. https://trello.com/
+  34. https://trello.com/docs/
+  35. https://github.com/ardumont/org-trello
+  36. http://orgmode.org/
+  37. https://www.gnu.org/software/emacs/manual/html_node/emacs/Minor-Modes.html
+  38. https://trello.com/
+  39. http://orgmode.org/
+  40. http://www.youtube.com/embed/ILPs74L5LFU?feature=oembed
+  41. http://www.youtube.com/embed/H8DXm5BLaD0?feature=oembed
+  42. http://www.youtube.com/embed/d6SATWzhQhs?feature=oembed
+  43. http://www.youtube.com/embed/-ldo8gvhaTY?feature=oembed
+  44. http://www.youtube.com/embed/6k4zRm6t8ZY?feature=oembed
+  45. http://www.youtube.com/embed/2PT8K1HG-eY?feature=oembed
+  46. http://www.youtube.com/embed/e3NzllAHbHY?feature=oembed
+  47. http://www.youtube.com/embed/ReUp1Wn5scc?feature=oembed
+  48. https://github.com/ardumont/org-trello
+  49. http://www.marmalade-repo.org/packages/org-trello
+  50. http://melpa.milkbox.net/
+  51. http://adumont.fr/blog/category/emacs/
+  52. http://adumont.fr/blog/category/org-mode/
+  53. http://adumont.fr/blog/category/org-trello/
+  54. http://adumont.fr/blog/category/tools/
+  55. http://adumont.fr/blog/category/trello/
+  56. http://adumont.fr/blog/tag/emacs/
+  57. http://adumont.fr/blog/tag/org-mode/
+  58. http://adumont.fr/blog/tag/org-trello/
+  59. http://adumont.fr/blog/tag/tools/
+  60. http://adumont.fr/blog/tag/trello/
+  61. http://adumont.fr/blog/author/admin/
+  62. http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/
+  63. http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/comment-page-1/#comment-1211
+  64. http://adumont.fr/blog
+  65. http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/comment-page-1/#comment-1212
+  66. http://chris.cothrun.com/2013/08/07/bookmarks-for-august-4th/
+  67. file://localhost/blog/org-trello-sync-your-org-file-to-trello/#respond
+  68. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#Table_of_Contents
+  69. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#1_Demo
+  70. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#11_Synchronize_one_entity
+  71. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#12_Synchronize_one_complete_entity_and_move_entity_according_to_status
+  72. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#13_Synchronize_from_org-mode_file_to_trello
+  73. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#14_Synchronize_from_trello_to_org-mode_file
+  74. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#15_Create_board_and_sync
+  75. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#16_Setup_org-mode_file_to_work_with_one_trello_board
+  76. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#17_Install_org-trello
+  77. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#18_Setup_key_and_token
+  78. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#2_Sources
+  79. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#3_Releases
+  80. http://adumont.fr/blog/literate-org-trello/
+  81. http://adumont.fr/blog/org-trello-new-features/
+  82. http://adumont.fr/blog/org-trello-sync-your-org-file-to-trello/
+  83. http://adumont.fr/blog/pih-ch13-reasoning-about-programs-exercises/
+  84. http://adumont.fr/blog/pih-ch12-lazy-evaluation-exercises/
+  85. https://twitter.com/ardumont
+  86. http://www.catb.org/hacker-emblem/
+  87. https://github.com/ardumont.atom
+  88. https://github.com/ardumont
+  89. https://github.com/ardumont/org-trello/compare/d964b80af0...f8c69bf08d
+  90. http://adumont.fr/blog/tag/4clojure/
+  91. http://adumont.fr/blog/tag/aliases/
+  92. http://adumont.fr/blog/tag/arduino/
+  93. http://adumont.fr/blog/tag/backup/
+  94. http://adumont.fr/blog/tag/bash/
+  95. http://adumont.fr/blog/tag/beamer/
+  96. http://adumont.fr/blog/tag/blog-3/
+  97. http://adumont.fr/blog/tag/chroot/
+  98. http://adumont.fr/blog/tag/classes/
+  99. http://adumont.fr/blog/tag/clodiuno/
+ 100. http://adumont.fr/blog/tag/clojure/
+ 101. http://adumont.fr/blog/tag/emacs/
+ 102. http://adumont.fr/blog/tag/emacs-live/
+ 103. http://adumont.fr/blog/tag/emacs-starter-kit/
+ 104. http://adumont.fr/blog/tag/euler-project/
+ 105. http://adumont.fr/blog/tag/exercises/
+ 106. http://adumont.fr/blog/tag/functional-programming/
+ 107. http://adumont.fr/blog/tag/geek/
+ 108. http://adumont.fr/blog/tag/git/
+ 109. http://adumont.fr/blog/tag/gnulinux/
+ 110. http://adumont.fr/blog/tag/haskell/
+ 111. http://adumont.fr/blog/tag/leiningen/
+ 112. http://adumont.fr/blog/tag/midje/
+ 113. http://adumont.fr/blog/tag/mind-blowing-questions/
+ 114. http://adumont.fr/blog/tag/mount/
+ 115. http://adumont.fr/blog/tag/org-mode/
+ 116. http://adumont.fr/blog/tag/org-trello/
+ 117. http://adumont.fr/blog/tag/org2blog/
+ 118. http://adumont.fr/blog/tag/parsers/
+ 119. http://adumont.fr/blog/tag/philosophy/
+ 120. http://adumont.fr/blog/tag/problem/
+ 121. http://adumont.fr/blog/tag/quickcheck/
+ 122. http://adumont.fr/blog/tag/recursion/
+ 123. http://adumont.fr/blog/tag/rich-hickey/
+ 124. http://adumont.fr/blog/tag/setup/
+ 125. http://adumont.fr/blog/tag/shell/
+ 126. http://adumont.fr/blog/tag/stumpwm/
+ 127. http://adumont.fr/blog/tag/tdd/
+ 128. http://adumont.fr/blog/tag/tic-tac-toe/
+ 129. http://adumont.fr/blog/tag/tools/
+ 130. http://adumont.fr/blog/tag/touchpad/
+ 131. http://adumont.fr/blog/tag/trello/
+ 132. http://adumont.fr/blog/tag/types/
+ 133. http://adumont.fr/blog/tag/wordpress/
+ 134. http://adumont.fr/blog/tag/zenity/
+ 135. https://twitter.com/#!/ardumont
+ 136. https://coderwall.com/ardumont
+ 137. https://github.com/ardumont
+ 138. http://en.gravatar.com/ardumont
+ 139. http://j.mp/dWMPPr
+ 140. http://j.mp/ibIAVM
+ 141. http://adumont.fr/blog/2013/08/
+ 142. http://adumont.fr/blog/2013/07/
+ 143. http://adumont.fr/blog/2013/06/
+ 144. http://adumont.fr/blog/2013/05/
+ 145. http://adumont.fr/blog/2013/04/
+ 146. http://adumont.fr/blog/2013/02/
+ 147. http://adumont.fr/blog/2013/01/
+ 148. http://adumont.fr/blog/2012/12/
+ 149. http://adumont.fr/blog/2011/04/
+ 150. http://adumont.fr/blog/2010/12/
+ 151. http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+ 152. http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+ 153. http://adumont.fr/blog/
+ 154. http://wp-ultra.com/
+
+   Hidden links:
+ 155. http://plus.google.com/116847346708543486262
+ 156. http://twitter.com/@ardumont
+ 157. http://adumont.fr/blog/feed/rss/
+ 158. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/00bfad5509bd7fd654a2a45a691fa3b4#admired-top

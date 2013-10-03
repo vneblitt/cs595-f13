@@ -1,0 +1,296 @@
+Your Flightradar24.com Session Has Timed-Out
+
+   You have been inactive for too long, [1]please reload the page.
+
+   Get a [2]Flightradar24 Premium subscription and your Flightradar24.com
+   session will never time-out again.
+
+Settings
+
+Traffic
+
+Ground traffic
+
+FAA traffic [3](more info)
+
+MLAT traffic [4](more info)
+
+Time & units
+
+Local time (when possible)
+
+12-hour clock (when possible)
+
+Speed
+
+     * (_)
+       Knots
+     * (_)
+       Km/h
+     * (_)
+       Mph
+
+Altitude
+
+     * (_)
+       Feet
+     * (_)
+       Meters
+
+Distance
+
+     * (_)
+       Km
+     * (_)
+       Miles
+     * (_)
+       Nm
+
+Map
+
+Animate aircraft
+
+Show clouds
+
+Show weather
+
+Brightness
+
+   Light Dark
+
+Airports
+
+     * (_)
+       Auto
+     * (_)
+       On
+     * (_)
+       Off
+
+Aircraft size
+
+     * (_)
+       Auto
+     * (_)
+       Small
+     * (_)
+       Medium
+     * (_)
+       Large
+
+Aircraft labels
+
+     * [Callsign.....]
+     * [- Row 2 -..........]
+     * [- Row 3 -..........]
+
+   Labels appear when there are less than 250 aircraft on map. The second
+   and third row will appear only when the map is zoomed in.
+
+Filter
+
+Filter type
+
+     * (_)
+       Callsign
+     * (_)
+       Airport
+     * (_)
+       Altitude
+     * (_)
+       Speed
+     * (_)
+       Aircraft
+     * (_)
+       Registration
+     * (_)
+       Radar
+
+   Type the beginning of the callsigns you want to display. For example,
+   if you want to display all British Airways aircraft, type BAW. Callsign
+   ____________________
+   [BUTTON Input] (not implemented)__________
+   Choose if you want to display inbound, outbound, or both
+   inbound/outbound flights for a specific airport.
+   IATA code
+   Filter type
+   ____________________
+   [Inbound/outbound]
+   [BUTTON Input] (not implemented)__________
+   Use the handlers to select the range of altitudes you want to display.
+   0 ft53 000 ft
+   0 m16 200 m
+
+   0 ft - 53000 ft
+
+   0 m - 16200 m
+   [BUTTON Input] (not implemented)__________
+   Use the handlers to select the range of speeds you want to display.
+   0 kts700 kts
+   0 km/h1 300 km/h
+
+   0 kts - 700 kts
+
+   0 km/h - 1 300 km/h
+   [BUTTON Input] (not implemented)__________
+   Type the ICAO designator, or the beginning of it, of the aircraft type
+   you want to display. For example, if you want to display all Boeing
+   747's, type B74. ICAO designator
+   ____________________
+   [BUTTON Input] (not implemented)__________
+   Type the beginning of the registrations you want to display. For
+   example, if you want to display all Swedish aircraft, type SE.
+   Registration
+   ____________________
+   [BUTTON Input] (not implemented)__________
+   Select one or more radars that you want to display. Radar
+   [BUTTON Input] (not implemented)__________
+
+Active filters
+
+   [Inbound.]
+
+   Loading...
+   Callsign Flight From Type ETA (UTC)
+   Callsign Flight To Type
+     * [pixel.png]
+     * [pixel.png]
+
+   [5][0.png]
+
+Cockpit View
+
+   ____________________
+
+   ON [6]PANEL OFF
+   ON [7]MAP OFF
+   ON [8]AIRCRAFT OFF
+   ON [9]BUBBLES OFF
+   ON [10]INFO OFF
+   [11]ROTATE
+   VIEW [12]FULL
+   SCREEN
+
+Playback
+
+     * Date
+       [2013-09-30]
+     * Time (UTC)
+       [00] [00]
+
+   (Start playback) Start playback
+     * (Submit) [pixel.png]
+     * (Submit) [pixel.png]
+     * (Submit) [pixel.png]
+     * Speed: 24x
+
+Flightradar24 Premium
+
+   Get access to exclusive website features and our smartphone apps by
+   subscribing to Premium. [13]Find out more.
+
+Member Sign In
+
+     * ____________________
+     * ____________________
+
+   [_] Remember me Sign In
+   STD
+   ATD
+   STA
+   ETA
+     *
+     *
+     *
+     *
+
+                 Aircraft
+                 Registration
+                 Altitude
+   Vertical Speed
+                 Speed
+   Track
+                 Latitude
+   Longitude
+                 Radar
+   Squawk
+
+   IFRAME: [14]about:blank
+
+     * [15]Map 0
+          + ____________________
+          + Playback
+          + Settings
+          + Filter
+     * [16]Planes 0
+     * Premium
+     *
+
+Map link
+
+   ____________________
+
+Latest twitter
+
+Latest Facebook
+
+     * [17]APPS
+     * [18]INCREASE COVERAGE
+     * [19]ABOUT
+          + [20]How it works
+          + [21]FAQ
+          + [22]Contact us
+          + [23]Careers
+          + [24]Privacy policy
+     * [25]DATABASE
+          + [26]Airline fleets
+          + [27]World airports
+          + [28]Flights
+          + [29]Latest changes
+     * [30]FORUM
+     * CHAT
+
+   UTC
+
+References
+
+   Visible links
+   1. http://www.flightradar24.com/
+   2. https://premium.flightradar24.com/premium/
+   3. file://localhost/how-it-works
+   4. file://localhost/how-it-works
+   5. http://flightdiary.net/
+   6. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/70267f68e3aa6474ce288651545b8250
+   7. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/70267f68e3aa6474ce288651545b8250
+   8. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/70267f68e3aa6474ce288651545b8250
+   9. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/70267f68e3aa6474ce288651545b8250
+  10. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/70267f68e3aa6474ce288651545b8250
+  11. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/70267f68e3aa6474ce288651545b8250
+  12. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/70267f68e3aa6474ce288651545b8250
+  13. file://localhost/premium
+  14. about:blank
+  15. http://www.flightradar24.com/
+  16. http://www.flightradar24.com/planes.php
+  17. file://localhost/apps
+  18. file://localhost/increase-coverage
+  19. file://localhost/about
+  20. file://localhost/how-it-works
+  21. file://localhost/faq
+  22. file://localhost/contact-us
+  23. file://localhost/careers
+  24. file://localhost/privacy-policy
+  25. file://localhost/data
+  26. file://localhost/data/airplanes
+  27. file://localhost/data/airports
+  28. file://localhost/data/flights
+  29. file://localhost/data/changes
+  30. http://forum.flightradar24.com/
+
+   Hidden links:
+  31. http://flightdiary.net/
+  32. http://flightdiary.net/
+  33. http://www.flightradar24.com/apps
+  34. http://www.flightradar24.com/premium
+  35. http://www.flightradar24.com/
+  36. https://twitter.com/flightradar24
+  37. file://localhost/

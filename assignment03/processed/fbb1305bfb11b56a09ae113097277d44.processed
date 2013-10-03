@@ -1,0 +1,656 @@
+   #[1]GitHub [2]Recent Commits to lumail:master
+
+   [3]Sign up [4]Sign in
+     * [5]Explore
+     * [6]Features
+     * [7]Enterprise
+     * [8]Blog
+
+   ____________________
+   This repository
+   (_)
+   This repository
+   (_)
+   All repositories
+     * [9]Star [10]46
+     * [11]Fork [12]8
+
+public [13]skx/[14]lumail Octocat-spinner-32
+
+     * [15]Code Octocat-spinner-32
+     * [16]Issues 3 Octocat-spinner-32
+     * [17]Pull Requests 0 Octocat-spinner-32
+
+     * [18]Pulse Octocat-spinner-32
+     * [19]Graphs Octocat-spinner-32
+     * [20]Network Octocat-spinner-32
+
+HTTPS clone URL
+
+   ____________________
+
+Subversion checkout URL
+
+   ____________________
+
+   You can clone with [21]HTTPS, or [22]Subversion.
+   [23]Download ZIP
+   [24]New Issue
+     * [25]Browse Issues
+     * [26]Milestones
+
+   [27]Back to issue list Issue #66
+   Closed
+
+   18 comments
+     __________________________________________________________________
+
+   Labels
+
+   [28][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github
+   .com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [29]skx opened this issue July 18, 2013
+
+Mail subjects aren't decoded.
+
+   No milestone
+   No one is assigned
+
+   This is an encoding/decoding problem.
+
+   [30]3 participants
+   [31][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github
+   .com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [32][3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github
+   .com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140]
+   [33][c72e3d0e20153a42eed12b75f8a91016?d=https%3A%2F%2Fidenticons.github
+   .com%2F77e7090d5c64486562596b7d5771f98d.png&amp;s=140]
+
+People participating in this issue
+
+     * [41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github
+       .com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140] [34]skx
+     * [3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github
+       .com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140] [35]trou
+     * [c72e3d0e20153a42eed12b75f8a91016?d=https%3A%2F%2Fidenticons.github
+       .com%2F77e7090d5c64486562596b7d5771f98d.png&amp;s=140]
+       [36]jstedfast
+
+   [37][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github
+   .com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [38]skx [39]commented [40]July 20, 2013
+
+   As an example blipfoto mails look like this to me:
+  Subject: =?utf-8?Q?Blipfoto=20=2D=20Introducing=20the=20all=2Dnew=20Bli
+
+   Clearly that's a UTF-8-encoded subject, and it needs to be decoded
+   prior to display.
+   [41][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github
+   .com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [42]skx [43]commented [44]July 20, 2013
+
+   Annoyingly calling convert on these will show a result like this:
+   Subject: =?utf-8?Q?Blipfoto - Introducing the all-new Blipfoto newslett
+
+   So we need to do two things:
+     * Decode.
+     * Remove the leading encoding charset and trailing "?="
+
+   [45][46254a9c226b25199cd9ead742e6a8c5?d=https%3A%2F%2Fidenticons.github
+   .com%2F92409bbd96d7ab650ef277577326d488.png&amp;s=140]
+   [46]7histle [47]referenced this issue [48]July 20, 2013
+   Closed
+
+[49]Issue #9: luxmail SIGSEGV (enter key)
+
+   [50][3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github
+   .com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140]
+   [51]trou [52]commented [53]July 22, 2013
+
+   Headers in sent mails should also be encoded (from:, subject:, etc.)
+   [54][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github
+   .com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [55]skx [56]closed this issue from a commit [57]July 22, 2013
+   [58][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github
+   .com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140] [59]skx
+   [60]Attempt to correctly decode MIME header-fields. [61]â¦
+  This appears to pass my test-cases.  Perhaps more work in the
+ future.
+
+  Closes [62]#66.
+
+   [63]df85f88
+   Closed
+
+   [41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com
+   %2F95dd6545c5202553470106a7bcf76009.png&amp;s=140] [64]skx closed the
+   issue in [65]df85f88 July 22, 2013
+   [66][3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github
+   .com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140]
+   [67]trou [68]commented [69]July 22, 2013
+
+   Unfortunately it's not working yet :
+   "=?ISO-8859-1?Q?Rapha=EBl_Rigo?=" is badly displayed as
+   "Raphaï¿½l_Rigo"
+   Note that the space is not converted.
+
+   Log : 2013-07-23 00:57:38 CHARSET:'ISO-8859-1' ENCODING:Q
+   DATA:Rapha=EBl_Rigo
+
+   my terminal is in UTF-8. Maybe the result should be transcoded ?
+   Reopened
+
+   [3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github.com
+   %2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140] [70]trou reopened
+   the issue July 22, 2013
+   [71][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github
+   .com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [72]skx [73]commented [74]July 22, 2013
+
+   Looks good to me:
+ To: skx/lumail <lumail@noreply.github.com>
+ From: RaphaÃ«l Rigo<notifications@github.com>
+ Date: Mon, 22 Jul 2013 06:14:53 -0700
+ Subject: Re: [lumail] Mail subjects aren't decoded. (#66)
+
+   (This from the mail notification I received on your comment.)
+
+   I suspect here the issue is the terminal not matching ISO-8859-1 -
+   since I don't set any character set / output encoding explicitly and
+   all the mails I've tested are UTF-8 which matches my terminal.
+
+   So there's two distinct steps we should have:
+     * Decoding the header.
+     * Encoding for display.
+
+   I've only done the first.
+   [75][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github
+   .com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [76]skx [77]commented [78]July 22, 2013
+
+   We should probably set the output explicitly UTF-8:
+
+   [79]http://stackoverflow.com/questions/4703168/adding-unicode-utf8-char
+   s-to-a-ncurses-display-in-c
+
+   Then use iconv() and friends to convert to that prior to output.
+
+   Ugh. I don't like character sets!
+   Closed
+
+   [41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com
+   %2F95dd6545c5202553470106a7bcf76009.png&amp;s=140] [80]skx closed the
+   issue July 24, 2013
+   [81][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github
+   .com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [82]skx [83]commented [84]July 24, 2013
+
+   Headers are decoding so this is closed now.
+
+   I've created two new ones for the updated reports:
+
+   [85]#79 - Console isn't setup for UTF
+   [86]#80 - We decode headers, but we don't encode them.
+   [87][3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github
+   .com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140]
+   [88]trou [89]commented [90]July 24, 2013
+
+   Still not working :(
+   You code assumes the RFC 2047 encoding starts at the beginning.
+   Unfortunately, the encoding can start at any time. You can even have
+   several encodings in the same header.
+   The examples in [91]http://tools.ietf.org/html/rfc2047 are telling.
+
+   Reimplementing a complex thing like that seems a waste of time.
+   Unfortunately, mimetic doesn't seem to handle RFC2047 :(
+
+   A quick search shows that [92]http://www.vmime.org/ does.
+   Reopened
+
+   [3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.github.com
+   %2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140] [93]trou reopened
+   the issue July 24, 2013
+   [94][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github
+   .com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [95]skx [96]commented [97]July 24, 2013
+
+   Ugh. Off the top of my head we either:
+     * Jump ship away from mimetic entirely. (Hard. Annoying.)
+     * Look at using an additional library for header-decoding. (Annoying
+       too, but less so.)
+     * Continue hacking up my almost-solution. Certainly handling the case
+       of multiple repeats in a line, and starting in the middle wouldn't
+       be hard. But it's probably not the solution to choose.
+
+   I don't want to rely upon a library that is not packaged for Debian,
+   but there are other MIME libraries out there, so I will have a look.
+   [98][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github
+   .com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [99]skx [100]commented [101]July 24, 2013
+
+   ObRandom: [102]http://libmmail.bsd.lv/ - could we embed?
+   [103][3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.githu
+   b.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140]
+   [104]trou [105]referenced this issue [106]July 24, 2013
+   Closed
+
+[107]Issue #81: Some mails corrupt display
+
+   [108][3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.githu
+   b.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140]
+   [109]trou [110]commented [111]July 24, 2013
+
+   vmime is in Debian.
+
+   I think embedding a library is bad. Parsing is notably hard and prone
+   to security bugs, which is problematic when libraries are embedded.
+
+   The problem with hacking a solution is think mail clients are among the
+   worst pieces of software ever written ... we're likely going to
+   encounter every possible misinterpretation from the RFCs.
+   Reimplementing hacks to handle all those cases one more time is a waste
+   of time... and let's not forget the risks of getting it wrong and
+   introducing vulnerabilities.
+   [112][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.githu
+   b.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [113]skx [114]commented [115]July 24, 2013
+
+   Thanks for the correction on vmime. It looks like it is in squeeze/sid,
+   but not stable. Which is where I looked. Which is a problem.
+
+   Agreed on embedding a library, unless it is very stable/small/mature.
+
+   I guess I'll need to look at using vmime for this purpose, then
+   backporting for wheezy. Because I run stable on my mail-machines.
+
+   Leave it with me.
+
+   Proposed solution:
+    1. Move to using vmime for header decoding. To solve this bug.
+    2. Move to using vmime for header encoding to solve [116]#80 - We
+       decode headers, but we don't encode them.
+    3. Later look to see if we can rip out mimetic and use vmime for
+       attachment retrieval/addition/body-content fetching.
+
+   I will close this bug when 1. is complete. Leaving [117]#80 for the
+   outgoing, and a future bug for mimetic removal if the first two parts
+   work.
+   [118][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.githu
+   b.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [119]skx [120]commented [121]July 24, 2013
+
+   Have backported the vmime library. Struggling to understand how to use
+   it for the header-decoding. Will struggle on ...
+
+   If we don't get it fixed by Friday I'll move this to the next release.
+   [122][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.githu
+   b.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [123]skx [124]referenced this issue from a commit [125]August 05, 2013
+   [126][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.githu
+   b.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140] [127]skx
+   [128]Don't try to decode header-fields. [129]â¦
+  The code in place was bogus, we need a real solution.
+
+  This is part of [130]#66.
+
+   [131]a7138d7
+   [132][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.githu
+   b.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [133]skx [134]referenced this issue [135]August 09, 2013
+   Closed
+
+[136]Issue #100: libmimetic may be overly conservative with header parsing
+
+   [137][c72e3d0e20153a42eed12b75f8a91016?d=https%3A%2F%2Fidenticons.githu
+   b.com%2F77e7090d5c64486562596b7d5771f98d.png&amp;s=140]
+   [138]jstedfast [139]commented [140]August 09, 2013
+
+   Hi,
+
+   I'm the author of GMime and I just happened to come across your recent
+   blog post about rfc2047 header decoding (it was referenced from a
+   recent notmuch mailing-list email that a friend just pointed me at).
+
+   Solving this problem is fairly difficult as so many mail clients
+   generate all manner of broken headers. I've spent years tweaking and
+   rewriting the one in GMime to handle as many different cases as it
+   does.
+
+   Here's a short list of the problems you'll face:
+    1. First off, there are technically 2 variations of header encoding
+       formats specified by rfc2047 - one for phrases and one for
+       unstructured text fields. They are very similar but you can't use
+       the same rules for tokenizing them. I mention this because it seems
+       that most MIME parsers miss this very subtle distinction and so, as
+       you might imagine, do most MIME generators. Hell, most MIME
+       generators probably never even heard of specifications to begin
+       with it seems... which brings us to:
+    2. There are so many variations of how MIME headers fail to be
+       tokenizable according to the rules of rfc*822 and rfc2047. You'll
+       encounter fun stuff such as:
+       a) encoded-word tokens illegally being embedded in other word
+       tokens
+       b) encoded-word tokens containing illegal characters in them (such
+       as spaces, line breaks, and more)
+       c) multi-byte character sequences being split between multiple
+       encoded-word tokens
+       d) the payloads of encoded-word tokens being split up into multiple
+       encoded-word tokens (IOW the encoder first base64 or qp-encoded the
+       text and then decided it was too long to fit on a single line, and
+       so split up the encoded payload and placed the resulting chunks in
+       different encoded-word tokens with no regard for the idea that each
+       encoded-word token is supposed to be able to be decoded
+       independently of other encoded-word tokens)
+       You can see some examples here:
+       [141]https://git.gnome.org/browse/gmime/tree/tests/test-mime.c#n211
+    3. Something that many MIME authors seem to miss is the fact that each
+       encoded-word token is allowed to be in different character
+       encodings (you might have one token in UTF-8, another in ISO-8859-1
+       and yet another in koi8-r). Normally, this would be no big deal
+       because you'd just decode each payload, then convert from the
+       specified charset into UTF-8 via iconv() or something. However, due
+       to the fun brokenness I mentioned above in 2c and 2d, this becomes
+       more complicated...
+       If that isn't enough to make you want to throw your hands up in the
+       air and mutter some profanities, there's more...
+    4. Undeclared 8bit text in headers. Yep. Some mailers just didn't get
+       the memo that they are supposed to encode non-ASCII text. So now
+       you get to have the fun experience of mixing and matching
+       undeclared 8bit text of God-only-knows what charset along with the
+       content of (probably broken) encoded-words.
+
+   If you order in the next 5 minutes, we'll ship you not 1, but 2
+   ShamWows! They can be yours for $19.95 plus shipping and handling! But
+   wait, there's more! ...
+
+   Seriously though, you probably won't want to write your own rfc2047
+   decoders.
+
+   Allow me to point you at GMime's rfc2047 decoders:
+   [142]https://git.gnome.org/browse/gmime/tree/gmime/gmime-utils.c#n1769
+
+   I'd recommend using GMime (duh, I'm biased) but even if you decide to
+   stick with libmimetic, at least consider using GMime's code as a guide
+   for getting this right.
+
+   In any event, I hope that I have been helpful.
+   [143][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.githu
+   b.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [144]skx [145]commented [146]August 09, 2013
+
+   I wish I had the time to respond more completely; but yes, that was
+   absolutely useful.
+
+   GMime is probably the biggest contender at the moment, but I really
+   need to sit down and work out the API.
+
+   I'd prefer to use only one library for all MIME-fu, whether vmime,
+   GMime, or mimetic, but it seems that there are different areas of pain
+   with each library which complicates things a little.
+
+   If it were possible to write something "mostly good enough" I'd do
+   that, but I'd rather avoid the pain if I can help it. That just seems
+   like common-sense.
+   [147][3301c84648602cd1632cdc046a0120dd?d=https%3A%2F%2Fidenticons.githu
+   b.com%2Fa9a39c60a37a1878c8451be3dde3fb26.png&amp;s=140]
+   [148]trou [149]commented [150]August 09, 2013
+
+   I wonder if replacing mimetic is not the only option : no rfc2047
+   support, more or less stalled development, strict header parsing...
+   Then, you're the one to choose, while I'd gladly try to move to GMime,
+   I must admit my C++ skills are rudimentary and the resulting code would
+   probably be bad.
+   [151][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.githu
+   b.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [152]skx [153]commented [154]August 09, 2013
+
+   It was the first MIME library I came across with decent examples for
+   both "attachment saving to disk", and "adding outgoing attachments".
+
+   I'd certainly rather go through the pain of migration to a new solution
+   than depend upon two mime libraries. But as a starting point I'd
+   probably suggest:
+    1. Add a second library for header-decoding/encoding.
+    2. Then transition to it entirely.
+
+   I'm not familiar with either vmime, or gmime, from a development point
+   of view, but I'm willing to learn. Ideally somebody would do the work
+   for us, but I suspect that's unlikely ;)
+   [155][41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.githu
+   b.com%2F95dd6545c5202553470106a7bcf76009.png&amp;s=140]
+   [156]skx [157]commented [158]August 09, 2013
+
+   Replacing with [159]#101 - Migrating to gmime 2.6.
+   Closed
+
+   [41c802df48d6622321a2e9e538645fcc?d=https%3A%2F%2Fidenticons.github.com
+   %2F95dd6545c5202553470106a7bcf76009.png&amp;s=140] [160]skx closed the
+   issue August 09, 2013
+   [161]Sign up for free to join this discussion on GitHub. Already have
+   an account? [162]Sign in to comment
+
+     * [163]Status
+     * [164]API
+     * [165]Training
+     * [166]Shop
+     * [167]Blog
+     * [168]About
+
+     * © 2013 GitHub, Inc.
+     * [169]Terms
+     * [170]Privacy
+     * [171]Security
+     * [172]Contact
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Something went wrong with that request. Please try again.
+
+References
+
+   Visible links
+   1. file://localhost/opensearch.xml
+   2. https://github.com/skx/lumail/commits/master.atom
+   3. file://localhost/signup
+   4. file://localhost/login?return_to=%2Fskx%2Flumail%2Fissues%2F66
+   5. file://localhost/explore
+   6. file://localhost/features
+   7. https://enterprise.github.com/
+   8. file://localhost/blog
+   9. file://localhost/login?return_to=%2Fskx%2Flumail
+  10. file://localhost/skx/lumail/stargazers
+  11. file://localhost/login?return_to=%2Fskx%2Flumail
+  12. file://localhost/skx/lumail/network
+  13. file://localhost/skx
+  14. file://localhost/skx/lumail
+  15. file://localhost/skx/lumail
+  16. file://localhost/skx/lumail/issues
+  17. file://localhost/skx/lumail/pulls
+  18. file://localhost/skx/lumail/pulse
+  19. file://localhost/skx/lumail/graphs
+  20. file://localhost/skx/lumail/network
+  21. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44
+  22. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44
+  23. file://localhost/skx/lumail/archive/master.zip
+  24. file://localhost/skx/lumail/issues/new
+  25. file://localhost/skx/lumail/issues
+  26. file://localhost/skx/lumail/issues/milestones
+  27. file://localhost/skx/lumail/issues
+  28. file://localhost/skx
+  29. file://localhost/skx
+  30. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#pr_contributors_box
+  31. file://localhost/skx
+  32. file://localhost/trou
+  33. file://localhost/jstedfast
+  34. file://localhost/skx
+  35. file://localhost/trou
+  36. file://localhost/jstedfast
+  37. file://localhost/skx
+  38. file://localhost/skx
+  39. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21289777
+  40. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21289777
+  41. file://localhost/skx
+  42. file://localhost/skx
+  43. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21289882
+  44. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21289882
+  45. file://localhost/7histle
+  46. file://localhost/7histle
+  47. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-issue-14396774
+  48. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-issue-14396774
+  49. file://localhost/skx/lumail/issues/9
+  50. file://localhost/trou
+  51. file://localhost/trou
+  52. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21342818
+  53. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21342818
+  54. file://localhost/skx
+  55. file://localhost/skx
+  56. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-commit-df85f88
+  57. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-commit-df85f88
+  58. file://localhost/skx
+  59. file://localhost/skx
+  60. file://localhost/skx/lumail/commit/df85f88cc567c38723a03645315bfc1c388a271e
+  61. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44
+  62. https://github.com/skx/lumail/issues/66
+  63. file://localhost/skx/lumail/commit/df85f88cc567c38723a03645315bfc1c388a271e
+  64. file://localhost/skx
+  65. file://localhost/skx/lumail/commit/df85f88cc567c38723a03645315bfc1c388a271e
+  66. file://localhost/trou
+  67. file://localhost/trou
+  68. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21382306
+  69. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21382306
+  70. file://localhost/trou
+  71. file://localhost/skx
+  72. file://localhost/skx
+  73. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21382579
+  74. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21382579
+  75. file://localhost/skx
+  76. file://localhost/skx
+  77. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21382646
+  78. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21382646
+  79. http://stackoverflow.com/questions/4703168/adding-unicode-utf8-chars-to-a-ncurses-display-in-c
+  80. file://localhost/skx
+  81. file://localhost/skx
+  82. file://localhost/skx
+  83. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21474509
+  84. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21474509
+  85. https://github.com/skx/lumail/issues/79
+  86. https://github.com/skx/lumail/issues/80
+  87. file://localhost/trou
+  88. file://localhost/trou
+  89. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21478326
+  90. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21478326
+  91. http://tools.ietf.org/html/rfc2047
+  92. http://www.vmime.org/
+  93. file://localhost/trou
+  94. file://localhost/skx
+  95. file://localhost/skx
+  96. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21478483
+  97. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21478483
+  98. file://localhost/skx
+  99. file://localhost/skx
+ 100. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21478564
+ 101. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21478564
+ 102. http://libmmail.bsd.lv/
+ 103. file://localhost/trou
+ 104. file://localhost/trou
+ 105. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-issue-17151605
+ 106. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-issue-17151605
+ 107. file://localhost/skx/lumail/issues/81
+ 108. file://localhost/trou
+ 109. file://localhost/trou
+ 110. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21478730
+ 111. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21478730
+ 112. file://localhost/skx
+ 113. file://localhost/skx
+ 114. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21485181
+ 115. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21485181
+ 116. https://github.com/skx/lumail/issues/80
+ 117. https://github.com/skx/lumail/issues/80
+ 118. file://localhost/skx
+ 119. file://localhost/skx
+ 120. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21493291
+ 121. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21493291
+ 122. file://localhost/skx
+ 123. file://localhost/skx
+ 124. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-commit-a7138d7
+ 125. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-commit-a7138d7
+ 126. file://localhost/skx
+ 127. file://localhost/skx
+ 128. file://localhost/skx/lumail/commit/a7138d7ef7f65d4157df83995381ba57dc0d6849
+ 129. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44
+ 130. https://github.com/skx/lumail/issues/66
+ 131. file://localhost/skx/lumail/commit/a7138d7ef7f65d4157df83995381ba57dc0d6849
+ 132. file://localhost/skx
+ 133. file://localhost/skx
+ 134. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-issue-17860455
+ 135. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-issue-17860455
+ 136. file://localhost/skx/lumail/issues/100
+ 137. file://localhost/jstedfast
+ 138. file://localhost/jstedfast
+ 139. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22394802
+ 140. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22394802
+ 141. https://git.gnome.org/browse/gmime/tree/tests/test-mime.c#n211
+ 142. https://git.gnome.org/browse/gmime/tree/gmime/gmime-utils.c#n1769
+ 143. file://localhost/skx
+ 144. file://localhost/skx
+ 145. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22396414
+ 146. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22396414
+ 147. file://localhost/trou
+ 148. file://localhost/trou
+ 149. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22412940
+ 150. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22412940
+ 151. file://localhost/skx
+ 152. file://localhost/skx
+ 153. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22413559
+ 154. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22413559
+ 155. file://localhost/skx
+ 156. file://localhost/skx
+ 157. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22427542
+ 158. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22427542
+ 159. https://github.com/skx/lumail/issues/101
+ 160. file://localhost/skx
+ 161. file://localhost/signup/free
+ 162. file://localhost/login?return_to=%2Fskx%2Flumail%2Fissues%2F66
+ 163. https://status.github.com/
+ 164. http://developer.github.com/
+ 165. http://training.github.com/
+ 166. http://shop.github.com/
+ 167. file://localhost/blog
+ 168. file://localhost/about
+ 169. file://localhost/site/terms
+ 170. file://localhost/site/privacy
+ 171. file://localhost/security
+ 172. file://localhost/contact
+
+   Hidden links:
+ 173. https://github.com/
+ 174. https://help.github.com/articles/which-remote-url-should-i-use
+ 175. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21289777
+ 176. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21289882
+ 177. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-issue-14396774
+ 178. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21342818
+ 179. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21382306
+ 180. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21382579
+ 181. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21382646
+ 182. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21474509
+ 183. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21478326
+ 184. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21478483
+ 185. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21478564
+ 186. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-issue-17151605
+ 187. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21478730
+ 188. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21485181
+ 189. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-21493291
+ 190. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#ref-issue-17860455
+ 191. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22394802
+ 192. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22396414
+ 193. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22412940
+ 194. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22413559
+ 195. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44#issuecomment-22427542
+ 196. file://localhost/
+ 197. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44
+ 198. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44
+ 199. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/fbb1305bfb11b56a09ae113097277d44

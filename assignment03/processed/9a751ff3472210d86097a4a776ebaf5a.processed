@@ -1,0 +1,371 @@
+   #[1]Stack Exchange Company Blog RSS Feed [2]Blog - Stack Exchange »
+   Podcast #51 - The Return of Coding Horror Comments Feed [3]Podcast #50
+   - Listen To This Podcast [4]Please welcome Jon Ericson, Community
+   Manager
+
+   [5]Stack Exchange
+   _________________________
+   [6]site title
+     * [7]Archive
+
+[8]Podcast #51 - The Return of Coding Horror
+
+   08-05-13 by [9]Alex Miller. [10]18 comments
+
+   Welcome to Stack Exchange Podcast #51, with special guest [11]Jeff
+   Atwood and the usual suspects Joel Spolsky, David Fullerton, and Jay
+   Hanlon. Today's show was brought to you by [12]Pan-American World
+   Airways!
+     * We kick off the discussion with a topic not on the agenda... which
+       is reminiscing about who used to prepare the agenda on the old Joel
+       & Jeff podcasts.
+     * Site Milestones! [13]Spaaaace is now in public beta, so you should
+       check it out. We also closed the [14]India proposal, after much
+       discussion about the possibilities for location-based sites.
+     * Five years ago today (7/31) was the start of the Stack Overflow
+       private beta! (It's also Harry Potter's birthday.)
+     * We have a new feature starting this week: featured sites! We'll
+       grab the most interesting questions from a particular site to
+       highlight the things people might not be aware of. This week, we're
+       highlighting [15]Open Data. "What's open data, Jay?" Glad you
+       asked! It's a site for developers and researchers who are trying to
+       use publicly available data to translate it into more functional
+       systems. ([16]We make our data available, too.) We were reached out
+       to by the contractor running [17]data.gov - neat!
+     * We did a minor feature tweak: [18]a new privilege. At 500 rep, you
+       get access to the Late Answers and First Posts review queues.
+       Congratulations!
+     * We're working on an Android app. [19]You can help test it! We've
+       started rolling it out to alpha testers. It's mostly functional -
+       you can view questions, ask, answer, comment, vote, and view your
+       inbox. (Ben wrote [20]a great blog post about what he learned while
+       developing for Android - you should read it.)
+     * Let's turn to our special guest Jeff Atwood. He's got many
+       honorifics, and Jay got most of them wrong. Jeff has young
+       children, and our hosts have lots of opinions about child things.
+     * So! Jeff's new project is [21]Discourse. Like Stack Overflow,
+       Discourse was born from the negative experience of having to go to
+       ugly, nonfunctional places on the internet because you have to.
+       Jeff walks us through the process of refining this idea and
+       creating the product and highlights some of its best features.
+          + Here's [22]the link to Jeff's presentation at ForumCon.
+          + Side note: Forums and chat systems are incredibly similar,
+            with one key difference: on a forum, you type in a complete
+            thought. In a chat system, you write in half-clauses, and
+            maybe three or four messages together make a thought.
+          + Discourse is an instant improvement over
+            many commenting systems (as opposed to forum systems). It was
+            never intended to compete with [23]Disqus, but that's how
+            BoingBoing [24]is using it and it seems to be working well.
+     * Jeff is [25]looking for three major partners. He's got two already.
+       Listen in to hear the Stack Exchange exclusive on the third
+       Discourse partner! (DISCLAIMER: there is no actual announcement.)
+
+   Thanks for listening to the Stack Exchange podcast featuring Jeff
+   Atwood! Check out [26]BoingBoing's forums or [27]How-To Geek's
+   forums to see [28]Discourse in action. Until next time!
+
+   IFRAME:
+   [29]https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.co
+   m%2Ftracks%2F104100512
+
+   SE Podcast $51 - The Return of Coding Horror [ 1:04:01 ] [30]Download
+   Filed under [31]podcasts
+   « [32]Podcast #50 - Listen To This Podcast | [33]Please welcome Jon
+   Ericson, Community Manager »
+
+18 Comments
+
+   [34]Jonathan Sampson [35]Aug 5 2013
+
+   Love to see Jeff back on one of these; looking forward to listening.
+   Discourse is a phenomenal project that will surely replace the PHPBBs
+   out in the wild. And as always, it's so well built.
+   [36]Eric Siegel [37]Aug 5 2013
+
+   That song at the end is awesome. Is that the Stack Exchange theme song?
+   Ben [38]Aug 5 2013
+
+   The link to Ben's Android development post isn't working for me.
+   [39]hek2mgl [40]Aug 5 2013
+
+   That's funny but not fair. To all indians: I love india (although I
+   never was there).. You are very polite and nice people!
+   [41]Kronos [42]Aug 5 2013
+
+   Happy Birthday from Stage.
+   Giri [43]Aug 5 2013
+
+   One thing I am not clear is how discourse is different from these
+   wordpress forums?
+
+   Can startups use any of these features with limitations? I hope they
+   won't be considered as small business.
+   [44]ParokshaX [45]Aug 5 2013
+
+   about India, that's not fair
+   [46]Javid [47]Aug 6 2013
+
+   @Ben. Works for me. Check again.
+   onABoat [48]Aug 6 2013
+
+   U should really put a compressor on the recordings to flatten out the
+   volume spikes in your guys speak volume, also maybe turn down on the
+   cut off.
+   AlbeyAmakiir [49]Aug 6 2013
+
+   Still want statistics on how the name of the last podcast affected the
+   listener count.
+   Thenrich [50]Aug 6 2013
+
+   When Jeff doesn't like a few features in a software, the whole software
+   sucks for him. Few forum software from years ago where you have to
+   search your post to see if someone replied exist now. Nowadays forums
+   email you reply notifications. Either lame forums use lame forum
+   software or the host is lazy to use something better. Most forum
+   software are free and open source.
+
+   Even stackoverflow has a feature that sucks in my opinion. You can't
+   post a question which might produce anything resembling a list of good
+   answers. So no "What's a good x to y" type of questions. I questioned a
+   few features on meta and got enough downvotes from meta sheeple to ban
+   me from asking again (this was cleared later). That's another feature
+   that sucks because it can't differentiate between abusers or someone
+   who is just active and has ideas most people don't agree with.
+   At least the stackechange people weren't hard headed and eventually
+   introduced the "on hold" question status.
+
+   As for the comment about clicking to collapse a non-interesting thread
+   which Jeff says is an extra effort. Which is faster? Clicking to
+   collapse a multipage thread and getting the next reply to your eye
+   level or scrolling down.. scrolling down.. scrolling down trying to
+   find the end of the thread? Yeah.. web usability is a subjective
+   matter.
+
+   The current forum software can be improved a lot with some basic
+   usability enhancements. I don't understand why their developers are not
+   improving them quickly enough.
+
+   I wish Jeff good luck with Discource. Will it displace the current
+   forums software, time will tell.
+   rgripper [51]Aug 7 2013
+
+   I also find these comment plugins on some third party websites glaring.
+   The first seconds I see it thinking: "OMG! My avatar's here, I must
+   have already posted something I have no idea why".
+   [52]Lightness Races in Orbit [53]Aug 7 2013
+
+   Ugh, just-in-time loading. I *hate* this. I HATE it with a firey
+   passion. Ever since Facebook took all their photo and activity lists
+   and replaced the pagination with a slow, buggy, never-ending stream of
+   crap that I can't seek through at will but have to painstakingly load
+   one "segment" at a time, even if I know that what I want is right at
+   the end. Please don't be part of -- nay, encourage -- this horrendous
+   trend, Jeff. PLEASE.
+   [54]Henning [55]Aug 7 2013
+
+   Jeff returns, and all of a sudden the deep, focused discussion that was
+   great about the Stack Overflow podcast is back.
+
+   Stack Exchange podcast's recurring theme "oh man, this is so bad, we
+   cannot use *any* of this" never happened with Jeff. He was driving this
+   show without being aware of it.
+   [56]Jeff Atwood [57]Aug 7 2013
+
+   > Can startups use any of these features with limitations?
+
+   Of course, Discourse is 100% open source (GPL v2) software now and
+   forever:
+
+   [58]https://github.com/discourse/discourse
+
+   > Either lame forums use lame forum software
+
+   But nobody is upgrading all these "lame" forums and they seem content
+   to sit at the old version basically forever. Another problem within the
+   forum industry is massive resistance to any change, even a "minor"
+   upgrade to a newer, slightly-less-sucky version of the forum software
+   they already use.
+
+   But do watch the first 10-15 minutes of this, if you can:
+
+   [59]http://blog.discourse.org/2013/06/forums-are-dead-long-live-forums/
+   Ortzinator [60]Aug 7 2013
+
+   @Thenrich: That's not a "feature", that's a type of question that the
+   community has explicitly decided to not allow and for good reasons. And
+   abusers are accounted for because downvoting sacrifices some of your
+   own rep.
+   [61]online project management software [62]Aug 21 2013
+
+   Unfortunately, cannot agree to you on Disqus. Never really liked it,
+   not nice, not cool - just nothing. I like more vBulletin, interface is
+   clear and understandable. Comments and the blog itself look cool.
+   [63]mobile app development company [64]Aug 21 2013
+
+   As for me, I prefer more Discourse that WordPress. And I cannot say why
+   - it's how I feel about it. The post is nice, I'm glad you are back, I
+   enjoyed reading the article.
+
+Recent
+
+     * [65]Summer Hiring, Happened So Fast
+     * [66]Five years ago, Stack Overflow launched. Then, a miracle
+       occurred.
+     * [67]Community Management by Popular Demand: Kevin Chang Joins The
+       Team
+     * [68]Podcast #52 - We Didn't Need Headphones
+     * [69]Introducing Gabe, The Smiling Community Manager
+
+   [70]view all posts
+
+Topics
+
+     * [71]announcement (53)
+     * [72]API (13)
+     * [73]Area51 (15)
+     * [74]background (118)
+     * [75]Beta (18)
+     * [76]blogoverflow (2)
+     * [77]careers (24)
+     * [78]cc-wiki-dump (10)
+     * [79]chaos (5)
+     * [80]community (217)
+     * [81]denver (3)
+     * [82]design (118)
+     * [83]devdays (6)
+     * [84]legal (6)
+     * [85]meetups (5)
+     * [86]moderators (14)
+     * [87]podcasts (153)
+     * [88]promotion (11)
+     * [89]reference (28)
+     * [90]server (31)
+     * [91]serverfault.com (34)
+     * [92]stackexchange (113)
+     * [93]stackoverflow (16)
+     * [94]superuser.com (33)
+
+Proud Supporter of:
+
+   [95]BizSparkDB
+   [96]MathJax
+   [97]Institutional members of the TeX Users Group
+   [98]Subscribe to our RSS feed Subscribe via RSS
+   [99]twitter [100]facebook [101]G-Plus
+
+   Stack Exchange © 2013
+
+   [102]Creative Commons License
+   blog content and podcasts are licensed under a [103]Creative Commons
+   Attribution-Noncommercial-Share Alike 3.0 United States License.
+
+References
+
+   Visible links
+   1. http://blog.stackoverflow.com/feed/
+   2. http://blog.stackoverflow.com/2013/08/podcast-51-the-return-of-codinghorror/feed/
+   3. http://blog.stackoverflow.com/2013/07/podcast-50-listen-to-this-podcast/
+   4. http://blog.stackoverflow.com/2013/08/please-welcome-jon-ericson-community-manager/
+   5. http://www.stackexchange.com/
+   6. http://blog.stackoverflow.com/
+   7. http://blog.stackoverflow.com/archive/
+   8. http://blog.stackoverflow.com/2013/08/podcast-51-the-return-of-codinghorror/
+   9. http://blog.stackoverflow.com/author/alex/
+  10. http://blog.stackoverflow.com/2013/08/podcast-51-the-return-of-codinghorror/#comments
+  11. http://www.codinghorror.com/
+  12. http://www.panam.org/
+  13. http://space.stackexchange.com/
+  14. http://area51.stackexchange.com/proposals/40807/india
+  15. http://opendata.stackexchange.com/
+  16. http://data.stackexchange.com/
+  17. http://www.data.gov/
+  18. http://stackoverflow.com/help/privileges/access-review-queues
+  19. http://meta.stackoverflow.com/questions/190200/help-us-test-the-alpha-version-of-our-android-app
+  20. http://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/
+  21. http://www.discourse.org/
+  22. http://blog.discourse.org/2013/06/forums-are-dead-long-live-forums/
+  23. http://disqus.com/
+  24. http://bbs.boingboing.net/
+  25. http://www.discourse.org/buy/
+  26. http://bbs.boingboing.net/
+  27. http://discuss.howtogeek.com/
+  28. http://www.discourse.org/
+  29. https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F104100512
+  30. http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/104100512-stack-exchange-stack-exchange-podcast-51.mp3
+  31. http://blog.stackoverflow.com/category/podcasts/
+  32. http://blog.stackoverflow.com/2013/07/podcast-50-listen-to-this-podcast/
+  33. http://blog.stackoverflow.com/2013/08/please-welcome-jon-ericson-community-manager/
+  34. http://sampson.ms/
+  35. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81333
+  36. http://labs.nticompassinc.com/
+  37. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81337
+  38. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81339
+  39. http://www.metashock.net/
+  40. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81341
+  41. http://stackexchange.com/users/200902/kronos
+  42. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81342
+  43. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81345
+  44. http://www.paroksha.com/
+  45. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81358
+  46. http://www.codeforbrowser.com/
+  47. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81361
+  48. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81387
+  49. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81388
+  50. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81391
+  51. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81402
+  52. http://stackoverflow.com/users/560648/lightness-races-in-orbit
+  53. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81406
+  54. http://henningpetersen.com/
+  55. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81417
+  56. http://www.codinghorror.com/blog
+  57. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81420
+  58. https://github.com/discourse/discourse
+  59. http://blog.discourse.org/2013/06/forums-are-dead-long-live-forums/
+  60. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81424
+  61. http://www.easyprojects.net/
+  62. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81761
+  63. http://www.scnsoft.com/services/mobile-development-services
+  64. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/9a751ff3472210d86097a4a776ebaf5a#comment-81762
+  65. http://blog.stackoverflow.com/2013/09/summer-hiring-happened-so-fast/
+  66. http://blog.stackoverflow.com/2013/09/five-years-ago-stack-overflow-launched-then-a-miracle-occurred/
+  67. http://blog.stackoverflow.com/2013/09/community-management-by-popular-demand-kevin-chang-joins-the-team/
+  68. http://blog.stackoverflow.com/2013/09/podcast-52-we-didnt-need-headphones/
+  69. http://blog.stackoverflow.com/2013/08/introducing-gabe-the-smiling-community-manager/
+  70. file://localhost/archive/
+  71. http://blog.stackoverflow.com/category/announcement/
+  72. http://blog.stackoverflow.com/category/api/
+  73. http://blog.stackoverflow.com/category/area51/
+  74. http://blog.stackoverflow.com/category/background/
+  75. http://blog.stackoverflow.com/category/beta/
+  76. http://blog.stackoverflow.com/category/blogoverflow/
+  77. http://blog.stackoverflow.com/category/careers/
+  78. http://blog.stackoverflow.com/category/cc-wiki-dump/
+  79. http://blog.stackoverflow.com/category/chaos/
+  80. http://blog.stackoverflow.com/category/community/
+  81. http://blog.stackoverflow.com/category/denver/
+  82. http://blog.stackoverflow.com/category/design/
+  83. http://blog.stackoverflow.com/category/devdays/
+  84. http://blog.stackoverflow.com/category/legal/
+  85. http://blog.stackoverflow.com/category/meetups/
+  86. http://blog.stackoverflow.com/category/moderators/
+  87. http://blog.stackoverflow.com/category/podcasts/
+  88. http://blog.stackoverflow.com/category/promotion/
+  89. http://blog.stackoverflow.com/category/reference/
+  90. http://blog.stackoverflow.com/category/server/
+  91. http://blog.stackoverflow.com/category/serverfaultcom/
+  92. http://blog.stackoverflow.com/category/stackexchange/
+  93. http://blog.stackoverflow.com/category/stackoverflow/
+  94. http://blog.stackoverflow.com/category/superusercom/
+  95. http://www.microsoft.com/bizspark/
+  96. http://www.mathjax.org/sponsors/
+  97. http://tug.org/instmem.html
+  98. http://blog.stackoverflow.com/feed/
+  99. https://twitter.com/#!/stackexchange
+ 100. https://www.facebook.com/stackexchange
+ 101. https://plus.google.com/u/0/101120115153580954446/posts
+ 102. http://creativecommons.org/licenses/by-nc-sa/3.0/us/
+ 103. http://creativecommons.org/licenses/by-nc-sa/3.0/us/
+
+   Hidden links:
+ 104. http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/104100512-stack-exchange-stack-exchange-podcast-51.mp3

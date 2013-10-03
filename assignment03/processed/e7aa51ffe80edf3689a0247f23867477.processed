@@ -1,0 +1,394 @@
+   [1]Velocity New York
+   Velocity Conference:  [2]Santa Clara  o  [3]Beijing  o  New York  o
+   [4]London
+   New York, NY October 14-16, 2013
+     * [5]Register
+          + [6]Pricing & Registration
+          + [7]All-Access Pass
+          + [8]Media Registration
+          + [9]Venue, Hotel & Travel
+     * [10]Program
+          + [11]Schedule
+          + [12]Tutorials
+          + [13]Sessions by Track
+               o [14]Web Performance
+               o [15]Operations
+               o [16]Mobile Performance
+               o [17]Velocity Culture
+               o [18]Sponsored Sessions
+          + [19]Keynotes
+          + [20]Speakers
+          + [21]Events
+          + [22]Ignite Velocity
+          + [23]Office Hours
+          + [24]Author Signings
+     * [25]Sponsor Pavilion
+          + [26]Sponsors
+          + [27]Exhibitors
+          + [28]Media Partners
+          + [29]Career Zone
+          + [30]Exhibitor Resource Center
+     * [31]Connect
+          + [32]Contact Us
+          + [33]Your Account
+          + External Links
+          + [34]Velocity Bulletin & Newsletter
+     * [35]About
+          + [36]About Velocity
+          + External Links
+          + [37]Conference Diversity
+          + [38]Code of Conduct
+     * [39]Your Account
+          + [40]Log in
+          + [41]Attendee Directory
+
+   Network
+   [42]Join Attendee Network
+
+   [43]Add to your personal schedule
+   [44]Add to Your Schedule
+
+   comment_icon [45]Add Comment or Question
+   [46]Tweet
+
+   IFRAME:
+   [47]http://www.facebook.com/plugins/like.php?href=http://velocityconf.c
+   om/velocityny2013/public/schedule/detail/30114&layout=button_count&show
+   _faces=false&width=90&action=like&font=arial&colorscheme=light&height=2
+   1
+
+Building For Operations
+
+   [48]Steven Murawski (Stack Exchange), [49]Nick Craver (Stack Exchange),
+   [50]George Beech (Stack Exchange, Inc.)
+   [51]2:00pm [52]Tuesday, 10/15/2013
+   [53]Operations, Grand Ballroom West
+
+   The Stack Overflow (Stack Exchange) network is a Q&A network handling
+   billions of requests a month using a variety of platforms to deliver
+   content. A key to managing infrastructure is building everything with
+   operations in mind. When deploying or building new applications,
+   servers, and configurations management, monitoring and redundancy, is
+   always kept in mind.
+
+   Building for operations includes having management and monitoring ties
+   into every major application or deployed system; this includes basing
+   decisions on which software to use weighing their monitoring and
+   manageability. When building new applications, APIs for monitoring,
+   exceptions, and overall health is key. Any configuration that canât be
+   deployed from source control should at least be checked into it,
+   serving as a backup with bonuses like viewing diffs for every change.
+
+   Almost all of what we use to accomplish this is available on the web
+   (redis, elasticsearch, puppet) and just needs applying, included what
+   weâve built in-house (SE Status). This talk will cover how to use these
+   approaches to keep your network up, scale greater, increase redundancy,
+   improve visibility, and reduce the time you spend doing it.
+
+People planning to attend this session also want to see:
+
+     * [54]Scaling systems configuration at Facebook: the paradigms,
+       design, and software behind managing massive numbers of systems
+       with open source and small teams
+     * [55]VizOps: Data Visualization for Operations
+     * [56]High Velocity Migration
+     * [57]Latency Is The Mind Killer
+
+Steven Murawski
+
+Stack Exchange
+
+   Steven is a SysAdmin on the technical staff for Stack Exchange
+   (operators of great Q&A sites like Server Fault and Stack Overflow) and
+   a Microsoft MVP in PowerShell.
+
+   Steven also leads two local user groups, the Greater Milwaukee IT Pro
+   User Community and the Greater Milwaukee Script Club. He speaks
+   regularly to local user groups and can be found at various conferences.
+     * [58]Web site
+
+   Photo of Nick Craver
+
+Nick Craver
+
+Stack Exchange
+
+   Iâm Nick Craver, a Software Developer for Stack Exchange. My day to day
+   job keeps me fairly busy, keeping Stack Overflow and the rest of our
+   network running.
+
+   When time permits, Iâll try to share some of our lessons learned so
+   that it may save you some time and/or headaches. In the mean time, you
+   can find me on twitter (@Nick_Craver), Stack Overflow and occasionally,
+   Google+.
+     * [59]Web site
+
+   Photo of George Beech
+
+George Beech
+
+Stack Exchange, Inc.
+
+   I'm currently working as a systems administrator at Stack Exchange,
+   making the internet better. I have about 11 years of experience running
+   all sizes of networks from 1 man shops, to giant networks that span
+   countries. I enjoy working with Windows, and *nix systems equally.
+     * [60]Web site
+
+Leave a Comment or Question
+
+   Help us make this conference the best it can be for you. Have questions
+   you'd like this speaker to address? Suggestions for issues that deserve
+   extra attention? Feedback that you'd like to share with the speaker and
+   other attendees?
+   [61]Join the conversation here (requires login)
+
+Schedule views
+
+     * [62]Mon 14 Oct
+     * [63]Tue 15 Oct
+     * [64]Wed 16 Oct
+     * [65]Full listing
+     * [66]Personal schedule
+
+Sponsors
+
+   Elite Sponsor
+     * [67]EdgeCast Networks
+
+   Platinum Sponsors
+     * [68]Dropbox
+     * [69]Keynote Systems
+
+   Partner Sponsors
+     * [70]AppDynamics
+     * [71]Compuware Corporation
+     * [72]Google
+     * [73]Neustar
+     * [74]New Relic
+
+   Silver Sponsors
+     * [75]A10 Networks
+     * [76]ActiveState
+     * [77]Aerospike
+     * [78]AppFirst
+     * [79]AppNeta
+     * [80]Automic Software
+     * [81]Catchpoint
+     * [82]CFEngine
+     * [83]Crittercism
+     * [84]Dell Software
+     * [85]Dyn Inc.
+     * [86]Fastly
+     * [87]IBM
+     * [88]Limelight Networks, Inc.
+     * [89]Neotys
+     * [90]Opscode
+     * [91]PagerDuty
+     * [92]SOASTA
+     * [93]Spotify
+     * [94]Verisign
+
+   Ignite Sponsor
+     * [95]Catchpoint
+
+   Supporters
+     * [96]Appurify
+     * [97]Carpathia Hosting
+     * [98]GitHub
+
+Sponsorship Opportunities
+
+   For information on exhibition and sponsorship opportunities at the
+   conference, contact Gloria Lombardo at (203) 381-9245 or
+   [99]glombardo@oreilly.com
+
+Media Partner Opportunities
+
+   For media partnerships, contact [100]mediapartners@ oreilly.com
+
+Press and Media
+
+   For media-related inquiries, contact Maureen Jennings at
+   [101]maureen@oreilly.com
+
+Contact Us
+
+   View a complete list of [102]Velocity contacts
+   [103]Keynote - Velocity NY 2013 [104]O'Reilly Answers [105]O'Reilly
+   User Groups
+   [106]O'Reilly Media
+   ©2013, O'Reilly Media, Inc.
+   (800) 889-8969 or (707) 827-7019
+   Monday-Friday 7:30am-5pm PT
+   All trademarks and registered trademarks appearing on oreilly.com are
+   the property of their respective owners.
+   [107]conf-webmaster@oreilly.com
+     * Velocity
+     * [108]About
+     * [109]Register for Velocity
+     * [110]Venue, Hotel & Travel
+     * [111]Sitemap
+     * [112]Velocity Santa Clara 2013
+     * [113]Velocity China 2013
+     * [114]Velocity Europe 2013
+     * [115]Diversity
+     * [116]Code of Conduct
+     * [117]Privacy Policy
+
+     * Stay Connected
+     * [118]Contact Us
+     * [119]Velocity Bulletin
+     * [120]Twitter
+     * [121]Facebook
+     * [122]LinkedIn
+
+     * More O'Reilly Sites
+     * [123]O'Reilly Conferences
+     * [124]oreilly.com
+     * [125]O'Reilly Radar
+     * [126]O'Reilly Video
+     * [127]O'Reilly Answers
+     * [128]O'Reilly Webcasts
+     * [129]School of Technology
+     * [130]Ignite
+
+   [131]close
+
+References
+
+   Visible links
+   1. file://localhost/velocityny2013/
+   2. file://localhost/velocity2013/
+   3. http://velocity.oreilly.com.cn/2013/index.php
+   4. file://localhost/velocityeu2013/
+   5. file://localhost/velocityny2013/public/register
+   6. file://localhost/velocityny2013/public/register
+   7. file://localhost/velocityny2013/public/content/all-access
+   8. file://localhost/velocityny2013/public/content/media
+   9. file://localhost/velocityny2013/public/content/hotel
+  10. file://localhost/velocityny2013/public/schedule
+  11. file://localhost/velocityny2013/public/schedule
+  12. file://localhost/velocityny2013/public/schedule/stype/tutorial
+  13. file://localhost/velocityny2013/public/schedule
+  14. file://localhost/velocityny2013/public/schedule/topic/983
+  15. file://localhost/velocityny2013/public/schedule/topic/984
+  16. file://localhost/velocityny2013/public/schedule/topic/985
+  17. file://localhost/velocityny2013/public/schedule/topic/986
+  18. file://localhost/velocityny2013/public/schedule/topic/1073
+  19. file://localhost/velocityny2013/public/schedule/stype/keynote
+  20. file://localhost/velocityny2013/public/schedule/speakers
+  21. file://localhost/velocityny2013/public/schedule/stype/event
+  22. file://localhost/velocityny2013/public/schedule/detail/31573
+  23. file://localhost/velocityny2013/public/content/office-hours
+  24. file://localhost/velocityny2013/public/content/author-signings
+  25. file://localhost/velocityny2013/public/content/sponsors
+  26. file://localhost/velocityny2013/public/content/sponsors
+  27. file://localhost/velocityny2013/public/content/exhibitors
+  28. file://localhost/velocityny2013/public/content/media-partners
+  29. file://localhost/velocityny2013/public/content/career-zone
+  30. file://localhost/velocityny2013/public/content/exhibitor-resource-center
+  31. file://localhost/velocityny2013/public/content/contact
+  32. file://localhost/velocityny2013/public/content/contact
+  33. file://localhost/velocityny2013/user/account
+  34. http://post.oreilly.com/form/oreilly/signup
+  35. file://localhost/velocityny2013/public/content/about
+  36. file://localhost/velocityny2013/public/content/about
+  37. http://oreilly.com/conferences/diversity.html
+  38. http://oreilly.com/conferences/code-of-conduct.html
+  39. file://localhost/velocityny2013/user/account
+  40. file://localhost/velocityny2013/user/account
+  41. file://localhost/velocityny2013/public/content/attendee-directory
+  42. http://velocityconf.com/velocityny2013/user/network
+  43. file://localhost/velocityny2013/public/schedule/add/30114
+  44. file://localhost/velocityny2013/public/schedule/add/30114
+  45. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/e7aa51ffe80edf3689a0247f23867477#new_comment
+  46. http://twitter.com/share
+  47. http://www.facebook.com/plugins/like.php?href=http://velocityconf.com/velocityny2013/public/schedule/detail/30114&layout=button_count&show_faces=false&width=90&action=like&font=arial&colorscheme=light&height=21
+  48. file://localhost/velocityny2013/public/schedule/speaker/156361
+  49. file://localhost/velocityny2013/public/schedule/speaker/156478
+  50. file://localhost/velocityny2013/public/schedule/speaker/139947
+  51. file://localhost/velocityny2013/public/schedule/full#s2013-10-15-14:00
+  52. file://localhost/velocityny2013/public/schedule/grid/2013-10-15
+  53. file://localhost/velocityny2013/public/schedule/topic/Operations
+  54. file://localhost/velocityny2013/public/schedule/detail/29560
+  55. file://localhost/velocityny2013/public/schedule/detail/29540
+  56. file://localhost/velocityny2013/public/schedule/detail/30152
+  57. file://localhost/velocityny2013/public/schedule/detail/30186
+  58. http://stevenmurawski.com/
+  59. http://nickcraver.com/
+  60. http://brokenhaze.com/
+  61. http://velocityconf.com/velocityny2013/public/schedule/add_proposal_comment/30114
+  62. file://localhost/velocityny2013/public/schedule/grid/2013-10-14
+  63. file://localhost/velocityny2013/public/schedule/grid/2013-10-15
+  64. file://localhost/velocityny2013/public/schedule/grid/2013-10-16
+  65. file://localhost/velocityny2013/public/schedule/full
+  66. file://localhost/velocityny2013/public/schedule/personal
+  67. http://www.edgecast.com/
+  68. http://www.dropbox.com/jobs
+  69. http://www.keynote.com/
+  70. http://www.appdynamics.com/free
+  71. http://www.compuware.com/
+  72. http://www.google.com/
+  73. http://www.neustar.biz/enterprise
+  74. http://www.newrelic.com/
+  75. http://www.a10networks.com/
+  76. http://www.activestate.com/
+  77. http://www.aerospike.com/
+  78. http://www.appfirst.com/
+  79. http://www.appneta.com/
+  80. http://www.automic.com/
+  81. http://www.catchpoint.com/
+  82. http://www.cfengine.com/
+  83. https://www.crittercism.com/
+  84. http://www.dell.com/software
+  85. http://www.dyn.com/
+  86. http://www.fastly.com/
+  87. http://www.ibm.com/ibm/devops/us/en/
+  88. http://www.limelight.com/
+  89. http://www.neotys.com/
+  90. http://www.opscode.com/
+  91. http://www.pagerduty.com/
+  92. http://www.soasta.com/
+  93. https://www.spotify.com/us/video-splash/?utm_source=spotify&utm_medium=web&utm_campaign=start
+  94. http://www.verisigninc.com/
+  95. http://www.catchpoint.com/
+  96. http://www.appurify.com/
+  97. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/www.carpathia.com
+  98. https://github.com/
+  99. mailto:glombardo@oreilly.com
+ 100. mailto:mediapartners@oreilly.com
+ 101. mailto:maureen@oreilly.com
+ 102. file://localhost/velocityny2013/public/content/contact
+ 103. http://www.youtube.com/watch?v=emuRI9QEkO0
+ 104. http://answers.oreilly.com/
+ 105. http://oreilly.com/go/conference-ug
+ 106. http://oreilly.com/
+ 107. mailto:conf-webmaster@oreilly.com
+ 108. file://localhost/velocityny2013/public/content/about
+ 109. file://localhost/velocityny2013/public/register
+ 110. file://localhost/velocityny2013/public/content/hotel
+ 111. file://localhost/velocityny2013/public/content/sitemap
+ 112. file://localhost/velocity2013/
+ 113. http://velocity.oreilly.com.cn/2013/
+ 114. file://localhost/velocityeu2013
+ 115. http://oreilly.com/conferences/diversity.html
+ 116. http://oreilly.com/conferences/code-of-conduct.html
+ 117. http://oreilly.com/oreilly/privacy.html
+ 118. file://localhost/velocityny2013/public/content/contact
+ 119. http://post.oreilly.com/form/oreilly/signup
+ 120. http://twitter.com/velocityconf
+ 121. http://www.facebook.com/velocityconf
+ 122. http://www.linkedin.com/groups?gid=1303037
+ 123. http://conferences.oreillynet.com/
+ 124. http://oreilly.com/
+ 125. http://radar.oreilly.com/
+ 126. http://shop.oreilly.com/category/videos.do
+ 127. http://answers.oreilly.com/
+ 128. http://oreilly.com/webcasts/index.html
+ 129. http://oreillyschool.com/
+ 130. http://igniteshow.com/
+ 131. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/e7aa51ffe80edf3689a0247f23867477
+
+   Hidden links:
+ 132. http://www.omniture.com/

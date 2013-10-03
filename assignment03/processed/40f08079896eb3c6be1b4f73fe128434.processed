@@ -1,0 +1,372 @@
+   [1]Home
+   _______________
+   Submit
+     * [2]Partnerships
+     * [3]Contribute
+     * [4]Careers
+     * [5]Contact Us
+
+     * [6]What is Broad
+          + [7]Our Approach
+          + [8]Areas of Focus
+          + [9]History & Leadership
+          + [10]Who is Broad
+          + [11]Partner Institutions
+          + [12]Artist-in-Residence
+     * [13]News and Publications
+          + [14]News & Multimedia
+          + [15]Scientific Publications
+          + [16]For Journalists
+          + [17]Annual Reports and Brochures
+          + [18]BroadMinded Blog
+          + [19]Video Library
+     * [20]For the Scientific Community
+          + [21]Science
+          + [22]Data
+          + [23]Software
+
+     * [24]News & Multimedia
+     * [25]Scientific Publications
+     * [26]For Journalists
+     * [27]Annual Reports and Brochures
+     * [28]BroadMinded Blog
+     * [29]Video Library
+
+   [30]Home>[31]News & Publications:Blog>Algorithm seeks meaningful
+   relationships
+
+About this blog.
+
+   This blog is a forum for disseminating the science, culture, and life
+   of the Broad Institute. Reflecting the unique, collaborative community
+   that is the Broad, you have the opportunity to hear from - and respond
+   to - a variety of contributors. Click [32]here to read our Community
+   Guidelines.
+
+Contributors
+
+     *
+       [33]Haley Bridger Broad Communications
+     *
+       [34]Nicole Davis Broad Communications
+     *
+       [35]Leah Eisenstadt Broad Communications
+     *
+       [36]Paul Goldsmith Broad Communications
+     *
+       [37]Veronica Meade-Kelly Broad Communications
+
+Recent Posts
+
+     * [38]Levi Garraway awarded Paul Marks Prize for Cancer Research
+     * [39]Five Questions for Feng Zhang
+     * [40]Editing the epigenome
+     * [41]Better living through proteomics
+     * [42]New regulatory terrain
+
+Archives
+
+   [Select a month]
+
+Categories
+
+   [Select a category...................]
+
+   [43]Blog RSS feed Subscribe to the BroadMinded [44]RSS feed
+
+Algorithm seeks meaningful relationships
+
+   [45]Veronica Meade-Kelly, August 2nd, 2013
+     * A new algorithm filters out the noise caused by spurious, indirect
+       connections among network nodes, making it possible to pick out the
+       most meaningful relationships within the network.
+       Image by Susanna M. Hamilton, Broad Communications
+
+   Networks are ubiquitous these days: we use the internet to surf through
+   a seemingly endless network of linked sites; we rely on social media to
+   network with friends and acquaintances across the globe; and we've come
+   to look at the human body as an interconnected system of biological
+   processes.
+
+   This explosion of connectivity has been both a boon and a challenge for
+   network scientists - the brave souls who are attempting to make sense
+   of the data being mined from these systems. They are working in the
+   biological, social, and information sciences (and beyond), searching
+   networks for meaningful connections that might reveal, for instance,
+   how genes, proteins, and drugs interact inside the body, or how people
+   influence and work with each other.
+
+   In the August issue of Nature Biotechnology, a team led by Broad
+   associate member Manolis Kellis [46]introduced a new algorithm that may
+   make this work easier for network researchers in a variety of fields.
+   The team developed a method called "network deconvolution" that helps
+   researchers identify the most direct connections within complex
+   networks by filtering out the background noise caused by indirect or
+   incidental connections. The algorithm was designed to address a
+   persistent challenge in network science: how to distinguish between
+   meaningful relationships among interacting variables (or "nodes") in a
+   network, and more spurious, potentially misleading connections.
+
+   "In complex systems where you may have tens of thousands of variables,
+   you'll see many connections, but some of those connections are the
+   result of indirect relationships - they only exist because the
+   variables share a common connection with another, separate variable,"
+   explains Soheil Feizi, a graduate student in Kellis's lab and first
+   author of the paper. "Those indirect connections are not informative
+   and they obscure the true network of direct relationships that
+   researchers want to observe."
+
+   It's a complication that may be best understood in terms of Kevin
+   Bacon, arguably the world's most popular network node. In the complex,
+   IMDB-fueled, "Six Degrees of Kevin Bacon" network, Bacon would be
+   directly connected to John Belushi and Ryan Gosling because he worked
+   with each of the actors. But, looking objectively at the network, it
+   might also appear that Belushi and Gosling are connected because they
+   both worked with Bacon. In reality, the two surely never met and
+   probably share no direct connection. Network deconvolution filters out
+   such meaningless, indirect relationships so that researchers can focus
+   on the important and informative connections at the heart of the
+   network.
+
+   "Indirect relationships can cause echoes that reverberate infinitely in
+   the data," explains Kellis, who is also an associate professor in the
+   Computer Science and Electrical Engineering Department at MIT. "These
+   create feedback within the network, make spurious connections seem
+   substantial, and sometimes make direct connections seem
+   disproportionately significant."
+
+   The team saw that, by transforming the network matrix, they could use a
+   mathematical shortcut to contain the amplifying effects of those
+   echoes. From there, they could reverse the process, getting rid of the
+   echoes and revealing an underlying network consisting of only the most
+   direct, informative relationships.
+
+   Feizi and Kellis liken the process to cleaning up a dozen audio tracks
+   from a dozen conversations at a crowded cocktail party. Each
+   conversation may spill into the others, but the ability to single out
+   the voices makes it possible to strip out the ambient sound so that one
+   clear voice can be heard.
+
+   "Network deconvolution is a powerful new operation for matrices and we
+   hope it will be widely adopted," Feizi says. "It's intuitive and simple
+   to program, and it allows us to essentially eliminate the noise in the
+   network."
+
+   For their Nature Biotechnology paper, the scientists applied their
+   algorithm to three distinct types of networks. They looked at gene
+   regulatory networks to determine which genes interacted with each other
+   within a cell. They looked at protein structures to see which amino
+   acids from those proteins truly interacted with each other (as opposed
+   to being related because they're, for instance, simply folded next to
+   each other). The team also examined co-authorship of papers within
+   social networks of scientists to distinguish strong collaborations from
+   weak ones. In all three cases, the network deconvolution algorithm
+   enabled them to identify the meaningful, direct ties in the network
+   more effectively than previous methods.
+
+   The success of the method with these three disparate networks suggests
+   that the new algorithm can be applied to an even wider range of
+   real-world networks, as a fundamental network science tool to study a
+   variety of complex systems.
+
+   Kellis says that versatility is something his lab values greatly.
+   "Sitting in a computer science department, working on biology, we are
+   constantly asking, how can we think of this specific biological problem
+   in more general terms? Can we uncover the fundamental principles hiding
+   behind the specific problems that we set out to solve and, if we can,
+   what are the broader implications across fields?"
+
+   He says that his lab will continue to search for foundational
+   computational methods that can be added to the toolkit scientists use
+   to analyze networks. As more systems-level information becomes
+   available to the researchers investigating such fields as gene
+   regulation, social networks, or the interaction between drugs, genes,
+   and disease, there will be a growing need for methods like network
+   deconvolution that bring order to the complex worlds within and around
+   us.
+
+   Paper cited:
+
+   Feizi S, et al. "[47]Network deconvolution as a general method to
+   distinguish direct dependencies in networks." Nature Biotechnology.
+   Online July 14, 2013. DOI: 10.1038/nbt.2635
+   [48]Share This
+   [popup-close.png]-Submit
+     * [49][icon-email.png]
+     *
+     * [50]Tweet
+
+     [51]0 Comments
+
+   Name: * _______________________________________________
+   Your email: * _______________________________________________
+   (will not be shown on this site)
+
+   CAPTCHA
+
+
+   Re-type the two words in the box below ____________________
+   [52]Refresh [53]Listen [54]Use Image ReCAPTCHA ©
+
+   IFRAME:
+   [55]http://api.recaptcha.net/noscript?k=6LdJaLoSAAAAAC1V3jsyv7keJPjQsN-
+   FMQwU1KwW
+
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+
+   Leave a Comment: *
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   Submit Please note: comments are held for moderation before posting.
+   Read more in our [56]Community Guidelines.
+
+     * [57]What is Broad
+          + [58]Our Approach
+          + [59]Areas of Focus
+          + [60]History & Leadership
+          + [61]Who is Broad
+          + [62]Partner Institutions
+          + [63]Artist-in-Residence
+     * [64]News and Publications
+          + [65]News & Multimedia
+          + [66]Scientific Publications
+          + [67]For Journalists
+          + [68]Annual Reports and Brochures
+          + [69]BroadMinded Blog
+          + [70]Video Library
+     * [71]For the Scientific Community
+          + [72]Science
+          + [73]Data
+          + [74]Software
+     * [75]Partnerships
+          + [76]Academic
+          + [77]Educational
+          + [78]Industrial
+     * [79]Contribute
+     * [80]Careers
+     * [81]Contact Us
+
+   Copyright © 2013 Broad Institute. All Rights Reserved.    [82]Privacy
+   Policy   [83]Terms & Conditions   [84]Intranet
+
+    [85] Facebook   [86] Twitter   [87] YouTube   [88] Google+
+
+References
+
+   Visible links
+   1. file://localhost/
+   2. file://localhost/partnerships/partnerships
+   3. file://localhost/contribute
+   4. file://localhost/careers/careers
+   5. file://localhost/contact
+   6. file://localhost/what-broad/our-approach/our-approach
+   7. file://localhost/what-broad/our-approach/our-approach
+   8. file://localhost/what-broad/areas-focus/areas-focus
+   9. file://localhost/history-leadership/history-leadership
+  10. file://localhost/what-broad/who-broad/who-broad
+  11. file://localhost/what-broad/collaboration/partner-institutions-and-community
+  12. file://localhost/what-broad/artist-residence-program
+  13. file://localhost/news
+  14. file://localhost/news
+  15. file://localhost/publications-search
+  16. file://localhost/news-and-publications/for-journalists
+  17. file://localhost/news-and-publications/journalists/annual-reports-and-brochures
+  18. file://localhost/blog_roll
+  19. file://localhost/videos
+  20. file://localhost/scientific-community/science
+  21. file://localhost/scientific-community/science
+  22. file://localhost/scientific-community/data
+  23. file://localhost/scientific-community/software
+  24. file://localhost/news
+  25. file://localhost/publications-search
+  26. file://localhost/news-and-publications/for-journalists
+  27. file://localhost/news-and-publications/journalists/annual-reports-and-brochures
+  28. file://localhost/blog_roll
+  29. file://localhost/videos
+  30. file://localhost/
+  31. file://localhost/blog_roll
+  32. file://localhost/node/2408
+  33. file://localhost/blog_roll/hbridger
+  34. file://localhost/blog_roll/ndavis
+  35. file://localhost/blog_roll/leah
+  36. file://localhost/blog_roll/paulg
+  37. file://localhost/blog_roll/veronica
+  38. file://localhost/blog/levi-garraway-awarded-paul-marks-prize-cancer-research
+  39. file://localhost/blog/five-questions-feng-zhang
+  40. file://localhost/blog/editing-epigenome
+  41. file://localhost/blog/better-living-through-proteomics
+  42. file://localhost/blog/new-regulatory-terrain
+  43. file://localhost/blog/rss.xml
+  44. file://localhost/blog/rss.xml
+  45. http://www.broadinstitute.org/blog_roll/veronica
+  46. http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2635.html
+  47. http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.2635.html
+  48. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/40f08079896eb3c6be1b4f73fe128434
+  49. mailto:?subject=Algorithm%20seeks%20meaningful%20relationships&body=http://www.broadinstitute.org%2Fblog%2Falgorithm-seeks-meaningful-relationships
+  50. https://twitter.com/share
+  51. file://localhost/blog/algorithm-seeks-meaningful-relationships#comments
+  52. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/40f08079896eb3c6be1b4f73fe128434
+  53. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/40f08079896eb3c6be1b4f73fe128434
+  54. file://localhost/Users/vneblitt/Documents/cs595-f13/assignment03/raw/40f08079896eb3c6be1b4f73fe128434
+  55. http://api.recaptcha.net/noscript?k=6LdJaLoSAAAAAC1V3jsyv7keJPjQsN-FMQwU1KwW
+  56. file://localhost/node/2408
+  57. file://localhost/what-broad/our-approach/our-approach
+  58. file://localhost/what-broad/our-approach/our-approach
+  59. file://localhost/what-broad/areas-focus/areas-focus
+  60. file://localhost/history-leadership/history-leadership
+  61. file://localhost/what-broad/who-broad/who-broad
+  62. file://localhost/what-broad/collaboration/partner-institutions-and-community
+  63. file://localhost/what-broad/artist-residence-program
+  64. file://localhost/news
+  65. file://localhost/news
+  66. file://localhost/publications-search
+  67. file://localhost/news-and-publications/for-journalists
+  68. file://localhost/news-and-publications/journalists/annual-reports-and-brochures
+  69. file://localhost/blog_roll
+  70. file://localhost/videos
+  71. file://localhost/scientific-community/science
+  72. file://localhost/scientific-community/science
+  73. file://localhost/scientific-community/data
+  74. file://localhost/scientific-community/software
+  75. file://localhost/partnerships/partnerships
+  76. file://localhost/what-broad/administration/academic-affairs/academic-affairs-office
+  77. file://localhost/partnerships/education/education
+  78. file://localhost/osap
+  79. file://localhost/contribute
+  80. file://localhost/careers/careers
+  81. file://localhost/contact
+  82. file://localhost/privacy-policy
+  83. file://localhost/terms-conditions
+  84. http://iwww.broadinstitute.org/
+  85. http://www.facebook.com/broadinstitute
+  86. http://twitter.com/broadinstitute
+  87. http://www.youtube.com/broadinstitute
+  88. https://plus.google.com/u/0/106671900218501362419
+
+   Hidden links:
+  89. file://localhost/blog_roll/hbridger
+  90. file://localhost/blog_roll/hbridger
+  91. file://localhost/blog_roll/ndavis
+  92. file://localhost/blog_roll/ndavis
+  93. file://localhost/blog_roll/leah
+  94. file://localhost/blog_roll/leah
+  95. file://localhost/blog_roll/paulg
+  96. file://localhost/blog_roll/paulg
+  97. file://localhost/blog_roll/veronica
+  98. file://localhost/blog_roll/veronica
+  99. http://www.broadinstitute.org/files/blog/images/2013/soundwaves_v4.jpg
