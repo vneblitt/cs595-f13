@@ -11,7 +11,7 @@ files = listdir(mypath)
 files.remove('.DS_Store')
 
 # Open the output file
-s = open('/Users/vneblitt/Documents/cs595-f13/assignment04/q2/mydotfile.dot', 'a')
+s = open('/Users/vneblitt/Documents/cs595-f13/assignment04/q2/mydotfile.dot', 'w')
 s.write('digraph spaghetti {\n')
 
 # Iterate through input file directory
@@ -22,7 +22,7 @@ for file in files:
     site = mylines[1].strip('\n')
     links = mylines[3:]
 
-    for link in mylines:
+    for link in links:
         link = link.strip()
         s.write('"' + site + '"' + ' -> ' + '"' + link + '"' + ' [ label = "' + site + ' to ' + link + '" ]; \n')
 
