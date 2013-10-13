@@ -5,50 +5,33 @@
 
 import xml.etree.ElementTree as ET
 
+s = open('friendcountreport.csv', 'w')
 
-tree = ET.parse('testxmlfile2.xml')
+tree = ET.parse('/Users/vneblitt/Documents/FacebookGraphs/ValentinaNeblitt-Jones_1381612295-ego.graphml')
 root = tree.getroot()
-# print()
-# print(root.tag)
-# print()
-# print(root.attrib)
-# print()
-# print(dir(root))
-
-# for child in root:
-#    print(child.tag, child.attrib)
 
 namespace = '{http://graphml.graphdrawing.org/xmlns}'
 
-node = root.findall(namespace + 'graph/' + namespace + 'node')
-# print(node)
-# print(dir(content))
+# structure: graph -> node -> data
 
-name = node[0].attrib.get('id')
-# print(name)
-data1 = node[0].findall(namespace + 'data')
-# data2 = node[0].findall(namespace + 'data')
-print(data1[1].text + ',' + data1[3].text)
+nodes = root.findall(namespace + 'graph/' + namespace + 'node')
 
-# uid = person.attrib.get('uid')
-# print(uid)
+myfriends = 0
 
-# name = person.find('name/first')
-# middle_name = person.find('name/middle')
-# last_name = person.find('name/last')
+for node in nodes:
+    data = node.findall(namespace + 'data')
+    friends = 0
+    myfriends = myfriends + 1
 
-# address = person.find('address')
-# street = address.find('street')
-# state = address.find('state')
-# city = address.find('city')
-# zipcode = address.find('zip')
+    for datum in data:
+        if datum.attrib.get('key') == 'uid':
+            uid = datum.text
+        if datum.attrib.get('key') == 'friend_count':
+            friends = datum.text
 
-# print('id: ' + person.attrib.get('id'))
-# print('id: ' + person.attrib.get('id'))
-# print('first name: ' + first_name.text)
-# print('middle name: ' + middle_name.text)
-# print('last name: ' + last_name.text)
-# print('street: ' + street.text)
-# print('state: ' + state.text)
-# print('city: ' + city.text)
-# print('zip code: ' + zipcode.text)
+    if friends != 0:
+        print(str(uid) + ',' + str(friends))
+        s.write(str(uid) + ',' + str(friends) + '\n')
+
+print('Valentina,' + str(myfriends))
+s.write('Valentina,' + str(myfriends) + '\n')
