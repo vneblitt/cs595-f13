@@ -18,6 +18,8 @@ nodes = root.findall(namespace + 'graph/' + namespace + 'node')
 
 myfriends = 0
 
+s.write('Identiifier' + ',' + 'Friend Count' + '\n')
+
 for node in nodes:
     data = node.findall(namespace + 'data')
     friends = 0
@@ -30,7 +32,6 @@ for node in nodes:
             friends = datum.text
 
     if friends != 0:
-        s.write('Identiifier' + 'Friend Count' + '\n')
         s.write(str(uid) + ',' + str(friends) + '\n')
 
 s.write('Valentina,' + str(myfriends) + '\n')
