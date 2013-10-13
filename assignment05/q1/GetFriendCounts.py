@@ -18,7 +18,7 @@ nodes = root.findall(namespace + 'graph/' + namespace + 'node')
 
 myfriends = 0
 
-s.write('Identiifier' + ',' + 'Friend Count' + '\n')
+s.write('Identifier' + ',' + 'Friend Count' + '\n')
 
 for node in nodes:
     data = node.findall(namespace + 'data')

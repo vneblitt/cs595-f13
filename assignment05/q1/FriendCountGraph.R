@@ -9,4 +9,12 @@ friendCount <- sort(friendsdata$Friend.Count)
 
 max_y <- max(friendCount) + 500
 
-barplot(friendCount, main="Friends' Friend Counts", xlab = "Friends", ylab = "Friend Count", border = NA, ylim = c(0, max_y), col = "slategray3")
+cols <- c("slategray3", "red")
+
+ndx = order(friendsdata$Friend.Count)
+
+fd_sorted = friendsdata[ndx,]$Identifier
+
+pos <- fd_sorted == "Valentina"
+
+barplot(friendCount, main="Friends' Friend Counts", xlab = "Friends", ylab = "Friend Count", border = NA, ylim = c(0, max_y), col = cols[pos + 1])
