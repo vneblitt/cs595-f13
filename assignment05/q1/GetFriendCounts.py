@@ -30,7 +30,7 @@ for node in nodes:
             friends = datum.text
 
     if friends != 0:
-        s.write('Identiifier' + 'Friend Count')
+        s.write('Identiifier' + 'Friend Count' + '\n')
         s.write(str(uid) + ',' + str(friends) + '\n')
 
 s.write('Valentina,' + str(myfriends) + '\n')
