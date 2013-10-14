@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+			<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+			http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="uid" for="node" attr.name="uid" attr.type="string">
+	<default></default>
+</key>
+<key id="name" for="node" attr.name="name" attr.type="string">
+	<default></default>
+</key>
+<key id="sex" for="node" attr.name="sex" attr.type="string">
+	<default></default>
+</key>
+<key id="first_name" for="node" attr.name="first_name" attr.type="string">
+	<default></default>
+</key>
+<key id="middle_name" for="node" attr.name="middle_name" attr.type="string">
+	<default></default>
+</key>
+<key id="last_name" for="node" attr.name="last_name" attr.type="string">
+	<default></default>
+</key>
+<key id="locale" for="node" attr.name="locale" attr.type="string">
+	<default></default>
+</key>
+<key id="about_me" for="node" attr.name="about_me" attr.type="string">
+	<default></default>
+</key>
+<key id="hometown_location" for="node" attr.name="hometown_location" attr.type="string">
+	<default></default>
+</key>
+<key id="birthday_date" for="node" attr.name="birthday_date" attr.type="string">
+	<default></default>
+</key>
+<key id="political" for="node" attr.name="political" attr.type="string">
+	<default></default>
+</key>
+<key id="relationship_status" for="node" attr.name="relationship_status" attr.type="string">
+	<default></default>
+</key>
+<key id="religion" for="node" attr.name="religion" attr.type="string">
+	<default></default>
+</key>
+<key id="likes_count" for="node" attr.name="likes_count" attr.type="int">
+	<default></default>
+</key>
+<key id="friend_count" for="node" attr.name="friend_count" attr.type="int">
+	<default></default>
+</key>
+<key id="mutual_friend_count" for="node" attr.name="mutual_friend_count" attr.type="int">
+	<default></default>
+</key>
+<key id="pic_big" for="node" attr.name="pic_big" attr.type="string">
+	<default></default>
+</key>
+<key id="Label" for="node" attr.name="Label" attr.type="string">
+	<default></default>
+</key><graph id="G" edgedefault="undirected">
+
+<node id="Ahmed_Fareed_5526939">
+	<data key="Label">Ahmed Fareed</data>
+	<data key="uid"><![CDATA[5526939]]></data>
+	<data key="name"><![CDATA[Ahmed Fareed]]></data>
+	<data key="friend_count"><![CDATA[509]]></data>
+</node>
+
+<node id="Shawn_M._Jones_1288510163">
+	<data key="Label">Shawn M. Jones</data>
+	<data key="uid"><![CDATA[1288510163]]></data>
+	<data key="name"><![CDATA[Shawn M. Jones]]></data>
+	<data key="friend_count"><![CDATA[157]]></data>
+</node>
+<node id="E_Déshaun_Williams_1541226915">
+	<data key="Label">E Déshaun Williams</data>
+	<data key="uid"><![CDATA[1541226915]]></data>
+	<data key="name"><![CDATA[E Déshaun Williams]]></data>
+</node>
+<node id="Heather_Rutherford_1452107163">
+	<data key="Label">Heather Rutherford</data>
+	<data key="uid"><![CDATA[1452107163]]></data>
+	<data key="name"><![CDATA[Heather Rutherford]]></data>
+</node>
+</graph></graphml>
