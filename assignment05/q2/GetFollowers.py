@@ -81,12 +81,14 @@ if __name__ == "__main__":
 
         mlnfriends = 0
 
+        s.write('ScreenName' + ',' + 'FollowerCount' + '\n')
+
         for user in l:
             mlnfriends = mlnfriends + 1
             followers_count = user['followers_count']
             screen_name = user['screen_name']
-            s.write(str(followers_count) + ',' + screen_name + '\n')
+            s.write(screen_name + ',' + str(followers_count) + '\n')
 
-        s.write(str(mlnfriends) + ',' + 'phonedude_mln' + '\n')            
+        s.write('phonedude_mln' + ',' + str(mlnfriends) + '\n')            
 
         s.close()
