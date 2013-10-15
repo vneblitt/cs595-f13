@@ -35,6 +35,18 @@ If you do not have a Facebook account, email me and I will send you my GraphML f
 
 \subsection*{Answer to Question 1}
 
+My GraphML file is available if necessary, but since it had real names in it I left it on my hard drive instead of loading it to GitHub. When I chose the anonymize option for generating the graph, it also did not provide the friend count so I had to run it without that option. The nodes in the file also contained a unique number for each person and in DoD we would say that it is sufficient for PII violation, but I could find no way to use the number to identify a person in Facebook. I did keep the names on a version of my program because I was curious about who my most popular friend was. Surprise! It was a computer scientist.
+
+I used ElementTree to parse my XML with Python. There was a lot of misunderstanding as I tried to understand how to step through this XML to get at the elements I actually needed.
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.50]{q1/GetFriendCountsCode}
+\caption{Showing Friend Count}
+\label{GetFriendCountsCode}
+\end{figure}
+
 I discovered when reviewing the GraphML file that some nodes did not contain a Friend Count. I investigated two of those cases and found a difference in summary friends data. Figure \ref{showfriendsprofile} shows a friend whose friend count was in the file and Figure \ref{hidefriendsprofile} shows a friend whose friend count was not in the file. Some of my friends only allow me to see our mutual friends not all of their friends and therefore the application was unable to pull a friend count for those individuals. I have 230 friends, but my report on friend counts only has 208 of those friends' friend counts. This means that 22 of my friends have the mutual friends only setting. I omitted nodes that did not contain a friend count (Figure \ref{nofriendcount}).
 
 \begin{figure}[H]
