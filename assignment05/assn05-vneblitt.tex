@@ -35,6 +35,29 @@ If you do not have a Facebook account, email me and I will send you my GraphML f
 
 \subsection*{Answer to Question 1}
 
+I discovered when reviewing the GraphML file that some nodes did not contain a Friend Count. I investigated two of those cases and found a difference in summary friends data. Figure \ref{showfriendsprofile} shows a friend whose friend count was in the file and Figure \ref{hidefriendsprofile} shows a friend whose friend count was not in the file. Some of my friends only allow me to see our mutual friends not all of their friends and therefore the application was unable to pull a friend count for those individuals. I have 230 friends, but my report on friend counts only has 208 of those friends' friend counts. This means that 22 of my friends have the mutual friends only setting. I omitted nodes that did not contain a friend count (Figure \ref{nofriendcount}).
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.75]{q1/showfriendsprofile}
+\caption{Showing Friend Count}
+\label{showfriendsprofile}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.75]{q1/hidefriendsprofile}
+\caption{Hiding Friend Count}
+\label{hidefriendsprofile}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.75]{q1/nofriendcount}
+\caption{Code that Omits Friends with No Friend Count Available}
+\label{nofriendcount}
+\end{figure}
+
 %\begin{itemize}
 %\item TMZ.com
 %\item Sesame Workshop
