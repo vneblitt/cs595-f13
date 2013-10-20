@@ -8,6 +8,7 @@ from __future__ import unicode_literals
 import requests
 from requests_oauthlib import OAuth1
 from urllib.parse import parse_qs
+import pprint
 
 REQUEST_TOKEN_URL = "https://api.twitter.com/oauth/request_token"
 AUTHORIZE_URL = "https://api.twitter.com/oauth/authorize?oauth_token="
@@ -71,23 +72,28 @@ if __name__ == "__main__":
 
         s = open('followersreport.csv', 'w')
         
-        print('Followers for Michael Nelson')
-        print('')
-        screen_name = 'phonedude_mln'
-        count = '200'
-        uri = 'https://api.twitter.com/1.1/followers/list.json?cursor=-1&screen_name=' + screen_name + '&skip_status=true&include_user_entities=false&count=' + count
-        r = requests.get(uri, auth=oauth)
-        l = r.json()['users']
-
-        mlnfriends = 0
-
         s.write('ScreenName' + ',' + 'FollowerCount' + '\n')
 
-        for user in l:
-            mlnfriends = mlnfriends + 1
-            followers_count = user['followers_count']
-            screen_name = user['screen_name']
-            s.write(screen_name + ',' + str(followers_count) + '\n')
+        #pp = pprint.PrettyPrinter()
+
+        cursor = -1
+
+        mlnfriends = 0
+  
+        while cursor != 0:
+            screen_name = 'phonedude_mln'
+            uri = 'https://api.twitter.com/1.1/followers/list.json?screen_name=' + screen_name + '&skip_status=true&include_user_entities=false&cursor=' + str(cursor)
+            r = requests.get(uri, auth=oauth)
+            #pp.pprint(r.json())
+            cursor = r.json()['next_cursor']
+            l = r.json()['users']
+
+
+            for user in l:
+                mlnfriends = mlnfriends + 1
+                followers_count = user['followers_count']
+                screen_name = user['screen_name']
+                s.write(screen_name + ',' + str(followers_count) + '\n')
 
         s.write('phonedude_mln' + ',' + str(mlnfriends) + '\n')            
 
