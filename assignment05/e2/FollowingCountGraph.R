@@ -7,7 +7,7 @@ followingdata <- read.csv("/Users/vneblitt/Documents/cs595-f13/assignment05/e2/f
 
 fCount <- sort(followingdata$FollowingCount)
 
-max_y <- max(fCount) + 500
+max_y <- max(fCount) + 1000
 
 cols <- c("slategray3", "red")
 

@@ -70,25 +70,25 @@ if __name__ == "__main__":
 # Start Here
 
         s = open('followingreport.csv', 'w')
-        
-        print('Following')
-        print('')
-        screen_name = 'phonedude_mln'
-        count = '200'
-        uri = 'https://api.twitter.com/1.1/followers/list.json?cursor=-1&screen_name=' + screen_name + '&skip_status=true&include_user_entities=false&count=' + count
-        r = requests.get(uri, auth=oauth)
-        l = r.json()['users']
-
-        #mlnfriends = 0
 
         s.write('ScreenName' + ',' + 'FollowingCount' + '\n')
 
-        for user in l:
-            #mlnfriends = mlnfriends + 1
-            following_count = user['friends_count']
-            screen_name = user['screen_name']
-            s.write(screen_name + ',' + str(following_count) + '\n')
+        cursor = -1
 
-        s.write('phonedude_mln' + ',73\n')            
+        while cursor != 0:
+            
+            screen_name = 'phonedude_mln'
+            uri = 'https://api.twitter.com/1.1/followers/list.json?screen_name=' + screen_name + '&skip_status=true&include_user_entities=false&cursor=' + str(cursor)
+            r = requests.get(uri, auth=oauth)
+            cursor = r.json()['next_cursor']
+            l = r.json()['users']
+
+
+            for user in l:
+                following_count = user['friends_count']
+                screen_name = user['screen_name']
+                s.write(screen_name + ',' + str(following_count) + '\n')
+
+        s.write('phonedude_mln' + ',74\n')            
 
         s.close()
