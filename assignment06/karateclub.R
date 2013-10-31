@@ -1,6 +1,11 @@
 # Valentina Neblitt-Jones
-# CS 595 Intro to Web Science
+# CS 595 Introduction to Web Science
 # Fall 2013
-# Assignment 6
+# Assignment 6 Question 1
 
-karatedata <- read.table("/Users/vneblitt/Documents/cs595-f13/assignment06/zachary.dat")
+data(karate)
+# e <- edge.betweenness.community(karate)
+plot.igraph(karate)
+e1 <- edge.betweenness(karate)
+e1ordered <- order(e1, decreasing=TRUE)
+f <- e1ordered[-1]
