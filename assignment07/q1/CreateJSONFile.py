@@ -4,24 +4,34 @@
 # Assignment #7 Question #1
 
 import json
+import pprint
 
-#f = open('zachary.dat','r')
-#g = open('zachary1.json', 'w')
+g = open('zachary1.json', 'w')
+pp = pprint.PrettyPrinter()
 
 adict = {}
 adict["nodes"] = []
 adict["edges"] = []
 
-count = 0
+id = 0 # name
 
 with open('zachary.dat', 'r') as f:
    good = f.readlines()[41:]
 for line in good:
 	person = line.split()
-	count = count + 1
-	adict["nodes"].append({'name':str(count)})
-    
-print(adict)
-#f.close()
-#g.close()
+	id = id + 1 # generates name
+	adict["nodes"].append({'name':str(id)})
+	for i in range(0, len(person)):
+		weight = int(person[i])
+		source = id - 1
+		target = i
+		if weight != 0:
+			adict["edges"].append({'source': source, 'target': target, 'weight':weight})
+			
+pp.pprint(adict)
+output = json.dumps(adict, indent=4)
+g.write(output)
+
+f.close()
+g.close()
     
