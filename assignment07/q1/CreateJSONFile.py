@@ -11,7 +11,7 @@ pp = pprint.PrettyPrinter()
 
 adict = {}
 adict["nodes"] = []
-adict["edges"] = []
+adict["links"] = []
 
 id = 0 # name
 
@@ -20,13 +20,13 @@ with open('zachary.dat', 'r') as f:
 for line in good:
 	person = line.split()
 	id = id + 1 # generates name
-	adict["nodes"].append({'name':str(id)})
+	adict["nodes"].append({'id':str(id)})
 	for i in range(0, len(person)):
 		weight = int(person[i])
 		source = id - 1
 		target = i
 		if weight != 0:
-			adict["edges"].append({'source': source, 'target': target, 'weight':weight})
+			adict["links"].append({'source': source, 'target': target, 'weight':weight})
 			
 pp.pprint(adict)
 output = json.dumps(adict, indent=4)

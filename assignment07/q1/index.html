@@ -23,7 +23,7 @@
                         //Initialize a default force layout, using the nodes and edges in dataset
                         var force = d3.layout.force()
                         	.nodes(dataset.nodes)
-                            .links(dataset.edges)
+                            .links(dataset.links)
                             .size([w, h])
                             .linkDistance([100])
                             .charge([-100])
@@ -38,8 +38,8 @@
                             .attr("height", h);
                         
                         //Create edges as lines
-                        var edges = svg.selectAll("line")
-                        	.data(dataset.edges)
+                        var links = svg.selectAll("line")
+                        	.data(dataset.links)
                             .enter()
                             .append("line")
                             .style("stroke", "#ccc")
@@ -60,7 +60,7 @@
                         //Every time the simulation "ticks", this will be called
                         force.on("tick", function() {
 
-                                edges.attr("x1", function(d) { return d.source.x; })
+                                links.attr("x1", function(d) { return d.source.x; })
                                 	.attr("y1", function(d) { return d.source.y; })
                                     .attr("x2", function(d) { return d.target.x; })
                                     .attr("y2", function(d) { return d.target.y; });
