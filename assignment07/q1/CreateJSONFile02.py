@@ -18,5 +18,19 @@ f.close()
 
 G = json_graph.node_link_graph(data)
 
+# Steps in R that I need to emulate
+# data(karate)
+# k <- karate
+
+# repeat{
+# kedge <- edge.betweenness(k)
+# korder <- order(kedge, decreasing=TRUE)
+# a <- korder[-1]
+# b <- get.edge(k,a)
+# k <- delete.edges(k, E(k,P=b))
+
+# if (clusters(k)$no == 2) break()
+# }
+
 
     
