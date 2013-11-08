@@ -4,38 +4,56 @@
                 <meta charset="utf-8">
                 <title>D3: Force layout</title>
                 <script type="text/javascript" src="d3.v3.js"></script>
+
                 <style type="text/css">
                         /* No style rules here yet */
                 </style>
+                
         </head>
         <body>
+        		<h1>Karate Club Graph</h1>
+        		<p>Click to see the split</p>
+        		<p>Refresh the page to put the club back together</p>
+
+
                 <script type="text/javascript">
 
                         //Width and height
-                        var w = 960;
-                        var h = 500;
-
-                        //Original data
+                        var w = 800;
+                        var h = 800;
                         
-                        d3.json("zachary2.json", function(error, dataset) {
+                         //Create SVG element
+                        var svg = d3.select("body")
+                        	.append("svg")
+                            .attr("width", w)
+                            .attr("height", h)
+                            .on("click", transformit);
+                            
+                        loadjson('zachary1.json');
+                            
+                		function transformit() {
+                			d3.selectAll("line").remove();
+                			d3.selectAll("circle").remove();
+                			loadjson('zachary2.json');            
+                
+                		}
 
+				function loadjson(jsonfile) {
+                        
+                        d3.json(jsonfile, function(error, dataset) {
+                       
                         
                         //Initialize a default force layout, using the nodes and edges in dataset
                         var force = d3.layout.force()
                         	.nodes(dataset.nodes)
                             .links(dataset.links)
                             .size([w, h])
-                            .linkDistance([100])
-                            .charge([-100])
+                            .linkDistance(100)
+                            .charge(-100)
+                            .gravity(0.01)
                             .start();
 
                         var colors = d3.scale.category10();
-
-                        //Create SVG element
-                        var svg = d3.select("body")
-                        	.append("svg")
-                            .attr("width", w)
-                            .attr("height", h);
                         
                         //Create edges as lines
                         var links = svg.selectAll("line")
@@ -55,9 +73,7 @@
                                 return colors(i);
                                 })
                             .call(force.drag);
-                            
-                                
-                        
+                    
                         //Every time the simulation "ticks", this will be called
                         force.on("tick", function() {
 
@@ -72,8 +88,9 @@
                         });
                         
                         });
-
-
+                        
+                        }
+  
                 </script>
         </body>
 </html>
