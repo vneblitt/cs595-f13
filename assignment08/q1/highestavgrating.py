@@ -6,10 +6,14 @@
 
 import datetime
 import numpy
+import codecs
+
 #g = open('highestaveragerating.txt', 'w')
 
 movieratings={}
 averageratings={}
+movieinfo={}
+topmovies={}
 
 with open('/Users/vneblitt/Documents/cs595-f13/assignment08/dataset/u.data', 'r') as f:
 	movieratinginfo = f.readlines()
@@ -25,13 +29,26 @@ with open('/Users/vneblitt/Documents/cs595-f13/assignment08/dataset/u.data', 'r'
 		#print(datetime.datetime.fromtimestamp(int(timestamp)).strftime('%Y-%m-%d %H:%M:%S'))
 		#print('timestamp ' + timestamp)
 f.close()
-print(movieratings)
 
 for movie in movieratings:
 	ratings = movieratings[movie]
 	average = numpy.mean(ratings)
 	averageratings[movie] = average
-	
-print(averageratings)
+
+#stack overflow http://stackoverflow.com/questions/613183/python-sort-a-dictionary-by-value (11/10/2013)
+for movieid in sorted(averageratings, key=averageratings.get, reverse=True)[0:10]:
+	topmovies[movieid] = averageratings[movieid]
+	#print(movieid, averageratings[movieid])
+#print(topmovies)
+
+with (codecs.open('/Users/vneblitt/Documents/cs595-f13/assignment08/dataset/u.item','r', 'iso-8859-1')) as h:
+	moviedata = h.readlines()
+	for line in moviedata:
+		(movieid, movietitle) = line.split('|')[0:2]
+		movieinfo[movieid] = movietitle
+#print(movieinfo)
+h.close()
+
+
 
 #g.close()
