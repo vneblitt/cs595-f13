@@ -1,16 +1,16 @@
 # Valentina Neblitt-Jones
 # CS 595 Introduction to Web Science
 # Fall 2013
-# Assignment #8 Question #3
-# What 5 movies were rated the highest on average by women? Show the movies and their ratings sorted by ratings.
+# Assignment #8 Question #4
+# What 5 movies were rated the highest on average by men? Show the movies and their ratings sorted by ratings.
 
 import codecs
 import numpy
 
-g = open('highestwomen.txt', 'w')
+g = open('highestmen.txt', 'w')
 
 userinfo={}
-theladies=[]
+theguys=[]
 movieratings={}
 averageratings={}
 movieinfo={}
@@ -25,15 +25,15 @@ with open('/Users/vneblitt/Documents/cs595-f13/assignment08/dataset/u.user', 'r'
 
 # Create a list of userids that only belong to women
 for user in userinfo:
-	if userinfo[user] == 'F':
-		theladies.append(user)
+	if userinfo[user] == 'M':
+		theguys.append(user)
 
-# Create a dictionary of movies and ratings only if the user is a woman
+# Create a dictionary of movies and ratings only if the user is a man
 with open('/Users/vneblitt/Documents/cs595-f13/assignment08/dataset/u.data', 'r') as f:
 	movieratinginfo = f.readlines()
 	for line in movieratinginfo:
 		(userid, itemid, rating, timestamp) = line.split('\t')
-		if userid in theladies:
+		if userid in theguys:
 			if itemid in movieratings:
 				movieratings[itemid].append(int(rating))
 			else:
@@ -54,7 +54,7 @@ with (codecs.open('/Users/vneblitt/Documents/cs595-f13/assignment08/dataset/u.it
 h.close()
 
 #stack overflow http://stackoverflow.com/questions/613183/python-sort-a-dictionary-by-value (11/10/2013)
-for movieid in sorted(averageratings, key=averageratings.get, reverse=True)[0:11]:
+for movieid in sorted(averageratings, key=averageratings.get, reverse=True)[0:16]:
 	g.write(movieinfo[movieid] + ' ' + str(averageratings[movieid]) + '\n')
 
 g.close()
