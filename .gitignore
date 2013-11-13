@@ -1,9 +1,8 @@
 *.pyc
 *.aux
 *.log
-<<<<<<< HEAD
-*.synctex.gz
-=======
 *.synctex.gz
 *.Rhistory
->>>>>>> 87a300c343b374143f0785e50a0d4ee3df9cadd5
+*.lol
+*.lot
+
