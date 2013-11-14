@@ -58,21 +58,15 @@ The last 19 fields are the genres, a 1 indicates the movie is of that genre, a 0
 
 Example: \\
 
-\begin{table}[!h]
-\centering
-\begin{tabular}{c c c c c c}
-movie id & movie title & release date & video release date & IMDb URL \\
-\hline
-161 & Top Gun (1986) & 01-Jan-1986 &  & \url{http://us.imdb.com/M/title-exact?Top%20Gun%20(1986)} &(1986) \\
-%186 & 302 & 3 & 891717742 \\
-%22 & 377 & 1 & 878887116 \\
-\end{tabular}
-\end{table}
-
 \begin{verbatim}
-161|Top Gun (1986)|01-Jan-1986||http://us.imdb.com/M/title-exact?Top\%20Gun\%20(1986)|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0 
-162|On Golden Pond (1981)|01-Jan-1981||http://us.imdb.com/M/title-exact?On\%20Golden\%20Pond\%20(1981)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0 
-163|Return of the Pink Panther, The (1974)|01-Jan-1974||http://us.imdb.com/M/title-exact?Return\%20of\%20the\%20Pink\%20Panther,\%20The\%20(1974)|0|0|0|0|0|1|0|0|0|0|0|0|0|0| 0|0|0|0|0
+161|Top Gun (1986)|01-Jan-1986||http://us.imdb.com/M/title-exact?Top\%20Gun\%20(1986)
+|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0 
+162|On Golden Pond (1981)|01-Jan-1981||
+http://us.imdb.com/M/title-exact?On\%20Golden\%20Pond\%20(1981)
+|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0 
+163|Return of the Pink Panther, The (1974)|01-Jan-1974||
+http://us.imdb.com/M/title-exact?Return\%20of\%20the\%20Pink\%20Panther,\%20The\%20(1974)
+|0|0|0|0|0|1|0|0|0|0|0|0|0|0| 0|0|0|0|0
 \end{verbatim}
 
 \subsection*{u.user}
@@ -124,6 +118,12 @@ The Saint of Fort Washington (1993) & 5.0  \\
 \end{tabular}
 \caption{Movies with the Highest Average Rating}
 \end{table}
+
+The output from my program produced 10 movies with the highest average score. I created dictionaries to hold movie ratings, average ratings, movie information and finally the top movies. This problem required use of mostly u.data since it had the ratings and the movie IDs, but also u.item so that the movie IDs could be referenced by their titles.
+
+So I read in the u.data file and in my loop I placed the ID and the rating in the dictionary. If the dictionary already had the ID, then I only appended the rating. After this dictionary was created, I iterated through the new dictionary and calculated the mean score of the ratings associated with each key. I found a question/answer in Stack Overflow that suggested using numpy library and its mean function. \cite{numpymean}. The resulting list had the data I desired, but in order by movie ID. Since dictionaries inherently sort this way, I had to find a way to produce the same list in reverse order by average rating and used a solution provided in a Stack Overflow answer. \cite{dictsortvalue} This sorted on the average rating value and placed the result in a dictionary called top movies.
+
+I was having a problem reading in u.item and receiving an error starting with ``UnicodeDecodeError: 'utf8' codec can't decode ...''. This required using the codecs library \cite{codecs} so I could specify how it should be read.
 
 \begin{lstlisting}[frame=single, caption=highestavgrating.py, label=highaverage]
 import datetime
@@ -190,37 +190,19 @@ Marlene Dietrich: Shadow and Light (1997) & 485  \\
 \caption{Movies with the Most Ratings}
 \end{table}
 
+The output from my program produced the desired quantity of 5 movies. I created dictionaries to hold movie ratings, counted ratings, and movie information. This problem also required use of mostly u.data since it had the ratings and the movie IDs, but also u.item so that the movie IDs could be referenced by their titles.
+
+This program was similar to Q1 except that after the first dictionary was created, I iterated through it and used the length of a list function to calculated the number of ratings for each movie. I did not have a ``too many results'' problem this time. this is because it is less likely that raters would have rated the exact same number of movies.
+
 \begin{lstlisting}[frame=single, caption=mostratings.py, label=mostratings]
-import codecs
-
-g = open('mostratings.txt', 'w')
-
-movieratings={}
-countingratings={}
-movieinfo={}
-
-with open('/Users/vneblitt/Documents/cs595-f13/assignment08/dataset/u.data', 'r') as f:
-	movieratinginfo = f.readlines()
-	for line in movieratinginfo:
-		(userid, itemid, rating, timestamp) = line.split('\t')
-		if itemid in movieratings:
-			movieratings[itemid].append(int(rating))
-		else:
-			movieratings[itemid] = [int(rating)]
-f.close()
-
+[...]
 for movie in movieratings:
 	ratings = movieratings[movie]
 	ratingscount = len(ratings)
 	countingratings[movie] = ratingscount
 #print(countingratings)
 
-with (codecs.open('/Users/vneblitt/Documents/cs595-f13/assignment08/dataset/u.item','r', 'iso-8859-1')) as h:
-	moviedata = h.readlines()
-	for line in moviedata:
-		(movieid, movietitle) = line.split('|')[0:2]
-		movieinfo[movieid] = movietitle
-h.close()
+[...]
 
 #stack overflow http://stackoverflow.com/questions/613183/python-sort-a-dictionary-by-value (11/10/2013)
 for movieid in sorted(countingratings, key=countingratings.get, reverse=True)[0:5]:
