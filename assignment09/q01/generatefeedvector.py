@@ -1,3 +1,8 @@
+# Valentina Neblitt-Jones
+# CS 595 Introduction to Web Science
+# Fall 2013
+# Assignment 9 Question 1
+
 import feedparser
 import re
 
@@ -9,14 +14,15 @@ def getwordcounts(url):
 
   # Loop over all the entries
   for e in d.entries:
-    if 'summary' in e: summary=e.summary
-    else: summary=e.description
+##    if 'summary' in e: summary=e.summary
+##    else: summary=e.description
 
     # Extract a list of words
-    words=getwords(e.title+' '+summary)
-    for word in words:
-      wc.setdefault(word,0)
-      wc[word]+=1
+##    words=getwords(e.title+' '+summary)
+      words=getwords(e.title)
+      for word in words:
+        wc.setdefault(word,0)
+        wc[word]+=1
   return d.feed.title,wc
 
 def getwords(html):
@@ -56,6 +62,7 @@ for word in wordlist: out.write('\t%s' % word)
 out.write('\n')
 for blog,wc in wordcounts.items():
   print blog
+  blog = blog.encode('UTF-8')
   out.write(blog)
   for word in wordlist:
     if word in wc: out.write('\t%d' % wc[word])
