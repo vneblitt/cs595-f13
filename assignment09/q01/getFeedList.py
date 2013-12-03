@@ -45,6 +45,6 @@ while len(feedlist) <= 100:
     time.sleep(1)
 
 for item in feedlist:
-    f.write(item + '?max-results=100' + '\n')
+    f.write(item + '?max-results=1000' + '\n')
 
 f.close()
