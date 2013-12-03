@@ -1,7 +1,7 @@
 # Valentina Neblitt-Jones
 # CS 595 Introduction to Web Science
 # Fall 2013
-# Assignment 9 Question 2
+# Assignment 9
 
 from PIL import Image,ImageDraw
 
