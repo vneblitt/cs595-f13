@@ -11,4 +11,13 @@ import clusters
 
 blognames,words,data=clusters.readfile('blogdata1.txt')
 
-print blognames
+# row
+print blognames[0]
+
+# column
+print words[3]
+
+# junction
+print data[0][3]
+
+
