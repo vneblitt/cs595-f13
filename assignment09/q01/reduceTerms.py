@@ -12,12 +12,46 @@ import clusters
 blognames,words,data=clusters.readfile('blogdata1.txt')
 
 # row
-print blognames[0]
+# print 'blog name: ' + blognames[0]
 
 # column
-print words[3]
+# print 'term: ' + words[3]
 
 # junction
-print data[0][3]
+# print 'value: ' + str(data[0][3])
 
+# print 'number of blogs: ' + str(len(blognames))
+# print 'number of words: ' + str(len(words))
 
+wordsums={}
+
+for j in range(len(words)):
+	sum = 0
+	for i in range (len(blognames)):
+		sum = sum + data[i][j]
+	# print words[j] + ' ' + str(sum)
+	wordsums[j] = int(sum)
+	
+# print wordsums
+
+a = sorted(wordsums, key=wordsums.get, reverse=True)[0:500]
+
+# print (len(a))
+
+# print a
+
+print 'Blog',
+
+for m in range(len(words)):
+	if m in a:
+		print words[m] + '\t',
+print
+
+for i in range(len(blognames)):
+	print blognames[i] + '\t',
+		
+	for j in range(len(words)):
+		if j in a:
+			print str(int(data[i][j])) + '\t',
+			
+	print
