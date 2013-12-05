@@ -9,7 +9,7 @@ sys.path.insert(0, '/Users/vneblitt/Documents/cs595-f13/assignment09/library')
 
 import clusters
 
-blognames,words,data=clusters.readfile('blogdata1.txt')
+blognames,words,data=clusters.readfile('blogdata.txt')
 
 # row
 # print 'blog name: ' + blognames[0]
@@ -44,14 +44,14 @@ print 'Blog',
 
 for m in range(len(words)):
 	if m in a:
-		print words[m] + '\t',
+		print '\t' + words[m],
 print
 
 for i in range(len(blognames)):
-	print blognames[i] + '\t',
+	print blognames[i],
 		
 	for j in range(len(words)):
 		if j in a:
-			print str(int(data[i][j])) + '\t',
+			print '\t' + str(int(data[i][j])),
 			
 	print

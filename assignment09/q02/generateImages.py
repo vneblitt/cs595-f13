@@ -10,7 +10,7 @@ sys.path.insert(0, '/Users/vneblitt/Documents/cs595-f13/assignment09/library')
 import clusters
 
 # Create clusters
-blognames,words,data=clusters.readfile('blogdata1.txt')
+blognames,words,data=clusters.readfile('/Users/vneblitt/Documents/cs595-f13/assignment09/q01/blogdata1.txt')
 clust=clusters.hcluster(data)
 
 # Create ASCII dendrogram
