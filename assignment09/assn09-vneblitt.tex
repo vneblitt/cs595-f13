@@ -83,7 +83,7 @@ It is quite difficult to see Figure \ref{blogclust}, but a selected close-up (se
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.50]{q02/musicblogs}
-\caption{Blogs about Music}
+\caption{Music Blogs in Dendrogram}
 \label{musicblogs}
 \end{figure}
 
@@ -153,7 +153,7 @@ When I first ran the code, I encounter a divide-by-zero error that would not all
 \item All Scattered
 \end{itemize}
 
-I ran into this problem earlier when I had only managed to get 60 terms from Q1 and I thought I would not encounter this problem since I included the summaries and descriptions had achieved 3200+ terms and then reduced the terms down to the 500 most frequent.
+I ran into this problem earlier when I had only managed to get 60 terms from Q1. I thought I would not encounter this problem since I included the summaries and descriptions had achieved 3200+ terms and then reduced the terms down to the 500 most frequent.
 
 \begin{lstlisting}[frame=single, caption=getMDS.py, label=getMDS]
 import sys
@@ -168,7 +168,7 @@ coords=clusters.scaledown(data)
 clusters.draw2d(coords,blognames,jpeg='blogs2d.jpg')
 \end{lstlisting}
 
-I examined blogs listed near F-Measure in the close-up (Figure \ref{musicMDS}) and saw some of the same ones in the JPEG dendrogram, but I also saw a few that were not included.
+I examined blogs listed near F-Measure in the close-up (Figure \ref{musicMDS}) and saw most of the same ones in the JPEG dendrogram. P-Money was a new one. The MDS took 177 iterations (Listing \ref{MDSoutput}).
 
 \begin{figure}[H]
 \centering
@@ -177,14 +177,15 @@ I examined blogs listed near F-Measure in the close-up (Figure \ref{musicMDS}) a
 \label{musicMDS}
 \end{figure}
 
-%\begin{figure}[H]
-%\centering
-%\includegraphics[scale=0.20]{q04/blogs2d}
-%\caption{Multi-Dimenional Scaling}
-%\label{blogs2d}
-%\end{figure}
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.20]{q04/blogs2d}
+\caption{Multi-Dimenional Scaling}
+\label{blogs2d}
+\end{figure}
 
 \newpage
+
 \section*{Question 5 - Extra Credit (5 points)}
 Re-run Q2, but this time with proper TFIDF calculations instead of the hack discussed on slide 7 (p. 32). Use the same 500 words, but this time replace their frequency count with TFIDF scores as computed in assignment \#3. Document the code, techniques, methods, etc. used to generate these TFIDF values. Upload the new file to GitHub. \\
 
@@ -230,7 +231,7 @@ Not attempted.
 \newpage
 \appendix
 
-\section{Full Version of getFeedList.py}
+\section{getFeedList.py}
 
 \begin{lstlisting}[frame=single, caption=getFeedList.py, label=getFeedList]
 
@@ -282,7 +283,7 @@ f.close()
 
 \end{lstlisting}
 
-\section{Full Version of generatefeedvector.py}
+\section{generatefeedvector.py}
 
 \begin{lstlisting}[frame=single, caption=generatefeedvector.py, label=generatefeedvector]
 import feedparser
@@ -351,7 +352,7 @@ for blog,wc in wordcounts.items():
   out.write('\n')
 \end{lstlisting}
 
-\section{Full Version of reduceTerms.py}
+\section{reduceTerms.py}
 
 \begin{lstlisting}[frame=single, caption=reduceTerms.py, label=reduceTerms]
 import sys
@@ -408,7 +409,7 @@ for i in range(len(blognames)):
 	print
 \end{lstlisting}
 
-\section{Full Version of clusters.py}
+\section{clusters.py}
 
 This code is used for Q2, Q3, and Q4.
 
@@ -814,6 +815,188 @@ Iteration 96
 Iteration 97
 Iteration 98
 Iteration 99
+\end{lstlisting}
+
+\section{Output from getMDS.py}
+
+\begin{lstlisting}[frame=single, caption=MDSoutput.txt, label=MDSoutput]
+4303.48133321
+3263.8719182
+3229.08048926
+3213.98144395
+3205.42081727
+3198.88211785
+3193.3356909
+3187.77342166
+3183.3231479
+3179.40667134
+3175.22192384
+3170.96960085
+3166.96684257
+3163.62276825
+3160.56855218
+3158.19659115
+3155.76372143
+3153.26828583
+3150.5325113
+3147.91489254
+3145.35701557
+3143.14598618
+3141.1417931
+3139.17432119
+3137.07921751
+3135.07605846
+3133.20975681
+3131.44888509
+3129.43360402
+3127.56953291
+3125.71742972
+3123.74010891
+3121.64718565
+3119.52399267
+3117.32009215
+3115.08579695
+3112.48797983
+3109.92562616
+3107.47776269
+3104.91067682
+3102.4132777
+3100.1425645
+3097.86818486
+3095.52047081
+3093.19536232
+3090.81342075
+3088.24281394
+3085.46256414
+3082.4847589
+3079.59424177
+3076.24654797
+3072.80617316
+3069.05803098
+3065.2499318
+3062.08903586
+3058.99554788
+3055.93645095
+3052.33362152
+3048.77735069
+3045.58887204
+3042.1009157
+3038.91053247
+3036.1025499
+3033.23462166
+3030.01657225
+3026.68130791
+3023.3538693
+3020.07480977
+3016.85469822
+3013.67243951
+3010.84137323
+3008.21244992
+3005.64359536
+3003.48349187
+3001.37717612
+2999.3523348
+2997.68075277
+2995.95737554
+2994.18375677
+2992.20897228
+2990.35136582
+2988.61789689
+2986.95074538
+2985.34421086
+2983.81342635
+2982.43393729
+2981.08756679
+2979.65893465
+2978.28724285
+2976.92891057
+2975.42200734
+2973.8024168
+2972.26218378
+2970.76691141
+2969.21264155
+2967.43755513
+2965.61122354
+2963.65379455
+2961.78272151
+2960.33339597
+2958.99112838
+2957.61339024
+2956.2869599
+2955.1847749
+2954.19000499
+2953.21354625
+2952.15353013
+2950.93640415
+2949.82195712
+2948.77665761
+2947.9995648
+2947.27419277
+2946.63124613
+2945.89654206
+2945.21428297
+2944.39980467
+2943.36331896
+2942.35265457
+2941.35613863
+2940.46244284
+2939.66125461
+2938.84023767
+2937.92341992
+2937.01553795
+2936.16134311
+2935.39602156
+2934.76968578
+2934.04277107
+2933.31445777
+2932.5954256
+2931.78290188
+2930.88014992
+2929.94347925
+2929.16075115
+2928.53948347
+2927.97822488
+2927.51401586
+2927.05985204
+2926.56553965
+2926.07524921
+2925.61746815
+2925.32387562
+2925.09225605
+2924.85919982
+2924.59414414
+2924.36902247
+2924.14572214
+2923.88588256
+2923.6019601
+2923.36306561
+2923.25188994
+2923.12576899
+2922.9102469
+2922.6242511
+2922.35262929
+2922.09895422
+2921.94417344
+2921.84972487
+2921.7352673
+2921.61015403
+2921.46562313
+2921.24943948
+2921.03583087
+2920.78589764
+2920.68330467
+2920.65963508
+2920.60454956
+2920.56112372
+2920.54432748
+2920.52590698
+2920.49261074
+2920.44941975
+2920.41992387
+2920.36934944
+2920.3172678
+2920.26764289
+2920.28033497
 \end{lstlisting}
 
 \newpage
