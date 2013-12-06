@@ -37,8 +37,7 @@ and grab 98 more as per the method shown in class. \\
 Use the blog title as the identifier for each blog (and row of the matrix). Use the terms from every item/title (RSS) or entry/title (Atom) for the columns of the matrix. The values are the frequency of occurrence. Essentially you are replicating the format of the ``blogdata.txt'' file included with the PCI book code. Limit the number of terms to the most ``popular'' (i.e., frequent) 500 terms, this is \textbf{after} the criteria on p. 32 (slide 7) has been satisfied.
 
 \subsection*{Answer to Question 1}
-Use the book here \cite{pci}
-
+For this question, I had to use three scripts (1) getFeedList.py, (2) generatefeedvector.py and (3) reduceTerms.py. 
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.50]{q01/FlowForQ1}
@@ -46,11 +45,20 @@ Use the book here \cite{pci}
 \label{FlowForQ1}
 \end{figure}
 
+In Listing \ref{getFeedList} (getFeedList.py), I ``manually'' added F-Measure and the WS-DL blogs, but creating the empty list feedlist and added those two blogs first. I then used the link for next blog \url{http://www.blogger.com/next-blog?navBar=true&blogID=3471633091411211117} in a while loop to create a list of random blogs. I capture the atom feed uri using BeautifulSoup. I had to include the sleep function since my script stopped running before reaching even 10 blogs. I added the ``?max-results=200'' to each uri so that it would grab at most 200 entries. This script produced feedlist.txt as an output.
+
+I used generatefeedvector.py (Listing \ref{generatefeedvector}) from the book \cite{pci}. I had to make minimal changes to it in order to handle an encoding error I had encountered. Some blog titles had special characters like the copyright symbol and there was one blog with a title written in Chinese. This script accepted feedlist.txt as an input and produced blogdata.txt as an output. My term output was approximately 3200 terms.
+
+The final part of the problem was to take the 3200+ terms and reduce it to the 500 most frequent terms. In listing \ref{reduceTerms} (reduceTerms.py), 
+I imported clusters.py in order to read in the blogdata.txt file. I then created an empty dictionary to store the sums of the term occurrences. I looped through the words which served as columns and summed the frequency. I then reverse sorted the dictionary and limited to the first 500 terms. Next I eliminate all the other terms from the matrix by only including terms that were found in the reverse sorted limited collection.
+
 \newpage
 \section*{Question 2}
 Create an ASCII and JPEG dendrogram that clusters (i.e., HAC) the most similar blogs (see slides 12 \& 13). Include the JPEG in your report and upload the ASCII file to GitHub (it will be too unwieldy for inclusion in the report.)
 
 \subsection*{Answer to Question 2}
+
+To answer this question, I relied on clusters.py and used the code samples from page 37 and page 40 of the book \cite{pci} and included them generateImages.py (Listing \ref{generateImages}). The ASCII dendrogram is located in GitHub at \url{https://github.com/vneblitt/cs595-f13/blob/master/assignment09/q02/blogclustascii.txt}. The JPEG dendrogram using Python Imaging Library (PIL) is Figure \ref{blogclust}.
 
 \begin{lstlisting}[frame=single, caption=generateImages.py, label=generateImages]
 import sys
@@ -70,6 +78,15 @@ clusters.printclust(clust,labels=blognames)
 clusters.drawdendrogram(clust,blognames,jpeg='blogclust.jpg')
 \end{lstlisting}
 
+It is quite difficult to see Figure \ref{blogclust}, but a selected close-up (see Figure \ref{musicblogs}) shows that some of the clustering was moderately successful. 
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.50]{q02/musicblogs}
+\caption{Blogs about Music}
+\label{musicblogs}
+\end{figure}
+
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.30]{q02/blogclust}
@@ -77,11 +94,15 @@ clusters.drawdendrogram(clust,blognames,jpeg='blogclust.jpg')
 \label{blogclust}
 \end{figure}
 
+
+
 \newpage
 \section*{Question 3}
 Cluster the blogs using K-Means, using k=5, 10, 20 (see slide 18). How many iterations were required for each value of k?
 
 \subsection*{Answer to Question 3}
+
+To answer this question, I again relied on clusters.py and used the code samples from page 44 of the book \cite{pci} and included them getKMeans.py (Listing \ref{getKMeans}). I ran this a few times and got different results each time. Segaran explains this in Chapter 3, ``Because this function uses random centroids to start with, the order of the results retired will almost always be different. It's also possible for the contents of the clusters to be different depending on the initial locations of the centroids.''\cite{pci} Listing \ref{kmeansoutput} shows the actual output of the script and Table 1 shows the summary data.
 
 \begin{lstlisting}[frame=single, caption=getKMeans.py, label=getKMeans]
 import sys
@@ -121,7 +142,7 @@ Use MDS to create a JPG of the blogs similar to slide 29. How many iterations we
 
 \subsection*{Answer to Question 4}
 
-I had to reduce the MDS image down to 20\% in order to include it in this report, but that makes it too hard to read. The full one is located in GitHub at \url{https://github.com/vneblitt/cs595-f13/blob/master/assignment09/q04/blogs2d.jpg}
+I had to reduce the MDS image down to 20\% in order to include it in this report, but that makes it too hard to read (see Figure \ref{blogs2d}). The full one is located in GitHub at \url{https://github.com/vneblitt/cs595-f13/blob/master/assignment09/q04/blogs2d.jpg}.
 
 When I first ran the code, I encounter a divide-by-zero error that would not allow the code to fully execute. I had to remove the following four blogs from the blog-term matrix since their entire row in the matrix contained zeros.
 
@@ -147,12 +168,21 @@ coords=clusters.scaledown(data)
 clusters.draw2d(coords,blognames,jpeg='blogs2d.jpg')
 \end{lstlisting}
 
+I examined blogs listed near F-Measure in the close-up (Figure \ref{musicMDS}) and saw some of the same ones in the JPEG dendrogram, but I also saw a few that were not included.
+
 \begin{figure}[H]
 \centering
-\includegraphics[scale=0.20]{q04/blogs2d}
-\caption{Multi-Dimenional Scaling}
-\label{blogs2d}
+\includegraphics[scale=0.50]{q04/musicMDS}
+\caption{Music Blogs with MDS}
+\label{musicMDS}
 \end{figure}
+
+%\begin{figure}[H]
+%\centering
+%\includegraphics[scale=0.20]{q04/blogs2d}
+%\caption{Multi-Dimenional Scaling}
+%\label{blogs2d}
+%\end{figure}
 
 \newpage
 \section*{Question 5 - Extra Credit (5 points)}
